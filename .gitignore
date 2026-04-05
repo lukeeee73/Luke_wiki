@@ -1,0 +1,10 @@
+# Obsidian
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/plugins/
+.obsidian/hotkeys.json
+.obsidian/core-plugins-migration.json
+
+# OS
+.DS_Store
+Thumbs.db
