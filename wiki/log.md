@@ -6,9 +6,35 @@ tags: [log, meta]
 sources: []
 ---
 
+
 # Wiki Log
 
 위키의 모든 작업 이력을 시간순으로 기록합니다.
+
+---
+
+## 2026-04-05 (2차 업데이트)
+
+### [INGEST] Anthropic 하니스 엔지니어링 블로그 포스트
+
+- **작업**: Anthropic 엔지니어링 블로그 2편 수집 및 위키 통합
+- **원본 URL 1**: https://www.anthropic.com/engineering/harness-design-long-running-apps
+- **원본 URL 2**: https://www.anthropic.com/engineering/effective-harnesses-for-long-running-agents
+- **생성된 파일**:
+  - `sources/anthropic-harness-design-long-running-apps.md` - 원본 자료 요약
+  - `wiki/topics/anthropic-harness-engineering.md` - 두 블로그 포스트 통합 분석
+  - `wiki/concepts/agent-harness.md` - 에이전트 하니스 개념 페이지
+  - `wiki/concepts/generator-evaluator-loop.md` - Generator-Evaluator 루프 개념 페이지
+- **업데이트된 파일**:
+  - `wiki/entities/anthropic.md` - 하니스 엔지니어링 섹션 추가
+  - `wiki/index.md` - 신규 페이지 3개 추가
+- **주요 내용**:
+  1. GAN에서 영감받은 Planner-Generator-Evaluator 3-에이전트 하니스 설계
+  2. Evaluator가 Playwright MCP로 실행 중인 앱 직접 테스트 (정적 코드 검토 대신)
+  3. 프론트엔드 평가 기준 분해: 디자인 품질·독창성·장인정신·기능성
+  4. 성능 비교: Solo($9, 20분) vs Full Harness($200, 6시간) — 완성도에서 큰 차이
+  5. 멀티 세션 연속성 패턴: claude-progress.txt, feature_list.json, init.sh
+  6. 모델 발전에 따른 하니스 단순화 경향 (Opus 4.5 이후)
 
 ---
 

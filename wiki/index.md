@@ -6,6 +6,7 @@ tags: [index, meta]
 sources: []
 ---
 
+
 # Wiki Index
 
 위키의 전체 페이지 카탈로그입니다. 새로운 페이지가 추가되거나 수정될 때마다 업데이트됩니다.
@@ -15,6 +16,8 @@ sources: []
 - [LLM Wiki 패턴](concepts/llm-wiki-pattern.md) - LLM을 활용한 개인 지식 베이스 구축 패턴
 - [Claude Code](concepts/claude-code.md) - Anthropic의 AI 코딩 에이전트 및 2026년 소스 유출 사건
 - [음성 기반 AI](concepts/voice-based-ai.md) - 음성 UI와 Voice Stack 기술 동향
+- [에이전트 하니스](concepts/agent-harness.md) - LLM 에이전트 제어 구조 및 설계 패턴
+- [Generator-Evaluator 루프](concepts/generator-evaluator-loop.md) - GAN에서 영감받은 반복적 품질 향상 패턴
 
 ## Entities (엔티티)
 
@@ -28,6 +31,7 @@ sources: []
 ## Topics (주제)
 
 - [The Batch Issue 347](topics/the-batch-issue-347.md) - Claude Code 유출, Sora 종료, Lyria 3, Marble (2026-04)
+- [Anthropic 하니스 엔지니어링](topics/anthropic-harness-engineering.md) - Planner-Generator-Evaluator 3-에이전트 하니스, 장기 실행 에이전트 설계 (2026-04)
 
 ## Comparisons (비교)
 
