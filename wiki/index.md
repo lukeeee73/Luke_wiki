@@ -13,14 +13,21 @@ sources: []
 ## Concepts (개념)
 
 - [LLM Wiki 패턴](concepts/llm-wiki-pattern.md) - LLM을 활용한 개인 지식 베이스 구축 패턴
+- [Claude Code](concepts/claude-code.md) - Anthropic의 AI 코딩 에이전트 및 2026년 소스 유출 사건
+- [음성 기반 AI](concepts/voice-based-ai.md) - 음성 UI와 Voice Stack 기술 동향
 
 ## Entities (엔티티)
 
 - [Andrej Karpathy](entities/andrej-karpathy.md) - AI 연구자, LLM Wiki 패턴 제안자
+- [Andrew Ng](entities/andrew-ng.md) - DeepLearning.AI 창립자, The Batch 저자
+- [Anthropic](entities/anthropic.md) - Claude, Claude Code 개발사
+- [OpenAI](entities/openai.md) - ChatGPT, Sora, Codex 개발사
+- [Google DeepMind](entities/google-deepmind.md) - Gemini, Lyria 3 개발사
+- [World Labs](entities/world-labs.md) - Marble 생성 월드 모델 개발사 (Fei-Fei Li 창립)
 
 ## Topics (주제)
 
-_아직 등록된 주제 페이지가 없습니다._
+- [The Batch Issue 347](topics/the-batch-issue-347.md) - Claude Code 유출, Sora 종료, Lyria 3, Marble (2026-04)
 
 ## Comparisons (비교)
 
