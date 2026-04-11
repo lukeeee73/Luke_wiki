@@ -60,8 +60,23 @@ Anthropic의 완전한 3-에이전트 하니스:
 
 Anthropic 사례: Opus 4.5 이후 context reset 불필요, Claude Agent SDK 자동 컴팩션으로 전체 빌드를 단일 세션으로 실행 가능.
 
+### 4. 메타-하니스 패턴 (Managed Agents)
+
+플랫폼 수준에서 세션·하니스·샌드박스를 가상화한 구조 (2026-04-08 출시):
+
+- **Session**: append-only 이벤트 로그, 하니스 외부에 영속 저장
+- **Harness**: 무상태 제어 루프, 도구 호출 라우팅
+- **Sandbox**: 지연 프로비저닝 격리 실행 환경
+
+핵심 원칙: "뇌(Claude)와 손(실행환경)의 분리" — 컨테이너는 필요할 때만 프로비저닝됨.
+성능 효과: p50 TTFT 60% 감소, p95 TTFT 90%+ 감소.
+
+상세: [Managed Agents](./managed-agents.md)
+
 ## 관련 페이지
 
 - [Generator-Evaluator 루프](./generator-evaluator-loop.md)
+- [Managed Agents](./managed-agents.md)
 - [Anthropic 하니스 엔지니어링](../topics/anthropic-harness-engineering.md)
+- [Anthropic Managed Agents](../topics/anthropic-managed-agents.md)
 - [Claude Code](./claude-code.md)
