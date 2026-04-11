@@ -13,6 +13,33 @@ sources: []
 
 ---
 
+## 2026-04-11 (3차 업데이트)
+
+### [INGEST] Ray Dalio "The Big Thing: We Are In A World War" LinkedIn 아티클
+
+- **작업**: Ray Dalio의 LinkedIn/Substack 장문 분석 수집 및 위키 통합
+- **원본 URL**: https://www.linkedin.com/pulse/big-thing-we-world-war-isnt-going-end-anytime-soon-ray-dalio-sbrqe
+- **Substack URL**: https://raydalio.substack.com/p/the-big-thing-we-are-in-a-world-war
+- **원본 발행일**: 2026-04-07 (추정)
+- **수집 방법**: LinkedIn 직접 접근 불가(403)로 다수 매체 보도 종합 (Time, Yahoo Finance, Benzinga, IBTimes 등)
+- **생성된 파일**:
+  - `sources/ray-dalio-world-war-big-thing.md` - 원본 자료 종합 요약
+  - `wiki/topics/ray-dalio-world-war-big-cycle.md` - 세계대전과 Big Cycle 분석 주제 페이지
+  - `wiki/entities/ray-dalio.md` - Ray Dalio 엔티티 페이지
+  - `wiki/concepts/big-cycle.md` - Big Cycle (대순환) 개념 페이지
+- **업데이트된 파일**:
+  - `wiki/index.md` - 신규 페이지 3개 추가 (concepts 1, entities 1, topics 1)
+- **주요 내용**:
+  1. 세계는 이미 세계대전 상태: 4개의 실전(러시아-우크라이나, 이스라엘-가자, 예멘-수단, 미국-이란) + 다수의 비실전(무역·경제·기술전)
+  2. Big Cycle 13단계 중 9단계(동시다발적 다전역 분쟁)에 위치, 1913-14년·1938-39년과 유사
+  3. 동맹 양극화: 중국·러시아·이란·북한 vs 미국·유럽·이스라엘·GCC·일본·호주
+  4. 미국 과잉 확장: 750-800개 해외 기지(70-80개국) vs 중국 1개
+  5. 확률 평가: 5년 내 주요 분쟁 >50%, 미중 충돌 30-40% (최고 위험: 2028년)
+  6. 시장은 이러한 지정학적 리스크를 전혀 가격에 반영하지 않고 있음
+- **비고**: 위키 최초의 지정학/매크로 경제 분야 자료. 기존 AI/ML 중심에서 주제 다양화.
+
+---
+
 ## 2026-04-11 (2차 업데이트)
 
 ### [INGEST] Anthropic 인프라 노이즈 블로그 포스트

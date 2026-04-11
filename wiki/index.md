@@ -20,6 +20,7 @@ sources: []
 - [Generator-Evaluator 루프](concepts/generator-evaluator-loop.md) - GAN에서 영감받은 반복적 품질 향상 패턴
 - [Managed Agents](concepts/managed-agents.md) - Anthropic의 호스팅 에이전트 인프라, 뇌와 손의 분리 (2026-04)
 - [에이전트 Eval 방법론](concepts/agentic-evals.md) - 에이전트 코딩 평가 방법론, 인프라 노이즈 문제 (2026-02)
+- [Big Cycle (대순환)](concepts/big-cycle.md) - Ray Dalio의 거시적 역사 순환 프레임워크, 13단계 전쟁 에스컬레이션 모델
 
 ## Entities (엔티티)
 
@@ -29,6 +30,7 @@ sources: []
 - [OpenAI](entities/openai.md) - ChatGPT, Sora, Codex 개발사
 - [Google DeepMind](entities/google-deepmind.md) - Gemini, Lyria 3 개발사
 - [World Labs](entities/world-labs.md) - Marble 생성 월드 모델 개발사 (Fei-Fei Li 창립)
+- [Ray Dalio](entities/ray-dalio.md) - Bridgewater Associates 창립자, Big Cycle 프레임워크 개발자
 
 ## Topics (주제)
 
@@ -36,6 +38,7 @@ sources: []
 - [Anthropic 하니스 엔지니어링](topics/anthropic-harness-engineering.md) - Planner-Generator-Evaluator 3-에이전트 하니스, 장기 실행 에이전트 설계 (2026-04)
 - [Anthropic Managed Agents](topics/anthropic-managed-agents.md) - Session·Harness·Sandbox 가상화, 뇌와 손의 분리, Claude Agent SDK 출시 (2026-04)
 - [Anthropic 에이전트 Eval 인프라 노이즈](topics/anthropic-infrastructure-noise.md) - Terminal-Bench 6pp 격차, 안정성/역량 효과 구분, 리더보드 신뢰 기준 (2026-02)
+- [Ray Dalio - 세계대전과 Big Cycle 분석](topics/ray-dalio-world-war-big-cycle.md) - 세계대전 진입 경고, 13단계 중 9단계, 1938년 유사성 (2026-04)
 
 ## Comparisons (비교)
 
