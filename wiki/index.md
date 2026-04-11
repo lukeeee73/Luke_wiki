@@ -46,4 +46,4 @@ sources: []
 
 ## Syntheses (종합)
 
-_아직 등록된 종합 페이지가 없습니다._
+- [Generator-Evaluator 웹 디자인 적용](syntheses/generator-evaluator-web-design.md) - 모바일 Claude Code + 웹 Claude 환경에서 Generator-Evaluator 루프로 웹 디자인 품질 향상하기

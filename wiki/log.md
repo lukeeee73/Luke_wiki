@@ -13,6 +13,30 @@ sources: []
 
 ---
 
+## 2026-04-11 (4차 업데이트)
+
+### [SYNTHESIS] Generator-Evaluator 루프의 웹 디자인 적용
+
+- **작업**: 위키의 Generator-Evaluator 관련 페이지들을 종합하여, 모바일 Claude Code + 웹 Claude 환경에서 웹 디자인에 적용하는 방법론 정리
+- **참조 위키 페이지**:
+  - `wiki/concepts/generator-evaluator-loop.md`
+  - `wiki/topics/anthropic-harness-engineering.md`
+  - `wiki/concepts/agent-harness.md`
+- **생성된 파일**:
+  - `wiki/syntheses/generator-evaluator-web-design.md` - 위키 최초 종합 분석 페이지
+- **업데이트된 파일**:
+  - `wiki/index.md` - Syntheses 섹션에 신규 페이지 추가
+- **주요 내용**:
+  1. Human-Bridged Generator-Evaluator 아키텍처: 웹 Claude(Planner/Evaluator) + 모바일 Claude Code(Generator) + 사용자(Bridge)
+  2. Playwright 자동화 대신 스크린샷 기반 시각적 평가 워크플로우
+  3. 검증 가능한 평가 루브릭 설계 (레이아웃, 타이포그래피, 색상, 반응형, AI 슬롭 부재, 기능 작동)
+  4. 스프린트 단위 점진적 생성 → 배포 → 평가 → 피드백 루프
+  5. claude-progress.txt 패턴으로 세션 간 컨텍스트 유지
+  6. Anthropic 원본 대비 장단점 분석 (비용 효율 vs 수동 Bridge 부담)
+- **비고**: 위키 최초 Syntheses 페이지. 기존 개념/주제 페이지를 특정 실전 상황에 적용하는 종합 분석.
+
+---
+
 ## 2026-04-11 (3차 업데이트)
 
 ### [INGEST] Ray Dalio "The Big Thing: We Are In A World War" LinkedIn 아티클
