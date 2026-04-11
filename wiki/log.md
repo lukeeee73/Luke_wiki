@@ -1,7 +1,7 @@
 ---
 title: "Wiki Log"
 created: 2026-04-05
-updated: 2026-04-05
+updated: 2026-04-11
 tags: [log, meta]
 sources: []
 ---
@@ -10,6 +10,32 @@ sources: []
 # Wiki Log
 
 위키의 모든 작업 이력을 시간순으로 기록합니다.
+
+---
+
+## 2026-04-11
+
+### [INGEST] Anthropic Managed Agents 블로그 포스트
+
+- **작업**: Anthropic 엔지니어링 블로그 "Scaling Managed Agents: Decoupling the brain from the hands" 수집 및 위키 통합
+- **원본 URL**: https://www.anthropic.com/engineering/managed-agents
+- **원본 발행일**: 2026-04-08
+- **생성된 파일**:
+  - `sources/anthropic-managed-agents.md` - 원본 자료 요약
+  - `wiki/topics/anthropic-managed-agents.md` - 블로그 포스트 통합 분석
+  - `wiki/concepts/managed-agents.md` - Managed Agents 개념 페이지
+- **업데이트된 파일**:
+  - `wiki/concepts/agent-harness.md` - 메타-하니스 패턴 섹션 추가
+  - `wiki/entities/anthropic.md` - Managed Agents 출시 섹션 추가, 제품 목록 업데이트
+  - `wiki/index.md` - 신규 페이지 2개 추가
+- **주요 내용**:
+  1. Managed Agents = Session·Harness·Sandbox 3요소 가상화 → "뇌(Claude)와 손(실행환경) 분리"
+  2. 지연 프로비저닝으로 p50 TTFT 60%↓, p95 TTFT 90%+↓ 성능 개선
+  3. Session: append-only 이벤트 로그, `getEvents()`로 위치 기반 컨텍스트 조회
+  4. 메타-하니스 철학: 인터페이스(session + sandbox)에만 의견, 특정 하니스에는 무관심
+  5. 멀티-에이전트: 서브에이전트(동일 세션) vs 에이전트 팀(독립 컨텍스트)
+  6. Claude Code SDK → Claude Agent SDK로 이름 변경
+  7. 서비스: 공개 베타, $0.08/세션시간 + 표준 토큰 비용
 
 ---
 

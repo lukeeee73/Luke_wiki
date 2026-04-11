@@ -1,9 +1,9 @@
 ---
 title: "Anthropic"
 created: 2026-04-05
-updated: 2026-04-05
-tags: [anthropic, AI-company, Claude, coding-agent, agent-harness]
-sources: [sources/the-batch-issue-347.md, sources/anthropic-harness-design-long-running-apps.md]
+updated: 2026-04-11
+tags: [anthropic, AI-company, Claude, coding-agent, agent-harness, managed-agents]
+sources: [sources/the-batch-issue-347.md, sources/anthropic-harness-design-long-running-apps.md, sources/anthropic-managed-agents.md]
 ---
 
 # Anthropic
@@ -14,6 +14,8 @@ AI 안전 연구 회사. Claude 언어 모델 및 Claude Code 코딩 에이전�
 
 - **Claude**: 대형 언어 모델 시리즈
 - **Claude Code**: AI 코딩 에이전트 ([상세 페이지](../concepts/claude-code.md))
+- **Managed Agents**: 호스팅 에이전트 인프라 서비스 ([상세 페이지](../concepts/managed-agents.md))
+- **Claude Agent SDK**: 에이전트 개발 SDK (구 Claude Code SDK)
 
 ## 주요 사건
 
@@ -34,10 +36,21 @@ AI 안전 연구 회사. Claude 언어 모델 및 Claude Code 코딩 에이전�
 - 멀티 세션 연속성: `claude-progress.txt`, `feature_list.json`, `init.sh`로 context 재시작 문제 해결
 - 상세 내용: [Anthropic 하니스 엔지니어링](../topics/anthropic-harness-engineering.md)
 
+### Managed Agents 출시 (2026-04-08)
+
+- 에이전트 세션·하니스·샌드박스를 가상화한 호스팅 인프라 서비스 공개
+- 핵심 개념: "뇌(Claude)와 손(실행환경)의 분리" — 지연 프로비저닝으로 p50 TTFT 60%↓, p95 TTFT 90%+↓
+- Claude Code SDK → **Claude Agent SDK**로 이름 변경 (더 광범위한 에이전트 역량 반영)
+- 서브에이전트(동일 세션) / 에이전트 팀(독립 컨텍스트) 두 멀티-에이전트 패턴 지원
+- 가격: 세션 시간당 $0.08 + 표준 API 토큰 비용; 모든 API 계정 공개 베타
+- 상세 내용: [Anthropic Managed Agents](../topics/anthropic-managed-agents.md)
+
 ## 관련 페이지
 
 - [Claude Code](../concepts/claude-code.md)
+- [Managed Agents](../concepts/managed-agents.md)
 - [에이전트 하니스](../concepts/agent-harness.md)
 - [Generator-Evaluator 루프](../concepts/generator-evaluator-loop.md)
 - [Anthropic 하니스 엔지니어링](../topics/anthropic-harness-engineering.md)
+- [Anthropic Managed Agents](../topics/anthropic-managed-agents.md)
 - [The Batch Issue 347](../topics/the-batch-issue-347.md)
