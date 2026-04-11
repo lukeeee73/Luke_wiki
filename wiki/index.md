@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 created: 2026-04-05
-updated: 2026-04-05
+updated: 2026-04-11
 tags: [index, meta]
 sources: []
 ---
@@ -18,6 +18,7 @@ sources: []
 - [음성 기반 AI](concepts/voice-based-ai.md) - 음성 UI와 Voice Stack 기술 동향
 - [에이전트 하니스](concepts/agent-harness.md) - LLM 에이전트 제어 구조 및 설계 패턴
 - [Generator-Evaluator 루프](concepts/generator-evaluator-loop.md) - GAN에서 영감받은 반복적 품질 향상 패턴
+- [Managed Agents](concepts/managed-agents.md) - Anthropic의 호스팅 에이전트 인프라, 뇌와 손의 분리 (2026-04)
 
 ## Entities (엔티티)
 
@@ -32,6 +33,7 @@ sources: []
 
 - [The Batch Issue 347](topics/the-batch-issue-347.md) - Claude Code 유출, Sora 종료, Lyria 3, Marble (2026-04)
 - [Anthropic 하니스 엔지니어링](topics/anthropic-harness-engineering.md) - Planner-Generator-Evaluator 3-에이전트 하니스, 장기 실행 에이전트 설계 (2026-04)
+- [Anthropic Managed Agents](topics/anthropic-managed-agents.md) - Session·Harness·Sandbox 가상화, 뇌와 손의 분리, Claude Agent SDK 출시 (2026-04)
 
 ## Comparisons (비교)
 
