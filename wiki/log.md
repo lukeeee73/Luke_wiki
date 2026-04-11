@@ -13,6 +13,29 @@ sources: []
 
 ---
 
+## 2026-04-11 (2차 업데이트)
+
+### [INGEST] Anthropic 인프라 노이즈 블로그 포스트
+
+- **작업**: Anthropic 엔지니어링 블로그 "Quantifying infrastructure noise in agentic coding evals" 수집 및 위키 통합
+- **원본 URL**: https://www.anthropic.com/engineering/infrastructure-noise
+- **원본 발행일**: 2026-02
+- **생성된 파일**:
+  - `sources/anthropic-infrastructure-noise.md` - 원본 자료 요약
+  - `wiki/topics/anthropic-infrastructure-noise.md` - 블로그 포스트 통합 분석
+  - `wiki/concepts/agentic-evals.md` - 에이전트 Eval 방법론 개념 페이지
+- **업데이트된 파일**:
+  - `wiki/entities/anthropic.md` - 인프라 노이즈 연구 섹션 추가
+  - `wiki/index.md` - 신규 페이지 2개 추가
+- **주요 내용**:
+  1. Terminal-Bench 2.0을 GKE에서 6가지 자원 구성으로 실행 → 1x 엄격 ~ 무제한 간 6pp 격차 (p < 0.01)
+  2. 인프라 오류율: 1x 엄격 5.8% → 무제한 0.5% (단조 감소)
+  3. 두 효과 구분: ~3x 이하 = 안정성 효과(spurious failure 제거), ~3x 초과 = 역량 효과(새 문제 풀이 가능)
+  4. 최상위 모델 간 리더보드 격차(1~3pp)가 6pp 노이즈 범위 내 → 인프라 통제 없이 순위 신뢰 불가
+  5. 권고: 자원 구성을 1등급 실험 변수로 문서화; 3pp 이하 격차는 구성 일치 확인 전 유보
+
+---
+
 ## 2026-04-11
 
 ### [INGEST] Anthropic Managed Agents 블로그 포스트

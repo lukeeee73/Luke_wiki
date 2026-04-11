@@ -2,8 +2,8 @@
 title: "Anthropic"
 created: 2026-04-05
 updated: 2026-04-11
-tags: [anthropic, AI-company, Claude, coding-agent, agent-harness, managed-agents]
-sources: [sources/the-batch-issue-347.md, sources/anthropic-harness-design-long-running-apps.md, sources/anthropic-managed-agents.md]
+tags: [anthropic, AI-company, Claude, coding-agent, agent-harness, managed-agents, eval, benchmark]
+sources: [sources/the-batch-issue-347.md, sources/anthropic-harness-design-long-running-apps.md, sources/anthropic-managed-agents.md, sources/anthropic-infrastructure-noise.md]
 ---
 
 # Anthropic
@@ -36,6 +36,15 @@ AI 안전 연구 회사. Claude 언어 모델 및 Claude Code 코딩 에이전�
 - 멀티 세션 연속성: `claude-progress.txt`, `feature_list.json`, `init.sh`로 context 재시작 문제 해결
 - 상세 내용: [Anthropic 하니스 엔지니어링](../topics/anthropic-harness-engineering.md)
 
+### 에이전트 Eval 인프라 노이즈 정량화 (2026-02)
+
+- Terminal-Bench 2.0을 Google Kubernetes Engine에서 6가지 자원 구성으로 실행하여 인프라 구성이 벤치마크 점수에 미치는 영향 정량화
+- **핵심 발견**: 1x 엄격 적용 ~ 무제한 간 6pp 격차 (p < 0.01); 인프라 오류율 5.8% → 0.5% 감소
+- **~3x 이하**: 안정성 효과(spurious failure 제거), **~3x 초과**: 역량 효과(새 문제 풀이 가능화)
+- 최상위 프론티어 모델 간 통상 리더보드 격차(1~3pp)가 6pp 노이즈 범위 내 → 인프라 구성 미통제 시 순위 신뢰 불가
+- 자원 구성을 1등급 실험 변수로 취급하고 문서화할 것 권고
+- 상세 내용: [에이전트 Eval 인프라 노이즈 정량화](../topics/anthropic-infrastructure-noise.md)
+
 ### Managed Agents 출시 (2026-04-08)
 
 - 에이전트 세션·하니스·샌드박스를 가상화한 호스팅 인프라 서비스 공개
@@ -51,6 +60,8 @@ AI 안전 연구 회사. Claude 언어 모델 및 Claude Code 코딩 에이전�
 - [Managed Agents](../concepts/managed-agents.md)
 - [에이전트 하니스](../concepts/agent-harness.md)
 - [Generator-Evaluator 루프](../concepts/generator-evaluator-loop.md)
+- [에이전트 Eval 인프라 노이즈 정량화](../topics/anthropic-infrastructure-noise.md)
+- [에이전트 Eval 방법론](../concepts/agentic-evals.md)
 - [Anthropic 하니스 엔지니어링](../topics/anthropic-harness-engineering.md)
 - [Anthropic Managed Agents](../topics/anthropic-managed-agents.md)
 - [The Batch Issue 347](../topics/the-batch-issue-347.md)

@@ -19,6 +19,7 @@ sources: []
 - [에이전트 하니스](concepts/agent-harness.md) - LLM 에이전트 제어 구조 및 설계 패턴
 - [Generator-Evaluator 루프](concepts/generator-evaluator-loop.md) - GAN에서 영감받은 반복적 품질 향상 패턴
 - [Managed Agents](concepts/managed-agents.md) - Anthropic의 호스팅 에이전트 인프라, 뇌와 손의 분리 (2026-04)
+- [에이전트 Eval 방법론](concepts/agentic-evals.md) - 에이전트 코딩 평가 방법론, 인프라 노이즈 문제 (2026-02)
 
 ## Entities (엔티티)
 
@@ -34,6 +35,7 @@ sources: []
 - [The Batch Issue 347](topics/the-batch-issue-347.md) - Claude Code 유출, Sora 종료, Lyria 3, Marble (2026-04)
 - [Anthropic 하니스 엔지니어링](topics/anthropic-harness-engineering.md) - Planner-Generator-Evaluator 3-에이전트 하니스, 장기 실행 에이전트 설계 (2026-04)
 - [Anthropic Managed Agents](topics/anthropic-managed-agents.md) - Session·Harness·Sandbox 가상화, 뇌와 손의 분리, Claude Agent SDK 출시 (2026-04)
+- [Anthropic 에이전트 Eval 인프라 노이즈](topics/anthropic-infrastructure-noise.md) - Terminal-Bench 6pp 격차, 안정성/역량 효과 구분, 리더보드 신뢰 기준 (2026-02)
 
 ## Comparisons (비교)
 
