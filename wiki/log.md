@@ -1,7 +1,7 @@
 ---
 title: "Wiki Log"
 created: 2026-04-05
-updated: 2026-04-11
+updated: 2026-04-12
 tags: [log, meta]
 sources: []
 ---
@@ -10,6 +10,33 @@ sources: []
 # Wiki Log
 
 위키의 모든 작업 이력을 시간순으로 기록합니다.
+
+---
+
+## 2026-04-12
+
+### [INGEST] Ray Dalio All Weather Portfolio 개인 학습 노트
+
+- **작업**: Ray Dalio의 All Weather Portfolio 프레임워크 학습 노트 수집 및 위키 통합
+- **원본 유형**: 개인 학습 노트 (Luke)
+- **생성된 파일**:
+  - `sources/ray-dalio-all-weather-portfolio.md` - 원본 학습 노트
+  - `wiki/topics/all-weather-portfolio.md` - All Weather Portfolio 주제 페이지
+  - `wiki/concepts/risk-parity.md` - Risk Parity (위험 균형) 개념 페이지
+  - `wiki/concepts/economic-quadrants.md` - 2×2 경제 환경 프레임 개념 페이지
+  - `wiki/concepts/leverage-and-derivatives.md` - 레버리지와 파생상품 개념 페이지
+  - `wiki/syntheses/personal-all-weather-variant.md` - 개인 투자자용 변형 포트폴리오 (최초 syntheses 페이지)
+- **업데이트된 파일**:
+  - `wiki/entities/ray-dalio.md` - All Weather 섹션 추가, 관련 페이지 확장
+  - `wiki/index.md` - 신규 페이지 5개 추가 (concepts 3, topics 1, syntheses 1)
+- **주요 내용**:
+  1. All Weather의 3가지 핵심 아이디어: ① 저상관 자산 결합의 "공짜 점심" ② Risk Parity (위험 기여도 균등) ③ 성장/인플레 2×2 프레임
+  2. 4분면별 유리 자산 매핑: 성장↑인플레↑ (원자재·신흥국) / 성장↑인플레↓ (주식) / 성장↓인플레↑ (TIPS·금) / 성장↓인플레↓ (장기국채)
+  3. 파생상품 메커니즘: 국채 선물(증거금 5%로 20배 레버리지), 금리 스왑(현금흐름만 교환), 레버리지 ETF의 변동성 끌림(100→110→99 = −1%지만 TQQQ는 −9%)
+  4. 개인 투자자용 변형: 레버리지 포기, 채권 55→15%, 금 7.5→15%, 주식 55%로 상향, 4분면 커버리지 유지
+  5. 분면 판단 지표: 성장(PMI·장단기 금리차·실업률), 인플레(BEI·CPI·원유). "절대 수준이 아니라 시장 기대 대비 서프라이즈"
+  6. 한국 투자자 리밸런싱 팁: 매도 시 세금 발생하므로 추가 납입금으로 부족 자산 매수
+- **비고**: 위키의 첫 syntheses 페이지 등록. Ray Dalio 엔티티의 두 번째 자료 (이전 Big Cycle/세계대전 분석에 이어 자산배분 프레임워크 축 추가).
 
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 created: 2026-04-05
-updated: 2026-04-11
+updated: 2026-04-12
 tags: [index, meta]
 sources: []
 ---
@@ -21,6 +21,9 @@ sources: []
 - [Managed Agents](concepts/managed-agents.md) - Anthropic의 호스팅 에이전트 인프라, 뇌와 손의 분리 (2026-04)
 - [에이전트 Eval 방법론](concepts/agentic-evals.md) - 에이전트 코딩 평가 방법론, 인프라 노이즈 문제 (2026-02)
 - [Big Cycle (대순환)](concepts/big-cycle.md) - Ray Dalio의 거시적 역사 순환 프레임워크, 13단계 전쟁 에스컬레이션 모델
+- [Risk Parity (위험 균형)](concepts/risk-parity.md) - 각 자산이 포트폴리오 위험에 기여하는 양을 균등하게 맞추는 자산배분 원리
+- [2×2 경제 환경 프레임](concepts/economic-quadrants.md) - 성장/인플레 4분면 모델, 시장 기대 대비 서프라이즈가 자산 가격을 움직인다
+- [레버리지와 파생상품](concepts/leverage-and-derivatives.md) - 국채 선물·스왑·레버리지 ETF의 메커니즘과 변동성 끌림
 
 ## Entities (엔티티)
 
@@ -39,6 +42,7 @@ sources: []
 - [Anthropic Managed Agents](topics/anthropic-managed-agents.md) - Session·Harness·Sandbox 가상화, 뇌와 손의 분리, Claude Agent SDK 출시 (2026-04)
 - [Anthropic 에이전트 Eval 인프라 노이즈](topics/anthropic-infrastructure-noise.md) - Terminal-Bench 6pp 격차, 안정성/역량 효과 구분, 리더보드 신뢰 기준 (2026-02)
 - [Ray Dalio - 세계대전과 Big Cycle 분석](topics/ray-dalio-world-war-big-cycle.md) - 세계대전 진입 경고, 13단계 중 9단계, 1938년 유사성 (2026-04)
+- [Ray Dalio All Weather Portfolio](topics/all-weather-portfolio.md) - 모든 경제 환경에서 작동하는 자산배분 전략, 상관관계·Risk Parity·4분면 프레임 (2026-04)
 
 ## Comparisons (비교)
 
@@ -46,4 +50,4 @@ sources: []
 
 ## Syntheses (종합)
 
-_아직 등록된 종합 페이지가 없습니다._
+- [개인 투자자용 All Weather 변형 포트폴리오](syntheses/personal-all-weather-variant.md) - 4분면 커버리지는 유지하되 레버리지를 포기하고 성장↑에 약한 가중치를 둔 재설계 (2026-04)
