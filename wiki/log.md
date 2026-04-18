@@ -1,7 +1,7 @@
 ---
 title: "Wiki Log"
 created: 2026-04-05
-updated: 2026-04-12
+updated: 2026-04-18
 tags: [log, meta]
 sources: []
 ---
@@ -10,6 +10,32 @@ sources: []
 # Wiki Log
 
 위키의 모든 작업 이력을 시간순으로 기록합니다.
+
+---
+
+## 2026-04-18
+
+### [INGEST] 디자인 프로세스 기초 학습 노트
+
+- **작업**: 디자이너·PM 협업 방식과 UI/UX 핵심 용어를 정리한 개인 학습 노트 수집 및 위키 통합
+- **원본 유형**: 개인 학습 노트 (Luke) — Claude Design 같은 AI 디자인 도구 활용을 위한 선행 지식
+- **생성된 파일**:
+  - `sources/design-process-basics.md` - 원본 학습 노트
+  - `wiki/topics/design-process-basics.md` - 디자인 프로세스 기초 주제 페이지
+  - `wiki/concepts/design-system.md` - 디자인 시스템 개념 페이지 (Design Tokens·Components·Guidelines)
+  - `wiki/concepts/atomic-design.md` - Atomic Design 방법론 개념 페이지 (Brad Frost 5계층)
+- **업데이트된 파일**:
+  - `wiki/index.md` - 신규 페이지 3개 추가 (concepts 2, topics 1)
+- **주요 내용**:
+  1. 4D 매크로 프로세스: Discovery → Define → Design → Deliver (경제학의 문제 정의 → 모델링 → 실증 → 정책 제언과 구조적 동형)
+  2. 역할 분담: PM(무엇을·왜, PRD) / 디자이너(어떻게, Wireframe·Mockup·Prototype) / 개발자(구현)
+  3. 실무 7단계: User Research → Journey/Flow → IA → Wireframe → Mockup → Prototype → Handoff (뒤로 갈수록 수정 비용 기하급수적 증가)
+  4. 디자인 시스템 3요소: Design Tokens(변수, CSS 변수와 1:1) / Components(조립식 부품) / Guidelines(사용 규칙). 대표 사례: Material Design, Apple HIG, Polaris
+  5. Atomic Design 5계층: Atoms(버튼) → Molecules(검색창) → Organisms(헤더) → Templates(레이아웃) → Pages(실제 화면). Templates까지 추상, Pages부터 구체
+  6. 시각 체계: Typography(font family/weight/line-height/scale), Spacing("8-point grid", 4/8px 배수), Color(Primary/Secondary/Neutral/Semantic)
+  7. 핵심 용어: Hierarchy, White Space, Affordance(Don Norman), Accessibility(WCAG 4.5:1), Responsive(640/768/1024/1280), State(6종 — Default/Hover/Active/Disabled/Loading/Focus)
+  8. AI 디자인 도구의 위치: Wireframe→Mockup→Prototype 구간을 분 단위로 압축. 단, 문제 정의·사용자 관점·비즈니스 정합성 판단은 사람의 영역 — Generator-Evaluator 루프의 또 다른 인스턴스
+- **비고**: 위키 최초의 디자인/UX 분야 자료. 기존 AI·매크로 경제 중심에서 주제 다양화. Generator-Evaluator 루프 개념과 교차 연결.
 
 ---
 
