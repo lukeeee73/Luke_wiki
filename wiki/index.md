@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 created: 2026-04-05
-updated: 2026-04-12
+updated: 2026-04-18
 tags: [index, meta]
 sources: []
 ---
@@ -24,6 +24,8 @@ sources: []
 - [Risk Parity (위험 균형)](concepts/risk-parity.md) - 각 자산이 포트폴리오 위험에 기여하는 양을 균등하게 맞추는 자산배분 원리
 - [2×2 경제 환경 프레임](concepts/economic-quadrants.md) - 성장/인플레 4분면 모델, 시장 기대 대비 서프라이즈가 자산 가격을 움직인다
 - [레버리지와 파생상품](concepts/leverage-and-derivatives.md) - 국채 선물·스왑·레버리지 ETF의 메커니즘과 변동성 끌림
+- [디자인 시스템](concepts/design-system.md) - Design Tokens·Components·Guidelines 3요소 표준화 체계
+- [Atomic Design](concepts/atomic-design.md) - Brad Frost의 Atoms→Molecules→Organisms→Templates→Pages 5계층 방법론
 
 ## Entities (엔티티)
 
@@ -43,6 +45,7 @@ sources: []
 - [Anthropic 에이전트 Eval 인프라 노이즈](topics/anthropic-infrastructure-noise.md) - Terminal-Bench 6pp 격차, 안정성/역량 효과 구분, 리더보드 신뢰 기준 (2026-02)
 - [Ray Dalio - 세계대전과 Big Cycle 분석](topics/ray-dalio-world-war-big-cycle.md) - 세계대전 진입 경고, 13단계 중 9단계, 1938년 유사성 (2026-04)
 - [Ray Dalio All Weather Portfolio](topics/all-weather-portfolio.md) - 모든 경제 환경에서 작동하는 자산배분 전략, 상관관계·Risk Parity·4분면 프레임 (2026-04)
+- [디자인 프로세스 기초](topics/design-process-basics.md) - 4D 프로세스, 7단계 실무 흐름, 디자인 시스템, AI 도구의 위치 (2026-04)
 
 ## Comparisons (비교)
 
