@@ -1,9 +1,9 @@
 ---
 title: "Claude Code"
 created: 2026-04-05
-updated: 2026-04-05
-tags: [claude-code, anthropic, AI-agent, coding-tool, source-leak]
-sources: [sources/the-batch-issue-347.md]
+updated: 2026-04-19
+tags: [claude-code, anthropic, AI-agent, coding-tool, source-leak, session-management, context-window]
+sources: [sources/the-batch-issue-347.md, sources/claude-code-session-management-1m-context.md]
 ---
 
 # Claude Code
@@ -62,7 +62,21 @@ Anthropic이 npm 레지스트리에 버전 2.1.88을 게시하면서 소스 맵(
 ### Auto 모드
 - AI 분류기를 사용하여 도구 권한을 자동으로 승인
 
+## 세션 관리 (2026-04-15)
+
+1M 컨텍스트 GA와 함께 공식 세션 관리 가이드가 발행됐다. 자세한 내용은 [Claude Code 세션 관리와 1M 컨텍스트](../topics/claude-code-session-management.md) 참조.
+
+**컨텍스트 롯(Context Rot)**: 세션이 길어질수록 성능 저하 발생. 5가지 전략으로 대응:
+- **Continue** — 모든 컨텍스트가 여전히 필요한 경우
+- **/rewind** — 잘못된 방향에서 특정 시점으로 복귀
+- **/compact** — 히스토리를 요약으로 교체하며 계속 진행
+- **/clear** — 완전히 새로운 세션 시작
+- **Subagents** — 결론만 필요한 작업을 독립 에이전트에 위임
+
+핵심 판단 기준: *"이 도구 출력이 다시 필요할까, 아니면 결론만 필요할까?"*
+
 ## 관련 페이지
 
 - [Anthropic](../entities/anthropic.md)
 - [The Batch Issue 347](../topics/the-batch-issue-347.md)
+- [Claude Code 세션 관리와 1M 컨텍스트](../topics/claude-code-session-management.md)

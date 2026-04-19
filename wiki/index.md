@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 created: 2026-04-05
-updated: 2026-04-18
+updated: 2026-04-19
 tags: [index, meta]
 sources: []
 ---
@@ -46,6 +46,7 @@ sources: []
 - [Ray Dalio - 세계대전과 Big Cycle 분석](topics/ray-dalio-world-war-big-cycle.md) - 세계대전 진입 경고, 13단계 중 9단계, 1938년 유사성 (2026-04)
 - [Ray Dalio All Weather Portfolio](topics/all-weather-portfolio.md) - 모든 경제 환경에서 작동하는 자산배분 전략, 상관관계·Risk Parity·4분면 프레임 (2026-04)
 - [디자인 프로세스 기초](topics/design-process-basics.md) - 4D 프로세스, 7단계 실무 흐름, 디자인 시스템, AI 도구의 위치 (2026-04)
+- [Claude Code 세션 관리와 1M 컨텍스트](topics/claude-code-session-management.md) - 컨텍스트 롯, 5가지 세션 전략(/rewind·/compact·/clear·Subagents), 판단 기준 (2026-04)
 
 ## Comparisons (비교)
 
