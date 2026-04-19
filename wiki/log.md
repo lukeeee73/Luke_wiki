@@ -1,7 +1,7 @@
 ---
 title: "Wiki Log"
 created: 2026-04-05
-updated: 2026-04-18
+updated: 2026-04-19
 tags: [log, meta]
 sources: []
 ---
@@ -10,6 +10,31 @@ sources: []
 # Wiki Log
 
 위키의 모든 작업 이력을 시간순으로 기록합니다.
+
+---
+
+## 2026-04-19
+
+### [INGEST] Claude Code 세션 관리와 1M 컨텍스트 블로그 포스트
+
+- **작업**: Anthropic 공식 블로그 "Using Claude Code: session management and 1M context" 수집 및 위키 통합
+- **원본 URL**: https://claude.com/blog/using-claude-code-session-management-and-1m-context
+- **저자**: Thariq Shihipar (Anthropic Claude Code 팀, Member of Technical Staff)
+- **원본 발행일**: 2026-04-15
+- **생성된 파일**:
+  - `sources/claude-code-session-management-1m-context.md` - 원본 자료 요약
+  - `wiki/topics/claude-code-session-management.md` - 세션 관리 주제 페이지
+- **업데이트된 파일**:
+  - `wiki/concepts/claude-code.md` - 세션 관리 섹션 추가, 태그·출처 업데이트
+  - `wiki/index.md` - 신규 topics 페이지 1개 추가
+- **주요 내용**:
+  1. 컨텍스트 롯(Context Rot): 세션이 길어질수록 어텐션 분산 → 성능 저하. 1M 창이 만능이 아님
+  2. 5가지 전략: Continue(모두 필요) / /rewind(시점 복귀) / /compact(요약 교체) / /clear(초기화) / Subagents(결론만 위임)
+  3. /compact는 방향 지정 가능: `/compact focus on X, drop Y`
+  4. 서브에이전트: 자체 깨끗한 컨텍스트로 독립 실행 → 결론만 상위에 반환
+  5. 핵심 판단 기준: "이 도구 출력이 다시 필요할까, 아니면 결론만 필요할까?"
+  6. /usage 명령어 함께 출시: 세션 컨텍스트 사용량 확인
+- **비고**: Claude Code 세션 관리의 공식 레퍼런스. 기존 claude-code.md 개념 페이지와 Managed Agents, 에이전트 하니스 페이지와 교차 연결.
 
 ---
 
