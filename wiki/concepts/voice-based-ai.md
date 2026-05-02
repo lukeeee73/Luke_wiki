@@ -2,6 +2,10 @@
 title: "음성 기반 AI (Voice-based AI)"
 created: 2026-04-05
 updated: 2026-04-05
+domain: ai
+type: framework
+weight: reference
+confidence: medium
 tags: [voice-AI, voice-UI, foundation-models, Andrew-Ng, latency, STT, TTS]
 sources: [sources/the-batch-issue-347.md]
 ---

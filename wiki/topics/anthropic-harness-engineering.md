@@ -2,6 +2,10 @@
 title: "Anthropic 하니스 엔지니어링: 장기 실행 앱 설계"
 created: 2026-04-05
 updated: 2026-04-05
+domain: ai
+type: fact-set
+weight: important
+confidence: high
 tags: [anthropic, agent-harness, multi-agent, long-running-agents, generator-evaluator, claude]
 sources: [sources/anthropic-harness-design-long-running-apps.md]
 ---
@@ -58,7 +62,7 @@ AI 에이전트가 점점 더 복잡한 작업을 요청받고 있으며, 이는
 
 ### GAN에서 영감받은 아키텍처
 
-[Generator-Evaluator 루프](../concepts/generator-evaluator-loop.md)는 Generative Adversarial Networks(GAN)에서 영감을 받았다. Generator와 Evaluator가 대립적 피드백 루프를 형성하여 품질을 반복적으로 향상시킨다.
+[Generator-Evaluator 루프](../principles/generator-evaluator-loop.md)는 Generative Adversarial Networks(GAN)에서 영감을 받았다. Generator와 Evaluator가 대립적 피드백 루프를 형성하여 품질을 반복적으로 향상시킨다.
 
 ### 3-에이전트 구조
 
@@ -145,6 +149,6 @@ Generator-Evaluator 루프는 자연스럽게 소프트웨어 개발 생명주�
 ## 관련 페이지
 
 - [에이전트 하니스](../concepts/agent-harness.md)
-- [Generator-Evaluator 루프](../concepts/generator-evaluator-loop.md)
+- [Generator-Evaluator 루프](../principles/generator-evaluator-loop.md)
 - [Anthropic](../entities/anthropic.md)
 - [Claude Code](../concepts/claude-code.md)

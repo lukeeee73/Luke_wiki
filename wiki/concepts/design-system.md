@@ -2,6 +2,10 @@
 title: "디자인 시스템"
 created: 2026-04-18
 updated: 2026-04-18
+domain: design
+type: framework
+weight: important
+confidence: high
 tags: [design, design-system, ui-ux, fundamentals]
 sources: [sources/design-process-basics.md]
 ---

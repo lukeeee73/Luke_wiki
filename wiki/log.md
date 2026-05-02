@@ -15,6 +15,45 @@ sources: []
 
 ## 2026-05-02
 
+## 2026-05-02
+
+### [RESTRUCTURE] 위키 판단 보조 구조로 확장 — 인식론적 계층 + 도메인 인덱스 도입
+
+- **목적**: 단순 지식 저장에서 **판단 보조** 도구로 위키 진화. 투자·AI 관련 의사결정 시 원칙/사실/의견을 구분하고 중요도에 따라 가중치를 둔 정보 종합이 가능하도록 구조화.
+
+- **변경 사항**:
+
+  1. **CLAUDE.md 전면 개정** — 도메인 정의, 인식론적 분류 규칙(type/weight/confidence), Obsidian callout 문법 추가, Query 시 weight 기반 우선순위 규칙 추가
+
+  2. **신규 폴더 `wiki/principles/`** — 의사결정의 1차 근거가 되는 원칙 페이지 전용 폴더
+     - `concepts/risk-parity.md` → `principles/risk-parity.md` (callout 적용)
+     - `concepts/economic-quadrants.md` → `principles/economic-quadrants.md` (callout 적용)
+     - `concepts/generator-evaluator-loop.md` → `principles/generator-evaluator-loop.md` (callout 적용)
+     - `concepts/llm-wiki-pattern.md` → `principles/llm-wiki-pattern.md` (callout 적용)
+
+  3. **신규 폴더 `wiki/domains/`** — 도메인별 진입점 인덱스 (weight 순 정렬)
+     - `domains/finance.md` 생성
+     - `domains/ai.md` 생성
+     - `domains/design.md` 생성
+
+  4. **Obsidian CSS 스니펫** — `.obsidian/snippets/epistemic.css` 생성
+     - `[!principle]` 골드, `[!fact]` 블루, `[!claim]` 주황, `[!opinion]` 회색, `[!judgment]` 그린
+
+  5. **Frontmatter 전체 보강** — 기존 31개 위키 페이지 + 머지된 신규 2개 페이지(`sycophancy.md`, `claude-personal-guidance.md`)에 `domain`, `type`, `weight`, `confidence` 필드 추가
+
+  6. **Callout 적용** — 우선순위 페이지:
+     - `principles/risk-parity.md`: `[!principle]`, `[!fact]`, `[!claim]` 적용
+     - `principles/economic-quadrants.md`: `[!principle]`, `[!judgment]` 적용
+     - `principles/generator-evaluator-loop.md`: `[!principle]`, `[!fact]` 적용
+     - `principles/llm-wiki-pattern.md`: `[!principle]` 적용
+     - `syntheses/personal-all-weather-variant.md`: `[!judgment]` 적용
+
+  7. **내부 링크 일괄 수정** — 이동된 4개 페이지를 참조하는 모든 파일의 경로 업데이트 (약 20개 링크)
+
+  8. **`wiki/index.md` 전면 개정** — 도메인 진입점 섹션 추가, 폴더 구조 반영
+
+- **영향 파일**: 총 40개 이상 (생성 8개, 수정 34개)
+
 ### [INGEST] Anthropic 개인 조언 연구 - Claude 아첨 실태 분석
 
 - **작업**: Anthropic Research "How people ask Claude for personal guidance" 수집 및 위키 통합

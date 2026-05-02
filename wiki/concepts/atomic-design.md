@@ -2,6 +2,10 @@
 title: "Atomic Design"
 created: 2026-04-18
 updated: 2026-04-18
+domain: design
+type: framework
+weight: important
+confidence: high
 tags: [design, design-system, methodology, brad-frost]
 sources: [sources/design-process-basics.md]
 ---

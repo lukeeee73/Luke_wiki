@@ -2,6 +2,10 @@
 title: "Anthropic: 에이전트 코딩 Eval의 인프라 노이즈 정량화"
 created: 2026-04-11
 updated: 2026-04-11
+domain: ai
+type: fact-set
+weight: reference
+confidence: high
 tags: [anthropic, eval, benchmark, infrastructure, agentic-coding, Terminal-Bench, kubernetes]
 sources: [sources/anthropic-infrastructure-noise.md]
 ---

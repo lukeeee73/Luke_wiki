@@ -2,6 +2,10 @@
 title: "디자인 프로세스 기초"
 created: 2026-04-18
 updated: 2026-04-18
+domain: design
+type: fact-set
+weight: important
+confidence: high
 tags: [design, ui-ux, product-management, fundamentals, workflow]
 sources: [sources/design-process-basics.md]
 ---
@@ -100,13 +104,13 @@ WCAG 2.1 표준. 색 대비 4.5:1 이상, alt text, 키보드 내비게이션. �
 - 사용자 관점의 적절성 판단
 - 비즈니스 목표와의 정합성
 
-경제학에서 모델이 결과를 산출해도 해석은 사람이 하는 것과 동일한 구조. AI는 생성기, 사람은 평가기 — [Generator-Evaluator 루프](../concepts/generator-evaluator-loop.md)의 또 다른 인스턴스로 볼 수 있다.
+경제학에서 모델이 결과를 산출해도 해석은 사람이 하는 것과 동일한 구조. AI는 생성기, 사람은 평가기 — [Generator-Evaluator 루프](../principles/generator-evaluator-loop.md)의 또 다른 인스턴스로 볼 수 있다.
 
 ## 관련 페이지
 
 - [디자인 시스템](../concepts/design-system.md) — 토큰·컴포넌트·가이드라인 심화
 - [Atomic Design](../concepts/atomic-design.md) — Brad Frost의 5계층 방법론
-- [Generator-Evaluator 루프](../concepts/generator-evaluator-loop.md) — AI 생성과 사람 평가의 역할 분리
+- [Generator-Evaluator 루프](../principles/generator-evaluator-loop.md) — AI 생성과 사람 평가의 역할 분리
 
 ## 참고 자료
 

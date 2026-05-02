@@ -2,6 +2,10 @@
 title: "OpenAI"
 created: 2026-04-05
 updated: 2026-04-05
+domain: ai
+type: entity
+weight: reference
+confidence: high
 tags: [openai, AI-company, ChatGPT, Sora, Codex]
 sources: [sources/the-batch-issue-347.md]
 ---

@@ -2,6 +2,10 @@
 title: "에이전트 하니스 (Agent Harness)"
 created: 2026-04-05
 updated: 2026-04-05
+domain: ai
+type: framework
+weight: important
+confidence: high
 tags: [agent-harness, multi-agent, agentic-systems, LLM]
 sources: [sources/anthropic-harness-design-long-running-apps.md]
 ---
