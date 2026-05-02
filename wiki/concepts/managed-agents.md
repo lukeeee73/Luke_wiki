@@ -2,6 +2,10 @@
 title: "Managed Agents"
 created: 2026-04-11
 updated: 2026-04-11
+domain: ai
+type: framework
+weight: important
+confidence: high
 tags: [managed-agents, meta-harness, session, sandbox, harness, anthropic, multi-agent]
 sources: [sources/anthropic-managed-agents.md]
 ---

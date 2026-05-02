@@ -2,6 +2,10 @@
 title: "Anthropic"
 created: 2026-04-05
 updated: 2026-04-11
+domain: ai
+type: entity
+weight: important
+confidence: high
 tags: [anthropic, AI-company, Claude, coding-agent, agent-harness, managed-agents, eval, benchmark]
 sources: [sources/the-batch-issue-347.md, sources/anthropic-harness-design-long-running-apps.md, sources/anthropic-managed-agents.md, sources/anthropic-infrastructure-noise.md]
 ---
@@ -59,7 +63,7 @@ AI 안전 연구 회사. Claude 언어 모델 및 Claude Code 코딩 에이전�
 - [Claude Code](../concepts/claude-code.md)
 - [Managed Agents](../concepts/managed-agents.md)
 - [에이전트 하니스](../concepts/agent-harness.md)
-- [Generator-Evaluator 루프](../concepts/generator-evaluator-loop.md)
+- [Generator-Evaluator 루프](../principles/generator-evaluator-loop.md)
 - [에이전트 Eval 인프라 노이즈 정량화](../topics/anthropic-infrastructure-noise.md)
 - [에이전트 Eval 방법론](../concepts/agentic-evals.md)
 - [Anthropic 하니스 엔지니어링](../topics/anthropic-harness-engineering.md)

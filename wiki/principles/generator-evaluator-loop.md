@@ -1,12 +1,19 @@
 ---
 title: "Generator-Evaluator 루프"
 created: 2026-04-05
-updated: 2026-04-05
-tags: [generator-evaluator, GAN, multi-agent, feedback-loop, quality-improvement]
+updated: 2026-05-02
+domain: ai
+type: principle
+weight: foundational
+confidence: high
+tags: [generator-evaluator, GAN, multi-agent, feedback-loop, quality-improvement, 원칙]
 sources: [sources/anthropic-harness-design-long-running-apps.md]
 ---
 
 # Generator-Evaluator 루프
+
+> [!principle] 핵심 원칙
+> 단일 에이전트가 생성과 평가를 동시에 수행하면 자기 편향(self-bias)에 빠진다. 생성자와 평가자를 분리하면 대립적 피드백 구조가 생겨 결과물 품질이 반복적으로 향상된다.
 
 ## 정의
 
@@ -39,7 +46,8 @@ Generative Adversarial Networks(GAN)에서 영감:
 
 ## Evaluator 설계의 핵심
 
-Evaluator는 **검증 가능한 기준**으로 평가해야 한다. 모호한 기준은 일관성 없는 피드백을 낳는다.
+> [!principle] 원칙
+> Evaluator는 **검증 가능한 기준**으로 평가해야 한다. 모호한 기준은 일관성 없는 피드백을 낳고, 루프가 수렴하지 않는다.
 
 Anthropic의 프론트엔드 디자인 평가 사례:
 
@@ -58,7 +66,8 @@ Anthropic Evaluator의 혁신: **정적 코드 리뷰 대신 동적 앱 테스�
 - API 엔드포인트 호출 및 응답 검증
 - 데이터베이스 상태 확인
 
-이는 코드가 "정적으로 올바르게 보이는 것"과 "실제로 작동하는 것"의 차이를 잡아낸다.
+> [!fact] 사실
+> Anthropic 사례(Opus 4.5 기반 3-에이전트 하니스): 일반적으로 5-15번 반복, 최대 4시간 소요. Solo 에이전트 대비 시간 18배, 비용 22배 증가 → 완성도와 UX에서 큰 차이.
 
 ## 소프트웨어 개발과의 매핑
 
@@ -71,13 +80,6 @@ Generator-Evaluator 루프는 기존 소프트웨어 개발 생명주기에 자�
 | 반복 | 스프린트 사이클 |
 | 완료 기준 | 인수 기준 (Acceptance Criteria) |
 
-## 성능 특성
-
-Anthropic 사례 (Opus 4.5 기반 3-에이전트 하니스):
-- 일반적으로 5-15번 반복
-- 최대 4시간 소요
-- Solo 에이전트 대비: 시간 18배, 비용 22배 증가 → 완성도와 UX에서 큰 차이
-
 ## 적용 분야
 
 - 프론트엔드 UI 디자인 및 구현
@@ -87,5 +89,5 @@ Anthropic 사례 (Opus 4.5 기반 3-에이전트 하니스):
 
 ## 관련 페이지
 
-- [에이전트 하니스](./agent-harness.md)
+- [에이전트 하니스](../concepts/agent-harness.md)
 - [Anthropic 하니스 엔지니어링](../topics/anthropic-harness-engineering.md)

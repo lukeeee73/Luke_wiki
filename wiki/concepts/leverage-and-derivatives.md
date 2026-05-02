@@ -2,6 +2,10 @@
 title: "레버리지와 파생상품 (선물·스왑·레버리지 ETF)"
 created: 2026-04-12
 updated: 2026-04-12
+domain: finance
+type: framework
+weight: important
+confidence: high
 tags: [투자, 파생상품, 레버리지, 리스크, 개념]
 sources: [sources/ray-dalio-all-weather-portfolio.md]
 ---

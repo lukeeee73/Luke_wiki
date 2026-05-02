@@ -2,6 +2,10 @@
 title: "Big Cycle (대순환)"
 created: 2026-04-11
 updated: 2026-04-11
+domain: finance
+type: framework
+weight: important
+confidence: medium
 tags: [개념, 지정학, 매크로, 역사, 순환, Ray Dalio]
 sources: [sources/ray-dalio-world-war-big-thing.md]
 ---

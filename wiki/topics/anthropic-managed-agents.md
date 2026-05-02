@@ -2,6 +2,10 @@
 title: "Anthropic Managed Agents: 뇌와 손의 분리"
 created: 2026-04-11
 updated: 2026-04-11
+domain: ai
+type: fact-set
+weight: important
+confidence: high
 tags: [anthropic, managed-agents, meta-harness, session, sandbox, agent-sdk, multi-agent]
 sources: [sources/anthropic-managed-agents.md]
 ---
@@ -166,4 +170,4 @@ Managed Agents는 기존 Anthropic 엔지니어링 블로그에서 소개한 하
 - [에이전트 하니스](../concepts/agent-harness.md)
 - [Anthropic](../entities/anthropic.md)
 - [Anthropic 하니스 엔지니어링](./anthropic-harness-engineering.md)
-- [Generator-Evaluator 루프](../concepts/generator-evaluator-loop.md)
+- [Generator-Evaluator 루프](../principles/generator-evaluator-loop.md)

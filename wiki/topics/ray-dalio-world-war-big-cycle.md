@@ -2,6 +2,10 @@
 title: "Ray Dalio - 세계대전과 Big Cycle 분석"
 created: 2026-04-11
 updated: 2026-04-11
+domain: finance
+type: claim
+weight: important
+confidence: medium
 tags: [지정학, 세계대전, Big Cycle, 매크로, 투자, Ray Dalio]
 sources: [sources/ray-dalio-world-war-big-thing.md]
 ---

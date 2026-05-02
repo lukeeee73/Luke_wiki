@@ -2,6 +2,10 @@
 title: "The Batch Issue 347 요약"
 created: 2026-04-05
 updated: 2026-04-05
+domain: ai
+type: fact-set
+weight: reference
+confidence: high
 tags: [the-batch, deeplearning-ai, newsletter, AI-news, 2026]
 sources: [sources/the-batch-issue-347.md]
 ---

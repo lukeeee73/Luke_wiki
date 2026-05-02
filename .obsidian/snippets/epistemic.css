@@ -1,0 +1,33 @@
+/* Luke Wiki — Epistemic Status Color Coding
+ *
+ * principle  : 골드   — 의사결정의 핵심 근거 (최상위 가중치)
+ * fact       : 블루   — 검증된 사실
+ * claim      : 주황   — 전문가 주장 (불확실, 출처 있음)
+ * opinion    : 회색   — 의견 (출처 불명확, 낮은 신뢰도)
+ * judgment   : 그린   — 내 판단 / 종합
+ */
+
+.callout[data-callout="principle"] {
+  --callout-color: 218, 165, 32;
+  --callout-icon: lucide-anchor;
+}
+
+.callout[data-callout="fact"] {
+  --callout-color: 70, 130, 180;
+  --callout-icon: lucide-check-circle;
+}
+
+.callout[data-callout="claim"] {
+  --callout-color: 255, 140, 0;
+  --callout-icon: lucide-quote;
+}
+
+.callout[data-callout="opinion"] {
+  --callout-color: 128, 128, 128;
+  --callout-icon: lucide-message-circle;
+}
+
+.callout[data-callout="judgment"] {
+  --callout-color: 60, 179, 113;
+  --callout-icon: lucide-lightbulb;
+}

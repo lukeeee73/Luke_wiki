@@ -2,6 +2,10 @@
 title: "RAG vs LLM Wiki 패턴"
 created: 2026-04-05
 updated: 2026-04-05
+domain: ai
+type: framework
+weight: important
+confidence: high
 tags: [비교, RAG, LLM, 지식관리]
 sources: [sources/karpathy-llm-wiki-pattern.md]
 ---
@@ -36,4 +40,4 @@ sources: [sources/karpathy-llm-wiki-pattern.md]
 
 ## 관련 페이지
 
-- [LLM Wiki 패턴](../concepts/llm-wiki-pattern.md)
+- [LLM Wiki 패턴](../principles/llm-wiki-pattern.md)
