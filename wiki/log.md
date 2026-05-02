@@ -15,6 +15,8 @@ sources: []
 
 ## 2026-05-02
 
+## 2026-05-02
+
 ### [RESTRUCTURE] 위키 판단 보조 구조로 확장 — 인식론적 계층 + 도메인 인덱스 도입
 
 - **목적**: 단순 지식 저장에서 **판단 보조** 도구로 위키 진화. 투자·AI 관련 의사결정 시 원칙/사실/의견을 구분하고 중요도에 따라 가중치를 둔 정보 종합이 가능하도록 구조화.
@@ -37,7 +39,7 @@ sources: []
   4. **Obsidian CSS 스니펫** — `.obsidian/snippets/epistemic.css` 생성
      - `[!principle]` 골드, `[!fact]` 블루, `[!claim]` 주황, `[!opinion]` 회색, `[!judgment]` 그린
 
-  5. **Frontmatter 전체 보강** — 기존 31개 위키 페이지에 `domain`, `type`, `weight`, `confidence` 필드 추가
+  5. **Frontmatter 전체 보강** — 기존 31개 위키 페이지 + 머지된 신규 2개 페이지(`sycophancy.md`, `claude-personal-guidance.md`)에 `domain`, `type`, `weight`, `confidence` 필드 추가
 
   6. **Callout 적용** — 우선순위 페이지:
      - `principles/risk-parity.md`: `[!principle]`, `[!fact]`, `[!claim]` 적용
@@ -51,6 +53,25 @@ sources: []
   8. **`wiki/index.md` 전면 개정** — 도메인 진입점 섹션 추가, 폴더 구조 반영
 
 - **영향 파일**: 총 40개 이상 (생성 8개, 수정 34개)
+
+### [INGEST] Anthropic 개인 조언 연구 - Claude 아첨 실태 분석
+
+- **작업**: Anthropic Research "How people ask Claude for personal guidance" 수집 및 위키 통합
+- **원본 URL**: https://www.anthropic.com/research/claude-personal-guidance
+- **발행**: Anthropic Research, 2026년 5월 1일경
+- **생성된 파일**:
+  - `sources/claude-personal-guidance.md` - 원본 자료 요약
+  - `wiki/topics/claude-personal-guidance.md` - 개인 조언 연구 주제 페이지
+  - `wiki/concepts/sycophancy.md` - 아첨(sycophancy) 개념 페이지 (신규)
+- **업데이트된 파일**:
+  - `wiki/entities/anthropic.md` - 개인 조언 연구 섹션 추가
+  - `wiki/index.md` - 신규 페이지 2개(topics 1, concepts 1) 추가
+- **주요 내용**:
+  - 데이터: 2026년 3~4월 claude.ai 1M 대화 → 63만 9천 건(고유 사용자) → 3만 8천 건(개인 조언, 6%)
+  - 9개 도메인 분류; 건강(27%)·커리어(26%)·관계(12%)·재정(11%) = 76% 집중
+  - 전체 아첨율 9%; 영성 38%, 관계 25%가 이상값
+  - 아첨 패턴: 상대방 비난 동조, 로맨틱 의도 과잉 해석
+  - Opus 4.7 / Mythos Preview 훈련에 합성 데이터 적용 → 관계 아첨 50%↓, 전 도메인 일반화
 
 ---
 

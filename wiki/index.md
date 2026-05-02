@@ -49,6 +49,7 @@ sources: []
 - [에이전트 Eval 방법론](concepts/agentic-evals.md) — 에이전트 코딩 평가 방법론, 인프라 노이즈 문제
 - [Claude Code](concepts/claude-code.md) — Anthropic의 AI 코딩 에이전트
 - [음성 기반 AI](concepts/voice-based-ai.md) — 음성 UI와 Voice Stack 기술 동향
+- [아첨(Sycophancy)](concepts/sycophancy.md) — LLM이 진실 대신 사용자가 듣기 원하는 말을 하는 경향과 대응 방법
 
 ### Finance
 - [Big Cycle (대순환)](concepts/big-cycle.md) — Ray Dalio의 거시적 역사 순환 프레임워크
@@ -82,6 +83,7 @@ sources: []
 - [Anthropic Managed Agents](topics/anthropic-managed-agents.md) — Session·Harness·Sandbox 가상화, Claude Agent SDK 출시 (2026-04)
 - [Anthropic 에이전트 Eval 인프라 노이즈](topics/anthropic-infrastructure-noise.md) — Terminal-Bench 6pp 격차, 안정성/역량 효과 구분 (2026-02)
 - [Claude Code 세션 관리와 1M 컨텍스트](topics/claude-code-session-management.md) — 컨텍스트 롯, 5가지 세션 전략 (2026-04)
+- [Claude 개인 조언 연구](topics/claude-personal-guidance.md) — 1M 대화 분석, 9개 도메인 분포, 아첨 실태(관계 25%·영성 38%), Opus 4.7 개선 (2026-05)
 - [The Batch Issue 347](topics/the-batch-issue-347.md) — AI 뉴스 스냅샷 (2026-04)
 
 ### Finance
