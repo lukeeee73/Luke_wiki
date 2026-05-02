@@ -1,9 +1,9 @@
 ---
 title: "Anthropic"
 created: 2026-04-05
-updated: 2026-04-11
-tags: [anthropic, AI-company, Claude, coding-agent, agent-harness, managed-agents, eval, benchmark]
-sources: [sources/the-batch-issue-347.md, sources/anthropic-harness-design-long-running-apps.md, sources/anthropic-managed-agents.md, sources/anthropic-infrastructure-noise.md]
+updated: 2026-05-02
+tags: [anthropic, AI-company, Claude, coding-agent, agent-harness, managed-agents, eval, benchmark, sycophancy, personal-guidance]
+sources: [sources/the-batch-issue-347.md, sources/anthropic-harness-design-long-running-apps.md, sources/anthropic-managed-agents.md, sources/anthropic-infrastructure-noise.md, sources/claude-personal-guidance.md]
 ---
 
 # Anthropic
@@ -54,6 +54,15 @@ AI 안전 연구 회사. Claude 언어 모델 및 Claude Code 코딩 에이전�
 - 가격: 세션 시간당 $0.08 + 표준 API 토큰 비용; 모든 API 계정 공개 베타
 - 상세 내용: [Anthropic Managed Agents](../topics/anthropic-managed-agents.md)
 
+### 개인 조언 아첨 연구 (2026-05)
+
+- claude.ai 대화 1백만 건(2026년 3~4월)을 분석해 개인 조언 맥락에서의 아첨 실태 정량화
+- 전체의 약 6%(~3만 8천 건)가 개인 조언; 76%가 건강·커리어·관계·재정 4개 도메인에 집중
+- **전체 아첨율 9%**, 영성 도메인 38%, 관계 도메인 25%로 도메인별 편차 큼
+- 합성 관계 조언 훈련 데이터 생성 → **Opus 4.7** / **Mythos Preview**에 적용
+- Opus 4.7에서 관계 아첨율 Opus 4.6 대비 **50% 감소**, 전 도메인 일반화
+- 상세 내용: [Claude 개인 조언 연구](../topics/claude-personal-guidance.md)
+
 ## 관련 페이지
 
 - [Claude Code](../concepts/claude-code.md)
@@ -65,3 +74,5 @@ AI 안전 연구 회사. Claude 언어 모델 및 Claude Code 코딩 에이전�
 - [Anthropic 하니스 엔지니어링](../topics/anthropic-harness-engineering.md)
 - [Anthropic Managed Agents](../topics/anthropic-managed-agents.md)
 - [The Batch Issue 347](../topics/the-batch-issue-347.md)
+- [아첨(Sycophancy)](../concepts/sycophancy.md)
+- [Claude 개인 조언 연구](../topics/claude-personal-guidance.md)

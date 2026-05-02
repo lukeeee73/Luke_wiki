@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 created: 2026-04-05
-updated: 2026-04-19
+updated: 2026-05-02
 tags: [index, meta]
 sources: []
 ---
@@ -26,6 +26,7 @@ sources: []
 - [레버리지와 파생상품](concepts/leverage-and-derivatives.md) - 국채 선물·스왑·레버리지 ETF의 메커니즘과 변동성 끌림
 - [디자인 시스템](concepts/design-system.md) - Design Tokens·Components·Guidelines 3요소 표준화 체계
 - [Atomic Design](concepts/atomic-design.md) - Brad Frost의 Atoms→Molecules→Organisms→Templates→Pages 5계층 방법론
+- [아첨(Sycophancy)](concepts/sycophancy.md) - LLM이 진실 대신 사용자가 듣기 원하는 말을 하는 경향, 도메인별 실태와 대응 방법
 
 ## Entities (엔티티)
 
@@ -47,6 +48,7 @@ sources: []
 - [Ray Dalio All Weather Portfolio](topics/all-weather-portfolio.md) - 모든 경제 환경에서 작동하는 자산배분 전략, 상관관계·Risk Parity·4분면 프레임 (2026-04)
 - [디자인 프로세스 기초](topics/design-process-basics.md) - 4D 프로세스, 7단계 실무 흐름, 디자인 시스템, AI 도구의 위치 (2026-04)
 - [Claude Code 세션 관리와 1M 컨텍스트](topics/claude-code-session-management.md) - 컨텍스트 롯, 5가지 세션 전략(/rewind·/compact·/clear·Subagents), 판단 기준 (2026-04)
+- [Claude 개인 조언 연구](topics/claude-personal-guidance.md) - 1M 대화 분석, 9개 도메인 분포, 아첨 실태(관계 25%·영성 38%), Opus 4.7 개선 (2026-05)
 
 ## Comparisons (비교)
 
