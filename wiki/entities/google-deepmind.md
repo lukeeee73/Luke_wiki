@@ -2,6 +2,10 @@
 title: "Google DeepMind"
 created: 2026-04-05
 updated: 2026-04-05
+domain: ai
+type: entity
+weight: reference
+confidence: high
 tags: [google, deepmind, AI-company, Gemini, Lyria]
 sources: [sources/the-batch-issue-347.md]
 ---

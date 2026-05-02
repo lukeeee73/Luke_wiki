@@ -2,6 +2,10 @@
 title: "개인 투자자용 All Weather 변형 포트폴리오"
 created: 2026-04-12
 updated: 2026-04-12
+domain: finance
+type: synthesis
+weight: important
+confidence: medium
 tags: [투자, 포트폴리오, 자산배분, 종합, 개인투자]
 sources: [sources/ray-dalio-all-weather-portfolio.md]
 ---
@@ -12,10 +16,13 @@ sources: [sources/ray-dalio-all-weather-portfolio.md]
 
 ## 설계 원칙
 
+> [!judgment] 내 판단 — 설계 결정 요약
+> Dalio의 프레임에서 **원칙**(4분면 커버리지)은 유지하되, 개인 투자자의 현실적 제약(레버리지 불가, 장기 투자 가능)에 맞춰 **구현 방식**은 수정한다.
+
 | 구분 | 결정 | 이유 |
 |---|---|---|
-| **지킬 것** | [4분면 프레임](../concepts/economic-quadrants.md) | 어떤 경제 환경이 와도 포트폴리오 일부는 반드시 작동해야 함 |
-| **바꿀 것** | [Risk Parity](../concepts/risk-parity.md) | 장기·추가 납입·낙폭 감내 가능 조건이라면 "성장↑ 분면에 가중치를 더 주는" 약한 베팅. 경제사적 장기 성장 근거. |
+| **지킬 것** | [4분면 프레임](../principles/economic-quadrants.md) | 어떤 경제 환경이 와도 포트폴리오 일부는 반드시 작동해야 함 |
+| **바꿀 것** | [Risk Parity](../principles/risk-parity.md) | 장기·추가 납입·낙폭 감내 가능 조건이라면 "성장↑ 분면에 가중치를 더 주는" 약한 베팅. 경제사적 장기 성장 근거. |
 | **포기할 것** | [레버리지](../concepts/leverage-and-derivatives.md) | 개인이 깔끔하게 구현하기 어렵고, 레버리지 ETF는 변동성 끌림(volatility decay) 함정이 있음 |
 
 ## 최종 포트폴리오 구성
@@ -80,13 +87,13 @@ sources: [sources/ray-dalio-all-weather-portfolio.md]
 매도 시 세금이 발생하므로, **추가 납입금을 비중이 부족한 자산에 몰아서 사는** 방식이 훨씬 세금 효율적이다. 즉, 복원 리밸런싱을 "팔아서 맞추기"가 아니라 "새 돈으로 맞추기"로 구현한다.
 
 ### 분면 판단 기반 조정
-매달 한 번 [경제 지표](../concepts/economic-quadrants.md)를 체크해 현재 분면을 판정하고, 기준 비중에서 **±5~10%포인트 이내**로만 조정. 이 범위를 넘는 순간 "변형"이 아니라 시장 타이밍 베팅으로 이탈한다.
+매달 한 번 [경제 지표](../principles/economic-quadrants.md)를 체크해 현재 분면을 판정하고, 기준 비중에서 **±5~10%포인트 이내**로만 조정. 이 범위를 넘는 순간 "변형"이 아니라 시장 타이밍 베팅으로 이탈한다.
 
 ## 원본 All Weather와의 차이 요약
 
 | 항목 | Dalio 원본 | 개인용 변형 |
 |---|---|---|
-| 리스크 배분 원리 | [Risk Parity](../concepts/risk-parity.md) | 성장↑ 약한 가중치 |
+| 리스크 배분 원리 | [Risk Parity](../principles/risk-parity.md) | 성장↑ 약한 가중치 |
 | 레버리지 | 선물·스왑으로 적극 활용 | 사용 안 함 |
 | 채권 비중 | 약 55% | 15% |
 | 주식 비중 | 약 30% | 55% |
@@ -96,14 +103,15 @@ sources: [sources/ray-dalio-all-weather-portfolio.md]
 
 ## 왜 이렇게 바꾸는가
 
-이 변형의 요점은 **"Dalio의 천재성을 베끼는 것"** 이 아니라 **"Dalio의 프레임으로 내 상황을 검사하는 것"** 이다. 4분면 커버리지라는 체크리스트를 통과하는 한, 세부 비중은 개인의 시간 지평·위험 감내·세금 환경에 맞게 재조정되어야 한다.
-
-핵심 수확은 포트폴리오 구성 자체가 아니라, 앞으로 어떤 포트폴리오를 짜든 **"내가 지금 어느 분면에 베팅하고 있는가"** 를 자동으로 묻게 되는 사고 습관이다.
+> [!judgment] 내 판단
+> 이 변형의 요점은 **"Dalio의 천재성을 베끼는 것"** 이 아니라 **"Dalio의 프레임으로 내 상황을 검사하는 것"** 이다. 4분면 커버리지라는 체크리스트를 통과하는 한, 세부 비중은 개인의 시간 지평·위험 감내·세금 환경에 맞게 재조정되어야 한다.
+>
+> 핵심 수확은 포트폴리오 구성 자체가 아니라, 앞으로 어떤 포트폴리오를 짜든 **"내가 지금 어느 분면에 베팅하고 있는가"** 를 자동으로 묻게 되는 사고 습관이다.
 
 ## 관련 페이지
 
 - [All Weather Portfolio](../topics/all-weather-portfolio.md) - 원본 전략
-- [Risk Parity](../concepts/risk-parity.md) - 포기한 원리
-- [2×2 경제 환경 프레임](../concepts/economic-quadrants.md) - 유지한 원리
+- [Risk Parity](../principles/risk-parity.md) - 포기한 원리
+- [2×2 경제 환경 프레임](../principles/economic-quadrants.md) - 유지한 원리
 - [레버리지와 파생상품](../concepts/leverage-and-derivatives.md) - 포기한 도구의 메커니즘
 - [Ray Dalio](../entities/ray-dalio.md) - 원저자

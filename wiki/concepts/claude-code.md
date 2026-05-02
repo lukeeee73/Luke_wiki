@@ -2,6 +2,10 @@
 title: "Claude Code"
 created: 2026-04-05
 updated: 2026-04-19
+domain: ai
+type: framework
+weight: important
+confidence: high
 tags: [claude-code, anthropic, AI-agent, coding-tool, source-leak, session-management, context-window]
 sources: [sources/the-batch-issue-347.md, sources/claude-code-session-management-1m-context.md]
 ---

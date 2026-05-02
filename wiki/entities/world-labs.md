@@ -2,6 +2,10 @@
 title: "World Labs"
 created: 2026-04-05
 updated: 2026-04-05
+domain: ai
+type: entity
+weight: reference
+confidence: high
 tags: [world-labs, AI-company, 3D-generation, world-models, Fei-Fei-Li]
 sources: [sources/the-batch-issue-347.md]
 ---

@@ -7,28 +7,49 @@
 이 저장소는 Andrej Karpathy의 "LLM Wiki" 패턴을 기반으로 한 개인 지식 저장소입니다.
 LLM이 원본 자료를 읽고, 핵심 정보를 추출하여, 구조화된 위키로 통합 관리합니다.
 
-## 3계층 구조
+**목적**: 단순 지식 저장을 넘어, **판단을 내리기 위한 보조 도구**로 사용합니다.
+의사결정 시 원칙·사실·의견을 구분하고, 중요도에 따라 가중치를 두어 정보를 종합합니다.
+
+## 디렉토리 구조
 
 ```
 Luke_wiki/
-├── CLAUDE.md          # Schema Layer - 위키 운영 규칙 (이 파일)
-├── sources/           # Raw Sources Layer - 원본 자료 (불변)
-│   └── ...            # 논문, 기사, 노트 등 원본 파일
-└── wiki/              # Wiki Layer - LLM이 생성/관리하는 마크다운
-    ├── index.md       # 전체 위키 페이지 카탈로그
-    ├── log.md         # 작업 이력 (시간순 기록)
-    ├── concepts/      # 개념 페이지
-    ├── entities/      # 엔티티 페이지 (인물, 조직, 도구 등)
-    ├── topics/        # 주제별 요약 페이지
-    ├── comparisons/   # 비교 분석 페이지
-    └── syntheses/     # 종합 분석 페이지
+├── CLAUDE.md              # Schema Layer - 위키 운영 규칙 (이 파일)
+├── sources/               # Raw Sources Layer - 원본 자료 (불변)
+│   └── ...                # 논문, 기사, 노트 등 원본 파일
+└── wiki/                  # Wiki Layer - LLM이 생성/관리하는 마크다운
+    ├── index.md           # 전체 위키 페이지 카탈로그
+    ├── log.md             # 작업 이력 (시간순 기록)
+    ├── principles/        # 핵심 원칙 페이지 (최상위 가중치)
+    ├── domains/           # 도메인별 진입점 인덱스
+    ├── concepts/          # 설명적 개념/프레임워크 페이지
+    ├── entities/          # 엔티티 페이지 (인물, 조직, 도구 등)
+    ├── topics/            # 주제별 요약 페이지
+    ├── comparisons/       # 비교 분석 페이지
+    └── syntheses/         # 종합 분석 / 내 판단 페이지
 ```
 
-## 원본 자료 (Sources) 규칙
+### 폴더 배치 기준
 
-- `sources/` 디렉토리의 파일은 **절대 수정하지 않는다** (불변)
-- 새 자료를 추가할 때는 원본 그대로 저장한다
-- 지원 형식: 마크다운, 텍스트, PDF, 이미지
+| 폴더 | 배치 기준 |
+|---|---|
+| `principles/` | 의사결정의 **근거가 되는 원리**. "이것이 틀리면 결론이 바뀐다"는 기준이 되는 것 |
+| `concepts/` | 세상을 설명하는 **서술적 프레임워크**. 지식 자체이지 판단 기준은 아닌 것 |
+| `syntheses/` | 내가 원칙+사실+의견을 종합해 내린 **나 자신의 판단** |
+| `topics/` | 특정 주제에 대한 요약. 출처 기반, 내 판단보다는 정리 |
+| `domains/` | 도메인별 진입점. 직접적 지식 내용 없이 링크만 모음 |
+
+## 도메인 정의
+
+현재 운영 중인 도메인:
+
+- **finance**: 투자, 포트폴리오, 자산배분, 매크로경제
+- **ai**: AI/LLM, 에이전트, 프롬프트 엔지니어링, AI 제품
+- **design**: 디자인 시스템, UI/UX, 프로세스
+
+도메인 경계가 모호한 페이지(예: "AI가 투자에 미치는 영향")에는 여러 도메인을 쉼표로 나열한다: `domain: finance, ai`
+
+새 도메인 추가 시: `wiki/domains/`에 인덱스 페이지 생성, CLAUDE.md 이 목록에 추가.
 
 ## 위키 (Wiki) 규칙
 
@@ -41,15 +62,66 @@ Luke_wiki/
 title: "페이지 제목"
 created: YYYY-MM-DD
 updated: YYYY-MM-DD
+domain: finance              # finance | ai | design | (복수: finance, ai)
+type: principle              # principle | framework | fact-set | claim | synthesis | entity | index
+weight: foundational         # foundational | important | reference
+confidence: high             # high | medium | low
 tags: [태그1, 태그2]
 sources: [출처 파일 경로]
 ---
 ```
 
+**type 정의:**
+- `principle`: 판단의 근거가 되는 원리 (→ `principles/` 폴더)
+- `framework`: 세상을 설명하는 서술적 개념 (→ `concepts/` 폴더)
+- `fact-set`: 검증된 사실 모음 (→ `topics/` 폴더)
+- `claim`: 전문가·출처의 주장 (검증 불완전, → `topics/` 폴더)
+- `synthesis`: 내 판단/종합 (→ `syntheses/` 폴더)
+- `entity`: 인물·조직·도구 (→ `entities/` 폴더)
+- `index`: 도메인 진입점 (→ `domains/` 폴더)
+
+**weight 정의:**
+- `foundational`: 의사결정의 1차 근거. 질의 시 최우선 제시
+- `important`: 맥락과 세부사항. 2차로 제시
+- `reference`: 참고 자료. 필요 시 참조
+
+**confidence 정의:**
+- `high`: 검증된 사실, 수학적 원리, 역사적 사건
+- `medium`: 합리적 추론이지만 반례 있음
+- `low`: 전문가 의견, 예측, 검증 어려운 주장
+
+### 페이지 내부 — Callout으로 문장 단위 인식론적 구분
+
+Obsidian callout 문법을 사용해 개별 명제의 성격을 명시한다:
+
+```markdown
+> [!principle] 원칙
+> 자산 금액 균형이 아닌 위험 기여도 균형이 진짜 분산이다.
+
+> [!fact] 사실
+> 2022년 주식과 채권이 동반 하락했다 (S&P -19%, 미국채 -13%).
+
+> [!claim] 전문가 주장
+> Ray Dalio: "Risk Parity가 모든 환경에서 작동한다."
+> ※ 반론: 2022년 다수 Risk Parity 펀드 큰 손실
+
+> [!judgment] 내 판단
+> 개인 투자자는 레버리지를 포기하고 자산 비중으로만 4분면을 커버하는 것이 합리적이다.
+
+> [!opinion] 의견 (출처 불명확)
+> 금은 언제나 안전 자산이다.
+```
+
+callout 우선순위 (적용 기준):
+1. `principles/`로 이동되는 페이지: 전면 적용
+2. `syntheses/` 페이지: 내 판단 부분에 `[!judgment]` 적용
+3. 나머지: 점진적으로 적용 (한 번에 전부 하지 않음)
+
 ### 내부 링크
 
 - 다른 위키 페이지 참조 시 상대 경로 사용: `[페이지 제목](../concepts/example.md)`
 - 원본 자료 참조 시: `[출처](../../sources/파일명)`
+- `principles/`로 이동된 페이지 링크: `[Risk Parity](../principles/risk-parity.md)`
 
 ### 핵심 원칙
 
@@ -57,6 +129,13 @@ sources: [출처 파일 경로]
 2. **사실과 추론 구분**: 원본에서 직접 가져온 사실과 LLM의 추론을 구분한다
 3. **모순 기록**: 자료 간 모순이 발견되면 명시적으로 기록한다
 4. **멱등성**: 같은 자료를 다시 처리해도 결과가 동일해야 한다
+5. **인식론적 정직성**: claim/opinion은 반드시 `confidence`와 반론 가능성을 함께 표시한다
+
+## 원본 자료 (Sources) 규칙
+
+- `sources/` 디렉토리의 파일은 **절대 수정하지 않는다** (불변)
+- 새 자료를 추가할 때는 원본 그대로 저장한다
+- 지원 형식: 마크다운, 텍스트, PDF, 이미지
 
 ## 핵심 작업 (Core Operations)
 
@@ -65,11 +144,14 @@ sources: [출처 파일 경로]
 새 자료가 `sources/`에 추가되면:
 
 1. 자료를 읽고 핵심 내용을 파악한다
-2. 요약을 작성하고 관련 위키 페이지를 업데이트한다
-3. 새로운 개념/엔티티 페이지가 필요하면 생성한다
-4. 교차 참조(cross-reference)를 추가한다
-5. `wiki/index.md`를 업데이트한다
-6. `wiki/log.md`에 작업 내역을 기록한다
+2. **도메인과 type을 먼저 결정**한다 (어느 폴더에 들어가는가?)
+3. 자료 내 명제를 원칙/사실/주장/의견으로 분류한다
+4. 요약을 작성하고 관련 위키 페이지를 업데이트한다
+5. 새로운 페이지가 필요하면 생성한다 (frontmatter의 모든 필드 포함)
+6. 교차 참조(cross-reference)를 추가한다
+7. **해당 도메인 인덱스 (`domains/finance.md` 등)를 업데이트**한다
+8. `wiki/index.md`를 업데이트한다
+9. `wiki/log.md`에 작업 내역을 기록한다
 
 하나의 자료가 10~15개의 위키 페이지에 영향을 줄 수 있다.
 
@@ -77,9 +159,14 @@ sources: [출처 파일 경로]
 
 질문을 받으면:
 
-1. 관련 위키 페이지를 검색한다
-2. 출처와 함께 답변을 종합한다
-3. 가치 있는 답변은 새 위키 페이지로 저장한다
+1. 질문의 도메인을 파악한다 → `domains/` 인덱스를 입구로 사용
+2. **weight 순서**로 정보를 취합한다: `foundational` → `important` → `reference`
+3. **type 별 표시 방식**을 구분한다:
+   - `principle`: 판단의 핵심 근거로 제시
+   - `claim`/`opinion`: 항상 출처 + 반론 가능성 함께 표시
+   - `synthesis`: "내 판단"임을 명시
+4. 출처와 함께 답변을 종합한다
+5. 가치 있는 답변은 새 위키 페이지로 저장한다
 
 ### 3. Lint (정합성 검사)
 
@@ -90,3 +177,6 @@ sources: [출처 파일 경로]
 - 고아 페이지(orphan pages) 발견
 - 누락된 교차 참조 추가
 - 정보 공백 파악
+- **frontmatter 필수 필드 누락** (`domain`, `type`, `weight`, `confidence`) 식별
+- **인용 callout 없이 외부 주장이 본문에 포함된 페이지** 식별
+- **도메인 인덱스와 실제 파일 목록의 불일치** 확인

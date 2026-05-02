@@ -2,6 +2,10 @@
 title: "Claude Code 세션 관리와 1M 컨텍스트"
 created: 2026-04-19
 updated: 2026-04-19
+domain: ai
+type: fact-set
+weight: reference
+confidence: high
 tags: [claude-code, session-management, context-window, context-rot, anthropic]
 sources: [sources/claude-code-session-management-1m-context.md]
 ---

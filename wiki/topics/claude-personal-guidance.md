@@ -2,6 +2,10 @@
 title: "Claude 개인 조언 연구 - 도메인 분포와 아첨 현상"
 created: 2026-05-02
 updated: 2026-05-02
+domain: ai
+type: fact-set
+weight: important
+confidence: high
 tags: [anthropic, claude, sycophancy, personal-guidance, research, user-behavior, opus-4.7]
 sources: [sources/claude-personal-guidance.md]
 ---

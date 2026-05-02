@@ -1,8 +1,12 @@
 ---
 title: "Risk Parity (위험 균형)"
 created: 2026-04-12
-updated: 2026-04-12
-tags: [투자, 포트폴리오, 자산배분, 개념]
+updated: 2026-05-02
+domain: finance
+type: principle
+weight: foundational
+confidence: high
+tags: [투자, 포트폴리오, 자산배분, 원칙]
 sources: [sources/ray-dalio-all-weather-portfolio.md]
 ---
 
@@ -10,9 +14,15 @@ sources: [sources/ray-dalio-all-weather-portfolio.md]
 
 포트폴리오의 각 자산이 **전체 위험에 기여하는 양을 동일하게** 맞추는 자산배분 원리. [Ray Dalio](../entities/ray-dalio.md)의 [All Weather Portfolio](../topics/all-weather-portfolio.md)를 지탱하는 핵심 기둥이다.
 
+> [!principle] 핵심 원칙
+> 자산 **금액** 균형이 아닌 **위험 기여도** 균형이 진짜 분산이다. 금액으로 균형 잡힌 포트폴리오는 분산된 척일 뿐이다.
+
 ## 문제 인식: 60/40의 환상
 
 전통적인 60/40 포트폴리오(주식 60% / 채권 40%)는 **금액 기준으로는** 균형처럼 보인다. 하지만 실제 리스크를 분해하면 주식이 채권보다 변동성이 2~3배 높기 때문에 **포트폴리오 전체 리스크의 90% 이상이 주식에서 나온다**.
+
+> [!fact] 사실
+> 전형적인 60/40 포트폴리오에서 포트폴리오 위험의 90% 이상이 주식에서 발생한다 (변동성 기준 분해 시).
 
 즉, 60/40은 이름만 균형일 뿐 실질적으로는 **"주식 단일 베팅 + 약간의 채권 쿠션"** 에 가깝다. 주식이 무너지면 포트폴리오가 함께 무너진다.
 
@@ -34,11 +44,14 @@ sources: [sources/ray-dalio-all-weather-portfolio.md]
 어떤 경제 환경이 올지 모르는 상황에서, 특정 자산군이 포트폴리오를 지배하는 구조는 위험 베팅이다. Risk Parity는 이 "숨은 방향성 베팅"을 제거한다.
 
 ### 3. 리스크 조정 수익률 향상
-이론적으로 Risk Parity는 샤프 비율(Sharpe ratio)을 극대화하는 접근에 가깝다. 레버리지를 사용해 원하는 목표 수익률로 스케일링할 수 있다.
+
+> [!claim] 전문가 주장 (Ray Dalio)
+> Risk Parity는 이론적으로 샤프 비율(Sharpe ratio)을 극대화하는 접근에 가깝다. 레버리지를 사용해 원하는 목표 수익률로 스케일링할 수 있다.
+> ※ 단, 이는 자산 간 상관관계가 안정적이라는 가정 하에 성립한다.
 
 ## 구현의 난이도
 
-Risk Parity의 실제 구현은 [레버리지와 파생상품](leverage-and-derivatives.md) 없이는 거의 불가능하다:
+Risk Parity의 실제 구현은 [레버리지와 파생상품](../concepts/leverage-and-derivatives.md) 없이는 거의 불가능하다:
 
 - 기관은 **국채 선물**과 **금리 스왑**을 이용해 저비용으로 채권 리스크를 증폭시킨다.
 - 개인은 이 도구에 직접 접근하기 어렵고, **레버리지 ETF는 변동성 끌림 문제**로 장기 보유에 부적합하다.
@@ -46,13 +59,16 @@ Risk Parity의 실제 구현은 [레버리지와 파생상품](leverage-and-deri
 
 ## 한계와 비판
 
-- **레버리지 리스크**: 2008년, 2020년 3월, 2022년 등 주식·채권이 동반 하락하는 구간에서 레버리지된 채권 포지션이 큰 손실을 내며 Risk Parity 펀드들이 타격을 입었다.
+> [!fact] 사실 (반례)
+> 2008년, 2020년 3월, 2022년 주식·채권 동반 하락 구간에서 레버리지된 채권 포지션이 큰 손실을 냈다. 2022년의 경우 S&P500 -19%, 미국 장기채 -30% 이상 동반 하락.
+
+- **레버리지 리스크**: 동반 하락 구간에서 레버리지된 채권 포지션이 큰 손실을 낸다.
 - **상관관계 가정의 불안정성**: 위기 시 자산 간 상관관계가 급등하면(모두 같이 떨어지면) 분산 효과가 증발한다.
 - **금리 환경 의존성**: 장기 하락 추세의 금리 환경(1981–2020)에서 특히 잘 작동했고, 금리 반등 국면에서는 성과가 약해진다.
 
 ## 관련 페이지
 
 - [All Weather Portfolio](../topics/all-weather-portfolio.md) - Risk Parity가 구현된 대표 전략
-- [레버리지와 파생상품](leverage-and-derivatives.md) - Risk Parity 구현에 필요한 도구
+- [레버리지와 파생상품](../concepts/leverage-and-derivatives.md) - Risk Parity 구현에 필요한 도구
 - [2×2 경제 환경 프레임](economic-quadrants.md) - Risk Parity가 분배하는 "환경별 리스크"
 - [Ray Dalio](../entities/ray-dalio.md) - Risk Parity 대중화에 기여한 인물

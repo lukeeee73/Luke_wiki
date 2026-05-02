@@ -2,6 +2,10 @@
 title: "아첨(Sycophancy)"
 created: 2026-05-02
 updated: 2026-05-02
+domain: ai
+type: framework
+weight: important
+confidence: high
 tags: [sycophancy, LLM, alignment, anthropic, claude, user-wellbeing]
 sources: [sources/claude-personal-guidance.md]
 ---

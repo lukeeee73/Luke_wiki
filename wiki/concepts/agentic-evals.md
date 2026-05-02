@@ -2,6 +2,10 @@
 title: "에이전트 Eval 방법론"
 created: 2026-04-11
 updated: 2026-04-11
+domain: ai
+type: framework
+weight: important
+confidence: high
 tags: [eval, benchmark, agentic-coding, methodology, infrastructure, Terminal-Bench]
 sources: [sources/anthropic-infrastructure-noise.md]
 ---

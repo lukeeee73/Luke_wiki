@@ -2,6 +2,10 @@
 title: "Ray Dalio All Weather Portfolio"
 created: 2026-04-12
 updated: 2026-04-12
+domain: finance
+type: fact-set
+weight: important
+confidence: high
 tags: [투자, 포트폴리오, 매크로, 자산배분, ray-dalio]
 sources: [sources/ray-dalio-all-weather-portfolio.md]
 ---
@@ -17,14 +21,14 @@ Dalio의 출발점은 *"높은 수익을 포기하지 않고도 위험을 낮출
 
 수익률을 낮춰서 안전해지는 것이 아니라, **분산 그 자체가 리스크 조정 수익률을 끌어올리는 엔진**이다. 포트폴리오 이론에서 유일하게 알려진 "공짜 점심(free lunch)".
 
-### 2. [Risk Parity](../concepts/risk-parity.md) (위험 균형)
+### 2. [Risk Parity](../principles/risk-parity.md) (위험 균형)
 일반적인 60/40 포트폴리오는 금액 기준으로는 균형처럼 보이지만, 주식의 변동성이 채권보다 훨씬 크기 때문에 실제 리스크의 90% 이상이 주식에서 나온다. Dalio는 이를 뒤집어서:
 
 - 저변동성 자산(채권)은 **레버리지로 위험을 키우고**
 - 고변동성 자산(주식)은 **비중을 줄여서**
 - 각 자산이 포트폴리오 위험에 기여하는 양을 **똑같이** 맞춘다.
 
-### 3. [2×2 경제 환경 프레임](../concepts/economic-quadrants.md)
+### 3. [2×2 경제 환경 프레임](../principles/economic-quadrants.md)
 모든 자산 가격은 결국 "성장"과 "인플레이션"이라는 두 변수의 **예상 대비 실제 움직임(서프라이즈)** 으로 설명된다. 네 가지 환경(성장↑/↓ × 인플레↑/↓) 각각에 강한 자산이 다르며, 각 환경에 동일한 리스크를 배분하면 어떤 시나리오가 와도 한쪽으로 무너지지 않는다.
 
 Dalio는 이 **전략적 배분(베타)과 전술적 베팅(알파)을 엄격히 분리**한다 — All Weather는 베타이고, 시장 타이밍은 별개 영역이다.
@@ -97,7 +101,7 @@ Dalio는 이 **전략적 배분(베타)과 전술적 베팅(알파)을 엄격히
 ## 관련 페이지
 
 - [Ray Dalio](../entities/ray-dalio.md) - All Weather 프레임워크 개발자
-- [Risk Parity](../concepts/risk-parity.md) - 위험 균형 배분 원리
-- [2×2 경제 환경 프레임](../concepts/economic-quadrants.md) - 성장/인플레 4분면
+- [Risk Parity](../principles/risk-parity.md) - 위험 균형 배분 원리
+- [2×2 경제 환경 프레임](../principles/economic-quadrants.md) - 성장/인플레 4분면
 - [레버리지와 파생상품](../concepts/leverage-and-derivatives.md) - 선물·스왑·변동성 끌림
 - [개인 투자자용 All Weather 변형](../syntheses/personal-all-weather-variant.md) - 실제 설계 사례
