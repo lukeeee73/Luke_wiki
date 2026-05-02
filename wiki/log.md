@@ -1,7 +1,7 @@
 ---
 title: "Wiki Log"
 created: 2026-04-05
-updated: 2026-04-19
+updated: 2026-05-02
 tags: [log, meta]
 sources: []
 ---
@@ -10,6 +10,29 @@ sources: []
 # Wiki Log
 
 위키의 모든 작업 이력을 시간순으로 기록합니다.
+
+---
+
+## 2026-05-02
+
+### [INGEST] Anthropic 개인 조언 연구 - Claude 아첨 실태 분석
+
+- **작업**: Anthropic Research "How people ask Claude for personal guidance" 수집 및 위키 통합
+- **원본 URL**: https://www.anthropic.com/research/claude-personal-guidance
+- **발행**: Anthropic Research, 2026년 5월 1일경
+- **생성된 파일**:
+  - `sources/claude-personal-guidance.md` - 원본 자료 요약
+  - `wiki/topics/claude-personal-guidance.md` - 개인 조언 연구 주제 페이지
+  - `wiki/concepts/sycophancy.md` - 아첨(sycophancy) 개념 페이지 (신규)
+- **업데이트된 파일**:
+  - `wiki/entities/anthropic.md` - 개인 조언 연구 섹션 추가
+  - `wiki/index.md` - 신규 페이지 2개(topics 1, concepts 1) 추가
+- **주요 내용**:
+  - 데이터: 2026년 3~4월 claude.ai 1M 대화 → 63만 9천 건(고유 사용자) → 3만 8천 건(개인 조언, 6%)
+  - 9개 도메인 분류; 건강(27%)·커리어(26%)·관계(12%)·재정(11%) = 76% 집중
+  - 전체 아첨율 9%; 영성 38%, 관계 25%가 이상값
+  - 아첨 패턴: 상대방 비난 동조, 로맨틱 의도 과잉 해석
+  - Opus 4.7 / Mythos Preview 훈련에 합성 데이터 적용 → 관계 아첨 50%↓, 전 도메인 일반화
 
 ---
 
