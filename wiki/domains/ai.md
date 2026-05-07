@@ -1,7 +1,7 @@
 ---
 title: "AI Domain Index"
 created: 2026-05-02
-updated: 2026-05-02
+updated: 2026-05-07
 domain: ai
 type: index
 weight: foundational
@@ -31,6 +31,7 @@ AI/LLM, 에이전트, 프롬프트 엔지니어링, AI 제품 관련 모든 페�
 - [에이전트 Eval 방법론](../concepts/agentic-evals.md) — 에이전트 성능 평가의 인프라 노이즈 문제와 방법론
 - [Claude Code](../concepts/claude-code.md) — Anthropic의 CLI 코딩 에이전트 개요
 - [음성 기반 AI](../concepts/voice-based-ai.md) — Voice-first AI 트렌드와 기술 스택
+- [Muon Optimizer](../concepts/muon-optimizer.md) — 행렬 파라미터 직교화 기반 옵티마이저 (Polar Express + NorMuon)
 
 ---
 
@@ -40,6 +41,7 @@ AI/LLM, 에이전트, 프롬프트 엔지니어링, AI 제품 관련 모든 페�
 - [Anthropic Managed Agents](../topics/anthropic-managed-agents.md) — Managed Agents 아키텍처 상세
 - [Anthropic: Eval 인프라 노이즈 정량화](../topics/anthropic-infrastructure-noise.md) — Terminal-Bench 기반 노이즈 측정 연구
 - [Claude Code 세션 관리와 1M 컨텍스트](../topics/claude-code-session-management.md) — 긴 세션의 컨텍스트 관리 전략
+- [Karpathy Autoresearch](../topics/karpathy-autoresearch.md) — AI 에이전트가 단일 GPU에서 자율 ML 실험 (630줄, 2026-05)
 - [The Batch Issue 347 요약](../topics/the-batch-issue-347.md) — 2026년 AI 뉴스 스냅샷
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "Wiki Log"
 created: 2026-04-05
-updated: 2026-05-02
+updated: 2026-05-07
 tags: [log, meta]
 sources: []
 ---
@@ -10,6 +10,36 @@ sources: []
 # Wiki Log
 
 위키의 모든 작업 이력을 시간순으로 기록합니다.
+
+---
+
+## 2026-05-07
+
+### [INGEST] Karpathy Autoresearch — 자율 ML 실험 루프 train.py
+
+- **작업**: Andrej Karpathy의 `karpathy/autoresearch` 저장소 `train.py` 수집 및 위키 통합
+- **원본 URL**: https://github.com/karpathy/autoresearch/blob/master/train.py (master, 630줄)
+- **수집 방법**: `curl` raw.githubusercontent.com 직접 다운로드
+- **생성된 파일**:
+  - `sources/karpathy-autoresearch-train.py` - 원본 Python 코드 (불변, 26KB)
+  - `wiki/topics/karpathy-autoresearch.md` - autoresearch 프로젝트 + train.py 구성 분석 (fact-set)
+  - `wiki/concepts/muon-optimizer.md` - Muon 옵티마이저 개념 페이지 (framework)
+- **업데이트된 파일**:
+  - `wiki/entities/andrej-karpathy.md` - autoresearch 섹션 추가, sources 확장
+  - `wiki/domains/ai.md` - 신규 2개 페이지 링크 추가
+  - `wiki/index.md` - concepts 1개, topics 1개 추가
+- **주요 내용**:
+  1. Autoresearch 작동 원리: 에이전트가 train.py 수정 → 5분 학습 → val_bpb 측정 → 채택/폐기 → 반복. 하룻밤 50회 자율 실험
+  2. train.py 모델 아키텍처: GQA, RoPE, QK-Norm, ResFormer Value Embedding, Sliding Window (SSSL), ReLU² MLP, Logit softcap, per-layer residual scalars
+  3. MuonAdamW 옵티마이저: 2D 행렬엔 Muon, 그 외엔 AdamW
+  4. Muon 핵심 단계: Polar Express orthogonalization (5스텝 NS 변형) + NorMuon variance reduction + Cautious weight decay + Nesterov momentum
+  5. Flash Attention 3 동적 로드 (Hopper vs 비-Hopper)
+  6. 학습 루프 특징: 시간 예산 기반 종료, fast fail (loss > 100), GC freeze/disable로 ~500ms stall 제거
+  7. `@torch.compile(fullgraph=True)` + 0-D CPU 텐서로 재컴파일 회피
+- **위키 관점 판단**:
+  - Generator-Evaluator 루프의 또 다른 인스턴스 (평가자를 결정론적 스칼라 지표로 극단 단순화)
+  - 단일 파일 LLM 학습 reference implementation으로 가치 높음
+- **비고**: 위키 최초의 ML 학습 시스템 코드 자료. 기존 AI 도메인이 에이전트·하니스·평가 중심이었다면, 이번 ingest로 모델 학습·옵티마이저 축이 추가됨.
 
 ---
 
