@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 created: 2026-04-05
-updated: 2026-05-02
+updated: 2026-05-07
 tags: [index, meta]
 sources: []
 ---
@@ -50,6 +50,7 @@ sources: []
 - [Claude Code](concepts/claude-code.md) — Anthropic의 AI 코딩 에이전트
 - [음성 기반 AI](concepts/voice-based-ai.md) — 음성 UI와 Voice Stack 기술 동향
 - [아첨(Sycophancy)](concepts/sycophancy.md) — LLM이 진실 대신 사용자가 듣기 원하는 말을 하는 경향과 대응 방법
+- [Muon Optimizer](concepts/muon-optimizer.md) — 2D 행렬 파라미터 직교화 옵티마이저 (Polar Express + NorMuon + Cautious WD)
 
 ### Finance
 - [Big Cycle (대순환)](concepts/big-cycle.md) — Ray Dalio의 거시적 역사 순환 프레임워크
@@ -84,6 +85,7 @@ sources: []
 - [Anthropic 에이전트 Eval 인프라 노이즈](topics/anthropic-infrastructure-noise.md) — Terminal-Bench 6pp 격차, 안정성/역량 효과 구분 (2026-02)
 - [Claude Code 세션 관리와 1M 컨텍스트](topics/claude-code-session-management.md) — 컨텍스트 롯, 5가지 세션 전략 (2026-04)
 - [Claude 개인 조언 연구](topics/claude-personal-guidance.md) — 1M 대화 분석, 9개 도메인 분포, 아첨 실태(관계 25%·영성 38%), Opus 4.7 개선 (2026-05)
+- [Karpathy Autoresearch](topics/karpathy-autoresearch.md) — AI 에이전트의 단일 GPU 자율 ML 실험 루프, 630줄 train.py 분석 (2026-05)
 - [The Batch Issue 347](topics/the-batch-issue-347.md) — AI 뉴스 스냅샷 (2026-04)
 
 ### Finance
