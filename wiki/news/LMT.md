@@ -12,7 +12,7 @@ sources: []
 
 # LMT — Routine News Log
 
-**Lockheed Martin Corporation** · Industrials · 산업재 / 방산 · 경쟁사: RTX, NOC, GD, BA
+**Lockheed Martin Corp.** · Industrials · 산업재 / 방산 · 경쟁사: RTX, NOC, GD, BA
 
 > [!info] 자동 수집 노트
 > 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 신규 항목은 모두 `[!claim]` (confidence: low) 로 들어오고, 후속 일자에 [사실 누적] 또는 [반증] 으로 분류된다. 폴더 규칙: [news/README.md](README.md).
