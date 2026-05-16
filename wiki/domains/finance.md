@@ -60,5 +60,14 @@ sources: []
 
 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. **검증되지 않은 raw 상태이므로 `news/` 폴더로 격리**되어 있으며, 굳어진 사실만 사람이 직접 `topics/` 로 promote 한다. 자세한 규칙: [news/README.md](../news/README.md).
 
-- [Watchlist News Dashboard](../news/_dashboard.md) — 9 종목 한눈에 보기
-- 종목별 누적: [AAPL](../news/AAPL.md) · [MSFT](../news/MSFT.md) · [GOOGL](../news/GOOGL.md) · [AMZN](../news/AMZN.md) · [NVDA](../news/NVDA.md) · [META](../news/META.md) · [ORCL](../news/ORCL.md) · [PLTR](../news/PLTR.md) · [TSLA](../news/TSLA.md)
+- [Watchlist News Dashboard](../news/_dashboard.md) — watchlist 전 종목 한눈에 보기 (섹터별)
+- **빅테크 / AI 플랫폼**: [AAPL](../news/AAPL.md) · [MSFT](../news/MSFT.md) · [GOOGL](../news/GOOGL.md) · [AMZN](../news/AMZN.md) · [META](../news/META.md) · [ORCL](../news/ORCL.md) · [PLTR](../news/PLTR.md)
+- **반도체**: [NVDA](../news/NVDA.md) · [AMD](../news/AMD.md) · [TSM](../news/TSM.md) · [AVGO](../news/AVGO.md)
+- **자동차 / 모빌리티**: [TSLA](../news/TSLA.md)
+- **바이오 / 제약 / 헬스케어**: [LLY](../news/LLY.md) · [NVO](../news/NVO.md) · [JNJ](../news/JNJ.md) · [UNH](../news/UNH.md)
+- **에너지 / 원자재**: [XOM](../news/XOM.md) · [FCX](../news/FCX.md) · [NEM](../news/NEM.md)
+- **금융**: [JPM](../news/JPM.md) · [V](../news/V.md) · [BRK-B](../news/BRK-B.md)
+- **소비재**: [WMT](../news/WMT.md) · [COST](../news/COST.md) · [KO](../news/KO.md)
+- **산업재 / 방산**: [CAT](../news/CAT.md) · [BA](../news/BA.md) · [LMT](../news/LMT.md)
+- **부동산 (REITs)**: [AMT](../news/AMT.md) · [PLD](../news/PLD.md) · [EQIX](../news/EQIX.md)
+- **조선 (한국)**: [329180.KS](../news/329180.KS.md) · [042660.KS](../news/042660.KS.md)

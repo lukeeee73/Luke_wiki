@@ -1,18 +1,18 @@
 ---
-title: "ORCL — Routine News Log"
+title: "PLD — Routine News Log"
 created: 2026-05-16
 updated: 2026-05-16
 domain: finance
 type: claim
 weight: reference
 confidence: low
-tags: [routine-news, watchlist, ORCL]
+tags: [routine-news, watchlist, PLD]
 sources: []
 ---
 
-# ORCL — Routine News Log
+# PLD — Routine News Log
 
-**Oracle Corporation** · Technology · 빅테크 / AI 플랫폼 · 경쟁사: MSFT, SAP, IBM, CRM
+**Prologis, Inc.** · Real Estate · 부동산 (REITs) · 경쟁사: EXR, PSA, EGP, FR
 
 > [!info] 자동 수집 노트
 > 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 신규 항목은 모두 `[!claim]` (confidence: low) 로 들어오고, 후속 일자에 [사실 누적] 또는 [반증] 으로 분류된다. 폴더 규칙: [news/README.md](README.md).
