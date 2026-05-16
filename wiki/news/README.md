@@ -25,17 +25,34 @@ sources: []
 ```
 wiki/news/
 ├── README.md           # 이 파일
-├── _dashboard.md       # 9 종목의 가장 최근 narrative_score / 핵심 이슈 한눈에 보기
-├── AAPL.md             # 종목별 누적 로그 (역순)
-├── MSFT.md
-├── GOOGL.md
-├── AMZN.md
-├── NVDA.md
-├── META.md
-├── ORCL.md
-├── PLTR.md
-└── TSLA.md
+├── _dashboard.md       # 모든 종목의 가장 최근 narrative_score / 핵심 이슈 한눈에 보기 (섹터별)
+└── {TICKER}.md         # 종목별 누적 로그 (역순). 한국 종목은 {NUMBER}.KS.md
 ```
+
+`_dashboard.md` 와 `{TICKER}.md` 의 watchlist 는 `indicator_dashboard` 의
+`scripts/fetch_fred.py` 의 `STOCKS` 딕셔너리를 단일 진실 공급원으로 사용한다.
+종목·섹터가 추가/변경되면 루틴이 새 `{TICKER}.md` 를 자동 생성하고
+`_dashboard.md` 의 해당 섹터 표에 행을 추가한다.
+
+## 섹터 그룹 (현재 운영 중)
+
+`_dashboard.md` 에서 종목 행을 다음 섹터 헤더 아래에 묶는다 (순서 고정):
+
+1. 빅테크 / 소프트웨어 (10 종목)
+2. 반도체 (10 종목)
+3. 자동차 / 모빌리티 (10 종목)
+4. 바이오 / 제약 / 헬스케어 (10 종목)
+5. 에너지 / 원자재 (10 종목)
+6. 금융 (10 종목)
+7. 소비재 (10 종목)
+8. 산업재 / 방산 (10 종목)
+9. 부동산 (REITs) (10 종목)
+10. 통신 / 미디어 (10 종목)
+11. 유틸리티 / 전력 (10 종목)
+12. 조선 (한국) (4 종목)
+
+이 순서는 `indicator_dashboard` 의 `app.js` `STOCK_GROUPS` 및 `scripts/watchlist_data.py` `GROUPS` 와 일치한다.
+
 
 ## 각 종목 파일의 구조
 
@@ -81,7 +98,7 @@ tags: [routine-news, watchlist, {TICKER}]
 
 ## 옵시디언에서 보는 법
 
-- 폰에서 빠르게 보고 싶으면 `_dashboard.md` 에 9 종목 narrative_score / 핵심 이슈가 한 표로 모여 있음.
+- 폰에서 빠르게 보고 싶으면 `_dashboard.md` 에 watchlist 전 종목 narrative_score / 핵심 이슈가 섹터별 표로 모여 있음.
 - 종목 깊게 보려면 `{TICKER}.md` → 맨 위 [미해결 가설] → 그 아래 [일자별 기록].
 - 다른 위키 페이지와 섞이지 않도록 `routine-news` 태그로 필터 가능.
 

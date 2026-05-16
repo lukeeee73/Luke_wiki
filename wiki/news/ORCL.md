@@ -12,7 +12,7 @@ sources: []
 
 # ORCL — Routine News Log
 
-**Oracle Corp.** · Technology · 경쟁사: MSFT, SAP, IBM, CRM
+**Oracle Corporation** · Technology · 빅테크 / 소프트웨어 · 경쟁사: MSFT, CRM, SAP, IBM
 
 > [!info] 자동 수집 노트
 > 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 신규 항목은 모두 `[!claim]` (confidence: low) 로 들어오고, 후속 일자에 [사실 누적] 또는 [반증] 으로 분류된다. 폴더 규칙: [news/README.md](README.md).
