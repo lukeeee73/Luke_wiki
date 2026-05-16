@@ -1,7 +1,7 @@
 ---
 title: "Finance Domain Index"
 created: 2026-05-02
-updated: 2026-05-02
+updated: 2026-05-16
 domain: finance
 type: index
 weight: foundational
@@ -53,3 +53,12 @@ sources: []
 ## 관련 인물
 
 - [Ray Dalio](../entities/ray-dalio.md) — Bridgewater 창립자, All Weather·Risk Parity·Big Cycle 제안자
+
+---
+
+## Watchlist 뉴스 로그 (루틴 자동 수집, `confidence: low`)
+
+`indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. **검증되지 않은 raw 상태이므로 `news/` 폴더로 격리**되어 있으며, 굳어진 사실만 사람이 직접 `topics/` 로 promote 한다. 자세한 규칙: [news/README.md](../news/README.md).
+
+- [Watchlist News Dashboard](../news/_dashboard.md) — 9 종목 한눈에 보기
+- 종목별 누적: [AAPL](../news/AAPL.md) · [MSFT](../news/MSFT.md) · [GOOGL](../news/GOOGL.md) · [AMZN](../news/AMZN.md) · [NVDA](../news/NVDA.md) · [META](../news/META.md) · [ORCL](../news/ORCL.md) · [PLTR](../news/PLTR.md) · [TSLA](../news/TSLA.md)

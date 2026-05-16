@@ -26,8 +26,18 @@ Luke_wiki/
     ├── entities/          # 엔티티 페이지 (인물, 조직, 도구 등)
     ├── topics/            # 주제별 요약 페이지
     ├── comparisons/       # 비교 분석 페이지
-    └── syntheses/         # 종합 분석 / 내 판단 페이지
+    ├── syntheses/         # 종합 분석 / 내 판단 페이지
+    └── news/              # 루틴 자동 수집 — watchlist 종목 뉴스 누적 (구분된 영역)
 ```
+
+### 사람-작성 영역 vs 루틴-수집 영역
+
+`wiki/` 하위 폴더는 두 부류로 나뉜다:
+
+- **사람-작성 영역** (`principles/`, `concepts/`, `topics/`, `comparisons/`, `syntheses/`, `entities/`, `domains/`): 사용자가 직접 또는 ingest 작업을 통해 출처에서 정제한 콘텐츠. `confidence: high|medium` 가 많다.
+- **루틴-수집 영역** (`news/`): `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 자동으로 누적하는 watchlist 뉴스. 모든 신규 항목은 `type: claim`, `confidence: low`, `tags: [routine-news, ...]` 로 들어와 사람-작성 영역과 명확히 구분된다. 자세한 규칙은 [wiki/news/README.md](wiki/news/README.md).
+
+루틴이 만든 항목은 사람의 확인 후 `wiki/topics/` 등으로 승격될 수 있지만, 그 전까지는 항상 `news/` 안에서만 살아있다.
 
 ### 폴더 배치 기준
 
@@ -38,6 +48,7 @@ Luke_wiki/
 | `syntheses/` | 내가 원칙+사실+의견을 종합해 내린 **나 자신의 판단** |
 | `topics/` | 특정 주제에 대한 요약. 출처 기반, 내 판단보다는 정리 |
 | `domains/` | 도메인별 진입점. 직접적 지식 내용 없이 링크만 모음 |
+| `news/` | 루틴이 매일 자동 수집하는 watchlist 종목 뉴스 로그. **루틴 전용 영역** — 사람은 promote/검증만 한다 |
 
 ## 도메인 정의
 
@@ -180,3 +191,16 @@ callout 우선순위 (적용 기준):
 - **frontmatter 필수 필드 누락** (`domain`, `type`, `weight`, `confidence`) 식별
 - **인용 callout 없이 외부 주장이 본문에 포함된 페이지** 식별
 - **도메인 인덱스와 실제 파일 목록의 불일치** 확인
+
+## Promotion: news/ → topics/ (사람의 작업)
+
+루틴이 누적한 `news/{TICKER}.md` 의 **[사실 누적]** 섹션 항목이 의미 있게 굳어지면, 사람이 다음 절차로 사람-작성 영역에 승격(promote)할 수 있다:
+
+1. `news/{TICKER}.md` 의 해당 `[!fact]` 블록 선택
+2. 새 페이지 `wiki/topics/{slug}.md` 생성 — frontmatter 의 `confidence` 는 `medium` 이상, `tags` 에서 `routine-news` 를 빼고 정상 태그로
+3. `sources:` 에 해당 뉴스의 URL 들을 명시
+4. `news/{TICKER}.md` 에서는 그 항목 옆에 `→ wiki/topics/{slug}.md 로 승격됨 (YYYY-MM-DD)` 노트만 남기고 본문은 유지
+5. `wiki/index.md` 와 `wiki/domains/finance.md` 에 새 페이지 링크 추가
+6. `wiki/log.md` 에 `[PROMOTE]` 항목 기록
+
+루틴은 이 promotion 노트를 인식하고 더 이상 같은 사실을 [사실 누적] 에 중복으로 쌓지 않는다.
