@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 created: 2026-04-05
-updated: 2026-05-07
+updated: 2026-05-16
 tags: [index, meta]
 sources: []
 ---
@@ -108,3 +108,12 @@ sources: []
 원칙+사실+의견을 종합해 내린 판단. 출처보다 내 상황이 반영된 페이지.
 
 - [개인 투자자용 All Weather 변형 포트폴리오](syntheses/personal-all-weather-variant.md) — 4분면 커버리지 유지 + 레버리지 포기 + 성장↑ 약한 가중치 (2026-04)
+
+---
+
+## News — 루틴 자동 수집 (`type: claim`, `confidence: low`)
+
+`indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적하는 watchlist 종목 뉴스 로그. **사람-작성 영역과 분리된 별도 폴더**이며, 모든 항목은 `tags: [routine-news, ...]` 로 식별된다. 검증된 사실은 `topics/` 로 promote 가능. 자세한 규칙: [news/README.md](news/README.md).
+
+- [Watchlist News Dashboard](news/_dashboard.md) — 9 종목 최신 narrative_score / 핵심 한 줄
+- [AAPL](news/AAPL.md) · [MSFT](news/MSFT.md) · [GOOGL](news/GOOGL.md) · [AMZN](news/AMZN.md) · [NVDA](news/NVDA.md) · [META](news/META.md) · [ORCL](news/ORCL.md) · [PLTR](news/PLTR.md) · [TSLA](news/TSLA.md)
