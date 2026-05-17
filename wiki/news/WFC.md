@@ -1,7 +1,7 @@
 ---
 title: "WFC — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-17
 domain: finance
 type: claim
 weight: reference
@@ -23,9 +23,9 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-17**: Fed WFC 자산제한 해제 — 대출 성장 본격화 시작 (pending)
+- [ ] **2026-05-17**: WFC CEO ROTCE 17-18% 중기 목표 — 실행 가능성 추적 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,5 +42,27 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+
+### 2026-05-17
+
+**narrative_score**: +0.18 (전회 —, Δ —)
+**key_events**: Fed 자산제한 공식 해제 (7년 만)、Q1 EPS $1.60 +15% YoY、CEO ROTCE 17-18% 목표 재확인
+**risks**: YTD -15% 주가 — 투자자 신뢰 회복 진행 중、단기 옵션 약세 포지션 우세
+
+> [!claim] (출처: Reuters, 2026-05-12) Federal Reserve lifts Wells Fargo asset cap
+> Fed, 7년 만에 WFC 자산제한 공식 해제. impact: + / category: regulation
+
+> [!claim] (출처: Yahoo Finance, 2026-04-14) WFC Q1 2026: EPS $1.60 (+15% YoY)
+> WFC Q1 EPS $1.60 소폭 상회, 매출 $21.45B 소폭 미스. impact: + / category: earnings
+
+> [!claim] (출처: 247 Wall St., 2026-05-12) Wells Fargo set for 16% upside; CEO reaffirms ROTCE 17-18%
+> WFC YTD -15% 하락에도 Strong Buy 컨센서스, CEO ROTCE 목표 재확인. impact: + / category: other
+
+> [!claim] (출처: GuruFocus, 2026-05-13) WFC shares down 4.5%; option traders moderately bearish
+> WFC 최근 4.5% 하락, 옵션 약세 포지션 우세. impact: - / category: other
+
+**경쟁사 동향**:
+- JPM: 52개 지점 확장 — WFC 규제 해소 후 본격 경쟁 시작 (impact for WFC: -)
+- BAC: Q1 EPS +25% — 업계 동반 호조, WFC 실적 개선 기대 강화 (impact for WFC: +)
+
 <!-- DAILY_END -->
