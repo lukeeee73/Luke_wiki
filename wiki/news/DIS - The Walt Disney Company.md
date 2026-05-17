@@ -1,7 +1,7 @@
 ---
 title: "DIS - The Walt Disney Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-17
 domain: finance
 type: claim
 weight: reference
@@ -12,39 +12,51 @@ sources: []
 
 # DIS - The Walt Disney Company — Routine News Log
 
-**The Walt Disney Company** · Communication Services · 통신 / 미디어 · 경쟁사: NFLX, CMCSA
+**The Walt Disney Company** · Communication Services · 통신 / 미디어 · 경쟁사: NFLX, CMCSA, WBD, PARA
 
 ## 회사 소개
 
-마블, 스타워즈, 픽사, 디즈니 애니메이션 등 세계 최대 미디어·엔터테인먼트 제국. 디즈니랜드·월드 테마파크를 운영하고, 디즈니+ 스트리밍 서비스도 제공한다. IP(지식재산권, 쉽게 말해 캐릭터와 이야기 콘텐츠) 활용이 핵심 경쟁력이다.
+마블, 스타워즈, 픽사, 디즈니 애니메이션 등 세계 최대 미디어·엔터테인먼트 제국. 디즈니랜드·월드 테마파크를 운영하고, 디즈니+ 스트리밍 서비스도 제공한다. IP(지식재산권, 쉽게 말해 캐릭터와 이야기 콘텐츠) 활용이 핵심 경쟁력이다. ESPN을 보유하며 스포츠 중계권 사업도 영위한다. 2026년 Q2에 처음으로 두 자릿수 스트리밍 영업마진을 달성하며 수익화 전환점을 확인했다.
 
 > [!info] 자동 수집 노트
-> 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 신규 항목은 모두 `[!claim]` (confidence: low) 로 들어오고, 후속 일자에 [사실 누적] 또는 [반증] 으로 분류된다. 폴더 규칙: [news/README.md](README.md).
+> 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다.
+> 직접 편집해도 되지만, HTML 마커(`<!-- OPEN_CLAIMS_START -->` 등)는 지우지 말 것.
 
 ---
 
 ## 미해결 가설 (Open Claims)
-
-루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
-
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-17**: 디즈니+ 두 자릿수 스트리밍 마진이 FY2027에도 유지·확대될 것인가 (pending)
+- [ ] **2026-05-17**: 국내 테마파크 방문객 -1%가 소비자 지출 둔화의 선행 신호인가, 일시적 현상인가 (pending)
 <!-- OPEN_CLAIMS_END -->
 
----
-
 ## 사실 누적 (Verified Facts)
-
-독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
-
 <!-- FACTS_START -->
 <!-- FACTS_END -->
 
----
-
 ## 일자별 기록 (역순)
-
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+
+### 2026-05-17
+
+**narrative_score**: +0.40 (첫 기록)
+**key_events**: Q2 EPS $1.57 예상치 상회 주가 +7% 반응, 디즈니+ 스트리밍 영업이익 +88% 첫 두 자릿수 마진, FY2026 조정 EPS 가이던스 +12% 자사주 매입 $80억 이상, FY2027 두 자릿수 EPS 성장 전망
+**risks**: 국내 테마파크 방문객 -1% 소비자 지출 둔화 신호, Netflix 스포츠 콘텐츠 확장으로 ESPN+ 경쟁 심화, 중국 박스오피스 노출 지정학 리스크
+
+> [!claim] (출처: CNBC / Variety, 2026-05-06) Disney Q2 FY2026 Earnings: Revenue +6.5% to $25.17B, EPS $1.57 Beats, Streaming Income +88%
+> Q2 매출 $251.7억(+6.5% YoY), EPS $1.57(예상 $1.49 상회), 스트리밍 영업이익 $5.82억(+88%). impact: + / category: earnings
+
+> [!claim] (출처: Variety, 2026-05-06) Disney+ Achieves First Double-Digit Streaming Operating Margin — Subscription Revenue Up 14%
+> 디즈니+ 첫 두 자릿수 스트리밍 영업마진 달성, 구독 매출 +14% — 수익화 전환점 확인. impact: + / category: earnings
+
+> [!claim] (출처: The Wrap, 2026-05-06) Disney Theme Parks Revenue +7% YoY to $9.5B Despite 1% Domestic Attendance Decline
+> 테마파크 매출 $95억(+7% YoY), 국내 방문객 -1%에도 1인당 지출 증가로 성장 유지. impact: + / category: earnings
+
+> [!claim] (출처: 247 Wall St., 2026-05-12) Analysts See 20% Upside for Disney on New Streaming Profitability Milestone
+> 애널리스트들, 스트리밍 수익화 마일스톤 달성 근거로 추가 20% 상승 여력 제시. impact: + / category: earnings
+
+**경쟁사 동향**:
+- NFLX: 광고형 2.5억 시청자, Q1 FCF +91%, NFL 5경기 중계 확대 (impact for DIS: -)
+- CMCSA: 피콕 CFO Q2 손익분기점 근접 전망 (impact for DIS: neutral)
+
 <!-- DAILY_END -->
