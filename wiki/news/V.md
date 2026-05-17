@@ -1,7 +1,7 @@
 ---
 title: "V — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-17
 domain: finance
 type: claim
 weight: reference
@@ -23,9 +23,9 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-17**: UK FCA V·MA·PayPal 디지털 지갑 경쟁 조사 — 규제 결과 대기 (pending)
+- [ ] **2026-05-17**: Visa Agentic Ready 글로벌 확장 — AI 결제 선점 전략 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,5 +42,30 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+
+### 2026-05-17
+
+**narrative_score**: +0.15 (전회 —, Δ —)
+**key_events**: FY2Q EPS +20%·매출 +17%、Agentic Ready 캐나다 확장、UK FCA 디지털 지갑 조사
+**risks**: UK FCA 디지털 지갑 경쟁 조사 결과、PayPal 등 비은행 결제 경쟁
+
+> [!claim] (출처: Motley Fool, 2026-05-09) Visa Q2 FY2026 EPS +20%, revenue +17%
+> Visa FY2Q26 EPS +20%·매출 +17%, 소비자 심리 견조. impact: + / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-05-05) Visa expands Agentic Ready to Canada
+> AI 에이전트 결제 대응 프로그램 캐나다 확장. impact: + / category: product
+
+> [!claim] (출처: Reuters, 2026-05-12) UK FCA competition probe into Visa, Mastercard, PayPal
+> 영국 FCA 디지털 지갑 경쟁 조사 착수. impact: - / category: regulation
+
+> [!claim] (출처: MarketBeat, 2026-05-12) Truist raises Visa target to $371
+> Truist 목표주가 $361→$371 상향. impact: + / category: other
+
+> [!claim] (출처: Yahoo Finance, 2026-05-15) Baupost initiates Visa stake
+> 세스 클라만 바우포스트, Visa 신규 매수. impact: + / category: other
+
+**경쟁사 동향**:
+- MA: UK FCA 동일 디지털 지갑 조사 — 규제 리스크 공유, V 단독 불이익 없음 (impact for V: neutral)
+- AXP: Q1 EPS +18%, 프리미엄 소비자 지출 강세 — Visa 결제 볼륨에 긍정 (impact for V: +)
+
 <!-- DAILY_END -->

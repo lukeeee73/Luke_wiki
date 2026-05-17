@@ -1,7 +1,7 @@
 ---
 title: "PLD — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-17
 domain: finance
 type: claim
 weight: reference
@@ -23,9 +23,9 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-17**: PLD 데이터센터 개발 착공 $4.5-5.5B — AI 수요 포착 전략 (pending)
+- [ ] **2026-05-17**: PLD Q1 순이익 +66% YoY — 포트폴리오 리밸런싱 효과 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,5 +42,27 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+
+### 2026-05-17
+
+**narrative_score**: +0.18 (전회 —, Δ —)
+**key_events**: Q1 EPS +29.6% 대폭 상회·순이익 +66%、데이터센터 개발 착공 $4.5-5.5B、BMO 아웃퍼폼 업그레이드·$162 목표
+**risks**: 데이터센터 공급 과잉 리스크 중기 주시、금리 유지 시 REIT 배당 매력 상대 약화
+
+> [!claim] (출처: CNBC, 2026-04-16) Prologis Q1 2026: EPS $1.05 beats by 29.6%; net income +66%
+> PLD Q1 EPS $1.05(예상 +29.6%), 순이익 +66% YoY. impact: + / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-04-16) Prologis raises 2026 guidance; development starts $4.5B-$5.5B
+> PLD 2026 가이던스 $3.80-4.05, 데이터센터 개발 착공 $4.5-5.5B. impact: + / category: product
+
+> [!claim] (출처: BMO Capital, 2026-05-08) BMO upgrades PLD to Outperform; target $162
+> BMO PLD 아웃퍼폼 업그레이드·목표주가 $162 — 데이터센터 강조. impact: + / category: other
+
+> [!claim] (출처: Simply Wall St, 2026-05-13) PLD 30-day return +6.8%; 1-year +39.6%
+> PLD 30일 +6.8%, 1년 +39.6% 강력 모멘텀. impact: + / category: other
+
+**경쟁사 동향**:
+- EQIX: Q1 매출 +8%·AI 데이터센터 $50B 붐 — PLD 산업용 공간 간접 수혜 (impact for PLD: +)
+- AMT: 데이터센터 매출 +17% — AI 수요 섹터 동기화 확인 (impact for PLD: +)
+
 <!-- DAILY_END -->

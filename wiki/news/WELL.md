@@ -1,7 +1,7 @@
 ---
 title: "WELL — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-17
 domain: finance
 type: claim
 weight: reference
@@ -23,9 +23,9 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-17**: WELL Q1 동일점포 NOI +16.4% — 고령화 수요 구조적 성장 확인 (pending)
+- [ ] **2026-05-17**: WELL 목표주가 일제 상향 (최고 $255) — 프리미엄 밸류에이션 정당성 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,5 +42,27 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+
+### 2026-05-17
+
+**narrative_score**: +0.20 (전회 —, Δ —)
+**key_events**: Q1 동일점포 NOI +16.4%·순이익 +183%、복수 애널리스트 목표주가 일제 상향 (최고 $255)、주가 52주 +43.7%
+**risks**: 현재 주가 $217 vs 목표 $255 — 이미 상당 부분 프리싱됨、헬스케어 REIT 규제·의료비 정책 리스크
+
+> [!claim] (출처: Simply Wall St, 2026-04-29) Welltower Q1 2026: FFO $1.47, same-store NOI +16.4%; net income +183%
+> WELL Q1 FFO $1.47·동일점포 NOI +16.4%·순이익 +183%. impact: + / category: earnings
+
+> [!claim] (출처: ad-hoc-news, 2026-05-12) Multiple analysts raise WELL targets: Jefferies $248, Citi $255, BMO $245
+> Jefferies $248·Citi $255·BMO $245·RBC $238·UBS $249 일제 상향. impact: + / category: other
+
+> [!claim] (출처: ad-hoc-news, 2026-04-28) Welltower declares $0.74/share dividend; ex-date May 13
+> WELL $0.74 분기 배당, 기준일 5월 13일. impact: + / category: earnings
+
+> [!claim] (출처: StockTitan, 2026-05-01) Welltower stock +43.7% in 52 weeks; 1-month +7.96%
+> WELL 52주 +43.7%·1개월 +7.96% 강력 모멘텀. impact: + / category: other
+
+**경쟁사 동향**:
+- PSA: Q1 동일점포 NOI +0.4% 부진 vs WELL +16.4% — 헬스케어 REIT 차별화 부각 (impact for WELL: +)
+- VICI: Q1 EPS +15.5%·인수 활발 — REIT 섹터 성장 확인 (impact for WELL: +)
+
 <!-- DAILY_END -->

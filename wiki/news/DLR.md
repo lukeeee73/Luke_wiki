@@ -1,7 +1,7 @@
 ---
 title: "DLR — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-17
 domain: finance
 type: claim
 weight: reference
@@ -23,9 +23,9 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-17**: DLR Q1 매출 +16.2% — AI 수요 구조적 성장 확인 (pending)
+- [ ] **2026-05-17**: DLR Core FFO 가이던스 $8.00-$8.10 상향 — 수익성 개선 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,5 +42,27 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+
+### 2026-05-17
+
+**narrative_score**: +0.13 (전회 —, Δ —)
+**key_events**: Q1 매출 +16.2% YoY·Core FFO 가이던스 상향、$1.22 Q2 배당 선언、DCD 아카데미 인력 파트너십
+**risks**: AI 수요 집중 리스크 — 경기 둔화 시 자본지출 감소、금리 유지 환경에서 배당수익률 2.53% 매력도
+
+> [!claim] (출처: ad-hoc-news, 2026-04-24) Digital Realty Q1 2026: revenue +16.2% YoY; Core FFO guidance raised
+> DLR Q1 매출 +16.2% YoY, Core FFO 가이던스 $8.00-$8.10 상향. impact: + / category: earnings
+
+> [!claim] (출처: StockTitan, 2026-05-14) Digital Realty declares $1.22/share Q2 dividend
+> DLR Q2 배당 주당 $1.22 선언. impact: + / category: earnings
+
+> [!claim] (출처: StockTitan, 2026-05-12) DLR partners with DCD Academy for workforce development
+> DLR, DCD 아카데미와 운영 인력 육성 파트너십. impact: + / category: product
+
+> [!claim] (출처: Simply Wall St, 2026-05-13) DLR stock up 25.4% YTD; Moderate Buy consensus, target $213.86
+> DLR YTD +25.4%, Moderate Buy·목표주가 $213.86. impact: + / category: other
+
+**경쟁사 동향**:
+- EQIX: Q1 EBITDA 마진 51%·AI 데이터센터 $50B — DLR과 동반 수혜 확인 (impact for DLR: +)
+- AMT: 데이터센터 +17% — AI 수요 섹터 동기화 (impact for DLR: +)
+
 <!-- DAILY_END -->
