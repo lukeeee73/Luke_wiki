@@ -1,7 +1,7 @@
 ---
 title: "C — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-17
 domain: finance
 type: claim
 weight: reference
@@ -23,9 +23,9 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-17**: 씨티 ROTCE 14-15% 중기 목표 — 구조개혁 진척도 추적 (pending)
+- [ ] **2026-05-17**: 씨티 아시아·중국 확장 승인 — 신흥시장 성장 동력 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,5 +42,27 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+
+### 2026-05-17
+
+**narrative_score**: +0.03 (전회 —, Δ —)
+**key_events**: Investor Day ROTCE 11-13%(단기)→14-15%(중기)、아시아·중국 사업 확장 승인、$0.60 배당 선언
+**risks**: 구조개혁 실행 리스크 — ROTCE 목표 달성 불확실、EV 섹터 익스포저 관련 내부 리스크
+
+> [!claim] (출처: CNBC, 2026-05-07) Citigroup Investor Day: ROTCE 11-13% near-term, 14-15% medium-term
+> 씨티 인베스터 데이 ROTCE 목표 제시. impact: + / category: earnings
+
+> [!claim] (출처: Reuters, 2026-05-10) Citi expands Asia operations, approved for China
+> 씨티 아시아·중국 사업 확장 승인. impact: + / category: other
+
+> [!claim] (출처: Citigroup IR, 2026-05-01) Citigroup declares $0.60 quarterly dividend
+> 씨티 $0.60 분기 배당. impact: + / category: earnings
+
+> [!claim] (출처: MarketBeat, 2026-05-15) 16 analysts rate C Buy; target $137.16 (+9.77%)
+> 16명 매수 컨센서스, 목표주가 $137.16. impact: + / category: other
+
+**경쟁사 동향**:
+- JPM: 리테일 지점 확장 — C 글로벌 도매 집중 전략과 차별화 (impact for C: neutral)
+- GS: 주가 12개월 +65% — C IB 부문 경쟁 기준 높아짐 (impact for C: -)
+
 <!-- DAILY_END -->
