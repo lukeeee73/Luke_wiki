@@ -1,7 +1,7 @@
 ---
 title: "GOOGL - Alphabet Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-18
 domain: finance
 type: claim
 weight: reference
@@ -27,9 +27,9 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-18**: 2026 EPS 컨센서스 $11.63→$14.22 상향, 클라우드 시장 점유율 확대 (pending)
+- [ ] **2026-05-18**: Bill Ackman GOOGL 전량 매도 — 기관 투자자 이탈 신호 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,5 +46,24 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+
+### 2026-05-18
+
+**narrative_score**: +0.10 (첫 실행)
+**key_events**: EPS 컨센서스 $14.22 상향, Googlebook 출시, Ackman 전량 매도
+**risks**: Ackman 매도 후 기관 이탈 연쇄 가능성, MSFT/META AI 경쟁 심화
+
+> [!claim] (출처: Simply Wall St, 2026-05-18) 2026 매출 $486.5B·EPS $14.22로 대폭 상향
+> 클라우드 Q1 시장 점유율 확대 반영. impact: + / category: earnings
+
+> [!claim] (출처: The Motley Fool, 2026-05-12) Google 'Googlebook' 노트북 출시 발표
+> Gemini AI 통합, Dell·HP·ASUS 등 협력. impact: + / category: product
+
+> [!claim] (출처: GuruFocus, 2026-05-16) Bill Ackman GOOGL 전량 매도
+> MSFT 신규 매수로 전환. impact: - / category: other
+
+**경쟁사 동향**:
+- MSFT: OpenAI 독립 AI 전략 — Azure AI 경쟁력 강화로 Google Cloud와 점유율 경쟁 (impact for GOOGL: -)
+- META: Meta Superintelligence Labs 첫 AI 모델 공개 — 광고 AI 타겟팅 경쟁 (impact for GOOGL: -)
+
 <!-- DAILY_END -->

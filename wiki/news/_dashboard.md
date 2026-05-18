@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-05-18
 domain: finance
 type: index
 weight: reference
@@ -37,16 +37,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [AAPL](AAPL - Apple Inc.md) | — | — | — | — |
-| [MSFT](MSFT - Microsoft Corporation.md) | — | — | — | — |
-| [GOOGL](GOOGL - Alphabet Inc.md) | — | — | — | — |
-| [AMZN](AMZN - Amazon.com Inc.md) | — | — | — | — |
-| [META](META - Meta Platforms Inc.md) | — | — | — | — |
-| [ORCL](ORCL - Oracle Corporation.md) | — | — | — | — |
-| [CRM](CRM - Salesforce, Inc.md) | — | — | — | — |
-| [ADBE](ADBE - Adobe Inc.md) | — | — | — | — |
-| [IBM](IBM - International Business Machines.md) | — | — | — | — |
-| [PLTR](PLTR - Palantir Technologies Inc.md) | — | — | — | — |
+| [AAPL](AAPL - Apple Inc.md) | 2026-05-18 | -0.08 | 폴더블 힌지 결함 출시 지연 가능성 | 1 |
+| [MSFT](MSFT - Microsoft Corporation.md) | 2026-05-18 | +0.08 | OpenAI 탈피 독립 AI 전략, Ackman 매수 | 1 |
+| [GOOGL](GOOGL - Alphabet Inc.md) | 2026-05-18 | +0.10 | EPS 컨센서스 $14.22 상향, 클라우드 점유율 확대 | 2 |
+| [AMZN](AMZN - Amazon.com Inc.md) | 2026-05-18 | +0.10 | AWS +28%, $3조 돌파 임박 — 관세 소송 병행 | 2 |
+| [META](META - Meta Platforms Inc.md) | 2026-05-18 | +0.02 | Q1 매출 +33% 강세 but capex $125B 우려 | 2 |
+| [ORCL](ORCL - Oracle Corporation.md) | 2026-05-18 | +0.15 | Wedbush/Oppenheimer 동시 상향, 삼성 Java 계약 | 1 |
+| [CRM](CRM - Salesforce, Inc.md) | 2026-05-18 | -0.05 | BofA Underperform 하향, AI 좌석 잠식 우려 | 2 |
+| [ADBE](ADBE - Adobe Inc.md) | 2026-05-18 | +0.12 | $25B 자사주 + 소프트웨어 섹터 로테이션 주도 | 2 |
+| [IBM](IBM - International Business Machines.md) | 2026-05-18 | -0.08 | YTD -26% 메가캡 최하위, RBC 목표 하향 | 2 |
+| [PLTR](PLTR - Palantir Technologies Inc.md) | 2026-05-18 | +0.12 | Q1 +85% 어닝 대폭 서프라이즈, 가이던스 상향 | 2 |
 
 ### 반도체
 
@@ -207,7 +207,7 @@ sources: []
 | [010140.KS](010140.KS - Samsung Heavy Industries.md) | — | — | — | — |
 | [010620.KS](010620.KS - HMM Co.md) | — | — | — | — |
 
-## 오늘의 시그널 (2026-05-17 · 토요일 · 금융 + 부동산 REITs)
+## 오늘의 시그널 (2026-05-18 · 월요일 · 빅테크 / 소프트웨어)
 
 루틴은 다음 패턴을 감지하면 이 섹션에 기록한다:
 
@@ -218,16 +218,16 @@ sources: []
 
 ### 감지된 패턴
 
-- **섹터 동기화 (데이터센터 AI 붐)**: AMT·PLD·EQIX·DLR 4 종목이 AI/클라우드 수요로 동시에 긴정 방향 움직임. 공통 키워드 `AI`, `data center`, `cloud` 섹터 내 전 종목 공유.
-- **섹터 동기화 (금융 Q1 호조)**: JPM·BAC·WFC·MS·V·AXP 6 종목이 Q1 어닝 비트 공통 확인. Fed 금리 동결 장기화는 은행주 공통 리스크.
-- **섹터 동기화 (규제 리스크)**: V·MA 두 종목이 UK FCA 디지털 지갑 경쟁 조사로 동시 규제 부담 공유.
-- **섹터간 전파 (AI capex → 데이터센터 REIT)**: AI 설비투자 급증($50B) 이 EQIX·DLR·PLD·AMT 동반 수혜로 직접 전파.
-- **최고 신호**: SPG·WELL 각각 +0.20 — 리테일·헬스케어 REIT 최강 실적 확인. WFC +0.18 — 자산제한 해제로 투자 논거 구조적 변화.
-- **경고 신호**: PSA -0.03 — 자가창고 수요 약세 유일한 역행 종목. Dimon 인플레이션 경고는 금융 섹터 전반 리스크.
+- **섹터 동기화 (AI 독립 전략)**: MSFT·GOOGL·AMZN·META·PLTR 5 종목 모두 AI 전략이 핵심 뉴스 키워드. OpenAI 독립(MSFT), Googlebook(GOOGL), AWS AI(AMZN), Meta Superintelligence Labs(META), AIP 상업화(PLTR) 동시 가속화.
+- **섹터 동기화 (소프트웨어 섹터 로테이션)**: ADBE +3.2%·CRM 반등 시도 — 반도체에서 소프트웨어로 자금 이동이 빅테크/소프트웨어 섹터 전반에 영향.
+- **섹터 동기화 (밸류에이션 압박)**: PLTR(-26% YTD)·CRM(-30% YTD)·IBM(-26% YTD) 세 종목이 동시에 고밸류에이션·구조적 우려로 인한 조정 구간.
+- **최고 신호**: ORCL +0.15 — Wedbush·Oppenheimer 동시 상향 + 삼성 계약이 겹친 이중 긍정. PLTR +0.12 — Q1 +85% 어닝 서프라이즈, 단 밸류에이션 압박 지속.
+- **경고 신호**: AAPL -0.08 — 폴더블 출시 지연이 구글 Googlebook 출시 타이밍과 맞물려 하드웨어 경쟁에서 불리. IBM -0.08 — 메가캡 최하위 성과 지속.
+- **섹터간 전파**: 전날(토) 금융·REITs AI capex 투자 붐 → 오늘(월) 빅테크 AI 전략 가속화로 AI 테마 섹터 연속 확산.
 
 ## 사용 팁
 
 - 점수 변화가 큰 종목 우선 확인 → 해당 `{TICKER} - {name}.md` 의 [일자별 기록] 최신만 읽으면 충분.
-- [미해결 가설] 컨럼이 비어있지 않은 종목은 후속 검증이 필요한 사안이 누적된 상태.
-- 섹터 단위로 뽑어서 보면 매크로 충격이 어떤 종목들에 동시에 영향을 주는지 빠르게 파악 가능.
+- [미해결 가설] 컬럼이 비어있지 않은 종목은 후속 검증이 필요한 사안이 누적된 상태.
+- 섹터 단위로 뽑아서 보면 매크로 충격이 어떤 종목들에 동시에 영향을 주는지 빠르게 파악 가능.
 - 요일별 라운드로빈이므로 특정 종목이 몇일 동안 업데이트되지 않을 수 있다 — 정상.

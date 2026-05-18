@@ -1,7 +1,7 @@
 ---
 title: "MSFT - Microsoft Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-18
 domain: finance
 type: claim
 weight: reference
@@ -27,9 +27,8 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-18**: MSFT OpenAI 의존도 탈피 → 독립 AI 성장 전략 구체화 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,5 +45,20 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+
+### 2026-05-18
+
+**narrative_score**: +0.08 (첫 실행)
+**key_events**: OpenAI 독립 AI 전략 전환, Bill Ackman MSFT 신규 매수
+**risks**: GOOGL Googlebook 하드웨어 확장으로 Azure/Copilot 경쟁 심화
+
+> [!claim] (출처: Seeking Alpha, 2026-05-18) Microsoft OpenAI 의존도 탈피 → 독립 AI 성장 촉매
+> Azure AI 독립 로드맵 가속화 전망. impact: + / category: product
+
+> [!claim] (출처: GuruFocus, 2026-05-16) Bill Ackman GOOGL 전량 매도 후 MSFT 신규 매수
+> 기관 투자자 빅테크 내 재배치 신호. impact: + / category: other
+
+**경쟁사 동향**:
+- GOOGL: Googlebook + Gemini 출시 — 하드웨어·AI 생태계 확장으로 MSFT와 직접 경쟁 (impact for MSFT: -)
+
 <!-- DAILY_END -->
