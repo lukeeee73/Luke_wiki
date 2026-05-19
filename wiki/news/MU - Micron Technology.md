@@ -1,7 +1,7 @@
 ---
-title: "MU - Micron Technology, Inc — Routine News Log"
-created: 2026-05-16
-updated: 2026-05-16
+title: "MU - Micron Technology — Routine News Log"
+created: 2026-05-19
+updated: 2026-05-19
 domain: finance
 type: claim
 weight: reference
@@ -10,35 +10,33 @@ tags: [routine-news, watchlist, MU]
 sources: []
 ---
 
-# MU - Micron Technology, Inc — Routine News Log
+# MU - Micron Technology — Routine News Log
 
-**Micron Technology, Inc** · Technology · 반도체 · 경쟁사: INTC, AVGO, QCOM
+**Micron Technology, Inc.** · Technology · 반도체 · 경쟁사: INTC, AVGO, QCOM
 
 ## 회사 소개
 
-D램(컴퓨터·스마트폰에서 작업 중인 데이터를 임시로 저장)과 낸드플래시(SSD, USB 같은 저장장치) 반도체를 만드는 미국 유일의 메모리 반도체 회사. 삼성전자·SK하이닉스와 함께 세계 메모리 반도체 시장을 3분하고 있다. AI 서버에 필요한 고대역폭 메모리(HBM) 사업을 빠르게 확장 중이다.
+메모리 반도체(DRAM·NAND)를 만드는 글로벌 3강 중 하나(삼성·SK하이닉스·마이크론)다. AI 학습용 GPU에 필수적인 HBM(고대역폭 메모리 — 기존 메모리보다 수십 배 빠른 초고속 메모리)을 생산하며, HBM 수요 급증으로 역대급 실적을 기록 중이다. 직접 설계·생산하는 IDM 구조이며, 미국 유일의 선단 메모리 생산사로 CHIPS Act 보조금도 받는다. AI 메모리 수퍼사이클의 핵심 수혜주다.
 
 > [!info] 자동 수집 노트
-> 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 신규 항목은 모두 `[!claim]` (confidence: low) 로 들어오고, 후속 일자에 [사실 누적] 또는 [반증] 으로 분류된다. 폴더 규칙: [news/README.md](README.md).
+> 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 직접 편집해도 되지만, HTML 마커(`<!-- OPEN_CLAIMS_START -->` 등)는 지우지 말 것.
 
 ---
 
 ## 미해결 가설 (Open Claims)
 
-루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
-
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-19**: HBM 2026년 전량 매진 — 2027년 공급 계획 및 가격 협상 동향 (pending)
+- [ ] **2026-05-19**: Q2 매출 +196% YoY — 성장률 지속 가능성 vs 기저효과 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
 
 ## 사실 누적 (Verified Facts)
 
-독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
-
 <!-- FACTS_START -->
+> [!fact] (검증일 2026-05-18, 출처: TradingKey + Capital.com) MU Q2 2026 역대급 실적
+> Q2 매출 +196% YoY, 총마진 74.9%, HBM 2026년 전량 매진. Mizuho $800 (from $740), Melius Research $1,100 (from $700) 목표주가 상향.
 <!-- FACTS_END -->
 
 ---
@@ -46,5 +44,24 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+
+### 2026-05-19
+
+**narrative_score**: +0.30 (신규)
+**key_events**: HBM 2026년 전량 매진, Q2 매출 +196% YoY, Mizuho $800 / Melius $1,100 목표주가 상향
+**risks**: YTD +162% 고밸류에이션, 반도체 메모리 사이클 경기 민감성
+
+> [!claim] (출처: TradingKey, 2026-05-18) Q2 2026 역대급 실적 — HBM 전량 매진
+> Q2 매출 +196% YoY, 총마진 74.9%, HBM 2026 전량 매진. impact: + / category: earnings
+
+> [!claim] (출처: Capital.com, 2026-05-17) Mizuho $800, Melius $1,100 목표주가 상향
+> HBM 수요 강세·AI 메모리 사이클 장기화 반영. impact: + / category: earnings
+
+> [!claim] (출처: Motley Fool, 2026-05-18) 반도체 섹터 조정에 동반하락
+> 강한 펀더멘털에도 금리 우려 등 매크로 압박으로 단기 조정. impact: - / category: macro
+
+**경쟁사 동향**:
+- NVDA: Q1 어닝 5/20 발표 예정 — NVDA GPU 강세는 HBM3e 수요 지속 신호 (impact for MU: +)
+- LRCX: 메모리 장비 수요 강세 — HBM 증설 공급망 전반 강세 확인 (impact for MU: +)
+
 <!-- DAILY_END -->

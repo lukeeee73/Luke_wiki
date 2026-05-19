@@ -1,7 +1,7 @@
 ---
-title: "ASML - ASML Holding N.V — Routine News Log"
-created: 2026-05-16
-updated: 2026-05-16
+title: "ASML - ASML Holding NV — Routine News Log"
+created: 2026-05-19
+updated: 2026-05-19
 domain: finance
 type: claim
 weight: reference
@@ -10,33 +10,29 @@ tags: [routine-news, watchlist, ASML]
 sources: []
 ---
 
-# ASML - ASML Holding N.V — Routine News Log
+# ASML - ASML Holding NV — Routine News Log
 
-**ASML Holding N.V** · Technology · 반도체 · 경쟁사: AMAT, LRCX
+**ASML Holding N.V.** · Technology · 반도체 · 경쟁사: AMAT, LRCX
 
 ## 회사 소개
 
-반도체를 만드는 기계(노광장비)를 만드는 네덜란드 회사. 빛을 이용해 반도체 회로를 새기는 EUV(극자외선) 장비를 전 세계에서 유일하게 만들 수 있다. TSMC·삼성·인텔 등 모든 최첨단 반도체 공장이 ASML의 장비 없이는 최신 칩을 생산할 수 없어, 반도체 산업의 '숨은 지배자'라고 불린다.
+반도체를 만드는 데 필수적인 노광장비(EUV — 빛으로 미세 회로를 새기는 기계)를 전 세계에서 유일하게 만드는 네덜란드 회사다. 한 대 가격이 약 4억 달러에 달하는 EUV 장비 없이는 최첨단 반도체를 만들 수 없어, 삼성·TSMC·인텔 모두 ASML 없이는 사업 영위가 불가능하다. 기술적 독점 지위 덕분에 반도체 사이클 불황기에도 안정적인 수주 잔고를 유지하며, 글로벌 반도체 인프라 투자의 핵심 수혜자다.
 
 > [!info] 자동 수집 노트
-> 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 신규 항목은 모두 `[!claim]` (confidence: low) 로 들어오고, 후속 일자에 [사실 누적] 또는 [반증] 으로 분류된다. 폴더 규칙: [news/README.md](README.md).
+> 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 직접 편집해도 되지만, HTML 마커(`<!-- OPEN_CLAIMS_START -->` 등)는 지우지 말 것.
 
 ---
 
 ## 미해결 가설 (Open Claims)
 
-루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
-
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-19**: 2026 가이던스 +16% YoY 380억 유로 — 분기 진행 상황 검증 필요 (pending)
+- [ ] **2026-05-19**: 인도 Tata 300mm 팹 장비 공급 — 수주 규모·일정 구체화 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
 
 ## 사실 누적 (Verified Facts)
-
-독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
 <!-- FACTS_END -->
@@ -46,5 +42,21 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+
+### 2026-05-19
+
+**narrative_score**: +0.28 (신규)
+**key_events**: 2026 가이던스 상향 +16% YoY 380억 유로, 인도 Tata 300mm 팹 파트너십, 38 Buy vs 1 Sell 압도적 컨센서스
+**risks**: 중국 수출 규제 재강화 리스크, 삼성 파업 발주 지연 가능성
+
+> [!claim] (출처: TradingKey, 2026-05-13) 2026 가이던스 상향 — +16% YoY, 380억 유로
+> 기존 +11.6% 전망 대폭 상향, AI 칩 제조 수요 가속화 반영. impact: + / category: earnings
+
+> [!claim] (출처: GuruFocus, 2026-05-16) Tata Electronics 인도 첫 300mm 팹 파트너십
+> 인도 반도체 생태계 구축 선도 — 지리적 다변화. impact: + / category: product
+
+**경쟁사 동향**:
+- AMAT: Q2 총마진 50% 역대 최고, Q3 가이던스 $8.95B 상회 — 장비 Capex 사이클 강세 확인 (impact for ASML: +)
+- LRCX: 삼성 5/21 파업 리스크 — 메모리 고객 발주 지연 가능성 공유 (impact for ASML: -)
+
 <!-- DAILY_END -->
