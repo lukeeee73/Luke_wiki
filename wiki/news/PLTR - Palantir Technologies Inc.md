@@ -1,7 +1,7 @@
 ---
 title: "PLTR - Palantir Technologies Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-18
 domain: finance
 type: claim
 weight: reference
@@ -27,9 +27,9 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-18**: Q1 매출 +85% YoY, EPS 크게 상회, FY 가이던스 +10pt 상향 (CNBC 보도) (pending)
+- [ ] **2026-05-18**: 97배 선행 PER → 주가 YTD -26%, 밸류에이션 압박 지속 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,5 +46,24 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+
+### 2026-05-18
+
+**narrative_score**: +0.12 (첫 실행)
+**key_events**: Q1 EPS 대폭 비트·매출 +85%, FY 가이던스 +10pt 상향, 주가 YTD -26%
+**risks**: 97배 선행 PER 밸류에이션 압박, 금리 상승 시 성장주 멀티플 압축
+
+> [!claim] (출처: CNBC, 2026-05-05) Palantir Q1 2026 EPS $0.33 vs $0.28 예상, 매출 +85% YoY
+> 미국 상업 +133%, 정부 +84%. impact: + / category: earnings
+
+> [!claim] (출처: TradingKey, 2026-05-18) FY2026 가이던스 $7.65-7.66B (+71% YoY)로 10pt 상향
+> LSEG 컨센서스 $7.27B 대비 상회. impact: + / category: earnings
+
+> [!claim] (출처: The Motley Fool, 2026-05-15) 주가 YTD -26% — 97배 선행 PER 밸류에이션 압박 지속
+> impact: - / category: other
+
+**경쟁사 동향**:
+- IBM: Aramco AI 협업 + Red Hat AI 인퍼런스 서비스 출시 — 엔터프라이즈 AI 시장 직접 경쟁 (impact for PLTR: -)
+- MSFT: Azure AI Fabric 기업 데이터 분석 확장 — AIP 플랫폼과 경쟁 (impact for PLTR: -)
+
 <!-- DAILY_END -->

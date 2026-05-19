@@ -1,7 +1,7 @@
 ---
 title: "ADBE - Adobe Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-18
 domain: finance
 type: claim
 weight: reference
@@ -27,9 +27,9 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-18**: $25B 자사주 매입 + Semrush 인수 + AI PDF 에이전트 출시 (pending)
+- [ ] **2026-05-18**: 소프트웨어 섹터 로테이션 — ADBE 주도주 부상, 당일 +3.2% (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,5 +46,24 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+
+### 2026-05-18
+
+**narrative_score**: +0.12 (첫 실행)
+**key_events**: $25B 자사주 매입, Semrush 인수, Acrobat AI 에이전트 출시, 소프트웨어 섹터 로테이션 주도
+**risks**: Microsoft Copilot의 PDF/문서 기능 확장으로 Acrobat 경쟁 심화
+
+> [!claim] (출처: Yahoo Finance, 2026-05-18) $250억 자사주 매입 승인, Acrobat AI 생산성 에이전트 출시
+> 주주환원 + AI 혁신 동시 추진. impact: + / category: product
+
+> [!claim] (출처: Quiver Quantitative, 2026-05-18) 반도체→소프트웨어 섹터 자금 이동에서 ADBE 주도주 부상
+> 당일 +3.2%. impact: + / category: macro
+
+> [!claim] (출처: Yahoo Finance, 2026-05-18) Semrush Holdings 인수 — 디지털 마케팅 분석 역량 강화
+> impact: + / category: m&a
+
+**경쟁사 동향**:
+- MSFT: Copilot PDF/문서 생산성 기능 확장 — Acrobat AI와 직접 경쟁 (impact for ADBE: -)
+- CRM: YTD -30% 약세 속 소프트웨어 섹터 자금 이탈 — ADBE로 일부 이동 기대 (impact for ADBE: +)
+
 <!-- DAILY_END -->

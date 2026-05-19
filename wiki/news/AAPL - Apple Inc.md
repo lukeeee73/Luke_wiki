@@ -1,7 +1,7 @@
 ---
 title: "AAPL - Apple Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-18
 domain: finance
 type: claim
 weight: reference
@@ -27,9 +27,8 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-18**: Apple 첫 폴더블 기기 힌지 결함 — 출시 2027년으로 지연 가능 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,5 +45,18 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+
+### 2026-05-18
+
+**narrative_score**: -0.08 (첫 실행)
+**key_events**: 폴더블 힌지 결함 출시 지연 가능성
+**risks**: 폴더블 제품 출시 지연 시 2027 하드웨어 사이클 약화, 경쟁사 하드웨어 확장 대응 지연
+
+> [!claim] (출처: AASTOCKS.com, 2026-05-18) Apple 첫 폴더블 기기 힌지 설계 결함
+> 출시가 2027년으로 연기될 가능성. impact: - / category: product
+
+**경쟁사 동향**:
+- GOOGL: Gemini 통합 'Googlebook' 출시 발표 — 하드웨어 생태계 확장으로 AAPL 경쟁 압박 (impact for AAPL: -)
+- MSFT: OpenAI 독립 AI 전략 전환 — AI 서비스 경쟁 심화 (impact for AAPL: neutral)
+
 <!-- DAILY_END -->

@@ -1,7 +1,7 @@
 ---
 title: "ORCL - Oracle Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-18
 domain: finance
 type: claim
 weight: reference
@@ -27,9 +27,8 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-18**: Wedbush·Oppenheimer 목표주가 동시 상향 ($275/$235), 삼성 Java 계약 체결 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,5 +45,24 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+
+### 2026-05-18
+
+**narrative_score**: +0.15 (첫 실행)
+**key_events**: Wedbush/Oppenheimer 목표주가 동시 상향, 삼성 Java SE 계약, 가트너 WMS 11년 연속 리더
+**risks**: Oracle Cloud DB vs Azure 장기 경쟁 심화
+
+> [!claim] (출처: CNBC, 2026-05-18) Wedbush $275·Oppenheimer $235 동시 목표주가 상향
+> 최근 1달 +14.4% 모멘텀 지속. impact: + / category: earnings
+
+> [!claim] (출처: Oracle IR, 2026-05-18) 삼성전자 Oracle Java SE Universal 구독 채택
+> 글로벌 반도체 소프트웨어 개발 표준화. impact: + / category: other
+
+> [!claim] (출처: Oracle IR, 2026-05-07) 2026 가트너 WMS 매직 쿼드런트 11년 연속 리더
+> impact: + / category: other
+
+**경쟁사 동향**:
+- MSFT: Azure SQL/Fabric 기업 DB 확장 — Oracle Cloud DB와 장기 경쟁 (impact for ORCL: -)
+- CRM: Agentforce ARR +200%이나 BofA 하향 — 엔터프라이즈 AI 경쟁에서 ORCL 기회 (impact for ORCL: +)
+
 <!-- DAILY_END -->
