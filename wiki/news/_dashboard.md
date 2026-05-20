@@ -35,18 +35,18 @@ sources: []
 
 ### 빅테크 / 소프트웨어
 
-| Ticker | as_of | score | 핵심 한 줄 | open claims |
-|---|---|---|---|---|
-| [AAPL](AAPL - Apple Inc.md) | 2026-05-18 | -0.08 | 폴더블 힌지 결함 출시 지연 가능성 | 1 |
-| [MSFT](MSFT - Microsoft Corporation.md) | 2026-05-18 | +0.08 | OpenAI 탈피 독립 AI 전략, Ackman 매수 | 1 |
-| [GOOGL](GOOGL - Alphabet Inc.md) | 2026-05-18 | +0.10 | EPS 컨센서스 $14.22 상향, 클라우드 점유율 확대 | 2 |
-| [AMZN](AMZN - Amazon.com Inc.md) | 2026-05-18 | +0.10 | AWS +28%, $3조 돌파 임박 — 관세 소송 병행 | 2 |
-| [META](META - Meta Platforms Inc.md) | 2026-05-18 | +0.02 | Q1 매출 +33% 강세 but capex $125B 우려 | 2 |
-| [ORCL](ORCL - Oracle Corporation.md) | 2026-05-18 | +0.15 | Wedbush/Oppenheimer 동시 상향, 삼성 Java 계약 | 1 |
-| [CRM](CRM - Salesforce, Inc.md) | 2026-05-18 | -0.05 | BofA Underperform 하향, AI 좌석 잠식 우려 | 2 |
-| [ADBE](ADBE - Adobe Inc.md) | 2026-05-18 | +0.12 | $25B 자사주 + 소프트웨어 섹터 로테이션 주도 | 2 |
-| [IBM](IBM - International Business Machines.md) | 2026-05-18 | -0.08 | YTD -26% 메가캡 최하위, RBC 목표 하향 | 2 |
-| [PLTR](PLTR - Palantir Technologies Inc.md) | 2026-05-18 | +0.12 | Q1 +85% 어닝 대폭 서프라이즈, 가이던스 상향 | 2 |
+| Ticker                                          | as_of      | score | 핵심 한 줄                                | open claims |
+| ----------------------------------------------- | ---------- | ----- | ------------------------------------- | ----------- |
+| [AAPL](AAPL - Apple Inc.md)                     | 2026-05-18 | -0.08 | 폴더블 힌지 결함 출시 지연 가능성                   | 1           |
+| [MSFT](MSFT - Microsoft Corporation.md)         | 2026-05-18 | +0.08 | OpenAI 탈피 독립 AI 전략, Ackman 매수         | 1           |
+| [GOOGL](GOOGL - Alphabet Inc.md)                | 2026-05-18 | +0.10 | EPS 컨센서스 $14.22 상향, 클라우드 점유율 확대       | 2           |
+| [AMZN](AMZN - Amazon.com Inc.md)                | 2026-05-18 | +0.10 | AWS +28%, $3조 돌파 임박 — 관세 소송 병행        | 2           |
+| [META](META - Meta Platforms Inc.md)            | 2026-05-18 | +0.02 | Q1 매출 +33% 강세 but capex $125B 우려      | 2           |
+| [ORCL](ORCL - Oracle Corporation.md)            | 2026-05-18 | +0.15 | Wedbush/Oppenheimer 동시 상향, 삼성 Java 계약 | 1           |
+| [CRM](CRM - Salesforce, Inc.md)                 | 2026-05-18 | -0.05 | BofA Underperform 하향, AI 좌석 잠식 우려     | 2           |
+| [ADBE](ADBE - Adobe Inc.md)                     | 2026-05-18 | +0.12 | $25B 자사주 + 소프트웨어 섹터 로테이션 주도           | 2           |
+| [IBM](IBM - International Business Machines.md) | 2026-05-18 | -0.08 | YTD -26% 메가캡 최하위, RBC 목표 하향           | 2           |
+| [PLTR](PLTR - Palantir Technologies Inc.md)     | 2026-05-18 | +0.12 | Q1 +85% 어닝 대폭 서프라이즈, 가이던스 상향          | 2           |
 
 ### 반도체
 
