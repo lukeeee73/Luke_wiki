@@ -1,7 +1,7 @@
 ---
 title: "NVDA - NVIDIA Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-19
+updated: 2026-05-20
 domain: finance
 type: claim
 weight: reference
@@ -26,8 +26,9 @@ AI(인공지능) 열풍의 최대 수혜 기업으로, GPU(그래픽 처리 장�
 ## 미해결 가설 (Open Claims)
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-19**: Q1 FY2027 어닝 5/20 발표 — EPS $1.78 (+120% YoY) 달성 여부 (pending)
+- [x] **2026-05-19**: Q1 FY2027 어닝 5/20 발표 — EPS $1.78 (+120% YoY) 달성 여부 (verified 2026-05-20 by Kiplinger/NVDA IR)
 - [ ] **2026-05-19**: 중국 H200 칩 판매 재개 — $500억 시장 규모 현실화 여부 (pending)
+- [ ] **2026-05-20**: $90B AI 딜메이킹 공약 — 실행 속도 및 구체적 파트너 공개 여부 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -35,6 +36,8 @@ AI(인공지능) 열풍의 최대 수혜 기업으로, GPU(그래픽 처리 장�
 ## 사실 누적 (Verified Facts)
 
 <!-- FACTS_START -->
+> [!fact] (검증일 2026-05-20, 출처: Kiplinger + NVIDIA IR) NVDA Q1 FY2027 EPS $1.87 (+120% YoY) 달성
+> 컨센서스 $1.76 대비 +6.3% 어닝 서프라이즈. 매출도 컨센서스 상회. AI GPU 수요 지속 확인.
 <!-- FACTS_END -->
 
 ---
@@ -42,6 +45,28 @@ AI(인공지능) 열풍의 최대 수혜 기업으로, GPU(그래픽 처리 장�
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-20
+
+**narrative_score**: +0.33 (전회 +0.32, Δ +0.01)
+**key_events**: Q1 FY2027 EPS $1.87 어닝 비트, $90B AI 딜메이킹 공약, 목표주가 컨센서스 $280
+**risks**: Sell-the-news 가능성, 중국 수출 규제 재강화, Blackwell 공급 제약
+
+> [!claim] (출처: Kiplinger, 2026-05-20) Q1 FY2027 EPS $1.87 — 컨센서스 $1.76 상회
+> Q1 FY2027 EPS $1.87(+120% YoY), 매출도 컨센서스 대폭 상회. AI 칩 수요 사상 최강 확인. impact: + / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-05-20) NVIDIA $90B AI 딜메이킹 공약
+> AI 인프라·에코시스템 파트너십 딜메이킹에 $900억 투자 발표. impact: + / category: other
+
+> [!claim] (출처: Public.com, 2026-05-20) 애널리스트 37명 컨센서스 매수·목표주가 $280
+> 37명 애널리스트 Buy 컨센서스, 목표 $280. $300 신규 진입 분석가도 등장. impact: + / category: earnings
+
+**경쟁사 동향**:
+- AMD: NVDA 어닝 낙수효과로 +8.1% — AI GPU 시장 파이 확대 구도 확인 (impact for NVDA: 중립)
+- INTC: Q1 순손실 $3.7B 지속 — AI 가속기 시장에서 위협 없음 재확인 (impact for NVDA: +)
+
+**검증·반증 노트**:
+- ✅ 2026-05-19 가설 "Q1 FY2027 EPS $1.78 달성 여부" — EPS $1.87로 초과 달성, [사실 누적] 이동.
 
 ### 2026-05-19
 

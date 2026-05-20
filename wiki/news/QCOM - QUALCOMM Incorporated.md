@@ -1,7 +1,7 @@
 ---
 title: "QCOM - QUALCOMM Incorporated — Routine News Log"
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-20
 domain: finance
 type: claim
 weight: reference
@@ -27,7 +27,7 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-19**: Q3 가이던스 하회 — 스마트폰 수요 회복 시점 불확실 (pending)
-- [ ] **2026-05-19**: 경영진 자사주 매입 — 저평가 판단 신호 vs 구조적 약세 (pending)
+- [ ] **2026-05-20**: 데이터센터 고객 확보 — AI 다각화 매출 기여 시작 시점 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,6 +42,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-20
+
+**narrative_score**: -0.08 (전회 -0.20, Δ +0.12)
+**key_events**: 데이터센터 대형 고객 계약, $0.92 분기 배당 발표, Melius $220 목표주가 상향
+**risks**: 스마트폰 수요 회복 불확실, AI GPU 대비 성장 차별화, Q3 가이던스 하회 여진
+
+> [!claim] (출처: Motley Fool, 2026-05-17) QCOM 데이터센터 대형 고객 계약 체결
+> 퀄컴이 AI·데이터센터 방향 다각화 진척 — 모바일 의존도 탈피 신호. impact: + / category: product
+
+> [!claim] (출처: Yahoo Finance, 2026-05-16) 분기 배당 $0.92 발표 (배당락 6/4)
+> 현금흐름 안정 + 경영진 신뢰 시그널. impact: + / category: earnings
+
+> [!claim] (출처: Motley Fool, 2026-05-18) Melius QCOM 목표주가 $220 상향 (기존 $170), Hold 유지
+> 상승여력 인정하나 확신 부족 — Hold 유지. impact: neutral / category: earnings
+
+**경쟁사 동향**:
+- NVDA: Q1 FY2027 EPS 대폭 비트 — AI 서버 칩 vs 모바일 칩 성장 차별화 극단화 (impact: -)
+- AMD: 데이터센터 $5.8B 역대 최고 — AI 서버 시장에서 QCOM 존재감 더 희미 (impact: -)
 
 ### 2026-05-19
 

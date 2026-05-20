@@ -1,7 +1,7 @@
 ---
 title: "INTC - Intel Corporation — Routine News Log"
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-20
 domain: finance
 type: claim
 weight: reference
@@ -27,7 +27,7 @@ x86 CPU(컴퓨터 연산 핵심 칩)의 전통적 절대강자였던 미국 반�
 
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-19**: 서버 CPU 점유율 하락 추세 — 분기별 -370bps QoQ 지속 여부 (pending)
-- [ ] **2026-05-19**: 애플 파운드리 계약 레거시 공정 집중 — 18A 첨단공정 수주 가능성 (pending)
+- [ ] **2026-05-20**: 애플 예비 파운드리 계약 — 18A 첨단공정 포함 여부 확인 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,6 +42,28 @@ x86 CPU(컴퓨터 연산 핵심 칩)의 전통적 절대강자였던 미국 반�
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-20
+
+**narrative_score**: +0.05 (전회 -0.20, Δ +0.25)
+**key_events**: 애플 예비 파운드리 계약 +7.9% 급등, Benchmark $140 목표주가, Q1 순손실 $3.7B 지속
+**risks**: 애플 계약 레거시 공정 확인 시 실망 매물, 서버 CPU 점유율 하락 지속, FCF 마이너스
+
+> [!claim] (출처: StocksToTrade, 2026-05-20) 애플과 예비 파운드리 계약 체결 — +7.9% 급등
+> 애플 칩 일부 제조 예비 계약 확인. 공정 노드 미공개 — 18A vs 레거시 핵심 변수. impact: + / category: product
+
+> [!claim] (출처: Motley Fool, 2026-05-20) Benchmark $140·Melius·Citi $130-150 목표주가 동시 상향
+> 복수 애널리스트 애플 계약 파운드리 신뢰도 상승 반영 상향. impact: + / category: earnings
+
+> [!claim] (출처: CNN Markets, 2026-05-05) Q1 매출 $13.6B, 순손실 $3.7B, EPS -$0.73
+> 팹 투자 지속으로 FCF -$2.54B — 턴어라운드 경로 장기전 불가피. impact: - / category: earnings
+
+**경쟁사 동향**:
+- AMD: EPYC 서버 CPU 점유율 지속 흡수 — INTC 구조적 약세 핵심 (impact for INTC: -)
+- TSM: A13/A12 첨단공정 로드맵 — TSMC 대비 파운드리 기술 격차 확대 (impact for INTC: -)
+
+**검증·반증 노트**:
+- ❌ 2026-05-19 가설 "애플 파운드리 계약 레거시 공정 집중" — 오늘 예비 계약 공개되었으나 공정 노드 미확인. 신규 가설(18A 포함 여부)로 전환.
 
 ### 2026-05-19
 
