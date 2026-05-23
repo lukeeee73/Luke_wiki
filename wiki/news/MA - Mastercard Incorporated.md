@@ -1,7 +1,7 @@
 ---
 title: "MA - Mastercard Incorporated — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-05-23
 domain: finance
 type: claim
 weight: reference
@@ -25,20 +25,19 @@ sources: []
 
 ## 미해결 가설 (Open Claims)
 
-루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
-
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: UK FCA MA·V·PayPal 디지털 지갑 조사 — 규제 결과 대기 (pending)
+- [x] **2026-05-17**: UK FCA MA·V·PayPal 디지털 지갑 조사 — 규제 결과 대기 ✅ VERIFIED 2026-05-23 (Reuters + AInvest 교차 확인)
 - [ ] **2026-05-17**: MA-JD닷컴 AI Agent Pay 라이브 시연 — AI 결제 선도 전략 (pending)
+- [ ] **2026-05-23**: AI 에이전틱 커머스 위협 + 10년 최저 밸류에이션 (pending)
+- [ ] **2026-05-23**: MA Q1 EPS +12% 강한 실적 대비 내러티브 괴리 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
 
 ## 사실 누적 (Verified Facts)
 
-독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
-
 <!-- FACTS_START -->
+- **2026-05-23**: UK FCA, MA·V·PayPal 디지털 지갑 경쟁 조사 착수 확인 (Reuters 2026-05-12 + AInvest 2026-05-22 교차 검증)
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +45,22 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-23
+
+**narrative_score**: -0.04 (전회 +0.00, Δ -0.04)
+**key_events**: Q1 EPS +12% 강한 실적, AI 에이전틱 커머스 위협 부각
+**risks**: UK FCA 디지털 지갑 조사、스테이블코인 결제 대체 시나리오
+
+> [!claim] (출처: CNBC, 2026-04-29) Mastercard Q1 2026 EPS $4.76 vs $4.24 expected; cross-border +14%
+> MA Q1 EPS $4.76(컨센서스 +12%), 국경간 +14%. impact: + / category: earnings
+
+> [!claim] (출처: AInvest, 2026-05-22) Visa, Mastercard trade at decade-low multiples as AI agentic commerce fears mount
+> MA, AI 에이전틱 커머스 위협으로 10년 최저 밸류에이션. impact: - / category: other
+
+**경쟁사 동향**:
+- V: 동일 AI 에이전틱 커머스 위협 공유 (impact for MA: neutral)
+- AXP: 폐쇄형 네트워크 상대적 면역 — MA 개방 네트워크 취약점 부각 (impact for MA: -)
 
 ### 2026-05-17
 

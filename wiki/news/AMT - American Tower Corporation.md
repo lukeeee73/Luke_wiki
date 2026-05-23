@@ -1,7 +1,7 @@
 ---
 title: "AMT - American Tower Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-05-23
 domain: finance
 type: claim
 weight: reference
@@ -16,7 +16,7 @@ sources: []
 
 ## 회사 소개
 
-전 세계 22만 개 이상의 통신 철탑을 보유·운영하는 회사. 통신사(AT&T, 버라이즌 등)에게 철탑을 임대해주고 임대료를 받는다. REITs(부동산 투자신탁 - 부동산에 투자해 임대 수익을 투자자들에게 나눠주는 형태의 투자 상품)로 배당 수익률이 높다. 5G 확산으로 통신 인프라 수요가 늘어나며 수혜를 받고 있다.
+전 세계 22만 개 이상의 통신 철탑을 보유·운영하는 회사. 통신사(AT&T, 버라이즌 등)에게 철탑을 임대해주고 임대료를 받는다. REITs(부동산 투자신탁 - 부동산에 투자해 임대 수익을 투자자들에게 나눠주는 형태의 투자 상품)로 배당 수익률이 높다.
 
 > [!info] 자동 수집 노트
 > 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 신규 항목은 모두 `[!claim]` (confidence: low) 로 들어오고, 후속 일자에 [사실 누적] 또는 [반증] 으로 분류된다. 폴더 규칙: [news/README.md](README.md).
@@ -25,18 +25,15 @@ sources: []
 
 ## 미해결 가설 (Open Claims)
 
-루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
-
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: AMT 데이터센터 매출 +17% — AI·클라우드 수요 구조적 성장 (pending)
 - [ ] **2026-05-17**: EchoStar 매출 손실로 AFFO 성장 2.7% 제한 — 개선 여부 추적 (pending)
+- [ ] **2026-05-23**: Bernstein 아웃퍼폼 업그레이드 $207 목표 — 타워 REIT 회복 기대 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
 
 ## 사실 누적 (Verified Facts)
-
-독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
 <!-- FACTS_END -->
@@ -46,6 +43,22 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-23
+
+**narrative_score**: +0.05 (전회 +0.08, Δ -0.03)
+**key_events**: Bernstein 아웃퍼폼 업그레이드 $207、타워 REIT 회복 국면
+**risks**: CCI 순수 타워 전환 직접 경쟁 심화、EchoStar 매출 손실로 AFFO 성장 제한
+
+> [!claim] (출처: Yahoo Finance, 2026-05-21) Bernstein lifts American Tower to Outperform with $207 price target
+> Bernstein, AMT 아웃퍼폼 업그레이드·목표주가 $207. impact: + / category: other
+
+> [!claim] (출처: Seeking Alpha, 2026-05-20) Tower REIT group recovering from higher rates and softer carrier spending
+> 타워 REIT 그룹, 고금리·통신사 지출 둔화에서 회복 국면 전환. impact: + / category: macro
+
+**경쟁사 동향**:
+- CCI: $8.5B 매각 완료·순수 타워 전환 확정 — AMT와 직접 경쟁 심화 (impact for AMT: -)
+- DLR: 역대 최대 AI 임대 200MW — 데이터센터 섹터 차별화, 타워 vs 데이터센터 구분 부각 (impact for AMT: neutral)
 
 ### 2026-05-17
 

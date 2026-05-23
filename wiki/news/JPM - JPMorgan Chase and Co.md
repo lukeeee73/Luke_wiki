@@ -1,7 +1,7 @@
 ---
 title: "JPM - JPMorgan Chase and Co. — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-05-23
 domain: finance
 type: claim
 weight: reference
@@ -28,9 +28,11 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: Dimon CEO 증시 과대평가·인플레이션 경고 — 단기 하향 시그널 (pending)
+- [x] **2026-05-17**: Dimon CEO 증시 과대평가·인플레이션 경고 — 단기 하향 시그널 ✅ VERIFIED 2026-05-23 (Bloomberg + CNBC 2개 Tier-1 보도)
 - [ ] **2026-05-17**: JPM JLTXX 토큰화 MMF 출시 — 핀테크 확장 (pending)
 - [ ] **2026-05-17**: 체이스 지점 연간 52개 확장 — 리테일 시장점유율 성장 (pending)
+- [ ] **2026-05-23**: JPM AI 인력 효율화 — 비용 절감 장기 긍정 (pending)
+- [ ] **2026-05-23**: JPM $1.5조 방산·AI 이니셔티브 — 전략적 우선순위 전환 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -40,6 +42,7 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+- **2026-05-23**: Dimon CEO, 증시 과대평가·인플레이션 지속 경고 확인 (Bloomberg 2026-05-14 + CNBC 2026-05-15 교차 검증)
 <!-- FACTS_END -->
 
 ---
@@ -47,6 +50,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-23
+
+**narrative_score**: +0.08 (전회 +0.00, Δ +0.08)
+**key_events**: AI 인력 효율화 비용 절감、$1.5조 방산·AI 이니셔티브 발표
+**risks**: WFC 대출 경쟁 가열、주총 로비 공시 부결 거버넌스 리스크
+
+> [!claim] (출처: Bloomberg, 2026-05-23) JPMorgan plans to hire fewer bankers as AI takes over tasks
+> JPM AI 주도 인력 효율화 — 장기 비용 절감 구조. impact: + / category: earnings
+
+> [!claim] (출처: CNBC, 2026-05-22) JPMorgan CEO Dimon announces $1.5 trillion defense and AI initiative
+> Dimon CEO, $1.5조 방산·AI 이니셔티브 발표 — 전략적 우선순위 전환. impact: + / category: product
+
+> [!claim] (출처: Reuters, 2026-05-21) JPMorgan shareholders reject lobbying disclosure proposal
+> JPM 주총, 로비 공시 결의안 부결 — 거버넌스 리스크. impact: - / category: regulation
+
+**경쟁사 동향**:
+- WFC: 대출 $1조 돌파·신용카드 +60% — 소매금융 직접 경쟁 강도 상승 (impact for JPM: -)
+- BAC: LTX AI 채권 플랫폼 가입·자산관리 두 자릿수 성장 — 동종 은행 AI 투자 경쟁 심화 (impact for JPM: -)
 
 ### 2026-05-17
 

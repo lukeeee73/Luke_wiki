@@ -1,7 +1,7 @@
 ---
 title: "BAC - Bank of America Corp. — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-05-23
 domain: finance
 type: claim
 weight: reference
@@ -25,20 +25,19 @@ sources: []
 
 ## 미해결 가설 (Open Claims)
 
-루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
-
 <!-- OPEN_CLAIMS_START -->
+- [x] **2026-05-17**: BAC Q1 EPS +25% 강력 어닝 비트 — 기초 펀더멘털 견조 ✅ VERIFIED 2026-05-23 (Yahoo Finance + BAC IR 교차 검증)
 - [ ] **2026-05-17**: Fed 2026 금리 인하 부재 — 은행 NIM 회복 시나리오 후퇴 (pending)
-- [ ] **2026-05-17**: BAC Q1 EPS +25% 강력 어닝 비트 — 기초 펀더멘털 견조 (pending)
+- [ ] **2026-05-23**: BAC LTX AI 채권 거래 플랫폼 선제 가입 — 자본시장 AI 혁신 (pending)
+- [ ] **2026-05-23**: BAC 자산관리 두 자릿수 성장 — 웰스 매니지먼트 성장 지속 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
 
 ## 사실 누적 (Verified Facts)
 
-독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
-
 <!-- FACTS_START -->
+- **2026-05-23**: BAC Q1 2026 EPS $1.11 (+25% YoY), 매출 $30.3B, 컨센서스 +9.9% 상회 (Yahoo Finance 2026-04-15 + BAC IR 교차 검증)
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +45,22 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-23
+
+**narrative_score**: +0.09 (전회 +0.05, Δ +0.04)
+**key_events**: LTX AI 채권 거래 플랫폼 가입、자산관리 두 자릿수 성장 확인
+**risks**: WFC 소매·신용카드 공격적 성장、Fed 금리 인하 부재로 NIM 개선 지연
+
+> [!claim] (출처: Bloomberg, 2026-05-22) Bank of America joins LTX AI-powered corporate bond e-trading platform
+> BAC, LTX AI 채권 거래 플랫폼 선제 가입 — 자본시장 AI 혁신. impact: + / category: product
+
+> [!claim] (출처: Wealth Management, 2026-05-22) JPMorgan, Wells Fargo, Citigroup see double-digit wealth revenue growth
+> BAC 포함 주요 은행 자산관리 두 자릿수 성장 확인. impact: + / category: earnings
+
+**경쟁사 동향**:
+- WFC: 대출 $1조 돌파·신용카드 +60% — 소매금융 직접 경쟁 (impact for BAC: -)
+- JPM: AI 인력 효율화·$1.5조 이니셔티브 — 비용 경쟁력 압박 (impact for BAC: -)
 
 ### 2026-05-17
 

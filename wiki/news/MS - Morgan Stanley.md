@@ -1,7 +1,7 @@
 ---
 title: "MS - Morgan Stanley — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-05-23
 domain: finance
 type: claim
 weight: reference
@@ -25,20 +25,19 @@ sources: []
 
 ## 미해결 가설 (Open Claims)
 
-루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
-
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: MS E*TRADE 암호화폐 거래 파일럿 — 리테일 암호화폐 수익 성장 (pending)
+- [x] **2026-05-17**: MS E*TRADE 암호화폐 거래 파일럿 — 리테일 암호화폐 수익 성장 ✅ VERIFIED 2026-05-23 (CNBC + Bloomberg 교차 검증, 기관 확대 단계로 발전)
 - [ ] **2026-05-17**: FINRA MS 해외 부문 조사 — 규제 결과 대기 (pending)
+- [ ] **2026-05-23**: MS 웰스 매니지먼트 +16% 성장 — 수익 다각화 입증 (pending)
+- [ ] **2026-05-23**: MS CEO 사모 크레딧 '성장기' 포지셔닝 — 경쟁사 GS 신중론과 대조 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
 
 ## 사실 누적 (Verified Facts)
 
-독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
-
 <!-- FACTS_START -->
+- **2026-05-23**: MS E*TRADE 암호화폐 거래 기관 투자자까지 확대 (CNBC 2026-05-15 + Bloomberg 2026-05-22 교차 검증)
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +45,22 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-23
+
+**narrative_score**: +0.08 (전회 +0.08, Δ 0.00)
+**key_events**: 웰스 매니지먼트 +16% 강세、E*TRADE 암호화폐 기관 확대
+**risks**: FINRA 해외 부문 조사、금리 장기화 시 웰스 AUM 성장 둔화
+
+> [!claim] (출처: Financial Times, 2026-05-22) Morgan Stanley CEO: Private credit in 'adolescent moment' amid 16% wealth revenue growth
+> MS CEO, 웰스 매니지먼트 +16% 성장·사모 크레딧 '성장기' 포지셔닝. impact: + / category: earnings
+
+> [!claim] (출처: Bloomberg, 2026-05-22) Morgan Stanley E*TRADE crypto trading pilot expands to institutional clients
+> E*TRADE 암호화폐 거래, 기관 투자자까지 확대. impact: + / category: product
+
+**경쟁사 동향**:
+- GS: 사모 크레딧 신중론 — MS CEO의 공격적 포지셔닝과 대조적 차별화 (impact for MS: +)
+- JPM: $1.5조 방산·AI 이니셔티브 — MS 전략적 대응 필요 (impact for MS: neutral)
 
 ### 2026-05-17
 

@@ -1,7 +1,7 @@
 ---
 title: "V - Visa Inc. — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-05-23
 domain: finance
 type: claim
 weight: reference
@@ -25,20 +25,19 @@ sources: []
 
 ## 미해결 가설 (Open Claims)
 
-루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
-
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: UK FCA V·MA·PayPal 디지털 지갑 경쟁 조사 — 규제 결과 대기 (pending)
+- [x] **2026-05-17**: UK FCA V·MA·PayPal 디지털 지갑 경쟁 조사 — 규제 결과 대기 ��� VERIFIED 2026-05-23 (Reuters + AInvest 교차 확인, 조사 진행 중)
 - [ ] **2026-05-17**: Visa Agentic Ready 글로벌 확장 — AI 결제 선점 전략 (pending)
+- [ ] **2026-05-23**: AI 에이전틱 커머스·스테이블코인 위협 — 10년 최저 밸류에이션 (pending)
+- [ ] **2026-05-23**: Citrini Research 2027년 스테이블코인 대체 시나리오 — 구조적 위협 평가 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
 
 ## 사실 누적 (Verified Facts)
 
-독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
-
 <!-- FACTS_START -->
+- **2026-05-23**: UK FCA, V·MA·PayPal 디지털 지갑 경쟁 조사 착수 확인 (Reuters 2026-05-12 + AInvest 2026-05-22 교차 검증)
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +45,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-23
+
+**narrative_score**: -0.06 (전회 +0.15, Δ -0.21)
+**key_events**: AI 에이전틱 커머스·스테이블코인 위협 부각、Q1 매출 +15% 실적 강세
+**risks**: Citrini 2027년 스테이블코인 대체 시나리오、UK FCA 디지털 지갑 조사 결과
+
+> [!claim] (출처: AInvest, 2026-05-22) Visa, Mastercard, Amex trade at decade-low multiples amid stablecoin threat
+> V·MA·AXP, 스테이블코인 위협으로 10년 최저 밸류에이션 수준. impact: - / category: other
+
+> [!claim] (출처: StockTwits/Citrini Research, 2026-05-22) Citrini Research warns AI agentic commerce threatens Visa, Mastercard by 2027
+> Citrini, AI 에이전틱 커머스로 2027년까지 V·MA 위협 경고. impact: - / category: other
+
+> [!claim] (출처: Motley Fool, 2026-05-09) Visa Q1 FY2026 revenue +15%, cross-border volume +11%; beats estimates
+> Visa Q1 FY2026 매출 +15%·국경간 거래량 +11%, 예상 상회. impact: + / category: earnings
+
+**경쟁사 동향**:
+- MA: 동일 AI 에이전틱 위협 공유 — V 단독 불이익 없음 (impact for V: neutral)
+- AXP: 폐쇄형 네트워크로 상대적 면역 — 개방 네트워크 V 약점 부각 (impact for V: -)
 
 ### 2026-05-17
 

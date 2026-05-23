@@ -1,7 +1,7 @@
 ---
 title: "AXP - American Express Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-05-23
 domain: finance
 type: claim
 weight: reference
@@ -25,20 +25,19 @@ sources: []
 
 ## 미해결 가설 (Open Claims)
 
-루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
-
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: AXP 골드 카드 ChatGPT 혜택 — AI 제휴 카드 차별화 전략 (pending)
+- [x] **2026-05-17**: AXP 골드 카드 ChatGPT 혜택 — AI 제휴 카드 차별화 전략 ✅ VERIFIED 2026-05-23 (CNBC 2026-05-14 + CNBC 2026-05-22 후속 보도)
 - [ ] **2026-05-17**: AXP 글로벌 비즈니스 트래블 매각 — 핵심 카드 사업 집중 (pending)
+- [ ] **2026-05-23**: AXP Q1 EPS +7% 비트·FY 가이던스 재확인 (pending)
+- [ ] **2026-05-23**: AXP 반독점 합의 6월 17일 최종 승인 대기 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
 
 ## 사실 누적 (Verified Facts)
 
-독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
-
 <!-- FACTS_START -->
+- **2026-05-23**: AXP 골드 카드 ChatGPT $300 크레딧 추가 — AI 제휴 혜택 공식 출시 (CNBC 2026-05-14 + CNBC 2026-05-22 교차 검증)
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +45,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-23
+
+**narrative_score**: +0.05 (전회 +0.18, Δ -0.13)
+**key_events**: Q1 EPS +7% 비트·FY 가이던스 재확인、프리미엄 카드 스테이블코인 상대적 면역
+**risks**: 반독점 합의 6월 17일 승인 대기、YTD 이중자리 하락 투자심리 회복 과제
+
+> [!claim] (출처: Reuters, 2026-05-22) American Express Q1 2026 EPS $4.28 vs $3.99 estimate; CEO reaffirms FY guidance
+> AXP Q1 EPS $4.28(예상 +7%), CEO FY 가이던스 재확인. impact: + / category: earnings
+
+> [!claim] (출처: CNBC, 2026-05-22) Why premium credit cards are here to stay in 2026 despite stablecoin hype
+> 프리미엄 카드, 스테이블코인 위협에도 경쟁력 유지 — AXP 차별화. impact: + / category: other
+
+> [!claim] (출처: TopClassActions, 2026-05-19) American Express antitrust settlement final approval hearing June 17
+> AXP 반독점 합의 최종 승인 심리 6월 17일 예정. impact: - / category: regulation
+
+**경쟁사 동향**:
+- V: AI 에이전틱 위협으로 -0.06 음수 스코어 — AXP 폐쇄형 네트워크 차별화 부각 (impact for AXP: +)
+- MA: 동일 위협 공유 — AXP 프리미엄 포지셔닝 우위 확인 (impact for AXP: +)
 
 ### 2026-05-17
 

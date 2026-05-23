@@ -1,7 +1,7 @@
 ---
 title: "C - Citigroup Inc. — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-05-23
 domain: finance
 type: claim
 weight: reference
@@ -25,18 +25,16 @@ sources: []
 
 ## 미해결 가설 (Open Claims)
 
-루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
-
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: 씨티 ROTCE 14-15% 중기 목표 — 구조개혁 진척도 추적 (pending)
 - [ ] **2026-05-17**: 씨티 아시아·중국 확장 승인 — 신흥시장 성장 동력 (pending)
+- [ ] **2026-05-23**: 이란 전쟁 트레이딩 서프라이즈 — 지정학 변동성 수혜 (pending)
+- [ ] **2026-05-23**: 씨티 자산관리 두 자릿수 성장 — 웰스 매니지먼트 가속 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
 
 ## 사실 누적 (Verified Facts)
-
-독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
 <!-- FACTS_END -->
@@ -46,6 +44,22 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-23
+
+**narrative_score**: +0.12 (전회 +0.03, Δ +0.09)
+**key_events**: 이란 전쟁 트레이딩 서프라이즈、자산관리 두 자릿수 성장
+**risks**: 구조개혁 ROTCE 목표 달성 불확실、아시아·중국 지정학 리스크
+
+> [!claim] (출처: Reuters, 2026-05-22) Citi traders post blockbuster quarter buoyed by Iran war market volatility
+> 씨티 이란 전쟁 시장 변동성으로 트레이딩 블록버스터 분기 달성. impact: + / category: earnings
+
+> [!claim] (출처: Wealth Management, 2026-05-22) Citigroup, JPMorgan, WFC report double-digit wealth management revenue growth
+> 씨티 자산관리 두 자릿수 성장 확인 — 구조개혁 중에도 매출 가속. impact: + / category: earnings
+
+**경쟁사 동향**:
+- JPM: AI 인력 효율화·$1.5조 이니셔티브 — 씨티 구조개혁 속 경쟁 기준 상향 (impact for C: -)
+- WFC: 소매금융 공격적 확장 — 글로벌 도매 전략과 차별화 (impact for C: neutral)
 
 ### 2026-05-17
 
