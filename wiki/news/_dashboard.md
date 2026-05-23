@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-05-19
+updated: 2026-05-18
 domain: finance
 type: index
 weight: reference
@@ -52,16 +52,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [NVDA](NVDA - NVIDIA Corporation.md) | 2026-05-19 | +0.32 | Q1 어닝 5/20 발표 기대, H200 중국 승인, 목표주가 상향 | 2 |
-| [AMD](AMD - Advanced Micro Devices.md) | 2026-05-19 | +0.30 | Q1 데이터센터 $5.8B 역대 최고, MI450 AI 칩 예고 | 2 |
-| [TSM](TSM - Taiwan Semiconductor Mfg.md) | 2026-05-19 | +0.25 | A13/A12/N2U 3년 로드맵 공개, AI/HPC 매출 61% | 2 |
-| [AVGO](AVGO - Broadcom Inc.md) | 2026-05-19 | +0.32 | AI 칩 2027년 $1000억 목표, Meta 2nm 파트너십 | 2 |
-| [INTC](INTC - Intel Corporation.md) | 2026-05-19 | -0.20 | 애플 계약 레거시 공정 실망, 서버 CPU -370bps | 2 |
-| [QCOM](QCOM - QUALCOMM Incorporated.md) | 2026-05-19 | -0.20 | Q3 가이던스 하회, JPMorgan 중립 하향 $140 | 2 |
-| [ASML](ASML - ASML Holding NV.md) | 2026-05-19 | +0.28 | 2026 가이던스 +16%, 인도 Tata 300mm 팹 파트너십 | 2 |
-| [AMAT](AMAT - Applied Materials.md) | 2026-05-19 | +0.30 | Q2 매출·마진 역대 최고, Q3 가이던스 대폭 상회 | 2 |
-| [LRCX](LRCX - Lam Research Corp.md) | 2026-05-19 | +0.18 | Q1 역대 최고, 삼성 5/21 파업 공급망 리스크 | 2 |
-| [MU](MU - Micron Technology.md) | 2026-05-19 | +0.30 | HBM 2026 전량 매진, Q2 +196% YoY, 목표 $1,100 | 2 |
+| [NVDA](NVDA - NVIDIA Corporation.md) | — | — | — | — |
+| [AMD](AMD - Advanced Micro Devices.md) | — | — | — | — |
+| [INTC](INTC - Intel Corporation.md) | — | — | — | — |
+| [QCOM](QCOM - QUALCOMM Incorporated.md) | — | — | — | — |
+| [TSM](TSM - Taiwan Semiconductor Mfg.md) | — | — | — | — |
+| [ASML](ASML - ASML Holding NV.md) | — | — | — | — |
+| [AMAT](AMAT - Applied Materials.md) | — | — | — | — |
+| [LRCX](LRCX - Lam Research Corp.md) | — | — | — | — |
+| [AVGO](AVGO - Broadcom Inc.md) | — | — | — | — |
+| [MU](MU - Micron Technology.md) | — | — | — | — |
 
 ### 자동차 / 모빌리티
 
@@ -207,24 +207,23 @@ sources: []
 | [010140.KS](010140.KS - Samsung Heavy Industries.md) | — | — | — | — |
 | [010620.KS](010620.KS - HMM Co.md) | — | — | — | — |
 
-## 오늘의 시그널 (2026-05-19 · 화요일 · 반도체)
+## 오늘의 시그널 (2026-05-18 · 월요일 · 빅테크 / 소프트웨어)
 
 루틴은 다음 패턴을 감지하면 이 섹션에 기록한다:
 
-- **연속성**: 같은 테마가 3 일 이상 연속 등장
+- **연속성**: 같은 테마가 3 일 이상 연속 등장 (예: 비만치료제 임상 데이터 연속)
 - **모순**: 같은 종목 어제/오늘 narrative 가 반대 방향
-- **섹터 동기화**: 3 종목 이상이 같은 매크로 이슈로 동시 움직임
-- **섹터간 전파**: 한 섹터의 충격이 다른 섹터로 번지는 패턴
+- **섹터 동기화**: 3 종목 이상이 같은 매크로 이슈 (예: 관세, FOMC, 유가, 비만치료제, 데이터센터 전력) 로 동시 움직임
+- **섹터간 전파**: 한 섹터의 충격이 다른 섹터로 번지는 패턴 (예: AI capex → 반도체 + 데이터센터 REIT + 유틸리티 동시 수혜)
 
 ### 감지된 패턴
 
-- **섹터 동기화 (반도체 장비 강세 사이클)**: AMAT·LRCX·ASML 3종목 모두 역대 최고 실적 또는 가이던스 대폭 상향. 반도체 Capex 투자 사이클 전면 가동 — 업황 최상단.
-- **섹터 동기화 (AI 인프라 수퍼사이클)**: NVDA·AMD·MU·AVGO 4종목이 AI 인프라 수요 수혜로 동시 강세 신호. MU HBM 전량 매진·AMD 데이터센터 역대 최고·AVGO $1000억 가이던스·NVDA 어닝 기대감 동시 부각.
-- **모순 (AI 승자/패자 극단 분리)**: INTC(-0.20)·QCOM(-0.20) 동시 하락 신호 vs 나머지 8종목 모두 양수. 반도체 섹터 내에서 AI 전환 수혜/피해 종목 간 극단적 차별화 중.
-- **최고 신호**: NVDA/AVGO +0.32 — AI GPU+ASIC 수요 이중 강세. MU +0.30 — HBM 전량 매진, Q2 +196% 역대급.
-- **경고 신호**: INTC -0.20 (서버 CPU -370bps QoQ) / QCOM -0.20 (Q3 가이던스 하회·JPMorgan 하향). 레거시 반도체 구조적 약세.
-- **공급망 리스크**: 삼성전자 5/21 파업 예정 — LRCX·ASML 등 메모리 장비 발주 지연 가능성. 다음 수요일(5/20 이후) 확인 필요.
-- **섹터간 전파 (예고)**: 반도체 강세(화) → 수요일 자동차 전장 반도체 수혜 가능 → 목요일 바이오 디지털 헬스 AI 확산 순으로 AI 테마 섹터 연속 전파 예상.
+- **섹터 동기화 (AI 독립 전략)**: MSFT·GOOGL·AMZN·META·PLTR 5 종목 모두 AI 전략이 핵심 뉴스 키워드. OpenAI 독립(MSFT), Googlebook(GOOGL), AWS AI(AMZN), Meta Superintelligence Labs(META), AIP 상업화(PLTR) 동시 가속화.
+- **섹터 동기화 (소프트웨어 섹터 로테이션)**: ADBE +3.2%·CRM 반등 시도 — 반도체에서 소프트웨어로 자금 이동이 빅테크/소프트웨어 섹터 전반에 영향.
+- **섹터 동기화 (밸류에이션 압박)**: PLTR(-26% YTD)·CRM(-30% YTD)·IBM(-26% YTD) 세 종목이 동시에 고밸류에이션·구조적 우려로 인한 조정 구간.
+- **최고 신호**: ORCL +0.15 — Wedbush·Oppenheimer 동시 상향 + 삼성 계약이 겹친 이중 긍정. PLTR +0.12 — Q1 +85% 어닝 서프라이즈, 단 밸류에이션 압박 지속.
+- **경고 신호**: AAPL -0.08 — 폴더블 출시 지연이 구글 Googlebook 출시 타이밍과 맞물려 하드웨어 경쟁에서 불리. IBM -0.08 — 메가캡 최하위 성과 지속.
+- **섹터간 전파**: 전날(토) 금융·REITs AI capex 투자 붐 → 오늘(월) 빅테크 AI 전략 가속화로 AI 테마 섹터 연속 확산.
 
 ## 사용 팁
 
