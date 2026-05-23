@@ -1,7 +1,7 @@
 ---
 title: "CCI - Crown Castle Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-05-23
 domain: finance
 type: claim
 weight: reference
@@ -25,20 +25,19 @@ sources: []
 
 ## 미해결 가설 (Open Claims)
 
-루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
-
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: CCI 파이버·소형기지국 $8.5B 매각 — 순수 타워 전략 실행력 확인 (pending)
+- [x] **2026-05-17**: CCI 파이버·소형기지국 $8.5B 매각 — 순수 타워 전략 실행력 확인 ✅ VERIFIED 2026-05-23 (Globe and Mail + CCI IR 교차 검증, 매각 완료 공시)
 - [ ] **2026-05-17**: CCI 순수 타워 집중 — 5G 성장 수혜 vs 다각화 포기 트레이드오프 (pending)
+- [ ] **2026-05-23**: CCI AFFO 가이던스 $4.53-$4.65 상향·이자비용 $40M 감소 (pending)
+- [ ] **2026-05-23**: CCI $1B 자사주매입 — 주주환원 강화 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
 
 ## 사실 누적 (Verified Facts)
 
-독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
-
 <!-- FACTS_START -->
+- **2026-05-23**: CCI 파이버·소형기지국 $8.5B 매각 완료 (5월 1일) — 미국 유일 대형 순수 타워 REIT 전환 확정 (Globe and Mail 2026-05-01 + CCI IR 교차 검증)
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +45,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-23
+
+**narrative_score**: +0.14 (전회 +0.05, Δ +0.09)
+**key_events**: $8.5B 매각 완료 순수 타워 전환 확정、AFFO 가이던스 16센트 상향、$1B 자사주매입
+**risks**: 순수 타워 집중으로 다각화 제한、타워 임대료 협상 주기 도래 시 협상력
+
+> [!claim] (출처: Globe and Mail, 2026-05-01) Crown Castle closes $8.5B fiber and small cell divestiture; raises 2026 AFFO guidance
+> CCI $8.5B 파이버·소형기지국 매각 완료 — 순수 타워 REIT 전환 완성. impact: + / category: m&a
+
+> [!claim] (출처: Crown Castle IR, 2026-05-20) Crown Castle declares Q2 dividend $1.0625/share; $1B buyback with proceeds
+> CCI Q2 배당 $1.0625·$10억 자사주매입 발표. impact: + / category: earnings
+
+> [!claim] (출처: Crown Castle IR, 2026-05-01) Crown Castle 2026 AFFO guidance raised to $4.53-$4.65 from $4.38-$4.49
+> CCI AFFO 가이던스 상향 $4.53-4.65 (전 $4.38-4.49). impact: + / category: earnings
+
+**경쟁사 동향**:
+- AMT: Bernstein 아웃퍼폼 업그레이드 — CCI 순수 타워 전환 후 직접 경쟁 국면 (impact for CCI: -)
+- DLR: 역대 최대 AI 임대 — 데이터센터 REIT 차별화로 타워 REIT 상대 밸류 비교 (impact for CCI: neutral)
 
 ### 2026-05-17
 

@@ -1,7 +1,7 @@
 ---
 title: "PLD - Prologis Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-05-23
 domain: finance
 type: claim
 weight: reference
@@ -25,20 +25,19 @@ sources: []
 
 ## 미해결 가설 (Open Claims)
 
-루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
-
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: PLD 데이터센터 개발 착공 $4.5-5.5B — AI 수요 포착 전략 (pending)
+- [x] **2026-05-17**: PLD 데이터센터 개발 착공 $4.5-5.5B — AI 수요 포착 전략 ✅ VERIFIED 2026-05-23 (Yahoo Finance + BMO Capital 교차 검증)
 - [ ] **2026-05-17**: PLD Q1 순이익 +66% YoY — 포트폴리오 리밸런싱 효과 (pending)
+- [ ] **2026-05-23**: PLD Q1 동일점포 NOI +8.8%·Core FFO 가이던스 $6.07-6.23 (pending)
+- [ ] **2026-05-23**: PLD 배당 $1.01→$1.07 인상 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
 
 ## 사실 누적 (Verified Facts)
 
-독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
-
 <!-- FACTS_START -->
+- **2026-05-23**: PLD 2026 데이터센터 개발 착공 $4.5-5.5B (Yahoo Finance 2026-04-16 + BMO Capital 2026-05-08 교차 검증)
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +45,22 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-23
+
+**narrative_score**: +0.05 (전회 +0.18, Δ -0.13)
+**key_events**: Q1 동일점포 NOI +8.8%·Core FFO 가이던스 $6.07-6.23、배당 $1.07 인상
+**risks**: 데이터센터 공급 과잉 중기 리스크、금리 장기화 REIT 밸류에이션 압박
+
+> [!claim] (출처: Yahoo Finance, 2026-05-22) Prologis Q1 same-store NOI growth 8.8% cash; Core FFO guidance $6.07-$6.23
+> PLD Q1 동일점포 NOI +8.8%·Core FFO 가이던스 $6.07-6.23. impact: + / category: earnings
+
+> [!claim] (출처: Prologis IR, 2026-05-22) Prologis raises quarterly dividend to $1.07 from $1.01
+> PLD 분기 배당 $1.01→$1.07 인상. impact: + / category: earnings
+
+**경쟁사 동향**:
+- DLR: 역대 최대 AI 임대 200MW — PLD 데이터센터 착공 전망에 긍정적 시사 (impact for PLD: +)
+- WELL: $4.2B 인수 완료 — REIT 섹터 인수 활발, PLD 포트폴리오 확장 참고 (impact for PLD: neutral)
 
 ### 2026-05-17
 

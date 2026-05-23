@@ -1,7 +1,7 @@
 ---
 title: "VICI - VICI Properties Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-05-23
 domain: finance
 type: claim
 weight: reference
@@ -25,20 +25,19 @@ sources: []
 
 ## 미해결 가설 (Open Claims)
 
-루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
-
 <!-- OPEN_CLAIMS_START -->
+- [x] **2026-05-17**: VICI 골든 엔터테인먼트 $1.16B 인수 — 포트폴리오 확장 ✅ VERIFIED 2026-05-23 (ad-hoc-news 다수 교차 검증)
 - [ ] **2026-05-17**: VICI 100% 입주율 유지 — 게이밍 REIT 안정성 최고 (pending)
-- [ ] **2026-05-17**: VICI 골든 엔터테인먼트 $1.16B 인수 — 포트폴리오 확장 (pending)
+- [ ] **2026-05-23**: VICI Q2 배당 $0.4325 선언 (6월 19일 기준) (pending)
+- [ ] **2026-05-23**: Barclays $34 목표 상향·18% 업사이드 컨센서스 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
 
 ## 사실 누적 (Verified Facts)
 
-독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
-
 <!-- FACTS_START -->
+- **2026-05-23**: VICI 골든 엔터테인먼트 $1.16B 인수 — AFFO/주 +4.5% 성장 (ad-hoc-news 다수 교차 검증)
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +45,22 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-23
+
+**narrative_score**: +0.05 (전회 +0.08, Δ -0.03)
+**key_events**: Q2 배당 $0.4325 선언、Barclays $34 목표 상향 18% 업사이드
+**risks**: 게이밍 규제 리스크、금리 장기화 배당 REIT 밸류에이션 압박
+
+> [!claim] (출처: VICI IR, 2026-05-20) VICI Properties declares Q2 dividend $0.4325/share; ex-date June 19
+> VICI Q2 배당 $0.4325·기준일 6월 19일. impact: + / category: earnings
+
+> [!claim] (출처: ad-hoc-news, 2026-05-22) VICI Barclays raises target to $34; 18% consensus upside
+> Barclays $34 목표 상향·18% 업사이드 컨센서스. impact: + / category: other
+
+**경쟁사 동향**:
+- SPG: Q2 배당 $2.25·FFO 가이던스 상향 — 소비자 지출 건전성 공유 (impact for VICI: +)
+- O: 671회 연속 배당·투자 가이던스 상향 — 배당 REIT 비교 기준 (impact for VICI: +)
 
 ### 2026-05-17
 

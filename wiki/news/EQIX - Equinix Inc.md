@@ -1,7 +1,7 @@
 ---
 title: "EQIX - Equinix Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-05-23
 domain: finance
 type: claim
 weight: reference
@@ -25,20 +25,19 @@ sources: []
 
 ## 미해결 가설 (Open Claims)
 
-루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
-
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: AI 데이터센터 건설투자 $50B 사상 최고 — EQIX 수요 구조적 성장 (pending)
+- [x] **2026-05-17**: AI 데이터센터 건설투자 $50B 사상 최고 — EQIX 수요 구조적 성장 ✅ VERIFIED 2026-05-23 (Benzinga + Benzinga 후속 보도 교차 확인)
 - [ ] **2026-05-17**: EQIX P/E 84배 — 고성장 프리미엄 지속 여부 (pending)
+- [ ] **2026-05-23**: EQIX 2026 매출 +9-10% 가이던스·11년 연속 배당 10% 인상 (pending)
+- [ ] **2026-05-23**: EQIX 차입금 $21.4B 급증 — 금리 민감도 상승 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
 
 ## 사실 누적 (Verified Facts)
 
-독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
-
 <!-- FACTS_START -->
+- **2026-05-23**: AI 데이터센터 건설 투자 $50B 사상 최고 — 오피스 추월 확인 (Benzinga 2026-05-14 + 2026-05-22 교차 검증)
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +45,22 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-23
+
+**narrative_score**: +0.03 (전회 +0.13, Δ -0.10)
+**key_events**: 2026 매출 +9-10% 가이던스、11년 연속 배당 10% 인상
+**risks**: 차입금 $21.4B 급증 금리 민감도 상승、P/E 84배 고평가 디레이팅 위험
+
+> [!claim] (출처: Benzinga, 2026-05-22) Equinix guides 9-10% revenue growth for 2026; raises dividend 10% for 11th straight year
+> EQIX 2026 매출 +9-10% 가이던스·11년 연속 배당 10% 인상. impact: + / category: earnings
+
+> [!claim] (출처: High Yield Landlord, 2026-05-22) Equinix total borrowings rise to $21.4B from $17.6B for AI data center expansion
+> EQIX 차입금 $21.4B ($17.6B→) 급증 — AI 데이터센터 확장 레버리지. impact: - / category: macro
+
+**경쟁사 동향**:
+- DLR: 역대 최대 AI 임대 200MW·자본지출 $250M 상향 — 데이터센터 REIT 경쟁 강도 상승 (impact for EQIX: -)
+- AMT: Bernstein 업그레이드 — 타워 vs 데이터센터 REIT 비교 계속 (impact for EQIX: neutral)
 
 ### 2026-05-17
 

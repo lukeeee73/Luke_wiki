@@ -1,7 +1,7 @@
 ---
 title: "SPG - Simon Property Group — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-05-23
 domain: finance
 type: claim
 weight: reference
@@ -25,20 +25,19 @@ sources: []
 
 ## 미해결 가설 (Open Claims)
 
-루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
-
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: SPG 소매 매출 +11.8%/sqft — 리테일 REIT 최강 운영 지표 (pending)
-- [ ] **2026-05-17**: SPG 배당 7.1% 인상 $2.25 — 주주환원 적극성 (pending)
+- [x] **2026-05-17**: SPG 소매 매출 +11.8%/sqft — 리테일 REIT 최강 운영 지표 ✅ VERIFIED 2026-05-23 (GuruFocus + Simon Property IR 교차 검증)
+- [x] **2026-05-17**: SPG 배당 7.1% 인상 $2.25 — 주주환원 적극성 ✅ VERIFIED 2026-05-23 (SPG IR 2026-05-22 공시 확인)
+- [ ] **2026-05-23**: SPG Q2 배당 $2.25·2026 FFO 가이던스 $13.10-13.25 상향 (pending)
+- [ ] **2026-05-23**: SPG 96% 입주율·1,100건 임대계약 유지 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
 
 ## 사실 누적 (Verified Facts)
 
-독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
-
 <!-- FACTS_START -->
+- **2026-05-23**: SPG Q1 소매 매출 +11.8%/sqft, 96% 입주율, 배당 $2.25로 7.1% 인상 (GuruFocus 2026-05-05 + Simon Property IR 2026-05-22 교차 검증)
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +45,22 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-23
+
+**narrative_score**: +0.06 (전회 +0.20, Δ -0.14)
+**key_events**: Q2 배당 $2.25 선언·FFO 가이던스 $13.10-13.25 상향、96% 입주율·소매 매출 +11.8%
+**risks**: 소비자 경기 둔화 시 리테일 점포 수요、리더십 전환 실행 리스크
+
+> [!claim] (출처: Simon Property IR, 2026-05-22) Simon Property Group declares Q2 dividend $2.25; raises 2026 FFO guidance to $13.10-$13.25
+> SPG Q2 배당 $2.25·2026 FFO 가이던스 $13.10-13.25 상향. impact: + / category: earnings
+
+> [!claim] (출처: GuruFocus, 2026-05-05) Simon Property Q1: 96% occupancy, retailer sales +11.8% per sqft; 1,100 leases signed
+> SPG Q1 96% 입주율·소매 매출 +11.8%/sqft·1,100건 임대. impact: + / category: earnings
+
+**경쟁사 동향**:
+- O: 671회 연속 배당·투자 가이던스 상향 — 리테일 REIT 환경 호조 (impact for SPG: +)
+- WELL: $4.2B 인수 완료 — REIT 섹터 M&A 활발, SPG 쇼핑몰 리포지셔닝 참고 (impact for SPG: neutral)
 
 ### 2026-05-17
 

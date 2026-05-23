@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-05-22
+updated: 2026-05-23
 domain: finance
 type: index
 weight: reference
@@ -48,7 +48,7 @@ sources: []
 | [IBM](IBM - International Business Machines.md) | 2026-05-18 | -0.08 | YTD -26% 메가캐프 최하위, RBC 목표 하향 | 2 |
 | [PLTR](PLTR - Palantir Technologies Inc.md) | 2026-05-18 | +0.12 | Q1 +85% 어닝 대폭 서프라이즈, 가이던스 상향 | 2 |
 
-### 반독체
+### 반도체
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ sources: []
 | [XOM](XOM - Exxon Mobil Corporation.md) | 2026-05-22 | +0.10 | Q1 어닝 비트·$20B 바이백·호르무즈 봉쇄 유가 급등 | 2 |
 | [CVX](CVX - Chevron Corporation.md) | 2026-05-22 | +0.05 | 7일 연속 상승 지정학 수혜·내부자 $161M 순매도 | 2 |
 | [COP](COP - ConocoPhillips.md) | 2026-05-22 | +0.13 | 30년 알래스카 LNG 계약·Q1 EPS $1.89 강세 | 2 |
-| [SHEL](SHEL - Shell plc.md) | 2026-05-22 | +0.13 | Shell CEO 10억 배럴 부족 경고·호르무즈 빌쇄 | 2 |
+| [SHEL](SHEL - Shell plc.md) | 2026-05-22 | +0.13 | Shell CEO 10억 배럴 부족 경고·호르무즈 봉쇄 | 2 |
 | [OXY](OXY - Occidental Petroleum.md) | 2026-05-22 | +0.03 | Q1 EPS 비트 but CEO 퇴임·주가 -7.8% 혼조 | 2 |
 | [SLB](SLB - Schlumberger Limited.md) | 2026-05-22 | +0.10 | Bernstein/Barclays/BofA 목표가 동시 상향 | 2 |
 | [FCX](FCX - Freeport-McMoRan.md) | 2026-05-22 | +0.20 | 구리 역대 최고 $6.44/lb·Grasberg PB 2/3 재개 | 2 |
@@ -112,16 +112,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [JPM](JPM - JPMorgan Chase and Co.md) | 2026-05-17 | +0.00 | JLTXX 토큰 펀드 출시, 체이스 지점 52개, Dimon 경고 | 3 |
-| [BAC](BAC - Bank of America Corp.md) | 2026-05-17 | +0.05 | Q1 EPS +25% 비트, 배당 $0.28, Fed 금리 동결 장기화 | 2 |
-| [WFC](WFC - Wells Fargo and Company.md) | 2026-05-17 | +0.18 | Fed 자산제한 해제 (7년 만), ROTCE 17-18% 목표 재확인 | 2 |
-| [C](C - Citigroup Inc.md) | 2026-05-17 | +0.03 | Investor Day ROTCE 목표 제시, 아시아 확장 승인 | 2 |
-| [GS](GS - The Goldman Sachs Group.md) | 2026-05-17 | +0.00 | 주가 12개월 +65.5%, 사모 크레딧 신중론 | 2 |
-| [MS](MS - Morgan Stanley.md) | 2026-05-17 | +0.08 | Q1 매출 $20.6B 사상 최대, E*TRADE 암호화폐 파일럿 | 2 |
-| [V](V - Visa Inc.md) | 2026-05-17 | +0.15 | FY2Q EPS +20%·매출 +17%, UK FCA 조사 | 2 |
-| [MA](MA - Mastercard Incorporated.md) | 2026-05-17 | +0.00 | Q1 EPS 비트, UK FCA 조사, AI Agent Pay 시연 | 2 |
-| [AXP](AXP - American Express Company.md) | 2026-05-17 | +0.18 | Q1 EPS +18%, 골드 카드 ChatGPT 혜택, 여행 매각 | 2 |
-| [BRK-B](BRK-B - Berkshire Hathaway.md) | 2026-05-17 | +0.10 | Q1 영업이익 $11.35B·현금 $397B, 델타항공 투자 | 2 |
+| [JPM](JPM - JPMorgan Chase and Co.md) | 2026-05-23 | +0.08 | AI 인력 효율화·$1.5조 방산·AI 이니셔티브 발표 | 4 |
+| [BAC](BAC - Bank of America Corp.md) | 2026-05-23 | +0.09 | LTX AI 채권 플랫폼 가입·자산관리 두 자릿수 성장 | 3 |
+| [WFC](WFC - Wells Fargo and Company.md) | 2026-05-23 | +0.16 | 대출 $1조 돌파·신용카드 +60% 자산제한 해제 성과 | 3 |
+| [C](C - Citigroup Inc.md) | 2026-05-23 | +0.12 | 이란 전쟁 트레이딩 서프라이즈·자산관리 두 자릿수 | 3 |
+| [GS](GS - The Goldman Sachs Group.md) | 2026-05-23 | +0.06 | 사모 크레딧 신중론·이란 전쟁 트레이딩 수혜 | 2 |
+| [MS](MS - Morgan Stanley.md) | 2026-05-23 | +0.08 | 웰스 매니지먼트 +16%·E*TRADE 암호화폐 기관 확대 | 3 |
+| [V](V - Visa Inc.md) | 2026-05-23 | -0.06 | AI 에이전틱 커머스·스테이블코인 위협 10년 최저 밸류 | 3 |
+| [MA](MA - Mastercard Incorporated.md) | 2026-05-23 | -0.04 | AI 에이전틱 커머스 위협·Q1 EPS +12% 실적 괴리 | 3 |
+| [AXP](AXP - American Express Company.md) | 2026-05-23 | +0.05 | Q1 EPS +7% 비트·폐쇄형 네트워크 스테이블코인 면역 | 3 |
+| [BRK-B](BRK-B - Berkshire Hathaway.md) | 2026-05-23 | +0.10 | Abel 주총 분할 불가·GOOGL +224% 포트폴리오 대전환 | 3 |
 
 ### 소비재
 
@@ -157,16 +157,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [AMT](AMT - American Tower Corporation.md) | 2026-05-17 | +0.08 | Q1 EPS +15% 상회, 데이터센터 +17%, 가이던스 상향 | 2 |
-| [CCI](CCI - Crown Castle Inc.md) | 2026-05-17 | +0.05 | 파이버·소형기지국 $8.5B 매각, 순수 타워 전환 | 2 |
-| [PLD](PLD - Prologis Inc.md) | 2026-05-17 | +0.18 | Q1 EPS +29.6% 대폭 상회, 데이터센터 착공 $4.5-5.5B | 2 |
-| [EQIX](EQIX - Equinix Inc.md) | 2026-05-17 | +0.13 | Q1 매출 +8%·마진 51%, AI 데이터센터 $50B 최고 | 1 |
-| [DLR](DLR - Digital Realty Trust.md) | 2026-05-17 | +0.13 | Q1 매출 +16.2%, Core FFO 가이던스 상향 | 2 |
-| [O](O - Realty Income Corporation.md) | 2026-05-17 | +0.05 | 670회 연속 월배당 134번째 인상, AFFO 가이던스 상향 | 2 |
-| [SPG](SPG - Simon Property Group.md) | 2026-05-17 | +0.20 | Q1 FFO +7.5%, 배당 +7.1%, 소매 매출 +11.8%/sqft | 2 |
-| [WELL](WELL - Welltower Inc.md) | 2026-05-17 | +0.20 | Q1 NOI +16.4%·순이익 +183%, 복수 애널리스트 상향 | 2 |
-| [PSA](PSA - Public Storage.md) | 2026-05-17 | -0.03 | Q1 매출 -18% 미스·NOI +0.4%, NSA $5.63B 인수 발표 | 2 |
-| [VICI](VICI - VICI Properties Inc.md) | 2026-05-17 | +0.08 | Q1 EPS +15.5% 상회, AFFO 가이던스 상향, 골든엔터 인수 | 2 |
+| [AMT](AMT - American Tower Corporation.md) | 2026-05-23 | +0.05 | Bernstein 아웃퍼폼 업그레이드 $207·타워 REIT 회복 | 2 |
+| [CCI](CCI - Crown Castle Inc.md) | 2026-05-23 | +0.14 | $8.5B 매각 완료·AFFO 상향·$1B 자사주매입 | 3 |
+| [PLD](PLD - Prologis Inc.md) | 2026-05-23 | +0.05 | Q1 동일점포 NOI +8.8%·배당 $1.07 인상 | 3 |
+| [EQIX](EQIX - Equinix Inc.md) | 2026-05-23 | +0.03 | 2026 매출 +9-10%·11년 연속 배당 인상·차입금 급증 | 3 |
+| [DLR](DLR - Digital Realty Trust.md) | 2026-05-23 | +0.16 | 역대 최대 AI 임대 200MW·자본지출 $250M 상향 | 3 |
+| [O](O - Realty Income Corporation.md) | 2026-05-23 | +0.04 | 671회 연속 월배당·투자 가이던스 $9.5B 상향 | 3 |
+| [SPG](SPG - Simon Property Group.md) | 2026-05-23 | +0.06 | Q2 배당 $2.25·FFO 가이던스 상향·96% 입주율 | 3 |
+| [WELL](WELL - Welltower Inc.md) | 2026-05-23 | +0.14 | $4.2B 인수 완료·PSA 데이터·ML 파트너십 | 3 |
+| [PSA](PSA - Public Storage.md) | 2026-05-23 | +0.04 | WELL·PSA 시니어 주택 데이터·ML 파트너십 신사업 | 3 |
+| [VICI](VICI - VICI Properties Inc.md) | 2026-05-23 | +0.05 | Q2 배당 $0.4325·Barclays $34 상향 18% 업사이드 | 3 |
 
 ### 통신 / 미디어
 
@@ -207,7 +207,7 @@ sources: []
 | [010140.KS](010140.KS - Samsung Heavy Industries.md) | — | — | — | — |
 | [010620.KS](010620.KS - HMM Co.md) | — | — | — | — |
 
-## 오늘의 시그널 (2026-05-22 · 금요일 · 에너지/원자재 + 유틸리티/전력)
+## 오늘의 시그널 (2026-05-23 · 토요일 · 금융 + 부동산 REITs)
 
 루틴은 다음 패턴을 감지하면 이 섹션에 기록한다:
 
@@ -218,18 +218,17 @@ sources: []
 
 ### 감지된 패턴
 
-- **섹터 동기화 (에너지 지정학 수혜 사이클)**: XOM·CVX·COP·SHEL 4종목이 호르무즈 해협 보쇄·Shell CEO 판매 가능 세계 원유 10억 배럴 부족 경고·Citigroup 유가 $120 전망으로 동시 양수. 에너지 공급 부족 매크로 환경 직차 가동.
-- **섹터 동기화 (귀금속·원자재 수퍼사이클)**: FCX(+0.20)·NEM(+0.30) 동반 강세. 구리 역대 최고가 $6.44/lb + 금 실현가 +66% YoY + AI 인프라 구리 수요 구조적 상승 삼박자 동기화.
-- **섹터 동기화 (AI 전력 수혜 유틸리티)**: VST(+0.25)·CEG(+0.23)·AEP(+0.15) 3종목이 AI 데이터센터 전력 수요로 동시 양수. 유틸리티 섹터 내 AI 수혜 여부에 따른 차별화 심화.
-- **모순 (에너지 섹터 내 CEO 리스크)**: NEM(+0.30) 역대 최고 실적 vs OXY(+0.03) CEO 퇴임·주가 -7.8% 혼조 — 동일 섹터에서 리더십 리스크 영향 군단 분화.
-- **모순 (유틸리티 AI 수혜/비수혜 극단 분리)**: VST(+0.25)·CEG(+0.23) vs SRE(-0.03)·ED(-0.03) — AI 전력 인프라 수혜 여부에 따른 유틸리티 섹터 내 가장 큰 편차(+0.28). EXC(0.00) 중간 포지셈.
-- **최고 신호**: NEM +0.30 — Q1 역대 최고 실적(EPS $2.90·FCF $3.1B)에 $6B 추가 자사주매입 병행. 금 수퍼사이클 레버리지 완전 가동. / VST +0.25 — Meta/AWS 3,800MW 20년 PPA로 AI 전력 IPP 독보적 1위 확보.
-- **경고 신호**: OXY +0.03 (CEO 퇴임 구조적 불확실성) / SRE -0.03 (Q1 EPS·매출 미스) / ED -0.03 (대다수 Sell 의견) — 전통 규제 유틸리티·리더십 교체 종목 단기 회시.
-- **섹터간 전파 예고 (M&A 충격)**: NEE-D $67B 역대 최대 전력 유틸리티 M&A 발표 → 다음 실행 요일(월요일 · 빅테크/소프트웨어) MSFT·AMZN·META의 AI 데이터센터 전력 조달 비용 변화 뉴스 주목. AI 데이터센터 전력 비용 상승 → 빅테크 마진 압박 가능성.
+- **섹터 동기화 (V·MA AI 에이전틱 결제 위협)**: V(-0.06)·MA(-0.04) 동시 음수 — AI 에이전틱 커머스와 스테이블코인 결제 대체 시나리오(Citrini Research 2027년 경고)로 10년 최저 밸류에이션. 반면 AXP(+0.05) 폐쇄형 네트워크 차별화로 상대적 면역 확인. 결제 인프라 내 개방 vs 폐쇄 네트워크 분기점 도달 신호.
+- **섹터 동기화 (은행권 AI 효율화 동시 진행)**: JPM AI 인력 감축·$1.5조 이니셔티브 + BAC LTX AI 채권 플랫폼 + MS E*TRADE 암호화폐 기관 확대 — 금융 섹터 전반 AI 전환 가속 동기화.
+- **섹터 동기화 (데이터센터 REIT AI 수요 포착 경쟁)**: DLR(+0.16) 역대 최대 200MW 계약 + EQIX(+0.03) 9-10% 성장 가이던스·11년 배당 인상 — 동반 수혜. DLR 자본지출 $250M 상향·파이프라인 +60%로 EQIX 대비 공격적 AI 임대 전략 분화.
+- **모순 (금융 섹터 내 WFC 반전)**: WFC(+0.16) — 전주 -15% YTD 하락 국면에서 대출 $1조 돌파·신용카드 +60%로 자산제한 해제 구체 성과 가시화. 같은 섹터 내 V(-0.06) 구조적 위협과 대조적 반전.
+- **최고 신호**: DLR +0.16 — 역대 최대 AI 추론 200MW 임대(AA급 하이퍼스케일러)·자본지출 $250M 상향·파이프라인 +60% 1.2GW. AI 인프라 수요 포착 가시성 최상위. / WFC +0.16 — 자산제한 해제 후 대출 $1조(2020년 이후 최초)·신용카드 +60% YoY로 구체적 성과 검증 완료.
+- **경고 신호**: V(-0.06) — AI 에이전틱 커머스·스테이블코인 2027년 대체 시나리오로 10년 최저 밸류에이션. 실적(Q1 +15%)과 내러티브 극단적 괴리 — 구조적 위협 구체화 여부가 최대 관전 포인트. / MA(-0.04) V와 동일 위협 공유.
+- **섹터간 전파 예고 (AI 결제 인프라 vs 전통 카드)**: V·MA 구조적 위협 부각 → 다음 실행 요일(일요일 · 소비재/산업재) 아마존·월마트의 스테이블코인 직접 결제 채택 동향 주목. V·MA 네트워크 우회 시 소비재 섹터 결제 비용 변화 가능성.
 
 ## 사용 팁
 
 - 점수 변화가 큰 종목 우선 확인 → 해당 `{TICKER} - {name}.md` 의 [일자별 기록] 최신만 읽으면 충분.
 - [미해결 가설] 콜럼이 비어있지 않은 종목은 후속 검증이 필요한 사안이 누적된 상태.
-- 섹터 단위로 뉵아서 보면 매크로 충격이 어떤 종목들에 동시에 영향을 주는지 빠르게 파악 가능.
+- 섹터 단위로 묶어서 보면 매크로 충격이 어떤 종목들에 동시에 영향을 주는지 빠르게 파악 가능.
 - 요일별 라운드로빈이므로 특정 종목이 몇일 동안 업데이트되지 않을 수 있다 — 정상.
