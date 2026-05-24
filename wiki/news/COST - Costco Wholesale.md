@@ -1,7 +1,7 @@
 ---
 title: "COST - Costco Wholesale — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-24
 domain: finance
 type: claim
 weight: reference
@@ -12,7 +12,7 @@ sources: []
 
 # COST - Costco Wholesale — Routine News Log
 
-**Costco Wholesale** · Consumer Staples · 소비재 · 경쟁사: WMT
+**Costco Wholesale** · Consumer Staples · 소비재 · 경쟁사: WMT, TGT, BJ, KR
 
 ## 회사 소개
 
@@ -27,9 +27,9 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] (2026-05-24) 코스트코 Q3 FY2026 실적 발표 시 매출 +9%, EPS +13% 예상치 달성 여부가 주가 방향성을 결정할 것이다.
+- [ ] (2026-05-24) P/E 53배의 고평가 부담이 실적 발표 이후 주가 조정을 유발할 수 있다.
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,5 +46,17 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+
+### 2026-05-24
+
+**narrative_score**: 0.10 (전회 N/A, Δ N/A)
+**key_events**: Q3 FY2026 실적 발표 임박 — 매출 +9%, EPS +13% 전망, 이커머스·회원권 갱신율 견조
+**risks**: P/E 53배 고평가, 연료비·물류비 상승으로 단기 마진 압박, 거시경제 역풍
+
+> [!claim] (출처: TradingKey, 2026-05-24) Costco Earnings Preview: A Valuation Stress Test of Resilient Pricing
+> 코스트코 Q3 FY2026 실적 전망: 매출 +9%, EPS +13% 예상, 회원권 갱신·이커머스 성장 견조. impact: + / category: earnings
+
+**경쟁사 동향**:
+- WMT: 월마트 내부자 매도 다수 감지 — 월마트의 상대적 약세는 코스트코의 경쟁 우위를 부각시키며, 가치 추구 소비자 트렌드에서 코스트코 수혜 가능
+
 <!-- DAILY_END -->
