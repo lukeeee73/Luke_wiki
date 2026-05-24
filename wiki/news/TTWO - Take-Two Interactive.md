@@ -1,7 +1,7 @@
 ---
 title: "TTWO - Take-Two Interactive — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-05-24
 domain: finance
 type: claim
 weight: reference
@@ -37,6 +37,20 @@ GTA(Grand Theft Auto) 시리즈, NBA 2K, 보더랜드 등 유명 게임 시리�
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+
+### 2026-05-24
+
+**narrative_score**: 0.0 (전회 +0.35, Δ -0.35)
+**key_events**: 신규 뉴스 없음 (일요일 / API 크레딧 소진)
+**risks**: GTA VI 트레일러/출시일 관련 오픈 클레임 검증 필요; 5/21 실적 발표 이후 업데이트 시급
+
+> [!note] 뉴스 없음
+> 금일(일요일) 금융 데이터 API 크레딧 소진으로 신규 뉴스 수집 불가. 스코어 0.0(중립) 기록. GTA VI 관련 오픈 클레임(5/18 트레일러, 5/21 Q4 실적) 및 5/21 이후 업데이트 필요.
+
+**경쟁사 동향**:
+- 신규 경쟁사 동향 없음 (API 크레딧 소진)
+
+---
 
 ### 2026-05-17
 
