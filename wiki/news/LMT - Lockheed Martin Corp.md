@@ -1,7 +1,7 @@
 ---
 title: "LMT - Lockheed Martin Corp. — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-05-24
 domain: finance
 type: claim
 weight: reference
@@ -29,14 +29,45 @@ sources: []
 - [ ] **2026-05-17**: FMS 승인 주기 장기화가 2026년 매출 성장률을 1~2%p 실질 감소시킬 것인가 (pending)
 - [ ] **2026-05-17**: Nokia 5G 협력이 LMT 통신 방산 시스템에 의미 있는 매출로 이어질 것인가 (pending)
 - [ ] **2026-05-17**: NATO 동맹국 방산비 20% 증가가 F-35 추가 발주로 구체화될 것인가 (pending)
+- [ ] **2026-05-24**: $90억+ 탄약 생산 투자(2030년까지)가 LMT 수익성을 실질적으로 개선할 것인가 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
+- **2026-05-24**: LMT, 앨라배마 트로이 캠퍼스에 87,000 평방피트 탄약 생산센터 착공(5/21). THAAD 인터셉터·차세대 인터셉터(NGI) 생산 가속화 지원. (Lockheed Martin IR / PRNewswire)
+- **2026-05-24**: LMT, 2030년까지 $90억 이상 탄약 생산 투자 확약. 미국 전역 20개 이상 시설 확장 중. (Army Technology / StockTitan)
+- **2026-05-24**: 쿠웨이트 $25억 IBCS 판매 국무부 승인. NOC 주계약, LMT·RTX 하청 참여. (US State Dept)
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+
+### 2026-05-24
+
+**narrative_score**: +0.23 (전회 +0.20, Δ +0.03)
+**key_events**: THAAD 탄약 생산센터 착공 (앨라배마 트로이, 5/21), $90억+ 2030년까지 탄약 투자 가시화, 쿠웨이트 IBCS $25억 하청 참여, LMT 주가 +2% $534.99
+**risks**: FMS 승인 주기 장기화 (기존 오픈 클레임), 홀드 컨센서스 유지로 상방 제한
+
+> [!claim] (출처: Lockheed Martin IR / PRNewswire, 2026-05-24) LMT breaks ground on 87K sq ft THAAD Munitions Production Center, Troy Alabama
+> LMT 앨라배마 트로이에 8.7만 평방피트 탄약 생산센터 착공, THAAD·NGI 생산 가속화. impact: + / category: product
+
+> [!claim] (출처: StockTitan / Army Technology, 2026-05-24) Lockheed $9B+ munitions buildout: 20+ US facility expansions through 2030
+> LMT 2030년까지 $90억 이상 탄약 생산 투자, 미국 전역 20개 이상 시설 확장 중. impact: + / category: product
+
+> [!claim] (출처: Public.com / CNN Markets, 2026-05-24) LMT stock +2% to $534.99 on May 23; Hold consensus; avg target $595
+> LMT 5/23 주가 +2% $534.99. 14개 증권사 홀드 컨센서스, 평균 목표가 $595. impact: neutral / category: other
+
+> [!claim] (출처: US State Dept / Overt Defense, 2026-05-24) Kuwait $2.5B IBCS sale approved: NOC prime, RTX and LMT as subcontractors
+> 쿠웨이트 $25억 IBCS 판매 승인. NOC 주계약, RTX·LMT 하청 참여. 중동 방산 수주 생태계 확인. impact: + / category: regulation
+
+**경쟁사 동향**:
+- RTX: PACE4ACE 전투 통신 시스템 시연으로 전자전 기술 포트폴리오 확대
+- NOC: 쿠웨이트 IBCS 주계약으로 중동 방공 리더십 확보 — LMT 하청 참여
+
+**검증·반증 노트**:
+- [ ] 2026-05-17 FMS 승인 주기 장기화 → **pending**
+- [ ] 2026-05-17 Nokia 5G 협력 매출화 → **pending**
+- [ ] 2026-05-17 NATO 방산비 F-35 발주 구체화 → **pending** (동맹국 방산비 증가 지속 확인)
 
 ### 2026-05-17
 
