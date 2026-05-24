@@ -1,7 +1,7 @@
 ---
 title: "NOC - Northrop Grumman Corp. — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-05-24
 domain: finance
 type: claim
 weight: reference
@@ -29,14 +29,47 @@ sources: []
 - [ ] **2026-05-17**: B-21 레이더 생산 가속화가 2026년 하반기 매출 성장률 가시적 개선으로 이어질 것인가 (pending)
 - [ ] **2026-05-17**: 주가 3개월 -20%가 과도한 저평가인지, FMS·비용 압박 리스크가 충분히 반영된 수준인지 (pending)
 - [ ] **2026-05-17**: LR-450 우주 항법 시스템이 새로운 우주 사업 계약 수주로 이어질 것인가 (pending)
+- [ ] **2026-05-24**: 쿠웨이트 IBCS 주계약이 추가 중동 국가 IBCS 수출로 이어질 것인가 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
+- **2026-05-24**: 쿠웨이트 $25억 IBCS(통합전투지휘체계) 판매 국무부 승인. NOC 주계약자, RTX·LMT 하청. 폴란드에 이어 두 번째 해외 IBCS 고객. 긴급 안보 조항 적용으로 30일 의회 검토 면제. (US State Dept / Overt Defense)
+- **2026-05-24**: 미 정부 중동 동맹국 대상 $86억 무기 판매 패키지 승인 — NOC 다수 프로그램 포함. (GuruFocus)
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+
+### 2026-05-24
+
+**narrative_score**: +0.20 (전회 +0.03, Δ +0.17)
+**key_events**: 쿠웨이트 $25억 IBCS 주계약 수주 (두 번째 해외 고객), 중동 $86억 무기 판매 수혜, 연간 주주총회 완료, 씨티 목표가 $742→$628 하향(매수 유지), 주가 $555 수준
+**risks**: 실적 이후 주가 -6.4%, 씨티 목표가 대폭 하향, B-21 생산 가속화 매출 반영 시기
+
+> [!claim] (출처: US State Dept / Overt Defense / Motley Fool, 2026-05-24) Kuwait $2.5B IBCS: NOC prime contractor; second international IBCS customer
+> 쿠웨이트 $25억 IBCS 판매 국무부 승인, NOC 주계약자. 폴란드 이어 두 번째 해외 IBCS 고객. impact: + / category: product
+
+> [!claim] (출처: GuruFocus / TheSwipeUp, 2026-05-24) US approves $8.6B Middle East weapons sales; NOC benefits across multiple programs
+> 미 정부 중동 동맹국 대상 $86억 무기 판매 승인, NOC 다수 프로그램 수혜. impact: + / category: regulation
+
+> [!claim] (출처: Northrop Grumman IR, 2026-05-24) NOC Annual Shareholder Meeting completed; all board and management proposals approved
+> NOC 연간 주주총회 완료. 이사회 전환, 수주잔고 강세, 모든 이사·안건 승인. impact: neutral / category: other
+
+> [!claim] (출처: Yahoo Finance / Citi, 2026-05-24) NOC down 6.4% since last earnings; Citi cuts target to $628 from $742, maintains Buy
+> NOC 최근 실적 이후 주가 -6.4%, 씨티 목표가 $742→$628 하향 (매수 유지). impact: - / category: other
+
+> [!claim] (출처: MarketBeat, 2026-05-24) Leonteq Securities buys 2,654 NOC shares — institutional buying signal
+> 레온테크 시큐리티스 NOC 주식 2,654주 매입. 현 주가 수준 기관 매수 신호. impact: neutral / category: other
+
+**경쟁사 동향**:
+- LMT: THAAD 생산센터 착공, $90억+ 투자 — NOC B-21·ICBM 전략 무기와 다른 시장 (직접 경쟁 제한적)
+- RTX: PACE4ACE 통신 시스템 확대 — NOC 우주·통신 일부 겹치나 전략핵 영역은 NOC 독보적
+
+**검증·반증 노트**:
+- [ ] 2026-05-17 B-21 생산 가속화 매출 개선 → **pending**
+- [ ] 2026-05-17 주가 저평가 vs 리스크 반영 논쟁 → **pending** (씨티 목표가 추가 하향은 리스크 반영 강화 신호)
+- [ ] 2026-05-17 LR-450 우주 항법 계약화 → **pending**
 
 ### 2026-05-17
 
