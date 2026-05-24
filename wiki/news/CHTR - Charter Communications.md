@@ -1,7 +1,7 @@
 ---
 title: "CHTR - Charter Communications — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-05-24
 domain: finance
 type: claim
 weight: reference
@@ -36,6 +36,20 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+
+### 2026-05-24
+
+**narrative_score**: 0.0 (전회 -0.30, Δ +0.30)
+**key_events**: 신규 뉴스 없음 (일요일 / API 크레딧 소진)
+**risks**: 오픈 클레임 미검증 지속; 브로드밴드 경쟁 및 주가 압력 지속 우려
+
+> [!note] 뉴스 없음
+> 금일(일요일) 금융 데이터 API 크레딧 소진으로 신규 뉴스 수집 불가. 스코어 0.0(중립) 기록, 오픈 클레임 pending 유지.
+
+**경쟁사 동향**:
+- 신규 경쟁사 동향 없음 (API 크레딧 소진)
+
+---
 
 ### 2026-05-17
 
