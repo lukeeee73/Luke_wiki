@@ -1,7 +1,7 @@
 ---
 title: "ADBE - Adobe Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-18
+updated: 2026-05-25
 domain: finance
 type: claim
 weight: reference
@@ -29,7 +29,8 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-18**: $25B 자사주 매입 + Semrush 인수 + AI PDF 에이전트 출시 (pending)
-- [ ] **2026-05-18**: 소프트웨어 섹터 로테이션 — ADBE 주도주 부상, 당일 +3.2% (pending)
+- [~] **2026-05-18**: 소프트웨어 섹터 로테이션 — ADBE 주도주 부상, 당일 +3.2% (refuted 2026-05-25 by Piper Sandler Neutral 하향)
+- [ ] **2026-05-25**: Piper Sandler '바이브 코딩·좌석 압축' 구조적 멀티플 상한 우려 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,23 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-25
+
+**narrative_score**: -0.10 (전회 +0.12, Δ -0.22)
+**key_events**: Piper Sandler Neutral 하향 목표 $330($470 대비 -30%)、바이브 코딩·좌석 압축 구조적 우려 부각
+**risks**: AI 코딩 도구 확산으로 전문 디자인 수요 잠식、목표주가 대폭 하향 기관 매도 압박、소프트웨어 섹터 전반 멀티플 압축
+
+> [!claim] (출처: Yahoo Finance/247wallst, 2026-05-25) Piper Sandler ADBE Neutral 하향, 목표주가 $470→$330
+> '바이브 코딩'과 좌석 압축 리스크가 크리에이티브 SW 멀티플 상한 제한. impact: - / category: earnings
+
+**경쟁사 동향**:
+- MSFT: Copilot 창작·문서 생산성 기능 확장 — Adobe 핵심 제품군 직접 경쟁 (impact for ADBE: -)
+- CRM: 소프트웨어 좌석 압축 우려 공유 — 동종 구조적 멀티플 압축 (impact for ADBE: -)
+
+**검증·반증 노트**:
+- [~] 2026-05-18 가설 '소프트웨어 섹터 로테이션 — ADBE 주도주 부상' — Piper Sandler Neutral 하향·목표 -30%로 주도주 내러티브 반전. refuted 처리.
+
 
 ### 2026-05-18
 

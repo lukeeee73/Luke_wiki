@@ -1,7 +1,7 @@
 ---
 title: "AMZN - Amazon.com Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-18
+updated: 2026-05-25
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,9 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-18**: Q1 AWS 성장률 +28% YoY, 시총 $3조 돌파 임박 (Bloomberg 보도) (pending)
+- [ ] **2026-05-18**: Q1 AWS +28% 확인, 시총 $3조 돌파 임박 — 현재 ~$2.9T 미달 (pending)
 - [ ] **2026-05-18**: 관세 비용 소비자 전가 집단소송 제기 (pending)
+- [ ] **2026-05-25**: 2026 capex $2000억 — Bedrock AI +170% QoQ, Anthropic 수익 $168억 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-25
+
+**narrative_score**: +0.13 (전회 +0.10, Δ +0.03)
+**key_events**: Q1 EPS $2.78 vs $1.63 대폭 비트、AWS +28% 15분기 최고 연간화 $1500억、Anthropic 투자수익 $168억、2026 capex $2000억 계획
+**risks**: capex $2000억 장기 ROI 불확실성、관세 집단소송 법적 리스크、GOOGL 클라우드 추격 가속
+
+> [!claim] (출처: CNBC, 2026-04-29) Q1 EPS $2.78 vs $1.63 예상 대폭 상회. AWS +28% YoY 연간화 $1500억
+> Bedrock AI 고객 지출 +170% QoQ. 15분기 최고 AWS 성장률. impact: + / category: earnings
+
+> [!claim] (출처: Investing.com, 2026-04-29) Anthropic 투자 세전 수익 $168억 Q1 계상
+> 2026년 전사 capex $2000억 계획. impact: + / category: earnings
+
+**경쟁사 동향**:
+- GOOGL: Cloud +63%, 백로그 $460B 두 배 — AWS 3위 추격 가속 (impact for AMZN: -)
+- MSFT: Ackman $2.1B 베팅 — Azure AI 선호도 기관 검증, AWS 상대 경쟁 심화 (impact for AMZN: -)
+
+**검증·반증 노트**:
+- ✅ 2026-05-18 가설 'Q1 AWS 성장률 +28% YoY' — Q1 실적 발표에서 AWS +28% 확인. 시총 $3조 돌파 임박 부분은 현재가 $266 기준 ~$2.9T로 아직 미달. pending 유지.
+
 
 ### 2026-05-18
 

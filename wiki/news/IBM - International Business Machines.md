@@ -1,7 +1,7 @@
 ---
 title: "IBM - International Business Machines — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-18
+updated: 2026-05-25
 domain: finance
 type: claim
 weight: reference
@@ -46,6 +46,17 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-25
+
+**narrative_score**: -0.10 (전회 -0.08, Δ -0.02)
+**key_events**: 개별 뉴스 없음
+**risks**: Oracle AI 인프라 급성장으로 엔터프라이즈 AI 시장 잠식、Azure·Oracle에 기관 AI 자금 이동 가속、YTD 최하위 성과 지속
+
+**경쟁사 동향**:
+- ORCL: Q3 AI 인프라 +243%, 미이행 잔고 $5530억 — IBM WatsonX 시장 지위 위협 (impact for IBM: -)
+- MSFT: Ackman $2.1B 매수 — Azure AI 기업 배포 역량 검증, 기관 자금 IBM 대신 MSFT (impact for IBM: -)
+
 
 ### 2026-05-18
 

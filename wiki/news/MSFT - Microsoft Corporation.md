@@ -1,7 +1,7 @@
 ---
 title: "MSFT - Microsoft Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-18
+updated: 2026-05-25
 domain: finance
 type: claim
 weight: reference
@@ -29,6 +29,7 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-18**: MSFT OpenAI 의존도 탈피 → 독립 AI 성장 전략 구체화 (pending)
+- [ ] **2026-05-25**: Bill Ackman $2.1B MSFT 매수 — 포트폴리오 14%, OpenAI 지분 $2000억 미반영 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +46,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-25
+
+**narrative_score**: +0.03 (전회 +0.08, Δ -0.05)
+**key_events**: Bill Ackman MSFT $2.1B 포트폴리오 14% 신규 매수、Moody's 미국 신용 하향 우려 주가 소폭 압박、Forza Horizon 6 강한 출시 판매
+**risks**: 무디스 신용 하향 조정으로 기업 채권비용 상승 가능、GOOGL 클라우드 +63% 급성장으로 Azure 점유율 경쟁 심화
+
+> [!claim] (출처: The Motley Fool, 2026-05-25) Bill Ackman 퍼싱스퀘어 MSFT 565만주($21억) 매수
+> 포트폴리오 14% 편입. OpenAI 27% 지분 가치($2000억) 미반영 undervalued thesis. impact: + / category: other
+
+> [!claim] (출처: foreignpolicyjournal.com, 2026-05-22) Moody's 미국 신용 하향 우려로 MSFT 주가 $420 일시 조정
+> 거시적 신용 환경 변화가 기업 채권비용 상승으로 연결 가능. impact: - / category: macro
+
+> [!claim] (출처: GuruFocus, 2026-05-22) Forza Horizon 6 출시 강한 초기 판매 성과
+> 게임 사업 부문 모멘텀 긍정적. impact: + / category: product
+
+**경쟁사 동향**:
+- GOOGL: Q1 클라우드 +63%, 백로그 $460B 두 배 — Azure와 클라우드 기업 점유율 경쟁 심화 (impact for MSFT: -)
+- AMZN: AWS +28% 15분기 최고 성장 — 클라우드 2강 경쟁 지속 (impact for MSFT: -)
+
 
 ### 2026-05-18
 

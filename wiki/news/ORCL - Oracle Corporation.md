@@ -1,7 +1,7 @@
 ---
 title: "ORCL - Oracle Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-18
+updated: 2026-05-25
 domain: finance
 type: claim
 weight: reference
@@ -29,6 +29,7 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-18**: Wedbush·Oppenheimer 목표주가 동시 상향 ($275/$235), 삼성 Java 계약 체결 (pending)
+- [ ] **2026-05-25**: Oracle Q3 미이행 잔고 $5530억 +325%, $300억 미국 정부 클라우드 계약 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +46,23 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-25
+
+**narrative_score**: +0.25 (전회 +0.15, Δ +0.10)
+**key_events**: Q3 매출 $17.2B +22%, OCI +84%, AI +243%、미이행 잔고 $5530억 +325%、$300억 미국 정부 클라우드 계약、멀티클라우드 DB +531%
+**risks**: $5530억 백로그 이행 능력 검증 필요、Azure/AWS DB 경쟁 장기 지속
+
+> [!claim] (출처: foreignpolicyjournal.com, 2026-05-24) Oracle Q3 FY2026: 매출 $17.2B +22%, OCI +84%, AI 인프라 +243%
+> 미이행 잔고 $5530억 +325%, 멀티클라우드 DB +531%. impact: + / category: earnings
+
+> [!claim] (출처: MEXC News, 2026-05-20) 미국 정부 $300억 Oracle AI 클라우드 인프라 계약
+> 역대 최대 규모 클라우드 계약 중 하나. impact: + / category: other
+
+**경쟁사 동향**:
+- MSFT: Azure SQL/Fabric 엔터프라이즈 DB 확장 — Oracle Cloud DB와 장기 경쟁 (impact for ORCL: -)
+- AMZN: AWS 데이터베이스 서비스 성장 — 멀티클라우드 수요에서 Oracle 견고 (impact for ORCL: neutral)
+
 
 ### 2026-05-18
 

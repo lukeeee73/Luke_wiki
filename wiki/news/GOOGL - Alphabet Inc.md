@@ -1,7 +1,7 @@
 ---
 title: "GOOGL - Alphabet Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-18
+updated: 2026-05-25
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,9 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-18**: 2026 EPS 컨센서스 $11.63→$14.22 상향, 클라우드 시장 점유율 확대 (pending)
-- [ ] **2026-05-18**: Bill Ackman GOOGL 전량 매도 — 기관 투자자 이탈 신호 (pending)
+- [ ] **2026-05-18**: 2026 EPS 컨센서스 $14.22 상향, 클라우드 시장 점유율 확대 (pending)
+- [~] **2026-05-18**: Bill Ackman GOOGL 전량 매도 — 기관 투자자 이탈 신호 (refuted 2026-05-25 by Ackman IR — 장기 낙관 유지 명시)
+- [ ] **2026-05-25**: DOJ 반독점 항소 + EU DMA 독일 제재 — 광고 기술 스택 규제 리스크 구체화 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-25
+
+**narrative_score**: +0.10 (전회 +0.10, Δ +0.00)
+**key_events**: Q1 순이익 +81% EPS $5.11 클라우드 +63%、Gemini $1B 절감 AI 가격 전쟁 선언、클라우드 백로그 $460B 분기 내 두 배、DOJ 반독점 항소 제기
+**risks**: DOJ 광고 기술 스택 반독점 소송 항소 리스크、META 글로벌 광고 시장 초월 전망
+
+> [!claim] (출처: Google IR/SEC, 2026-04-29) Q1 2026 순이익 +81% EPS $5.11, Search +19%, Cloud +63%
+> 클라우드 백로그 $460B으로 분기 내 두 배 급증. impact: + / category: earnings
+
+> [!claim] (출처: tikr.com, 2026-05-19) Gemini 기업 AI 마이그레이션 $1B 절감 발표
+> Gemini 3.5 Flash '최전선 기능 경쟁사 대비 50% 이하 가격'. impact: + / category: product
+
+> [!claim] (출처: phemex.com, 2026-05-20) DOJ 반독점 항소, EU DMA 위반 독일 제재 가능성
+> 광고 기술 스택 셔먼법 위반 판결 항소 제기. impact: - / category: regulation
+
+**경쟁사 동향**:
+- MSFT: Ackman GOOGL 전량 매도 후 MSFT $2.1B 매수 — AI 기관 자금 재배치, Ackman 본인은 GOOGL 장기 낙관 강조 (impact for GOOGL: -)
+- META: eMarketer 2026년 META 글로벌 디지털 광고 GOOGL 초월 전망 — 광고 시장 독점 지위 도전 (impact for GOOGL: -)
+
 
 ### 2026-05-18
 

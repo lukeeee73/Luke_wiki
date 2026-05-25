@@ -1,7 +1,7 @@
 ---
 title: "PLTR - Palantir Technologies Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-18
+updated: 2026-05-25
 domain: finance
 type: claim
 weight: reference
@@ -29,7 +29,8 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-18**: Q1 매출 +85% YoY, EPS 크게 상회, FY 가이던스 +10pt 상향 (CNBC 보도) (pending)
-- [ ] **2026-05-18**: 97배 선행 PER → 주가 YTD -26%, 밸류에이션 압박 지속 (pending)
+- [ ] **2026-05-18**: 97배 선행 PER → 주가 YTD -23% (업데이트), 밸류에이션 압박 지속 (pending)
+- [ ] **2026-05-25**: DIA 내부 분석 계약 도전 — 민간 AI 채택 압박, 신규 정부 매출 촉매 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,23 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-25
+
+**narrative_score**: +0.13 (전회 +0.12, Δ +0.01)
+**key_events**: DIA 내부 분석 계약 도전 — 신규 정부 매출 촉매、28명 중 19명 강력 매수 평균 목표 $194.81(+42%)
+**risks**: 고PER 성장주 금리·거시 민감성、DIA 도전 결과 불확실성
+
+> [!claim] (출처: foreignpolicyjournal.com, 2026-05-25) Palantir, DIA 내부 분석 계약 도전 — 민간 AI 채택 압박
+> 성공 시 대규모 신규 정부 매출 촉매. impact: + / category: other
+
+> [!claim] (출처: foreignpolicyjournal.com, 2026-05-25) PLTR YTD -23% but 28명 중 19명 강력 매수
+> 평균 목표주가 $194.81 — 현재가 ~$137 대비 +42% 업사이드. impact: + / category: other
+
+**경쟁사 동향**:
+- IBM: WatsonX 엔터프라이즈 AI 부진 — PLTR 정부·기업 AI 포지션 강화 기회 (impact for PLTR: +)
+- MSFT: Azure AI Fabric 기업 데이터 분석 확장 — AIP 플랫폼 민간 시장 경쟁 (impact for PLTR: -)
+
 
 ### 2026-05-18
 

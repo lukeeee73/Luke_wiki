@@ -1,7 +1,7 @@
 ---
 title: "META - Meta Platforms Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-18
+updated: 2026-05-25
 domain: finance
 type: claim
 weight: reference
@@ -29,7 +29,8 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-18**: Q1 매출 $56.3B (+33%), EPS 어닝 서프라이즈 — 강한 디지털 광고 수요 (pending)
-- [ ] **2026-05-18**: 2026 capex $125B (+8% 상향) — AI 투자 부담으로 주가 고점 대비 -23% (pending)
+- [ ] **2026-05-18**: 2026 capex $145B (기존 가설 $125B에서 업데이트) — AI 투자 부담 (pending)
+- [ ] **2026-05-25**: 2026년 META 글로벌 디지털 광고 GOOGL 초월 전망 + Behemoth 2T+ 모델 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,29 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-25
+
+**narrative_score**: +0.00 (전회 +0.02, Δ -0.02)
+**key_events**: 2026 글로벌 디지털 광고 GOOGL 초월 전망、Behemoth 2T+ 파라미터 모델 출시 예고、capex $125B→$145B 추가 상향
+**risks**: capex $1450억 장기 ROI 불확실성、AI 모델 차별화 검증 과제
+
+> [!claim] (출처: FX Leaders/eMarketer, 2026-05-02) 2026년 META 글로벌 디지털 광고 수익 GOOGL 초월 전망
+> 강한 디지털 광고 성장 + Reels·AI 타겟팅 결합 효과. impact: + / category: earnings
+
+> [!claim] (출처: aibase.com, 2026-05-01) Meta 'Behemoth' 2조+ 파라미터 모델 출시 예고
+> 오픈소스 AI 리더십 강화 전략. impact: + / category: product
+
+> [!claim] (출처: FX Leaders, 2026-05-02) Meta 2026 capex $1250억→$1450억 추가 상향
+> AI 인프라 투자 가속, 마진 압박 병행. impact: - / category: earnings
+
+**경쟁사 동향**:
+- GOOGL: Gemini AI 가격 전쟁 선언 — 광고 AI 타겟팅 경쟁 심화 (impact for META: -)
+- MSFT: Copilot 광고 인텔리전스 간접 경쟁 (impact for META: neutral)
+
+**검증·반증 노트**:
+- ⚠️ 2026-05-18 가설 '2026 capex $125B' — 실제 $145B로 상향 조정됨. 가설 수치 업데이트(금액만 변경, 우려 방향성은 동일). pending 유지.
+
 
 ### 2026-05-18
 
