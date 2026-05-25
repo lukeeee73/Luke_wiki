@@ -1,7 +1,7 @@
 ---
 title: "AAPL - Apple Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-18
+updated: 2026-05-25
 domain: finance
 type: claim
 weight: reference
@@ -45,6 +45,16 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-25
+
+**narrative_score**: -0.10 (전회 -0.08, Δ -0.02)
+**key_events**: 개별 뉴스 없음
+**risks**: 미국 비제조 아이폰 25% 관세 부담 지속、EU DMA App Store 규제
+
+**경쟁사 동향**:
+- GOOGL: Q1 클라우드 +63%, Gemini 가격 전쟁 선언 — AI 하드웨어·서비스 생태계 확장으로 AAPL 경쟁 압박 (impact for AAPL: -)
+- MSFT: Bill Ackman $2.1B 신규 매수 — AI/클라우드 빅테크 자금 이동 속 AAPL 하드웨어 포지션 상대 약세 가능성 (impact for AAPL: neutral)
 
 ### 2026-05-18
 
