@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-05-23
+updated: 2026-05-25
 domain: finance
 type: index
 weight: reference
@@ -29,7 +29,7 @@ sources: []
 | 토요일 | 금융 + 부동산 (REITs) | 20 종목 |
 | 일요일 | 소비재 + 산업재 / 방산 + 통신 / 미디어 | 30 종목 |
 
-> 루틴은 실행되는 요일을 자동 감지해 그날 처리할 섹터만 뉴스 수집 → narrative_score → wiki/news 업데이트를 수행한다.
+> 루틴은 실행되는 요일을 자동 감지해 그난 처리할 섹터만 뉴스 수집 → narrative_score → wiki/news 업데이트를 수행한다.
 
 ## 최신 스냅샷 (섹터별)
 
@@ -37,16 +37,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [AAPL](AAPL - Apple Inc.md) | 2026-05-18 | -0.08 | 폴더블 힌지 결함 출시 지연 가능성 | 1 |
-| [MSFT](MSFT - Microsoft Corporation.md) | 2026-05-18 | +0.08 | OpenAI 탈피 독립 AI 전략, Ackman 매수 | 1 |
-| [GOOGL](GOOGL - Alphabet Inc.md) | 2026-05-18 | +0.10 | EPS 컨센서스 $14.22 상향, 클라우드 점유율 확대 | 2 |
-| [AMZN](AMZN - Amazon.com Inc.md) | 2026-05-18 | +0.10 | AWS +28%, $3조 돌파 임박 — 관세 소송 병행 | 2 |
-| [META](META - Meta Platforms Inc.md) | 2026-05-18 | +0.02 | Q1 매출 +33% 강세 but capex $125B 우려 | 2 |
-| [ORCL](ORCL - Oracle Corporation.md) | 2026-05-18 | +0.15 | Wedbush/Oppenheimer 동시 상향, 삼성 Java 계약 | 1 |
-| [CRM](CRM - Salesforce, Inc.md) | 2026-05-18 | -0.05 | BofA Underperform 하향, AI 좌석 잠식 우려 | 2 |
-| [ADBE](ADBE - Adobe Inc.md) | 2026-05-18 | +0.12 | $25B 자사주 + 소프트웨어 섹터 로테이션 주도 | 2 |
-| [IBM](IBM - International Business Machines.md) | 2026-05-18 | -0.08 | YTD -26% 메가캐프 최하위, RBC 목표 하향 | 2 |
-| [PLTR](PLTR - Palantir Technologies Inc.md) | 2026-05-18 | +0.12 | Q1 +85% 어닝 대폭 서프라이즈, 가이던스 상향 | 2 |
+| [AAPL](AAPL - Apple Inc.md) | 2026-05-25 | -0.10 | 개별 뉴스 없음 — 관세·EU 규제 매크로 기조 지속 | 1 |
+| [MSFT](MSFT - Microsoft Corporation.md) | 2026-05-25 | +0.03 | Ackman $2.1B 매수, Moody's 신용 하향 소폭 압박 | 2 |
+| [GOOGL](GOOGL - Alphabet Inc.md) | 2026-05-25 | +0.10 | Q1 순이익 +81%, 클라우드 백로그 $460B 두 배, Gemini 가격 전쟁 | 3 |
+| [AMZN](AMZN - Amazon.com Inc.md) | 2026-05-25 | +0.13 | Q1 EPS $2.78 대폭 비트, AWS +28%, Anthropic 수익 $168억 | 3 |
+| [META](META - Meta Platforms Inc.md) | 2026-05-25 | +0.00 | 2026 광고 GOOGL 초월 전망, Behemoth 모델, capex $145B 상향 | 3 |
+| [ORCL](ORCL - Oracle Corporation.md) | 2026-05-25 | +0.25 | Q3 OCI +84%, AI +243%, 잔고 $5530억, $300억 정부 계약 | 2 |
+| [CRM](CRM - Salesforce, Inc.md) | 2026-05-25 | -0.03 | Agentforce 29K 건 $800M ARR, Q1 FY27 5월 27일 발표 | 3 |
+| [ADBE](ADBE - Adobe Inc.md) | 2026-05-25 | -0.10 | Piper Sandler Neutral 하향 $330, 바이브 코딩 구조적 우려 | 3 |
+| [IBM](IBM - International Business Machines.md) | 2026-05-25 | -0.10 | 개별 뉴스 없음 — Oracle AI 급성장이 WatsonX 위협 | 2 |
+| [PLTR](PLTR - Palantir Technologies Inc.md) | 2026-05-25 | +0.13 | DIA 계약 도전, 19/28 강력 매수 목표 $194.81(+42%) | 3 |
 
 ### 반도체
 
@@ -117,11 +117,11 @@ sources: []
 | [WFC](WFC - Wells Fargo and Company.md) | 2026-05-23 | +0.16 | 대출 $1조 돌파·신용카드 +60% 자산제한 해제 성과 | 3 |
 | [C](C - Citigroup Inc.md) | 2026-05-23 | +0.12 | 이란 전쟁 트레이딩 서프라이즈·자산관리 두 자릿수 | 3 |
 | [GS](GS - The Goldman Sachs Group.md) | 2026-05-23 | +0.06 | 사모 크레딧 신중론·이란 전쟁 트레이딩 수혜 | 2 |
-| [MS](MS - Morgan Stanley.md) | 2026-05-23 | +0.08 | 웰스 매니지먼트 +16%·E*TRADE 암호화폐 기관 확대 | 3 |
+| [MS](MS - Morgan Stanley.md) | 2026-05-23 | +0.08 | 웹스 매니지먼트 +16%·E*TRADE 암호화폐 기관 확대 | 3 |
 | [V](V - Visa Inc.md) | 2026-05-23 | -0.06 | AI 에이전틱 커머스·스테이블코인 위협 10년 최저 밸류 | 3 |
 | [MA](MA - Mastercard Incorporated.md) | 2026-05-23 | -0.04 | AI 에이전틱 커머스 위협·Q1 EPS +12% 실적 괴리 | 3 |
 | [AXP](AXP - American Express Company.md) | 2026-05-23 | +0.05 | Q1 EPS +7% 비트·폐쇄형 네트워크 스테이블코인 면역 | 3 |
-| [BRK-B](BRK-B - Berkshire Hathaway.md) | 2026-05-23 | +0.10 | Abel 주총 분할 불가·GOOGL +224% 포트폴리오 대전환 | 3 |
+| [BRK-B](BRK-B - Berkshire Hathaway.md) | 2026-05-23 | +0.10 | Abel 주주환담 분할 불가·GOOGL +224% 포트폴리오 대전환 | 3 |
 
 ### 소비재
 
@@ -207,7 +207,7 @@ sources: []
 | [010140.KS](010140.KS - Samsung Heavy Industries.md) | — | — | — | — |
 | [010620.KS](010620.KS - HMM Co.md) | — | — | — | — |
 
-## 오늘의 시그널 (2026-05-23 · 토요일 · 금융 + 부동산 REITs)
+## 오늘의 시그널 (2026-05-25 · 월요일 · 빅테크 / 소프트웨어)
 
 루틴은 다음 패턴을 감지하면 이 섹션에 기록한다:
 
@@ -218,17 +218,16 @@ sources: []
 
 ### 감지된 패턴
 
-- **섹터 동기화 (V·MA AI 에이전틱 결제 위협)**: V(-0.06)·MA(-0.04) 동시 음수 — AI 에이전틱 커머스와 스테이블코인 결제 대체 시나리오(Citrini Research 2027년 경고)로 10년 최저 밸류에이션. 반면 AXP(+0.05) 폐쇄형 네트워크 차별화로 상대적 면역 확인. 결제 인프라 내 개방 vs 폐쇄 네트워크 분기점 도달 신호.
-- **섹터 동기화 (은행권 AI 효율화 동시 진행)**: JPM AI 인력 감축·$1.5조 이니셔티브 + BAC LTX AI 채권 플랫폼 + MS E*TRADE 암호화폐 기관 확대 — 금융 섹터 전반 AI 전환 가속 동기화.
-- **섹터 동기화 (데이터센터 REIT AI 수요 포착 경쟁)**: DLR(+0.16) 역대 최대 200MW 계약 + EQIX(+0.03) 9-10% 성장 가이던스·11년 배당 인상 — 동반 수혜. DLR 자본지출 $250M 상향·파이프라인 +60%로 EQIX 대비 공격적 AI 임대 전략 분화.
-- **모순 (금융 섹터 내 WFC 반전)**: WFC(+0.16) — 전주 -15% YTD 하락 국면에서 대출 $1조 돌파·신용카드 +60%로 자산제한 해제 구체 성과 가시화. 같은 섹터 내 V(-0.06) 구조적 위협과 대조적 반전.
-- **최고 신호**: DLR +0.16 — 역대 최대 AI 추론 200MW 임대(AA급 하이퍼스케일러)·자본지출 $250M 상향·파이프라인 +60% 1.2GW. AI 인프라 수요 포착 가시성 최상위. / WFC +0.16 — 자산제한 해제 후 대출 $1조(2020년 이후 최초)·신용카드 +60% YoY로 구체적 성과 검증 완료.
-- **경고 신호**: V(-0.06) — AI 에이전틱 커머스·스테이블코인 2027년 대체 시나리오로 10년 최저 밸류에이션. 실적(Q1 +15%)과 내러티브 극단적 괴리 — 구조적 위협 구체화 여부가 최대 관전 포인트. / MA(-0.04) V와 동일 위협 공유.
-- **섹터간 전파 예고 (AI 결제 인프라 vs 전통 카드)**: V·MA 구조적 위협 부각 → 다음 실행 요일(일요일 · 소비재/산업재) 아마존·월마트의 스테이블코인 직접 결제 채택 동향 주목. V·MA 네트워크 우회 시 소비재 섹터 결제 비용 변화 가능성.
+- **모순 (ADBE 내러티브 역전)**: ADBE +0.12(2026-05-18) → -0.10(2026-05-25), Δ -0.22. Piper Sandler '바이브 코딩·좌석 압축' 구조적 하향으로 소프트웨어 셉터 주도주 내러티브 완전 역전. 전회 셉터 로테이션 수혜주에서 구조적 멀티플 압축 피해주로 전환.
+- **셉터 동기화 (AI 인프라 플랫폼 양극화)**: ORCL +0.25 (AI 인프라 +243%, $5530억 백로그 — 최강), GOOGL +0.10 (클라우드 +63%, Gemini 가격 전쟁), AMZN +0.13 (AWS +28%, Bedrock +170%), MSFT +0.03 — 클라우드 AI 인프라 수혜 종목 동기화 상승. 반면 ADBE(-0.10)·IBM(-0.10)·CRM(-0.03)은 AI 직접 경쟁에 구조적 노출로 압박.
+- **연속성 (AI capex 투자 부담 테마 지속)**: META capex $145B 상향 (3회 연속 capex 우려 등장). AI 인프라 수요가 하이퍼스케일러 전반의 자본지출 경쟁 심화 — AMZN $200B, GOOGL $175-185B, META $145B.
+- **최고 시그널**: ORCL +0.25 — Q3 AI 인프라 +243%, OCI +84%, $5530억 미이행 잔고(+325%), $300억 미국 정부 클라우드 계약. AI 클라우드 인프라 시장에서 AWS·Azure를 위협하는 3rd force 부상 가장 강한 신호.
+- **경고 시그널**: ADBE -0.10 ← 전회 +0.12 역전. Piper Sandler '바이브 코딩' 우려가 단순 경쟁 압박을 넘어 수익모델 구조적 해체 가능성 제기. CRM(-0.03)과 함께 소프트웨어 좌석 기반 모델 전반 재평가 압박.
+- **셉터간 전파 예고**: 빅테크 AI 인프라 capex 경쟁($200B+/社) → 다음 화요일 반도체 셉터(NVDA·AMD·ASML) 수요 직접 견인. 특히 ORCL $5530억 백로그는 NVDA GPU 수요 확약 성격 — 반도체 셉터 강세 예고.
 
-## 사용 팁
+## 사용 팀
 
 - 점수 변화가 큰 종목 우선 확인 → 해당 `{TICKER} - {name}.md` 의 [일자별 기록] 최신만 읽으면 충분.
-- [미해결 가설] 콜럼이 비어있지 않은 종목은 후속 검증이 필요한 사안이 누적된 상태.
+- [미해결 가설] 콼럼이 비어있지 않은 종목은 후속 검증이 필요한 사안이 누적된 상태.
 - 섹터 단위로 묶어서 보면 매크로 충격이 어떤 종목들에 동시에 영향을 주는지 빠르게 파악 가능.
 - 요일별 라운드로빈이므로 특정 종목이 몇일 동안 업데이트되지 않을 수 있다 — 정상.
