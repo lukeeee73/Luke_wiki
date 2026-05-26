@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-05-23
+updated: 2026-05-26
 domain: finance
 type: index
 weight: reference
@@ -52,16 +52,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [NVDA](NVDA - NVIDIA Corporation.md) | 2026-05-19 | +0.32 | Q1 어닝 5/20 발표 기대, H200 중국 승인, 목표주가 상향 | 2 |
-| [AMD](AMD - Advanced Micro Devices.md) | 2026-05-19 | +0.30 | Q1 데이터센터 $5.8B 역대 최고, MI450 AI 칩 예고 | 2 |
-| [TSM](TSM - Taiwan Semiconductor Mfg.md) | 2026-05-19 | +0.25 | A13/A12/N2U 3년 로드맵 공개, AI/HPC 매출 61% | 2 |
-| [AVGO](AVGO - Broadcom Inc.md) | 2026-05-19 | +0.32 | AI 칩 2027년 $1000억 목표, Meta 2nm 파트너십 | 2 |
-| [INTC](INTC - Intel Corporation.md) | 2026-05-19 | -0.20 | 애플 계약 레거시 공정 실망, 서버 CPU -370bps | 2 |
-| [QCOM](QCOM - QUALCOMM Incorporated.md) | 2026-05-19 | -0.20 | Q3 가이던스 하회, JPMorgan 중립 하향 $140 | 2 |
-| [ASML](ASML - ASML Holding NV.md) | 2026-05-19 | +0.28 | 2026 가이던스 +16%, 인도 Tata 300mm 팩 파트너십 | 2 |
-| [AMAT](AMAT - Applied Materials.md) | 2026-05-19 | +0.30 | Q2 매출·마진 역대 최고, Q3 가이던스 대폭 상회 | 2 |
-| [LRCX](LRCX - Lam Research Corp.md) | 2026-05-19 | +0.18 | Q1 역대 최고, 삼성 5/21 파업 공급망 리스크 | 2 |
-| [MU](MU - Micron Technology.md) | 2026-05-19 | +0.30 | HBM 2026 전량 매진, Q2 +196% YoY, 목표 $1,100 | 2 |
+| [NVDA](NVDA - NVIDIA Corporation.md) | 2026-05-26 | +0.10 | Q1 $81.6B(+85%) 역대 최고, CEO 중국 H200 화웨이 양보, Q2 $91B 가이던스 | 2 |
+| [AMD](AMD - Advanced Micro Devices.md) | 2026-05-26 | +0.23 | MI300X 데이터센터 강세, 서버 점유율 확대, EPYC 순항 | 4 |
+| [TSM](TSM - Taiwan Semiconductor Mfg.md) | 2026-05-26 | +0.20 | 주식시장 시총 글로벌 5위 진입, N2 공정 AI/HPC 수요 강세 | 4 |
+| [AVGO](AVGO - Broadcom Inc.md) | 2026-05-26 | +0.25 | Anthropic 1GW 맞춤형 TPU 계약, 6월 3일 어닝 기대 | 4 |
+| [INTC](INTC - Intel Corporation.md) | 2026-05-26 | +0.03 | +7.5% 26년 최고, Computex Core Ultra 발표 [모순: 파운드리 손실 동반] | 4 |
+| [QCOM](QCOM - QUALCOMM Incorporated.md) | 2026-05-26 | +0.23 | ByteDance AI 칩 계약, 자동차 $1.3B 신기록 [강력모순 Δ+0.43] | 4 |
+| [ASML](ASML - ASML Holding NV.md) | 2026-05-26 | +0.25 | 2026 가이던스 €36-40B 공식 상향, UBS 유럽 최선호주 | 3 |
+| [AMAT](AMAT - Applied Materials.md) | 2026-05-26 | +0.13 | MS Equal-weight 하향, WFE $140B 매크로 지지 유지 | 4 |
+| [LRCX](LRCX - Lam Research Corp.md) | 2026-05-26 | +0.23 | MS Overweight $331 업그레이드, WFE $140B 수혜 직접 연동 | 3 |
+| [MU](MU - Micron Technology.md) | 2026-05-26 | +0.40 | +17.82% 급등, CEO 공급부족 '2026년 이후' 확인, HBM4 출하 ⚡ | 2 |
 
 ### 자동차 / 모빌리티
 
@@ -206,6 +206,31 @@ sources: []
 | [042660.KS](042660.KS - Hanwha Ocean Co.md) | — | — | — | — |
 | [010140.KS](010140.KS - Samsung Heavy Industries.md) | — | — | — | — |
 | [010620.KS](010620.KS - HMM Co.md) | — | — | — | — |
+
+## 오늘의 시그널 (2026-05-26 · 화요일 · 반도체)
+
+루틴은 다음 패턴을 감지하면 이 섹션에 기록한다:
+
+- **연속성**: 같은 테마가 3 일 이상 연속 등장
+- **모순**: 같은 종목 어제/오늘 narrative 가 반대 방향
+- **섹터 동기화**: 3 종목 이상이 같은 매크로 이슈로 동시 움직임
+- **섹터간 전파**: 한 섹터의 충격이 다른 섹터로 번지는 패턴
+
+### 감지된 패턴
+
+- ⚡ **최고 신호 (MU +0.40)**: MU +17.82% 단일 거래일 급등 — CEO 메로트라 HBM·DRAM 구조적 공급 부족 '2026년 이후에도 지속' 공식 확인. 첫 5년 전략 고객 계약 체결(NVDA 향 HBM4 볼륨 출하). Citi $840·CFRA $900·HSBC $1,100 목표 대폭 상향. AI 메모리 수퍼사이클 진입 구조적 검증 완료.
+
+- **강력 모순 (QCOM Δ+0.43)**: QCOM -0.20 → +0.23 — ByteDance AI 데이터센터 칩 공급 계약 + 자동차 매출 $1.3B 분기 신기록으로 이전 Q3 가이던스 실망감 완전 반전. 온디바이스 AI 침투율 2027년 32% 전망으로 투자자 내러티브 재평가. 섹터 내 최대 반전폭.
+
+- **모순 (INTC Δ+0.23)**: INTC -0.20 → +0.03 — Computex 2026에서 26년 만에 최고 일간 상승(+7.5%) 기록. Core Ultra 200V AI PC·파운드리 서비스 2.0 발표. 그러나 레거시 파운드리 사업 손실 지속 — 긍정(PC 사이클) vs 부정(파운드리) 극단적 동거 상태.
+
+- **섹터 동기화 (AI 메모리 수퍼사이클)**: MU(+0.40) + NVDA Q1 $81.6B(+85%) + TSM 시총 글로벌 5위 진입 — 3종목이 동시에 AI 메모리/첨단공정 수퍼사이클 확인 신호 발신. LRCX(+0.23) WFE $140B 상향이 공급망 강세를 상호 검증.
+
+- **섹터 동기화 (장비 섹터 내 차별화)**: Morgan Stanley 동일 리포트에서 LRCX Overweight 상향 + AMAT Equal-weight 하향 — NAND 회복 과실이 LRCX에 집중되는 구조 분화 확인. ASML(+0.25)은 EUV 독점으로 독립적 강세.
+
+- **경고 신호**: NVDA(+0.10) — Q1 역대 최고 실적에도 CEO 중국 H200 시장 화웨이 양보 공식 인정으로 score 대폭 하락(+0.32 → +0.10). 규제 리스크가 최고 실적 모멘텀을 상쇄하는 구조. AMAT(+0.13) — 섹터 내 유일한 하향 조정 종목, WFE 매크로 우호적이나 MS 하향으로 상대적 열위.
+
+- **섹터간 전파 예고**: MU CEO 공급 부족 '2026년 이후 지속' 확인 + NVDA Q2 $91B 가이던스 → 다음 수요일(자동차/조선) TSLA AI 칩 조달 전략 및 현대차 반도체 공급망 동향 주목.
 
 ## 오늘의 시그널 (2026-05-23 · 토요일 · 금융 + 부동산 REITs)
 

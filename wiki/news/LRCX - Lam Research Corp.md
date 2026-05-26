@@ -1,7 +1,7 @@
 ---
 title: "LRCX - Lam Research Corp. — Routine News Log"
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-26
 domain: finance
 type: claim
 weight: reference
@@ -27,7 +27,9 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-19**: Q1 매출 $5.84B 역대 최고 — Q2 가이던스 $6.6B 달성 가능성 (pending)
-- [ ] **2026-05-19**: 삼성전자 5/21 파업 — 발주 지연 및 공급망 영향 규모 파악 필요 (pending)
+- [~] **2026-05-19**: 삼성전자 5/21 파업 — 발주 지연 및 공급망 영향 규모 파악 필요 → ❌ 2026-05-26 영향 미미 확인, Morgan Stanley 업그레이드 리포트에서 리스크 해소 판단 (aged-out)
+- [ ] **2026-05-26**: Morgan Stanley Overweight $331 업그레이드 — 목표 실현 여부 및 추가 상향 가능성 (pending)
+- [ ] **2026-05-26**: MU HBM4 증산 + WFE $1400억 상향 — LRCX 장비 수주 실제 반영 시점 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,6 +44,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-26
+
+**narrative_score**: +0.23 (Δ +0.05 from +0.18)
+**key_events**: Morgan Stanley Overweight 업그레이드 목표 $331, WFE 2026 $1400억 상향 + 2027 추가 성장 전망, NAND 회복·AI HBM 수혜 차별화 구조 확인
+**risks**: 삼성 파업 장기화 시 메모리 고객 발주 지연 잔존 위험, AMAT 대비 메모리 집중으로 로직 장비 다각화 부재
+
+> [!claim+] (출처: GuruFocus / Morgan Stanley, 2026-05-18) Morgan Stanley: LRCX Overweight 업그레이드, 목표 $331 (from $293)
+> NAND 전망 개선·마진 확대, 같은 리포트에서 AMAT 하향으로 차별화 구조 확인. impact: + / category: earnings
+
+> [!claim+] (출처: Globe and Mail, 2026-05-22) LRCX 총마진 50% 근접 — AI 수요 NAND·DRAM 증설 수혜 지속
+> AI 수요 주도 NAND·DRAM 증설 수혜 지속 확인. impact: + / category: earnings
+
+> [!claim+] (출처: 247WallSt, 2026-05-19) WFE 2026 $1400억 상향 + 2027년 성장 지속
+> 2026년 WFE 지출 $1400억 (기존 $1350억), 2027년에도 성장 지속 전망. impact: + / category: earnings
+
+**경쟁사 동향**:
+- MU: HBM4 볼륨 NVDA 출하 시작, CEO 구조적 공급 부족 '2026년 이후 지속' 확인 — LRCX 식각·증착 장비 수주 직접 연동 (impact for LRCX: +)
+- AMAT: 같은 Morgan Stanley 리포트에서 AMAT 하향·LRCX 상향 — NAND 회복 수혜 차별화 구조 확인 (impact for LRCX: +)
 
 ### 2026-05-19
 
