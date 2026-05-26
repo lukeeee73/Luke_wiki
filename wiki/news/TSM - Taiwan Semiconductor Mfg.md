@@ -1,7 +1,7 @@
 ---
 title: "TSM - Taiwan Semiconductor Mfg. — Routine News Log"
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-26
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,8 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-19**: A13/A12/N2U 공정 로드맵 — 경쟁사 대비 선단공정 격차 유지 (pending)
 - [ ] **2026-05-19**: AI/HPC 매출 비중 61% — 분기별 추가 확대 가능성 (pending)
+- [ ] **2026-05-26**: 대만 시총 세계 5위 부상 — TSMC 지정학 리스크 국제 주목 심화 여부 (pending)
+- [ ] **2026-05-26**: JPMorgan: 대만 규제 완화 $60억 외국인 유입 — 수급 개선 지속 여부 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,6 +44,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-26
+
+**narrative_score**: +0.20 (전회 +0.25, Δ -0.05)
+**key_events**: 대만 시총 세계 5위 부상 (TSMC +46% YTD 주도), JPMorgan $60억 외국인 유입 전망, 19개 애널리스트 평균 목표 $467.84
+**risks**: 대만 지정학 리스크, 글로벌 주목으로 지정학 민감도 상승
+
+> [!claim] (출처: Bloomberg, 2026-05-26) 대만 시총 세계 5위 — TSMC 주도
+> 대만 시총 $4.95조로 인도 추월, 세계 5위 달성. TSMC가 대만 벤치마크 42% 차지. impact: + / category: other
+
+> [!claim] (출처: JPMorgan, 2026-05-26) 대만 규제 완화 — $60억 이상 외국인 유입 가능
+> 규제 변화가 TSMC에 $60억 이상 자금 유입 촉진 가능. impact: + / category: macro
+
+> [!claim] (출처: Bloomberg, 2026-05-25) Samsung·TSMC AI 주식 붐 — 한국·대만 증시 글로벌 주목
+> AI 반도체 붐으로 한국·대만 증시가 글로벌 투자자 주목 대상. impact: + / category: macro
+
+**경쟁사 동향**:
+- NVDA: Q1 FY2027 Blackwell $75.2B 데이터센터 수요 — TSMC N3/N4 공정 수주 직접 지탱 (impact for TSM: +)
+- MU: HBM4 NVDA 볼륨 출하 시작 — CoWoS 첨단 패키징 수요 간접 수혜 (impact for TSM: +)
 
 ### 2026-05-19
 

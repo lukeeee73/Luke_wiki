@@ -1,7 +1,7 @@
 ---
 title: "AVGO - Broadcom Inc. — Routine News Log"
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-26
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,8 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-19**: AI 맞춤형 칩 2027년 $1000억 매출 — 달성 경로 검증 필요 (pending)
 - [ ] **2026-05-19**: Meta 2nm AI 칩 파트너십 — 구체 수주 규모·일정 미정 (pending)
+- [ ] **2026-05-26**: Anthropic 1GW TPU 2026년 공급 — AI 인프라 주도권 가속 여부 (pending)
+- [ ] **2026-05-26**: 6월 3일 어닝 — AI ASIC 성장률 지속 및 $1000억 경로 공식 확인 여부 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,6 +44,22 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-26
+
+**narrative_score**: +0.25 (전회 +0.32, Δ -0.07)
+**key_events**: AI 반도체 매출 $8.4B(+106% YoY) 확인, $73B 수주 잔고, Anthropic 1GW TPU 공급 중, 6월 3일 어닝 예정
+**risks**: 6월 3일 어닝 전 기대치 과도 시 sell-the-news 가능성, AMD 맞춤형 칩 시장 진입
+
+> [!claim] (출처: TIKR, 2026-05-25) AI 반도체 매출 $8.4B(+106%) + $73B 수주 잔고
+> 2027년 $1000억 목표 달성 경로 가시화. impact: + / category: earnings
+
+> [!claim] (출처: Investing.com, 2026-05-24) Anthropic 1GW TPU 공급 2026년
+> 2027년 3GW+ 수요 예상 — AI 인프라 맞춤형 ASIC 수요 폭증 확인. impact: + / category: product
+
+**경쟁사 동향**:
+- NVDA: Q1 FY2027 표준 GPU 시장 $81.6B 지속 — AVGO 맞춤형 ASIC과 투트랙 공존 (impact for AVGO: +)
+- AMD: 맞춤형 칩 시장 진입 시도 — 장기 경쟁 위협 (impact for AVGO: -)
 
 ### 2026-05-19
 

@@ -1,7 +1,7 @@
 ---
 title: "INTC - Intel Corporation — Routine News Log"
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-26
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,8 @@ x86 CPU(컴퓨터 연산 핵심 칩)의 전통적 절대강자였던 미국 반�
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-19**: 서버 CPU 점유율 하락 추세 — 분기별 -370bps QoQ 지속 여부 (pending)
 - [ ] **2026-05-19**: 애플 파운드리 계약 레거시 공정 집중 — 18A 첨단공정 수주 가능성 (pending)
+- [ ] **2026-05-26**: INTC 26년 신고가 vs 파운드리 $2.3B 적자 — 주가·펀더멘털 괴리 해소 방향 (pending)
+- [ ] **2026-05-26**: Core Ultra Series 3 + SuperClaw AI 플랫폼 — AI PC 점유율 회복 가능성 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,6 +44,28 @@ x86 CPU(컴퓨터 연산 핵심 칩)의 전통적 절대강자였던 미국 반�
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-26
+
+**narrative_score**: +0.03 (전회 -0.20, Δ +0.23 ← 모순 신호)
+**key_events**: INTC 주가 26년 신고가 +4.5%, Core Ultra Series 3 + SuperClaw AI COMPUTEX 발표, Apple 파운드리 18A 협상 기대감
+**risks**: 파운드리 Q1 $2.3B 적자 지속, 서버 CPU 점유율 구조적 하락
+
+> [!claim] (출처: TheStreet, 2026-05-26) INTC 주가 26년 신고가 갱신
+> Apple 파운드리 기대감 + COMPUTEX 제품 발표 주도. impact: + / category: other
+
+> [!claim] (출처: TradingKey, 2026-05-26) Core Ultra Series 3 + SuperClaw AI 플랫폼 발표
+> COMPUTEX 2026 — Edge AI 로보틱스·온디바이스 자동화 플랫폼. impact: + / category: product
+
+> [!claim] (출처: Yahoo Finance, 2026-05-25) Apple 파운드리 협상 — 18A 기대감 조명
+> Apple talks put Intel foundry ambitions in focus. impact: + / category: product
+
+**경쟁사 동향**:
+- AMD: EPYC 서버 CPU 계속 점유율 흡수 — INTC 서버 회복 경로 압박 (impact for INTC: -)
+- TSM: 선단공정 로드맵 가속 — 파운드리에서 INTC 18A 경쟁 더 어려운 환경 (impact for INTC: -)
+
+**검증·반증 노트**:
+- ⚠️ 모순 신호: 지난 주 -0.20 → 이번 주 +0.03. 주가 26년 신고가 vs 파운드리 $2.3B 적자 괴리. Apple 파운드리 기대감이 펀더멘털 약세를 일시 압도하는 패턴 — 기대 현실화 여부가 핵심.
 
 ### 2026-05-19
 

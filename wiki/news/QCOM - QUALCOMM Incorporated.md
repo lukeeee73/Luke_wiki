@@ -1,7 +1,7 @@
 ---
 title: "QCOM - QUALCOMM Incorporated — Routine News Log"
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-05-26
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,8 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-19**: Q3 가이던스 하회 — 스마트폰 수요 회복 시점 불확실 (pending)
 - [ ] **2026-05-19**: 경영진 자사주 매입 — 저평가 판단 신호 vs 구조적 약세 (pending)
+- [ ] **2026-05-26**: ByteDance AI 데이터센터 칩 공급 계약 — 스마트폰 의존 탈피 첫 구체 신호 (pending)
+- [ ] **2026-05-26**: 자동차 매출 $1.3B 분기 신기록 — 6월 24일 투자자의 날 $6B 가이던스 경로 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,6 +44,28 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-05-26
+
+**narrative_score**: +0.23 (전회 -0.20, Δ +0.43 ← 강력 모순 신호)
+**key_events**: QCOM +5.74%, ByteDance AI 데이터센터 칩 공급 계약, 자동차 매출 $1.3B 신기록, 온디바이스 AI 침투율 2027년 32% 전망
+**risks**: Q3 가이던스 하회 우려 완전 해소 여부 미확인, 스마트폰 사이클 둔화 잔존
+
+> [!claim] (출처: TradingKey, 2026-05-26) QCOM +5.74% — ByteDance AI 칩 공급 계약
+> ByteDance 데이터센터 AI 칩 공급 계약 — 스마트폰 의존도 탈피 첫 신호. impact: + / category: product
+
+> [!claim] (출처: FX Leaders, 2026-05-25) AI 온디바이스 침투율 2025년 4% → 2027년 32%
+> 아젠틱 AI 스마트폰 급성장, 자동차 매출 $1.3B 분기 신기록. impact: + / category: product
+
+> [!claim] (출처: CNBC, 2026-05-22) 투자자들 온디바이스 AI 붐에 눈뜨기 시작
+> Stellantis 파트너십, OpenAI 협업 재평가. impact: + / category: product
+
+**경쟁사 동향**:
+- NVDA: AI 서버 독주 $81.6B — QCOM은 온디바이스·자동차 틈새 포지셔닝으로 보완적 성장 (impact for QCOM: 중립)
+- INTC: AI PC Core Ultra Series 3 발표 — QCOM Snapdragon Elite와 AI PC 직접 경쟁 (impact for QCOM: -)
+
+**검증·반증 노트**:
+- ⚠️ 강력 모순 신호: 지난 주 -0.20 → 이번 주 +0.23 (Δ +0.43). ByteDance 계약·자동차 신기록으로 스마트폰 약세 서사 급반전. 6월 24일 투자자의 날이 다각화 전략 신뢰도를 판가름할 이벤트.
 
 ### 2026-05-19
 
