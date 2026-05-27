@@ -1,7 +1,7 @@
 ---
 title: "F - Ford Motor Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-27
 domain: finance
 type: claim
 weight: reference
@@ -25,18 +25,14 @@ sources: []
 
 ## 미해결 가설 (Open Claims)
 
-루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
-
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-27: Q1 EPS $0.66·매출 $43.3B 어닝 서프라이즈·EBIT 가이던스 상향** (pending)
+- [ ] **2026-05-27: Ford Energy, EDF North America 4GWh/yr 배터리 저장 5년 계약 체결** (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
 
 ## 사실 누적 (Verified Facts)
-
-독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
 <!-- FACTS_END -->
@@ -46,5 +42,25 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+
+### 2026-05-27
+
+**narrative_score**: +0.13 (첫 실행)
+**key_events**: Q1 EPS $0.66 서프라이즈·EBIT 가이던스 $8.5~10.5B 상향, Ford Energy EDF 4GWh 배터리 저장 계약
+**risks**: 하반기 ~$2B 원자재 비용 역풍, IEEPA 관세 혜택 소멸 시 실적 둔화
+
+> [!claim] (출처: StocksToTrade, 2026-05-13) Ford Q1 2026: Earnings Beat, EV Push
+> Q1 EPS $0.66·매출 $43.3B 모두 서프라이즈 — EBIT 가이던스 $8.5~10.5B으로 상향, 주가 +11.2%. impact: + / category: earnings
+
+> [!claim] (출처: StocksToTrade, 2026-05-21) Ford Energy Lands Major EDF Deal
+> Ford Energy, EDF Power Solutions에 연 4GWh 배터리 저장 5년 공급 계약 — 에너지 사업 본격화. impact: + / category: other
+
+> [!claim] (출처: Ford 8-K SEC, 2026-04-29) Q1 IEEPA Tariff Benefit $1.3B; ~$2B Commodity Headwind
+> Q1 관세 일회성 이익 $1.3B 포함 — 하반기 원자재 비용 $2B 역풍 경고. impact: neutral / category: earnings
+
+**경쟁사 동향**:
+
+- **GM**: Q1 EPS $3.70 대폭 서프라이즈 + 가이던스 상향 — 미국 빅2 완성차 동반 강세 확인
+- **RIVN**: VW 최대주주, R2 6월 출시 — F-150 Lightning vs RIVN R2 픽업 EV 경쟁 격화 예고
+
 <!-- DAILY_END -->

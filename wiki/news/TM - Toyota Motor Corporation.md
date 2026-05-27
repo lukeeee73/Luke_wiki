@@ -1,7 +1,7 @@
 ---
 title: "TM - Toyota Motor Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-27
 domain: finance
 type: claim
 weight: reference
@@ -27,16 +27,14 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-27: 도요타 FY2026 관세 손실 ¥1.38조 — 영업이익 -21.5%** (pending)
+- [ ] **2026-05-27: 텍사스 신공장 계획으로 관세 중장기 대응 전략 시동** (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
 
 ## 사실 누적 (Verified Facts)
-
-독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
 <!-- FACTS_END -->
@@ -46,5 +44,25 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+
+### 2026-05-27
+
+**narrative_score**: -0.18 (첫 실행)
+**key_events**: FY2026 관세 손실 ¥1.38조, 영업이익 -21.5%·순이익 -19%, 텍사스 신공장 계획
+**risks**: 미·일 관세 협상 지연 시 추가 손실, 엔고 환율 리스크 지속
+
+> [!claim] (출처: TradingKey, 2026-05-18) Toyota FY2026 Tariff Cost ¥1.38T
+> FY2026 미국 관세로 영업이익 ¥1.38조 감소, 영업이익 -21.5%·순이익 -19%. 주가 YTD -11.7%. impact: - / category: earnings
+
+> [!claim] (출처: Investing.com, 2026-05-08) Toyota FY2026: Revenue Record Despite Profit Decline
+> FY2026 매출 ¥50조 역대 최고(하이브리드 견인)이나 관세·엔고 이중 타격으로 영업이익 ¥3.8조. impact: - / category: earnings
+
+> [!claim] (출처: TradingKey, 2026-05-20) Toyota Texas Factory Plan to Counter Tariffs
+> 관세 회피 위해 텍사스 신공장 계획 — 현지화로 중장기 관세 익스포져 축소 전략. impact: + / category: other
+
+**경쟁사 동향**:
+
+- **HMC**: FY2026 영업손실 ¥414.3B·관세 ¥346.9B — 혼다-닛산 합병 7~8월 상장폐지로 규모의 경제 확보 전략
+- **GM**: Q1 EPS $3.70 서프라이즈 + 대법원 관세 감경 → 도요타 미국 시장 하이브리드 점유율 유지 관건
+
 <!-- DAILY_END -->
