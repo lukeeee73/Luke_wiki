@@ -1,7 +1,7 @@
 ---
 title: "EXC - Exelon Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-29
 domain: finance
 type: claim
 weight: reference
@@ -27,9 +27,8 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-29**: 2026 EPS 가이던스 $2.40-$2.50 달성 여부 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,5 +45,17 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+### 2026-05-29
+**narrative_score**: 0.00
+**key_events**: Q1 EPS $0.68 (컨센서스 부합), 2026 가이던스 $2.40-$2.50 유지
+**risks**: 금리 상승 시 배당 매력 감소
+
+> [!claim] (Company IR, 2026-05-01) Exelon Q1 2026 Adjusted EPS $0.68, In Line with Estimates
+> Q1 조정 EPS $0.68, 컨센서스 부합. 규제 유틸리티 안정적 수익. impact: 0 / category: earnings
+
+> [!claim] (Company IR, 2026-05-01) Exelon Maintains 2026 EPS Guidance $2.40-$2.50
+> 2026 EPS 가이던스 $2.40-$2.50 유지. 규제 수익 안정. impact: 0 / category: earnings
+
+**경쟁사 동향**:
+- CEG: 분리 전 모회사 CEG가 원자력 프리미엄 보유 — EXC는 순수 규제 유틸리티로 차별화
 <!-- DAILY_END -->

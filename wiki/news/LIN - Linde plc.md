@@ -1,7 +1,7 @@
 ---
 title: "LIN - Linde plc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-29
 domain: finance
 type: claim
 weight: reference
@@ -27,9 +27,8 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-29**: 2026 EPS 가이던스 $17.60-$17.90 달성 여부 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,5 +45,23 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+### 2026-05-29
+**narrative_score**: +0.18
+**key_events**: Q1 EPS $4.33 (+10% YoY), 연간 가이던스 상향 ($17.60-17.90), 전자 사업 +10%, RBC PT $552 상향
+**risks**: 산업 경기 둔화 시 수요 감소 가능
+
+> [!claim] (Company IR, 2026-05-01) Linde Q1 2026 EPS +10% YoY to $4.33, Beats Estimates
+> Q1 조정 EPS $4.33 (+10% YoY), FactSet 컨센서스 $0.06 상회. 매출 +8%, 전자 +10%. impact: + / category: earnings
+
+> [!claim] (Ad-Hoc News, 2026-05-01) Linde Raises 2026 EPS Guidance Lower End to $17.60
+> 연간 EPS 가이던스 하단을 $17.40→$17.60으로 상향. 사업 자신감 표명. impact: + / category: earnings
+
+> [!claim] (RBC Capital, 2026-05-10) RBC Raises Linde Price Target to $552, Outperform
+> RBC Capital이 목표주가 $512→$552로 상향, Outperform 유지. Berenberg도 동일 날짜 Buy 개시. impact: + / category: other
+
+> [!claim] (Company IR, 2026-05-15) Linde Declares Quarterly Dividend of $1.60 Per Share
+> 분기 배당 $1.60 선언, 지급일 6/18. impact: + / category: other
+
+**경쟁사 동향**:
+- APD: 경쟁사 APD의 전략 재편으로 LIN의 산업가스 시장 지위 상대적으로 강화
 <!-- DAILY_END -->

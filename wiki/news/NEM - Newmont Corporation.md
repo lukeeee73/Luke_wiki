@@ -1,7 +1,7 @@
 ---
 title: "NEM - Newmont Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-29
 domain: finance
 type: claim
 weight: reference
@@ -27,9 +27,8 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-29**: 2026 생산량·비용 역풍 — 금값 $3,000 이상 유지 시 마진 방어 여부 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,5 +45,17 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+### 2026-05-29
+**narrative_score**: -0.03
+**key_events**: 2026 생산량 530만 oz로 하락, AISC $1,680/oz로 상승, 가나 세금 변경, 금값 $3,000 이상 유지
+**risks**: 생산·비용 역풍으로 EPS 압박, 가나 세제 불확실성
+
+> [!claim] (247 Wall St, 2026-05-01) Newmont 2026 Headwinds: Production Declines to 5.3M oz, AISC Rises to $1,680
+> 2026 생산 5.3M oz로 하락, AISC $1,680/oz로 상승. 광산 시퀀싱 및 가나 세금 변경 영향. impact: - / category: earnings
+
+> [!claim] (Yahoo Finance, 2026-05-22) Gold Sustains Above $3,000/oz, Supporting NEM Margins
+> 금값이 $3,000 이상 유지되며 비용 상승에도 마진 지지. impact: + / category: macro
+
+**경쟁사 동향**:
+- FCX: 동종 광업사 대비 FCX 구리가 금광 대비 강한 수요 모멘텀 보유 — NEM 상대적 부진
 <!-- DAILY_END -->

@@ -1,7 +1,7 @@
 ---
 title: "XOM - Exxon Mobil Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-29
 domain: finance
 type: claim
 weight: reference
@@ -27,9 +27,8 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-29**: 베네수엘라 세르로 네그로 복귀 협상 — 생산 재개 시 XOM 상류 볼륨 증가 여부 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,5 +45,23 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+### 2026-05-29
+**narrative_score**: +0.08
+**key_events**: Q1 실적 컨센서스 상회, 베네수엘라 세르로 네그로 복귀 협상, Barclays PT $182 상향
+**risks**: 이란 휴전 시 유가 하락, 파생상품 평가손 반복
+
+> [!claim] (Company IR, 2026-05-01) Exxon Mobil Q1 2026 Earnings Beat Expectations
+> Q1 실적 컨센서스 상회. 파생상품 평가손 타이밍 효과로 보고이익은 소폭 흐림. impact: + / category: earnings
+
+> [!claim] (Reuters, 2026-05-22) Exxon Sends Technical Team to Venezuela Cerro Negro Project
+> 2007년 국유화 이후 19년 만에 베네수엘라 중질유 프로젝트 복귀 협상 재개. impact: + / category: other
+
+> [!claim] (Barclays, 2026-05-23) Barclays Raises XOM Price Target to $182, Keeps Overweight
+> Barclays 목표주가 $163→$182 상향, Overweight 유지. impact: + / category: other
+
+> [!claim] (Yahoo Finance, 2026-05-26) Exxon Warns Oil Inventories Will Hit Dangerously Low Levels
+> 전 세계 원유 재고 위험 수준 경고 — 유가 추가 상승 시나리오 제시. impact: + / category: macro
+
+**경쟁사 동향**:
+- CVX: CVX 이사 대량 내부자 매도로 에너지 섹터 단기 센티먼트 부정적
 <!-- DAILY_END -->

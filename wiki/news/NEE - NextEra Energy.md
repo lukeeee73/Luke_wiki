@@ -1,7 +1,7 @@
 ---
 title: "NEE - NextEra Energy, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-29
 domain: finance
 type: claim
 weight: reference
@@ -27,9 +27,8 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-29**: Dominion과 $4000억 합병 — 규제 승인 결과 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,5 +45,18 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+### 2026-05-29
+**narrative_score**: +0.18
+**key_events**: Dominion과 전액 주식 교환 합병 발표 (5/18), 합병 후 10M 고객·110GW 규모, 분기 배당 $0.6232 선언
+**risks**: 규제 당국 승인 불확실성, 합병 통합 비용 및 시너지 실현 리스크
+
+> [!claim] (NextEra Energy Newsroom, 2026-05-18) NextEra Energy and Dominion Energy Announce $400B Merger
+> 전액 주식 교환 합병 합의. Dominion 주주에게 NEE 0.8138주 교부. 10M 고객·110GW 생산능력의 세계 최대 규제 유틸리티 탄생. impact: + / category: m&a
+
+> [!claim] (Company IR, 2026-05-15) NextEra Energy Board Declares Quarterly Dividend $0.6232
+> 분기 배당 $0.6232/주 선언, 지급일 6/15. impact: + / category: earnings
+
+**경쟁사 동향**:
+- DUK: NEE 합병 이후 DUK 등 대형 유틸리티도 M&A 대상으로 주목받으며 섹터 전반 프리미엄 상승
+- D: 합병 직접 대상 — NEE 주가에 D 편입 효과
 <!-- DAILY_END -->

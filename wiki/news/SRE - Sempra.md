@@ -1,7 +1,7 @@
 ---
 title: "SRE - Sempra — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-29
 domain: finance
 type: claim
 weight: reference
@@ -27,9 +27,8 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-29**: LNG 수출 용량 확대 승인 — 수익화 일정 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,5 +45,17 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+### 2026-05-29
+**narrative_score**: 0.00
+**key_events**: Q1 EPS $1.23 (컨센서스 하회), LNG 수출 용량 확대 승인
+**risks**: 캘리포니아 규제 비용 증가, LNG 프로젝트 건설 지연 가능성
+
+> [!claim] (Company IR, 2026-05-06) Sempra Q1 2026 Adjusted EPS $1.23, Misses $1.31 Estimate
+> Q1 조정 EPS $1.23, 컨센서스 $1.31 하회. 캘리포니아 규제 비용 증가. impact: - / category: earnings
+
+> [!claim] (Company IR, 2026-05-20) Sempra Infrastructure LNG Export Capacity Expansion Approved
+> Sempra Infrastructure LNG 수출 용량 확대 승인. 장기 수익원 다변화. impact: + / category: regulatory
+
+**경쟁사 동향**:
+- NEE: 유틸리티 섹터 재편 — SRE LNG 인프라 자산 가치 재조명 가능
 <!-- DAILY_END -->

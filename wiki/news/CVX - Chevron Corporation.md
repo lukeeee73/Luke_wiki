@@ -1,7 +1,7 @@
 ---
 title: "CVX - Chevron Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-29
 domain: finance
 type: claim
 weight: reference
@@ -27,9 +27,8 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-29**: 그리스 Helleniq Energy 지중해 블록 70%+ 지분 신청 — 규제 승인 결과 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,5 +45,20 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+### 2026-05-29
+**narrative_score**: +0.10
+**key_events**: Q1 강세 실적, 그리스 Helleniq Energy 지중해 블록 지분 신청, 이사 $7300만 블록 매도
+**risks**: 이란 휴전 시 유가 하락, 이사 대규모 내부자 매도
+
+> [!claim] (Yahoo Finance, 2026-05-05) Chevron Q1 2026 Strong Results, Analyst PT Raised to $220
+> Q1 강세 실적으로 애널리스트 목표주가 $220까지 상향. impact: + / category: earnings
+
+> [!claim] (Yahoo Finance, 2026-05-20) Chevron Files Request to Take 70%+ Stake in Helleniq Energy Offshore Block
+> 그리스 헬레닉 에너지 지중해 해양 블록 70%+ 지분 인수 신청. impact: + / category: other
+
+> [!claim] (TradingKey, 2026-05-26) Chevron Director John Hess Sells $73M of CVX at $193
+> 이사 John Hess가 $193에 $7300만 규모 CVX 주식 블록 매도 — 주가 -3.05%. impact: - / category: other
+
+**경쟁사 동향**:
+- XOM: 유가 지지 요인 — CVX 실적에도 긍정적
 <!-- DAILY_END -->

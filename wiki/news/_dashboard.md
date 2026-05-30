@@ -97,16 +97,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [XOM](XOM - Exxon Mobil Corporation.md) | — | — | — | — |
-| [CVX](CVX - Chevron Corporation.md) | — | — | — | — |
-| [COP](COP - ConocoPhillips.md) | — | — | — | — |
-| [SHEL](SHEL - Shell plc.md) | — | — | — | — |
-| [OXY](OXY - Occidental Petroleum.md) | — | — | — | — |
-| [SLB](SLB - Schlumberger Limited.md) | — | — | — | — |
-| [FCX](FCX - Freeport-McMoRan.md) | — | — | — | — |
-| [NEM](NEM - Newmont Corporation.md) | — | — | — | — |
-| [LIN](LIN - Linde plc.md) | — | — | — | — |
-| [APD](APD - Air Products and Chemicals.md) | — | — | — | — |
+| [XOM](XOM - Exxon Mobil Corporation.md) | 2026-05-29 | +0.08 | Q1 컨센서스 상회 + 베네수엘라 복귀 협상 + Barclays $182 상향 | 1 |
+| [CVX](CVX - Chevron Corporation.md) | 2026-05-29 | +0.10 | Q1 강세 + 지중해 가스전 진출 + 이사 $7300만 블록 매도 | 1 |
+| [COP](COP - ConocoPhillips.md) | 2026-05-29 | -0.05 | 연간 생산가이던스 하향 수정 (-3.4%) | 1 |
+| [SHEL](SHEL - Shell plc.md) | 2026-05-29 | +0.15 | Q1 조정이익 $69억 + 배당 5% 인상 + LNG 캐나다 램프업 | 1 |
+| [OXY](OXY - Occidental Petroleum.md) | 2026-05-29 | +0.10 | Q1 생산·FCF 상회 + Barclays Hold→Buy + PT $75 | 1 |
+| [SLB](SLB - Schlumberger Limited.md) | 2026-05-29 | -0.13 | 차기 EPS -28% YoY + 유가 하락 -3.4% | 1 |
+| [FCX](FCX - Freeport-McMoRan.md) | 2026-05-29 | +0.15 | Barclays OW 신규 개시 + 구리 EV·재생에너지 수요 강세 | 1 |
+| [NEM](NEM - Newmont Corporation.md) | 2026-05-29 | -0.03 | 2026 생산량 하락 + 비용 상승 vs 금값 $3,000 유지 | 1 |
+| [LIN](LIN - Linde plc.md) | 2026-05-29 | +0.18 | Q1 EPS +10% YoY + 가이던스 상향 + 전자 가스 강세 | 1 |
+| [APD](APD - Air Products and Chemicals.md) | 2026-05-29 | -0.08 | 미국 3개 프로젝트 철수 ($31억 손상) vs NEOM 80% 완공 | 1 |
 
 ### 금융
 
@@ -187,16 +187,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [NEE](NEE - NextEra Energy.md) | — | — | — | — |
-| [SO](SO - The Southern Company.md) | — | — | — | — |
-| [DUK](DUK - Duke Energy Corporation.md) | — | — | — | — |
-| [AEP](AEP - American Electric Power.md) | — | — | — | — |
-| [EXC](EXC - Exelon Corporation.md) | — | — | — | — |
-| [CEG](CEG - Constellation Energy.md) | — | — | — | — |
-| [VST](VST - Vistra Corp.md) | — | — | — | — |
-| [SRE](SRE - Sempra.md) | — | — | — | — |
-| [ED](ED - Consolidated Edison.md) | — | — | — | — |
-| [D](D - Dominion Energy.md) | — | — | — | — |
+| [NEE](NEE - NextEra Energy.md) | 2026-05-29 | +0.18 | Dominion $4000억 합병 발표 — 세계 최대 규제 유틸리티 탄생 | 1 |
+| [SO](SO - The Southern Company.md) | 2026-05-29 | +0.10 | Q1 EPS 상회 + 가이던스 상향 + Vogtle 4호기 정격출력 | 1 |
+| [DUK](DUK - Duke Energy Corporation.md) | 2026-05-29 | +0.13 | Q1 EPS 상회 + $1022억 자본투자 + 인디애나 18% 요금 신청 | 1 |
+| [AEP](AEP - American Electric Power.md) | 2026-05-29 | +0.15 | Q1 EPS 상회 + 3GW 데이터센터 계약 + 가이던스 상향 | 1 |
+| [EXC](EXC - Exelon Corporation.md) | 2026-05-29 | 0.00 | Q1 EPS 컨센서스 부합 — 뚜렷한 촉매 없음 | 1 |
+| [CEG](CEG - Constellation Energy.md) | 2026-05-29 | +0.25 | Q1 EPS $3.68 대폭 상회 + Microsoft 20년 원자력 PPA 체결 | 1 |
+| [VST](VST - Vistra Corp.md) | 2026-05-29 | +0.20 | Q1 EBITDA 상회 + 가이던스 상향 + Energy Harbor 원자력 인수 완료 | 1 |
+| [SRE](SRE - Sempra.md) | 2026-05-29 | 0.00 | Q1 EPS 컨센서스 하회 + LNG 수출 용량 확대 승인 | 1 |
+| [ED](ED - Consolidated Edison.md) | 2026-05-29 | +0.08 | Q1 EPS 상회 + NYC 그리드 현대화 $7억 투자 | 1 |
+| [D](D - Dominion Energy.md) | 2026-05-29 | +0.15 | NEE와 합병 합의 (0.8138배) — 주가 합병 프리미엄 반영 | 1 |
 
 ### 조선 (한국)
 
@@ -216,7 +216,7 @@ sources: []
 - **섹터 동기화**: 3 종목 이상이 같은 매크로 이슈 (예: 관세, FOMC, 유가, 비만치료제, 데이터센터 전력) 로 동시 움직임
 - **섹터간 전파**: 한 섹터의 충격이 다른 섹터로 번지는 패턴 (예: AI capex → 반도체 + 데이터센터 REIT + 유틸리티 동시 수혜)
 
-### 감지된 패턴
+### 감지된 패턴 (2026-05-18 · 빅테크 / 소프트웨어)
 
 - **섹터 동기화 (AI 독립 전략)**: MSFT·GOOGL·AMZN·META·PLTR 5 종목 모두 AI 전략이 핵심 뉴스 키워드. OpenAI 독립(MSFT), Googlebook(GOOGL), AWS AI(AMZN), Meta Superintelligence Labs(META), AIP 상업화(PLTR) 동시 가속화.
 - **섹터 동기화 (소프트웨어 섹터 로테이션)**: ADBE +3.2%·CRM 반등 시도 — 반도체에서 소프트웨어로 자금 이동이 빅테크/소프트웨어 섹터 전반에 영향.
@@ -224,6 +224,17 @@ sources: []
 - **최고 신호**: ORCL +0.15 — Wedbush·Oppenheimer 동시 상향 + 삼성 계약이 겹친 이중 긍정. PLTR +0.12 — Q1 +85% 어닝 서프라이즈, 단 밸류에이션 압박 지속.
 - **경고 신호**: AAPL -0.08 — 폴더블 출시 지연이 구글 Googlebook 출시 타이밍과 맞물려 하드웨어 경쟁에서 불리. IBM -0.08 — 메가캡 최하위 성과 지속.
 - **섹터간 전파**: 전날(토) 금융·REITs AI capex 투자 붐 → 오늘(월) 빅테크 AI 전략 가속화로 AI 테마 섹터 연속 확산.
+
+---
+
+### 감지된 패턴 (2026-05-29 · 금요일 · 에너지/원자재 + 유틸리티/전력)
+
+- **섹터 동기화 (이란 휴전 유가 하락)**: XOM -3.31%, CVX -3.05%, COP -3.43% 5/26 동반 급락 — 이란 핵 협상 진전이 에너지 섹터 전반 매도 촉발.
+- **섹터 동기화 (AI 전력 수요)**: CEG +0.25 / VST +0.20 / AEP +0.15 — 원자력·전력회사 3종목이 공통으로 AI 데이터센터 전력 계약을 핵심 성장 동력으로 발표.
+- **섹터 동기화 (M&A 프리미엄)**: NEE +0.18 / D +0.15 — NEE-Dominion $4000억 합병 발표로 유틸리티 섹터 M&A 파도 시작. SO·DUK·AEP도 잠재적 M&A 수혜 프리미엄.
+- **최고 신호**: CEG +0.25 — Q1 EPS $3.68 vs 컨센서스 $3.12 대폭 상회 + Microsoft 20년 원자력 PPA 체결이 겹친 이중 긍정. LIN +0.18 — Q1 EPS +10% + 가이던스 상향 + RBC PT $552.
+- **경고 신호**: SLB -0.13 — 차기 분기 EPS -28% YoY + 유가 하락 직격. COP -0.05 — 연간 생산가이던스 하향 수정. APD -0.08 — 미국 3개 프로젝트 철수 $31억 손상.
+- **섹터간 전파**: 에너지 섹터 유가 하락 압력이 SLB 유전 서비스 업종으로 가장 강하게 전파 (SLB -0.13 = 섹터 최하위). 반면 유틸리티/전력은 AI 수요 테마로 에너지 하락과 탈동조화.
 
 ## 사용 팁
 

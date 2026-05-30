@@ -1,7 +1,7 @@
 ---
 title: "APD - Air Products & Chemicals — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-29
 domain: finance
 type: claim
 weight: reference
@@ -27,9 +27,8 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-29**: NEOM 그린수소 프로젝트 2026년 말 그린암모니아 생산 목표 — 실현 여부 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,5 +45,20 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+### 2026-05-29
+**narrative_score**: -0.08
+**key_events**: 미국 3개 프로젝트 철수 ($31억 손상), NEOM 그린수소 80% 완공, 신임 CEO Bernstein 컨퍼런스 발표
+**risks**: 추가 프로젝트 철수 가능성, 수소 수요 지연 시 NEOM 사업화 불확실
+
+> [!claim] (StockTitan, 2026-05-22) Air Products Exits Three U.S. Projects, Takes $3.1B Charge
+> 캘리포니아 SAF 프로젝트, 뉴욕 Massena 그린수소, 텍사스 일산화탄소 3개 프로젝트 철수. $31억 손상 처리. impact: - / category: other
+
+> [!claim] (StockTitan, 2026-05-27) Air Products NEOM Green Hydrogen Project 80% Complete
+> 사우디 NEOM 그린수소 프로젝트 80% 완공, 2026년 말 그린암모니아 생산 시작 목표. impact: + / category: other
+
+> [!claim] (StockTitan, 2026-05-27) Air Products CEO Eduardo Menezes at Bernstein Conference
+> 신임 CEO Eduardo Menezes가 Bernstein 컨퍼런스에서 전략적 방향 발표 예정. impact: 0 / category: other
+
+**경쟁사 동향**:
+- LIN: LIN 강세 실적 대비 APD 구조조정 — 산업가스 섹터 내 차별화 심화
 <!-- DAILY_END -->

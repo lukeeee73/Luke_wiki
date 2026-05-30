@@ -1,7 +1,7 @@
 ---
 title: "D - Dominion Energy, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-29
 domain: finance
 type: claim
 weight: reference
@@ -27,9 +27,8 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-29**: NEE와 합병 합의 (0.8138배) — 규제 승인 결과 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,5 +45,17 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+### 2026-05-29
+**narrative_score**: +0.15
+**key_events**: NEE와 전액 주식 교환 합병 합의 (0.8138배), Q1 EPS $0.61 (컨센서스 상회)
+**risks**: 규제 승인 불확실성으로 합병 무산 리스크, 합병 기간 중 NEE 주가 하락 시 교환 비율 손실
+
+> [!claim] (Company IR, 2026-05-18) Dominion Energy Agrees to Be Acquired by NextEra Energy
+> NEE 0.8138주 교환 합병 합의. 합병 완료 시 NEE 주주로 전환. 주가 합병 프리미엄 반영. impact: + / category: m&a
+
+> [!claim] (Company IR, 2026-05-01) Dominion Q1 2026 Operating EPS $0.61, Beats $0.58 Estimate
+> Q1 영업 EPS $0.61, 컨센서스 $0.58 상회. 합병 발표 전 마지막 독립 분기 실적. impact: + / category: earnings
+
+**경쟁사 동향**:
+- NEE: 합병 직접 대상 — D 주가는 NEE 주가 × 0.8138에 수렴
 <!-- DAILY_END -->
