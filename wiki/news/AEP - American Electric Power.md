@@ -1,7 +1,7 @@
 ---
 title: "AEP - American Electric Power — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-29
 domain: finance
 type: claim
 weight: reference
@@ -27,9 +27,8 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-29**: 오하이오 3GW 데이터센터 전력 계약 — 실제 수익 인식 일정 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,5 +45,20 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+### 2026-05-29
+**narrative_score**: +0.15
+**key_events**: Q1 EPS $1.54 (컨센서스 상회), 2026 가이던스 $5.75-$5.95로 상향, 오하이오 3GW 데이터센터 전력 계약
+**risks**: 규제 승인 지연 리스크, 금리 상승 시 자본비용 증가
+
+> [!claim] (Company IR, 2026-05-01) AEP Q1 2026 Operating EPS $1.54, Beats $1.52 Estimate
+> Q1 영업 EPS $1.54, 컨센서스 $1.52 소폭 상회. impact: + / category: earnings
+
+> [!claim] (Company IR, 2026-05-01) AEP Raises 2026 Operating EPS Guidance to $5.75-$5.95
+> 2026 EPS 가이던스 $5.65-$5.85에서 $5.75-$5.95로 상향. 데이터센터 수요 성장 반영. impact: + / category: earnings
+
+> [!claim] (Company IR, 2026-05-15) AEP Secures 3GW Data Center Power Agreement in Ohio
+> 오하이오 3GW 데이터센터 전력 공급 계약 체결. AI 인프라 수요 직접 수혜. impact: + / category: other
+
+**경쟁사 동향**:
+- NEE: 유틸리티 M&A 파도 — AEP도 잠재적 통합 대상으로 프리미엄 부각 가능
 <!-- DAILY_END -->

@@ -1,7 +1,7 @@
 ---
 title: "SHEL - Shell plc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-29
 domain: finance
 type: claim
 weight: reference
@@ -27,9 +27,8 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-29**: Pearl GTL Train2 손상 — 복구 일정 1년 내 완료 여부 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,5 +45,23 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+### 2026-05-29
+**narrative_score**: +0.15
+**key_events**: Q1 조정이익 $69억 (컨센서스 상회), 배당 5% 인상 + $30억 자사주매입, LNG 캐나다 램프업, ARC 인수로 생산성장률 1%→4%
+**risks**: Pearl GTL Train2 손상 (복구 1년), 중동 분쟁 지속 시 운영 차질
+
+> [!claim] (Investing.com, 2026-05-01) Shell Q1 2026 Adjusted Earnings $6.9B, Beats Consensus
+> Q1 조정이익 $69억으로 전분기($33억) 대비 2배. 컨센서스 $64억 상회. 주가는 소폭 하락. impact: + / category: earnings
+
+> [!claim] (Insider Monkey, 2026-05-01) Shell Raises Dividend 5%, Announces $3B Buyback
+> 배당 5% 인상 + 다음 3개월 $30억 자사주매입 발표. 주주환원 강화. impact: + / category: earnings
+
+> [!claim] (Insider Monkey, 2026-05-01) Shell Pearl GTL Train 2 Suffers Damage, Repairs Take ~1 Year
+> 중동 분쟁으로 Pearl Gas-to-Liquids 시설 Train2 손상. 복구에 약 1년 소요 예상. impact: - / category: other
+
+> [!claim] (Yahoo Finance, 2026-05-15) Shell Confirms LNG Global Demand to Rise 54-68% Through 2040
+> Shell이 2040년까지 LNG 수요 54-68% 성장 전망 재확인. ARC 인수로 생산성장률 1%→4% 상향. impact: + / category: other
+
+**경쟁사 동향**:
+- XOM: 에너지 섹터 전반 공급 타이트 서사 지지 — SHEL에도 긍정적
 <!-- DAILY_END -->

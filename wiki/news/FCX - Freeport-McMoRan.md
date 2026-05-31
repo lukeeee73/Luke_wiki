@@ -1,7 +1,7 @@
 ---
 title: "FCX - Freeport-McMoRan Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-29
 domain: finance
 type: claim
 weight: reference
@@ -27,9 +27,8 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-29**: Barclays Overweight 신규 개시 — 구리 가격 상승 모멘텀 지속 여부 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,5 +45,20 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+### 2026-05-29
+**narrative_score**: +0.15
+**key_events**: Barclays Overweight 신규 개시 (5/21), UBS PT $74→$75 상향, $30억 5년 신용시설 체결 (5/14), 구리 EV·재생에너지 수요 강세
+**risks**: 구리 가격 변동성, Grasberg 광산 인도네시아 운영 리스크
+
+> [!claim] (Barclays, 2026-05-21) Barclays Initiates FCX with Overweight Rating
+> Barclays가 FCX에 Overweight 신규 개시. 강건한 미국 운영·확장 파이프라인·7.6x EV/EBITDA 할인 평가. impact: + / category: other
+
+> [!claim] (UBS, 2026-05-22) UBS Raises FCX Price Target to $75 from $74
+> UBS 목표주가 $74→$75 소폭 상향. 구리 수요 견조 반영. impact: + / category: other
+
+> [!claim] (Company IR, 2026-05-14) FCX Enters New $3B Revolving Credit Facility
+> FCX 및 자회사 PT Freeport Indonesia, 5년 $30억 무담보 신용시설 체결. impact: + / category: other
+
+**경쟁사 동향**:
+- NEM: 금광 vs 구리광: NEM 비용 상승과 달리 FCX 구리 수요 장기 우호적으로 차별화
 <!-- DAILY_END -->

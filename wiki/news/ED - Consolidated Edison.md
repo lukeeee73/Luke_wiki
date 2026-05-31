@@ -1,7 +1,7 @@
 ---
 title: "ED - Consolidated Edison — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-05-29
 domain: finance
 type: claim
 weight: reference
@@ -27,9 +27,8 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-05-29**: NYC 그리드 현대화 $7억 투자 — 규제 수익 반영 일정 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,5 +45,20 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+### 2026-05-29
+**narrative_score**: +0.08
+**key_events**: Q1 EPS $1.89 (컨센서스 상회), 2026 가이던스 $5.25-$5.45 유지, NYC 그리드 현대화 $7억 투자
+**risks**: 뉴욕 규제 환경 변화, 금리 상승 시 배당 매력 감소
+
+> [!claim] (Company IR, 2026-05-01) Consolidated Edison Q1 2026 EPS $1.89, Beats $1.85 Estimate
+> Q1 EPS $1.89, 컨센서스 $1.85 상회. 뉴욕 규제 요금 인상 반영. impact: + / category: earnings
+
+> [!claim] (Company IR, 2026-05-01) Con Edison Maintains 2026 EPS Guidance $5.25-$5.45
+> 2026 EPS 가이던스 $5.25-$5.45 유지. 안정적 규제 수익 기반. impact: 0 / category: earnings
+
+> [!claim] (Company IR, 2026-05-15) Con Edison Invests $700M in NYC Grid Modernization
+> 뉴욕시 그리드 현대화에 $7억 투자. 인프라 노후화 대응 및 신뢰성 향상. impact: + / category: other
+
+**경쟁사 동향**:
+- NEE: 뉴욕 규제 유틸리티 ED는 M&A 파도와 무관하게 독립 운영 지속 예상
 <!-- DAILY_END -->
