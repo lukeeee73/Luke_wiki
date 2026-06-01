@@ -1,7 +1,7 @@
 ---
 title: "META - Meta Platforms Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-18
+updated: 2026-06-01
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,9 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-18**: Q1 매출 $56.3B (+33%), EPS 어닝 서프라이즈 — 강한 디지털 광고 수요 (pending)
-- [ ] **2026-05-18**: 2026 capex $125B (+8% 상향) — AI 투자 부담으로 주가 고점 대비 -23% (pending)
+- [x] **2026-05-18**: Q1 매출 $56.3B (+33%), EPS 어닝 서프라이즈 (**verified** 2026-06-01: 다수 매체 확인, 광고 노출 +19%·단가 +12% 세부 수치도 확정)
+- [x] **2026-05-18**: 2026 capex $125B (+8% 상향) (**verified** 2026-06-01: $115~135B 범위로 최종 확정)
+- [ ] **2026-06-01**: EU DSA 위반 조사·영국 메시징 시장 조사 중 하나 이상이 실질적 벌금으로 이어질 것 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +40,11 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (Trading Key + Meta IR, 2026-05-18/2026-06-01) Meta Q1 2026 매출 $56.31B (+33% YoY) 확정
+> 광고 노출 +19%, 단가 +12%. WhatsApp 비즈니스 AI 대화 1000만/주(1월比 10배). EPS 어닝 서프라이즈.
+
+> [!fact] (Meta IR, 2026-06-01) 분기 배당 $0.525/주 (6월 25일 지급) 선언
+> Q2 2026 매출 가이던스 $58~61B. 2026 capex $115~135B 최종 확정.
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +52,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-01
+
+**narrative_score**: +0.03
+**key_events**: EU DSA 미성년자 조사 개시 (-), 영국 메시징 시장 컴플라이언스 조사 (-), Q1 매출 +33% 확인 (+), 분기 배당 $0.525/Q2 가이던스 $58~61B (+)
+**risks**: EU DSA 벌금 (최대 글로벌 매출 6%), 영국 CMA 제재, capex $115~135B 수익성 압박
+
+> [!claim] (출처: Benzinga, 2026-06-01) EU DSA 미성년자 접근 허용 여부 조사 개시
+> 대규모 벌금 가능성. impact: - / category: regulation
+
+> [!claim] (출처: Meta IR, 2026-06-01) 영국 당국 메시징 시장 데이터 컴플라이언스 조사
+> 유럽 규제 동시 다발적 압박. impact: - / category: regulation
+
+> [!claim] (출처: Trading Key, 2026-05-30) Q1 매출 +33% YoY, WhatsApp AI 10M/주(10x)
+> 강한 광고 수요 확인. impact: + / category: earnings
+
+> [!claim] (출처: Meta IR, 2026-06-01) 분기 배당 $0.525/주; Q2 가이던스 $58~61B
+> 견조한 광고 수요 지속 시사. impact: + / category: earnings
+
+**경쟁사 동향**:
+- GOOGL: Q1 순이익 +81%, $800억 AI 투자 — 광고 AI 경쟁 심화 (impact for META: -)
+- AMZN: AWS EU 규제 — 빅테크 규제 피로감 확산, META에도 간접 리스크 (impact for META: neutral)
+
+---
 
 ### 2026-05-18
 
