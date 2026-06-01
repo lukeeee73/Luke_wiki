@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-05-18
+updated: 2026-06-01
 domain: finance
 type: index
 weight: reference
@@ -35,18 +35,18 @@ sources: []
 
 ### 빅테크 / 소프트웨어
 
-| Ticker                                          | as_of      | score | 핵심 한 줄                                | open claims |
-| ----------------------------------------------- | ---------- | ----- | ------------------------------------- | ----------- |
-| [AAPL](AAPL - Apple Inc.md)                     | 2026-05-18 | -0.08 | 폴더블 힌지 결함 출시 지연 가능성                   | 1           |
-| [MSFT](MSFT - Microsoft Corporation.md)         | 2026-05-18 | +0.08 | OpenAI 탈피 독립 AI 전략, Ackman 매수         | 1           |
-| [GOOGL](GOOGL - Alphabet Inc.md)                | 2026-05-18 | +0.10 | EPS 컨센서스 $14.22 상향, 클라우드 점유율 확대       | 2           |
-| [AMZN](AMZN - Amazon.com Inc.md)                | 2026-05-18 | +0.10 | AWS +28%, $3조 돌파 임박 — 관세 소송 병행        | 2           |
-| [META](META - Meta Platforms Inc.md)            | 2026-05-18 | +0.02 | Q1 매출 +33% 강세 but capex $125B 우려      | 2           |
-| [ORCL](ORCL - Oracle Corporation.md)            | 2026-05-18 | +0.15 | Wedbush/Oppenheimer 동시 상향, 삼성 Java 계약 | 1           |
-| [CRM](CRM - Salesforce, Inc.md)                 | 2026-05-18 | -0.05 | BofA Underperform 하향, AI 좌석 잠식 우려     | 2           |
-| [ADBE](ADBE - Adobe Inc.md)                     | 2026-05-18 | +0.12 | $25B 자사주 + 소프트웨어 섹터 로테이션 주도           | 2           |
-| [IBM](IBM - International Business Machines.md) | 2026-05-18 | -0.08 | YTD -26% 메가캡 최하위, RBC 목표 하향           | 2           |
-| [PLTR](PLTR - Palantir Technologies Inc.md)     | 2026-05-18 | +0.12 | Q1 +85% 어닝 대폭 서프라이즈, 가이던스 상향          | 2           |
+| Ticker                                          | as_of      | score  | 핵심 한 줄                                         | open claims |
+| ----------------------------------------------- | ---------- | ------ | ----------------------------------------------- | ----------- |
+| [AAPL](AAPL - Apple Inc.md)                     | 2026-06-01 | +0.13  | Q3 가이던스 +14~17% 컨센서스 대폭 상회, WWDC 6/8 AI 발표 기대  | 3           |
+| [MSFT](MSFT - Microsoft Corporation.md)         | 2026-06-01 | +0.18  | AI 사업 $37B 연환산(+123%), Build 2026 자체 AI 코딩 모델   | 2           |
+| [GOOGL](GOOGL - Alphabet Inc.md)                | 2026-06-01 | +0.24  | Q1 순이익 +81%, $800억 AI 자본 조달, 목표주가 $427.89      | 1           |
+| [AMZN](AMZN - Amazon.com Inc.md)                | 2026-06-01 | -0.13  | AWS EU 규제+ACCC 소송으로 -3.5%, $200B capex 부담      | 3           |
+| [META](META - Meta Platforms Inc.md)            | 2026-06-01 | +0.03  | EU DSA 조사·UK 조사 (-), Q1 +33%·Q2 가이던스 강세 (+)    | 1           |
+| [ORCL](ORCL - Oracle Corporation.md)            | 2026-06-01 | +0.20  | +5.56% (Project Jupiter+정부 AI 계약), 백로그 $5530억    | 1           |
+| [CRM](CRM - Salesforce, Inc.md)                 | 2026-06-01 | +0.24  | Q1 FY27 +13% 서프라이즈·+9.7%, Contentful 인수·Anthropic $5B | 1           |
+| [ADBE](ADBE - Adobe Inc.md)                     | 2026-06-01 | +0.05  | Nvidia AI 협업·+5.7% 반등, Q2 실적 6/11 예정          | 2           |
+| [IBM](IBM - International Business Machines.md) | 2026-06-01 | +0.18  | Nvidia 파트너십·Barclays 상향·5월 +32% (24년래 최고)      | 1           |
+| [PLTR](PLTR - Palantir Technologies Inc.md)     | 2026-06-01 | +0.28  | Q1 $1.63B(+85%)·주간 +13%, 12개월 목표 $200          | 2           |
 
 ### 반도체
 

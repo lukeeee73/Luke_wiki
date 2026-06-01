@@ -1,7 +1,7 @@
 ---
 title: "IBM - International Business Machines — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-18
+updated: 2026-06-01
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,9 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-18**: YTD 메가캡 최하위 (-26%), RBC 목표주가 $330→$300 하향 (pending)
-- [ ] **2026-05-18**: IBM-Aramco AI 협업 + Red Hat AI 인퍼런스 서비스 출시 — 반등 촉매 (pending)
+- [x] **2026-05-18**: YTD 메가캡 최하위 (-26%), RBC 목표주가 $330→$300 하향 (**refuted** 2026-06-01: 5월 +32% 역대급 상승, Barclays Overweight $350 개시 — 완전 반전)
+- [x] **2026-05-18**: IBM-Aramco AI 협업 + Red Hat AI 인퍼런스 서비스 출시 — 반등 촉매 (**verified** 2026-06-01: Nvidia 파트너십·Barclays 상향·주가 +7.6% — 반등 촉매 확인)
+- [ ] **2026-06-01**: Nvidia IBM AI 파트너십이 IBM Cloud의 기업 AI 계약 수주 증가로 이어질 것 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +40,11 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (Schaeffer's + Gurufocus, 2026-06-01) Barclays IBM Overweight 개시, 목표가 $350
+> 소프트웨어·규제 산업 고객 해자 강조. 주가 +7.6%, 신고가 경신.
+
+> [!fact] (Gurufocus + 247 Wall St., 2026-06-01) Nvidia IBM을 AI 인프라 핵심 파트너로 지명
+> IBM Cloud 베라 루빈 인스턴스·Power Systems AI 서버 통합. 5월 +32% (24년래 최고).
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +52,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-01
+
+**narrative_score**: +0.18
+**key_events**: Nvidia AI 파트너십 지명, Barclays Overweight $350 개시, 주가 +7.6% 신고가, 5월 +32% (24년래 최고)
+**risks**: GF Score 77/100 과열 우려, Azure/AWS AI 전환 가속 시 레거시 위협, 퀀텀 수익화 장기 지연
+
+> [!claim] (출처: Gurufocus, 2026-06-01) Nvidia IBM을 AI 인프라 핵심 파트너 지명 — Cloud 베라 루빈·Power AI 서버
+> enterprise AI 인프라 위상 강화. impact: + / category: other
+
+> [!claim] (출처: Schaeffer's, 2026-06-01) Barclays Overweight 개시, 목표가 $350 — 소프트웨어·규제 산업 해자 강조
+> 주가 +7.6%, 신고가. impact: + / category: other
+
+> [!claim] (출처: 247 Wall St., 2026-06-01) 5월 +32% (24년래 최고 월간 성과)
+> 퀀텀+AI 교차 수혜 재평가 진행. impact: + / category: other
+
+**경쟁사 동향**:
+- MSFT: Azure AI $370억(+123%) — WatsonX 기업 AI 경쟁 (impact for IBM: -)
+- ORCL: 정부 AI 클라우드 수주 확대 — IBM 연방 IT 계약 일부 경쟁 압박 (impact for IBM: -)
+
+---
 
 ### 2026-05-18
 

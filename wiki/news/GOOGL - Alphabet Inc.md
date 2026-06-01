@@ -1,7 +1,7 @@
 ---
 title: "GOOGL - Alphabet Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-18
+updated: 2026-06-01
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,9 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-18**: 2026 EPS 컨센서스 $11.63→$14.22 상향, 클라우드 시장 점유율 확대 (pending)
-- [ ] **2026-05-18**: Bill Ackman GOOGL 전량 매도 — 기관 투자자 이탈 신호 (pending)
+- [x] **2026-05-18**: 2026 EPS 컨센서스 $11.63→$14.22 상향, 클라우드 시장 점유율 확대 (**verified** 2026-06-01: Q1 EPS $5.17 (+82% YoY), 목표주가 $427.89로 추가 상향)
+- [x] **2026-05-18**: Bill Ackman GOOGL 전량 매도 — 기관 투자자 이탈 신호 (**refuted** 2026-06-01: Berkshire Hathaway $100억 신규 투자 — 기관 자금 유입으로 반증)
+- [ ] **2026-06-01**: $800억 AI 자본 조달이 GCP·Waymo 경쟁력 급격히 높일 것 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +40,11 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (Yahoo Finance + Google IR, 2026-04-29) Alphabet Q1 2026 실적 확정
+> EPS $5.17 (전년 $2.84 +82% YoY), 매출 $109.9B (+22% YoY), 순이익 $62.6B (+81% YoY).
+
+> [!fact] (Yahoo Finance + Simply Wall St., 2026-06-01) Alphabet $80B AI 자본 조달, Berkshire $10B 투자
+> 역대 최대 규모 AI 인프라 확장 자금. 버크셔 신규 투자로 기관 매수 신호 확인.
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +52,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-01
+
+**narrative_score**: +0.24
+**key_events**: Q1 순이익 +81% / EPS $5.17 어닝 서프라이즈, $800억 AI 자본 조달 (버크셔 $100억), 웨이모 오하이 미니밴 도입, 목표주가 $427.89로 상향
+**risks**: DOJ AI 독점 소송 진행 중, 대규모 capex 단기 이익 희석 가능성
+
+> [!claim] (출처: Yahoo Finance, 2026-04-29) Q1 2026 EPS $5.17(+82% YoY), 매출 $109.9B(+22%), 순이익 +81%
+> 어닝 대폭 서프라이즈. impact: + / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-06-01) Alphabet $800억 AI 자본 조달; 버크셔 $100억 신규 투자
+> AI 인프라 공격적 확장. impact: + / category: other
+
+> [!claim] (출처: Simply Wall St., 2026-05-31) Waymo 신형 Ojai 미니밴 도입 — 탈착식 스티어링, 제조비 절감
+> 로봇택시 상용화 가속. impact: + / category: product
+
+**경쟁사 동향**:
+- MSFT: Build 2026 자체 AI 코딩 모델 공개 — Gemini 개발자 시장 경쟁 (impact for GOOGL: -)
+- META: EU DSA 조사 — 빅테크 규제 압박 확산, GOOGL 간접 리스크 (impact for GOOGL: neutral)
+
+---
 
 ### 2026-05-18
 

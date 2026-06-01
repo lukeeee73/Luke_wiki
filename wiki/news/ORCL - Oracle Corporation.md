@@ -1,7 +1,7 @@
 ---
 title: "ORCL - Oracle Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-18
+updated: 2026-06-01
 domain: finance
 type: claim
 weight: reference
@@ -28,7 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-18**: Wedbush·Oppenheimer 목표주가 동시 상향 ($275/$235), 삼성 Java 계약 체결 (pending)
+- [x] **2026-05-18**: Wedbush·Oppenheimer 목표주가 동시 상향 ($275/$235), 삼성 Java 계약 체결 (**verified** 2026-06-01: 오늘 주가 +5.56%, 목표주가 추가 상향 — 모멘텀 지속 확인)
+- [ ] **2026-06-01**: Q4 FY2026 실적(6/10) 발표 시 OCI 백로그 규모 재차 컨센서스 상회할 것 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -38,6 +39,11 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (StockTitan + TECHi, 2026-06-01) Oracle Q3 FY2026 잔여 이행 의무 $5,530억(+325% YoY) 확정
+> OCI 클라우드 인프라 매출 $49억(+84% YoY). Q4 실적 발표 6월 10일 예정.
+
+> [!fact] (Trading Key, 2026-06-01) Oracle 미 정부 AI 국가안보 클라우드 계약 체결
+> 뉴멕시코 Project Jupiter 대규모 데이터센터 착공 계획.
 <!-- FACTS_END -->
 
 ---
@@ -45,6 +51,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-01
+
+**narrative_score**: +0.20
+**key_events**: 주가 +5.56% (Project Jupiter + 미 정부 AI 계약), Q3 잔여 의무 $5,530억(+325%), OCI +84%, Q4 실적 발표 6월 10일 예정
+**risks**: OCI 마진 ~14% 저수익, FY26 capex $350억 재무 부담, 6/10 실적 미달 가능성
+
+> [!claim] (출처: Trading Key, 2026-06-01) 주가 +5.56% — Project Jupiter 데이터센터·미 정부 AI 계약
+> 공공 AI 인프라 수주 리더십 확인. impact: + / category: other
+
+> [!claim] (출처: StockTitan, 2026-06-01) Q4 FY2026 실적 발표 6월 10일 예정
+> 대규모 OCI 수주 잔고 발표 기대. impact: + / category: earnings
+
+> [!claim] (출처: TECHi, 2026-05-30) Q3 잔여 이행 의무 $5,530억(+325% YoY), OCI +84%
+> AI 수요 폭증으로 백로그 급증. impact: + / category: earnings
+
+**경쟁사 동향**:
+- MSFT: Azure AI $370억(+123%) — OCI와 기업 클라우드 DB 경쟁 (impact for ORCL: -)
+- AMZN: AWS EU 규제 압박 — ORCL 정부 AI 계약 기회 확대 (impact for ORCL: +)
+
+---
 
 ### 2026-05-18
 

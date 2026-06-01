@@ -1,7 +1,7 @@
 ---
 title: "AMZN - Amazon.com Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-18
+updated: 2026-06-01
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,9 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-18**: Q1 AWS 성장률 +28% YoY, 시총 $3조 돌파 임박 (Bloomberg 보도) (pending)
+- [ ] **2026-05-18**: Q1 AWS 성장률 +28% YoY, 시총 $3조 돌파 임박 (Bloomberg 보도) (pending — 오늘 주가 -3.5%, 규제 악재로 $3조 돌파 지연)
 - [ ] **2026-05-18**: 관세 비용 소비자 전가 집단소송 제기 (pending)
+- [ ] **2026-06-01**: EU 클라우드 규제·ACCC 소송이 AWS 정부 계약 수주 능력에 실질적 제약 가할 것 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +40,11 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (Gurufocus + FX Leaders, 2026-06-01) Amazon 역대 최대 유로채 €145억 발행
+> AI 인프라 투자 재원 다각화. 2026 capex 가이던스 $2000억 확정.
+
+> [!fact] (FX Leaders, 2026-06-01) AWS EU 클라우드 규제 + 호주 ACCC 아동 안전 소송 동시 개시
+> 양측 동시 규제 압박으로 주가 -3.5%. AWS 5월 7~8일 US East 1 대규모 장애 선행 발생.
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +52,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-01
+
+**narrative_score**: -0.13
+**key_events**: 주가 -3.5% (AWS EU 규제 + ACCC 소송), 역대 최대 유로채 €145억, '알렉사 쇼핑' 리테일러 라이선스
+**risks**: EU 클라우드 규제로 정부 계약 제한, ACCC 소송, $2000억 capex FCF 압박, AWS 신뢰성 우려
+
+> [!claim] (출처: FX Leaders, 2026-06-01) AWS EU 클라우드 규제 + 호주 ACCC 소송으로 주가 -3.5%
+> 규제 이중 압박. impact: - / category: regulation
+
+> [!claim] (출처: Gurufocus, 2026-06-01) 역대 최대 유로채 €145억 발행 (AI 인프라 투자)
+> 이자 부담 증가. impact: neutral / category: other
+
+> [!claim] (출처: Trading Key, 2026-06-01) '알렉사 쇼핑' AI 도구 타 리테일러 라이선스
+> 신규 B2B 수익원. impact: + / category: product
+
+**경쟁사 동향**:
+- MSFT: Azure AI $370억 연환산(+123%) — AWS 기업 AI 점유율 압박 (impact for AMZN: -)
+- GOOGL: GCP $800억 AI 투자 — 3강 클라우드 경쟁 심화 (impact for AMZN: -)
+
+---
 
 ### 2026-05-18
 
