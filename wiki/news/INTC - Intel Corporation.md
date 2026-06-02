@@ -1,7 +1,7 @@
 ---
 title: "INTC - Intel Corporation — Routine News Log"
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-06-02
 domain: finance
 type: claim
 weight: reference
@@ -26,8 +26,9 @@ x86 CPU(컴퓨터 연산 핵심 칩)의 전통적 절대강자였던 미국 반�
 ## 미해결 가설 (Open Claims)
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-19**: 서버 CPU 점유율 하락 추세 — 분기별 -370bps QoQ 지속 여부 (pending)
+- [x] **2026-05-19**: 서버 CPU 점유율 하락 추세 — 분기별 -370bps QoQ 지속 여부 → **confirmed** (COMPUTEX 2026에서도 시장 반응 부진, 주가 4.67% 추가 하락, 2026-06-02)
 - [ ] **2026-05-19**: 애플 파운드리 계약 레거시 공정 집중 — 18A 첨단공정 수주 가능성 (pending)
+- [ ] **2026-06-02**: Xeon 6+ 및 AI 인프라 계획 — 시장 신뢰 회복 여부 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,6 +43,22 @@ x86 CPU(컴퓨터 연산 핵심 칩)의 전통적 절대강자였던 미국 반�
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-02
+
+**narrative_score**: -0.20 (강한 부정)
+**key_events**: COMPUTEX Xeon 6+ 발표 → 주가 4.67% 급락, NVDA RTX Spark AI PC 직접 위협, 18A 공정 경쟁력 불확실
+**risks**: NVDA AI PC 진입으로 PC 사업 압박, AMD 서버 CPU 잠식 가속, 18A 파운드리 적자 지속
+
+> [!claim] (출처: CoinCentral, 2026-06-02) COMPUTEX Xeon 6+ 발표 — 주가 4.67% 급락
+> 랙스케일 AI 인프라·Xeon 6+ 발표에도 시장 실망. 18A 공정 기대 미달. impact: - / category: product
+
+> [!claim] (출처: TradingKey, 2026-06-02) NVDA RTX Spark으로 AI PC 시장 직격탄
+> NVDA 슈퍼칩(100+ TOPS)이 인텔 AI PC 지배력 위협, 주가 3.36% 추가 하락. impact: - / category: product
+
+**경쟁사 동향**:
+- NVDA: RTX Spark으로 AI PC 시장 직접 공략 — INTC 핵심 PC 시장 압박 (impact for INTC: --)
+- AMD: EPYC 서버 CPU 점유율 지속 확대 — INTC 양면 압박 (impact for INTC: -)
 
 ### 2026-05-19
 

@@ -1,7 +1,7 @@
 ---
 title: "MU - Micron Technology — Routine News Log"
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-06-02
 domain: finance
 type: claim
 weight: reference
@@ -26,8 +26,9 @@ sources: []
 ## 미해결 가설 (Open Claims)
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-19**: HBM 2026년 전량 매진 — 2027년 공급 계획 및 가격 협상 동향 (pending)
-- [ ] **2026-05-19**: Q2 매출 +196% YoY — 성장률 지속 가능성 vs 기저효과 (pending)
+- [x] **2026-05-19**: HBM 2026년 전량 매진 — 2027년 공급 계획 및 가격 협상 동향 → **confirmed** (HBM4 2026년 전량 매진 공식 확인, 시총 $1조 돌파, 2026-06-02)
+- [ ] **2026-05-19**: Q2 매출 +196% YoY — 성장률 지속 가능성 vs 기저효과 → Q3 FY2026 매출 $33.5B(+263% YoY) 예상 — 6/24 실적 발표 검증 대기
+- [ ] **2026-06-02**: 6월 24일 Q3 FY2026 실적 — 매출 $33.5B(+263% YoY)·EPS $19.29 달성 여부 (22일 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -44,6 +45,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-02
+
+**narrative_score**: +0.47 (강한 긍정)
+**key_events**: HBM4 2026년 전량 매진·시총 $1조 돌파, 주가 연초 대비 +231%, 6/24 Q3 실적 발표 예정
+**risks**: 기대치 매우 높아 실적 미달 시 급락, 삼성·SK하이닉스 HBM4 양산 가속 시 공급 과잉 가능성
+
+> [!claim] (출처: Motley Fool, 2026-06-01) HBM4 2026년 전량 매진·시총 $1조 돌파
+> Nasdaq-100 연초 대비 수익률 2위(+231%). HBM4 2026년 전 물량 이미 매진. impact: + / category: earnings
+
+> [!claim] (출처: GuruFocus, 2026-06-01) Raymond James $530→$1,100, Mizuho $1,150 목표가 상향
+> AI 메모리 수요 폭발적 증가를 반영한 공격적 목표가 상향. impact: + / category: other
+
+> [!claim] (출처: Yahoo Finance, 2026-05-31) Q3 FY2026 실적 6/24 발표 — 매출 $33.5B(+263% YoY) 예상
+> EPS $19.29 컨센서스. 직전 분기 대비 성장률 유지 여부가 핵심 관전 포인트. impact: + / category: earnings
+
+**경쟁사 동향**:
+- NVDA: Blackwell GPU 수요 확대 → MU HBM4 수요 직접 연동 (impact for MU: ++)
+- LRCX: WFE $1,400억 상향·HBM 식각 장비 수요 강세 — MU 증설 투자 지속 신호 (impact for MU: +)
 
 ### 2026-05-19
 

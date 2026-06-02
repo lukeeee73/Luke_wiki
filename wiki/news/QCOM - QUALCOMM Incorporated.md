@@ -1,7 +1,7 @@
 ---
 title: "QCOM - QUALCOMM Incorporated — Routine News Log"
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-06-02
 domain: finance
 type: claim
 weight: reference
@@ -26,8 +26,10 @@ sources: []
 ## 미해결 가설 (Open Claims)
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-19**: Q3 가이던스 하회 — 스마트폰 수요 회복 시점 불확실 (pending)
+- [x] **2026-05-19**: Q3 가이던스 하회 — 스마트폰 수요 회복 시점 불확실 → **partially verified** (ByteDance AI ASIC 대형 계약으로 부분 반등했으나 NVDA RTX Spark으로 온디바이스 AI PC 시장도 위협, 2026-06-02)
 - [ ] **2026-05-19**: 경영진 자사주 매입 — 저평가 판단 신호 vs 구조적 약세 (pending)
+- [ ] **2026-06-02**: Dragonfly 데이터센터 칩 — 6월 24일 인베스터 데이 발표 후 시장 반응 (대기)
+- [ ] **2026-06-02**: NVDA RTX Spark AI PC 공세 — Snapdragon X Elite 점유율 방어 가능 여부 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,6 +44,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-02
+
+**narrative_score**: -0.22 (강한 부정)
+**key_events**: NVDA RTX Spark으로 주가 8.78% 급락, Dragonfly 데이터센터 칩 브랜드 공개, $0.92 배당 선언
+**risks**: NVDA AI PC 칩 직격탄, 마이크로소프트 Copilot+ PC 독점 완화, 6/24 인베스터 데이 기대 미달 리스크
+
+> [!claim] (출처: GuruFocus, 2026-06-01) NVDA RTX Spark(100+ TOPS)에 주가 8.78% 급락
+> Snapdragon X Elite(45 TOPS) 대비 NVDA 슈퍼칩 성능 격차 부각. AI PC 시장 주도권 위협. impact: - / category: product
+
+> [!claim] (출처: GuruFocus, 2026-06-02) Dragonfly 데이터센터 AI 칩 브랜드 공개
+> 신규 AI 데이터센터 칩 브랜드 공개 — 세부 사항은 6/24 인베스터 데이에서 발표 예정. impact: neutral / category: product
+
+> [!claim] (출처: Yahoo Finance, 2026-06-01) 주당 $0.92 배당 선언, 기준일 6/4
+> 배당 기준일 6월 4일. 주가 급락 후 배당 수익률 소폭 상승. impact: neutral / category: other
+
+**경쟁사 동향**:
+- NVDA: RTX Spark(100+ TOPS) AI PC 칩 발표 — QCOM Snapdragon X Elite(45 TOPS) 직격 (impact for QCOM: --)
+- INTC: 마이크로소프트 Copilot+ PC 독점 해제로 QCOM의 구조적 이점 함께 소멸 (impact for QCOM: -)
 
 ### 2026-05-19
 

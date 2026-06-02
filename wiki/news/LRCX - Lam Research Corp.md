@@ -1,7 +1,7 @@
 ---
 title: "LRCX - Lam Research Corp. — Routine News Log"
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-06-02
 domain: finance
 type: claim
 weight: reference
@@ -26,8 +26,9 @@ sources: []
 ## 미해결 가설 (Open Claims)
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-19**: Q1 매출 $5.84B 역대 최고 — Q2 가이던스 $6.6B 달성 가능성 (pending)
-- [ ] **2026-05-19**: 삼성전자 5/21 파업 — 발주 지연 및 공급망 영향 규모 파악 필요 (pending)
+- [x] **2026-05-19**: Q1 매출 $5.84B 역대 최고 — Q2 가이던스 $6.6B 달성 가능성 → **on-track** (Q3 FY2026도 $5.84B·+24% YoY·4분기 연속 서프라이즈, 2026-06-02 확인)
+- [x] **2026-05-19**: 삼성전자 5/21 파업 — 발주 지연 및 공급망 영향 규모 파악 필요 → **resolved** (COMPUTEX 후 LRCX 4.8% 급등·52주 신고가 — 파업 영향 제한적으로 확인, 2026-06-02)
+- [ ] **2026-06-02**: WFE 전망 ~$1,400억 상향 — 실제 수주 증가 여부 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -35,6 +36,8 @@ sources: []
 ## 사실 누적 (Verified Facts)
 
 <!-- FACTS_START -->
+> [!fact] LRCX Q3 FY2026 사상 최대 매출 $5.84B (+24% YoY), EPS +41%, 4분기 연속 컨센서스 상회
+> 2026-04-23 발표. 2026년 WFE 지출 전망 ~$1,400억 상향, 어드밴스드 패키징 매출 50%+ 성장 전망. 출처: Yahoo Finance.
 <!-- FACTS_END -->
 
 ---
@@ -42,6 +45,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-02
+
+**narrative_score**: +0.40 (강한 긍정)
+**key_events**: COMPUTEX 후 4.8% 급등·52주 신고가, Q3 FY2026 사상 최대 매출·4분기 연속 서프라이즈, WFE $1,400억 상향
+**risks**: 중국 반도체 제조 수요 둔화 시 매출 타격, 연초 대비 +80% 고밸류에이션
+
+> [!claim] (출처: StockStory, 2026-06-02) COMPUTEX 2026 AI 칩 사이클 장기화 재확인 → 4.8% 급등
+> 젠슨 황 GTC 대만 키노트 후 AI 칩 사이클 장기화 선언 — LRCX 4.8% 급등, 52주 신고가. impact: + / category: other
+
+> [!claim] (출처: Yahoo Finance, 2026-04-23) Q3 FY2026 사상 최대 $5.84B·EPS +41%
+> 4분기 연속 컨센서스 상회. June 가이던스도 컨센서스 10~15% 상회. impact: + / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-04-23) WFE 2026 전망 ~$1,400억 상향·패키징 매출 50%+ 성장
+> 어드밴스드 패키징(HBM·칩렛) 최대 수혜주 포지셔닝. impact: + / category: earnings
+
+**경쟁사 동향**:
+- AMAT: 연간 장비 성장률 30%+ 전망 상향 — LRCX와 동일 WFE 사이클 강세 상호 확인 (impact for LRCX: +)
+- MU: HBM4 2026년 전량 매진 — LRCX의 HBM 식각·증착 장비 수요 직결 (impact for LRCX: +)
 
 ### 2026-05-19
 
