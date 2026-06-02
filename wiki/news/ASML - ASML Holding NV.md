@@ -1,7 +1,7 @@
 ---
 title: "ASML - ASML Holding NV — Routine News Log"
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-06-02
 domain: finance
 type: claim
 weight: reference
@@ -26,8 +26,9 @@ sources: []
 ## 미해결 가설 (Open Claims)
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-19**: 2026 가이던스 +16% YoY 380억 유로 — 분기 진행 상황 검증 필요 (pending)
+- [x] **2026-05-19**: 2026 가이던스 +16% YoY 380억 유로 — 분기 진행 상황 검증 필요 → **on-track** (Q1 2026 매출 €103억·마진 53%·High-NA EUV 수주 급증으로 연간 가이던스 재확인, 2026-06-02)
 - [ ] **2026-05-19**: 인도 Tata 300mm 팹 장비 공급 — 수주 규모·일정 구체화 필요 (pending)
+- [ ] **2026-06-02**: UBS 목표가 €1,900 vs Morningstar 매도 — 밸류에이션 합리성 검증 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -35,6 +36,8 @@ sources: []
 ## 사실 누적 (Verified Facts)
 
 <!-- FACTS_START -->
+> [!fact] ASML Q1 2026 매출 €103억, 총마진 53%, High-NA EUV 수주 급증
+> Q1 2026 실적 (2026-04-16 발표). 수주 잔고 €96억 포함. 연간 가이던스 유지 (중간 50%대 마진). 출처: Yahoo Finance / 애널리스트 보고서.
 <!-- FACTS_END -->
 
 ---
@@ -42,6 +45,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-02
+
+**narrative_score**: +0.33 (강한 긍정)
+**key_events**: 주가 4.7% 상승·연초 대비 +53%, Q1 €103억 매출·마진 53% 강세, UBS 목표가 €1,900 상향
+**risks**: Morningstar 밸류에이션 매도 의견 (GF Value $1,126 vs 현재가 $1,705), 중국 EUV 수출 규제 TAM 제한
+
+> [!claim] (출처: GuruFocus, 2026-06-02) ASML 4.7% 상승 — 연초 대비 +53%, 현재가 $1,705.37
+> AI 반도체 장비 수요 강세로 연간 53% 급등. 44명 애널리스트 평균 "Strong Buy". impact: + / category: other
+
+> [!claim] (출처: Yahoo Finance, 2026-04-16) Q1 2026 매출 €103억·마진 53%·연간 가이던스 재확인
+> High-NA EUV 수주 급증, 인도 Tata Electronics와 파트너십 확장. impact: + / category: earnings
+
+> [!claim] (출처: Reuters, 2026-05-30) UBS 목표가 €1,900 vs 모닝스타 매도 의견 공존
+> 밸류에이션 논란 — EUV 독점 가치 vs 현재가 과대평가 여부. impact: neutral / category: other
+
+**경쟁사 동향**:
+- AMAT: 장비 성장률 전망 30%+ 상향 — ASML과 동일 WFE 사이클 수혜 확인 (impact for ASML: +)
+- LRCX: WFE 지출 전망 ~$1,400억 상향 — 전체 반도체 장비 시장 파이 확대 (impact for ASML: +)
 
 ### 2026-05-19
 

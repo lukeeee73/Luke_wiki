@@ -1,7 +1,7 @@
 ---
 title: "AMAT - Applied Materials — Routine News Log"
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-06-02
 domain: finance
 type: claim
 weight: reference
@@ -26,8 +26,9 @@ sources: []
 ## 미해결 가설 (Open Claims)
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-19**: Q2 총마진 50% 25년 최고 — Q3도 유지 가능한지 (pending)
-- [ ] **2026-05-19**: Q3 가이던스 $8.95B — 실제 달성 및 첨단 패키징 +50% 성장 검증 (pending)
+- [x] **2026-05-19**: Q2 총마진 50% 25년 최고 — Q3도 유지 가능한지 → **exceeded** (연간 장비 성장률 전망 20%→30%+로 상향, 사상 최대 매출·25년 최고 마진 기록 확인, 2026-06-02)
+- [x] **2026-05-19**: Q3 가이던스 $8.95B — 실제 달성 및 첨단 패키징 +50% 성장 검증 → **on-track** (Mizuho·Deutsche Bank·Cantor 목표가 잇따라 상향, 2026-06-02)
+- [ ] **2026-06-02**: ASMPT NEXX $120M 인수 — 어드밴스드 패키징 시장 점유율 확대 여부 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -44,6 +45,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-02
+
+**narrative_score**: +0.39 (강한 긍정)
+**key_events**: 분기 사상 최대 매출·25년 최고 총마진, 연간 장비 성장률 전망 30%+ 상향, ASMPT NEXX $120M 인수
+**risks**: 고밸류에이션 (시총 ~$357B), 중국 수출 규제 강화 시 WFE 수요 타격
+
+> [!claim] (출처: Let's Data Science, 2026-05-29) 분기 사상 최대 매출·25년 최고 총마진 달성
+> CEO: 반도체 장비 사업 2026년 성장률 전망 20%→30%+ 상향. impact: + / category: earnings
+
+> [!claim] (출처: CNBC, 2026-05-30) Mizuho $540, Deutsche Bank $550, Cantor $575 목표가 상향
+> 3개 기관 동시 목표가 상향 — AI 투자 사이클 최대 수혜주 재확인. impact: + / category: other
+
+> [!claim] (출처: Yahoo Finance, 2026-04-30) ASMPT NEXX $120M 인수 — 어드밴스드 패키징 강화
+> Asm Assembly Systems에서 NEXX 인수. HBM 패키징 수요 대응 역량 강화. impact: + / category: m&a
+
+**경쟁사 동향**:
+- LRCX: Q3 FY2026 사상 최대 $58.4억·WFE 전망 $1,400억 상향 — 동일 장비 사이클 수혜 (impact for AMAT: +)
+- ASML: Q1 High-NA EUV 수주 급증 — 전공정 투자 사이클 강세 공유 (impact for AMAT: +)
 
 ### 2026-05-19
 

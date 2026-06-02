@@ -1,7 +1,7 @@
 ---
 title: "TSM - Taiwan Semiconductor Mfg. — Routine News Log"
 created: 2026-05-19
-updated: 2026-05-19
+updated: 2026-06-02
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,8 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-19**: A13/A12/N2U 공정 로드맵 — 경쟁사 대비 선단공정 격차 유지 (pending)
 - [ ] **2026-05-19**: AI/HPC 매출 비중 61% — 분기별 추가 확대 가능성 (pending)
+- [ ] **2026-06-02**: 3nm 공정 가격 15% 인상 — 고객사 반발 없이 실행 여부 (7일 검증 대기)
+- [ ] **2026-06-02**: NVDA 대만 투자 확대 — 구체적 파운드리 수주 증가로 이어질지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -35,6 +37,8 @@ sources: []
 ## 사실 누적 (Verified Facts)
 
 <!-- FACTS_START -->
+> [!fact] TSMC 3nm 공정 가격 2H26 최대 15% 인상 계획
+> Bloomberg 보도 (2026-05-31). 추가 5~10% 인상도 검토 중. CEO CC Wei 직원 이익공유 보너스 30%+ 인상 발표.
 <!-- FACTS_END -->
 
 ---
@@ -42,6 +46,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-02
+
+**narrative_score**: +0.41 (강한 긍정)
+**key_events**: NVDA 대만 투자 확대 발표로 4.8% 급등, 3nm 공정 가격 최대 15% 인상 계획, 직원 보너스 30%+ 인상
+**risks**: 지정학적 리스크 (미중 긴장), 7월 16일 실적 발표 전 가이던스 불확실성
+
+> [!claim] (출처: Investing.com, 2026-06-02) NVDA 대만 투자 확대 발표 후 +4.8% 급등
+> 젠슨 황이 COMPUTEX에서 대만 연간 투자 극적 확대 발표 — TSMC 주요 수혜. impact: + / category: other
+
+> [!claim] (출처: Bloomberg, 2026-05-31) 3nm 공정 가격 2H26 최대 15% 인상
+> 선단공정 가격 결정력 확인 — ASP 및 수익성 동반 상승 기대. impact: + / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-06-01) CEO CC Wei: 직원 이익공유 보너스 평균 30%+ 인상
+> 실적 호조 반영한 보너스 상향 — 내부 지속 성장 자신감 신호. impact: + / category: other
+
+**경쟁사 동향**:
+- NVDA: COMPUTEX 투자 확대 발표 — TSMC 최선단 공정 수요 장기화 확신 (impact for TSM: ++)
+- INTC: 18A 공정 경쟁력 불확실 — TSMC 첨단공정 독점 지위 강화 (impact for TSM: +)
 
 ### 2026-05-19
 

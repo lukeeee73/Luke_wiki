@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-06-01
+updated: 2026-06-02
 domain: finance
 type: index
 weight: reference
@@ -52,16 +52,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [NVDA](NVDA - NVIDIA Corporation.md) | — | — | — | — |
-| [AMD](AMD - Advanced Micro Devices.md) | — | — | — | — |
-| [INTC](INTC - Intel Corporation.md) | — | — | — | — |
-| [QCOM](QCOM - QUALCOMM Incorporated.md) | — | — | — | — |
-| [TSM](TSM - Taiwan Semiconductor Mfg.md) | — | — | — | — |
-| [ASML](ASML - ASML Holding NV.md) | — | — | — | — |
-| [AMAT](AMAT - Applied Materials.md) | — | — | — | — |
-| [LRCX](LRCX - Lam Research Corp.md) | — | — | — | — |
-| [AVGO](AVGO - Broadcom Inc.md) | — | — | — | — |
-| [MU](MU - Micron Technology.md) | — | — | — | — |
+| [NVDA](NVDA - NVIDIA Corporation.md) | 2026-06-02 | +0.50 | COMPUTEX Vera Rubin CPU·RTX Spark 발표, 주주환원 FCF 50%+, TSMC 파트너십 심화 | 2 |
+| [AMD](AMD - Advanced Micro Devices.md) | 2026-06-02 | +0.16 | NVDA RTX Spark 발표로 4% 급락, Q2 가이던스 $11.2B(+45% YoY) TD Cowen $600 상향 | 3 |
+| [TSM](TSM - Taiwan Semiconductor Mfg.md) | 2026-06-02 | +0.41 | NVDA 대만 투자 확대로 4.8% 급등, 3nm 공정 가격 15% 인상, 직원 보너스 30%+ | 4 |
+| [AVGO](AVGO - Broadcom Inc.md) | 2026-06-02 | +0.39 | 6/3 Q2 실적 발표·AI 수주잔고 $73B, 알파벳 $80B 인프라 투자 수혜, WF $545 상향 | 3 |
+| [INTC](INTC - Intel Corporation.md) | 2026-06-02 | -0.20 | COMPUTEX Xeon 6+ 발표 → 4.67% 급락, NVDA RTX Spark AI PC 직격탄 | 3 |
+| [QCOM](QCOM - QUALCOMM Incorporated.md) | 2026-06-02 | -0.22 | NVDA RTX Spark(100+ TOPS)으로 Snapdragon 위협 → 8.78% 급락, 6/24 인베스터 데이 | 4 |
+| [ASML](ASML - ASML Holding NV.md) | 2026-06-02 | +0.33 | 4.7% 상승·연초 +53%, Q1 €103억·마진 53%, UBS €1,900 상향 | 3 |
+| [AMAT](AMAT - Applied Materials.md) | 2026-06-02 | +0.39 | 사상 최대 매출·25년 최고 마진, 연간 장비 성장률 30%+ 상향, ASMPT NEXX $120M 인수 | 3 |
+| [LRCX](LRCX - Lam Research Corp.md) | 2026-06-02 | +0.40 | COMPUTEX 후 4.8% 급등·52주 신고가, Q3 FY26 사상 최대 $5.84B, WFE $1,400억 상향 | 3 |
+| [MU](MU - Micron Technology.md) | 2026-06-02 | +0.47 | HBM4 2026년 전량 매진·시총 $1조 돌파, 주가 +231% YTD, 6/24 Q3 실적 발표 | 3 |
 
 ### 자동차 / 모빌리티
 
@@ -206,6 +206,26 @@ sources: []
 | [042660.KS](042660.KS - Hanwha Ocean Co.md) | — | — | — | — |
 | [010140.KS](010140.KS - Samsung Heavy Industries.md) | — | — | — | — |
 | [010620.KS](010620.KS - HMM Co.md) | — | — | — | — |
+
+## 오늘의 시그널 (2026-06-02 · 화요일 · 반도체)
+
+루틴은 다음 패턴을 감지하면 이 섹션에 기록한다:
+
+- **연속성**: 같은 테마가 3 일 이상 연속 등장 (예: 비만치료제 임상 데이터 연속)
+- **모순**: 같은 종목 어제/오늘 narrative 가 반대 방향
+- **섹터 동기화**: 3 종목 이상이 같은 매크로 이슈 (예: 관세, FOMC, 유가, 비만치료제, 데이터센터 전력) 로 동시 움직임
+- **섹터간 전파**: 한 섹터의 충격이 다른 섹터로 번지는 패턴 (예: AI capex → 반도체 + 데이터센터 REIT + 유틸리티 동시 수혜)
+
+### 감지된 패턴 (2026-06-02 · 화요일 · 반도체)
+
+- **섹터 동기화 (COMPUTEX 2026 + AI 사이클)**: NVDA +0.50 / TSM +0.41 / LRCX +0.40 / AVGO +0.39 / AMAT +0.39 / ASML +0.33 / MU +0.47 — 7종목이 COMPUTEX 2026과 AI 인프라 확장 테마로 동반 강세. 젠슨 황의 COMPUTEX 키노트가 전체 반도체 공급망(파운드리·장비·메모리)에 연쇄 긍정 시그널.
+- **섹터 동기화 (NVDA RTX Spark 충격파)**: QCOM -0.22 / INTC -0.20 / AMD +0.16 — NVDA의 AI PC 슈퍼칩 RTX Spark(100+ TOPS) 발표가 QCOM(-8.78%)·INTC(-4.67%) 동반 급락 촉발. AMD도 4% 급락. AI PC 시장 주도권이 CPU/모바일칩에서 NVDA GPU로 이동하는 구조 변화 신호.
+- **섹터간 전파**: NVDA AI 가속기 수요 확대 선언 → TSMC(파운드리 수혜), LRCX·AMAT·ASML(장비 사이클 상향), MU(HBM 수요 직결) — 반도체 밸류체인 전체에 COMPUTEX 효과 동시 침투.
+- **최고 신호**: NVDA +0.50 — COMPUTEX 키노트(Vera Rubin CPU + RTX Spark) + 주주환원 FCF 50%+ + TSMC 파트너십 심화 삼중 호재. MU +0.47 — HBM4 전량 매진·시총 $1조 돌파·6/24 Q3 실적 기대 삼중 강세.
+- **경고 신호**: QCOM -0.22 — NVDA RTX Spark이 Snapdragon X Elite(45 TOPS) 대비 2배 이상 성능 우위 부각으로 AI PC 시장 지위 흔들림. INTC -0.20 — COMPUTEX에서 Xeon 6+ 발표에도 시장 실망, PC·서버 양면 압박 지속.
+- **주목 이벤트**: AVGO Q2 FY2026 실적 내일(6/3) 발표 — AI 수주잔고 $73B 확인 여부가 반도체 섹터 전반 센티멘트에 영향 예상. QCOM 6월 24일 인베스터 데이(Dragonfly 세부 발표)도 단기 변수.
+
+---
 
 ## 오늘의 시그널 (2026-05-18 · 월요일 · 빅테크 / 소프트웨어)
 

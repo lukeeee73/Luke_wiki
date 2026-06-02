@@ -1,7 +1,7 @@
 ---
 title: "AMD - Advanced Micro Devices — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-19
+updated: 2026-06-02
 domain: finance
 type: claim
 weight: reference
@@ -26,8 +26,9 @@ CPU(컴퓨터 두뇌)와 GPU(그래픽 처리 장치) 모두를 만드는 반도
 ## 미해결 가설 (Open Claims)
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-19**: Q1 데이터센터 $5.8B (+57%) 성장 — Q2도 유지 가능한지 (pending)
+- [x] **2026-05-19**: Q1 데이터센터 $5.8B (+57%) 성장 — Q2도 유지 가능한지 → **on-track** (Q2 가이던스 $11.2B +45% YoY로 컨센서스 초과, 2026-06-02 확인)
 - [ ] **2026-05-19**: MI450 AI 칩 H2 2026 출시 — NVDA Blackwell 대비 경쟁력 검증 (pending)
+- [ ] **2026-06-02**: NVDA RTX Spark AI PC 공세 — AMD GPU 시장 점유율 영향 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -44,6 +45,25 @@ CPU(컴퓨터 두뇌)와 GPU(그래픽 처리 장치) 모두를 만드는 반도
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-02
+
+**narrative_score**: +0.16 (약한 긍정)
+**key_events**: NVDA RTX Spark 발표 후 주가 4%+ 급락, Q2 가이던스 $11.2B(+45% YoY), TD Cowen 목표가 $600 상향
+**risks**: NVDA AI PC 슈퍼칩으로 GPU 시장 점유율 위협, INTC 반등 시 서버 CPU 경쟁 재점화
+
+> [!claim] (출처: GuruFocus, 2026-06-01) AMD 주가 NVDA RTX Spark 발표 후 4%+ 급락
+> NVDA 슈퍼칩 발표로 AI PC 시장 경쟁 격화 — AMD 방어 포지션 필요. impact: - / category: product
+
+> [!claim] (출처: CNBC, 2026-05-06) Q2 FY2026 가이던스 $11.2B (+45% YoY)
+> 컨센서스 $10.5B 대폭 상회. 에이전틱 AI 수요 급증이 데이터센터 드라이브. impact: + / category: earnings
+
+> [!claim] (출처: CNBC, 2026-06-01) TD Cowen 목표가 $500→$600 상향
+> 경영진 미팅 후 Buy 유지, 데이터센터 AI 수요 강세 근거. impact: + / category: other
+
+**경쟁사 동향**:
+- NVDA: RTX Spark(100+ TOPS)로 AI PC 시장 공략 — AMD·QCOM 방어 필요 (impact for AMD: -)
+- INTC: Xeon 6+ 발표 후 4.67% 급락 — AMD EPYC 서버 CPU 점유율 확대 지속 (impact for AMD: +)
 
 ### 2026-05-19
 
