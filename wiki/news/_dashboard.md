@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-06-02
+updated: 2026-06-03
 domain: finance
 type: index
 weight: reference
@@ -67,16 +67,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [TSLA](TSLA - Tesla Inc.md) | — | — | — | — |
-| [TM](TM - Toyota Motor Corporation.md) | — | — | — | — |
-| [F](F - Ford Motor Company.md) | — | — | — | — |
-| [GM](GM - General Motors Company.md) | — | — | — | — |
-| [STLA](STLA - Stellantis NV.md) | — | — | — | — |
-| [HMC](HMC - Honda Motor Co.md) | — | — | — | — |
-| [RIVN](RIVN - Rivian Automotive.md) | — | — | — | — |
-| [NIO](NIO - NIO Inc.md) | — | — | — | — |
-| [005380.KS](005380.KS - Hyundai Motor Company.md) | — | — | — | — |
-| [000270.KS](000270.KS - Kia Corporation.md) | — | — | — | — |
+| [TSLA](TSLA - Tesla Inc.md) | 2026-06-03 | +0.10 | 유럽 5월 판매 급증·Q1+17%, 텍사스 로보택시 규제 강화 | 2 |
+| [TM](TM - Toyota Motor Corporation.md) | 2026-06-03 | -0.09 | 인증 위반으로 日 3개 차종 판매 중단, FY2026 실적 양호 | 2 |
+| [F](F - Ford Motor Company.md) | 2026-06-03 | -0.07 | 4월 판매 -14.4%, EV -31.1% — CMO 퇴임 겹침 | 2 |
+| [GM](GM - General Motors Company.md) | 2026-06-03 | +0.17 | 관세 대법원 수혜 가이던스 상향, Q1 EBIT $4.3B 견고 | 1 |
+| [STLA](STLA - Stellantis NV.md) | 2026-06-03 | -0.30 | 증권사기 집단소송 마감 임박 — 법적 리스크 최고조 | 2 |
+| [HMC](HMC - Honda Motor Co.md) | 2026-06-03 | +0.02 | 5월 미국 판매 +9.9%, Q4 FY2026 대규모 순손실 혼조 | 1 |
+| [RIVN](RIVN - Rivian Automotive.md) | 2026-06-03 | +0.30 | R2 배송 6/9 시작 + VW 15.9% 지분 — 10거래일 연속 상승 | 3 |
+| [NIO](NIO - NIO Inc.md) | 2026-06-03 | +0.20 | 5월 인도 +62.3%, ONVO L80 출시, Q2 110k-115k 가이던스 | 2 |
+| [005380.KS](005380.KS - Hyundai Motor Company.md) | 2026-06-03 | -0.05 | 5월 판매 -7.7% 내수 약세, $200억 미국 투자 발표 예정 | 2 |
+| [000270.KS](000270.KS - Kia Corporation.md) | 2026-06-03 | +0.07 | U.S. News 최우수 EV 3종 수상, NVIDIA 자율주행 협력 | 1 |
 
 ### 바이오 / 제약 / 헬스케어
 
@@ -202,12 +202,12 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [329180.KS](329180.KS - HD Hyundai Heavy Industries.md) | — | — | — | — |
-| [042660.KS](042660.KS - Hanwha Ocean Co.md) | — | — | — | — |
-| [010140.KS](010140.KS - Samsung Heavy Industries.md) | — | — | — | — |
+| [329180.KS](329180.KS - HD Hyundai Heavy Industries.md) | 2026-06-03 | +0.33 | VLGC 8척 1.416조원 수주, 연간 목표 60.8% 조기 달성, KDDX 소송 | 2 |
+| [042660.KS](042660.KS - Hanwha Ocean Co.md) | 2026-06-03 | +0.13 | Leidos 미 해군 설계 협력, 캐나다 해군 MOU 체결 | 2 |
+| [010140.KS](010140.KS - Samsung Heavy Industries.md) | 2026-06-03 | +0.25 | FDC 시장 선점 — Capital/LR MOU·Supermicro AI 서버 JDP | 2 |
 | [010620.KS](010620.KS - HMM Co.md) | — | — | — | — |
 
-## 오늘의 시그널 (2026-06-02 · 화요일 · 반도체)
+## 오늘의 시그널 (2026-06-03 · 수요일 · 자동차 / 모빌리티 + 조선 (한국))
 
 루틴은 다음 패턴을 감지하면 이 섹션에 기록한다:
 
@@ -215,6 +215,18 @@ sources: []
 - **모순**: 같은 종목 어제/오늘 narrative 가 반대 방향
 - **섹터 동기화**: 3 종목 이상이 같은 매크로 이슈 (예: 관세, FOMC, 유가, 비만치료제, 데이터센터 전력) 로 동시 움직임
 - **섹터간 전파**: 한 섹터의 충격이 다른 섹터로 번지는 패턴 (예: AI capex → 반도체 + 데이터센터 REIT + 유틸리티 동시 수혜)
+
+### 감지된 패턴 (2026-06-03 · 수요일 · 자동차 / 모빌리티 + 조선 (한국))
+
+- **섹터 양극화 (EV 수요 분화)**: RIVN +0.30 / NIO +0.20 / TSLA +0.10 (신규 EV 상승) vs F -0.07 / TM -0.09 / STLA -0.30 (전통 완성차 하락) — EV 모멘텀 스타트업과 전통 완성차의 센티멘트 격차 심화. RIVN R2 출시가 EV 스타트업 구심점.
+- **섹터 동기화 (규제·법적 리스크)**: TM 인증 위반(일본 3개 차종 판매 중단) + STLA 증권사기 소송 — 완성차 양대 리스크가 동시에 터짐. 브랜드 신뢰도 이슈의 실질적 영향 30일 추적 필요.
+- **섹터간 전파 (AI → 자동차 + 조선)**: NVIDIA DRIVE Hyperion 협력이 현대차·기아 동시 언급 → 조선 010140.KS는 Supermicro AI 서버 JDP → AI capex 파급 효과가 자동차·조선 양 섹터로 확산.
+- **조선 섹터 동기화 (방산·신사업)**: 329180.KS VLGC 수주 + 포시도니아 MOU, 042660.KS 미국·캐나다 해군 MOU, 010140.KS FDC 3자 MOU — K-조선 빅3 모두 포시도니아 2026을 계기로 방산·신사업 동시 확장.
+- **최고 신호**: 329180.KS +0.33 — 연간 목표 60.8% 5개월 달성 + 포시도니아 해군 MOU 겹침. RIVN +0.30 — R2 출시 D-6일 + VW 전략 투자 복합 호재.
+- **경고 신호**: STLA -0.30 — 증권사기 소송 마감으로 법적 리스크 최고조. F -0.07 — 4월 EV 판매 -31% 붕괴로 EV 전환 전략 재점검 필요.
+- **주목 이벤트**: RIVN R2 인도 시작(6월 9일) — 실제 인도량이 모멘텀 지속의 핵심. 현대차 $200억 미국 투자 공식 발표 일정 (미정). TM 인증 위반 추가 모델 확산 여부.
+
+---
 
 ### 감지된 패턴 (2026-06-02 · 화요일 · 반도체)
 

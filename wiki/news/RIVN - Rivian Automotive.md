@@ -1,7 +1,7 @@
 ---
 title: "RIVN - Rivian Automotive, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-06-03
 domain: finance
 type: claim
 weight: reference
@@ -27,9 +27,11 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] R2 실제 인도량 (6월 9일 이후, 30일 검증 대기, 등록: 2026-06-03)
+- [ ] 추가 플랫폼 라이선싱 계약 파트너 공개 (60일 검증 대기)
+- [ ] 2026년 연간 인도 가이던스 62,000–67,000대 달성 여부 (연말 검증)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +41,11 @@ _(루틴 첫 실행 전 — 비어 있음)_
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] 폭스바겐, RIVN 클래스A 신규 주식 6,289만주 취득 → 15.9% 지분 (Rivian/VW 공동 발표, 2026-06-01)
+
+> [!fact] R2 배송 개시일: 2026년 6월 9일 (Rivian IR, 2026-06-03)
+
+> [!fact] 2026년 인도 가이던스 62,000–67,000대로 상향 (Rivian IR, Q1 2026 results)
 <!-- FACTS_END -->
 
 ---
@@ -46,5 +53,25 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+### 2026-06-03 (수) — narrative_score: +0.30
+
+> [!claim] R2 출시 임박
+> 리비안 R2 대중형 SUV 6월 9일 인도 시작, 약 $45k부터 — TSLA Model Y 직접 경쟁 (출처: StockTwits, 2026-06-03)
+
+> [!claim] 폭스바겐 전략 투자
+> 폭스바겐, RIVN 클래스A 신규 주식 6,289만주 취득, 15.9% 지분 확보 (출처: StocksToTrade, 2026-06-01)
+
+> [!claim] CFO 추가 라이선싱 예고
+> 10거래일 연속 상승 속 CFO, 추가 플랫폼 라이선싱 계약 예고 (출처: StockTwits, 2026-06-03)
+
+> [!claim] 애널리스트 반응
+> CFRA 매수 유지·목표가 $22 상향; DA Davidson 중립·$15 유지 (출처: StocksToTrade, 2026-06-03)
+
+**narrative_score**: +0.30 (earnings_outlook: +0.40, competitive_position: +0.50, regulatory_risk: 0.00, macro_sensitivity: +0.10)
+
+**key_events**: R2 배송 6월 9일 시작, 폭스바겐 15.9% 지분 취득, 10거래일 연속 상승, CFO 라이선싱 계약 예고
+
+**risks**: R2 가격 높다는 일부 분석(DA Davidson), 대규모 현금 소진 지속, 실제 인도량 가이던스 충족 여부
+
+---
 <!-- DAILY_END -->
