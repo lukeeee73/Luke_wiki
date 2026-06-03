@@ -1,7 +1,7 @@
 ---
 title: "STLA - Stellantis N.V — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-06-03
 domain: finance
 type: claim
 weight: reference
@@ -27,9 +27,10 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] 증권사기 집단소송 법원 수리 여부 및 규모 (60일 검증 대기, 등록: 2026-06-03)
+- [ ] 뮐루즈 €1B 투자 확정 및 착공 일정 (2028년 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +40,7 @@ _(루틴 첫 실행 전 — 비어 있음)_
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] 2026-02-06 STLA 주가 $2.26(-23.7%) 하락, 복수 법무법인 집단소송 착수 (GlobeNewswire/복수 확인, 2026-06-01)
 <!-- FACTS_END -->
 
 ---
@@ -46,5 +48,19 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+### 2026-06-03 (수) — narrative_score: -0.30
+
+> [!claim] 집단소송 리스크
+> 증권사기 집단소송 신청 마감 임박 — 2026-02-06 주가 23.7% 급락 사건 관련 다수 로펌 참여 (출처: GlobeNewswire, 2026-06-01)
+
+> [!claim] EV 투자 발표
+> 프랑스 뮐루즈 공장에 €1B 투자, 2029년부터 푸조 EV/하이브리드 3종 생산 예정 (출처: StockAnalysis, 2026-06-02)
+
+**narrative_score**: -0.30 (earnings_outlook: -0.40, competitive_position: -0.10, regulatory_risk: -0.50, macro_sensitivity: -0.10)
+
+**key_events**: 증권사기 집단소송 마감 임박, 프랑스 €1B EV/하이브리드 투자 발표
+
+**risks**: 집단소송 판결 시 대규모 배상 가능성, CEO 부재 이후 전략 불확실성, EV 전환 재원 부담
+
+---
 <!-- DAILY_END -->
