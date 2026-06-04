@@ -1,7 +1,7 @@
 ---
 title: "ABT - Abbott Laboratories — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-06-04
 domain: finance
 type: claim
 weight: reference
@@ -27,9 +27,10 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] Exact Sciences 인수 시너지(Cologuard + Freestyle Libre)가 2026 매출에 의미 있게 기여할 것인가? (H2 2026 실적 확인)
+- [ ] 이중 포도당·케톤 CGM이 미국 FDA 승인을 받을 것인가? (기한: 2026-12-31)
+- [ ] 영양 사업 부진이 2026 전체 성장률 발목을 잡을 것인가? (연간 실적 시 확인)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +40,11 @@ _(루틴 첫 실행 전 — 비어 있음)_
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] ABT, 이중 포도당·케톤 감지 CGM EU CE 마크 획득 (QuiverQuant, Yahoo Finance 2건 확인)
+> 출처: QuiverQuant, Yahoo Finance (2026-06-04)
+
+> [!fact] ABT Exact Sciences 인수 2026-03-23 완료 (QuiverQuant, 2026-06-04)
+> 암 진단(Cologuard) 역량 추가. 헬스케어 포트폴리오 다각화.
 <!-- FACTS_END -->
 
 ---
@@ -46,5 +52,21 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+
+### 2026-06-04 (목) — narrative_score: +0.03
+
+**핵심 이벤트:** 이중 CGM EU CE 마크 획득, Exact Sciences 인수 완료, 주가 +4.4% 반등  
+**리스크:** 주가 1년 -33% 하락, 영양 사업 가이던스 부진
+
+> [!claim] 이중 포도당·케톤 CGM EU CE 마크 — 연속혈당측정기 플랫폼 고중증 당뇨로 확장 (QuiverQuant, 2026-06-04)
+> Freestyle Libre 브랜드 기반. 케톤 감지 추가로 DKA(당뇨병성 케산증) 예방 활용 가능.
+> ※ 미국 FDA 신청 여부가 다음 주요 이벤트.
+
+> [!claim] Exact Sciences 인수 완료(3/23) — 암 진단 역량 강화, 주가 오늘 +4.4% (QuiverQuant, 2026-06-04)
+> Cologuard(대장암 진단) 를 보유한 Exact Sciences 통합으로 ABT 진단 포트폴리오 확장.
+> ※ 통합 시너지는 H2 2026부터 가시화 예상.
+
+> [!claim] ABT 주가 1년 -33% — DCF 기준 내재가치($135) 대비 35% 할인 (Simply Wall St, MSN, 2026-06-04)
+> 내부자들이 저점에서 주식 매입 중이라는 보도. 저가 매력은 높으나 촉매 필요.
+
 <!-- DAILY_END -->
