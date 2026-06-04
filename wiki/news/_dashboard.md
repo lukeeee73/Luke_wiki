@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-06-03
+updated: 2026-06-04
 domain: finance
 type: index
 weight: reference
@@ -82,16 +82,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [LLY](LLY - Eli Lilly and Company.md) | — | — | — | — |
-| [NVO](NVO - Novo Nordisk AS.md) | — | — | — | — |
-| [JNJ](JNJ - Johnson and Johnson.md) | — | — | — | — |
-| [PFE](PFE - Pfizer Inc.md) | — | — | — | — |
-| [MRK](MRK - Merck and Co.md) | — | — | — | — |
-| [ABBV](ABBV - AbbVie Inc.md) | — | — | — | — |
-| [AZN](AZN - AstraZeneca PLC.md) | — | — | — | — |
-| [UNH](UNH - UnitedHealth Group.md) | — | — | — | — |
-| [TMO](TMO - Thermo Fisher Scientific.md) | — | — | — | — |
-| [ABT](ABT - Abbott Laboratories.md) | — | — | — | — |
+| [LLY](LLY - Eli Lilly and Company.md) | 2026-06-04 | +0.22 | M&A $10B+ 가속화·독일 투자 절반 삭감 — 미국 우선 전략 선명화 | 2 |
+| [NVO](NVO - Novo Nordisk AS.md) | 2026-06-04 | -0.07 | 경구형 위고비 UAE 론칭, 주가 1년 -38.9% 하락 지속 | 2 |
+| [JNJ](JNJ - Johnson and Johnson.md) | 2026-06-04 | +0.13 | 닙포칼리맙 Phase 2 SLE·쇼그렌증 성공, 64년 연속 배당 3.1% 인상 | 2 |
+| [PFE](PFE - Pfizer Inc.md) | 2026-06-04 | -0.02 | 350번째 연속 분기 배당, 2026년 20개 피벗 임상 계획 | 2 |
+| [MRK](MRK - Merck and Co.md) | 2026-06-04 | +0.11 | ASCO 흑색종 5년 데이터 긍정·$6.7B 인수, LITESPARK-012 실패 | 3 |
+| [ABBV](ABBV - AbbVie Inc.md) | 2026-06-04 | +0.15 | 아퀴프타 EU 편두통 승인, 골드만삭스 컨퍼런스 6/9 참가 | 2 |
+| [AZN](AZN - AstraZeneca PLC.md) | 2026-06-04 | -0.09 | 카미제스트란트 FDA 결정 연기·안셀라미맙 Phase 3 실패 | 2 |
+| [UNH](UNH - UnitedHealth Group.md) | 2026-06-04 | +0.09 | BofA·MS·Truist 동시 목표주가 $450+ 상향, 소송 재부상 | 2 |
+| [TMO](TMO - Thermo Fisher Scientific.md) | 2026-06-04 | -0.03 | Q1 컨센서스 초과·미생물학 사업부 $1.075B 매각, 가이던스 보수적 | 2 |
+| [ABT](ABT - Abbott Laboratories.md) | 2026-06-04 | +0.03 | 이중 CGM EU CE 마크·Exact Sciences 인수 완료, 주가 +4.4% | 3 |
 
 ### 에너지 / 원자재
 

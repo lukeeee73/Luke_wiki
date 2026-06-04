@@ -1,7 +1,7 @@
 ---
 title: "AZN - AstraZeneca PLC — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-06-04
 domain: finance
 type: claim
 weight: reference
@@ -27,9 +27,9 @@ sources: []
 
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
-_(루틴 첫 실행 전 — 비어 있음)_
-
 <!-- OPEN_CLAIMS_START -->
+- [ ] FDA가 카미제스트란트 재심에서 최종 승인할 것인가? (기한 미정, 결정 후 판정)
+- [ ] 안셀라미맙 CARES 실패가 AZN 항암 파이프라인 밸류에이션에 얼마나 영향을 주는가? (차기 실적 발표 시 확인)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +39,11 @@ _(루틴 첫 실행 전 — 비어 있음)_
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] FDA, 카미제스트란트 유방암 승인 결정 연기 — 자문위원회 부정적 투표 (AZN IR, TradingKey 2건 확인)
+> 출처: AstraZeneca IR, TradingKey (2026-06-01~02) — FDA 연기 공식 확인
+
+> [!fact] CARES Phase 3 프로그램 안셀라미맙 — 전체 환자군 1차 지표 미달 실패 (AZN IR, 2026-06-01)
+> 출처: AstraZeneca IR (2026-06-01)
 <!-- FACTS_END -->
 
 ---
@@ -46,5 +51,22 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+
+### 2026-06-04 (목) — narrative_score: -0.09
+
+**핵심 이벤트:** 카미제스트란트 FDA 결정 연기, CARES Phase 3 실패, SERENA-6 긍정  
+**리스크:** 유방암 신약 FDA 재심 불확실, 파이프라인 실패 중복
+
+> [!claim] FDA, 카미제스트란트 유방암 결정 연기 — 자문위원회 부정적 투표 후 (AZN IR, 2026-06-02)
+> 자문위 부결 후 FDA가 추가 검토 결정. 승인 일정 재설정 필요.
+> ※ SERENA-6 Phase 3 긍정 결과가 있어 자료 보완 가능하나 시간 소요.
+
+> [!claim] CARES Phase 3 안셀라미맙 전체 환자군 1차 지표 미달 (AZN IR, 2026-06-01)
+> 특정 환자 부분집합에서만 일부 신호 — 전체 적응증 신청 불가.
+> ※ 항암 파이프라인 실패가 이달에 2건 겹치는 점이 우려.
+
+> [!claim] SERENA-6 Phase 3 — 카미제스트란트+CDK4/6 억제제 병용 유방암 효능 유지 (TradingKey, 2026-06-01)
+> 기존 1차 치료 후 진행한 환자 대상 2차 치료에서 긍정 신호.
+> ※ FDA 재심 자료로 활용 가능.
+
 <!-- DAILY_END -->
