@@ -1,7 +1,7 @@
 ---
 title: "DUK - Duke Energy Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-29
+updated: 2026-06-05
 domain: finance
 type: claim
 weight: reference
@@ -28,7 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-29**: 인디애나 18% 요금 인상 신청 — 규제 승인 결과 (pending)
+- [ ] **2026-05-29**: Q1 EPS 상회 + 인디애나 18% 요금 신청 — 요금 신청 승인 여부 (pending)
+- [ ] **2026-06-05**: AI 데이터센터 원전 공급 테크 기업 논의 — 계약 체결 여부 및 시점 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +46,23 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-05
+**narrative_score**: +0.08
+**key_events**: AI 데이터센터 신규 원전 건설 테크 기업 논의 중, Q1 조정 EPS $1.93 (+, 가이던스 재확인), 분기 배당 $1.065 6/16 지급
+**risks**: 신규 원전 건설 비용·일정 리스크, 금리 환경 유틸리티 밸류에이션 압박
+
+> [!claim] (Yahoo Finance, 2026-06-04) Duke Energy in Talks With Tech Companies to Build New Nuclear Power for AI Data Centers
+> AI 데이터센터 전력 수요 대응 신규 원전 건설 추진 — 테크 기업들과 비용 분담 논의 중. impact: + / category: other
+
+> [!claim] (Yahoo Finance, 2026-06-02) Duke Energy Q1 2026: Adjusted EPS $1.93, Revenue +11% YoY; 2026 Guidance Affirmed $6.55–$6.80
+> Q1 조정 EPS $1.93, 매출 +11% YoY. 2026 EPS 가이던스 $6.55~$6.80 재확인. impact: + / category: earnings
+
+> [!claim] (Duke Energy News Center, 2026-06-04) Duke Energy Declares $1.0650 Quarterly Dividend Payable June 16
+> 분기 배당 $1.065/주 선언, 6월 16일 지급. 배당수익률 약 3.5%. impact: + / category: earnings
+
+**경쟁사 동향**:
+- CEG: 이미 MSFT·Meta 5,650MW 원전 PPA 선점 — DUK는 계약 확보 시 주가 재평가
+
 ### 2026-05-29
 **narrative_score**: +0.13
 **key_events**: Q1 조정 EPS $1.76 (컨센서스 상회), $1022억 2030년 자본투자 계획, 인디애나 18% 요금 인상 신청

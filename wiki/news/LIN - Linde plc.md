@@ -1,7 +1,7 @@
 ---
 title: "LIN - Linde plc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-29
+updated: 2026-06-05
 domain: finance
 type: claim
 weight: reference
@@ -28,7 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-29**: 2026 EPS 가이던스 $17.60-$17.90 달성 여부 (pending)
+- [ ] **2026-05-29**: Q1 EPS +10% YoY + 가이던스 상향 — 연간 가이던스 컨센서스 상회 여부 (pending, 현재 소폭 하회)
+- [ ] **2026-06-05**: 삼성 반도체 팹 계약 — 착공 및 가스 공급 개시 일정 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +46,23 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-05
+**narrative_score**: +0.17
+**key_events**: Q1 EPS $4.33 (+10% YoY, 컨센서스 상회), 배당 7% 인상 $1.60 (33년 연속 증가), 삼성 한국 반도체 팹 산업가스 계약 (최대 반도체 딜)
+**risks**: 연간 가이던스 $17.60-$17.90이 컨센서스 $17.84 소폭 하회, 헬륨 가격 하락 가능성
+
+> [!claim] (Yahoo Finance, 2026-06-01) Linde Q1 2026 Adjusted EPS +10% YoY to $4.33, Beats Consensus by $0.06
+> Q1 조정 EPS $4.33 (+10% YoY), 팩트셋 컨센서스 $0.06 상회. 매출 $8.781B, 순이익 $1.857B. impact: + / category: earnings
+
+> [!claim] (StockTitan, 2026-06-02) Linde Raises Quarterly Dividend 7% to $1.60/Share — 33rd Consecutive Annual Increase
+> 분기 배당 7% 인상 $1.60/주 (6/18 지급) — 33년 연속 배당 증가. impact: + / category: earnings
+
+> [!claim] (Simply Wall St, 2026-06-03) Linde Secures Samsung South Korea Semiconductor Fab Contract — Largest Semiconductor Deal
+> 삼성 반도체 한국 신규 팹 가스 생산시설 구축·소유·운영 계약 — LIN 최대 반도체 투자. impact: + / category: other
+
+**경쟁사 동향**:
+- APD: 삼성 반도체 공급 계약 확보 — AI 반도체 인프라 산업가스 시장 양분
+
 ### 2026-05-29
 **narrative_score**: +0.18
 **key_events**: Q1 EPS $4.33 (+10% YoY), 연간 가이던스 상향 ($17.60-17.90), 전자 사업 +10%, RBC PT $552 상향

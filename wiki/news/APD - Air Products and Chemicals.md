@@ -1,7 +1,7 @@
 ---
 title: "APD - Air Products & Chemicals — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-29
+updated: 2026-06-05
 domain: finance
 type: claim
 weight: reference
@@ -28,7 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-29**: NEOM 그린수소 프로젝트 2026년 말 그린암모니아 생산 목표 — 실현 여부 (pending)
+- [ ] **2026-05-29**: 미국 3개 프로젝트 철수 ($31억 손상) 후 포트폴리오 재편 효과 — Q2 이후 마진 개선 여부 (pending)
+- [ ] **2026-06-05**: 웰스파고 Overweight 상향 — $325 목표가 도달 시점 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +46,23 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-05
+**narrative_score**: +0.17
+**key_events**: 회계Q2 EPS +19% YoY, 연간 가이던스 $13.00-$13.25 상향, 웰스파고 Overweight 상향 (목표가 $325), $70M 미주리 최대 단일 사이트 확장
+**risks**: 헬륨 가격 하락 중기 도전, NEOM 그린수소 프로젝트 일정 지연 리스크
+
+> [!claim] (Yahoo Finance, 2026-06-02) Air Products Fiscal Q2 Adjusted EPS +19% YoY; Sales +9%; FY2026 EPS Guidance Raised to $13.00–$13.25
+> 회계Q2 조정 EPS +19% YoY, 매출 +9% YoY. FY2026 연간 EPS 가이던스 $13.00~$13.25로 상향. impact: + / category: earnings
+
+> [!claim] (Yahoo Finance, 2026-06-03) Wells Fargo Upgrades APD to Overweight, Sets $325 Price Target
+> 웰스파고 Overweight 상향, 목표가 $325 — 화학체인 가격 상승여력과 2H 2026 개선 전망. impact: + / category: other
+
+> [!claim] (Simply Wall St, 2026-06-04) Air Products $70M Missouri Manufacturing & Logistics Center Expansion — Largest Single-Site Investment
+> 미주리 제조·물류 센터 $7천만 확장 — 바이오가스·수소·항공우주·해양연료 수요 대응. impact: + / category: other
+
+**경쟁사 동향**:
+- LIN: 삼성 반도체 팹 공급 확보 — AI 반도체 산업가스 수요 공동 수혜 확인
+
 ### 2026-05-29
 **narrative_score**: -0.08
 **key_events**: 미국 3개 프로젝트 철수 ($31억 손상), NEOM 그린수소 80% 완공, 신임 CEO Bernstein 컨퍼런스 발표

@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-06-04
+updated: 2026-06-05
 domain: finance
 type: index
 weight: reference
@@ -97,16 +97,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [XOM](XOM - Exxon Mobil Corporation.md) | 2026-05-29 | +0.08 | Q1 컨센서스 상회 + 베네수엘라 복귀 협상 + Barclays $182 상향 | 1 |
-| [CVX](CVX - Chevron Corporation.md) | 2026-05-29 | +0.10 | Q1 강세 + 지중해 가스전 진출 + 이사 $7300만 블록 매도 | 1 |
-| [COP](COP - ConocoPhillips.md) | 2026-05-29 | -0.05 | 연간 생산가이던스 하향 수정 (-3.4%) | 1 |
-| [SHEL](SHEL - Shell plc.md) | 2026-05-29 | +0.15 | Q1 조정이익 $69억 + 배당 5% 인상 + LNG 캐나다 램프업 | 1 |
-| [OXY](OXY - Occidental Petroleum.md) | 2026-05-29 | +0.10 | Q1 생산·FCF 상회 + Barclays Hold→Buy + PT $75 | 1 |
-| [SLB](SLB - Schlumberger Limited.md) | 2026-05-29 | -0.13 | 차기 EPS -28% YoY + 유가 하락 -3.4% | 1 |
-| [FCX](FCX - Freeport-McMoRan.md) | 2026-05-29 | +0.15 | Barclays OW 신규 개시 + 구리 EV·재생에너지 수요 강세 | 1 |
-| [NEM](NEM - Newmont Corporation.md) | 2026-05-29 | -0.03 | 2026 생산량 하락 + 비용 상승 vs 금값 $3,000 유지 | 1 |
-| [LIN](LIN - Linde plc.md) | 2026-05-29 | +0.18 | Q1 EPS +10% YoY + 가이던스 상향 + 전자 가스 강세 | 1 |
-| [APD](APD - Air Products and Chemicals.md) | 2026-05-29 | -0.08 | 미국 3개 프로젝트 철수 ($31억 손상) vs NEOM 80% 완공 | 1 |
+| [XOM](XOM - Exxon Mobil Corporation.md) | 2026-06-05 | +0.10 | 텍사스 본거지 이전 + 가이아나 900k bpd 기록 + OPEC+ 6/7 증산 경계 | 2 |
+| [CVX](CVX - Chevron Corporation.md) | 2026-06-05 | -0.05 | 싱가포르 정제 매각 $21.7억 + 가스 비중 확대 vs 호르무즈 직격탄 | 2 |
+| [COP](COP - ConocoPhillips.md) | 2026-06-05 | -0.03 | 생산 가이던스 1.5% 하향 + 포트아서 LNG 첫 생산 임박 | 2 |
+| [SHEL](SHEL - Shell plc.md) | 2026-06-05 | +0.01 | 자사주 매입 지속 + Q1 배당 $0.3906 + Buy 컨센서스 목표가 $99 | 2 |
+| [OXY](OXY - Occidental Petroleum.md) | 2026-06-05 | +0.05 | CEO 교체(Hollub→Jackson) + 멕시코만 Bandit 광구 석유 발견 | 2 |
+| [SLB](SLB - Schlumberger Limited.md) | 2026-06-05 | -0.05 | Tachyus AI 인수 + 30일 +15% vs Q2 EPS -28.4% YoY 예상 | 2 |
+| [FCX](FCX - Freeport-McMoRan.md) | 2026-06-05 | +0.04 | Grasberg 복구 지연 (-) + $3B 신용한도 + UBS $75 상향 (구리 낙관론) | 2 |
+| [NEM](NEM - Newmont Corporation.md) | 2026-06-05 | +0.24 | Q1 FCF $31억 기록 (금 $4,900/oz) + $60억 자사주매입 | 2 |
+| [LIN](LIN - Linde plc.md) | 2026-06-05 | +0.17 | Q1 EPS +10% + 배당 33년 연속 + 삼성 반도체 팹 최대 딜 | 2 |
+| [APD](APD - Air Products and Chemicals.md) | 2026-06-05 | +0.17 | Q2 EPS +19% YoY + 웰스파고 OW 상향 + 삼성 반도체 팹 계약 | 2 |
 
 ### 금융
 
@@ -187,16 +187,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [NEE](NEE - NextEra Energy.md) | 2026-05-29 | +0.18 | Dominion $4000억 합병 발표 — 세계 최대 규제 유틸리티 탄생 | 1 |
-| [SO](SO - The Southern Company.md) | 2026-05-29 | +0.10 | Q1 EPS 상회 + 가이던스 상향 + Vogtle 4호기 정격출력 | 1 |
-| [DUK](DUK - Duke Energy Corporation.md) | 2026-05-29 | +0.13 | Q1 EPS 상회 + $1022억 자본투자 + 인디애나 18% 요금 신청 | 1 |
-| [AEP](AEP - American Electric Power.md) | 2026-05-29 | +0.15 | Q1 EPS 상회 + 3GW 데이터센터 계약 + 가이던스 상향 | 1 |
-| [EXC](EXC - Exelon Corporation.md) | 2026-05-29 | 0.00 | Q1 EPS 컨센서스 부합 — 뚜렷한 촉매 없음 | 1 |
-| [CEG](CEG - Constellation Energy.md) | 2026-05-29 | +0.25 | Q1 EPS $3.68 대폭 상회 + Microsoft 20년 원자력 PPA 체결 | 1 |
-| [VST](VST - Vistra Corp.md) | 2026-05-29 | +0.20 | Q1 EBITDA 상회 + 가이던스 상향 + Energy Harbor 원자력 인수 완료 | 1 |
-| [SRE](SRE - Sempra.md) | 2026-05-29 | 0.00 | Q1 EPS 컨센서스 하회 + LNG 수출 용량 확대 승인 | 1 |
-| [ED](ED - Consolidated Edison.md) | 2026-05-29 | +0.08 | Q1 EPS 상회 + NYC 그리드 현대화 $7억 투자 | 1 |
-| [D](D - Dominion Energy.md) | 2026-05-29 | +0.15 | NEE와 합병 합의 (0.8138배) — 주가 합병 프리미엄 반영 | 1 |
+| [NEE](NEE - NextEra Energy.md) | 2026-06-05 | +0.03 | Dominion $670억 합병 + 고금리·희석 우려로 -13.7% | 2 |
+| [SO](SO - The Southern Company.md) | 2026-06-05 | -0.01 | 조지아파워 요금 인하 명령 vs Vogtle 3·4호기 정격 출력 | 2 |
+| [DUK](DUK - Duke Energy Corporation.md) | 2026-06-05 | +0.08 | AI 데이터센터 원전 공급 테크 협의 + Q1 EPS $1.93 | 2 |
+| [AEP](AEP - American Electric Power.md) | 2026-06-05 | +0.08 | Q1 EPS +7.3% YoY + $417억 4년 자본투자 (7.9% 요금기반 성장) | 2 |
+| [EXC](EXC - Exelon Corporation.md) | 2026-06-05 | -0.01 | PECO 요금 신청 철회 + 송전 $1.5B 증액 — 혼조 신호 | 2 |
+| [CEG](CEG - Constellation Energy.md) | 2026-06-05 | +0.09 | MSFT+Meta 5,650MW 원전 PPA + YTD -25% → 역발상 매력 | 2 |
+| [VST](VST - Vistra Corp.md) | 2026-06-05 | +0.10 | Meta 20년 PPA 2,600MW + 로터스 가스발전 7개 인수 | 2 |
+| [SRE](SRE - Sempra.md) | 2026-06-05 | +0.03 | Voss Capital Oncor 분리 촉구 — 구조적 가치 해제 잠재력 | 2 |
+| [ED](ED - Consolidated Edison.md) | 2026-06-05 | 0.00 | 의미있는 뉴스 없음 — 49년 배당 성장 안정 인컴주 | 1 |
+| [D](D - Dominion Energy.md) | 2026-06-05 | +0.08 | NEE 합병 발표 + 130GW AI 파이프라인 + 규제 승인이 관건 | 2 |
 
 ### 조선 (한국)
 
@@ -207,13 +207,20 @@ sources: []
 | [010140.KS](010140.KS - Samsung Heavy Industries.md) | 2026-06-03 | +0.25 | FDC 시장 선점 — Capital/LR MOU·Supermicro AI 서버 JDP | 2 |
 | [010620.KS](010620.KS - HMM Co.md) | — | — | — | — |
 
-## 오늘의 시그널 (2026-06-03 · 수요일 · 자동차 / 모빌리티 + 조선 (한국))
+## 오늘의 시그널 (2026-06-05 · 금요일 · 에너지 / 원자재 + 유틸리티 / 전력))
 
 루틴은 다음 패턴을 감지하면 이 섹션에 기록한다:
 
 - **연속성**: 같은 테마가 3 일 이상 연속 등장 (예: 비만치료제 임상 데이터 연속)
 - **모순**: 같은 종목 어제/오늘 narrative 가 반대 방향
 - **섹터 동기화**: 3 종목 이상이 같은 매크로 이슈 (예: 관세, FOMC, 유가, 비만치료제, 데이터센터 전력) 로 동시 움직임
+
+**2026-06-05 감지된 시그널:**
+
+- **섹터 동기화 (OPEC+ 위험)**: XOM, CVX, COP, SHEL, OXY — 6/7 OPEC+ 추가 증산 결정 가능성으로 에너지 5종목 동시 매크로 하방 압박.
+- **섹터 동기화 (AI 원전 PPA)**: CEG, VST, DUK — MSFT·Meta 원전 장기 계약과 AI 데이터센터 전력 수요가 유틸리티 섹터 새 성장 테마로 자리잡음.
+- **연속성 (NEE-D 합병)**: 2주 연속 NEE 합병 스토리가 NEE와 D 양쪽 모두에 등장 — 규제 승인이 핵심 관문으로 부각.
+- **모순 (NEM)**: 5월 29일 -0.03 (생산 하락·비용 우려) → 6월 5일 +0.24 (Q1 FCF $31억 기록) — 금값 $4,900 신고점이 비용 우려를 완전히 역전시킴.
 - **섹터간 전파**: 한 섹터의 충격이 다른 섹터로 번지는 패턴 (예: AI capex → 반도체 + 데이터센터 REIT + 유틸리티 동시 수혜)
 
 ### 감지된 패턴 (2026-06-03 · 수요일 · 자동차 / 모빌리티 + 조선 (한국))
@@ -239,13 +246,20 @@ sources: []
 
 ---
 
-## 오늘의 시그널 (2026-05-18 · 월요일 · 빅테크 / 소프트웨어)
+## 오늘의 시그널 (2026-06-05 · 금요일 · 에너지 / 원자재 + 유틸리티 / 전력)
 
 루틴은 다음 패턴을 감지하면 이 섹션에 기록한다:
 
 - **연속성**: 같은 테마가 3 일 이상 연속 등장 (예: 비만치료제 임상 데이터 연속)
 - **모순**: 같은 종목 어제/오늘 narrative 가 반대 방향
 - **섹터 동기화**: 3 종목 이상이 같은 매크로 이슈 (예: 관세, FOMC, 유가, 비만치료제, 데이터센터 전력) 로 동시 움직임
+
+**2026-06-05 감지된 시그널:**
+
+- **섹터 동기화 (OPEC+ 위험)**: XOM, CVX, COP, SHEL, OXY — 6/7 OPEC+ 추가 증산 결정 가능성으로 에너지 5종목 동시 매크로 하방 압박.
+- **섹터 동기화 (AI 원전 PPA)**: CEG, VST, DUK — MSFT·Meta 원전 장기 계약과 AI 데이터센터 전력 수요가 유틸리티 섹터 새 성장 테마로 자리잡음.
+- **연속성 (NEE-D 합병)**: 2주 연속 NEE 합병 스토리가 NEE와 D 양쪽 모두에 등장 — 규제 승인이 핵심 관문으로 부각.
+- **모순 (NEM)**: 5월 29일 -0.03 (생산 하락·비용 우려) → 6월 5일 +0.24 (Q1 FCF $31억 기록) — 금값 $4,900 신고점이 비용 우려를 완전히 역전시킴.
 - **섹터간 전파**: 한 섹터의 충격이 다른 섹터로 번지는 패턴 (예: AI capex → 반도체 + 데이터센터 REIT + 유틸리티 동시 수혜)
 
 ### 감지된 패턴 (2026-05-18 · 빅테크 / 소프트웨어)

@@ -1,7 +1,7 @@
 ---
 title: "SO - The Southern Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-29
+updated: 2026-06-05
 domain: finance
 type: claim
 weight: reference
@@ -28,7 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-29**: Vogtle 4호기 정격출력 달성 이후 데이터센터 전력 계약 체결 여부 (pending)
+- [ ] **2026-05-29**: Q1 EPS 상회 + Vogtle 4호기 정격출력 — 2026 전력 판매량 성장 여부 (pending)
+- [ ] **2026-06-05**: 조지아 파워 요금 인하 명령 — 매출 감소 규모 및 다음 요금 신청 시점 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +46,20 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-05
+**narrative_score**: -0.01
+**key_events**: 조지아 파워 요금 인하 명령 (규제 리스크), Vogtle 3·4호기 정격 출력 운전
+**risks**: 조지아 파워 요금 인하로 단기 매출 압박, 허리케인 시즌 인프라 리스크
+
+> [!claim] (Yahoo Finance, 2026-06-03) Georgia Power Rate Cut Ordered — Southern Company Faces Revenue Pressure
+> 조지아 파워 요금 인하 명령 — 규제 당국의 고객 부담 완화 정책으로 단기 매출 압박. impact: - / category: regulation
+
+> [!claim] (Yahoo Finance, 2026-06-02) Vogtle Nuclear Units 3 & 4 Operating at Full Power — Boosting Baseload Generation
+> 미국 최신 원전 Vogtle 3·4호기 정격 출력 운전 — 원자력 베이스로드 경쟁력 확보. impact: + / category: other
+
+**경쟁사 동향**:
+- DUK: AI 데이터센터 신규 원전 공급 논의 — SO도 Vogtle 활용 유사 계약 추진 가능
+
 ### 2026-05-29
 **narrative_score**: +0.10
 **key_events**: Q1 EPS $1.14 (컨센서스 상회), 2026 가이던스 $4.40-$4.52로 상향, Vogtle 4호기 정격출력 달성

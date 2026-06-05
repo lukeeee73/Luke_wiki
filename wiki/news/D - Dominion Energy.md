@@ -1,7 +1,7 @@
 ---
 title: "D - Dominion Energy, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-29
+updated: 2026-06-05
 domain: finance
 type: claim
 weight: reference
@@ -28,7 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-29**: NEE와 합병 합의 (0.8138배) — 규제 승인 결과 (pending)
+- [ ] **2026-05-29**: NEE와 합병 합의 (0.8138배) — 주가 합병 프리미엄 반영 (pending)
+- [ ] **2026-06-05**: NEE 주가 하락 (-13.7%) — 교환 가치 감소 시 D 주가 추가 조정 여부 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +46,23 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-05
+**narrative_score**: +0.08
+**key_events**: NEE $670억 합병 합의 (0.8138 NEE주, 발표 5/18), 130GW AI 데이터센터 대형 부하 파이프라인, D 주주: 현 배당 유지 + 마감 시 $3.6억 일회성 지급
+**risks**: 연방·주 규제 당국 승인 (역사상 최대 유틸리티 M&A), NEE 주가 하락으로 교환 가치 감소 가능
+
+> [!claim] (CNBC, 2026-05-18) NextEra Energy to Acquire Dominion Energy in $67B All-Stock Deal (0.8138 NEE Shares Per D Share)
+> NEE-D 합병 (0.8138 NEE주 교부). 세계 최대 규제 유틸리티 탄생, D 주주는 현 배당 지속 + 마감 시 $3.6억 일회성 지급. impact: + / category: m&a
+
+> [!claim] (Utility Dive, 2026-06-03) Dominion Energy: Combined Entity Would Have 130 GW Large-Load Pipeline for AI Data Centers
+> 합병 후 130GW 대형 부하 파이프라인 — AI 데이터센터 전력 공급 최대 유틸리티 포지셔닝. impact: + / category: m&a
+
+> [!claim] (Dominion Newsroom, 2026-05-18) Dominion Energy CEO Robert Blue to Lead Regulated Utilities Post-Merger; John Ketchum (NEE) as Combined CEO
+> 합병 완료 후 John Ketchum(NEE) 통합 CEO, Robert Blue(D)는 규제 유틸리티 사업 CEO로 잔류. impact: + / category: m&a
+
+**경쟁사 동향**:
+- NEE: 합병 발표 이후 주가 -13.7% — D 주주의 교환 가치에도 영향
+
 ### 2026-05-29
 **narrative_score**: +0.15
 **key_events**: NEE와 전액 주식 교환 합병 합의 (0.8138배), Q1 EPS $0.61 (컨센서스 상회)

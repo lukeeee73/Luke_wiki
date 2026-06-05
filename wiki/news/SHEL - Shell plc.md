@@ -1,7 +1,7 @@
 ---
 title: "SHEL - Shell plc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-29
+updated: 2026-06-05
 domain: finance
 type: claim
 weight: reference
@@ -28,7 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-29**: Pearl GTL Train2 손상 — 복구 일정 1년 내 완료 여부 (pending)
+- [ ] **2026-05-29**: LNG 캐나다 첫 화물 출하 (Q3 2026) — 실제 LNG 수익 기여 확인 여부 (pending)
+- [ ] **2026-06-05**: 5/7~7/24 자사주 매입 프로그램 완료 — 매입 규모 대비 주가 지지 효과 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +46,23 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-05
+**narrative_score**: +0.01
+**key_events**: 6/3 자사주 매입 1.1M주 LSE + 200k Chi-X, Q1 배당 $0.3906/주 6/29 지급 예정, 애널리스트 8명 전원 Buy 목표가 $99.04
+**risks**: 글로벌 원유 수요 둔화, 이란 휴전 시 LNG 가격 하락
+
+> [!claim] (StockTitan, 2026-06-03) Shell Buys Back 1.1M LSE + 200k Chi-X Shares on June 3 Under Ongoing Programme
+> 6월 3일 LSE 110만 주 + Chi-X 20만 주 자사주 매입 — 5/7~7/24 프로그램 지속. impact: + / category: earnings
+
+> [!claim] (StockTitan, 2026-06-02) Shell Q1 2026 Interim Dividend Set at $0.3906 Per Share, Payable June 29
+> Q1 중간 배당 $0.3906/주 확정 (ADS: $0.7812), 6월 29일 지급. impact: + / category: earnings
+
+> [!claim] (TipRanks, 2026-06-05) SHEL Trading at $85.50; 8 Analysts Buy-rated; Average 12M PT $99.04
+> 현재 $85.50 거래 중. 애널리스트 8명 전원 Buy, 12개월 평균 목표가 $99.04 — 상승여력 16%. impact: + / category: other
+
+**경쟁사 동향**:
+- XOM: 포트폴리오 최적화(텍사스 이전, 홍콩 매각) — 에너지 메이저 구조 재편 흐름
+
 ### 2026-05-29
 **narrative_score**: +0.15
 **key_events**: Q1 조정이익 $69억 (컨센서스 상회), 배당 5% 인상 + $30억 자사주매입, LNG 캐나다 램프업, ARC 인수로 생산성장률 1%→4%

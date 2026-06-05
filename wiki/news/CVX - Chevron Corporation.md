@@ -1,7 +1,7 @@
 ---
 title: "CVX - Chevron Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-29
+updated: 2026-06-05
 domain: finance
 type: claim
 weight: reference
@@ -28,7 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-29**: 그리스 Helleniq Energy 지중해 블록 70%+ 지분 신청 — 규제 승인 결과 (pending)
+- [ ] **2026-05-29**: 지중해 가스전 (그리스·이집트·이스라엘) 진출 — 생산 개시 시 가스 매출 비중 변화 여부 (pending)
+- [ ] **2026-06-05**: 싱가포르 정제 지분 ENEOS 매각 — 완료 후 하류 포트폴리오 간소화 효과 실현 여부 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +46,23 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-05
+**narrative_score**: -0.05
+**key_events**: 싱가포르 정제 지분 50% ENEOS에 $21.7억 매각, 그리스·이집트·이스라엘 가스전 확대, 호르무즈 리스크 직격탄 종목으로 주목
+**risks**: 이란 휴전 시 유가 20% 추가 하락 가능, Hess 인수 관련 헤징 비용
+
+> [!claim] (Yahoo Finance, 2026-06-04) Chevron Sells 50% Stake in Singapore Refining Company to ENEOS for $2.17B
+> 아시아태평양 하류 사업 포트폴리오 재편 — 싱가포르 정제 지분 50% ENEOS에 $21.7억 매각. impact: + / category: other
+
+> [!claim] (Yahoo Finance, 2026-06-03) Chevron Expands Gas Exposure: Greece Block 2 (70%), Egypt Narges, Israel Leviathan 20Y Supply
+> 그리스 해상 광구, 이집트 가스전 착굴 시작, 이스라엘 레비아탄 20년 공급 계약 등 가스 비중 확대. impact: + / category: other
+
+> [!claim] (Investing.com, 2026-06-04) Chevron's Oil Leverage Makes CVX a Direct Bet on Hormuz Risk
+> CVX는 피어 대비 원유 레버리지가 높아 이란 휴전·호르무즈 재개 시 유가 하락 위험 더 큼. impact: - / category: macro
+
+**경쟁사 동향**:
+- XOM: 가이아나 900k bpd 기록 — XOM 상류 경쟁력이 CVX 대비 우위
+
 ### 2026-05-29
 **narrative_score**: +0.10
 **key_events**: Q1 강세 실적, 그리스 Helleniq Energy 지중해 블록 지분 신청, 이사 $7300만 블록 매도
