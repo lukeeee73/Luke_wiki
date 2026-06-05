@@ -1,7 +1,7 @@
 ---
 title: "OXY - Occidental Petroleum — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-29
+updated: 2026-06-05
 domain: finance
 type: claim
 weight: reference
@@ -28,7 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-29**: Barclays Hold→Buy 업그레이드 + 미즈호 목표가 $75 — 상승 모멘텀 지속 여부 (pending)
+- [ ] **2026-05-29**: Barclays Hold→Buy 업그레이드 — 신임 CEO 하에서 매도 측 커버리지 추가 여부 (pending)
+- [ ] **2026-06-05**: 멕시코만 Bandit 광구 석유 발견 — 생산 가능 추정량 및 개발 일정 발표 여부 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +46,23 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-05
+**narrative_score**: +0.05
+**key_events**: Vicki Hollub CEO 은퇴, Richard Jackson CEO 취임 (6/1), 멕시코만 Bandit 광구 석유 발견 (지분 45.375%), $0.26 분기 배당 선언
+**risks**: 신임 CEO 리더십 불확실성 초기 전환 리스크, 유가 하락 시 셰일 생산성 압박
+
+> [!claim] (MEXC News, 2026-06-01) Occidental CEO Vicki Hollub Retires June 1; COO Richard Jackson Takes Over
+> 40년 이상 재직한 Vicki Hollub CEO 은퇴, COO Richard Jackson이 CEO 취임. impact: neutral / category: other
+
+> [!claim] (Yahoo Finance, 2026-06-01) Occidental Discovers Oil at Bandit Prospect in Gulf of America (~125 Miles off Louisiana)
+> 루이지애나 해안 약 200km 남쪽 Bandit 광구에서 석유 발견 (OXY 지분 45.375%). impact: + / category: other
+
+> [!claim] (StockTitan, 2026-06-02) OXY Declares $0.26 Quarterly Dividend, Payable July 15
+> 분기 배당 $0.26/주 선언, 7월 15일 지급 예정. impact: + / category: earnings
+
+**경쟁사 동향**:
+- CVX: 싱가포르 정제 지분 매각으로 포트폴리오 재편 — 에너지 메이저 전반의 비핵심 자산 매각 흐름
+
 ### 2026-05-29
 **narrative_score**: +0.10
 **key_events**: Q1 생산·FCF 가이던스 상회, Barclays Hold→Buy 업그레이드 (PT $72), 미즈호 PT $75 상향, XOM 트리니다드 심해 블록 10% 지분 인수

@@ -1,7 +1,7 @@
 ---
 title: "FCX - Freeport-McMoRan Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-29
+updated: 2026-06-05
 domain: finance
 type: claim
 weight: reference
@@ -28,7 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-29**: Barclays Overweight 신규 개시 — 구리 가격 상승 모멘텀 지속 여부 (pending)
+- [ ] **2026-05-29**: Barclays OW 신규 개시 + 구리 수요 강세 — Grasberg 생산 정상화 시 목표가 도달 여부 (pending)
+- [ ] **2026-06-05**: Grasberg 복구 지연 — 2026 하반기 생산 정상화 일정 발표 여부 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +46,23 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-05
+**narrative_score**: +0.04
+**key_events**: Grasberg 복구 당초 예상보다 지연, $3B 신용한도 신규 체결, UBS $75 목표주가 상향 (Buy)
+**risks**: Grasberg 생산 차질 장기화 시 FCF 훼손, 인도네시아 광업 규제 리스크
+
+> [!claim] (Simply Wall St, 2026-06-03) Freeport Indonesia Grasberg Recovery Slower Than Initially Expected
+> Grasberg 구리·금 복합광산 인프라 복구 당초 예상보다 느림 — 단기 생산 전망 소폭 하향. impact: - / category: earnings
+
+> [!claim] (Yahoo Finance, 2026-06-02) Freeport-McMoRan Secures $3B 5-Year Senior Unsecured Revolving Credit Facility
+> PT Freeport Indonesia 포함 자회사와 5년 만기 30억 달러 선순위 신용한도 신규 체결. impact: + / category: earnings
+
+> [!claim] (Yahoo Finance, 2026-06-04) UBS Raises FCX Price Target to $75 (Buy); Copper Optimism on EV and Data Center Demand
+> UBS $74→$75로 상향, Buy 유지 — 전기차·데이터센터 구리 수요 장기 강세 전망. impact: + / category: other
+
+**경쟁사 동향**:
+- BHP: 에스콘디다 구리 생산 안정 — FCX Grasberg 지연과 대비되는 안정적 생산
+
 ### 2026-05-29
 **narrative_score**: +0.15
 **key_events**: Barclays Overweight 신규 개시 (5/21), UBS PT $74→$75 상향, $30억 5년 신용시설 체결 (5/14), 구리 EV·재생에너지 수요 강세

@@ -1,7 +1,7 @@
 ---
 title: "COP - ConocoPhillips — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-29
+updated: 2026-06-05
 domain: finance
 type: claim
 weight: reference
@@ -28,7 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-29**: 연간 생산가이던스 하향 수정 — 성장 모멘텀 회복 여부 (pending)
+- [ ] **2026-05-29**: 연간 생산가이던스 하향 수정 (-3.4%) — 추가 하향 여부 (pending)
+- [ ] **2026-06-05**: 포트아서 LNG 첫 생산 임박 — 2026 하반기 LNG 매출 기여 시점 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +46,23 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-05
+**narrative_score**: -0.03
+**key_events**: 2026년 생산 가이던스 하향 (2.295-2.325 MMBOED), 포트아서 LNG 1단계 첫 생산 임박, $2B 자사주매입 지속
+**risks**: 유가 하락 시 생산 추가 축소 압박, 알래스카 Willow 프로젝트 비용 상승
+
+> [!claim] (TraderUnion, 2026-06-03) ConocoPhillips 2026 Production Guidance Cut to 2.295–2.325 MMBOED from 2.33–2.36
+> 2026년 연간 생산 가이던스 하향 수정 — 2.295~2.325 MMBOED (기존 대비 ~1.5% 감소). impact: - / category: earnings
+
+> [!claim] (Simply Wall St, 2026-06-04) Port Arthur LNG Phase 1 Nearing First Production — COP Core LNG Asset
+> 포트아서 LNG 1단계 첫 생산 임박 — COP 장기 LNG 포트폴리오 성장 동력. impact: + / category: other
+
+> [!claim] (StockTitan, 2026-06-04) COP Stock Up 1.9% on Jun 4, Recovers to $117.75–$119.80 Range
+> 6월 4일 +1.9% 반등, $119.80 수준 회복 — $2B 자사주매입 지속. impact: + / category: earnings
+
+**경쟁사 동향**:
+- XOM: 가이아나 900k bpd 기록 생산 — COP 대비 상류 생산 역동성 차별화
+
 ### 2026-05-29
 **narrative_score**: -0.05
 **key_events**: 연간 생산가이던스 하향 (2.295-2.325 MMBOE/d), 주가 -3.4% (5/26), Mizuho PT $150 상향

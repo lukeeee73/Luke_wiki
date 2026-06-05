@@ -1,7 +1,7 @@
 ---
 title: "SRE - Sempra — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-29
+updated: 2026-06-05
 domain: finance
 type: claim
 weight: reference
@@ -28,7 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-29**: LNG 수출 용량 확대 승인 — 수익화 일정 (pending)
+- [ ] **2026-05-29**: Q1 EPS 컨센서스 하회 + LNG 수출 용량 확대 승인 — 하반기 LNG 매출 기여 여부 (pending)
+- [ ] **2026-06-05**: Voss Capital Oncor 분리 촉구 — 경영진 대응 및 분리 실현 가능성 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +46,20 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-05
+**narrative_score**: +0.03
+**key_events**: Voss Capital Oncor 분리 공식 촉구, 분기 배당 $0.658 배당락일 6/25
+**risks**: Oncor 분리 실현 불확실성, 캘리포니아 유틸리티 규제 환경 강화
+
+> [!claim] (Yahoo Finance, 2026-05-29) Voss Capital Urges Sempra to Spin Off Texas Oncor Electricity Business
+> Voss Capital, 북미 최대·최속 성장 T&D 유틸리티 Oncor 분리를 공식 촉구 — 내재가치 해제 주장. impact: + / category: other
+
+> [!claim] (Yahoo Finance, 2026-06-04) Sempra Declares $0.658 Quarterly Dividend With Ex-Date June 25
+> 분기 배당 $0.658/주 선언, 배당락일 6/25. impact: + / category: earnings
+
+**경쟁사 동향**:
+- NEE: Dominion 합병으로 유틸리티 M&A 가속화 — Sempra Oncor 분리 압박도 같은 맥락
+
 ### 2026-05-29
 **narrative_score**: 0.00
 **key_events**: Q1 EPS $1.23 (컨센서스 하회), LNG 수출 용량 확대 승인

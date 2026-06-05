@@ -1,7 +1,7 @@
 ---
 title: "XOM - Exxon Mobil Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-29
+updated: 2026-06-05
 domain: finance
 type: claim
 weight: reference
@@ -29,6 +29,7 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-29**: 베네수엘라 세르로 네그로 복귀 협상 — 생산 재개 시 XOM 상류 볼륨 증가 여부 (pending)
+- [ ] **2026-06-05**: OPEC+ 6/7 추가 증산 결정 — 유가 추가 하락 시 XOM 가이아나·퍼미안 FCF 영향 여부 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +46,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-05
+**narrative_score**: +0.10
+**key_events**: 텍사스 법적 본거지 이전 주주 승인 (1882년 이후 첫 변경), 가이아나 900k bpd 분기 최고치, 홍콩 Esso 주유소 ~$6억 매각 검토
+**risks**: OPEC+ 6/7 추가 증산 결정 시 유가 하락, 이란 휴전 시 공급 과잉
+
+> [!claim] (Yahoo Finance, 2026-06-03) Exxon Mobil Shareholders Approve Texas Domicile Move — First Since 1882
+> 주주 승인으로 1882년 이후 첫 법적 본거지 변경 — 뉴저지 → 텍사스 이전 확정. impact: + / category: other
+
+> [!claim] (TradingKey, 2026-06-03) XOM Up 3.06% on Jun 3; Guyana Record Output Above 900k bpd
+> 가이아나 생산량 900,000 bpd 초과 — 분기 최고치 경신, 퍼미안도 성장세. impact: + / category: earnings
+
+> [!claim] (Reuters, 2026-06-04) Exxon Explores Sale of Hong Kong Esso Gas Station Network (~$600M)
+> 홍콩 에쏘 주유소 네트워크 최대 $6억 매각 검토 — 포트폴리오 최적화 전략. impact: + / category: other
+
+> [!claim] (CNBC, 2026-06-04) OPEC+ June 7 Ministerial Meeting to Review Production Quotas
+> 6월 7일 OPEC+ 장관급 회의 — 추가 증산 결정 시 유가 하락 압박 가능. impact: - / category: macro
+
+**경쟁사 동향**:
+- CVX: 이란 휴전 시나리오로 유가 하락 직격탄 피어 — XOM도 동일 매크로 리스크 공유
+- COP: 연간 생산 가이던스 1.5% 하향 수정 — 에너지 섹터 상류 센티먼트에 부담
+
 ### 2026-05-29
 **narrative_score**: +0.08
 **key_events**: Q1 실적 컨센서스 상회, 베네수엘라 세르로 네그로 복귀 협상, Barclays PT $182 상향

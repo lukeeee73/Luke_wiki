@@ -1,7 +1,7 @@
 ---
 title: "ED - Consolidated Edison — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-29
+updated: 2026-06-05
 domain: finance
 type: claim
 weight: reference
@@ -28,7 +28,7 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-29**: NYC 그리드 현대화 $7억 투자 — 규제 수익 반영 일정 (pending)
+- [ ] **2026-05-29**: Q1 EPS 상회 + NYC 그리드 현대화 $7억 투자 — 전력망 현대화 공사 진행 상황 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +45,17 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-05
+**narrative_score**: 0.00
+**key_events**: (최근 24시간 내 의미 있는 뉴스 없음)
+**risks**: 고금리 환경 배당주 밸류에이션 압박
+
+> [!info] (2026-06-05) 뉴스 없음 — 안정적 배당 유틸리티
+> 오늘 ConEd 관련 의미 있는 뉴스 없음. 49년 연속 배당 증가 배당귀족 스탠스 유지.
+
+**경쟁사 동향**:
+- AEP: 대규모 자본투자 계획 발표 — ConEd 뉴욕 독점 특성상 성장 비교보다 안정 배당 평가 적합
+
 ### 2026-05-29
 **narrative_score**: +0.08
 **key_events**: Q1 EPS $1.89 (컨센서스 상회), 2026 가이던스 $5.25-$5.45 유지, NYC 그리드 현대화 $7억 투자

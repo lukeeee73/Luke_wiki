@@ -1,7 +1,7 @@
 ---
 title: "Wiki Log"
 created: 2026-04-05
-updated: 2026-05-07
+updated: 2026-06-05
 tags: [log, meta]
 sources: []
 ---
@@ -10,6 +10,42 @@ sources: []
 # Wiki Log
 
 위키의 모든 작업 이력을 시간순으로 기록합니다.
+
+---
+
+## 2026-06-05
+
+### [ROUTINE-NEWS] Daily Market Analysis — 금요일 (에너지 / 원자재 + 유틸리티 / 전력)
+
+- **처리 섹터**: 에너지 / 원자재 (10종목), 유틸리티 / 전력 (10종목)
+- **처리 종목 수**: 20종목
+- **업데이트된 파일**:
+  - `wiki/news/XOM - Exxon Mobil Corporation.md` — 텍사스 이전 확정 + 가이아나 900k bpd
+  - `wiki/news/CVX - Chevron Corporation.md` — 싱가포르 정제 매각 + 가스 비중 확대
+  - `wiki/news/COP - ConocoPhillips.md` — 생산 가이던스 1.5% 하향 + 포트아서 LNG 임박
+  - `wiki/news/SHEL - Shell plc.md` — 자사주 매입 지속 + Q1 배당 $0.3906
+  - `wiki/news/OXY - Occidental Petroleum.md` — CEO 교체 + 멕시코만 Bandit 발견
+  - `wiki/news/SLB - Schlumberger Limited.md` — Tachyus AI 인수 vs Q2 EPS -28.4% YoY
+  - `wiki/news/FCX - Freeport-McMoRan.md` — Grasberg 복구 지연 + UBS 목표주가 $75
+  - `wiki/news/NEM - Newmont Corporation.md` — Q1 FCF $31억 기록 + $60억 자사주매입 ★ 사실 누적 추가
+  - `wiki/news/LIN - Linde plc.md` — Q1 EPS +10% + 삼성 반도체 팹 최대 딜
+  - `wiki/news/APD - Air Products and Chemicals.md` — Q2 EPS +19% + 웰스파고 OW 상향
+  - `wiki/news/NEE - NextEra Energy.md` — Dominion $670억 합병 + -13.7% 주가 압박
+  - `wiki/news/SO - The Southern Company.md` — 조지아파워 요금 인하 vs Vogtle 운전
+  - `wiki/news/DUK - Duke Energy Corporation.md` — AI 데이터센터 원전 공급 협의
+  - `wiki/news/AEP - American Electric Power.md` — Q1 +7.3% + $417억 4년 자본투자
+  - `wiki/news/EXC - Exelon Corporation.md` — PECO 요금 철회 + 송전 $1.5B 증액
+  - `wiki/news/CEG - Constellation Energy.md` — 5,650MW 원전 PPA + YTD -25% 역발상
+  - `wiki/news/VST - Vistra Corp.md` — Meta 20년 PPA + 로터스 가스발전 인수
+  - `wiki/news/SRE - Sempra.md` — Voss Capital Oncor 분리 촉구
+  - `wiki/news/ED - Consolidated Edison.md` — 뉴스 없음 (안정 인컴주)
+  - `wiki/news/D - Dominion Energy.md` — NEE 합병 + 130GW AI 파이프라인
+  - `wiki/news/_dashboard.md` — 에너지/원자재 + 유틸리티/전력 섹터 행 갱신
+- **주요 시그널**:
+  - OPEC+ 6/7 증산 결정 시 에너지 5종목 동시 하방 리스크
+  - AI 원전 PPA 테마 (CEG, VST, DUK) 유틸리티 섹터 신성장 동력으로 부상
+  - NEE-D 합병 (세계 최대 규제 유틸리티) 규제 승인 진행 중
+  - NEM Q1 FCF $31억 기록 — 금값 $4,900 고점에서 역대 최고 실적
 
 ---
 

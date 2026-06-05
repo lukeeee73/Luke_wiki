@@ -1,7 +1,7 @@
 ---
 title: "NEE - NextEra Energy, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-29
+updated: 2026-06-05
 domain: finance
 type: claim
 weight: reference
@@ -29,6 +29,7 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-29**: Dominion과 $4000억 합병 — 규제 승인 결과 (pending)
+- [ ] **2026-06-05**: 고금리 환경 주가 압박 — 규제 승인 후 합병 완료 시 주가 반등 여부 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +46,23 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-05
+**narrative_score**: +0.03
+**key_events**: Dominion Energy $670억 합병 (0.8138 NEE주, 발표 5/18), 분기 배당 $0.6232 6/15 지급 (기록일 오늘), 주가 최근 1개월 -13.7% (고금리+합병 희석)
+**risks**: 연방·주 규제 당국 승인 불확실성 (최대 유틸리티 M&A), 고금리 환경에서 합병 완료까지 주가 압박
+
+> [!claim] (CNBC, 2026-05-18) NextEra Energy Acquires Dominion Energy in $67B All-Stock Deal — World's Largest Regulated Utility
+> 도미니언 에너지 $670억 전액 주식 교환 합병 (0.8138 NEE주). 세계 최대 규제 유틸리티(10M 고객, 110GW) 탄생. impact: + / category: m&a
+
+> [!claim] (StockTitan, 2026-06-03) NextEra Energy Declares $0.6232 Quarterly Dividend Payable June 15; Record Date June 5
+> 분기 배당 $0.6232/주, 6/15 지급 (기록일 6/5). 배당수익률 약 2.7% (업종 평균 3.6% 하회). impact: + / category: earnings
+
+> [!claim] (GurFocus, 2026-06-01) NEE Down 13.7% Past Month Amid Rate Headwinds and Merger Dilution Concerns
+> 고금리 환경과 합병 주식 희석 우려로 최근 1개월 -13.7% 하락. 52주 고점 $98.75에서 현재 $83.66 수준. impact: - / category: macro
+
+**경쟁사 동향**:
+- DUK: AI 데이터센터 신규 원전 공급 논의 — 합병 완료 후 NEE-D가 DUK의 경쟁 상대
+
 ### 2026-05-29
 **narrative_score**: +0.18
 **key_events**: Dominion과 전액 주식 교환 합병 발표 (5/18), 합병 후 10M 고객·110GW 규모, 분기 배당 $0.6232 선언
