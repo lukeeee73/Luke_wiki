@@ -1,7 +1,7 @@
 ---
 title: "CCI - Crown Castle Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-06
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: CCI 파이버·소형기지국 $8.5B 매각 — 순수 타워 전략 실행력 확인 (pending)
-- [ ] **2026-05-17**: CCI 순수 타워 집중 — 5G 성장 수혜 vs 다각화 포기 트레이드오프 (pending)
+- [x] **2026-05-17**: CCI 파이버·소형기지국 $8.5B 매각 — 순수 타워 전략 실행력 확인 (verified) — 2026-06-06: Crown Castle IR 2026-05-31 공시로 매각 완료 공식 확인
+- [ ] **2026-05-17**: CCI 순수 타워 집중 — 5G 성장 수혜 vs 다각화 포기 트레이드오프 (pending) — 2026-06-06: CEO REITweek 발표에서 유기적 성장 전략 공식화, 트레이드오프 추적 중 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +39,8 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (확인: Crown Castle IR 공시 2026-05-31 + StockTitan 2026-06-02) CCI $8.5B 파이버·스몰셀 매각 완료
+> CCI가 파이버 사업을 Zayo에, 스몰셀 사업을 Arium Networks에 매각하며 미국 유일 대형 순수 타워 REIT로 전환 완료. 배당 $1.0625/분기 선언 (6/30 지급).
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +48,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-06
+
+**narrative_score**: +0.12 (전회 +0.05, Δ +0.07)
+**key_events**: $8.5B 파이버·스몰셀 매각 완료、타워 전문 REIT 전환、배당 $1.0625 선언
+**risks**: 5G 업그레이드 사이클 후반부 진입 시 신규 임대 성장 둔화
+
+> [!claim] (출처: Crown Castle IR, 2026-05-31) CCI completes $8.5B sale of Fiber to Zayo and Small Cell to Arium Networks
+> 타워 전문 REIT 전환 완료. impact: + / category: m&a
+
+> [!claim] (출처: StockTitan, 2026-06-02) CEO Hillabrant at REITweek: organic growth focus after asset sale
+> 유기적 성장 전략 발표. impact: + / category: other
+
+> [!claim] (출처: StockTitan, 2026-06-04) CCI declares $1.0625 quarterly dividend payable June 30
+> 배당 $1.0625 선언. impact: + / category: earnings
+
+**경쟁사 동향**:
+- AMT: REITweek 발표 + 시장 하회
+- EQIX: AI 데이터센터 강세
 
 ### 2026-05-17
 

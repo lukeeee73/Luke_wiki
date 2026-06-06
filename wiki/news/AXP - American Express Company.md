@@ -1,7 +1,7 @@
 ---
 title: "AXP - American Express Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-06
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: AXP 골드 카드 ChatGPT 혜택 — AI 제휴 카드 차별화 전략 (pending)
-- [ ] **2026-05-17**: AXP 글로벌 비즈니스 트래블 매각 — 핵심 카드 사업 집중 (pending)
+- [ ] **2026-05-17**: AXP 골드 카드 ChatGPT 혜택 — AI 제휴 카드 차별화 전략 (pending) ※ 2026-06-06: 새로운 확인/반증 뉴스 없음, 계속 모니터링
+- [ ] **2026-05-17**: AXP 글로벌 비즈니스 트래블 매각 — 핵심 카드 사업 집중 (pending) ※ 2026-06-06: 새로운 확인/반증 뉴스 없음, 계속 모니터링
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +46,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-06
+
+**narrative_score**: -0.04 (전회 +0.18, Δ -0.22)
+**key_events**: BofA 투자의견 하향(매수→중립)、신용카드 연체율 13%(15년 최고)、Fanatics 공동브랜드 카드
+**risks**: 연체율 악화 시 신용 손실 증가, 반독점 소송(6/17 청문회)
+
+> [!claim] (출처: CNBC, 2026-06-03) BofA downgrades AXP Buy→Neutral on valuation/growth concerns
+> 투자의견 하향. impact: - / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-06-03) Credit card delinquency at 13%, highest in ~15 years
+> 연체율 15년 최고. impact: - / category: macro
+
+> [!claim] (출처: AXP IR, 2026-06-01) Q1 EPS $4.28; reiterated FY guidance 9-10% growth, EPS $17.30-$17.90
+> 펀더멘털 재확인. impact: + / category: earnings
+
+> [!claim] (출처: AXP IR, 2026-06-04) Partnership with Fanatics: co-branded card + Membership Rewards
+> 스포츠팬 고객 확장. impact: + / category: product
+
+**경쟁사 동향**:
+- V: FQ2 강세, MA: CFO 교체+하락추세
 
 ### 2026-05-17
 

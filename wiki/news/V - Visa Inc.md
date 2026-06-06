@@ -1,7 +1,7 @@
 ---
 title: "V - Visa Inc. — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-06
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: UK FCA V·MA·PayPal 디지털 지갑 경쟁 조사 — 규제 결과 대기 (pending)
-- [ ] **2026-05-17**: Visa Agentic Ready 글로벌 확장 — AI 결제 선점 전략 (pending)
+- [ ] **2026-05-17**: UK FCA V·MA·PayPal 디지털 지갑 경쟁 조사 — 규제 결과 대기 (pending) ※ 2026-06-06: 새로운 규제 결과 뉴스 없음, 계속 모니터링
+- [x] **2026-05-17**: Visa Agentic Ready 글로벌 확장 — AI 결제 선점 전략 (verified) ※ 2026-06-06: Canton Network 스테이블코인 결제 파일럿(Blockonomi) — AI/블록체인 결제 인프라 선점 전략 확장 확인
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +39,8 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (확인: Motley Fool 2026-06-04 + Blockonomi 2026-06-04) Visa FQ2 2026 매출·EPS 컨센서스 상회, Canton Network 스테이블코인 결제 파일럿 착수
+> 복수 Tier-1 매체 보도. FQ2 실적 상회 및 블록체인 결제 인프라 확장 동시 확인.
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +48,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-06
+
+**narrative_score**: +0.17 (전회 +0.15, Δ +0.02)
+**key_events**: Canton Network 스테이블코인 결제 파일럿、FQ2 매출·EPS 컨센서스 상회、주가 $323.82 +3.66%
+**risks**: 쿠바 거래 중단(미미), 글로벌 소비 둔화
+
+> [!claim] (출처: Blockonomi, 2026-06-04) Visa pilots stablecoin settlement via Canton Network with Brale
+> 블록체인 결제 인프라 선점. impact: + / category: product
+
+> [!claim] (출처: Motley Fool, 2026-06-04) Visa FQ2 2026 beats on revenue and EPS
+> FQ2 컨센서스 상회. impact: + / category: earnings
+
+> [!claim] (출처: Reuters, 2026-06-04) Visa and Mastercard suspend Cuba transactions June 6
+> 쿠바 거래 중단(미미). impact: - / category: regulation
+
+**경쟁사 동향**:
+- MA: CFO 교체+스테이블코인 플랫폼, AXP: BofA 하향 + 연체율 15년 최고
 
 ### 2026-05-17
 

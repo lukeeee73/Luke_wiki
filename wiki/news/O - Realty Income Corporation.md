@@ -1,7 +1,7 @@
 ---
 title: "O - Realty Income Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-06
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: O 670회 연속 월배당·134번째 인상 — 배당 신뢰성 최고 수준 (pending)
-- [ ] **2026-05-17**: O GIC·아폴로 자본 파트너십 — 투자 규모 $9.5B로 확대 (pending)
+- [x] **2026-05-17**: O 670회 연속 월배당·134번째 인상 — 배당 신뢰성 최고 수준 (verified) — 2026-06-06: Realty Income IR 2026-06-01 공시로 671번째 연속 월배당 $0.2705 확인, 31년+ 연속 배당 기록 유지
+- [ ] **2026-05-17**: O GIC·아폴로 자본 파트너십 — 투자 규모 $9.5B로 확대 (pending) — 2026-06-06: 이번 주 뉴스에서 업데이트 없음, 추적 중 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +39,8 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (확인: Realty Income IR 2026-06-01 + StockTitan 2026-06-03) O 671번째 연속 월배당 및 Q1 실적 호조
+> 671번째 연속 월배당 $0.2705 선언 (31년+ 연속 배당 기록 유지). Q1 AFFO/주 +6.6% YoY, FY 가이던스 상향. Jefferies 신규 Buy $69 커버리지 개시.
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +48,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-06
+
+**narrative_score**: +0.12 (전회 +0.05, Δ +0.07)
+**key_events**: 671번째 연속 월 배당 $0.2705、Q1 AFFO/주 +6.6%、Jefferies 매수 $69 신규 커버리지
+**risks**: 금리 3.5% 고정 환경에서 배당수익률 매력 상대적 감소
+
+> [!claim] (출처: Realty Income IR, 2026-06-01) 671st consecutive monthly dividend $0.2705 declared; 31+ yr streak
+> 배당 연속 기록 유지. impact: + / category: earnings
+
+> [!claim] (출처: StockTitan, 2026-06-03) Q1 AFFO/share +6.6% YoY; raises FY guidance; CEO at REITweek
+> 실적 호조+가이던스 상향. impact: + / category: earnings
+
+> [!claim] (출처: Investing.com, 2026-06-03) Jefferies initiates O with Buy and $69 target
+> 신규 매수 커버리지. impact: + / category: earnings
+
+**경쟁사 동향**:
+- SPG: Q1 순이익 +15.9% 소매 REIT 호조 — O 안정 배당 내러티브 보완
+- VICI: 공격적 M&A와 달리 O는 안정 배당 포지셔닝 — 리스크 성향별 구분
 
 ### 2026-05-17
 

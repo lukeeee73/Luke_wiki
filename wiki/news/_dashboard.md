@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-06-05
+updated: 2026-06-06
 domain: finance
 type: index
 weight: reference
@@ -112,16 +112,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [JPM](JPM - JPMorgan Chase and Co.md) | 2026-05-17 | +0.00 | JLTXX 토큰 펀드 출시, 체이스 지점 52개, Dimon 경고 | 3 |
-| [BAC](BAC - Bank of America Corp.md) | 2026-05-17 | +0.05 | Q1 EPS +25% 비트, 배당 $0.28, Fed 금리 동결 장기화 | 2 |
-| [WFC](WFC - Wells Fargo and Company.md) | 2026-05-17 | +0.18 | Fed 자산제한 해제 (7년 만), ROTCE 17-18% 목표 재확인 | 2 |
-| [C](C - Citigroup Inc.md) | 2026-05-17 | +0.03 | Investor Day ROTCE 목표 제시, 아시아 확장 승인 | 2 |
-| [GS](GS - The Goldman Sachs Group.md) | 2026-05-17 | +0.00 | 주가 12개월 +65.5%, 사모 크레딧 신중론 | 2 |
-| [MS](MS - Morgan Stanley.md) | 2026-05-17 | +0.08 | Q1 매출 $20.6B 사상 최대, E*TRADE 암호화폐 파일럿 | 2 |
-| [V](V - Visa Inc.md) | 2026-05-17 | +0.15 | FY2Q EPS +20%·매출 +17%, UK FCA 조사 | 2 |
-| [MA](MA - Mastercard Incorporated.md) | 2026-05-17 | +0.00 | Q1 EPS 비트, UK FCA 조사, AI Agent Pay 시연 | 2 |
-| [AXP](AXP - American Express Company.md) | 2026-05-17 | +0.18 | Q1 EPS +18%, 골드 카드 ChatGPT 혜택, 여행 매각 | 2 |
-| [BRK-B](BRK-B - Berkshire Hathaway.md) | 2026-05-17 | +0.10 | Q1 영업이익 $11.35B·현금 $397B, 델타항공 투자 | 2 |
+| [JPM](JPM - JPMorgan Chase and Co.md) | 2026-06-06 | +0.19 | 토큰화 예금 'The Bridge' 참여, 주가 $312 역대 최고권 | 2 |
+| [BAC](BAC - Bank of America Corp.md) | 2026-06-06 | +0.13 | 크로스보더 실시간 결제 출시 예정, 연준 은행 건전성 확인 | 2 |
+| [WFC](WFC - Wells Fargo and Company.md) | 2026-06-06 | +0.18 | CEO Q2 IB/트레이딩 중반 성장 전망, 배당 $0.45 선언 | 2 |
+| [C](C - Citigroup Inc.md) | 2026-06-06 | +0.19 | 주가 +4% 다년간 고점, Q1 매출 +14% YoY, The Bridge 참여 | 2 |
+| [GS](GS - The Goldman Sachs Group.md) | 2026-06-06 | +0.11 | 블록체인 부동산 펀드 출시, CEO AI 투자 탐욕 경고 | 2 |
+| [MS](MS - Morgan Stanley.md) | 2026-06-06 | +0.19 | Q1 EPS $3.43 상회·ROTCE 27.1%, M&A·IPO 물결 전망 | 2 |
+| [V](V - Visa Inc.md) | 2026-06-06 | +0.17 | Canton Network 스테이블코인 파일럿, FQ2 실적 상회 | 2 |
+| [MA](MA - Mastercard Incorporated.md) | 2026-06-06 | -0.03 | CFO 교체(Ling Hai), 주가 $600 고점 대비 장기 하락세 | 2 |
+| [AXP](AXP - American Express Company.md) | 2026-06-06 | -0.04 | BofA 투자의견 하향, 신용카드 연체율 13%(15년 최고) | 3 |
+| [BRK-B](BRK-B - Berkshire Hathaway.md) | 2026-06-06 | +0.15 | Alphabet $10B 투자(6% 할인), 시총 $1.02조 돌파 | 2 |
 
 ### 소비재
 
@@ -157,16 +157,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [AMT](AMT - American Tower Corporation.md) | 2026-05-17 | +0.08 | Q1 EPS +15% 상회, 데이터센터 +17%, 가이던스 상향 | 2 |
-| [CCI](CCI - Crown Castle Inc.md) | 2026-05-17 | +0.05 | 파이버·소형기지국 $8.5B 매각, 순수 타워 전환 | 2 |
-| [PLD](PLD - Prologis Inc.md) | 2026-05-17 | +0.18 | Q1 EPS +29.6% 대폭 상회, 데이터센터 착공 $4.5-5.5B | 2 |
-| [EQIX](EQIX - Equinix Inc.md) | 2026-05-17 | +0.13 | Q1 매출 +8%·마진 51%, AI 데이터센터 $50B 최고 | 1 |
-| [DLR](DLR - Digital Realty Trust.md) | 2026-05-17 | +0.13 | Q1 매출 +16.2%, Core FFO 가이던스 상향 | 2 |
-| [O](O - Realty Income Corporation.md) | 2026-05-17 | +0.05 | 670회 연속 월배당 134번째 인상, AFFO 가이던스 상향 | 2 |
-| [SPG](SPG - Simon Property Group.md) | 2026-05-17 | +0.20 | Q1 FFO +7.5%, 배당 +7.1%, 소매 매출 +11.8%/sqft | 2 |
-| [WELL](WELL - Welltower Inc.md) | 2026-05-17 | +0.20 | Q1 NOI +16.4%·순이익 +183%, 복수 애널리스트 상향 | 2 |
-| [PSA](PSA - Public Storage.md) | 2026-05-17 | -0.03 | Q1 매출 -18% 미스·NOI +0.4%, NSA $5.63B 인수 발표 | 2 |
-| [VICI](VICI - VICI Properties Inc.md) | 2026-05-17 | +0.08 | Q1 EPS +15.5% 상회, AFFO 가이던스 상향, 골든엔터 인수 | 2 |
+| [AMT](AMT - American Tower Corporation.md) | 2026-06-06 | -0.06 | REITweek CEO 발표, 1년 상대 수익률 시장(-14.7%) 하회 | 2 |
+| [CCI](CCI - Crown Castle Inc.md) | 2026-06-06 | +0.12 | $8.5B 파이버·스몰셀 매각 완료, 타워 전문 REIT 전환 | 2 |
+| [PLD](PLD - Prologis Inc.md) | 2026-06-06 | +0.12 | Q1 역대 최대 임대 64M sqft, 데이터센터 BTS $1.3B | 2 |
+| [EQIX](EQIX - Equinix Inc.md) | 2026-06-06 | +0.20 | Q1 AI Fabric 예약 +70%, Citi 포커스리스트, $10B 가이던스 | 1 |
+| [DLR](DLR - Digital Realty Trust.md) | 2026-06-06 | +0.12 | 2026 가이던스 상향, 런던 AI 이노베이션 랩, Stifel $235 | 2 |
+| [O](O - Realty Income Corporation.md) | 2026-06-06 | +0.12 | 671번째 연속 월 배당, Q1 AFFO/주 +6.6%, Jefferies 매수 $69 | 2 |
+| [SPG](SPG - Simon Property Group.md) | 2026-06-06 | +0.15 | Q1 순이익 +15.9%, 배당 +7.1%, Eli Simon 신임 CEO | 2 |
+| [WELL](WELL - Welltower Inc.md) | 2026-06-06 | +0.19 | Q1 매출 +38.3%, 동일점포 NOI +16.4%, 점유율 88.8% | 2 |
+| [PSA](PSA - Public Storage.md) | 2026-06-06 | +0.16 | NSA 인수 제안(+30% 자산), 시너지 $110-130M | 2 |
+| [VICI](VICI - VICI Properties Inc.md) | 2026-06-06 | +0.21 | Golden Entertainment $1.16B 인수 완료, 밸류에이션 A- | 2 |
 
 ### 통신 / 미디어
 
@@ -207,7 +207,7 @@ sources: []
 | [010140.KS](010140.KS - Samsung Heavy Industries.md) | 2026-06-03 | +0.25 | FDC 시장 선점 — Capital/LR MOU·Supermicro AI 서버 JDP | 2 |
 | [010620.KS](010620.KS - HMM Co.md) | — | — | — | — |
 
-## 오늘의 시그널 (2026-06-05 · 금요일 · 에너지 / 원자재 + 유틸리티 / 전력))
+## 오늘의 시그널 (2026-06-06 · 토요일 · 금융 + 부동산 (REITs))
 
 루틴은 다음 패턴을 감지하면 이 섹션에 기록한다:
 
@@ -215,7 +215,17 @@ sources: []
 - **모순**: 같은 종목 어제/오늘 narrative 가 반대 방향
 - **섹터 동기화**: 3 종목 이상이 같은 매크로 이슈 (예: 관세, FOMC, 유가, 비만치료제, 데이터센터 전력) 로 동시 움직임
 
-**2026-06-05 감지된 시그널:**
+**2026-06-06 감지된 시그널:**
+
+- **섹터 동기화 (토큰화 예금 네트워크)**: JPM·BAC·C — The Clearing House 주관 'The Bridge' 공동 구축. 대형 은행 3사가 블록체인 결제 인프라를 공동 건설하는 구조적 변화 신호. Visa·Mastercard의 스테이블코인 파일럿과 함께 금융 디지털화 가속.
+- **섹터 동기화 (금융주 강세)**: JPM +0.19, C +0.19, MS +0.19, WFC +0.18 — 4종목이 동시에 강한 긍정 모멘텀. 금리 고정(3.5%) 환경에서도 IB 수수료·수익 다각화로 섹터 전반 리레이팅.
+- **섹터 동기화 (AI 데이터센터 REIT)**: EQIX +0.20, VICI +0.21, WELL +0.19 — REIT 상위권이 모두 AI 수요 또는 인구통계 트렌드 수혜. EQIX AI Fabric +70% 가 데이터센터 REIT 강세의 핵심.
+- **모순 (PSA)**: 2026-05-17 -0.03 (Q1 미스) → 2026-06-06 +0.16 (NSA 인수+운영 개선) — NSA 전략적 인수 발표가 단기 실적 부진을 완전 역전.
+- **경고 신호**: MA -0.03, AXP -0.04 — 결제 양강과 고급카드가 동시 부정 모멘텀. MA는 장기 하락추세+CFO 교체, AXP는 BofA 하향+연체율 15년 최고. 결제 섹터 내 양극화 심화(네트워크 모델 강세 vs 신용 모델 약세).
+- **AMT 경고**: -0.06으로 REIT 섹터 유일 부정 점수 — 금리 유지 환경에서 글로벌 타워 REIT의 상대 수익률 부진. CCI의 타워 집중 전환이 AMT에 경쟁 압력 추가.
+- **섹터간 전파 (AI capex → 금융 + REIT)**: Alphabet $80B AI 인프라 → BRK $10B 투자(금융), EQIX AI Fabric 수요 3배 증가(REIT). AI 인프라 투자 붐이 금융(대출·투자) + 데이터센터 REIT 동시 수혜 확인.
+
+### 감지된 패턴 (2026-06-05 · 금요일 · 에너지 / 원자재 + 유틸리티 / 전력)
 
 - **섹터 동기화 (OPEC+ 위험)**: XOM, CVX, COP, SHEL, OXY — 6/7 OPEC+ 추가 증산 결정 가능성으로 에너지 5종목 동시 매크로 하방 압박.
 - **섹터 동기화 (AI 원전 PPA)**: CEG, VST, DUK — MSFT·Meta 원전 장기 계약과 AI 데이터센터 전력 수요가 유틸리티 섹터 새 성장 테마로 자리잡음.
