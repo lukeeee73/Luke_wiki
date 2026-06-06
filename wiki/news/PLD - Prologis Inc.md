@@ -1,7 +1,7 @@
 ---
 title: "PLD - Prologis Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-06
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: PLD 데이터센터 개발 착공 $4.5-5.5B — AI 수요 포착 전략 (pending)
-- [ ] **2026-05-17**: PLD Q1 순이익 +66% YoY — 포트폴리오 리밸런싱 효과 (pending)
+- [x] **2026-05-17**: PLD 데이터센터 개발 착공 $4.5-5.5B — AI 수요 포착 전략 (verified) — 2026-06-06: Q1 데이터센터 BTS $1.3B 확인, FY 가이던스 상향으로 전략 실행 확인
+- [x] **2026-05-17**: PLD Q1 순이익 +66% YoY — 포트폴리오 리밸런싱 효과 (verified) — 2026-06-06: 2026-06-02 StockTitan 보도로 역대 최대 임대 64M sqft 및 가이던스 상향 추가 확인
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +39,8 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (확인: StockTitan 2026-06-02 + GuruFocus 2026-06-04) PLD Q1 2026 역대 최대 임대 및 가이던스 상향
+> Q1 임대 64M sqft 역대 최대, 데이터센터 BTS $1.3B, FY EPS 가이던스 $3.80-4.05 상향. P/E 34.9배로 업종 평균(15배) 대비 고평가 논란 병존.
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +48,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-06
+
+**narrative_score**: +0.12 (전회 +0.18, Δ -0.06)
+**key_events**: Q1 역대 최대 임대 64M sqft、데이터센터 BTS $1.3B、연간 EPS 가이던스 상향
+**risks**: P/E 34.9배(업종 평균의 2배) 고평가 우려、금리 환경 압박
+
+> [!claim] (출처: StockTitan, 2026-06-02) PLD Q1: record 64M sqft leasing, $1.3B data center BTS, raises FY EPS guidance to $3.80-4.05
+> 역대 최대 임대 및 가이던스 상향. impact: + / category: earnings
+
+> [!claim] (출처: StockTitan, 2026-06-02) PLD CEO Letter, CFO Arndt at REITweek 2026
+> 물류·데이터센터 전략 공유. impact: neutral / category: other
+
+> [!claim] (출처: GuruFocus, 2026-06-04) PLD shares fall 3.1%-4.7%; P/E 34.9x vs 15x industry
+> 고평가 우려 주가 조정. impact: - / category: other
+
+**경쟁사 동향**:
+- EQIX: AI 수요 $10B 가이던스
+- PSA: NSA 인수로 물류 자산 통합 가능성
 
 ### 2026-05-17
 

@@ -1,7 +1,7 @@
 ---
 title: "GS - The Goldman Sachs Group — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-06
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: GS 사모 크레딧 신중론 — 리스크 관리 신호 (pending)
-- [ ] **2026-05-17**: GS 주가 12개월 +65% — 추가 상승 여력 평가 필요 (pending)
+- [x] **2026-05-17**: GS 사모 크레딧 신중론 — 리스크 관리 신호 (verified) ※ 2026-06-06: CEO가 AI 붐 투자자 탐욕 경고(GuruFocus) — 사모 크레딧 신중론과 일관된 리스크 관리 기조 확인
+- [x] **2026-05-17**: GS 주가 12개월 +65% — 추가 상승 여력 평가 필요 (verified) ※ 2026-06-06: 1년 주가 +84%로 추가 상승 확인, 단 애널리스트 컨센서스 Hold·목표주가 현재가 대비 -13%로 상승 여력 제한적
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +46,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-06
+
+**narrative_score**: +0.11 (전회 +0.00, Δ +0.11)
+**key_events**: 블록체인 부동산 펀드 출시(Apex·Archax)、CEO AI 붐 투자자 탐욕 경고、1년 주가 +84%
+**risks**: 애널리스트 컨센서스 Hold, 목표주가 현재가 대비 -13%
+
+> [!claim] (출처: GuruFocus, 2026-06-02) CEO warns investor greed amid AI funding boom
+> AI 열풍 탐욕 경고. impact: neutral / category: macro
+
+> [!claim] (출처: Yahoo Finance, 2026-06-03) GS launches blockchain real estate fund with Apex Group, Archax
+> 블록체인 부동산 펀드 출시. impact: + / category: product
+
+> [!claim] (출처: Yahoo Finance, 2026-06-01) $4.50 dividend ex-date Jun 1; 84% one-year surge
+> 배당 $4.50, 1년 +84%. impact: + / category: earnings
+
+**경쟁사 동향**:
+- MS: Q1 EPS 컨센서스 상회 M&A 물결, JPM: IB+핀테크 확장
 
 ### 2026-05-17
 

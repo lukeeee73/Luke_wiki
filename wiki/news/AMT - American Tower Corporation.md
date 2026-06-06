@@ -1,7 +1,7 @@
 ---
 title: "AMT - American Tower Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-06
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: AMT 데이터센터 매출 +17% — AI·클라우드 수요 구조적 성장 (pending)
-- [ ] **2026-05-17**: EchoStar 매출 손실로 AFFO 성장 2.7% 제한 — 개선 여부 추적 (pending)
+- [ ] **2026-05-17**: AMT 데이터센터 매출 +17% — AI·클라우드 수요 구조적 성장 (pending) — 2026-06-06: REITweek CEO 발표에서 150,000개 포트폴리오 언급, 수요 지속 확인 중 (pending)
+- [ ] **2026-05-17**: EchoStar 매출 손실로 AFFO 성장 2.7% 제한 — 개선 여부 추적 (pending) — 2026-06-06: 이번 주 뉴스에서 EchoStar 관련 업데이트 없음 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +46,19 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-06
+
+**narrative_score**: -0.06 (전회 +0.08, Δ -0.14)
+**key_events**: Nareit REITweek CEO 발표、1년 상대 수익률 시장 대비 부진
+**risks**: Fed 금리 유지(3.5%) REIT 밸류에이션 압박、신흥국 통화 약세
+
+> [!claim] (출처: Seeking Alpha, 2026-06-03) AMT CEO Vondran presents at Nareit REITweek 2026
+> 150,000개 통신탑·데이터센터 포트폴리오 발표. impact: neutral / category: other
+
+**경쟁사 동향**:
+- CCI: $8.5B 파이버 매각 후 타워 집중 — AMT와 경쟁 강도 증가
+- EQIX: AI 데이터센터 강세 벤치마크
 
 ### 2026-05-17
 

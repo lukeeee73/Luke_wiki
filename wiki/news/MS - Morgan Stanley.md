@@ -1,7 +1,7 @@
 ---
 title: "MS - Morgan Stanley — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-06
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: MS E*TRADE 암호화폐 거래 파일럿 — 리테일 암호화폐 수익 성장 (pending)
-- [ ] **2026-05-17**: FINRA MS 해외 부문 조사 — 규제 결과 대기 (pending)
+- [ ] **2026-05-17**: MS E*TRADE 암호화폐 거래 파일럿 — 리테일 암호화폐 수익 성장 (pending) ※ 2026-06-06: 새로운 확인/반증 뉴스 없음, 계속 모니터링
+- [ ] **2026-05-17**: FINRA MS 해외 부문 조사 — 규제 결과 대기 (pending) ※ 2026-06-06: 새로운 확인/반증 뉴스 없음, 계속 모니터링
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +39,8 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (확인: MS IR 2026-06-01 + TradingKey 2026-06-04) Morgan Stanley Q1 2026 EPS $3.43, ROTCE 27.1% — 업계 최고 수익성
+> MS IR 공시 및 복수 매체 보도. Q1 EPS $3.43 컨센서스 대폭 상회, ROTCE 27.1% 업계 최고 수준 확인.
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +48,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-06
+
+**narrative_score**: +0.19 (전회 +0.08, Δ +0.11)
+**key_events**: Q1 EPS $3.43 컨센서스 상회、ROTCE 27.1% 업계 최고、M&A·IPO 물결 2026 전망
+**risks**: 시장 변동성 확대 시 트레이딩 손익 불확실
+
+> [!claim] (출처: MS IR, 2026-06-01) Q1 EPS $3.43, net revenues $20.6B, ROTCE 27.1%
+> 역대급 수익성. impact: + / category: earnings
+
+> [!claim] (출처: TradingKey, 2026-06-04) MS stock +3.58% June 4; target raised to $165
+> 목표주가 상향. impact: + / category: earnings
+
+> [!claim] (출처: CNBC, 2026-06-03) MS anticipates major M&A and IPO wave in 2026
+> IB 사이클 강세 전망. impact: + / category: earnings
+
+**경쟁사 동향**:
+- GS: 블록체인 펀드 + AI 경고, JPM: $13B 데이터센터 금융
 
 ### 2026-05-17
 

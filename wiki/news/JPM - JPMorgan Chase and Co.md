@@ -1,7 +1,7 @@
 ---
 title: "JPM - JPMorgan Chase and Co. — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-06
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: Dimon CEO 증시 과대평가·인플레이션 경고 — 단기 하향 시그널 (pending)
-- [ ] **2026-05-17**: JPM JLTXX 토큰화 MMF 출시 — 핀테크 확장 (pending)
+- [ ] **2026-05-17**: Dimon CEO 증시 과대평가·인플레이션 경고 — 단기 하향 시그널 (pending) ※ 2026-06-06: AI 열풍으로 주가 역대 최고권 — 경고 유효하나 시장 반응 없음, 계속 모니터링
+- [x] **2026-05-17**: JPM JLTXX 토큰화 MMF 출시 — 핀테크 확장 (verified) ※ 2026-06-06: The Bridge 토큰화 예금 네트워크 참여(Reuters)로 토큰화 전략 확장 확인
 - [ ] **2026-05-17**: 체이스 지점 연간 52개 확장 — 리테일 시장점유율 성장 (pending)
 <!-- OPEN_CLAIMS_END -->
 
@@ -40,6 +40,8 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (확인: Reuters 2026-06-04 + Yahoo Finance 2026-06-05) JPMorgan, BofA, Citi 토큰화 예금 네트워크 'The Bridge' 공동 구축
+> 복수 Tier-1 매체(Reuters·Yahoo Finance)가 동일 사실 보도. JPM·BAC·C 세 대형 은행이 토큰화 예금 네트워크를 공동 출시.
 <!-- FACTS_END -->
 
 ---
@@ -47,6 +49,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-06
+
+**narrative_score**: +0.19 (전회 +0.00, Δ +0.19)
+**key_events**: 토큰화 예금 네트워크 'The Bridge' 참여、주가 $312 역대 최고권、Q2 실적 7월14일 예정
+**risks**: AI 열풍으로 시장 밸류에이션 과대평가 우려
+
+> [!claim] (출처: Reuters, 2026-06-04) JPMorgan joins BofA, Citi in tokenized deposit 'The Bridge'
+> JPM·BAC·C, 토큰화 예금 네트워크 공동 구축. impact: + / category: product
+
+> [!claim] (출처: Yahoo Finance, 2026-06-05) JPM stock $312, earnings Jul 14, dividend $1.50
+> 주가 역대 최고권, Q2 실적·배당 일정 순조. impact: + / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-06-05) US equities rally 19% since Mar 30; AI enthusiasm fuels financials
+> AI 인프라 열풍이 금융주 상승 동력. impact: + / category: macro
+
+**경쟁사 동향**:
+- BAC: 크로스보더 결제 출시, WFC CEO Q2 IB 성장 전망 — 섹터 전반 호조
 
 ### 2026-05-17
 

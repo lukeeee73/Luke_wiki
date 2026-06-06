@@ -1,7 +1,7 @@
 ---
 title: "PSA - Public Storage — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-06
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: PSA Q1 매출 -18% 미스·동일점포 NOI +0.4% — 자가창고 수요 약세 (pending)
-- [ ] **2026-05-17**: PSA NSA $5.63B 인수 — 규모 확대로 약점 보완 전략 (pending)
+- [ ] **2026-05-17**: PSA Q1 매출 -18% 미스·동일점포 NOI +0.4% — 자가창고 수요 약세 (pending) — 2026-06-06: 투자자 업데이트에서 동일점포 점유율 92.2%, 이탈률 16.4%로 개선 부분 확인, 구조적 수요 약세 여부는 추적 중 (pending)
+- [x] **2026-05-17**: PSA NSA $5.63B 인수 — 규모 확대로 약점 보완 전략 (verified) — 2026-06-06: StockTitan 2026-06-04 보도로 NSA 인수 제안 업데이트 확인: +30% 부동산, 시너지 $110-130M, FFO +$0.10-0.20 (2027)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +39,8 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (확인: StockTitan 2026-06-04 + StockTitan 2026-06-01) PSA NSA 인수 및 운영지표
+> PSA가 NSA 인수 제안 발표: 부동산 +30%, 시너지 $110-130M, FFO +$0.10-0.20 (2027 예상). 동일점포 점유율 92.2%, 고객 이탈률 16.4%로 개선.
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +48,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-06
+
+**narrative_score**: +0.16 (전회 -0.03, Δ +0.19)
+**key_events**: NSA 인수 제안(+30% 부동산)、시너지 $110-130M、점유율 92.2% 유지、고객 이탈률 개선
+**risks**: NSA 인수 통합 리스크、스토리지 공급 과잉 가능성
+
+> [!claim] (출처: StockTitan, 2026-06-04) PSA proposes NSA acquisition: +30% properties, $110-130M synergies, FFO +$0.10-0.20 in 2027
+> 대규모 M&A 전략. impact: + / category: m&a
+
+> [!claim] (출처: StockTitan, 2026-06-01) PSA investor update: same-store occupancy 92.2%; churn falls to 16.4%
+> 운영지표 개선. impact: + / category: earnings
+
+> [!claim] (출처: StockTitan, 2026-05-06) PSA Q2 dividend $3.00/share payable June 30
+> Q2 배당 $3.00. impact: + / category: earnings
+
+**경쟁사 동향**:
+- O: 소매 임대 강세 — REIT 배당 인컴 투자자 비교 대상
+- WELL: REIT 강한 운영지표 — PSA 자가창고 수요 회복 여부 대조
 
 ### 2026-05-17
 

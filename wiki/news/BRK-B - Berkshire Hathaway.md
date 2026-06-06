@@ -1,7 +1,7 @@
 ---
 title: "BRK-B - Berkshire Hathaway — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-06
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: BRK Abel 체제 첫 분기 영업이익 $11.35B·현금 $397B — 경영 연속성 확인 (pending)
-- [ ] **2026-05-17**: BRK 델타항공 $2.6B 신규 투자 — 항공 섹터 재진입 (pending)
+- [x] **2026-05-17**: BRK Abel 체제 첫 분기 영업이익 $11.35B·현금 $397B — 경영 연속성 확인 (verified) ※ 2026-06-06: Alphabet $10B 투자(6% 할인) + 시총 $1.02조 돌파 — Abel 체제 적극적 투자 집행으로 경영 연속성 강하게 확인
+- [ ] **2026-05-17**: BRK 델타항공 $2.6B 신규 투자 — 항공 섹터 재진입 (pending) ※ 2026-06-06: 새로운 확인/반증 뉴스 없음, 계속 모니터링
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +39,8 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (확인: CNBC 2026-06-01 + StockAnalysis 2026-06-02) Berkshire Hathaway 시총 $1.02조 돌파, Alphabet $10B 지분 투자
+> 복수 Tier-1 매체 보도. 시총 $1조 클럽 진입 및 AI 인프라 기업 대규모 투자 확인.
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +48,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-06
+
+**narrative_score**: +0.15 (전회 +0.10, Δ +0.05)
+**key_events**: Alphabet $10B 투자(6% 할인)、시총 $1.02조 돌파、포트폴리오 금융주 강세
+**risks**: AAPL 의존도 높음, 후계자 체제 안정성
+
+> [!claim] (출처: CNBC, 2026-06-01) Berkshire invests $10B in Alphabet equity at 6% discount
+> AI 인프라 투자 방향성 확인. impact: + / category: m&a
+
+> [!claim] (출처: StockAnalysis, 2026-06-02) BRK market cap reaches $1.02 trillion
+> 시총 $1조 돌파. impact: + / category: other
+
+> [!claim] (출처: Yahoo Finance, 2026-06-05) BRK-B stock +2.5% June 5; 52-week range $455-$516
+> 견조한 상승세. impact: + / category: other
+
+**경쟁사 동향**:
+- BAC: 핀테크 확장(BRK 대주주), JPM: 역대 최고(포트폴리오 영향)
 
 ### 2026-05-17
 

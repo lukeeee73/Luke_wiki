@@ -1,7 +1,7 @@
 ---
 title: "WELL - Welltower Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-06
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: WELL Q1 동일점포 NOI +16.4% — 고령화 수요 구조적 성장 확인 (pending)
-- [ ] **2026-05-17**: WELL 목표주가 일제 상향 (최고 $255) — 프리미엄 밸류에이션 정당성 (pending)
+- [x] **2026-05-17**: WELL Q1 동일점포 NOI +16.4% — 고령화 수요 구조적 성장 확인 (verified) — 2026-06-06: AD HOC News 2026-06-01/02 보도로 동일점포 NOI +16.4%, 노인주택 점유율 88.8%, FFO +23% 추가 확인
+- [x] **2026-05-17**: WELL 목표주가 일제 상향 (최고 $255) — 프리미엄 밸류에이션 정당성 (verified) — 2026-06-06: 주가 $200 근접, 낮은 레버리지 확인으로 프리미엄 밸류에이션 정당성 지지 (verified)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +39,8 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (확인: AD HOC News 2026-06-01 + AD HOC News 2026-06-02) WELL Q1 2026 초강세 실적
+> Q1 FFO $1.47/주, 매출 +38.3% YoY, 동일점포 NOI +16.4%, 정상화 FFO +23%. 노인주택 점유율 88.8%, 낮은 레버리지. 주가 $200 근접.
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +48,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-06
+
+**narrative_score**: +0.19 (전회 +0.20, Δ -0.01)
+**key_events**: Q1 매출 +38.3% YoY、동일점포 NOI +16.4%、노인주택 점유율 88.8%、정상화 FFO +23%
+**risks**: 에퀴티 조달 희석 효과、각국 노인주택 규제 리스크
+
+> [!claim] (출처: AD HOC News, 2026-06-01) WELL Q1: FFO $1.47/share, revenue +38.3% YoY, same-store NOI +16.4%
+> 초강세 실적. impact: + / category: earnings
+
+> [!claim] (출처: AD HOC News, 2026-06-02) WELL senior housing occupancy 88.8%; normalized FFO +23%; equity raised
+> 점유율 강세+에퀴티 조달. impact: + / category: earnings
+
+> [!claim] (출처: AD HOC News, 2026-06-05) WELL trades near $200; RevPOR stable; below-average leverage
+> 주가 $200, 낮은 레버리지. impact: + / category: other
+
+**경쟁사 동향**:
+- VICI: 다른 REIT 하위섹터 — 헬스케어 vs 게이밍 성장 경로 대조
+- PSA: REIT 전반 강한 운영지표 — WELL 헬스케어 특화 프리미엄 부각
 
 ### 2026-05-17
 

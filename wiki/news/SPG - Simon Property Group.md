@@ -1,7 +1,7 @@
 ---
 title: "SPG - Simon Property Group — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-06
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: SPG 소매 매출 +11.8%/sqft — 리테일 REIT 최강 운영 지표 (pending)
-- [ ] **2026-05-17**: SPG 배당 7.1% 인상 $2.25 — 주주환원 적극성 (pending)
+- [x] **2026-05-17**: SPG 소매 매출 +11.8%/sqft — 리테일 REIT 최강 운영 지표 (verified) — 2026-06-06: SPG IR 2026-06-01 Q1 순이익 +15.9% YoY 및 FFO 가이던스 상향으로 강력한 운영 지표 추가 확인
+- [x] **2026-05-17**: SPG 배당 7.1% 인상 $2.25 — 주주환원 적극성 (verified) — 2026-06-06: TIKR.com 2026-06-03 보도로 $2.25/분기 배당 인상 및 주가 1년 +32% 재확인
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +39,8 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (확인: SPG IR 2026-06-01 + TIKR.com 2026-06-03) SPG Q1 2026 강한 실적 및 배당 인상
+> Q1 순이익 $479.6M +15.9% YoY, FFO 가이던스 상향. 배당 7.1% 인상 $2.25/분기, 주가 1년 +32%. Eli Simon 신임 CEO 첫 분기.
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +48,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-06
+
+**narrative_score**: +0.15 (전회 +0.20, Δ -0.05)
+**key_events**: Q1 순이익 +15.9% YoY、배당 7.1% 인상 $2.25/분기、Eli Simon 신임 CEO 첫 분기
+**risks**: 창업자 이후 전략 변화 가능성、소비자 지출 둔화
+
+> [!claim] (출처: SPG IR, 2026-06-01) SPG Q1 net income $479.6M +15.9% YoY; raises FFO guidance
+> 강한 Q1 실적. impact: + / category: earnings
+
+> [!claim] (출처: TIKR.com, 2026-06-03) SPG raises dividend 7.1% to $2.25/quarter; stock +32% past year
+> 배당 인상+주가 강세. impact: + / category: earnings
+
+> [!claim] (출처: CNBC, 2026-03-23) Founder David Simon passes away; son Eli Simon becomes CEO
+> 창업자 별세, 리더십 전환. impact: neutral / category: other
+
+**경쟁사 동향**:
+- O: 소매 REIT 업황 견조 — 배당 인컴 투자자 저변 공유
+- VICI: 엔터 부동산 수요 강세 — 체험형 소비 트렌드 공유
 
 ### 2026-05-17
 

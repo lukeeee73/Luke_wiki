@@ -1,7 +1,7 @@
 ---
 title: "WFC - Wells Fargo and Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-06
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: Fed WFC 자산제한 해제 — 대출 성장 본격화 시작 (pending)
-- [ ] **2026-05-17**: WFC CEO ROTCE 17-18% 중기 목표 — 실행 가능성 추적 필요 (pending)
+- [x] **2026-05-17**: Fed WFC 자산제한 해제 — 대출 성장 본격화 시작 (verified) ※ 2026-06-06: CEO Scharf 번스타인 컨퍼런스에서 Q2 IB/트레이딩 중반 성장 전망 공개 — 자산제한 해제 후 성장 본격화 진입 확인
+- [ ] **2026-05-17**: WFC CEO ROTCE 17-18% 중기 목표 — 실행 가능성 추적 필요 (pending) ※ 2026-06-06: Q2 IB/트레이딩 강세 전망은 긍정적이나 ROTCE 목표 달성 여부는 계속 추적
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +46,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-06
+
+**narrative_score**: +0.18 (전회 +0.18, Δ +0.00)
+**key_events**: CEO Q2 IB/트레이딩 중반 성장 전망、CFO 모건스탠리 컨퍼런스 6/9、배당 $0.45 선언
+**risks**: GF Value 기준 8.2% 과대평가 판단
+
+> [!claim] (출처: Yahoo Finance, 2026-06-04) CEO Scharf forecasts mid-teen IB/trading Q2 growth
+> 번스타인 컨퍼런스 강한 Q2 전망. impact: + / category: earnings
+
+> [!claim] (출처: WFC Newsroom, 2026-06-02) CFO Santomassimo at MS Financial Conference June 9
+> CFO 6/9 컨퍼런스 발표. impact: neutral / category: other
+
+> [!claim] (출처: WFC Newsroom, 2026-06-01) $0.45 quarterly dividend declared
+> 분기 배당 $0.45 선언. impact: + / category: earnings
+
+**경쟁사 동향**:
+- JPM: 역대 최고, BAC: 결제 혁신
 
 ### 2026-05-17
 

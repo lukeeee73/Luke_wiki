@@ -1,7 +1,7 @@
 ---
 title: "BAC - Bank of America Corp. — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-06
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: Fed 2026 금리 인하 부재 — 은행 NIM 회복 시나리오 후퇴 (pending)
-- [ ] **2026-05-17**: BAC Q1 EPS +25% 강력 어닝 비트 — 기초 펀더멘털 견조 (pending)
+- [ ] **2026-05-17**: Fed 2026 금리 인하 부재 — 은행 NIM 회복 시나리오 후퇴 (pending) ※ 2026-06-06: 연준 은행 건전성 확인(99% 건전), 금리 환경 변화 없음, 계속 모니터링
+- [x] **2026-05-17**: BAC Q1 EPS +25% 강력 어닝 비트 — 기초 펀더멘털 견조 (verified) ※ 2026-06-06: Fed 보고서 대형은행 ROE 14%(Q1) 확인, 섹터 전반 펀더멘털 견조 재확인
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +39,8 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (확인: Federal Reserve 2026-06-04 + Reuters 2026-06-04) 미국 대형은행 건전성 지표 — 99% 은행 우량 자본, 대형은행 Q1 ROE 14%
+> 연방준비제도 공식 발표 및 Tier-1 매체 보도. BAC 포함 섹터 전반 견조한 자본 건전성 확인.
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +48,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-06
+
+**narrative_score**: +0.13 (전회 +0.05, Δ +0.08)
+**key_events**: 크로스보더 실시간 결제 출시 예정、토큰화 예금 네트워크 참여、연준 은행 건전성 확인
+**risks**: Fed 스트레스 테스트 6월 말 결과 — 강화 버전 자본 요건 상향 가능성
+
+> [!claim] (출처: Yahoo Finance, 2026-06-04) BAC to launch cross-border real-time payments next quarter
+> 차기 분기 크로스보더 결제 출시, 주가 +3.14%. impact: + / category: product
+
+> [!claim] (출처: BAC IR, 2026-06-03) Co-President DeMare to speak at MS Financial Conference June 9
+> 공동대표 6/9 컨퍼런스 발표. impact: neutral / category: other
+
+> [!claim] (출처: Federal Reserve, 2026-06-04) 99% US banks well-capitalized; large banks 14% ROE Q1
+> 섹터 건전성 확인. impact: + / category: regulation
+
+> [!claim] (출처: BAC IR, 2026-06-02) Q2 dividend $0.28 declared, payable June 26
+> Q2 배당 $0.28 선언. impact: + / category: earnings
+
+**경쟁사 동향**:
+- JPM: 역대 최고가, WFC CEO Q2 IB 성장 전망 — 섹터 호조
 
 ### 2026-05-17
 
