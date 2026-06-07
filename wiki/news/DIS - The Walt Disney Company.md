@@ -1,7 +1,7 @@
 ---
 title: "DIS - The Walt Disney Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -32,11 +32,29 @@ sources: []
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
+
+> [!fact] (Disney IR + Yahoo Finance, 2026-06-05) Q2 FY26 스트리밍 영업이익 +88%, SVOD 마진 11% 흑자 정착 확인.
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-07
 
+
+**narrative_score**: +0.07
+**key_events**: Q2 FY26 스트리밍 영업이익 +88%·SVOD 마진 11%, 반기 배당 $0.75 (기준일 6/30)
+**risks**: 순이익 -25% (일회성 요인 확인 필요), 콘텐츠 투자 비용 부담, ESPN 스트리밍 전환 불확실성
+
+> [!claim] (출처: Yahoo Finance / 247WallSt, 2026-06-05) Q2 FY26 매출 +7% $251.7억, 순이익 -25%이나 스트리밍 영업이익 +88%·마진 11%로 흑자 안착
+> impact: + / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-06-01) 반기 배당 $0.75 선언 — 기준일 6/30, 지급일 7/22
+> impact: neutral / category: other
+
+**경쟁사 동향**:
+- NFLX: Netflix 가입자 3.25억+, 광고 수익화 가속 → NFLX 절대적 스트리밍 지배력 대비 DIS+ 성장 속도 — 테마파크·IP 차별화 요소
+
+---
 ### 2026-05-17
 
 **narrative_score**: +0.40 (첫 기록)

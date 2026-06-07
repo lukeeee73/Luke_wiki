@@ -1,7 +1,7 @@
 ---
 title: "CAT - Caterpillar Inc. — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -33,11 +33,29 @@ sources: []
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
+
+> [!fact] (Evercore ISI + StockAnalysis, 2026-06-06) CAT Q1 2026 매출 +22% — 에버코어 목표가 $1,103 상향. 사상 최대 수주잔고 확인.
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-07
 
+
+**narrative_score**: +0.23
+**key_events**: Q1 매출 +22%·사상 최대 수주잔고·가이던스 상향, 에버코어 목표가 $1,103 상향
+**risks**: 경기 사이클 고점 논쟁, 관세·무역 마찰 공급망 영향, 중국 인프라 투자 둔화
+
+> [!claim] (출처: Yahoo Finance / StockAnalysis, 2026-04-29) Q1 2026 매출 +22%, 사상 최대 수주잔고 — 데이터센터·건설·광산 수요 강세, 연간 가이던스 상향
+> impact: + / category: earnings
+
+> [!claim] (출처: Yahoo Finance / CNN Markets, 2026-06-06) 에버코어 ISI, CAT 목표가 $878 → $1,103 상향 — Outperform 유지. 주가 $902.75
+> impact: + / category: earnings
+
+**경쟁사 동향**:
+- DE: Deere 인디애나·NC 신규 시설 미국 제조 확장 → 인프라 장비 섹터 전반 수요 강세 확인 — CAT와 수혜 공유
+
+---
 ### 2026-05-17
 
 **narrative_score**: +0.25 (첫 기록)

@@ -1,7 +1,7 @@
 ---
 title: "LMT - Lockheed Martin Corp. — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -37,7 +37,21 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-07
 
+
+**narrative_score**: +0.04
+**key_events**: 스컹크웍스 GM 교체 (Ron Fehlen), FY26 방위예산 ~$8,950억
+**risks**: F-35 프로그램 단가·일정 논쟁, 스컹크웍스 리더십 불안정, 예산 협상 지연
+
+> [!claim] (출처: Seeking Alpha / Aviation Week, 2026-06-02) 스컹크웍스 새 총괄 Ron Fehlen 임명 — 4년간 세 번째 최고 경영진 교체
+> impact: neutral / category: other
+
+**경쟁사 동향**:
+- NOC: Northrop $1억 해군 계약, 아르테미스 III 발송 → NOC 우주·전략 분야 수주 강세 — LMT F-35 중심 포트폴리오와 상호 보완
+- RTX: RTX Q1 EPS +21%, 신규 방산 계약 → RTX 미사일·엔진 수요 강세는 방산 섹터 전반 수요 확인
+
+---
 ### 2026-05-17
 
 **narrative_score**: +0.20

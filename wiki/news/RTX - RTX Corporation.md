@@ -1,7 +1,7 @@
 ---
 title: "RTX - RTX Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -36,7 +36,24 @@ RTX(구 레이시온 테크놀로지스)는 미국 2위 방산 기업으로, 패
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-07
 
+
+**narrative_score**: +0.16
+**key_events**: Q1 조정 EPS +21%, 신규 방산 계약, Pratt & Whitney 생산 확대
+**risks**: Pratt & Whitney GTF 엔진 결함 리콜 비용, 방산 예산 승인 지연, 공급망 병목
+
+> [!claim] (출처: Yahoo Finance / RTX IR, 2026-04-22) 1분기 조정 EPS +21% 달성 — 애널리스트 목표가 $215~$240, 신규 계약·생산 확대
+> impact: + / category: earnings
+
+> [!claim] (출처: StockAnalysis, 2026-06-01) 신규 방산 계약 및 생산 역량 확대 — 패트리엇·토마호크·P&W 엔진 수요 강세
+> impact: + / category: product
+
+**경쟁사 동향**:
+- LMT: Lockheed Martin 동일 방위예산 수혜 구조 → LMT 전투기 + RTX 미사일·엔진 시스템 통합 수혜
+- GE: GE Aerospace Q1 어닝 서프라이즈 — 상업용 엔진 경쟁 → P&W(RTX) vs LEAP(GE) 상업용 엔진 시장 경쟁 지속
+
+---
 ### 2026-05-17
 
 **narrative_score**: +0.43

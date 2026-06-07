@@ -1,7 +1,7 @@
 ---
 title: "HD - The Home Depot, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -46,5 +46,15 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+### 2026-06-07
+
+
+**narrative_score**: -0.02
+**key_events**: 금일 의미 있는 신규 뉴스 없음. HD $310.78 소폭 상승
+**risks**: 고금리 지속으로 주택 거래 부진, 주택 개보수 지출 둔화
+
+**경쟁사 동향**:
+- LOW: Lowe's 동일 주택시장·금리 환경 공유 → 금리 인하 기대감이 HD·LOW 양사 공통 중기 촉매
+
+---
 <!-- DAILY_END -->

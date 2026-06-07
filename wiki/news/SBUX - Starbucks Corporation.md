@@ -1,7 +1,7 @@
 ---
 title: "SBUX - Starbucks Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 _(루틴 첫 실행 전 — 비어 있음)_
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-07**: 브라이언 니콜 CEO의 턴어라운드 전략이 연내 동일점포 매출 플러스 전환을 달성할 수 있는가 (분기 실적으로 검증)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,5 +47,24 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+### 2026-06-07
+
+
+**narrative_score**: -0.15
+**key_events**: AI 재고관리 시스템 폐기, TD자산운용 지분 41.9% 매도, 1개월 주가 -9%
+**risks**: 턴어라운드 전략 실행 지연, 기관 투자자 이탈, 중국 시장 회복 불확실성
+
+> [!claim] (출처: TipRanks / Inc. / Fast Company, 2026-06-06) AI 재고관리 시스템 오류 잦아 폐기 — 운영 효율화 차질로 주가 소폭 하락
+> impact: - / category: other
+
+> [!claim] (출처: MarketBeat / Zacks, 2026-06-07) TD자산운용 SBUX 지분 41.9% 매도 — 1개월 주가 -9%, 턴어라운드 신뢰도 의문
+> impact: - / category: other
+
+> [!claim] (출처: 24/7 Wall St., 2026-06-05) 치폴레 턴어라운드는 진짜, 스타벅스는 아직 연기 — CEO 브라이언 니콜 실행력 의구심
+> impact: - / category: other
+
+**경쟁사 동향**:
+- MCD: McDonald's 안정적 실행력, 수제 치킨 메뉴 테스트 → MCD 안정적 실행력 대비 SBUX 턴어라운드 지연 — QSR 자금 이동 가능성
+
+---
 <!-- DAILY_END -->

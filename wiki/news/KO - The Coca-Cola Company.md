@@ -1,7 +1,7 @@
 ---
 title: "KO - The Coca-Cola Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -46,5 +46,15 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+### 2026-06-07
+
+
+**narrative_score**: 0.00
+**key_events**: 금일 의미 있는 신규 뉴스 없음
+**risks**: 달러 강세에 따른 해외 매출 환산 손실
+
+**경쟁사 동향**:
+- PEP: PepsiCo 음료+스낵 결합 모델 견조 → 소비재 방어주 섹터 내 KO와 PEP 동조 특성 유지
+
+---
 <!-- DAILY_END -->

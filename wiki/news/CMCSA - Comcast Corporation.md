@@ -1,7 +1,7 @@
 ---
 title: "CMCSA - Comcast Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -36,7 +36,21 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-07
 
+
+**narrative_score**: +0.03
+**key_events**: T-Mobile 독점 MVNO 비즈니스 계약
+**risks**: 케이블·인터넷 가입자 코드커팅, Peacock 스트리밍 수익화 지연, NBCUniversal 콘텐츠 투자 부담
+
+> [!claim] (출처: BusinessWire / Comcast IR, 2026-06-01) T-Mobile MVNO 비즈니스 고객 계약 — Comcast Business Mobile 브랜드로 전국 서비스 제공
+> impact: + / category: product
+
+**경쟁사 동향**:
+- CHTR: Charter 동일 T-Mobile MVNO 계약, Spectrum Mobile +36.8만 → CHTR와 공동 MVNO 계약 — 케이블 양강이 B2B 모바일 공략
+- NFLX: Netflix 가입자 3.25억+, 광고 매출 2배 성장 경로 → NBCUniversal Peacock vs NFLX — 스트리밍 2위 경쟁 지속
+
+---
 ### 2026-05-17
 
 **narrative_score**: +0.03 (첫 기록)

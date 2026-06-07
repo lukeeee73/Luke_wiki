@@ -1,7 +1,7 @@
 ---
 title: "TTWO - Take-Two Interactive — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -33,11 +33,32 @@ GTA(Grand Theft Auto) 시리즈, NBA 2K, 보더랜드 등 유명 게임 시리�
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
+
+> [!fact] (Take-Two IR, 2026-05-16) GTA VI 2026년 11월 19일 PS5·Xbox Series X|S 출시 확정. Q4 FY26 넷북킹 $15.8억 확인.
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-07
 
+
+**narrative_score**: +0.22
+**key_events**: GTA VI 2026년 11월 19일 출시 확정, Q4 FY26 어닝 비트, 목표가 $280(PS)~$320(BofA)
+**risks**: GTA VI 출시 일정 재연기 리스크, 콘솔 판매량 부진 시 수요 한계, 인수합병 자금 조달 부담
+
+> [!claim] (출처: TradingKey / CoinCentral, 2026-05-16) Q4 FY26 넷북킹 $15.8억·매출 $16.8억 어닝 비트 — GTA VI 2026년 11월 19일 PS5·Xbox 출시 확정
+> impact: + / category: earnings
+
+> [!claim] (출처: TradingKey / CoinCentral, 2026-06-05) 파이퍼샌들러 Outperform·목표가 $280 개시, BofA Buy·$320 유지 — GTA VI 수혜 기대
+> impact: + / category: earnings
+
+> [!claim] (출처: Ad-hoc News / Investing.com, 2026-05-18) GTA 6 트레일러 공개 이후 주가 급등 — 사전 예약 기대감, 주가 $213.99
+> impact: + / category: product
+
+**경쟁사 동향**:
+- EA: EA FY26 사상 최대 실적, $550억 비공개 인수 진행 → EA 인수 이벤트와 TTWO GTA VI 출시 — 게임 섹터 대형 이벤트 동반
+
+---
 ### 2026-05-17
 
 **narrative_score**: +0.35 (첫 기록)

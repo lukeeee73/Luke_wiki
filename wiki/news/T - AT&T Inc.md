@@ -1,7 +1,7 @@
 ---
 title: "T - AT&T Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -36,7 +36,24 @@ AT&T는 미국 2위 통신사로, 과거 워너미디어(HBO, CNN 등 미디어 
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-07
 
+
+**narrative_score**: -0.09
+**key_events**: 대법원 FCC 과징금 판결 → 주가 -4%, 광케이블 전국 확장 진행
+**risks**: FCC 규제 강화, T-Mobile 무선 점유율 잠식, 광케이블 투자 ROI 지연
+
+> [!claim] (출처: MarketBeat / Morningstar, 2026-06-06) 대법원 FCC 과징금 지지 판결 — T·VZ 동반 -4%, 통신 섹터 규제 헤드윈드 부각
+> impact: - / category: regulation
+
+> [!claim] (출처: Yahoo Finance, 2026-06-01) 전국 광케이블 인터넷 확장 계속 — 케이블 사업자 대비 경쟁력 강화 핵심 전략
+> impact: + / category: product
+
+**경쟁사 동향**:
+- VZ: Verizon도 -4% FCC 판결, AI 고객서비스 전환 발표 → VZ·T 공동 규제 역풍 — TMUS 대비 양사 상대적 약세
+- TMUS: T-Mobile Q1 강세, 애널리스트 30%+ 상승 전망 → T-Mobile 무선·광대역 양방향 점유율 확대가 T의 지속적 압박 요인
+
+---
 ### 2026-05-17
 
 **narrative_score**: +0.28 (첫 기록)

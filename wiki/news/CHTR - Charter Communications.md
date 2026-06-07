@@ -1,7 +1,7 @@
 ---
 title: "CHTR - Charter Communications — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -36,7 +36,24 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-07
 
+
+**narrative_score**: +0.03
+**key_events**: T-Mobile MVNO 비즈니스 계약, Q1 Spectrum Mobile +36.8만 (누계 12.1M)
+**risks**: 유선 인터넷 가입자 감소 추세, T-Mobile 5G FWA와 인터넷 경쟁, 콘텐츠 비용 부담
+
+> [!claim] (출처: BusinessWire / Charter IR, 2026-06-01) 컴캐스트와 T-Mobile MVNO 비즈니스 협약 — Spectrum Mobile for Business 브랜드
+> impact: + / category: product
+
+> [!claim] (출처: Charter SEC Form 8-K, 2026-04-25) Q1 Spectrum Mobile +36.8만(누계 1,210만), 인터넷 -12만(2,960만) — 모바일 성장·인터넷 코드커팅
+> impact: neutral / category: earnings
+
+**경쟁사 동향**:
+- CMCSA: Comcast 동일 T-Mobile MVNO 계약 → CMCSA와 공동 협약 — 케이블 양강 동일 B2B 전략
+- TMUS: T-Mobile MVNO 네트워크 제공 → TMUS 네트워크 제공 — CHTR 모바일 서비스 기반 강화
+
+---
 ### 2026-05-17
 
 **narrative_score**: -0.30 (첫 기록)

@@ -1,7 +1,7 @@
 ---
 title: "PG - Procter & Gamble Co — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -46,5 +46,18 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+### 2026-06-07
+
+
+**narrative_score**: +0.11
+**key_events**: 소비자 수요 서프라이즈로 주가 +5%, Native Surf Club × Target 협업, 경영진 IR 컨퍼런스 참석
+**risks**: 성장 둔화 및 주가 저성과 이력, 원자재 비용 상승
+
+> [!claim] (출처: StocksToTrade / Timothy Sykes, 2026-06-05) 예상 상회 소비자 수요로 PG 주가 +5% — Native 클린뷰티·Secret 젠Z 마케팅 호응
+> impact: + / category: product
+
+**경쟁사 동향**:
+- CL: Colgate-Palmolive 동일 소비재 환경 대응 → 소비재 섹터 전반 수요 견조 — PG 프리미엄 브랜드 파워 경쟁 우위
+
+---
 <!-- DAILY_END -->

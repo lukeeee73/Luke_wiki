@@ -1,7 +1,7 @@
 ---
 title: "PEP - PepsiCo, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -46,5 +46,15 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+### 2026-06-07
+
+
+**narrative_score**: 0.00
+**key_events**: 금일 의미 있는 신규 뉴스 없음
+**risks**: 스낵 소비 둔화, 원자재 비용 상승 마진 압박
+
+**경쟁사 동향**:
+- KO: 코카콜라 배당귀족 방어적 특성 유지 → KO와 함께 소비재 방어주 포지션 유지 — 스낵 부문이 PEP 차별화
+
+---
 <!-- DAILY_END -->

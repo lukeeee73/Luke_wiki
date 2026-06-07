@@ -1,7 +1,7 @@
 ---
 title: "MCD - McDonald's Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -46,5 +46,19 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+### 2026-06-07
+
+
+**narrative_score**: +0.03
+**key_events**: 수제 치킨 메뉴 테스트 (치킨 전쟁 대응), 내부자 거래 신고 (6/1)
+**risks**: 소비자 패스트푸드 지출 둔화, 치킨 전쟁 마진 압박, 글로벌 동일점포 회복 지연
+
+> [!claim] (출처: Robinhood / MarketBeat, 2026-06-06) 패스트푸드 치킨 전쟁 대응 — 수제 튀김 닭고기 메뉴 테스트, Chick-fil-A 등 경쟁 대응
+> impact: neutral / category: product
+
+**경쟁사 동향**:
+- SBUX: 스타벅스 턴어라운드 지연 — MCD 안정적 실행력과 대조 → SBUX 부진 대비 MCD 프랜차이즈 부동산 모델의 안정성 부각
+- YUM: Yum! KFC·Taco Bell 메뉴 혁신 지속 → YUM과의 치킨 전쟁 심화 — MCD 닭 메뉴 테스트 의미 있음
+
+---
 <!-- DAILY_END -->

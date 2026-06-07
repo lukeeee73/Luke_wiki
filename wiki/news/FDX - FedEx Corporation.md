@@ -1,7 +1,7 @@
 ---
 title: "FDX - FedEx Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -37,7 +37,20 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-07
 
+
+**narrative_score**: +0.11
+**key_events**: 연간 가이던스 상향, 분사 계획 발표 (부채 상환용)
+**risks**: 글로벌 경기 둔화 화물 수요 감소, 연료비 변동성, UPS와 가격 경쟁
+
+> [!claim] (출처: CNN Markets / Yahoo Finance, 2026-06-05) 연간 가이던스 상향 + 분사 계획으로 부채 상환·비용 절감 추진 — 주가 $330.29
+> impact: + / category: earnings
+
+**경쟁사 동향**:
+- UPS: UPS 아마존 물량 감축·화물기 사고 안전 조사 → UPS 구조조정 대비 FDX 가이던스 상향 — 익스프레스·국제 배송 모멘텀 우위
+
+---
 ### 2026-05-17
 
 **narrative_score**: +0.15
