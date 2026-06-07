@@ -1,7 +1,7 @@
 ---
 title: "NOC - Northrop Grumman Corp. — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -33,11 +33,32 @@ sources: []
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
+
+> [!fact] (Northrop Grumman Newsroom, 2026-06-03) 아르테미스 III 고체로켓부스터 최종 세그먼트 케네디 우주센터 발송 확인.
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-07
 
+
+**narrative_score**: +0.11
+**key_events**: 해군 $1억 계약 수주, 아르테미스 III 고체로켓 발송, 배당 +6.93% 인상
+**risks**: B-21 레이더 생산 일정·단가 논쟁, 방위예산 배분 우선순위 변화, 핵 시스템 정치적 리스크
+
+> [!claim] (출처: Barchart / StockAnalysis, 2026-06-05) 미 해군 $1억 계약 수주 + DARPA 로켓 모터 프로그램 확대
+> impact: + / category: product
+
+> [!claim] (출처: Northrop Grumman Newsroom, 2026-06-03) 아르테미스 III 고체로켓부스터 최종 세그먼트 케네디 우주센터 발송 — NASA 협력 이정표
+> impact: + / category: product
+
+> [!claim] (출처: Barchart, 2026-05-19) 분기 배당 +6.93% 인상 $2.47 — 주주환원 강화
+> impact: + / category: other
+
+**경쟁사 동향**:
+- LMT: Lockheed Martin Skunk Works 리더십 교체 → NOC 우주·전략핵 vs LMT F-35 — 포트폴리오 보완 관계
+
+---
 ### 2026-05-17
 
 **narrative_score**: +0.03

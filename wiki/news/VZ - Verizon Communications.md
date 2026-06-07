@@ -1,7 +1,7 @@
 ---
 title: "VZ - Verizon Communications — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,8 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: VZ의 후불폰 순증 전환이 Q2 2026에도 유지될 것인가 (pending)
 - [ ] **2026-05-17**: VZ 조정 EPS 5~6% 성장 가이던스가 T-Mobile 경쟁 심화 속 달성 가능한가 (pending)
+
+- [ ] **2026-06-07**: 대법원 FCC 판결이 통신 섹터 장기 규제 강화로 이어지는가 vs 일회성 이벤트인가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
@@ -36,7 +38,27 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-07
 
+
+**narrative_score**: -0.09
+**key_events**: 대법원 FCC 과징금 판결 → 주가 -4%, 분기 배당 $0.7075 선언, CEO AI 고객서비스 도입 발언
+**risks**: FCC 규제 강화, T-Mobile 점유율 잠식, 고금리 부채 부담
+
+> [!claim] (출처: Morningstar / MarketBeat, 2026-06-06) 미 연방대법원 FCC 과징금 집행 지지 판결 — VZ·T 주가 동반 -4%
+> impact: - / category: regulation
+
+> [!claim] (출처: Verizon IR, 2026-06-05) 분기 배당 $0.7075 (연 $2.83) 선언 — 지급일 8월 3일
+> impact: neutral / category: other
+
+> [!claim] (출처: Yahoo Finance, 2026-06-04) CEO 'AI가 고객서비스 상당 부분 처리 가능' — 비용 절감 방향 제시
+> impact: + / category: other
+
+**경쟁사 동향**:
+- T: AT&T도 대법원 FCC 판결로 동반 -4% → T와 공동 규제 역풍 — FCC 과징금이 통신 섹터 공통 헤드윈드
+- TMUS: T-Mobile 애널리스트 30%+ 상승 전망 → TMUS 상대적 강세가 VZ·T 점유율 압박 지속 신호
+
+---
 ### 2026-05-17
 
 **narrative_score**: +0.23 (첫 기록)

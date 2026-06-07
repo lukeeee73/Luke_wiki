@@ -1,7 +1,7 @@
 ---
 title: "SPOT - Spotify Technology S.A — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -36,7 +36,21 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-07
 
+
+**narrative_score**: +0.09
+**key_events**: Netflix와 $1억 독점 팟캐스트 영상 계약
+**risks**: 음악 레이블 로열티 비용 구조, Apple Music·YouTube Music 경쟁, 구독료 인상 저항
+
+> [!claim] (출처: Simply Wall St / 247WallSt, 2026-06-05) 스포티파이·넷플릭스 $1억 독점 계약 — Jay Shetty 팟캐스트 영상 NFLX 독점 공급
+> impact: + / category: product
+
+**경쟁사 동향**:
+- NFLX: Netflix SPOT과 팟캐스트 파트너십 → SPOT·NFLX 상호 보완 — 팟캐스트 독점 영상화는 SPOT 콘텐츠 수익화
+- AAPL: Apple Podcasts·Apple Music 주요 경쟁자 → AAPL 생태계 외 NFLX 파트너십이 차별화 포인트
+
+---
 ### 2026-05-17
 
 **narrative_score**: +0.25 (첫 기록)

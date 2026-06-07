@@ -1,7 +1,7 @@
 ---
 title: "BA - The Boeing Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -33,11 +33,29 @@ sources: []
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
+
+> [!fact] (Boeing Media Room + CNBC, 2026-06-05) Boeing 787 월 10대 목표, 4번째 737 생산라인 2026년 하반기 저율 개시 확인.
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-07
 
+
+**narrative_score**: +0.11
+**key_events**: CEO 787 월 10대 목표·4번째 737 라인 계획, Q1 실적 컨센서스 상회, Spirit AeroSystems 통합
+**risks**: 품질·안전 이슈 재발, Spirit AeroSystems 통합 리스크, 에어버스 점유율 회복 격차
+
+> [!claim] (출처: CNBC / Boeing Media Room, 2026-06-05) CEO 오트버그 787 월 10대 목표 재확인, 4번째 737 생산라인 2026년 하반기 저율 개시
+> impact: + / category: product
+
+> [!claim] (출처: Guru Focus, 2026-06-05) 보잉 737 4번째 생산라인 추가 계획 발표
+> impact: + / category: product
+
+**경쟁사 동향**:
+- EADSY: Airbus 생산 우위 지속 — BA 생산 정상화 기간 일부 주문 상실 → 에어버스 생산 경쟁 우위 기간 BA 시장 점유율 회복은 장기 과제
+
+---
 ### 2026-05-17
 
 **narrative_score**: +0.25

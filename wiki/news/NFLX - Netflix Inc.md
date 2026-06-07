@@ -1,7 +1,7 @@
 ---
 title: "NFLX - Netflix, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -32,11 +32,36 @@ sources: []
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
+
+> [!fact] (Netflix IR + CNBC, 2026-04-15) Q1 2026 가입자 3.25억+, 광고 고객사 4,000+ (+70% YoY), 자사주 매입 $13억 확인.
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-07
 
+
+**narrative_score**: +0.20
+**key_events**: 광고 고객사 +70% YoY·매출 $30억 경로, Q1 가입자 3.25억+·자사주 $13억, Jay Hoag 의장 취임, SPOT $1억 팟캐스트 계약
+**risks**: AI 개인화 투자 비용 과다, 회장 매각 신호 해석 논쟁, 경쟁사 스트리밍 수익성 개선
+
+> [!claim] (출처: Simply Wall St / Yahoo Finance, 2026-06-04) 광고 고객사 +70% YoY 4,000+, 광고 매출 2026년 $30억 달성 예상 — 수익화 모멘텀 강화
+> impact: + / category: earnings
+
+> [!claim] (출처: StockTwits / Yahoo Finance, 2026-06-03) Jay Hoag 이사회 의장 취임 — 공동창업자 리드 헤이스팅스 의장직 퇴임
+> impact: neutral / category: other
+
+> [!claim] (출처: Yahoo Finance / CNBC, 2026-04-15) 가입자 3억2,500만+, Q1 자사주 $13억 매입(1,350만주) — 잔여 승인 $68억
+> impact: + / category: earnings
+
+> [!claim] (출처: Simply Wall St / 247WallSt, 2026-06-05) 스포티파이·NFLX $1억 독점 팟캐스트 계약 — 라이브·팟캐스트 영상 콘텐츠 확장
+> impact: + / category: product
+
+**경쟁사 동향**:
+- DIS: Disney Q2 스트리밍 영업이익 +88%, SVOD 마진 11% → DIS 스트리밍 흑자 전환 확인 — NFLX 시장 지배력이 경쟁사 수익성 개선에도 유지
+- SPOT: Spotify $1억 팟캐스트 계약 파트너 → SPOT·NFLX 협력 강화 — 오디오·비디오 콘텐츠 교차 확장
+
+---
 ### 2026-05-17
 
 **narrative_score**: +0.45 (첫 기록)

@@ -1,7 +1,7 @@
 ---
 title: "EA - Electronic Arts Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,8 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: PIF·실버레이크·어피니티 컨소시엄의 $550억 인수가 규제 심사를 통과하여 완료될 것인가 (pending)
 - [ ] **2026-05-17**: EA Q1 CY2026 EPS 예상치 하회가 일회성인지, 비용 구조 문제인지 Q2에서 확인 필요 (pending)
+
+- [ ] **2026-06-07**: EA $550억 비공개 인수 CFIUS 승인 여부 — 안보 심사 결과 게임 섹터 최대 이슈 (결정 전까지 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
@@ -36,7 +38,23 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-07
 
+
+**narrative_score**: +0.10
+**key_events**: FY26 넷북킹 사상 최대 $80.3억, $550억 비공개 인수 CFIUS 최종 심사 중, 주가 $201.57 (딜가 $210 대비 할인)
+**risks**: CFIUS 안보 심사 거절 리스크, 인수 지연 시 딜 불확실성, 비공개 후 포트폴리오 전략 변화
+
+> [!claim] (출처: EA IR / SEC Form 8-K, 2026-05-05) FY26 넷북킹 사상 최대 $80.3억(+9% YoY) — 배틀필드6 프랜차이즈 사상 최고 실적
+> impact: + / category: earnings
+
+> [!claim] (출처: TIKR / StockAnalysis, 2026-06-03) 사우디 PIF·실버레이크·어피니티 $550억 비공개 인수 $210 합의 — CFIUS 심사가 마지막 관문
+> impact: + / category: m&a
+
+**경쟁사 동향**:
+- TTWO: Take-Two Q4 어닝 비트, GTA VI 11월 출시 확정 → TTWO GTA VI 출시 기대감 vs EA 인수 이벤트 — 게임 섹터 대형 이벤트 동반
+
+---
 ### 2026-05-17
 
 **narrative_score**: +0.13 (첫 기록)

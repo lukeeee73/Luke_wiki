@@ -1,7 +1,7 @@
 ---
 title: "HON - Honeywell International — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -29,15 +29,38 @@ sources: []
 - [ ] **2026-05-17**: HON Aerospace 분사 이후 모기업 HON의 P/E 재평가(리레이팅)가 상방으로 진행될 것인가 (pending)
 - [ ] **2026-05-17**: Quantinuum IPO가 2026년 내 성공적으로 완료되어 HON 장부가치에 긍정적 영향을 줄 것인가 (pending)
 - [ ] **2026-05-17**: 이란 지정학 긴장이 HON 방산 제품 수요를 2분기에도 지속 견인할 것인가 (pending)
+
+- [ ] **2026-06-07**: Honeywell Aerospace(HONA) 분사 후 독립 기업으로서의 주주가치 창출 여부 — 6/29 분사 후 검증
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
+
+> [!fact] (PR Newswire, 2026-06-01) Honeywell Aerospace 분사 기준일 6/15, 완료 6/29 확정. 주주 2주당 HONA 1주, 1:2 역분할 동시 실행.
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-07
 
+
+**narrative_score**: -0.02
+**key_events**: Honeywell Aerospace 분사 기준일 6/15, 완료 6/29 (HONA 상장), 1:2 역분할 동시 실행
+**risks**: Q1 실적 미스 모멘텀 약화, 분사 과정 세금·주주 반응 불확실성, 자동화 사업 단독 성장성 증명 과제
+
+> [!claim] (출처: PR Newswire / Honeywell IR, 2026-06-01) 분사 후 브랜드 공개: Honeywell Technologies(자동화, HON)와 Honeywell Aerospace(HONA)
+> impact: neutral / category: other
+
+> [!claim] (출처: PR Newswire, 2026-06-01) 기준일 6/15, 분리 6/29 — 주주 2주당 HONA 1주, 1:2 역분할 동시 실행
+> impact: neutral / category: other
+
+> [!claim] (출처: Manufacturing Dive / CNBC, 2026-06-03) 하니웰 에어로스페이스 투자자 데이 — 2030년 이익 $65억, 현금흐름 $40억 이상 목표
+> impact: + / category: other
+
+**경쟁사 동향**:
+- GE: GE Aerospace Q1 주문 +87%, 수주잔고 $2,100억 → GE Aerospace 강세 대비 HON 에어로스페이스 분사 준비 중 — 분사 후 직접 비교 가능
+
+---
 ### 2026-05-17
 
 **narrative_score**: +0.18

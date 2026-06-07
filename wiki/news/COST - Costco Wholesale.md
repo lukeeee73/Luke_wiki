@@ -1,7 +1,7 @@
 ---
 title: "COST - Costco Wholesale — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 _(루틴 첫 실행 전 — 비어 있음)_
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-07**: COST 실적 서프라이즈에도 주가 하락 — 시장이 소비 둔화를 선반영하는가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,5 +47,18 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+### 2026-06-07
+
+
+**narrative_score**: +0.17
+**key_events**: Q3 FY26 매출 +11.6% YoY — 2022년 이후 최고 분기 성장률
+**risks**: 소비자 지출 피크 아웃 가능성, 밸류에이션 부담, 대형 유통 섹터 리레이팅
+
+> [!claim] (출처: The Motley Fool, 2026-06-04) Q3 FY26 매출 +11.6% YoY — 2022년 이후 최고 분기 성장률. 우수한 실적에도 주가 하락
+> impact: + / category: earnings
+
+**경쟁사 동향**:
+- WMT: Walmart도 강한 Q1 FY27 실적에도 주가 하락 → 대형 유통 섹터 동반 하락 — 밸류에이션 리레이팅 우려 공유
+
+---
 <!-- DAILY_END -->

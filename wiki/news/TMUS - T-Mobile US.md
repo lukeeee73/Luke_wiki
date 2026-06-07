@@ -1,7 +1,7 @@
 ---
 title: "TMUS - T-Mobile US, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -32,11 +32,30 @@ T-Mobile은 미국 3위 통신사에서 출발했으나 2020년 스프린트(Spr
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
+
+> [!fact] (BusinessWire, 2026-06-01) Charter·Comcast와 T-Mobile 비즈니스 MVNO 독점 계약 체결 확인.
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-07
 
+
+**narrative_score**: +0.16
+**key_events**: Q1 강세·애널리스트 30%+ 상승 전망, Charter·Comcast MVNO 독점 계약, 2030 광대역 1,800~1,900만 목표
+**risks**: 5G 투자 비용 지속, 케이블 사업자와 가격 경쟁 심화, Sprint 통합 시너지 소진
+
+> [!claim] (출처: MarketBeat, 2026-05-05) Q1 견조 실적 — 애널리스트 목표 30%+ 상승 여력, 통신 섹터 최선호주
+> impact: + / category: earnings
+
+> [!claim] (출처: BusinessWire / Charter IR, 2026-06-01) Charter·Comcast와 MVNO 독점 계약 — 비즈니스 고객 5G 공급망 확장
+> impact: + / category: product
+
+**경쟁사 동향**:
+- VZ: Verizon FCC 판결로 -4%, AI 고객서비스 전환 → VZ·T 규제 역풍 속 TMUS 상대적 강자 지위 공고화
+- T: AT&T FCC 규제 역풍 동반 → AT&T도 규제 역풍 — TMUS 디파플레이 포지션 강화
+
+---
 ### 2026-05-17
 
 **narrative_score**: +0.35 (첫 기록)

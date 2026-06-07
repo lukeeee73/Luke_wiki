@@ -1,7 +1,7 @@
 ---
 title: "GE - GE Aerospace — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -33,11 +33,33 @@ GE Aerospace는 민항기 엔진 세계 1위 기업이다. 과거 제너럴 일�
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
+
+> [!fact] (GE Aerospace IR, 2026-04-22) Q1 2026 주문 +87%, 수주잔고 $2,100억 역대 최대, 조정 EPS $1.86(+15.5% 서프라이즈) 확인.
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-07
 
+
+**narrative_score**: +0.23
+**key_events**: Q1 주문 +87%·EPS 어닝 서프라이즈 +15.5%, 수주잔고 $2,100억 역대 최대, 100일 이평선 지지 후 +4% 반등
+**risks**: 밸류에이션 '퍼펙션 프라이스' 부담, 항공사 재정 악화 시 서비스 계약 지연, LEAP 엔진 공급망 병목
+
+> [!claim] (출처: GE Aerospace IR / Investing.com, 2026-04-22) 1분기 주문 +87%, 매출 +25%, 조정 EPS $1.86 — 컨센서스 $1.61 대비 +15.5% 어닝 서프라이즈
+> impact: + / category: earnings
+
+> [!claim] (출처: GE Aerospace IR / AInvest, 2026-04-22) 수주잔고 $2,100억 돌파, 2024년말 대비 $300억 증가 — 연간 가이던스 상향
+> impact: + / category: earnings
+
+> [!claim] (출처: FX Leaders, 2026-06-04) 100일 이동평균선 지지 후 주가 +4% 반등 — 산업재 섹터 대비 아웃퍼폼
+> impact: + / category: other
+
+**경쟁사 동향**:
+- RTX: RTX Pratt & Whitney 상업용 엔진 경쟁 → P&W(RTX) vs LEAP(GE) — 보잉·에어버스 생산 증가로 양사 모두 수혜
+- HON: Honeywell Aerospace 분사 후 직접 경쟁 심화 가능 → HONA 분사 후 항공우주 전문 기업으로 GE와 직접 경쟁 가능
+
+---
 ### 2026-05-17
 
 **narrative_score**: +0.45

@@ -1,7 +1,7 @@
 ---
 title: "WMT - Walmart Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 _(루틴 첫 실행 전 — 비어 있음)_
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-07**: 강한 실적에도 주가 하락은 소비 경기 고점 신호인가 vs 단순 밸류에이션 조정인가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,5 +47,22 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+### 2026-06-07
+
+
+**narrative_score**: +0.11
+**key_events**: Q1 FY27 이커머스 +26%, 동일점포 +4.1%, Q2 가이던스 매출 +4-5% 제시
+**risks**: 관세 비용 전가 한계, 소비자 지출 둔화 신호, 아마존 식료품 경쟁 심화
+
+> [!claim] (출처: Walmart IR / SEC Form 8-K, 2026-05-21) Q1 FY27 이커머스 +26%, 동일점포 +4.1% — Q2 가이던스 매출 +4-5%, 영업이익 +7-10% 제시
+> impact: + / category: earnings
+
+> [!claim] (출처: The Motley Fool, 2026-06-04) 강력한 실적에도 주가 하락 — 소비자 경기 둔화 신호로 시장이 해석
+> impact: - / category: macro
+
+**경쟁사 동향**:
+- COST: Q3 FY26 매출 +11.6% YoY 최고 성장률 → COST 회원제 강세 — 대형 유통 섹터 전반 수요 견조 확인
+- AMZN: Amazon grocery e-commerce 점유율 확대 중 → 아마존 식료품 온라인 확장이 WMT 이커머스와 정면 경쟁
+
+---
 <!-- DAILY_END -->

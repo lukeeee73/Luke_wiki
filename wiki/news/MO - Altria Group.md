@@ -1,7 +1,7 @@
 ---
 title: "MO - Altria Group, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -46,5 +46,15 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+### 2026-06-07
+
+
+**narrative_score**: -0.02
+**key_events**: 금일 의미 있는 신규 뉴스 없음. P/E 15.09, 52주 고가 $74.56
+**risks**: 미국 담배 볼륨 감소 추세, FDA 멘솔 담배 규제 불확실성, 차세대 담배 전환 속도
+
+**경쟁사 동향**:
+- PM: Philip Morris iQOS 글로벌 확장 지속 → PM 가열담배 해외 확장 vs MO 미국 집중 — 해외 없는 MO는 볼륨 감소 헤드윈드
+
+---
 <!-- DAILY_END -->

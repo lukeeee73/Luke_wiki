@@ -1,7 +1,7 @@
 ---
 title: "UPS - United Parcel Service — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-17
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,8 @@ UPS(United Parcel Service)는 '갈색 트럭'으로 전 세계에 알려진 글�
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: 네트워크 재편 비용 절감 효과가 2026년 하반기 마진 개선으로 가시화될 것인가 (pending)
 - [ ] **2026-05-17**: 아마존 물류 내재화로 인한 UPS 물량 감소가 2026년 전체 매출에서 유의미하게 드러날 것인가 (pending)
+
+- [ ] **2026-06-07**: UPS 아마존 물량 감축이 실제 마진 개선으로 이어지는가 — 분기 실적으로 검증
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
@@ -36,7 +38,27 @@ UPS(United Parcel Service)는 '갈색 트럭'으로 전 세계에 알려진 글�
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-07
 
+
+**narrative_score**: -0.10
+**key_events**: 아마존 물량 50%+ 감축 가속, 화물기 사고 안전 조사, 멕시코 항공화물 $5,000만 투자
+**risks**: 아마존 물량 감축에 따른 매출 공백, 화물기 사고 규제·보상 리스크, e-commerce 성장 둔화
+
+> [!claim] (출처: Ad-hoc News / Simply Wall St, 2026-06-01) 아마존 물량 50%+ 감축 가속 — 저마진 물량 제거로 영업이익·순마진 개선 목표
+> impact: neutral / category: other
+
+> [!claim] (출처: Barchart / UPS IR, 2026-06-03) 멕시코 항공 화물 $5,000만 투자 — 크로스보더 물류 역량 강화
+> impact: + / category: other
+
+> [!claim] (출처: Simply Wall St, 2026-06-05) 화물기 사고 조사로 안전 우려 부각 — 배당수익률 6.66%로 인컴 투자자 관심 유지
+> impact: - / category: other
+
+**경쟁사 동향**:
+- FDX: FedEx 연간 가이던스 상향·분사 계획 → FDX 가이던스 상향 vs UPS 아마존 의존도 감축 — 단기 매출 감소 감수
+- AMZN: 아마존 자체 물류 네트워크 지속 확장 → 아마존 자체 물류 확장이 UPS 의존도 감축 배경 — 협상력 약화
+
+---
 ### 2026-05-17
 
 **narrative_score**: -0.10

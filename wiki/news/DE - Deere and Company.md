@@ -1,7 +1,7 @@
 ---
 title: "DE - Deere & Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-06-07
 domain: finance
 type: claim
 weight: reference
@@ -46,5 +46,18 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
-_(루틴 첫 실행 전 — 비어 있음)_
+### 2026-06-07
+
+
+**narrative_score**: +0.03
+**key_events**: 인디애나 물류센터·NC 굴삭기 공장 신설
+**risks**: 농산물 가격 하락 시 농기계 수요 감소, 농업 대출 조건 악화
+
+> [!claim] (출처: Yahoo Finance / Stockanalysis, 2026-01-15) 인디애나 물류센터 + 노스캐롤라이나 굴삭기 공장 신설 발표 — 미국 생산 역량 확대
+> impact: + / category: other
+
+**경쟁사 동향**:
+- CAT: Caterpillar Q1 매출 +22%, 사상 최대 수주잔고 → CAT 건설장비 수요 강세는 DE 농기계·건설장비 업황 호조와 맥락 공유
+
+---
 <!-- DAILY_END -->
