@@ -1,7 +1,7 @@
 ---
 title: "PLTR - Palantir Technologies Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-01
+updated: 2026-06-08
 domain: finance
 type: claim
 weight: reference
@@ -29,8 +29,9 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-18**: Q1 매출 +85% YoY, EPS 크게 상회, FY 가이던스 +10pt 상향 (**verified** 2026-06-01: 다수 매체 재확인, 주간 +13% 급등으로 모멘텀 지속)
-- [ ] **2026-05-18**: 97배 선행 PER → 밸류에이션 압박 (pending — 주가 $160까지 상승해 압박 지속)
-- [ ] **2026-06-01**: 주간 +13% 급등 모멘텀이 달 단위로 지속되어 $200 목표 조기 도달할 것 (7일 검증 대기)
+- [ ] **2026-05-18**: 97배 선행 PER → 밸류에이션 압박 (pending — 주가 $137 수준, 고밸류에이션 리스크 지속)
+- [ ] **2026-06-01**: 주간 +13% 급등 모멘텀이 달 단위로 지속되어 $200 목표 조기 도달할 것 (pending — 현재 $137, $200까지 46% 추가 상승 필요, 월 단위 지속 모니터링)
+- [ ] **2026-06-08**: FY2026 가이던스 +71% ($7.65~7.66B)가 실제 달성되면 현재 밸류에이션이 정당화될 것 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,6 +43,9 @@ sources: []
 <!-- FACTS_START -->
 > [!fact] (CNBC + Trading Key, 2026-05-05/2026-06-01) Palantir Q1 2026 매출 $1.633B (+85% YoY) 확정
 > 미국 상업 +133%, 정부 +84%. FY2026 가이던스 $7.65~7.66B. 역대 최고 분기 실적.
+> [!fact] (Capital.com + Yahoo Finance, 2026-06-08) Palantir Q1 2026 EPS $0.33 어닝 서프라이즈 + FY2026 가이던스 +71% 확정
+> Q1 adj EPS $0.33 (컨센서스 $0.27 대비 22% 초과). FY2026 매출 가이던스 $7.65~7.66B, +71% YoY. 미국 세 자릿수 성장.
+
 <!-- FACTS_END -->
 
 ---
@@ -49,6 +53,28 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-08
+
+**narrative_score**: +0.46
+**key_events**: Q1 EPS $0.33 (컨센서스 22% 초과), FY2026 가이던스 $7.65~7.66B (+71% YoY), 미국 세 자릿수 성장, Google Cloud 파트너십
+**risks**: 고밸류에이션 ($137, 97배 PER 추정), 방산·정부 예산 삭감 리스크
+
+> [!claim] (출처: Capital.com, 2026-06-08) Q1 2026 매출 $16.3억, adj EPS $0.33 — 컨센서스 $0.27 대비 22% 초과
+> 미국 사업 세 자릿수 성장. impact: + / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-06-08) FY2026 연간 가이던스 $7.65~7.66B (+71% YoY)로 대폭 상향
+> 강력한 AI 수요 파이프라인 확인. impact: + / category: earnings
+
+> [!claim] (출처: MarketBeat, 2026-06-08) Google Cloud와 파트너십으로 AIP 기업 배포 가속
+> 클라우드 생태계 접근성 확장. impact: + / category: other
+
+**경쟁사 동향**:
+- IBM: Nvidia Vera Rubin·Google Cloud 파트너십 — PLTR 방산·정부 시장 경쟁 (impact for PLTR: -)
+- MSFT: Azure AI 7개 모델 — PLTR AIP 차별화 과제 (impact for PLTR: -)
+
+---
+
 
 ### 2026-06-01
 

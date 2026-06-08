@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-08
 domain: finance
 type: index
 weight: reference
@@ -37,16 +37,16 @@ sources: []
 
 | Ticker                                          | as_of      | score  | 핵심 한 줄                                         | open claims |
 | ----------------------------------------------- | ---------- | ------ | ----------------------------------------------- | ----------- |
-| [AAPL](AAPL - Apple Inc.md)                     | 2026-06-01 | +0.13  | Q3 가이던스 +14~17% 컨센서스 대폭 상회, WWDC 6/8 AI 발표 기대  | 3           |
-| [MSFT](MSFT - Microsoft Corporation.md)         | 2026-06-01 | +0.18  | AI 사업 $37B 연환산(+123%), Build 2026 자체 AI 코딩 모델   | 2           |
-| [GOOGL](GOOGL - Alphabet Inc.md)                | 2026-06-01 | +0.24  | Q1 순이익 +81%, $800억 AI 자본 조달, 목표주가 $427.89      | 1           |
-| [AMZN](AMZN - Amazon.com Inc.md)                | 2026-06-01 | -0.13  | AWS EU 규제+ACCC 소송으로 -3.5%, $200B capex 부담      | 3           |
-| [META](META - Meta Platforms Inc.md)            | 2026-06-01 | +0.03  | EU DSA 조사·UK 조사 (-), Q1 +33%·Q2 가이던스 강세 (+)    | 1           |
-| [ORCL](ORCL - Oracle Corporation.md)            | 2026-06-01 | +0.20  | +5.56% (Project Jupiter+정부 AI 계약), 백로그 $5530억    | 1           |
-| [CRM](CRM - Salesforce, Inc.md)                 | 2026-06-01 | +0.24  | Q1 FY27 +13% 서프라이즈·+9.7%, Contentful 인수·Anthropic $5B | 1           |
-| [ADBE](ADBE - Adobe Inc.md)                     | 2026-06-01 | +0.05  | Nvidia AI 협업·+5.7% 반등, Q2 실적 6/11 예정          | 2           |
-| [IBM](IBM - International Business Machines.md) | 2026-06-01 | +0.18  | Nvidia 파트너십·Barclays 상향·5월 +32% (24년래 최고)      | 1           |
-| [PLTR](PLTR - Palantir Technologies Inc.md)     | 2026-06-01 | +0.28  | Q1 $1.63B(+85%)·주간 +13%, 12개월 목표 $200          | 2           |
+| [AAPL](AAPL - Apple Inc.md)                     | 2026-06-08 | +0.09  | WWDC 2026 Apple Intelligence·AI Siri 공개, 주가 sell-the-news -1.89%  | 2           |
+| [MSFT](MSFT - Microsoft Corporation.md)         | 2026-06-08 | +0.13  | MAI-Thinking-1 포함 7개 AI 모델 + Majorana 2 양자칩 공개, YTD -12%   | 2           |
+| [GOOGL](GOOGL - Alphabet Inc.md)                | 2026-06-08 | +0.07  | capex $180~190B 상향, $25B Blackstone TPU 벤처, 배당 권리락 주가 -1.18%  | 2           |
+| [AMZN](AMZN - Amazon.com Inc.md)                | 2026-06-08 | +0.17  | Corning 광섬유 대규모 계약, 자연어 물류 로봇 출시, 62명 전원 매수      | 2           |
+| [META](META - Meta Platforms Inc.md)            | 2026-06-08 | +0.17  | Q1 EPS 57% 어닝 서프라이즈, 비즈니스 AI 에이전트 글로벌 출시           | 2           |
+| [ORCL](ORCL - Oracle Corporation.md)            | 2026-06-08 | +0.30  | Q4 발표 6/12 (매출 +20% 기대), RPO +325% $533B, 3개 증권사 목표가 상향  | 1           |
+| [CRM](CRM - Salesforce, Inc.md)                 | 2026-06-08 | +0.47  | Q1 FY27 EPS +50% (컨센 24% 초과), Agentforce ARR $1.2B (+205%)       | 2           |
+| [ADBE](ADBE - Adobe Inc.md)                     | 2026-06-08 | -0.17  | Q2 발표 6/11, YTD -27.49%, 애널 혼조 (Stifel $400↑ vs TD Cowen $285↓) | 2           |
+| [IBM](IBM - International Business Machines.md) | 2026-06-08 | +0.24  | $10B 양자컴퓨팅 투자 (+7%), Nvidia Vera Rubin 파트너, BofA $315 상향   | 2           |
+| [PLTR](PLTR - Palantir Technologies Inc.md)     | 2026-06-08 | +0.46  | Q1 EPS 22% 어닝 서프라이즈, FY2026 가이던스 +71%, 미국 세 자릿수 성장  | 2           |
 
 ### 반도체
 
@@ -271,6 +271,15 @@ sources: []
 - **연속성 (NEE-D 합병)**: 2주 연속 NEE 합병 스토리가 NEE와 D 양쪽 모두에 등장 — 규제 승인이 핵심 관문으로 부각.
 - **모순 (NEM)**: 5월 29일 -0.03 (생산 하락·비용 우려) → 6월 5일 +0.24 (Q1 FCF $31억 기록) — 금값 $4,900 신고점이 비용 우려를 완전히 역전시킴.
 - **섹터간 전파**: 한 섹터의 충격이 다른 섹터로 번지는 패턴 (예: AI capex → 반도체 + 데이터센터 REIT + 유틸리티 동시 수혜)
+
+### 감지된 패턴 (2026-06-08 · 빅테크 / 소프트웨어)
+
+- **섹터 동기화 (AI 인프라 초대형 투자)**: GOOGL capex $180~190B + META capex $145B + AMZN Corning 광섬유 계약 — 빅테크 AI 인프라 군비경쟁 본격화. 반도체·데이터센터 REIT 동반 수혜 기대.
+- **섹터 동기화 (어닝 서프라이즈 물결)**: CRM +47% narrative (+0.47), PLTR +46% (+0.46), ORCL +30% (+0.30) — 엔터프라이즈 AI SaaS 어닝 서프라이즈 동시 다발.
+- **역방향 신호**: ADBE -0.17 — YTD -27.49%, Q2 실적 불확실성·CEO 교체로 섹터 내 유일한 약세. AI 크리에이티브 시장 경쟁 심화 vs. 섹터 전반 강세 간 디커플링.
+- **최고 신호**: CRM +0.47 — Agentforce ARR +205%, Q1 EPS 24% 어닝 서프라이즈. PLTR +0.46 — FY2026 가이던스 +71%, 미국 세 자릿수 성장.
+- **경고 신호**: ADBE -0.17 — 섹터 내 유일한 약세. AAPL +0.09 — WWDC Apple Intelligence 공개에도 sell-the-news -1.89%.
+- **섹터간 전파**: 빅테크 AI capex 확대 → 반도체(NVDA·AVGO) + 유틸리티(AI 전력수요) + 광섬유(Corning) 연쇄 수혜. IBM $10B 양자 투자 → 양자컴퓨팅 테마 부각.
 
 ### 감지된 패턴 (2026-05-18 · 빅테크 / 소프트웨어)
 

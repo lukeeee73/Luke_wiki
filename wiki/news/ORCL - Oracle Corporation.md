@@ -1,7 +1,7 @@
 ---
 title: "ORCL - Oracle Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-01
+updated: 2026-06-08
 domain: finance
 type: claim
 weight: reference
@@ -29,7 +29,8 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-18**: Wedbush·Oppenheimer 목표주가 동시 상향 ($275/$235), 삼성 Java 계약 체결 (**verified** 2026-06-01: 오늘 주가 +5.56%, 목표주가 추가 상향 — 모멘텀 지속 확인)
-- [ ] **2026-06-01**: Q4 FY2026 실적(6/10) 발표 시 OCI 백로그 규모 재차 컨센서스 상회할 것 (7일 검증 대기)
+- [ ] **2026-06-01**: Q4 FY2026 실적 발표 시 OCI 백로그 규모 재차 컨센서스 상회할 것 (pending — 발표일 6/12로 확인, 현재 3개 증권사 추가 목표가 상향으로 기대 고조)
+- [ ] **2026-06-08**: Q4 매출 +20% ($19.19B) 달성 및 RPO $533B 이상 유지로 AI 클라우드 지배력 재확인될 것 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -44,6 +45,9 @@ sources: []
 
 > [!fact] (Trading Key, 2026-06-01) Oracle 미 정부 AI 국가안보 클라우드 계약 체결
 > 뉴멕시코 Project Jupiter 대규모 데이터센터 착공 계획.
+> [!fact] (Yahoo Finance + CNN, 2026-06-08) Oracle Q3 RPO $533B (+325% YoY) 확정, Q4 발표 6/12 예정
+> 3개 주요 증권사(Evercore·Oppenheimer·TD Cowen) 목표가 일제히 상향. 4월 저점 대비 +60% 랠리.
+
 <!-- FACTS_END -->
 
 ---
@@ -51,6 +55,28 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-08
+
+**narrative_score**: +0.30
+**key_events**: Q4 실적 발표 6/12 예정, 매출 +20% 기대, Q3 RPO +325% $533B, Evercore·Oppenheimer·TD Cowen 목표가 상향
+**risks**: Q4 실망 시 60% 랠리 되돌림 가능성, AI 채무 부담, 대형 AI 고객 집중 리스크
+
+> [!claim] (출처: Yahoo Finance, 2026-06-08) Oracle Q4 FY2026 실적 발표 6월 12일 — 매출 +20% $19.19B 예상
+> 35명 전원 Buy 컨센서스. impact: + / category: earnings
+
+> [!claim] (출처: StockTwits, 2026-06-08) Evercore·Oppenheimer·TD Cowen 목표주가 일제히 상향
+> Q4 어닝 강세 기대 선반영. impact: + / category: other
+
+> [!claim] (출처: CNN Markets, 2026-06-08) Q3 잔여이행의무(RPO) $533B (+325% YoY) — AI 클라우드 수요 폭발
+> 4월 저점 대비 +60% 랠리 지속. impact: + / category: earnings
+
+**경쟁사 동향**:
+- CRM: Agentforce ARR $1.2B (+205%) — Oracle CRM 클라우드 경쟁 압박 (impact for ORCL: -)
+- MSFT: Azure AI 7개 모델 확장 — Oracle Cloud AI 서비스 경쟁 (impact for ORCL: -)
+
+---
+
 
 ### 2026-06-01
 

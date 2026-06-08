@@ -1,7 +1,7 @@
 ---
 title: "AAPL - Apple Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-01
+updated: 2026-06-08
 domain: finance
 type: claim
 weight: reference
@@ -28,9 +28,10 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-18**: Apple 첫 폴더블 기기 힌지 결함 — 출시 2027년으로 지연 가능 (pending)
-- [ ] **2026-06-01**: WWDC 2026(6월 8일) AI 발표가 AI 생태계 경쟁력 격차를 좁힐 것 (7일 검증 대기)
-- [ ] **2026-06-01**: 존 테르누스 CEO 교체로 제품 전략 연속성 유지 여부 (7일 검증 대기)
+- [x] **2026-05-18**: Apple 첫 폴더블 기기 힌지 결함 — 출시 2027년으로 지연 가능 (**aged-out** 2026-06-08: 21일 내 추가 확인 없음, WWDC에서도 언급 없음)
+- [x] **2026-06-01**: WWDC 2026(6월 8일) AI 발표가 AI 생태계 경쟁력 격차를 좁힐 것 (**verified** 2026-06-08: Apple Intelligence·AI Siri 공개 확정, 단 주가는 sell-the-news로 -1.89%)
+- [ ] **2026-06-01**: 존 테르누스 CEO 교체로 제품 전략 연속성 유지 여부 (pending — WWDC에서 전략 방향 확인됐으나 신임 CEO 공식 발표 미확인)
+- [ ] **2026-06-08**: Apple Intelligence 플랫폼이 내년 기기 업그레이드 사이클을 자극해 2027 하드웨어 매출 상승 견인할 것 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,6 +43,9 @@ sources: []
 <!-- FACTS_START -->
 > [!fact] (CNBC + Apple IR, 2026-04-30) Apple Q3 2026 매출 가이던스 +14~17% YoY
 > 애널리스트 컨센서스 +9.5% 대폭 상회. 이사회 $1000억 자사주매입 추가 승인, 배당 4% 인상($0.27/주) 확정.
+> [!fact] (Motley Fool + Gurufocus, 2026-06-08) WWDC 2026 Apple Intelligence 플랫폼 공식 출시 확정
+> 차세대 AI Siri·Apple Intelligence 발표. 팀 쿡의 마지막 WWDC. 주가 종가 $301.54(-1.89%), 거래량 평균比 +68%.
+
 <!-- FACTS_END -->
 
 ---
@@ -49,6 +53,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-08
+
+**narrative_score**: +0.09
+**key_events**: WWDC 2026 Apple Intelligence·AI Siri 공개, Tim Cook 마지막 WWDC, 주가 sell-the-news -1.89%
+**risks**: CEO 전환기 불확실성, MS·Google AI 인프라 초대형 투자 압박, WWDC 이후 실질 AI 수익화 일정 불분명
+
+> [!claim] (출처: Motley Fool, 2026-06-08) WWDC 2026 — 차세대 AI Siri·Apple Intelligence 플랫폼 공개
+> iOS/macOS 전면 AI 통합. 주가는 발표 직후 $317까지 상승했다가 종가 $301.54(-1.89%)로 마감. impact: + / category: product
+
+> [!claim] (출처: Motley Fool, 2026-06-08) Tim Cook의 마지막 WWDC — CEO 교체 전환기 돌입
+> 리더십 공백 없이 제품 전략 연속성 유지 여부가 향후 핵심 모니터링 포인트. impact: neutral / category: other
+
+**경쟁사 동향**:
+- MSFT: MAI-Thinking-1 포함 7개 자체 AI 모델 출시 — Apple Intelligence와 소비자 AI 경쟁 심화 (impact for AAPL: -)
+- GOOGL: $25B Blackstone TPU 벤처 + capex $180~190B 상향 — AI 인프라 격차 압박 지속 (impact for AAPL: -)
+
+---
+
 
 ### 2026-06-01
 

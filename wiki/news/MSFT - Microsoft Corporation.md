@@ -1,7 +1,7 @@
 ---
 title: "MSFT - Microsoft Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-01
+updated: 2026-06-08
 domain: finance
 type: claim
 weight: reference
@@ -29,7 +29,9 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-18**: MSFT OpenAI 의존도 탈피 → 독립 AI 성장 전략 구체화 (**verified** 2026-06-01: Build 2026에서 자체 AI 코딩 모델 공개 확정)
-- [ ] **2026-06-01**: Build 2026 자체 AI 코딩 모델이 GitHub Copilot 시장 점유율 개선으로 이어질 것 (7일 검증 대기)
+- [x] **2026-06-01**: Build 2026 자체 AI 코딩 모델이 GitHub Copilot 시장 점유율 개선으로 이어질 것 (**aged-out** 2026-06-08: 7일 내 시장 점유율 변화 데이터 없음; 단 AI 모델 포트폴리오 7종 추가 확장 확인)
+- [ ] **2026-06-08**: MAI-Thinking-1 추론 모델이 OpenAI o3 대비 Azure AI 고객 이탈 방지에 기여할 것 (7일 검증 대기)
+- [ ] **2026-06-08**: Majorana 2 양자칩 로드맵이 2029년 내결함성 양자컴퓨터 상용화로 현실화될 것 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -44,6 +46,9 @@ sources: []
 
 > [!fact] (24/7 Wall St. + Company announcements, 2026-06-01) Microsoft Build 2026 자체 AI 코딩 모델 발표 예정
 > OpenAI 의존 탈피 전략 공식화. 6월 2~3일 컨퍼런스.
+> [!fact] (CNBC + CNN, 2026-06-08) Microsoft AI 모델 포트폴리오 7종 출시 + Majorana 2 양자칩 공개
+> MAI-Thinking-1 추론 모델 포함 7개 자체 모델. Majorana 2 양자칩 발표로 2029 내결함성 양자컴퓨터 로드맵 공개.
+
 <!-- FACTS_END -->
 
 ---
@@ -51,6 +56,28 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-08
+
+**narrative_score**: +0.13
+**key_events**: 자체 AI 모델 7종 출시(MAI-Thinking-1 포함), Majorana 2 양자칩 공개, 주가 $411~416, YTD -12%
+**risks**: YTD 언더퍼폼 지속, Apple·Google AI 생태계 확장으로 Copilot 경쟁 격화
+
+> [!claim] (출처: CNBC, 2026-06-08) Microsoft MAI-Thinking-1 포함 7개 자체 AI 모델 출시
+> OpenAI 의존 탈피 가속화. Azure AI 포트폴리오 확장. impact: + / category: product
+
+> [!claim] (출처: CNN Markets, 2026-06-08) Majorana 2 양자칩 공개 — 내결함성 양자컴퓨터 로드맵 가속
+> 2029년 목표. IBM 양자 로드맵과 직접 경쟁. impact: + / category: product
+
+> [!claim] (출처: Yahoo Finance, 2026-06-08) YTD -12%, 55명 중 52명 매수 추천, 목표가 $522.53
+> 저평가 구간 인식 확산, 장기 상승여력 25% 제시. impact: neutral / category: other
+
+**경쟁사 동향**:
+- AAPL: WWDC Apple Intelligence 론칭 — Copilot vs. Apple AI 소비자 시장 직접 경쟁 (impact for MSFT: -)
+- GOOGL: GCP capex $180~190B — Azure vs. GCP AI 인프라 경쟁 격화 (impact for MSFT: -)
+
+---
+
 
 ### 2026-06-01
 

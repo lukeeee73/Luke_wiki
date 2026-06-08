@@ -1,7 +1,7 @@
 ---
 title: "CRM - Salesforce, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-01
+updated: 2026-06-08
 domain: finance
 type: claim
 weight: reference
@@ -30,7 +30,9 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-18**: $25B 자사주 매입 (역대 최대), Agentforce ARR +200% — 주가 회복 촉매 기대 (**verified** 2026-06-01: $25B ASR 공식 확정 + Q1 FY27 +13% 어닝 서프라이즈로 주가 +9.7%)
 - [x] **2026-05-18**: BofA Underperform 하향, AI 에이전트가 SaaS 좌석 수요 잠식 우려 (**refuted** 2026-06-01: Q1 FY27 강한 성장 + 주가 +9.7% — BofA 우려 단기 반증)
-- [ ] **2026-06-01**: Contentful 인수·Anthropic $50억 투자가 AI CRM 시장 점유율 확대로 이어질 것 (7일 검증 대기)
+- [x] **2026-06-01**: Contentful 인수·Anthropic $50억 투자가 AI CRM 시장 점유율 확대로 이어질 것 (**verified** 2026-06-08: Agentforce ARR $1.2B (+205%) — 2026년 엔터프라이즈 AI SaaS 최속 성장 확인)
+- [ ] **2026-06-08**: Agentforce ARR $1.2B (+205%)가 2026년 말 $3B 이상으로 가속될 것 (7일 검증 대기)
+- [ ] **2026-06-08**: Q1 FY2027 EPS 50% 성장이 연간 가이던스 상향으로 이어질 것 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +47,9 @@ sources: []
 
 > [!fact] (Yahoo Finance + Gurufocus, 2026-06-01) Salesforce Contentful CMS 인수 계약 체결
 > Q3 FY27 완료 예정. Anthropic AI $50억 투자 + 프랑스 $20억 AI Hub 확정.
+> [!fact] (Salesforce IR + Yahoo Finance, 2026-06-08) CRM Q1 FY2027 EPS $3.88 (+50% YoY) + Agentforce ARR $1.2B (+205%) 확정
+> 비GAAP EPS $3.88로 컨센서스 $3.13 대비 24% 초과. Agentforce가 2026년 엔터프라이즈 AI SaaS 최속 성장 플랫폼으로 등극.
+
 <!-- FACTS_END -->
 
 ---
@@ -52,6 +57,28 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-08
+
+**narrative_score**: +0.47
+**key_events**: Q1 FY2027 EPS $3.88 (+50% YoY, 컨센서스 24% 초과), Agentforce ARR $1.2B (+205%), $0.44 분기 배당
+**risks**: MSFT Copilot CRM 확장, Oracle CX Cloud 경쟁, 고밸류에이션
+
+> [!claim] (출처: Salesforce IR, 2026-06-08) Q1 FY2027 비GAAP EPS $3.88 (+50% YoY) — 컨센서스 $3.13 대비 24% 초과
+> 역대 최강 분기 어닝 서프라이즈. impact: + / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-06-08) Agentforce ARR $1.2B (+205% YoY) — 2026년 엔터프라이즈 SaaS 최속 성장
+> impact: + / category: product
+
+> [!claim] (출처: StockTitan, 2026-06-08) $0.44/주 분기 배당 선언 (지급일 7/2)
+> impact: neutral / category: other
+
+**경쟁사 동향**:
+- MSFT: Azure AI 코딩 모델 확장으로 Copilot CRM 기능 강화 (impact for CRM: -)
+- ORCL: Q4 실적 발표(6/12) 앞두고 RPO +325% — Oracle CX Cloud 경쟁 (impact for CRM: -)
+
+---
+
 
 ### 2026-06-01
 
