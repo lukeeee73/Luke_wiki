@@ -1,7 +1,7 @@
 ---
 title: "META - Meta Platforms Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-01
+updated: 2026-06-08
 domain: finance
 type: claim
 weight: reference
@@ -30,7 +30,9 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-18**: Q1 매출 $56.3B (+33%), EPS 어닝 서프라이즈 (**verified** 2026-06-01: 다수 매체 확인, 광고 노출 +19%·단가 +12% 세부 수치도 확정)
 - [x] **2026-05-18**: 2026 capex $125B (+8% 상향) (**verified** 2026-06-01: $115~135B 범위로 최종 확정)
-- [ ] **2026-06-01**: EU DSA 위반 조사·영국 메시징 시장 조사 중 하나 이상이 실질적 벌금으로 이어질 것 (7일 검증 대기)
+- [x] **2026-06-01**: EU DSA 위반 조사·영국 메시징 시장 조사 중 하나 이상이 실질적 벌금으로 이어질 것 (**aged-out** 2026-06-08: 7일 내 실질 벌금 결정 없음, 조사는 지속 중)
+- [ ] **2026-06-08**: 2026 capex $125~145B 상향이 FCF 마진을 15%p 이상 압박해 주가 재조정 유발할 것 (7일 검증 대기)
+- [ ] **2026-06-08**: Agentforce(비즈니스 AI 에이전트) 글로벌 출시가 광고 전환율 및 ARPU 상승으로 이어질 것 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +47,9 @@ sources: []
 
 > [!fact] (Meta IR, 2026-06-01) 분기 배당 $0.525/주 (6월 25일 지급) 선언
 > Q2 2026 매출 가이던스 $58~61B. 2026 capex $115~135B 최종 확정.
+> [!fact] (Meta IR + 다수 매체, 2026-06-08) Meta 비즈니스 AI 에이전트 글로벌 출시 확정
+> 전 세계 WhatsApp·Messenger 기업 계정 대상 배포 완료. 광고 전환율 초기 개선 효과 확인.
+
 <!-- FACTS_END -->
 
 ---
@@ -52,6 +57,28 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-08
+
+**narrative_score**: +0.17
+**key_events**: Q1 EPS 57% 어닝 서프라이즈 ($10.44), 비즈니스 AI 에이전트 글로벌 출시, capex $125~145B 상향, $0.525 배당
+**risks**: capex $145B FCF 압박, EU DMA 규제 지속, 광고 AI vs. 비용 균형
+
+> [!claim] (출처: Yahoo Finance, 2026-06-08) Meta Q1 2026 EPS $10.44 (+57% vs 컨센서스) / 매출 $56.31B (+33% YoY)
+> 어닝 서프라이즈 확인. impact: + / category: earnings
+
+> [!claim] (출처: Motley Fool, 2026-06-07) 비즈니스 AI 에이전트 전 세계 출시, 주가 4%+ 급등
+> 광고 AI 전환율 이미 개선 효과 가시화. impact: + / category: product
+
+> [!claim] (출처: Yahoo Finance, 2026-06-08) 2026 capex 가이던스 $125~145B 상향 (기존 $115~135B)
+> FCF 마진 압박 우려로 이전 발표 당시 주가 ~8% 하락. impact: - / category: earnings
+
+**경쟁사 동향**:
+- GOOGL: capex $180~190B로 더 큰 규모 AI 인프라 투자 — META 광고 AI 경쟁 격화 (impact for META: -)
+- SNAP: Meta 광고 AI 개선으로 소형 플랫폼 점유율 Meta로 이전 가속 (impact for META: +)
+
+---
+
 
 ### 2026-06-01
 

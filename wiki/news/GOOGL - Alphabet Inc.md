@@ -1,7 +1,7 @@
 ---
 title: "GOOGL - Alphabet Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-01
+updated: 2026-06-08
 domain: finance
 type: claim
 weight: reference
@@ -30,7 +30,9 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-18**: 2026 EPS 컨센서스 $11.63→$14.22 상향, 클라우드 시장 점유율 확대 (**verified** 2026-06-01: Q1 EPS $5.17 (+82% YoY), 목표주가 $427.89로 추가 상향)
 - [x] **2026-05-18**: Bill Ackman GOOGL 전량 매도 — 기관 투자자 이탈 신호 (**refuted** 2026-06-01: Berkshire Hathaway $100억 신규 투자 — 기관 자금 유입으로 반증)
-- [ ] **2026-06-01**: $800억 AI 자본 조달이 GCP·Waymo 경쟁력 급격히 높일 것 (7일 검증 대기)
+- [x] **2026-06-01**: $800억 AI 자본 조달이 GCP·Waymo 경쟁력 급격히 높일 것 (**aged-out** 2026-06-08: 7일 내 시장 점유율 변화 미확인; 단 capex $180~190B·$25B TPU 벤처로 투자 확장 확인)
+- [ ] **2026-06-08**: $25B Blackstone TPU 벤처가 GCP AI 추론 속도를 경쟁사 대비 30%+ 개선할 것 (7일 검증 대기)
+- [ ] **2026-06-08**: 2026 capex $180~190B 초대형 투자가 2027 EPS 성장률을 단기 훼손할 것 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +47,9 @@ sources: []
 
 > [!fact] (Yahoo Finance + Simply Wall St., 2026-06-01) Alphabet $80B AI 자본 조달, Berkshire $10B 투자
 > 역대 최대 규모 AI 인프라 확장 자금. 버크셔 신규 투자로 기관 매수 신호 확인.
+> [!fact] (Yahoo Finance + Google Finance, 2026-06-08) Alphabet 2026 capex $180~190B 상향 + $25B Blackstone TPU 벤처 확정
+> 2026 전체 AI 인프라 투자 $1,800~1,900억. Blackstone와 합작 TPU AI 벤처 $250억 규모. 배당 권리락일 2026-06-08.
+
 <!-- FACTS_END -->
 
 ---
@@ -52,6 +57,28 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-08
+
+**narrative_score**: +0.07
+**key_events**: 2026 capex $180~190B 상향, $25B Blackstone TPU 벤처, 배당 $0.22 권리락, 주가 -1.18%
+**risks**: 초대형 capex FCF 압박, EU AI Act 규제, 복잡한 자본구조 변화
+
+> [!claim] (출처: Yahoo Finance, 2026-06-08) 2026 AI 인프라 capex 가이던스 $180~190B 상향
+> 2026 매출 전망도 $486.5B, EPS $14.22로 상향. impact: - / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-06-08) Blackstone와 $25B TPU AI 인프라 합작 벤처 설립
+> 장기 AI 연산 인프라 경쟁력 강화. impact: + / category: other
+
+> [!claim] (출처: Google Finance, 2026-06-08) 배당 $0.22 권리락일(오늘) — 단기 주가 하향 압력
+> 주가 -1.18% 하락. impact: - / category: other
+
+**경쟁사 동향**:
+- MSFT: Azure AI 7개 모델 출시 — Google Cloud AI 서비스 직접 경쟁 (impact for GOOGL: -)
+- META: 광고 AI 개선으로 Meta 광고 점유율 상승 — Google 광고 점유율 일부 잠식 가능성 (impact for GOOGL: -)
+
+---
+
 
 ### 2026-06-01
 

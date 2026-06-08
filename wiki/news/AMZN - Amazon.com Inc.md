@@ -1,7 +1,7 @@
 ---
 title: "AMZN - Amazon.com Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-01
+updated: 2026-06-08
 domain: finance
 type: claim
 weight: reference
@@ -28,9 +28,11 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-18**: Q1 AWS 성장률 +28% YoY, 시총 $3조 돌파 임박 (Bloomberg 보도) (pending — 오늘 주가 -3.5%, 규제 악재로 $3조 돌파 지연)
-- [ ] **2026-05-18**: 관세 비용 소비자 전가 집단소송 제기 (pending)
-- [ ] **2026-06-01**: EU 클라우드 규제·ACCC 소송이 AWS 정부 계약 수주 능력에 실질적 제약 가할 것 (7일 검증 대기)
+- [x] **2026-05-18**: Q1 AWS 성장률 +28% YoY, 시총 $3조 돌파 임박 (**aged-out** 2026-06-08: 21일 내 $3조 미돌파, 추가 데이터 없음)
+- [x] **2026-05-18**: 관세 비용 소비자 전가 집단소송 제기 (**aged-out** 2026-06-08: 21일 내 소송 진전 뉴스 없음)
+- [x] **2026-06-01**: EU 클라우드 규제·ACCC 소송이 AWS 정부 계약 수주 능력에 실질적 제약 가할 것 (**aged-out** 2026-06-08: 7일 내 규제 실질화 없음, 진행 중)
+- [ ] **2026-06-08**: Corning 광섬유 대규모 계약이 AWS 데이터센터 AI 추론 레이턴시를 경쟁사 대비 개선할 것 (7일 검증 대기)
+- [ ] **2026-06-08**: 자연어 기반 차세대 물류 로봇이 연간 운영비용 5% 이상 절감할 것 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +47,9 @@ sources: []
 
 > [!fact] (FX Leaders, 2026-06-01) AWS EU 클라우드 규제 + 호주 ACCC 아동 안전 소송 동시 개시
 > 양측 동시 규제 압박으로 주가 -3.5%. AWS 5월 7~8일 US East 1 대규모 장애 선행 발생.
+> [!fact] (CNBC, 2026-06-08) Amazon-Corning 광섬유 대규모 공급 계약 체결 확인
+> 미국 AI 데이터센터 확장용 광섬유 수억 달러 이상 규모. 차세대 자연어 물류 로봇도 전국 배포 시작.
+
 <!-- FACTS_END -->
 
 ---
@@ -52,6 +57,28 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-08
+
+**narrative_score**: +0.17
+**key_events**: Corning 광섬유 대규모 공급 계약, 차세대 자연어 물류 로봇 출시, 62명 전원 강력 매수 추천
+**risks**: 주가 소폭 하락 (-0.5%), AWS vs. Azure·GCP 경쟁 심화
+
+> [!claim] (출처: CNBC, 2026-06-08) Amazon-Corning 광섬유 대규모 공급 계약 체결
+> 미국 AI 데이터센터 인프라 확장 가속. impact: + / category: other
+
+> [!claim] (출처: Yahoo Finance, 2026-06-08) 자연어 인식 차세대 물류 로봇 전국 배포 시작
+> 운영 효율화·인건비 절감 기대. impact: + / category: product
+
+> [!claim] (출처: Morningstar, 2026-06-08) 62명 전원 매수 추천, 목표가 $312.79 (+27.8% 상승여력)
+> 강력 매수 컨센서스 유지. impact: + / category: other
+
+**경쟁사 동향**:
+- MSFT: Azure AI 7개 모델 출시 — AWS AI 서비스 경쟁 (impact for AMZN: -)
+- GOOGL: $25B TPU 벤처 — GCP AI 인프라 강화, AWS 경쟁 (impact for AMZN: -)
+
+---
+
 
 ### 2026-06-01
 

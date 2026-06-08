@@ -1,7 +1,7 @@
 ---
 title: "ADBE - Adobe Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-01
+updated: 2026-06-08
 domain: finance
 type: claim
 weight: reference
@@ -28,9 +28,10 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-18**: $25B 자사주 매입 + Semrush 인수 + AI PDF 에이전트 출시 (pending — Semrush 완료 여부 미확인)
+- [x] **2026-05-18**: $25B 자사주 매입 + Semrush 인수 + AI PDF 에이전트 출시 (**partially verified** 2026-06-08: Semrush $1.9B 인수 확정; 자사주 매입 규모 별도 확인 필요)
 - [x] **2026-05-18**: 소프트웨어 섹터 로테이션 — ADBE 주도주 부상, 당일 +3.2% (**verified** 2026-06-01: 오늘도 +5.7% 반등, 소프트웨어 섹터 로테이션 지속 확인)
-- [ ] **2026-06-01**: Q2 FY2026(6/11) 실적이 EPS +15.2% 예상치를 충족해 장기 약세 반전 촉매 될 것 (7일 검증 대기)
+- [ ] **2026-06-01**: Q2 FY2026(6/11) 실적이 EPS +15.2% 예상치를 충족해 장기 약세 반전 촉매 될 것 (pending — 실적 발표 6/11, 오늘 주가 -1%·애널리스트 혼조로 불확실성 고조)
+- [ ] **2026-06-08**: Q2 FY2026 실적 발표(6/11) 후 CEO 교체 불확실성과 AI 경쟁 압박이 하락 압력 지속할 것 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,6 +43,9 @@ sources: []
 <!-- FACTS_START -->
 > [!fact] (Business Wire + StockTitan, 2026-06-01) Adobe Q2 FY2026 실적 발표 6월 11일 확정
 > 예상 EPS $5.83(+15.2% YoY), 예상 매출 $64.6억(+9.9% YoY).
+> [!fact] (Traders Union + Gurufocus, 2026-06-08) Adobe Semrush $1.9B 인수 확정, CEO 교체 진행 중
+> 쉬안타누 나라옌 CEO 퇴임. Q2 FY2026 실적 발표 6월 11일. YTD -27.49% 약세 지속.
+
 <!-- FACTS_END -->
 
 ---
@@ -49,6 +53,31 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-08
+
+**narrative_score**: -0.17
+**key_events**: Q2 실적 발표 6/11 앞두고 주가 -1%, YTD -27.49%, Stifel $400 상향 vs. TD Cowen $285 하향, Semrush $1.9B 인수 확인
+**risks**: AI 경쟁 심화 (MSFT Designer·Canva), CEO 교체 후 전략 불확실, Q2 실망 가능성
+
+> [!claim] (출처: Gurufocus, 2026-06-08) Q2 FY2026 실적 발표 6월 11일 — 불확실성에 주가 -1%
+> impact: - / category: earnings
+
+> [!claim] (출처: Gurufocus, 2026-06-08) Stifel 목표가 $350→$400 상향 (낙관적)
+> impact: + / category: other
+
+> [!claim] (출처: Gurufocus, 2026-06-08) TD Cowen Hold, 목표가 $310→$285 하향
+> AI 경쟁 심화·CEO 교체 우려. impact: - / category: other
+
+> [!claim] (출처: Traders Union, 2026-06-08) YTD -27.49%, Semrush $1.9B 인수 확정
+> CEO 쉬안타누 나라옌 퇴임. impact: - / category: other
+
+**경쟁사 동향**:
+- MSFT: Designer·Copilot 크리에이티브 AI 확장 — Adobe Firefly 핵심 시장 압박 (impact for ADBE: -)
+- CRM: Agentforce ARR +205% — 마케팅 클라우드 고객 경쟁 심화 (impact for ADBE: -)
+
+---
+
 
 ### 2026-06-01
 

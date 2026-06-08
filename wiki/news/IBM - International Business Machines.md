@@ -1,7 +1,7 @@
 ---
 title: "IBM - International Business Machines — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-01
+updated: 2026-06-08
 domain: finance
 type: claim
 weight: reference
@@ -30,7 +30,9 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-18**: YTD 메가캡 최하위 (-26%), RBC 목표주가 $330→$300 하향 (**refuted** 2026-06-01: 5월 +32% 역대급 상승, Barclays Overweight $350 개시 — 완전 반전)
 - [x] **2026-05-18**: IBM-Aramco AI 협업 + Red Hat AI 인퍼런스 서비스 출시 — 반등 촉매 (**verified** 2026-06-01: Nvidia 파트너십·Barclays 상향·주가 +7.6% — 반등 촉매 확인)
-- [ ] **2026-06-01**: Nvidia IBM AI 파트너십이 IBM Cloud의 기업 AI 계약 수주 증가로 이어질 것 (7일 검증 대기)
+- [x] **2026-06-01**: Nvidia IBM AI 파트너십이 IBM Cloud의 기업 AI 계약 수주 증가로 이어질 것 (**verified** 2026-06-08: Nvidia Vera Rubin AI 파트너 선정 + Google Cloud 협약 + $10B 양자 투자 발표로 AI 생태계 입지 강화 확인)
+- [ ] **2026-06-08**: $10B 양자컴퓨팅 투자가 2029년 내결함성 양자컴퓨터 상용화로 현실화될 것 (7일 검증 대기)
+- [ ] **2026-06-08**: Nvidia Vera Rubin + Google Cloud 이중 파트너십이 IBM watsonx 엔터프라이즈 AI 계약 수주를 가속할 것 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +47,9 @@ sources: []
 
 > [!fact] (Gurufocus + 247 Wall St., 2026-06-01) Nvidia IBM을 AI 인프라 핵심 파트너로 지명
 > IBM Cloud 베라 루빈 인스턴스·Power Systems AI 서버 통합. 5월 +32% (24년래 최고).
+> [!fact] (CNBC + Yahoo Finance, 2026-06-08) IBM $10B 양자컴퓨팅 투자 + Nvidia Vera Rubin 파트너 + BofA 목표가 $315 확정
+> $10B 양자컴퓨팅 투자 발표로 주가 +7%. Nvidia Vera Rubin AI 파트너 선정. BofA 목표가 $315 상향.
+
 <!-- FACTS_END -->
 
 ---
@@ -52,6 +57,31 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-08
+
+**narrative_score**: +0.24
+**key_events**: $10B 양자컴퓨팅 투자 (주가 +7%), Nvidia Vera Rubin AI 파트너, Google Cloud 협약, BofA 목표가 $315 상향
+**risks**: MS Majorana 2 양자칩 직접 경쟁, Oracle·PLTR 엔터프라이즈 AI 경쟁, 투자 수익화 일정 불확실
+
+> [!claim] (출처: CNBC, 2026-06-08) IBM $10B 양자컴퓨팅 투자 발표 — 주가 +7% 급등
+> 2029년 내결함성 양자컴퓨터 목표. impact: + / category: other
+
+> [!claim] (출처: Yahoo Finance, 2026-06-08) IBM Nvidia Vera Rubin AI 가속기 시스템 파트너 선정
+> 클라우드·보안 AI 인프라 역할 확보. impact: + / category: other
+
+> [!claim] (출처: Yahoo Finance, 2026-06-08) BofA IBM 목표주가 $300→$315 상향
+> AI·양자 전략 긍정 평가. impact: + / category: other
+
+> [!claim] (출처: Yahoo Finance, 2026-06-03) IBM-Google Cloud 엔터프라이즈 AI 확장 협약
+> watsonx AI 플랫폼 GCP 통합. impact: + / category: other
+
+**경쟁사 동향**:
+- MSFT: Majorana 2 양자칩 — IBM 양자 시장 지위 직접 위협 (impact for IBM: -)
+- ORCL: Oracle AI 클라우드 RPO +325% — IBM watsonx 엔터프라이즈 경쟁 (impact for IBM: -)
+
+---
+
 
 ### 2026-06-01
 
