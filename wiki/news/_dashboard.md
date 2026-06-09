@@ -37,175 +37,174 @@ sources: []
 
 | Ticker                                          | as_of      | score  | 핵심 한 줄                                         | open claims |
 | ----------------------------------------------- | ---------- | ------ | ----------------------------------------------- | ----------- |
-| [AAPL](AAPL - Apple Inc.md)                     | 2026-06-08 | +0.09  | WWDC 2026 Apple Intelligence·AI Siri 공개, 주가 sell-the-news -1.89%  | 2           |
-| [MSFT](MSFT - Microsoft Corporation.md)         | 2026-06-08 | +0.13  | MAI-Thinking-1 포함 7개 AI 모델 + Majorana 2 양자칩 공개, YTD -12%   | 2           |
-| [GOOGL](GOOGL - Alphabet Inc.md)                | 2026-06-08 | +0.07  | capex $180~190B 상향, $25B Blackstone TPU 벤처, 배당 권리락 주가 -1.18%  | 2           |
-| [AMZN](AMZN - Amazon.com Inc.md)                | 2026-06-08 | +0.17  | Corning 광섬유 대규모 계약, 자연어 물류 로봇 출시, 62명 전원 매수      | 2           |
-| [META](META - Meta Platforms Inc.md)            | 2026-06-08 | +0.17  | Q1 EPS 57% 어닝 서프라이즈, 비즈니스 AI 에이전트 글로벌 출시           | 2           |
-| [ORCL](ORCL - Oracle Corporation.md)            | 2026-06-08 | +0.30  | Q4 발표 6/12 (매출 +20% 기대), RPO +325% $533B, 3개 증권사 목표가 상향  | 1           |
-| [CRM](CRM - Salesforce, Inc.md)                 | 2026-06-08 | +0.47  | Q1 FY27 EPS +50% (컨센 24% 초과), Agentforce ARR $1.2B (+205%)       | 2           |
-| [ADBE](ADBE - Adobe Inc.md)                     | 2026-06-08 | -0.17  | Q2 발표 6/11, YTD -27.49%, 애널 혼조 (Stifel $400↑ vs TD Cowen $285↓) | 2           |
-| [IBM](IBM - International Business Machines.md) | 2026-06-08 | +0.24  | $10B 양자컴퓨팅 투자 (+7%), Nvidia Vera Rubin 파트너, BofA $315 상향   | 2           |
-| [PLTR](PLTR - Palantir Technologies Inc.md)     | 2026-06-08 | +0.46  | Q1 EPS 22% 어닝 서프라이즈, FY2026 가이던스 +71%, 미국 세 자릿수 성장  | 2           |
+| [AAPL](tickers/AAPL - Apple Inc.md)                     | 2026-06-08 | +0.09  | WWDC 2026 Apple Intelligence·AI Siri 공개, 주가 sell-the-news -1.89%  | 2           |
+| [MSFT](tickers/MSFT - Microsoft Corporation.md)         | 2026-06-08 | +0.13  | MAI-Thinking-1 포함 7개 AI 모델 + Majorana 2 양자칩 공개, YTD -12%   | 2           |
+| [GOOGL](tickers/GOOGL - Alphabet Inc.md)                | 2026-06-08 | +0.07  | capex $180~190B 상향, $25B Blackstone TPU 벤처, 배당 권리락 주가 -1.18%  | 2           |
+| [AMZN](tickers/AMZN - Amazon.com Inc.md)                | 2026-06-08 | +0.17  | Corning 광섬유 대규모 계약, 자연어 물류 로봇 출시, 62명 전원 매수      | 2           |
+| [META](tickers/META - Meta Platforms Inc.md)            | 2026-06-08 | +0.17  | Q1 EPS 57% 어닝 서프라이즈, 비즈니스 AI 에이전트 글로벌 출시           | 2           |
+| [ORCL](tickers/ORCL - Oracle Corporation.md)            | 2026-06-08 | +0.30  | Q4 발표 6/12 (매출 +20% 기대), RPO +325% $533B, 3개 증권사 목표가 상향  | 1           |
+| [CRM](tickers/CRM - Salesforce, Inc.md)                 | 2026-06-08 | +0.47  | Q1 FY27 EPS +50% (컨센 24% 초과), Agentforce ARR $1.2B (+205%)       | 2           |
+| [ADBE](tickers/ADBE - Adobe Inc.md)                     | 2026-06-08 | -0.17  | Q2 발표 6/11, YTD -27.49%, 애널 혼조 (Stifel $400↑ vs TD Cowen $285↓) | 2           |
+| [IBM](tickers/IBM - International Business Machines.md) | 2026-06-08 | +0.24  | $10B 양자컴퓨팅 투자 (+7%), Nvidia Vera Rubin 파트너, BofA $315 상향   | 2           |
+| [PLTR](tickers/PLTR - Palantir Technologies Inc.md)     | 2026-06-08 | +0.46  | Q1 EPS 22% 어닝 서프라이즈, FY2026 가이던스 +71%, 미국 세 자릿수 성장  | 2           |
 
 ### 반도체
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [NVDA](NVDA - NVIDIA Corporation.md) | 2026-06-02 | +0.50 | COMPUTEX Vera Rubin CPU·RTX Spark 발표, 주주환원 FCF 50%+, TSMC 파트너십 심화 | 2 |
-| [AMD](AMD - Advanced Micro Devices.md) | 2026-06-02 | +0.16 | NVDA RTX Spark 발표로 4% 급락, Q2 가이던스 $11.2B(+45% YoY) TD Cowen $600 상향 | 3 |
-| [TSM](TSM - Taiwan Semiconductor Mfg.md) | 2026-06-02 | +0.41 | NVDA 대만 투자 확대로 4.8% 급등, 3nm 공정 가격 15% 인상, 직원 보너스 30%+ | 4 |
-| [AVGO](AVGO - Broadcom Inc.md) | 2026-06-02 | +0.39 | 6/3 Q2 실적 발표·AI 수주잔고 $73B, 알파벳 $80B 인프라 투자 수혜, WF $545 상향 | 3 |
-| [INTC](INTC - Intel Corporation.md) | 2026-06-02 | -0.20 | COMPUTEX Xeon 6+ 발표 → 4.67% 급락, NVDA RTX Spark AI PC 직격탄 | 3 |
-| [QCOM](QCOM - QUALCOMM Incorporated.md) | 2026-06-02 | -0.22 | NVDA RTX Spark(100+ TOPS)으로 Snapdragon 위협 → 8.78% 급락, 6/24 인베스터 데이 | 4 |
-| [ASML](ASML - ASML Holding NV.md) | 2026-06-02 | +0.33 | 4.7% 상승·연초 +53%, Q1 €103억·마진 53%, UBS €1,900 상향 | 3 |
-| [AMAT](AMAT - Applied Materials.md) | 2026-06-02 | +0.39 | 사상 최대 매출·25년 최고 마진, 연간 장비 성장률 30%+ 상향, ASMPT NEXX $120M 인수 | 3 |
-| [LRCX](LRCX - Lam Research Corp.md) | 2026-06-02 | +0.40 | COMPUTEX 후 4.8% 급등·52주 신고가, Q3 FY26 사상 최대 $5.84B, WFE $1,400억 상향 | 3 |
-| [MU](MU - Micron Technology.md) | 2026-06-02 | +0.47 | HBM4 2026년 전량 매진·시총 $1조 돌파, 주가 +231% YTD, 6/24 Q3 실적 발표 | 3 |
+| [NVDA](tickers/NVDA - NVIDIA Corporation.md) | 2026-06-02 | +0.50 | COMPUTEX Vera Rubin CPU·RTX Spark 발표, 주주환원 FCF 50%+, TSMC 파트너십 심화 | 2 |
+| [AMD](tickers/AMD - Advanced Micro Devices.md) | 2026-06-02 | +0.16 | NVDA RTX Spark 발표로 4% 급락, Q2 가이던스 $11.2B(+45% YoY) TD Cowen $600 상향 | 3 |
+| [TSM](tickers/TSM - Taiwan Semiconductor Mfg.md) | 2026-06-02 | +0.41 | NVDA 대만 투자 확대로 4.8% 급등, 3nm 공정 가격 15% 인상, 직원 보너스 30%+ | 4 |
+| [AVGO](tickers/AVGO - Broadcom Inc.md) | 2026-06-02 | +0.39 | 6/3 Q2 실적 발표·AI 수주잔고 $73B, 알파벳 $80B 인프라 투자 수혜, WF $545 상향 | 3 |
+| [INTC](tickers/INTC - Intel Corporation.md) | 2026-06-02 | -0.20 | COMPUTEX Xeon 6+ 발표 → 4.67% 급락, NVDA RTX Spark AI PC 직격탄 | 3 |
+| [QCOM](tickers/QCOM - QUALCOMM Incorporated.md) | 2026-06-02 | -0.22 | NVDA RTX Spark(100+ TOPS)으로 Snapdragon 위협 → 8.78% 급락, 6/24 인베스터 데이 | 4 |
+| [ASML](tickers/ASML - ASML Holding NV.md) | 2026-06-02 | +0.33 | 4.7% 상승·연초 +53%, Q1 €103억·마진 53%, UBS €1,900 상향 | 3 |
+| [AMAT](tickers/AMAT - Applied Materials.md) | 2026-06-02 | +0.39 | 사상 최대 매출·25년 최고 마진, 연간 장비 성장률 30%+ 상향, ASMPT NEXX $120M 인수 | 3 |
+| [LRCX](tickers/LRCX - Lam Research Corp.md) | 2026-06-02 | +0.40 | COMPUTEX 후 4.8% 급등·52주 신고가, Q3 FY26 사상 최대 $5.84B, WFE $1,400억 상향 | 3 |
+| [MU](tickers/MU - Micron Technology.md) | 2026-06-02 | +0.47 | HBM4 2026년 전량 매진·시총 $1조 돌파, 주가 +231% YTD, 6/24 Q3 실적 발표 | 3 |
 
 ### 자동차 / 모빌리티
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [TSLA](TSLA - Tesla Inc.md) | 2026-06-03 | +0.10 | 유럽 5월 판매 급증·Q1+17%, 텍사스 로보택시 규제 강화 | 2 |
-| [TM](TM - Toyota Motor Corporation.md) | 2026-06-03 | -0.09 | 인증 위반으로 日 3개 차종 판매 중단, FY2026 실적 양호 | 2 |
-| [F](F - Ford Motor Company.md) | 2026-06-03 | -0.07 | 4월 판매 -14.4%, EV -31.1% — CMO 퇴임 겹침 | 2 |
-| [GM](GM - General Motors Company.md) | 2026-06-03 | +0.17 | 관세 대법원 수혜 가이던스 상향, Q1 EBIT $4.3B 견고 | 1 |
-| [STLA](STLA - Stellantis NV.md) | 2026-06-03 | -0.30 | 증권사기 집단소송 마감 임박 — 법적 리스크 최고조 | 2 |
-| [HMC](HMC - Honda Motor Co.md) | 2026-06-03 | +0.02 | 5월 미국 판매 +9.9%, Q4 FY2026 대규모 순손실 혼조 | 1 |
-| [RIVN](RIVN - Rivian Automotive.md) | 2026-06-03 | +0.30 | R2 배송 6/9 시작 + VW 15.9% 지분 — 10거래일 연속 상승 | 3 |
-| [NIO](NIO - NIO Inc.md) | 2026-06-03 | +0.20 | 5월 인도 +62.3%, ONVO L80 출시, Q2 110k-115k 가이던스 | 2 |
-| [005380.KS](005380.KS - Hyundai Motor Company.md) | 2026-06-03 | -0.05 | 5월 판매 -7.7% 내수 약세, $200억 미국 투자 발표 예정 | 2 |
-| [000270.KS](000270.KS - Kia Corporation.md) | 2026-06-03 | +0.07 | U.S. News 최우수 EV 3종 수상, NVIDIA 자율주행 협력 | 1 |
+| [TSLA](tickers/TSLA - Tesla Inc.md) | 2026-06-03 | +0.10 | 유럽 5월 판매 급증·Q1+17%, 텍사스 로보택시 규제 강화 | 2 |
+| [TM](tickers/TM - Toyota Motor Corporation.md) | 2026-06-03 | -0.09 | 인증 위반으로 日 3개 차종 판매 중단, FY2026 실적 양호 | 2 |
+| [F](tickers/F - Ford Motor Company.md) | 2026-06-03 | -0.07 | 4월 판매 -14.4%, EV -31.1% — CMO 퇴임 겹침 | 2 |
+| [GM](tickers/GM - General Motors Company.md) | 2026-06-03 | +0.17 | 관세 대법원 수혜 가이던스 상향, Q1 EBIT $4.3B 견고 | 1 |
+| [STLA](tickers/STLA - Stellantis NV.md) | 2026-06-03 | -0.30 | 증권사기 집단소송 마감 임박 — 법적 리스크 최고조 | 2 |
+| [HMC](tickers/HMC - Honda Motor Co.md) | 2026-06-03 | +0.02 | 5월 미국 판매 +9.9%, Q4 FY2026 대규모 순손실 혼조 | 1 |
+| [RIVN](tickers/RIVN - Rivian Automotive.md) | 2026-06-03 | +0.30 | R2 배송 6/9 시작 + VW 15.9% 지분 — 10거래일 연속 상승 | 3 |
+| [NIO](tickers/NIO - NIO Inc.md) | 2026-06-03 | +0.20 | 5월 인도 +62.3%, ONVO L80 출시, Q2 110k-115k 가이던스 | 2 |
+| [005380.KS](tickers/005380.KS - Hyundai Motor Company.md) | 2026-06-03 | -0.05 | 5월 판매 -7.7% 내수 약세, $200억 미국 투자 발표 예정 | 2 |
+| [000270.KS](tickers/000270.KS - Kia Corporation.md) | 2026-06-03 | +0.07 | U.S. News 최우수 EV 3종 수상, NVIDIA 자율주행 협력 | 1 |
 
 ### 바이오 / 제약 / 헬스케어
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [LLY](LLY - Eli Lilly and Company.md) | 2026-06-04 | +0.22 | M&A $10B+ 가속화·독일 투자 절반 삭감 — 미국 우선 전략 선명화 | 2 |
-| [NVO](NVO - Novo Nordisk AS.md) | 2026-06-04 | -0.07 | 경구형 위고비 UAE 론칭, 주가 1년 -38.9% 하락 지속 | 2 |
-| [JNJ](JNJ - Johnson and Johnson.md) | 2026-06-04 | +0.13 | 닙포칼리맙 Phase 2 SLE·쇼그렌증 성공, 64년 연속 배당 3.1% 인상 | 2 |
-| [PFE](PFE - Pfizer Inc.md) | 2026-06-04 | -0.02 | 350번째 연속 분기 배당, 2026년 20개 피벗 임상 계획 | 2 |
-| [MRK](MRK - Merck and Co.md) | 2026-06-04 | +0.11 | ASCO 흑색종 5년 데이터 긍정·$6.7B 인수, LITESPARK-012 실패 | 3 |
-| [ABBV](ABBV - AbbVie Inc.md) | 2026-06-04 | +0.15 | 아퀴프타 EU 편두통 승인, 골드만삭스 컨퍼런스 6/9 참가 | 2 |
-| [AZN](AZN - AstraZeneca PLC.md) | 2026-06-04 | -0.09 | 카미제스트란트 FDA 결정 연기·안셀라미맙 Phase 3 실패 | 2 |
-| [UNH](UNH - UnitedHealth Group.md) | 2026-06-04 | +0.09 | BofA·MS·Truist 동시 목표주가 $450+ 상향, 소송 재부상 | 2 |
-| [TMO](TMO - Thermo Fisher Scientific.md) | 2026-06-04 | -0.03 | Q1 컨센서스 초과·미생물학 사업부 $1.075B 매각, 가이던스 보수적 | 2 |
-| [ABT](ABT - Abbott Laboratories.md) | 2026-06-04 | +0.03 | 이중 CGM EU CE 마크·Exact Sciences 인수 완료, 주가 +4.4% | 3 |
+| [LLY](tickers/LLY - Eli Lilly and Company.md) | 2026-06-04 | +0.22 | M&A $10B+ 가속화·독일 투자 절반 삭감 — 미국 우선 전략 선명화 | 2 |
+| [NVO](tickers/NVO - Novo Nordisk AS.md) | 2026-06-04 | -0.07 | 경구형 위고비 UAE 론칭, 주가 1년 -38.9% 하락 지속 | 2 |
+| [JNJ](tickers/JNJ - Johnson and Johnson.md) | 2026-06-04 | +0.13 | 닙포칼리맙 Phase 2 SLE·쇼그렌증 성공, 64년 연속 배당 3.1% 인상 | 2 |
+| [PFE](tickers/PFE - Pfizer Inc.md) | 2026-06-04 | -0.02 | 350번째 연속 분기 배당, 2026년 20개 피벗 임상 계획 | 2 |
+| [MRK](tickers/MRK - Merck and Co.md) | 2026-06-04 | +0.11 | ASCO 흑색종 5년 데이터 긍정·$6.7B 인수, LITESPARK-012 실패 | 3 |
+| [ABBV](tickers/ABBV - AbbVie Inc.md) | 2026-06-04 | +0.15 | 아퀴프타 EU 편두통 승인, 골드만삭스 컨퍼런스 6/9 참가 | 2 |
+| [AZN](tickers/AZN - AstraZeneca PLC.md) | 2026-06-04 | -0.09 | 카미제스트란트 FDA 결정 연기·안셀라미맙 Phase 3 실패 | 2 |
+| [UNH](tickers/UNH - UnitedHealth Group.md) | 2026-06-04 | +0.09 | BofA·MS·Truist 동시 목표주가 $450+ 상향, 소송 재부상 | 2 |
+| [TMO](tickers/TMO - Thermo Fisher Scientific.md) | 2026-06-04 | -0.03 | Q1 컨센서스 초과·미생물학 사업부 $1.075B 매각, 가이던스 보수적 | 2 |
+| [ABT](tickers/ABT - Abbott Laboratories.md) | 2026-06-04 | +0.03 | 이중 CGM EU CE 마크·Exact Sciences 인수 완료, 주가 +4.4% | 3 |
 
 ### 에너지 / 원자재
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [XOM](XOM - Exxon Mobil Corporation.md) | 2026-06-05 | +0.10 | 텍사스 본거지 이전 + 가이아나 900k bpd 기록 + OPEC+ 6/7 증산 경계 | 2 |
-| [CVX](CVX - Chevron Corporation.md) | 2026-06-05 | -0.05 | 싱가포르 정제 매각 $21.7억 + 가스 비중 확대 vs 호르무즈 직격탄 | 2 |
-| [COP](COP - ConocoPhillips.md) | 2026-06-05 | -0.03 | 생산 가이던스 1.5% 하향 + 포트아서 LNG 첫 생산 임박 | 2 |
-| [SHEL](SHEL - Shell plc.md) | 2026-06-05 | +0.01 | 자사주 매입 지속 + Q1 배당 $0.3906 + Buy 컨센서스 목표가 $99 | 2 |
-| [OXY](OXY - Occidental Petroleum.md) | 2026-06-05 | +0.05 | CEO 교체(Hollub→Jackson) + 멕시코만 Bandit 광구 석유 발견 | 2 |
-| [SLB](SLB - Schlumberger Limited.md) | 2026-06-05 | -0.05 | Tachyus AI 인수 + 30일 +15% vs Q2 EPS -28.4% YoY 예상 | 2 |
-| [FCX](FCX - Freeport-McMoRan.md) | 2026-06-05 | +0.04 | Grasberg 복구 지연 (-) + $3B 신용한도 + UBS $75 상향 (구리 낙관론) | 2 |
-| [NEM](NEM - Newmont Corporation.md) | 2026-06-05 | +0.24 | Q1 FCF $31억 기록 (금 $4,900/oz) + $60억 자사주매입 | 2 |
-| [LIN](LIN - Linde plc.md) | 2026-06-05 | +0.17 | Q1 EPS +10% + 배당 33년 연속 + 삼성 반도체 팹 최대 딜 | 2 |
-| [APD](APD - Air Products and Chemicals.md) | 2026-06-05 | +0.17 | Q2 EPS +19% YoY + 웰스파고 OW 상향 + 삼성 반도체 팹 계약 | 2 |
+| [XOM](tickers/XOM - Exxon Mobil Corporation.md) | 2026-06-05 | +0.10 | 텍사스 본거지 이전 + 가이아나 900k bpd 기록 + OPEC+ 6/7 증산 경계 | 2 |
+| [CVX](tickers/CVX - Chevron Corporation.md) | 2026-06-05 | -0.05 | 싱가포르 정제 매각 $21.7억 + 가스 비중 확대 vs 호르무즈 직격탄 | 2 |
+| [COP](tickers/COP - ConocoPhillips.md) | 2026-06-05 | -0.03 | 생산 가이던스 1.5% 하향 + 포트아서 LNG 첫 생산 임박 | 2 |
+| [SHEL](tickers/SHEL - Shell plc.md) | 2026-06-05 | +0.01 | 자사주 매입 지속 + Q1 배당 $0.3906 + Buy 컨센서스 목표가 $99 | 2 |
+| [OXY](tickers/OXY - Occidental Petroleum.md) | 2026-06-05 | +0.05 | CEO 교체(Hollub→Jackson) + 멕시코만 Bandit 광구 석유 발견 | 2 |
+| [SLB](tickers/SLB - Schlumberger Limited.md) | 2026-06-05 | -0.05 | Tachyus AI 인수 + 30일 +15% vs Q2 EPS -28.4% YoY 예상 | 2 |
+| [FCX](tickers/FCX - Freeport-McMoRan.md) | 2026-06-05 | +0.04 | Grasberg 복구 지연 (-) + $3B 신용한도 + UBS $75 상향 (구리 낙관론) | 2 |
+| [NEM](tickers/NEM - Newmont Corporation.md) | 2026-06-05 | +0.24 | Q1 FCF $31억 기록 (금 $4,900/oz) + $60억 자사주매입 | 2 |
+| [LIN](tickers/LIN - Linde plc.md) | 2026-06-05 | +0.17 | Q1 EPS +10% + 배당 33년 연속 + 삼성 반도체 팹 최대 딜 | 2 |
+| [APD](tickers/APD - Air Products and Chemicals.md) | 2026-06-05 | +0.17 | Q2 EPS +19% YoY + 웰스파고 OW 상향 + 삼성 반도체 팹 계약 | 2 |
 
 ### 금융
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [JPM](JPM - JPMorgan Chase and Co.md) | 2026-06-06 | +0.19 | 토큰화 예금 'The Bridge' 참여, 주가 $312 역대 최고권 | 2 |
-| [BAC](BAC - Bank of America Corp.md) | 2026-06-06 | +0.13 | 크로스보더 실시간 결제 출시 예정, 연준 은행 건전성 확인 | 2 |
-| [WFC](WFC - Wells Fargo and Company.md) | 2026-06-06 | +0.18 | CEO Q2 IB/트레이딩 중반 성장 전망, 배당 $0.45 선언 | 2 |
-| [C](C - Citigroup Inc.md) | 2026-06-06 | +0.19 | 주가 +4% 다년간 고점, Q1 매출 +14% YoY, The Bridge 참여 | 2 |
-| [GS](GS - The Goldman Sachs Group.md) | 2026-06-06 | +0.11 | 블록체인 부동산 펀드 출시, CEO AI 투자 탐욕 경고 | 2 |
-| [MS](MS - Morgan Stanley.md) | 2026-06-06 | +0.19 | Q1 EPS $3.43 상회·ROTCE 27.1%, M&A·IPO 물결 전망 | 2 |
-| [V](V - Visa Inc.md) | 2026-06-06 | +0.17 | Canton Network 스테이블코인 파일럿, FQ2 실적 상회 | 2 |
-| [MA](MA - Mastercard Incorporated.md) | 2026-06-06 | -0.03 | CFO 교체(Ling Hai), 주가 $600 고점 대비 장기 하락세 | 2 |
-| [AXP](AXP - American Express Company.md) | 2026-06-06 | -0.04 | BofA 투자의견 하향, 신용카드 연체율 13%(15년 최고) | 3 |
-| [BRK-B](BRK-B - Berkshire Hathaway.md) | 2026-06-06 | +0.15 | Alphabet $10B 투자(6% 할인), 시총 $1.02조 돌파 | 2 |
+| [JPM](tickers/JPM - JPMorgan Chase and Co.md) | 2026-06-06 | +0.19 | 토큰화 예금 'The Bridge' 참여, 주가 $312 역대 최고권 | 2 |
+| [BAC](tickers/BAC - Bank of America Corp.md) | 2026-06-06 | +0.13 | 크로스보더 실시간 결제 출시 예정, 연준 은행 건전성 확인 | 2 |
+| [WFC](tickers/WFC - Wells Fargo and Company.md) | 2026-06-06 | +0.18 | CEO Q2 IB/트레이딩 중반 성장 전망, 배당 $0.45 선언 | 2 |
+| [C](tickers/C - Citigroup Inc.md) | 2026-06-06 | +0.19 | 주가 +4% 다년간 고점, Q1 매출 +14% YoY, The Bridge 참여 | 2 |
+| [GS](tickers/GS - The Goldman Sachs Group.md) | 2026-06-06 | +0.11 | 블록체인 부동산 펀드 출시, CEO AI 투자 탐욕 경고 | 2 |
+| [MS](tickers/MS - Morgan Stanley.md) | 2026-06-06 | +0.19 | Q1 EPS $3.43 상회·ROTCE 27.1%, M&A·IPO 물결 전망 | 2 |
+| [V](tickers/V - Visa Inc.md) | 2026-06-06 | +0.17 | Canton Network 스테이블코인 파일럿, FQ2 실적 상회 | 2 |
+| [MA](tickers/MA - Mastercard Incorporated.md) | 2026-06-06 | -0.03 | CFO 교체(Ling Hai), 주가 $600 고점 대비 장기 하락세 | 2 |
+| [AXP](tickers/AXP - American Express Company.md) | 2026-06-06 | -0.04 | BofA 투자의견 하향, 신용카드 연체율 13%(15년 최고) | 3 |
+| [BRK-B](tickers/BRK-B - Berkshire Hathaway.md) | 2026-06-06 | +0.15 | Alphabet $10B 투자(6% 할인), 시총 $1.02조 돌파 | 2 |
 
 ### 소비재
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [WMT](WMT - Walmart Inc.md) | 2026-06-07 | +0.11 | Q1 FY27 이커머스 +26%, 동일점포 +4.1%, Q2 가이던스 제시 — 강한 실적에도 주가 조정 | 1 |
-| [COST](COST - Costco Wholesale.md) | 2026-06-07 | +0.17 | Q3 FY26 매출 +11.6% (2022년 이후 최고) — 강한 실적에도 주가 하락, 소비 경기 고점 논쟁 | 1 |
-| [KO](KO - The Coca-Cola Company.md) | 2026-06-07 | 0.00 | 금일 의미 있는 신규 뉴스 없음 — 배당귀족 60년 연속 방어적 특성 유지 | 0 |
-| [PEP](PEP - PepsiCo.md) | 2026-06-07 | 0.00 | 금일 의미 있는 신규 뉴스 없음 — 음료+스낵 결합 모델 견조 | 0 |
-| [PG](PG - Procter and Gamble.md) | 2026-06-07 | +0.11 | 소비자 수요 서프라이즈 주가 +5%, Native 클린뷰티·Secret 젠Z 마케팅 호응 | 0 |
-| [MO](MO - Altria Group.md) | 2026-06-07 | -0.02 | 금일 신규 뉴스 없음 — 담배 볼륨 감소 구조적 헤드윈드, 배당수익률 7%대 인컴주 | 0 |
-| [MCD](MCD - McDonalds Corporation.md) | 2026-06-07 | +0.03 | 수제 치킨 메뉴 테스트 (치킨 전쟁 대응), 내부자 거래 신고 (6/1) | 0 |
-| [HD](HD - The Home Depot.md) | 2026-06-07 | -0.02 | 금일 신규 뉴스 없음 — 금리 인하 기대감이 중기 촉매, 주가 $310.78 | 0 |
-| [NKE](NKE - NIKE Inc.md) | 2026-06-07 | -0.12 | 월드컵 중심 턴어라운드 전략에 애널리스트 회의적, 주가 $42.98 약세 지속 | 1 |
-| [SBUX](SBUX - Starbucks Corporation.md) | 2026-06-07 | -0.15 | AI 재고관리 폐기·기관 41.9% 매도·1개월 -9% — 턴어라운드 신뢰도 급락 | 1 |
+| [WMT](tickers/WMT - Walmart Inc.md) | 2026-06-07 | +0.11 | Q1 FY27 이커머스 +26%, 동일점포 +4.1%, Q2 가이던스 제시 — 강한 실적에도 주가 조정 | 1 |
+| [COST](tickers/COST - Costco Wholesale.md) | 2026-06-07 | +0.17 | Q3 FY26 매출 +11.6% (2022년 이후 최고) — 강한 실적에도 주가 하락, 소비 경기 고점 논쟁 | 1 |
+| [KO](tickers/KO - The Coca-Cola Company.md) | 2026-06-07 | 0.00 | 금일 의미 있는 신규 뉴스 없음 — 배당귀족 60년 연속 방어적 특성 유지 | 0 |
+| [PEP](tickers/PEP - PepsiCo.md) | 2026-06-07 | 0.00 | 금일 의미 있는 신규 뉴스 없음 — 음료+스낵 결합 모델 견조 | 0 |
+| [PG](tickers/PG - Procter and Gamble.md) | 2026-06-07 | +0.11 | 소비자 수요 서프라이즈 주가 +5%, Native 클린뷰티·Secret 젠Z 마케팅 호응 | 0 |
+| [MO](tickers/MO - Altria Group.md) | 2026-06-07 | -0.02 | 금일 신규 뉴스 없음 — 담배 볼륨 감소 구조적 헤드윈드, 배당수익률 7%대 인컴주 | 0 |
+| [MCD](tickers/MCD - McDonalds Corporation.md) | 2026-06-07 | +0.03 | 수제 치킨 메뉴 테스트 (치킨 전쟁 대응), 내부자 거래 신고 (6/1) | 0 |
+| [HD](tickers/HD - The Home Depot.md) | 2026-06-07 | -0.02 | 금일 신규 뉴스 없음 — 금리 인하 기대감이 중기 촉매, 주가 $310.78 | 0 |
+| [NKE](tickers/NKE - NIKE Inc.md) | 2026-06-07 | -0.12 | 월드컵 중심 턴어라운드 전략에 애널리스트 회의적, 주가 $42.98 약세 지속 | 1 |
+| [SBUX](tickers/SBUX - Starbucks Corporation.md) | 2026-06-07 | -0.15 | AI 재고관리 폐기·기관 41.9% 매도·1개월 -9% — 턴어라운드 신뢰도 급락 | 1 |
 
 ### 산업재 / 방산
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [CAT](CAT - Caterpillar Inc.md) | 2026-06-07 | +0.23 | Q1 매출 +22%·사상 최대 수주잔고·가이던스 상향, 에버코어 목표가 $1,103 상향 | 0 |
-| [DE](DE - Deere and Company.md) | 2026-06-07 | +0.03 | 인디애나·NC 신규 시설 미국 제조 확장 — 대형 촉매 부재 | 0 |
-| [BA](BA - The Boeing Company.md) | 2026-06-07 | +0.11 | CEO 787 월 10대 목표·4번째 737 라인 계획, Q1 실적 컨센서스 상회 | 0 |
-| [LMT](LMT - Lockheed Martin Corp.md) | 2026-06-07 | +0.04 | 스컹크웍스 GM 교체 (4년간 3번째), FY26 방위예산 $8,950억 우호 환경 | 0 |
-| [RTX](RTX - RTX Corporation.md) | 2026-06-07 | +0.16 | Q1 조정 EPS +21%, 신규 방산 계약·P&W 생산 확대, 목표가 $215~$240 | 0 |
-| [NOC](NOC - Northrop Grumman Corp.md) | 2026-06-07 | +0.11 | 해군 $1억 계약, 아르테미스 III 발송, 배당 +6.93% 인상 — 3중 긍정 | 0 |
-| [HON](HON - Honeywell International.md) | 2026-06-07 | -0.02 | Honeywell Aerospace 분사 기준일 6/15·완료 6/29 (HONA 상장), 1:2 역분할 | 1 |
-| [GE](GE - GE Aerospace.md) | 2026-06-07 | +0.23 | Q1 주문 +87%·EPS +15.5% 서프라이즈, 수주잔고 $2,100억 역대 최대 | 0 |
-| [UPS](UPS - United Parcel Service.md) | 2026-06-07 | -0.10 | 아마존 물량 50%+ 감축 가속·화물기 사고 조사, 배당수익률 6.66% | 1 |
-| [FDX](FDX - FedEx Corporation.md) | 2026-06-07 | +0.11 | 연간 가이던스 상향·분사 계획 발표 — UPS 대비 상대적 강세 | 0 |
+| [CAT](tickers/CAT - Caterpillar Inc.md) | 2026-06-07 | +0.23 | Q1 매출 +22%·사상 최대 수주잔고·가이던스 상향, 에버코어 목표가 $1,103 상향 | 0 |
+| [DE](tickers/DE - Deere & Company.md) | 2026-06-07 | +0.03 | 인디애나·NC 신규 시설 미국 제조 확장 — 대형 촉매 부재 | 3 |
+| [BA](tickers/BA - The Boeing Company.md) | 2026-06-07 | +0.11 | CEO 787 월 10대 목표·4번째 737 라인 계획, Q1 실적 컨센서스 상회 | 0 |
+| [LMT](tickers/LMT - Lockheed Martin Corp.md) | 2026-06-07 | +0.04 | 스컹크웍스 GM 교체 (4년간 3번째), FY26 방위예산 $8,950억 우호 환경 | 0 |
+| [RTX](tickers/RTX - RTX Corporation.md) | 2026-06-07 | +0.16 | Q1 조정 EPS +21%, 신규 방산 계약·P&W 생산 확대, 목표가 $215~$240 | 0 |
+| [NOC](tickers/NOC - Northrop Grumman Corp.md) | 2026-06-07 | +0.11 | 해군 $1억 계약, 아르테미스 III 발송, 배당 +6.93% 인상 — 3중 긍정 | 0 |
+| [HON](tickers/HON - Honeywell International.md) | 2026-06-07 | -0.02 | Honeywell Aerospace 분사 기준일 6/15·완료 6/29 (HONA 상장), 1:2 역분할 | 1 |
+| [GE](tickers/GE - GE Aerospace.md) | 2026-06-07 | +0.23 | Q1 주문 +87%·EPS +15.5% 서프라이즈, 수주잔고 $2,100억 역대 최대 | 0 |
+| [UPS](tickers/UPS - United Parcel Service.md) | 2026-06-07 | -0.10 | 아마존 물량 50%+ 감축 가속·화물기 사고 조사, 배당수익률 6.66% | 1 |
+| [FDX](tickers/FDX - FedEx Corporation.md) | 2026-06-07 | +0.11 | 연간 가이던스 상향·분사 계획 발표 — UPS 대비 상대적 강세 | 0 |
 
 ### 부동산 (REITs)
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [AMT](AMT - American Tower Corporation.md) | 2026-06-06 | -0.06 | REITweek CEO 발표, 1년 상대 수익률 시장(-14.7%) 하회 | 2 |
-| [CCI](CCI - Crown Castle Inc.md) | 2026-06-06 | +0.12 | $8.5B 파이버·스몰셀 매각 완료, 타워 전문 REIT 전환 | 2 |
-| [PLD](PLD - Prologis Inc.md) | 2026-06-06 | +0.12 | Q1 역대 최대 임대 64M sqft, 데이터센터 BTS $1.3B | 2 |
-| [EQIX](EQIX - Equinix Inc.md) | 2026-06-06 | +0.20 | Q1 AI Fabric 예약 +70%, Citi 포커스리스트, $10B 가이던스 | 1 |
-| [DLR](DLR - Digital Realty Trust.md) | 2026-06-06 | +0.12 | 2026 가이던스 상향, 런던 AI 이노베이션 랩, Stifel $235 | 2 |
-| [O](O - Realty Income Corporation.md) | 2026-06-06 | +0.12 | 671번째 연속 월 배당, Q1 AFFO/주 +6.6%, Jefferies 매수 $69 | 2 |
-| [SPG](SPG - Simon Property Group.md) | 2026-06-06 | +0.15 | Q1 순이익 +15.9%, 배당 +7.1%, Eli Simon 신임 CEO | 2 |
-| [WELL](WELL - Welltower Inc.md) | 2026-06-06 | +0.19 | Q1 매출 +38.3%, 동일점포 NOI +16.4%, 점유율 88.8% | 2 |
-| [PSA](PSA - Public Storage.md) | 2026-06-06 | +0.16 | NSA 인수 제안(+30% 자산), 시너지 $110-130M | 2 |
-| [VICI](VICI - VICI Properties Inc.md) | 2026-06-06 | +0.21 | Golden Entertainment $1.16B 인수 완료, 밸류에이션 A- | 2 |
+| [AMT](tickers/AMT - American Tower Corporation.md) | 2026-06-06 | -0.06 | REITweek CEO 발표, 1년 상대 수익률 시장(-14.7%) 하회 | 2 |
+| [CCI](tickers/CCI - Crown Castle Inc.md) | 2026-06-06 | +0.12 | $8.5B 파이버·스몰셀 매각 완료, 타워 전문 REIT 전환 | 2 |
+| [PLD](tickers/PLD - Prologis Inc.md) | 2026-06-06 | +0.12 | Q1 역대 최대 임대 64M sqft, 데이터센터 BTS $1.3B | 2 |
+| [EQIX](tickers/EQIX - Equinix Inc.md) | 2026-06-06 | +0.20 | Q1 AI Fabric 예약 +70%, Citi 포커스리스트, $10B 가이던스 | 1 |
+| [DLR](tickers/DLR - Digital Realty Trust.md) | 2026-06-06 | +0.12 | 2026 가이던스 상향, 런던 AI 이노베이션 랩, Stifel $235 | 2 |
+| [O](tickers/O - Realty Income Corporation.md) | 2026-06-06 | +0.12 | 671번째 연속 월 배당, Q1 AFFO/주 +6.6%, Jefferies 매수 $69 | 2 |
+| [SPG](tickers/SPG - Simon Property Group.md) | 2026-06-06 | +0.15 | Q1 순이익 +15.9%, 배당 +7.1%, Eli Simon 신임 CEO | 2 |
+| [WELL](tickers/WELL - Welltower Inc.md) | 2026-06-06 | +0.19 | Q1 매출 +38.3%, 동일점포 NOI +16.4%, 점유율 88.8% | 2 |
+| [PSA](tickers/PSA - Public Storage.md) | 2026-06-06 | +0.16 | NSA 인수 제안(+30% 자산), 시너지 $110-130M | 2 |
+| [VICI](tickers/VICI - VICI Properties Inc.md) | 2026-06-06 | +0.21 | Golden Entertainment $1.16B 인수 완료, 밸류에이션 A- | 2 |
 
 ### 통신 / 미디어
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [VZ](VZ - Verizon Communications.md) | 2026-06-07 | -0.09 | 대법원 FCC 과징금 판결 → 주가 -4%, T-Mobile 경쟁 심화 | 1 |
-| [T](T - AT&T Inc.md) | 2026-06-07 | -0.09 | 대법원 FCC 과징금 판결 → -4% 동반 하락, 광케이블 확장 장기 긍정 | 0 |
-| [TMUS](TMUS - T-Mobile US.md) | 2026-06-07 | +0.16 | Charter·Comcast MVNO 독점 계약, Q1 강세·애널리스트 30%+ 상승 전망 | 0 |
-| [CMCSA](CMCSA - Comcast Corporation.md) | 2026-06-07 | +0.03 | T-Mobile MVNO 비즈니스 계약 — 케이블 가입자 감소 속 B2B 다각화 | 0 |
-| [CHTR](CHTR - Charter Communications.md) | 2026-06-07 | +0.03 | T-Mobile MVNO 계약, Q1 Spectrum Mobile +36.8만 (누계 12.1M) | 0 |
-| [NFLX](NFLX - Netflix Inc.md) | 2026-06-07 | +0.20 | 광고 고객사 +70% YoY·매출 $30억 경로, 가입자 3.25억+, SPOT $1억 계약 | 0 |
-| [DIS](DIS - The Walt Disney Company.md) | 2026-06-07 | +0.07 | Q2 스트리밍 영업이익 +88%·마진 11%, 반기 배당 $0.75 (기준일 6/30) | 0 |
-| [SPOT](SPOT - Spotify Technology.md) | 2026-06-07 | +0.09 | Netflix와 $1억 독점 팟캐스트 영상 계약 — 콘텐츠 수익화 강화 | 0 |
-| [EA](EA - Electronic Arts Inc.md) | 2026-06-07 | +0.10 | FY26 사상 최대 실적, $550억 비공개 인수 CFIUS 심사 최종 단계 | 1 |
-| [TTWO](TTWO - Take-Two Interactive.md) | 2026-06-07 | +0.22 | GTA VI 2026년 11월 19일 확정, Q4 어닝 비트, 목표가 $280~$320 | 0 |
+| [VZ](tickers/VZ - Verizon Communications.md) | 2026-06-07 | -0.09 | 대법원 FCC 과징금 판결 → 주가 -4%, T-Mobile 경쟁 심화 | 1 |
+| [T](tickers/T - AT&T Inc.md) | 2026-06-07 | -0.09 | 대법원 FCC 과징금 판결 → -4% 동반 하락, 광케이블 확장 장기 긍정 | 0 |
+| [TMUS](tickers/TMUS - T-Mobile US.md) | 2026-06-07 | +0.16 | Charter·Comcast MVNO 독점 계약, Q1 강세·애널리스트 30%+ 상승 전망 | 0 |
+| [CMCSA](tickers/CMCSA - Comcast Corporation.md) | 2026-06-07 | +0.03 | T-Mobile MVNO 비즈니스 계약 — 케이블 가입자 감소 속 B2B 다각화 | 0 |
+| [CHTR](tickers/CHTR - Charter Communications.md) | 2026-06-07 | +0.03 | T-Mobile MVNO 계약, Q1 Spectrum Mobile +36.8만 (누계 12.1M) | 0 |
+| [NFLX](tickers/NFLX - Netflix Inc.md) | 2026-06-07 | +0.20 | 광고 고객사 +70% YoY·매출 $30억 경로, 가입자 3.25억+, SPOT $1억 계약 | 0 |
+| [DIS](tickers/DIS - The Walt Disney Company.md) | 2026-06-07 | +0.07 | Q2 스트리밍 영업이익 +88%·마진 11%, 반기 배당 $0.75 (기준일 6/30) | 0 |
+| [SPOT](tickers/SPOT - Spotify Technology.md) | 2026-06-07 | +0.09 | Netflix와 $1억 독점 팟캐스트 영상 계약 — 콘텐츠 수익화 강화 | 0 |
+| [EA](tickers/EA - Electronic Arts Inc.md) | 2026-06-07 | +0.10 | FY26 사상 최대 실적, $550억 비공개 인수 CFIUS 심사 최종 단계 | 1 |
+| [TTWO](tickers/TTWO - Take-Two Interactive.md) | 2026-06-07 | +0.22 | GTA VI 2026년 11월 19일 확정, Q4 어닝 비트, 목표가 $280~$320 | 0 |
 
 ### 유틸리티 / 전력
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [NEE](NEE - NextEra Energy.md) | 2026-06-05 | +0.03 | Dominion $670억 합병 + 고금리·희석 우려로 -13.7% | 2 |
-| [SO](SO - The Southern Company.md) | 2026-06-05 | -0.01 | 조지아파워 요금 인하 명령 vs Vogtle 3·4호기 정격 출력 | 2 |
-| [DUK](DUK - Duke Energy Corporation.md) | 2026-06-05 | +0.08 | AI 데이터센터 원전 공급 테크 협의 + Q1 EPS $1.93 | 2 |
-| [AEP](AEP - American Electric Power.md) | 2026-06-05 | +0.08 | Q1 EPS +7.3% YoY + $417억 4년 자본투자 (7.9% 요금기반 성장) | 2 |
-| [EXC](EXC - Exelon Corporation.md) | 2026-06-05 | -0.01 | PECO 요금 신청 철회 + 송전 $1.5B 증액 — 혼조 신호 | 2 |
-| [CEG](CEG - Constellation Energy.md) | 2026-06-05 | +0.09 | MSFT+Meta 5,650MW 원전 PPA + YTD -25% → 역발상 매력 | 2 |
-| [VST](VST - Vistra Corp.md) | 2026-06-05 | +0.10 | Meta 20년 PPA 2,600MW + 로터스 가스발전 7개 인수 | 2 |
-| [SRE](SRE - Sempra.md) | 2026-06-05 | +0.03 | Voss Capital Oncor 분리 촉구 — 구조적 가치 해제 잠재력 | 2 |
-| [ED](ED - Consolidated Edison.md) | 2026-06-05 | 0.00 | 의미있는 뉴스 없음 — 49년 배당 성장 안정 인컴주 | 1 |
-| [D](D - Dominion Energy.md) | 2026-06-05 | +0.08 | NEE 합병 발표 + 130GW AI 파이프라인 + 규제 승인이 관건 | 2 |
+| [NEE](tickers/NEE - NextEra Energy.md) | 2026-06-05 | +0.03 | Dominion $670억 합병 + 고금리·희석 우려로 -13.7% | 2 |
+| [SO](tickers/SO - The Southern Company.md) | 2026-06-05 | -0.01 | 조지아파워 요금 인하 명령 vs Vogtle 3·4호기 정격 출력 | 2 |
+| [DUK](tickers/DUK - Duke Energy Corporation.md) | 2026-06-05 | +0.08 | AI 데이터센터 원전 공급 테크 협의 + Q1 EPS $1.93 | 2 |
+| [AEP](tickers/AEP - American Electric Power.md) | 2026-06-05 | +0.08 | Q1 EPS +7.3% YoY + $417억 4년 자본투자 (7.9% 요금기반 성장) | 2 |
+| [EXC](tickers/EXC - Exelon Corporation.md) | 2026-06-05 | -0.01 | PECO 요금 신청 철회 + 송전 $1.5B 증액 — 혼조 신호 | 2 |
+| [CEG](tickers/CEG - Constellation Energy.md) | 2026-06-05 | +0.09 | MSFT+Meta 5,650MW 원전 PPA + YTD -25% → 역발상 매력 | 2 |
+| [VST](tickers/VST - Vistra Corp.md) | 2026-06-05 | +0.10 | Meta 20년 PPA 2,600MW + 로터스 가스발전 7개 인수 | 2 |
+| [SRE](tickers/SRE - Sempra.md) | 2026-06-05 | +0.03 | Voss Capital Oncor 분리 촉구 — 구조적 가치 해제 잠재력 | 2 |
+| [ED](tickers/ED - Consolidated Edison.md) | 2026-06-05 | 0.00 | 의미있는 뉴스 없음 — 49년 배당 성장 안정 인컴주 | 1 |
+| [D](tickers/D - Dominion Energy.md) | 2026-06-05 | +0.08 | NEE 합병 발표 + 130GW AI 파이프라인 + 규제 승인이 관건 | 2 |
 
 ### 조선 (한국)
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [329180.KS](329180.KS - HD Hyundai Heavy Industries.md) | 2026-06-03 | +0.33 | VLGC 8척 1.416조원 수주, 연간 목표 60.8% 조기 달성, KDDX 소송 | 2 |
-| [042660.KS](042660.KS - Hanwha Ocean Co.md) | 2026-06-03 | +0.13 | Leidos 미 해군 설계 협력, 캐나다 해군 MOU 체결 | 2 |
-| [010140.KS](010140.KS - Samsung Heavy Industries.md) | 2026-06-03 | +0.25 | FDC 시장 선점 — Capital/LR MOU·Supermicro AI 서버 JDP | 2 |
-| [010620.KS](010620.KS - HMM Co.md) | — | — | — | — |
+| [329180.KS](tickers/329180.KS - HD Hyundai Heavy Industries.md) | 2026-06-03 | +0.33 | VLGC 8척 1.416조원 수주, 연간 목표 60.8% 조기 달성, KDDX 소송 | 2 |
+| [042660.KS](tickers/042660.KS - Hanwha Ocean Co.md) | 2026-06-03 | +0.13 | Leidos 미 해군 설계 협력, 캐나다 해군 MOU 체결 | 2 |
+| [010140.KS](tickers/010140.KS - Samsung Heavy Industries.md) | 2026-06-03 | +0.25 | FDC 시장 선점 — Capital/LR MOU·Supermicro AI 서버 JDP | 2 |
 
 ## 오늘의 시그널 (2026-06-06 · 토요일 · 금융 + 부동산 (REITs))
 
