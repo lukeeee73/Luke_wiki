@@ -52,6 +52,15 @@ AI/LLM, 에이전트, 프롬프트 엔지니어링, AI 제품 관련 모든 페�
 
 ---
 
+## AI 하드웨어 / 반도체 (`domain: finance, ai`)
+
+AI 칩 가치사슬 — 모델이 실제로 돌아가는 하드웨어 공급단. 진입점은 [반도체·AI 칩 가치사슬 종합](../syntheses/semiconductor-ai-chip-value-chain.md).
+
+- **개념**: [CUDA](../concepts/cuda.md) — 엔비디아 소프트웨어 해자 · [CoWoS](../concepts/cowos.md) · [HBM](../concepts/hbm.md) · [SerDes](../concepts/serdes.md) · [EUV 노광](../concepts/euv-lithography.md)
+- **기업**: [엔비디아](../entities/nvidia.md) · [TSMC](../entities/tsmc.md) · [브로드컴](../entities/broadcom.md) · [마벨](../entities/marvell.md)
+
+---
+
 ## 관련 인물 / 조직
 
 - [Anthropic](../entities/anthropic.md)

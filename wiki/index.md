@@ -56,6 +56,13 @@ sources: []
 - [Big Cycle (대순환)](concepts/big-cycle.md) — Ray Dalio의 거시적 역사 순환 프레임워크
 - [레버리지와 파생상품](concepts/leverage-and-derivatives.md) — 선물·스왑·레버리지 ETF의 메커니즘과 변동성 끌림
 
+### 반도체 / AI 하드웨어 (`domain: finance, ai`)
+- [EUV 노광 (ASML 독점)](concepts/euv-lithography.md) — 13.5nm 극자외선 노광, 장비 시장 ASML 단독 독점
+- [CoWoS](concepts/cowos.md) — TSMC 2.5D 첨단 패키징, AI 칩 공급의 실질 병목
+- [HBM](concepts/hbm.md) — 고대역폭 적층 메모리, '곡괭이와 삽'의 메모리 축
+- [CUDA](concepts/cuda.md) — 엔비디아의 소프트웨어 해자, GPU/ASIC 분업의 경계선
+- [SerDes](concepts/serdes.md) — 초고속 인터커넥트 IP, ASIC 설계 시장의 진입 장벽
+
 ### Design
 - [디자인 시스템](concepts/design-system.md) — Design Tokens·Components·Guidelines 3요소 표준화 체계
 - [Atomic Design](concepts/atomic-design.md) — Brad Frost의 Atoms→Molecules→Organisms→Templates→Pages 5계층 방법론
@@ -75,6 +82,12 @@ sources: []
 ### Finance
 - [Ray Dalio](entities/ray-dalio.md) — Bridgewater Associates 창립자, Big Cycle·Risk Parity·All Weather 제안자
 
+### 반도체 / AI 하드웨어 (`domain: finance, ai`)
+- [TSMC](entities/tsmc.md) — 세계 최대 순수 파운드리, 첨단 칩 ~90% 제조
+- [엔비디아 (NVIDIA)](entities/nvidia.md) — AI GPU 지배 팹리스, CUDA 해자
+- [브로드컴 (AVGO)](entities/broadcom.md) — 커스텀 ASIC 설계 1위(~70%), 네트워킹 곱셈 효과
+- [마벨 (MRVL)](entities/marvell.md) — 커스텀 ASIC 설계 2위(~20~25%), 인터커넥트·광 강점
+
 ---
 
 ## Topics — 주제별 요약 (`type: fact-set | claim`)
@@ -91,6 +104,7 @@ sources: []
 ### Finance
 - [Ray Dalio All Weather Portfolio](topics/all-weather-portfolio.md) — 상관관계·Risk Parity·4분면 프레임 기반 전략 (2026-04)
 - [Ray Dalio - 세계대전과 Big Cycle 분석](topics/ray-dalio-world-war-big-cycle.md) — 세계대전 진입 경고, 13단계 중 9단계 (`confidence: medium`) (2026-04)
+- [폴리실리콘 — 태양광 vs 반도체 시장 분기](topics/polysilicon.md) — 같은 물질이 순도 요구치로 두 시장으로 갈라짐 (`domain: finance, ai`) (2026-06)
 
 ### Design
 - [디자인 프로세스 기초](topics/design-process-basics.md) — 4D 프로세스, 7단계 실무 흐름, AI 도구의 위치 (2026-04)
@@ -108,6 +122,7 @@ sources: []
 원칙+사실+의견을 종합해 내린 판단. 출처보다 내 상황이 반영된 페이지.
 
 - [개인 투자자용 All Weather 변형 포트폴리오](syntheses/personal-all-weather-variant.md) — 4분면 커버리지 유지 + 레버리지 포기 + 성장↑ 약한 가중치 (2026-04)
+- [반도체·AI 칩 가치사슬 종합](syntheses/semiconductor-ai-chip-value-chain.md) — 모래에서 AI 칩까지, 협상력·마진·해자의 집중 지점 6원리 (`domain: finance, ai`) (2026-06)
 
 ---
 
