@@ -1,7 +1,7 @@
 ---
 title: "QCOM - QUALCOMM Incorporated — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-02
+updated: 2026-06-09
 domain: finance
 type: claim
 weight: reference
@@ -27,9 +27,11 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-19**: Q3 가이던스 하회 — 스마트폰 수요 회복 시점 불확실 → **partially verified** (ByteDance AI ASIC 대형 계약으로 부분 반등했으나 NVDA RTX Spark으로 온디바이스 AI PC 시장도 위협, 2026-06-02)
-- [ ] **2026-05-19**: 경영진 자사주 매입 — 저평가 판단 신호 vs 구조적 약세 (pending)
-- [ ] **2026-06-02**: Dragonfly 데이터센터 칩 — 6월 24일 인베스터 데이 발표 후 시장 반응 (대기)
-- [ ] **2026-06-02**: NVDA RTX Spark AI PC 공세 — Snapdragon X Elite 점유율 방어 가능 여부 (7일 검증 대기)
+- [ ] **2026-05-19**: 경영진 자사주 매입 — 저평가 판단 신호 vs 구조적 약세 (pending — 직접 증거 미확인)
+- [ ] **2026-06-02**: Dragonfly 데이터센터 칩 — 6월 24일 인베스터 데이 발표 후 시장 반응 (15일 대기)
+- [x] **2026-06-02**: NVDA RTX Spark AI PC 공세 — Snapdragon X Elite 점유율 방어 가능 여부 → **challenged** (QCOM 주가 6/5 -9.52% 급락 후 JP모건 데이터센터 3축 전략으로 부분 방어, 2026-06-09 확인)
+- [ ] **2026-06-09**: JP모건 데이터센터 전략 — FY27 $30억+ 달성 여부 (12개월 검증 대기)
+- [ ] **2026-06-09**: 6/24 인베스터 데이 Dragonfly 세부 발표 — 시장 기대치 충족 여부 (15일 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -44,6 +46,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-09
+
+**narrative_score**: +0.07 (중립에 가까운 약한 긍정)
+**key_events**: 칩섹터 반등 동조, JP모건 목표주가 $265 상향, 6/24 인베스터 데이 데이터센터 전략 기대
+**risks**: NVDA RTX Spark AI PC 위협 잔존, 6/5 -9.52% 급락 이후 기술적 저항
+
+> [!claim] (출처: Quiver Quant, 2026-06-09) 반도체 반등에 동조 상승 — JP모건 데이터센터 3축 전략 주목
+> JP모건 Samik Chatterjee: 커스텀 실리콘·머천트 CPU·AI 가속기 3축 전략, FY31 $350억 데이터센터 목표. impact: + / category: earnings
+
+> [!claim] (출처: GuruFocus, 2026-06-05) JP모건 QCOM 목표주가 $160→$265 대폭 상향
+> 6/24 인베스터 데이 앞두고 긍정적 촉매 워치 설정 (투자의견 중립 유지). impact: + / category: earnings
+
+> [!claim] (출처: Trefis, 2026-06-09) 자동차 부문 매출 $1.3B 기록 (+38% YoY)
+> 스마트폰 의존 탈피, 자동차 다각화 가시화 — 구조적 사업 전환의 첫 의미있는 증거. impact: + / category: earnings
+
+**경쟁사 동향**:
+- INTC: 구글 TPU 파운드리 수주·NVDA 18A 평가 — 데이터센터 CPU 경쟁 심화 잠재 (impact for QCOM: 중립~-)
+- NVDA: 애플·구글 AI 클라이언트 확보 — 에지 AI 인퍼런스 시장도 NVDA 진출 지속 (impact for QCOM: -)
 
 ### 2026-06-02
 

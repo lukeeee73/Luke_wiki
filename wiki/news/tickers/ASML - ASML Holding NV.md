@@ -1,7 +1,7 @@
 ---
 title: "ASML - ASML Holding NV — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-02
+updated: 2026-06-09
 domain: finance
 type: claim
 weight: reference
@@ -28,7 +28,9 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-19**: 2026 가이던스 +16% YoY 380억 유로 — 분기 진행 상황 검증 필요 → **on-track** (Q1 2026 매출 €103억·마진 53%·High-NA EUV 수주 급증으로 연간 가이던스 재확인, 2026-06-02)
 - [ ] **2026-05-19**: 인도 Tata 300mm 팹 장비 공급 — 수주 규모·일정 구체화 필요 (pending)
-- [ ] **2026-06-02**: UBS 목표가 €1,900 vs Morningstar 매도 — 밸류에이션 합리성 검증 (7일 검증 대기)
+- [x] **2026-06-02**: UBS 목표가 €1,900 vs Morningstar 매도 — 밸류에이션 합리성 검증 → **bull-case-advancing** (BofA €1,921, JP모건 €1,900, 머스크 Terafab 호재로 주가 상승 지속, 2026-06-09 확인)
+- [ ] **2026-06-09**: 일론 머스크 Terafab JV ($550억 텍사스 팹) — 실제 ASML 장비 수주로 이어질지 (6~12개월 검증)
+- [ ] **2026-06-09**: 2026 매출 €36~40B 가이던스 — 하반기 EUV 출하 일정 준수 여부 (Q3 실적 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -38,6 +40,12 @@ sources: []
 <!-- FACTS_START -->
 > [!fact] ASML Q1 2026 매출 €103억, 총마진 53%, High-NA EUV 수주 급증
 > Q1 2026 실적 (2026-04-16 발표). 수주 잔고 €96억 포함. 연간 가이던스 유지 (중간 50%대 마진). 출처: Yahoo Finance / 애널리스트 보고서.
+
+> [!fact] ASML 2026 매출 전망 €36~40B 상향, 총마진 51~53%
+> 2026-06-09 기준. 기존 전망에서 공식 상향. BofA €1,921, JP모건 €1,900, 모건스탠리 €1,660 목표주가 동시 상향. 출처: TradingKey, GuruFocus (복수 Tier-2 소스)
+
+> [!fact] 일론 머스크 Terafab JV 발표 — 스페이스X·테슬라, $550억 텍사스 반도체 팹 공동 설립
+> 2026-06-09 ASML 연간 기술 컨퍼런스에서 머스크 가상 참석. Terafab = SpaceX + Tesla 합작 최첨단 팹. ASML의 잠재 신규 대형 고객. 출처: Investing.com (Tier-2)
 <!-- FACTS_END -->
 
 ---
@@ -45,6 +53,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-09
+
+**narrative_score**: +0.30 (강한 긍정)
+**key_events**: 일론 머스크 Terafab JV ($550억 텍사스 팹), 2026 매출 전망 €36~40B 상향, BofA/JPM 목표가 동시 상향
+**risks**: 중국 EUV 수출 규제 지속, Terafab 수주 실현까지 다단계 불확실성
+
+> [!claim] (출처: Investing.com, 2026-06-09) 일론 머스크 Terafab JV — SpaceX·Tesla 공동 $550억 텍사스 팹
+> ASML 연간 기술 컨퍼런스 6/9~10 가상 참석. 머스크가 ASML을 '유럽 최고 기업'으로 선언. Terafab은 ASML의 잠재 신규 대형 고객. impact: + / category: product
+
+> [!claim] (출처: TradingKey, 2026-06-09) ASML +4.18% — 2일 연속 강세 (+6.5%+4.2%)
+> 2026 매출 전망 €36~40B 상향, 총마진 51~53%. impact: + / category: earnings
+
+> [!claim] (출처: GuruFocus, 2026-06-08) BofA €1,921·JP모건 €1,900·모건스탠리 €1,660 동시 상향
+> 3개 주요 증권사 목표주가 동시 대폭 상향 — AI 수요 구조적 강세 반영. impact: + / category: earnings
+
+**경쟁사 동향**:
+- AMAT: 장비 30%+ 성장 가이던스 — ASML EUV → AMAT 후공정 장비 연동 수요 확인
+- LRCX: WFE $1,400억 상향 — 반도체 장비 섹터 전반 사이클 상향 신호
 
 ### 2026-06-02
 

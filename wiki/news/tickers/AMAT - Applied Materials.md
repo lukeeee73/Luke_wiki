@@ -1,7 +1,7 @@
 ---
 title: "AMAT - Applied Materials — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-02
+updated: 2026-06-09
 domain: finance
 type: claim
 weight: reference
@@ -28,7 +28,9 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-19**: Q2 총마진 50% 25년 최고 — Q3도 유지 가능한지 → **exceeded** (연간 장비 성장률 전망 20%→30%+로 상향, 사상 최대 매출·25년 최고 마진 기록 확인, 2026-06-02)
 - [x] **2026-05-19**: Q3 가이던스 $8.95B — 실제 달성 및 첨단 패키징 +50% 성장 검증 → **on-track** (Mizuho·Deutsche Bank·Cantor 목표가 잇따라 상향, 2026-06-02)
-- [ ] **2026-06-02**: ASMPT NEXX $120M 인수 — 어드밴스드 패키징 시장 점유율 확대 여부 (7일 검증 대기)
+- [x] **2026-06-02**: ASMPT NEXX $120M 인수 — 어드밴스드 패키징 시장 점유율 확대 여부 → **on-track** (Q2 사상 최대 실적·25년 최고 마진·장비 30%+ 가이던스로 패키징 강화 전략 유효, 2026-06-09 확인)
+- [ ] **2026-06-09**: 내부자 5만주 $2,526만 매도 — 고점 신호인지 vs 단순 계획적 매도인지 (30일 주가 추이 관찰)
+- [ ] **2026-06-09**: 장비 사업 연간 30%+ 성장 — Q3 FY2026 실적 발표 시 달성 여부 (분기 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -38,6 +40,9 @@ sources: []
 <!-- FACTS_START -->
 > [!fact] (검증일 2026-05-14, 출처: Applied Materials IR + Benzinga) AMAT Q2 2026 역대 최고 실적
 > Q2 매출 $7.91B(+11% YoY), GAAP EPS +33%, 총마진 50%(25년 최고). Q3 가이던스 $8.95B ± $500M (컨센서스 $8.09B 대폭 상회). CEO: 반도체 장비 사업 2026년 +30% 이상 성장 전망.
+
+> [!fact] AMAT 2026년 캘린더 기준 반도체 장비 사업 30%+ 성장 가이던스 재확인
+> 2026-06-08 Q2 FY2026 실적 발표. "record revenue and earnings, highest gross margin in more than 25 years" 공식 발표. 출처: CNBC (Tier-1)
 <!-- FACTS_END -->
 
 ---
@@ -45,6 +50,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-09
+
+**narrative_score**: +0.29 (약한 긍정)
+**key_events**: Q2 FY2026 사상 최대 실적 (매출·EPS·25년 최고 마진), 연간 장비 30%+ 성장 가이던스 상향
+**risks**: 내부자 5만주 $2,526만 대규모 매도, GF Value 대비 130% 과밸류에이션 논란
+
+> [!claim] (출처: CNBC, 2026-06-08) Q2 FY2026 사상 최대 매출·EPS·25년 이상 최고 총마진 달성
+> '역대 최고 매출·수익, 25년 이상 최고 총마진' 경영진 공식 발표. Q3 가이던스도 강세. impact: + / category: earnings
+
+> [!claim] (출처: TradingKey, 2026-06-08) 반도체 장비 사업 연간 30%+ 성장 가이던스 유지
+> AI 인프라 수요가 웨이퍼 팹 장비 수요 구조적으로 끌어올림 확인. impact: + / category: earnings
+
+> [!claim] (출처: TipRanks, 2026-06-09) 반도체 제품 그룹 사장 5만주 $2,526만 대규모 매도
+> 주요 임원의 대규모 차익실현 — 단기 고점 경계 신호. impact: - / category: other
+
+**경쟁사 동향**:
+- LRCX: WFE $1,400억 상향·미즈호 $380·UBS $375 — 동일 장비 사이클 수혜 공유
+- ASML: Terafab JV·2026 매출 €36~40B — 전공정 EUV 수요 확대 = AMAT 후공정 연동 성장
 
 ### 2026-06-02
 

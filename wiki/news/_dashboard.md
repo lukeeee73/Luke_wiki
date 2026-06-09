@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-06-08
+updated: 2026-06-09
 domain: finance
 type: index
 weight: reference
@@ -52,16 +52,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [NVDA](tickers/NVDA - NVIDIA Corporation.md) | 2026-06-02 | +0.50 | COMPUTEX Vera Rubin CPU·RTX Spark 발표, 주주환원 FCF 50%+, TSMC 파트너십 심화 | 2 |
-| [AMD](tickers/AMD - Advanced Micro Devices.md) | 2026-06-02 | +0.16 | NVDA RTX Spark 발표로 4% 급락, Q2 가이던스 $11.2B(+45% YoY) TD Cowen $600 상향 | 3 |
-| [TSM](tickers/TSM - Taiwan Semiconductor Mfg.md) | 2026-06-02 | +0.41 | NVDA 대만 투자 확대로 4.8% 급등, 3nm 공정 가격 15% 인상, 직원 보너스 30%+ | 4 |
-| [AVGO](tickers/AVGO - Broadcom Inc.md) | 2026-06-02 | +0.39 | 6/3 Q2 실적 발표·AI 수주잔고 $73B, 알파벳 $80B 인프라 투자 수혜, WF $545 상향 | 3 |
-| [INTC](tickers/INTC - Intel Corporation.md) | 2026-06-02 | -0.20 | COMPUTEX Xeon 6+ 발표 → 4.67% 급락, NVDA RTX Spark AI PC 직격탄 | 3 |
-| [QCOM](tickers/QCOM - QUALCOMM Incorporated.md) | 2026-06-02 | -0.22 | NVDA RTX Spark(100+ TOPS)으로 Snapdragon 위협 → 8.78% 급락, 6/24 인베스터 데이 | 4 |
-| [ASML](tickers/ASML - ASML Holding NV.md) | 2026-06-02 | +0.33 | 4.7% 상승·연초 +53%, Q1 €103억·마진 53%, UBS €1,900 상향 | 3 |
-| [AMAT](tickers/AMAT - Applied Materials.md) | 2026-06-02 | +0.39 | 사상 최대 매출·25년 최고 마진, 연간 장비 성장률 30%+ 상향, ASMPT NEXX $120M 인수 | 3 |
-| [LRCX](tickers/LRCX - Lam Research Corp.md) | 2026-06-02 | +0.40 | COMPUTEX 후 4.8% 급등·52주 신고가, Q3 FY26 사상 최대 $5.84B, WFE $1,400억 상향 | 3 |
-| [MU](tickers/MU - Micron Technology.md) | 2026-06-02 | +0.47 | HBM4 2026년 전량 매진·시총 $1조 돌파, 주가 +231% YTD, 6/24 Q3 실적 발표 | 3 |
+| [NVDA](tickers/NVDA - NVIDIA Corporation.md) | 2026-06-09 | +0.27 | 애플 AI 고객 확보·구글 GPU 렌탈 계약, 젠슨 황 상원 청문회 거부 | 2 |
+| [AMD](tickers/AMD - Advanced Micro Devices.md) | 2026-06-09 | +0.29 | 영국 AI 인프라 £2B 투자, Q1 데이터센터 +57%, 바클레이즈 $665 목표 | 2 |
+| [TSM](tickers/TSM - Taiwan Semiconductor Mfg.md) | 2026-06-09 | +0.24 | 주주총회 2026년 30%+ 성장 확인, 3nm 가격 +15% 진행, 시총 $1.89T | 2 |
+| [AVGO](tickers/AVGO - Broadcom Inc.md) | 2026-06-09 | -0.09 | Q2 AI 매출 2배($108억)에도 FY 가이던스 미상향 → 주가 -15% | 2 |
+| [INTC](tickers/INTC - Intel Corporation.md) | 2026-06-09 | +0.35 | 구글 TPU 300만+ 파운드리 수주·NVDA 18A 평가·+11% 급등 — 파운드리 전환점 | 2 |
+| [QCOM](tickers/QCOM - QUALCOMM Incorporated.md) | 2026-06-09 | +0.07 | 칩섹터 반등 동조, JP모건 $265 상향, 6/24 인베스터 데이 데이터센터 기대 | 3 |
+| [ASML](tickers/ASML - ASML Holding NV.md) | 2026-06-09 | +0.30 | 머스크 Terafab $550억 텍사스 팹·2일 연속 +6.5%+4.2%, BofA €1,921 상향 | 2 |
+| [AMAT](tickers/AMAT - Applied Materials.md) | 2026-06-09 | +0.29 | Q2 FY2026 사상 최대·25년 최고 마진·장비 30%+ 가이던스, 임원 $2,526만 매도 | 2 |
+| [LRCX](tickers/LRCX - Lam Research Corp.md) | 2026-06-09 | +0.21 | WFE $1,400억 상향, 미즈호·UBS·MS 3사 목표가 동시 상향, 배당 $0.26 | 2 |
+| [MU](tickers/MU - Micron Technology.md) | 2026-06-09 | +0.35 | 6/24 어닝 예정 ($335억+), DRAM +58~63% TrendForce, YTD +174% | 4 |
 
 ### 자동차 / 모빌리티
 
@@ -205,6 +205,27 @@ sources: []
 | [329180.KS](tickers/329180.KS - HD Hyundai Heavy Industries.md) | 2026-06-03 | +0.33 | VLGC 8척 1.416조원 수주, 연간 목표 60.8% 조기 달성, KDDX 소송 | 2 |
 | [042660.KS](tickers/042660.KS - Hanwha Ocean Co.md) | 2026-06-03 | +0.13 | Leidos 미 해군 설계 협력, 캐나다 해군 MOU 체결 | 2 |
 | [010140.KS](tickers/010140.KS - Samsung Heavy Industries.md) | 2026-06-03 | +0.25 | FDC 시장 선점 — Capital/LR MOU·Supermicro AI 서버 JDP | 2 |
+
+## 오늘의 시그널 (2026-06-09 · 화요일 · 반도체)
+
+루틴은 다음 패턴을 감지하면 이 섹션에 기록한다:
+
+- **연속성**: 같은 테마가 3 일 이상 연속 등장 (예: 비만치료제 임상 데이터 연속)
+- **모순**: 같은 종목 어제/오늘 narrative 가 반대 방향
+- **섹터 동기화**: 3 종목 이상이 같은 매크로 이슈 (예: 관세, FOMC, 유가, 비만치료제, 데이터센터 전력) 로 동시 움직임
+
+**2026-06-09 감지된 시그널:**
+
+- **역방향 (INTC)**: 2026-06-02 -0.20 → 2026-06-09 +0.35 — 구글 TPU 파운드리 수주 단독 호재가 주가 +11%·narrative 역전. 6월 2주 만에 파운드리 비즈니스의 구조적 전환점. COMPUTEX 실망 대비 극적 반전.
+- **역방향 (AVGO)**: 2026-06-02 +0.39 → 2026-06-09 -0.09 — AI 매출 2배에도 가이던스 미상향으로 -15%. "좋은 실적 + 기대 미충족 = 급락" 하이퍼성장주 공식 재확인.
+- **섹터 동기화 (장비 슈퍼사이클)**: AMAT +0.29 / LRCX +0.21 / ASML +0.30 — 장비 3사 동시 강세. AMAT 사상 최대 실적·LRCX WFE $1,400억·ASML Terafab이 동일 테마 강화.
+- **섹터 동기화 (AI 메모리 수요)**: MU +0.35 / 반도체 장비 섹터 동반 강세 — DRAM +58~63% 예측과 HBM 공급 부족이 메모리+장비 투트랙 수혜 확인.
+- **연속성 (인텔 파운드리 반등)**: 2026-06-02 COMPUTEX 실망 → 2026-06-09 구글 TPU 수주. 2주 연속 인텔 파운드리 이슈가 섹터 센티멘트 주요 변수로 등장. NVDA의 18A 평가가 다음 30일 핵심 모니터링 변수.
+- **최고 시그널**: INTC +0.35 — 구글 TPU·NVDA 18A·+11% 세 호재가 단하루 집중. 파운드리 사업 구조 전환의 역사적 일.
+- **경고 시그널**: AVGO -0.09 — AI 매출 2배에도 시장 기대 미달. "AI 기대주는 가이던스가 모든 것" 원칙 재확인. QCOM +0.07 — 반등에도 6/5 급락 상처 잔존, 6/24 인베스터 데이가 최후 판단 시점.
+- **주목 이벤트**: 6/24 MU Q3 FY2026 어닝(±20% 예상), 6/24 QCOM 인베스터 데이 Dragonfly 발표, NVDA 18A 평가 결과 (수주 미확정 — 60일 대기).
+
+### 감지된 패턴 (2026-06-06 · 토요일 · 금융 + 부동산 (REITs))
 
 ## 오늘의 시그널 (2026-06-06 · 토요일 · 금융 + 부동산 (REITs))
 
