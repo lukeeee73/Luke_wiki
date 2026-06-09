@@ -1,7 +1,7 @@
 ---
 title: "AVGO - Broadcom Inc. — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-02
+updated: 2026-06-09
 domain: finance
 type: claim
 weight: reference
@@ -28,7 +28,9 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-19**: AI 맞춤형 칩 2027년 $1000억 매출 — 달성 경로 검증 필요 → **on-track** (AI 수주잔고 $73B, 6개 하이퍼스케일러 다년 약정 확인, 2026-06-02)
 - [ ] **2026-05-19**: Meta 2nm AI 칩 파트너십 — 구체 수주 규모·일정 미정 (pending)
-- [ ] **2026-06-02**: Q2 FY2026 실적 (6/3 발표) — AI 가이던스 달성 여부 (2일 검증 대기)
+- [x] **2026-06-02**: Q2 FY2026 실적 (6/3 발표) — AI 가이던스 달성 여부 → **partial-miss** (EPS $2.44 소폭 상회, 매출 $22.19B 미세 미달, FY AI $1,000억 목표 미상향 → 주가 -15%, 2026-06-09 확인)
+- [ ] **2026-06-09**: 주가 -15% 급락 이후 회복 — 다음 분기 AI 가이던스 상향 여부 (Q3 실적 대기)
+- [ ] **2026-06-09**: FY AI 매출 $100B 목표 — 연내 상향 발표 여부 (6~9개월 검증)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -38,6 +40,12 @@ sources: []
 <!-- FACTS_START -->
 > [!fact] AVGO AI 수주잔고 $73B, 6개 하이퍼스케일러 다년 공급 약정 확인
 > CEO Hock Tan 공개 발언 (2026-06-02). 구글·메타·오픈AI·앤트로픽 등 포함. 구글 TPU 공급 계약 2031년까지.
+
+> [!fact] AVGO Q2 FY2026 AI 매출 $10.8B (+100% YoY) — 분기 2배 성장 달성
+> 2026-06-03 실적 발표. AI 매출 전년 동기 대비 2배 증가. EPS $2.44(컨센 $2.40 상회). 6개 핵심 커스텀 AI 칩 고객사: 앤트로픽·구글·메타·오픈AI 포함. 출처: CNBC (Tier-1)
+
+> [!fact] AVGO 주가 -15% 급락 (2026-06-04) — FY AI 가이던스 $100B 미상향이 원인
+> EPS 상회·AI 매출 2배에도 CEO가 FY AI 목표 $100B 미상향 → 시장 기대 미달로 -15% 급락. 출처: CNBC Bloomberg (Tier-1)
 <!-- FACTS_END -->
 
 ---
@@ -45,6 +53,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-09
+
+**narrative_score**: -0.09 (약한 부정)
+**key_events**: Q2 AI 매출 2배 달성에도 FY 가이던스 미상향으로 주가 -15%, 6개 AI 고객사 공개
+**risks**: 시장 기대 대비 가이던스 부재로 단기 실망 매물, NVDA 직접 경쟁 확대
+
+> [!claim] (출처: CNBC, 2026-06-03) Q2 FY2026 AI 매출 $108억 (+100% YoY) — FY 목표 미상향으로 -15%
+> AI 매출 2배 달성에도 투자자 기대치($1,000억+ 가이던스) 미충족으로 시장 실망. impact: - / category: earnings
+
+> [!claim] (출처: Bloomberg, 2026-06-03) 6개 핵심 커스텀 AI 칩 고객사 공개
+> 앤트로픽·구글·메타·오픈AI 포함 6개 하이퍼스케일러 — AI ASIC 사업 다변화 확인. impact: + / category: product
+
+> [!claim] (출처: Reuters, 2026-06-09) 아폴로·블랙스톤 크레딧과 금융 플랫폼 파트너십 출범
+> 반도체 외 금융 부문 파트너십 확장 — 사업 다각화 신호. impact: neutral / category: other
+
+**경쟁사 동향**:
+- NVDA: 애플·구글 AI 클라이언트 직접 확보 — AVGO 커스텀 ASIC 비즈니스의 구조적 경쟁 압력
+- QCOM: 데이터센터 Dragonfly 전략 — AVGO ASIC 시장 진입 시도
 
 ### 2026-06-02
 

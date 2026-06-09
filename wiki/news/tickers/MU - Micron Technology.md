@@ -1,7 +1,7 @@
 ---
 title: "MU - Micron Technology — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-02
+updated: 2026-06-09
 domain: finance
 type: claim
 weight: reference
@@ -27,8 +27,10 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-19**: HBM 2026년 전량 매진 — 2027년 공급 계획 및 가격 협상 동향 → **confirmed** (HBM4 2026년 전량 매진 공식 확인, 시총 $1조 돌파, 2026-06-02)
-- [ ] **2026-05-19**: Q2 매출 +196% YoY — 성장률 지속 가능성 vs 기저효과 → Q3 FY2026 매출 $33.5B(+263% YoY) 예상 — 6/24 실적 발표 검증 대기
-- [ ] **2026-06-02**: 6월 24일 Q3 FY2026 실적 — 매출 $33.5B(+263% YoY)·EPS $19.29 달성 여부 (22일 대기)
+- [ ] **2026-05-19**: Q2 매출 +196% YoY — 성장률 지속 가능성 vs 기저효과 → Q3 FY2026 매출 $33.5B(+263% YoY) 예상 — 6/24 실적 발표 검증 대기 (15일 대기)
+- [ ] **2026-06-02**: 6월 24일 Q3 FY2026 실적 — 매출 $33.5B(+263% YoY)·EPS $19.15 달성 여부 (15일 대기)
+- [ ] **2026-06-09**: DRAM 가격 +58~63% TrendForce 예측 — 실제 Q3 컨트랙트 가격 확인 (실적 발표 시 검증)
+- [ ] **2026-06-09**: 6/24 어닝 옵션 ±20% 함의 — 어닝 후 방향성 (15일 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -38,6 +40,15 @@ sources: []
 <!-- FACTS_START -->
 > [!fact] (검증일 2026-05-18, 출처: TradingKey + Capital.com) MU Q2 2026 역대급 실적
 > Q2 매출 +196% YoY, 총마진 74.9%, HBM 2026년 전량 매진. Mizuho $800 (from $740), Melius Research $1,100 (from $700) 목표주가 상향.
+
+> [!fact] MU Q3 FY2026 가이던스 — 매출 $33.5B(midpoint), EPS $19.15(non-GAAP)
+> 전년 동기 대비 매출 +263%, EPS +10x YoY. AI DRAM·HBM 수요 폭증 구조 반영. 6/24 검증 예정.
+
+> [!fact] TrendForce: 2026년 Q2 DRAM 가격 +58~63% 급등 예측
+> AI 데이터센터 DRAM 공급 부족 심화로 Q2 컨트랙트 가격 급등 예측. MU 수혜 직결. 출처: Reuters (Tier-1)
+
+> [!fact] MU YTD +174% (2026-06-09 기준)
+> $10,000 투자 시 $27,400+ 수익. Nasdaq-100 내 반도체 섹터 최상위 수익률 구간.
 <!-- FACTS_END -->
 
 ---
@@ -45,6 +56,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-09
+
+**narrative_score**: +0.35 (강한 긍정)
+**key_events**: 6/24 Q3 FY2026 어닝 예정 ($335억, EPS $19.15), DRAM 가격 +58~63% TrendForce 예측, 셀오프 후 메모리 투자 복귀
+**risks**: 6/24 어닝 결과에 따른 ±20% 급변동 리스크, YTD +174% 차익실현 압력
+
+> [!claim] (출처: GuruFocus, 2026-06-09) 6/24 Q3 FY2026 어닝 — 옵션 ±20% 급변동 함의
+> 매출 $335억(+263% YoY)·EPS $19.15(+10x YoY) 컨센서스. 어닝 전후 ±20% 움직임 예상. impact: + / category: earnings
+
+> [!claim] (출처: Motley Fool, 2026-06-07) Motley Fool: 6/24 어닝 후 주가 급등 예측
+> AI DRAM 수요 구조적 강세·HBM 공급 부족·DRAM 가격 +58~63% 예측이 어닝 강세 기반. impact: + / category: earnings
+
+> [!claim] (출처: Reuters, 2026-06-08) TrendForce: Q2 2026 DRAM 가격 +58~63% 급등 예측
+> AI 데이터센터 수요로 DRAM 공급 부족 심화 — MU 수혜 핵심 매크로 요인. impact: + / category: macro
+
+**경쟁사 동향**:
+- AVGO: AI 매출 2배($108억) — AVGO AI ASIC = HBM 소비 구조 → MU 수요 기반 강화
+- INTC: 파운드리 반등 — 장기적 메모리 패키징 경쟁 가능성 (단기 영향 미미)
 
 ### 2026-06-02
 
