@@ -14,10 +14,14 @@ LLM이 원본 자료를 읽고, 핵심 정보를 추출하여, 구조화된 위�
 
 ```
 Luke_wiki/
+├── README.md              # vault 지도와 빠른 사용 흐름
 ├── CLAUDE.md              # Schema Layer - 위키 운영 규칙 (이 파일)
+├── inbox/                 # Capture Layer - 아직 분류하지 않은 임시 메모
 ├── sources/               # Raw Sources Layer - 원본 자료 (불변)
-│   └── ...                # 논문, 기사, 노트 등 원본 파일
-└── wiki/                  # Wiki Layer - LLM이 생성/관리하는 마크다운
+│   └── ...                # 논문, 기사, 강의, 코드, 웹 클리핑 등 원본 파일
+├── _templates/            # Obsidian Templates 플러그인용 노트 템플릿
+├── scripts/               # vault 구조 검증/보조 스크립트
+└── wiki/                  # Wiki Layer - 정제된 마크다운 지식
     ├── index.md           # 전체 위키 페이지 카탈로그
     ├── log.md             # 작업 이력 (시간순 기록)
     ├── principles/        # 핵심 원칙 페이지 (최상위 가중치)
@@ -27,15 +31,22 @@ Luke_wiki/
     ├── topics/            # 주제별 요약 페이지
     ├── comparisons/       # 비교 분석 페이지
     ├── syntheses/         # 종합 분석 / 내 판단 페이지
-    └── news/              # 루틴 자동 수집 — watchlist 종목 뉴스 누적 (구분된 영역)
+    └── news/              # 루틴 자동 수집 — watchlist 종목 뉴스 누적 (격리 영역)
 ```
+
+### Capture → Source → Wiki → Routine 구조
+
+- **Capture Layer** (`inbox/`): 모바일/데스크톱에서 급히 적은 생각을 임시로 둔다. 장기 보존 금지. 일주일 안에 삭제·병합·승격한다.
+- **Raw Sources Layer** (`sources/`): 원문 보존 레이어. 가능하면 내용과 메타데이터를 그대로 보존하고, 해석은 `wiki/`에서 한다.
+- **Wiki Layer** (`wiki/`): 공부한 것을 장기 저장하는 정제 레이어. 모든 페이지는 frontmatter와 인식론 callout을 갖는다.
+- **Routine Layer** (`wiki/news/`): 자동 뉴스 수집이 쓰는 격리 레이어. `wiki/` 안에 있지만 사람-작성 지식과 섞지 않는다.
 
 ### 사람-작성 영역 vs 루틴-수집 영역
 
 `wiki/` 하위 폴더는 두 부류로 나뉜다:
 
 - **사람-작성 영역** (`principles/`, `concepts/`, `topics/`, `comparisons/`, `syntheses/`, `entities/`, `domains/`): 사용자가 직접 또는 ingest 작업을 통해 출처에서 정제한 콘텐츠. `confidence: high|medium` 가 많다.
-- **루틴-수집 영역** (`news/`): `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 자동으로 누적하는 watchlist 뉴스. 모든 신규 항목은 `type: claim`, `confidence: low`, `tags: [routine-news, ...]` 로 들어와 사람-작성 영역과 명확히 구분된다. 자세한 규칙은 [wiki/news/README.md](wiki/news/README.md).
+- **루틴-수집 영역** (`news/`): `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 자동으로 누적하는 watchlist 뉴스. 모든 신규 항목은 `type: claim`, `confidence: low`, `tags: [routine-news, ...]` 로 들어와 사람-작성 영역과 명확히 구분된다. 자세한 규칙은 [wiki/news/README.md](wiki/news/README.md). 루틴 산출물을 최상위 `news/` 또는 루트 노트로 만들지 않는다.
 
 루틴이 만든 항목은 사람의 확인 후 `wiki/topics/` 등으로 승격될 수 있지만, 그 전까지는 항상 `news/` 안에서만 살아있다.
 
@@ -48,7 +59,20 @@ Luke_wiki/
 | `syntheses/` | 내가 원칙+사실+의견을 종합해 내린 **나 자신의 판단** |
 | `topics/` | 특정 주제에 대한 요약. 출처 기반, 내 판단보다는 정리 |
 | `domains/` | 도메인별 진입점. 직접적 지식 내용 없이 링크만 모음 |
-| `news/` | 루틴이 매일 자동 수집하는 watchlist 종목 뉴스 로그. **루틴 전용 영역** — 사람은 promote/검증만 한다 |
+| `news/` | 루틴이 매일 자동 수집하는 watchlist 종목 뉴스 로그. **루틴 전용 격리 영역** — 사람은 promote/검증만 한다 |
+
+### 공부 노트 저장 흐름
+
+1. 빠른 캡처는 `inbox/` 에 저장한다.
+2. 원문성이 있는 자료는 `sources/` 로 옮기고, 요약·해석은 별도 `wiki/` 페이지에서 한다.
+3. 정제된 공부 내용은 다음 기준으로 배치한다.
+   - 개념 설명: `wiki/concepts/`
+   - 특정 자료/주제 요약: `wiki/topics/`
+   - 의사결정 기준: `wiki/principles/`
+   - 사람·회사·도구: `wiki/entities/`
+   - 내 결론과 실행 판단: `wiki/syntheses/`
+4. 자동 뉴스에서 중요한 사실이 발견되면 `wiki/news/` 를 직접 링크한 뒤, 검증 출처를 붙여 `topics/`·`entities/`·`syntheses/` 로 승격한다.
+5. 구조 변경 후에는 `python scripts/validate_vault.py` 로 루틴 뉴스 격리와 frontmatter 누락을 확인한다.
 
 ## 도메인 정의
 
