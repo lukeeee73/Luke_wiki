@@ -1,7 +1,7 @@
 ---
 title: "News — Routine Log Folder"
 created: 2026-05-16
-updated: 2026-05-16
+updated: 2026-06-09
 domain: finance
 type: index
 weight: reference
@@ -26,12 +26,15 @@ sources: []
 wiki/news/
 ├── README.md           # 이 파일
 ├── _dashboard.md       # 모든 종목의 가장 최근 narrative_score / 핵심 이슈 한눈에 보기 (섹터별)
-└── {TICKER}.md         # 종목별 누적 로그 (역순). 한국 종목은 {NUMBER}.KS.md
+└── {TICKER} - {COMPANY}.md
+                         # 종목별 누적 로그 (역순). 한국 종목은 {NUMBER}.KS - {COMPANY}.md
 ```
 
-`_dashboard.md` 와 `{TICKER}.md` 의 watchlist 는 `indicator_dashboard` 의
+루틴은 파일을 반드시 `wiki/news/` 아래에만 만든다. 최상위 `news/`, 루트의 임시 `.md` 파일, 사람-작성 `wiki/topics/` 로 직접 쓰지 않는다.
+
+`_dashboard.md` 와 종목별 로그 파일의 watchlist 는 `indicator_dashboard` 의
 `scripts/fetch_fred.py` 의 `STOCKS` 딕셔너리를 단일 진실 공급원으로 사용한다.
-종목·섹터가 추가/변경되면 루틴이 새 `{TICKER}.md` 를 자동 생성하고
+종목·섹터가 추가/변경되면 루틴이 새 `{TICKER} - {COMPANY}.md` 를 자동 생성하고
 `_dashboard.md` 의 해당 섹터 표에 행을 추가한다.
 
 ## 섹터 그룹 (현재 운영 중)
@@ -105,5 +108,14 @@ tags: [routine-news, watchlist, {TICKER}]
 ## 사람이 직접 수정해도 되는 부분
 
 - [사실 누적] 섹션의 항목을 `wiki/topics/` 페이지로 승격하면서 출처 boost.
+- 장기 투자 판단으로 이어지는 경우 `_templates/news-promotion.md` 로 새 사람-작성 노트를 만든 뒤 원 뉴스 로그를 `sources` 또는 본문 링크에 남긴다.
 - [미해결 가설] 의 checkbox 를 수동으로 `[x]` / `[~]` 로 바꾸기 (루틴이 다음 실행에 인식).
 - 루틴이 만든 [일자별 기록] 본문은 가급적 수정하지 말고 코멘트로 보강 (`> [!note] 내 의견` 추가).
+
+## 구조 검증
+
+루틴 또는 수동 정리 후 다음 명령으로 뉴스 격리가 깨지지 않았는지 확인한다.
+
+```bash
+python scripts/validate_vault.py
+```

@@ -1,7 +1,7 @@
 ---
 title: "Wiki Log"
 created: 2026-04-05
-updated: 2026-06-05
+updated: 2026-06-09
 tags: [log, meta]
 sources: []
 ---
@@ -10,6 +10,30 @@ sources: []
 # Wiki Log
 
 위키의 모든 작업 이력을 시간순으로 기록합니다.
+
+---
+
+## 2026-06-09
+
+### [STRUCTURE] Obsidian vault 정리 및 뉴스 격리 규칙 강화
+
+- **작업**: 공부 노트 저장소 본래 목적을 살리기 위해 Capture → Source → Wiki → Routine 구조로 정리
+- **생성된 파일**:
+  - `README.md` — vault 지도와 추천 사용 흐름
+  - `inbox/README.md` — 임시 캡처 처리 규칙
+  - `_templates/study-note.md` — 공부 노트 템플릿
+  - `_templates/source-ingest.md` — 원문 수집 템플릿
+  - `_templates/news-promotion.md` — 뉴스 승격 템플릿
+  - `scripts/validate_vault.py` — vault 구조 검증 스크립트
+  - `.obsidian/templates.json` — Obsidian Templates 폴더 설정
+- **업데이트된 파일**:
+  - `CLAUDE.md` — 루틴 뉴스 격리와 공부 노트 저장 흐름 명시
+  - `wiki/index.md` — 운영/뉴스 섹션 간소화 및 잘못 깨질 수 있는 종목별 링크 목록 제거
+  - `wiki/news/README.md` — 현재 종목 파일명 규칙과 검증 명령 추가
+- **삭제된 파일**:
+  - `news/010140.KS.md` — 최상위 `news/` 아래 빈 중복 파일
+  - `wiki/news/JNJ.md` — frontmatter 없는 빈 중복 뉴스 파일
+  - `무제.md` — 루트의 빈 무제 노트
 
 ---
 
