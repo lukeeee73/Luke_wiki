@@ -26,15 +26,16 @@ sources: []
 wiki/news/
 ├── README.md           # 이 파일
 ├── _dashboard.md       # 모든 종목의 가장 최근 narrative_score / 핵심 이슈 한눈에 보기 (섹터별)
-└── {TICKER} - {COMPANY}.md
+└── tickers/            # 자동 생성된 종목별 원본 로그 격리 폴더
+    └── {TICKER} - {COMPANY}.md
                          # 종목별 누적 로그 (역순). 한국 종목은 {NUMBER}.KS - {COMPANY}.md
 ```
 
-루틴은 파일을 반드시 `wiki/news/` 아래에만 만든다. 최상위 `news/`, 루트의 임시 `.md` 파일, 사람-작성 `wiki/topics/` 로 직접 쓰지 않는다.
+루틴은 종목 파일을 반드시 `wiki/news/tickers/` 아래에만 만든다. 최상위 `news/`, 루트의 임시 `.md` 파일, 사람-작성 `wiki/topics/` 로 직접 쓰지 않는다.
 
 `_dashboard.md` 와 종목별 로그 파일의 watchlist 는 `indicator_dashboard` 의
 `scripts/fetch_fred.py` 의 `STOCKS` 딕셔너리를 단일 진실 공급원으로 사용한다.
-종목·섹터가 추가/변경되면 루틴이 새 `{TICKER} - {COMPANY}.md` 를 자동 생성하고
+종목·섹터가 추가/변경되고 실제 기록할 뉴스가 있으면 루틴이 새 `tickers/{TICKER} - {COMPANY}.md` 를 자동 생성하고
 `_dashboard.md` 의 해당 섹터 표에 행을 추가한다.
 
 ## 섹터 그룹 (현재 운영 중)
@@ -99,10 +100,19 @@ tags: [routine-news, watchlist, {TICKER}]
 3. 같은 기간 안에 **반증** (회사 부인, 정정 보도, 후속 데이터 반대) 이 나오면 → Open Claims 에서 `[~] refuted` 마킹 + 일자별 기록에 반증 노트.
 4. 7 일이 지나도 검증/반증 어느 쪽도 없으면 → `aged-out` 으로 마킹하고 Open Claims 에서 제외 (일자별 기록은 그대로 보존).
 
+
+## Obsidian 파일 생성 규칙
+
+- `wiki/news/` 최상위에는 `_dashboard.md` 와 `README.md` 만 둔다.
+- 종목별 자동 로그는 반드시 `wiki/news/tickers/{TICKER} - {Company}.md` 로 생성한다.
+- 실제 일자별 기록이 없는 종목은 파일을 만들지 않는다. 대시보드에도 링크 대신 대기 항목으로만 남긴다.
+- 같은 티커의 회사명이 달라져도 새 파일을 만들지 말고 기존 티커 파일을 갱신한다. 예: `DE - Deere & Company.md` 하나만 유지한다.
+- 루틴 마커(`<!-- OPEN_CLAIMS_START -->`, `<!-- FACTS_START -->`, `<!-- DAILY_START -->`)만 있고 본문 기록이 없는 스캐폴드는 삭제한다.
+
 ## 옵시디언에서 보는 법
 
 - 폰에서 빠르게 보고 싶으면 `_dashboard.md` 에 watchlist 전 종목 narrative_score / 핵심 이슈가 섹터별 표로 모여 있음.
-- 종목 깊게 보려면 `{TICKER}.md` → 맨 위 [미해결 가설] → 그 아래 [일자별 기록].
+- 종목 깊게 보려면 `tickers/{TICKER} - {Company}.md` → 맨 위 [미해결 가설] → 그 아래 [일자별 기록].
 - 다른 위키 페이지와 섞이지 않도록 `routine-news` 태그로 필터 가능.
 
 ## 사람이 직접 수정해도 되는 부분
