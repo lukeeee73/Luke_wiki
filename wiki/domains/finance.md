@@ -47,6 +47,17 @@ sources: []
 내가 원칙+사실+의견을 종합해 내린 판단.
 
 - [개인 투자자용 All Weather 변형](../syntheses/personal-all-weather-variant.md) — 레버리지 없이 4분면을 커버하는 개인용 포트폴리오
+- [반도체·AI 칩 가치사슬 종합](../syntheses/semiconductor-ai-chip-value-chain.md) — 모래에서 AI 칩까지, 어디에 협상력·마진·해자가 집중되는가 (`domain: finance, ai`)
+
+---
+
+## 반도체·AI 칩 가치사슬 (`domain: finance, ai`)
+
+AI 반도체 투자 판단을 위한 가치사슬 지도. 진입점은 위 [종합 페이지](../syntheses/semiconductor-ai-chip-value-chain.md).
+
+- **기업**: [TSMC](../entities/tsmc.md) · [엔비디아](../entities/nvidia.md) · [브로드컴](../entities/broadcom.md) · [마벨](../entities/marvell.md)
+- **기술/개념**: [EUV 노광(ASML)](../concepts/euv-lithography.md) · [CoWoS](../concepts/cowos.md) · [HBM](../concepts/hbm.md) · [CUDA](../concepts/cuda.md) · [SerDes](../concepts/serdes.md)
+- **소재 시장**: [폴리실리콘 — 태양광 vs 반도체 분기](../topics/polysilicon.md)
 
 ---
 

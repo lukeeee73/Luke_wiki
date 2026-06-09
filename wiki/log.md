@@ -15,6 +15,44 @@ sources: []
 
 ## 2026-06-09
 
+### [INGEST] 반도체·AI 칩 가치사슬 종합 학습 노트
+
+- **작업**: "모래에서 AI 칩까지" 반도체 가치사슬 종합 학습 노트를 수집·정제하여 위키 통합
+- **원본 유형**: 개인 학습 노트 (Luke) — 산업 분석/투자 판단용 종합
+- **생성된 파일**:
+  - `sources/semiconductor-ai-chip-value-chain.md` — 원본 학습 노트 (불변 보존)
+  - `wiki/syntheses/semiconductor-ai-chip-value-chain.md` — 가치사슬 종합 (synthesis, `domain: finance, ai`)
+  - `wiki/entities/tsmc.md` — TSMC (파운드리 1위, 제조+패키징)
+  - `wiki/entities/nvidia.md` — 엔비디아 (AI GPU 지배 팹리스)
+  - `wiki/entities/broadcom.md` — 브로드컴 (커스텀 ASIC 설계 1위)
+  - `wiki/entities/marvell.md` — 마벨 (커스텀 ASIC 설계 2위)
+  - `wiki/concepts/euv-lithography.md` — EUV 노광 / ASML 독점
+  - `wiki/concepts/cowos.md` — CoWoS 2.5D 패키징
+  - `wiki/concepts/hbm.md` — HBM 고대역폭 메모리
+  - `wiki/concepts/cuda.md` — CUDA 소프트웨어 해자
+  - `wiki/concepts/serdes.md` — SerDes 인터커넥트 IP
+  - `wiki/topics/polysilicon.md` — 폴리실리콘 태양광 vs 반도체 분기 (fact-set)
+- **업데이트된 파일**:
+  - `wiki/domains/finance.md` — 반도체 가치사슬 섹션 + 종합 페이지 링크 추가
+  - `wiki/domains/ai.md` — AI 하드웨어/반도체 섹션 추가
+  - `wiki/index.md` — 신규 페이지 11개 추가 (syntheses 1, entities 4, concepts 5, topics 1)
+- **주요 내용**:
+  1. 두 시장 구분: ① 소재(모래→실리콘메탈→폴리실리콘→웨이퍼, "빈 캔버스") ② 공정(증착→EUV노광→식각, "회로 새기기"). ASML EUV는 ②의 노광 단계
+  2. 가치사슬 상단일수록 독점 수렴: 소재(과점)→웨이퍼(5사 82%)→장비(ASML 독점)→제조(TSMC)
+  3. 폴리실리콘 분기: 같은 물질이 순도 요구치로 중국 주도 태양광(6N) vs 선진국 과점 반도체(9~11N)로 분리
+  4. TSMC 해자 = 공정·수율·capex·신뢰·생태계·패키징이 서로 강화하는 플라이휠
+  5. CoWoS가 AI 칩 공급의 실질 병목 (엔비디아 50~60% 선점)
+  6. 엔비디아 의존 3중 구조(비용 80%+ 마진 / 공급 할당 / CUDA 소프트웨어)
+  7. 시장 이분화: 훈련·연구→GPU, 대량·고정 추론→커스텀 ASIC (브로드컴·마벨 설계)
+  8. 브로드컴 vs 마벨: 네트워킹 곱셈 효과로 브로드컴 우위(~70% vs ~20~25%)
+  9. "곡괭이와 삽": 승패와 무관하게 TSMC·ASML·HBM·SerDes를 파는 자리가 가장 견고
+  10. "줄어드는 비중 × 커지는 파이": 점유율 하락 ≠ 매출 하락(엔비디아)
+- **위키 관점 판단**:
+  - 위키 최초의 반도체/공급망 산업 분석 자료. 기존 finance(자산배분)·ai(에이전트/모델) 축에 **AI 하드웨어 공급단** 축 추가
+  - 종합 페이지의 6개 경제학 원리는 [경제 환경 4분면](principles/economic-quadrants.md)처럼 개별 종목 뉴스를 끼워 넣는 체크리스트로 사용
+  - 점유율·capex·매출 수치는 대부분 업계 추정(`confidence: medium`), 점유율 예측 등은 `[!claim]`/`[!opinion]` callout으로 명시
+- **비고**: ASML은 별도 엔티티 대신 `concepts/euv-lithography.md`에 통합. watchlist 뉴스(`news/NVDA`, `news/TSM`, `news/AVGO` 등)와 교차 연결 가능 — 추후 promote 시 출처 보강.
+
 ### [STRUCTURE] Obsidian vault 정리 및 뉴스 격리 규칙 강화
 
 - **작업**: 공부 노트 저장소 본래 목적을 살리기 위해 Capture → Source → Wiki → Routine 구조로 정리

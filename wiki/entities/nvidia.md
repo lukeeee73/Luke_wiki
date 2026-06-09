@@ -1,0 +1,39 @@
+---
+title: "엔비디아 (NVIDIA)"
+created: 2026-06-09
+updated: 2026-06-09
+domain: finance, ai
+type: entity
+weight: important
+confidence: high
+tags: [엔비디아, NVIDIA, GPU, AI칩, CUDA, 반도체투자]
+sources: [sources/semiconductor-ai-chip-value-chain.md]
+aliases: [NVIDIA, 엔비디아, 엔디비아]
+---
+
+# 엔비디아 (NVIDIA)
+
+AI 가속기(GPU) 시장의 지배적 팹리스. GPU를 **설계**만 하고 제조는 [TSMC](tsmc.md)에 위탁한다. AI 데이터센터 컴퓨팅의 ~80%를 차지하나, 빅테크의 자체 ASIC 움직임으로 점유율 압박을 받고 있다.
+
+## "엔비디아 의존"의 3중 구조
+
+> [!fact] 사실
+> H100 원가 ~$3,320 / 판가 ~$28,000 → **마진 80%+**.
+
+1. **비용(마진) 종속**: 초과 마진이 곧 고객의 자체 칩 유인이 된다.
+2. **공급(할당) 종속**: 돈이 있어도 못 산다 — 엔비디아가 [CoWoS](../concepts/cowos.md)·[HBM](../concepts/hbm.md)·TSMC 슬롯을 선점.
+3. **소프트웨어 종속 — [CUDA](../concepts/cuda.md)**: 25년 누적 600만 개발자 + cuDNN/cuBLAS 폐쇄 라이브러리 + PyTorch 의존. 가장 깊은 해자.
+
+## 위협 — 빅테크 자체 칩(ASIC)
+
+> [!claim] 출처 기반 주장
+> 구글 TPU, 아마존 Trainium, MS Maia, 메타 MTIA, OpenAI Titan 등 주요 하이퍼스케일러가 [브로드컴](broadcom.md)·[마벨](marvell.md)과 함께 자체 추론 칩을 양산 중. Claude·Gemini 등 최상위 모델이 이미 GPU가 아닌 TPU·Trainium에서 구동된다.
+
+> [!judgment] 내 판단 — 점유율 하락 ≠ 매출 하락
+> 엔비디아 점유율은 ~80% → 60~75%(2028)로 내려갈 전망이지만, 전체 AI capex 파이(~$700B/2026)가 급팽창하므로 **절대 매출은 계속 성장**한다(줄어드는 비중 × 커지는 파이). 또한 훈련·연구 등 유연성이 필요한 워크로드는 CUDA 때문에 계속 GPU로 남는다. → "엔비디아 끝났다"가 아니라 "추론은 ASIC으로 분업"이 정확한 그림.
+
+## 관련 페이지
+
+- [반도체·AI 칩 가치사슬 종합](../syntheses/semiconductor-ai-chip-value-chain.md) §3
+- [CUDA](../concepts/cuda.md) — 소프트웨어 해자
+- [TSMC](tsmc.md) · [브로드컴](broadcom.md) · [마벨](marvell.md)
