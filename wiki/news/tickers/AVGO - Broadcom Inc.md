@@ -1,7 +1,7 @@
 ---
 title: "AVGO - Broadcom Inc. — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-09
+updated: 2026-06-10
 domain: finance
 type: claim
 weight: reference
@@ -19,18 +19,14 @@ sources: []
 통신·네트워크용 맞춤형 반도체를 만드는 미국 회사다. 데이터센터 AI 인프라에 필수적인 네트워킹 칩(Ethernet, InfiniBand)을 공급하며, VMware 인수로 인프라 소프트웨어까지 사업을 확장했다. 엔비디아의 표준 GPU와 달리 애플·구글·메타 등 하이퍼스케일러가 원하는 맞춤형 AI ASIC(주문형 반도체) 시장에서 강자 위치를 구축 중이다. AI 데이터센터 네트워킹의 핵심 공급사다.
 
 > [!info] 자동 수집 노트
-> 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 직접 편집해도 되지만, HTML 마커(`<!-- OPEN_CLAIMS_START -->` 등)는 지우지 말 것.
-
----
-
-## 미해결 가설 (Open Claims)
-
-<!-- OPEN_CLAIMS_START -->
-- [x] **2026-05-19**: AI 맞춤형 칩 2027년 $1000억 매출 — 달성 경로 검증 필요 → **on-track** (AI 수주잔고 $73B, 6개 하이퍼스케일러 다년 약정 확인, 2026-06-02)
-- [ ] **2026-05-19**: Meta 2nm AI 칩 파트너십 — 구체 수주 규모·일정 미정 (pending)
-- [x] **2026-06-02**: Q2 FY2026 실적 (6/3 발표) — AI 가이던스 달성 여부 → **partial-miss** (EPS $2.44 소폭 상회, 매출 $22.19B 미세 미달, FY AI $1,000억 목표 미상향 → 주가 -15%, 2026-06-09 확인)
+> 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 직접 편집해도 되지만, HTML 마커(`<!-- OPEN_CLAIMS_START -->
+- [x] **2026-05-19**: AI 맞춤형 칩 2027년 $1000억 매출 — 달성 경로 검증 필요 → **at-risk** (Q2 AI $108억(2배) 달성했으나 FY 목표 미상향 → 주가 -15%, 2026-06-10)
+- [x] **2026-06-02**: Q2 FY2026 실적 (6/3 발표) — AI 가이던스 달성 여부 → **partial-miss** (EPS $2.44 소폭 상회, 매출 $22.19B 기록적, FY AI $1,000억 목표 미상향 → -15%, 2026-06-10)
+- [x] **2026-05-19**: Meta 2nm AI 칩 파트너십 — 구체 수주 규모·일정 미정 → **confirmed-customer** (Hock Tan 어닝콜에서 Meta를 6개 핵심 AI 고객 중 하나로 공식 확인, 2026-06-10)
 - [ ] **2026-06-09**: 주가 -15% 급락 이후 회복 — 다음 분기 AI 가이던스 상향 여부 (Q3 실적 대기)
 - [ ] **2026-06-09**: FY AI 매출 $100B 목표 — 연내 상향 발표 여부 (6~9개월 검증)
+- [ ] **2026-06-10**: AI XPV 플랫폼 $350억 (Apollo·Blackstone) — 실제 AI 인프라 용량(1GW+) 배치 일정 (6개월 대기)
+- [ ] **2026-06-10**: 6개 AI 핵심 고객 — Anthropic·Google·Meta·OpenAI 외 미공개 2곳 신원 공개 여부 (3~6개월)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -53,6 +49,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-10
+
+**narrative_score**: -0.02 (중립)
+**key_events**: Q2 AI $108억(2배) + 총매출 $222억 역대 최대에도 FY 미상향 -15% 여진, AI XPV $350억, 6 핵심 고객 공개
+**risks**: 가이던스 미상향에 따른 기대 리셋, 추가 -1.75% 하락, SOX 셀오프 촉발 책임감
+
+> [!claim] (출처: CNBC/Broadcom IR, 2026-06-03) Q2 FY2026 — AI $108억(2배), 총매출 $222억(+48%), 기록적 마진 67%
+> 사상 최대 모든 지표 달성. 단, FY AI $100B 미상향 → 기대치 설정 실패로 -15% 급락. impact: - / category: earnings
+
+> [!claim] (출처: Motley Fool, 2026-06-03) Hock Tan: 6 핵심 AI 고객 — Anthropic·Google·Meta·OpenAI + 미공개 2곳
+> '수요는 그냥 채울 수 없는 수준'. impact: + / category: product
+
+> [!claim] (출처: HeyGoTrade, 2026-06-03) AI XPV 플랫폼 $350억 — Apollo·Blackstone 앵커 투자
+> 1GW+ AI 인프라 용량 확보 계획. 사업화 모델 다각화. impact: + / category: other
+
+**경쟁사 동향**:
+- NVDA: Apple/Google AI 파트너십 재확인 — AVGO ASIC와 보완적 포지션 (GPU vs 맞춤칩)
+- AMD: MI350 주요 고객 확보 — AVGO 맞춤칩 vs AMD 범용 AI GPU 경쟁 구도 유지
+
+
 
 ### 2026-06-09
 
