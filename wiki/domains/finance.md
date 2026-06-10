@@ -1,7 +1,7 @@
 ---
 title: "Finance Domain Index"
 created: 2026-05-02
-updated: 2026-05-16
+updated: 2026-06-09
 domain: finance
 type: index
 weight: foundational
@@ -72,15 +72,4 @@ AI 반도체 투자 판단을 위한 가치사슬 지도. 진입점은 위 [종�
 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. **검증되지 않은 raw 상태이므로 `news/` 폴더로 격리**되어 있으며, 굳어진 사실만 사람이 직접 `topics/` 로 promote 한다. 자세한 규칙: [news/README.md](../news/README.md).
 
 - [Watchlist News Dashboard](../news/_dashboard.md) — watchlist 전 종목 한눈에 보기 (섹터별, 요일별 라운드로빈)
-- **빅테크 / 소프트웨어**: [AAPL](../news/AAPL.md) · [MSFT](../news/MSFT.md) · [GOOGL](../news/GOOGL.md) · [AMZN](../news/AMZN.md) · [META](../news/META.md) · [ORCL](../news/ORCL.md) · [CRM](../news/CRM.md) · [ADBE](../news/ADBE.md) · [IBM](../news/IBM.md) · [PLTR](../news/PLTR.md)
-- **반도체**: [NVDA](../news/NVDA.md) · [AMD](../news/AMD.md) · [INTC](../news/INTC.md) · [QCOM](../news/QCOM.md) · [TSM](../news/TSM.md) · [ASML](../news/ASML.md) · [AMAT](../news/AMAT.md) · [LRCX](../news/LRCX.md) · [AVGO](../news/AVGO.md) · [MU](../news/MU.md)
-- **자동차 / 모빌리티**: [TSLA](../news/TSLA.md) · [TM](../news/TM.md) · [F](../news/F.md) · [GM](../news/GM.md) · [STLA](../news/STLA.md) · [HMC](../news/HMC.md) · [RIVN](../news/RIVN.md) · [NIO](../news/NIO.md) · [005380.KS](../news/005380.KS.md) · [000270.KS](../news/000270.KS.md)
-- **바이오 / 제약 / 헬스케어**: [LLY](../news/LLY.md) · [NVO](../news/NVO.md) · [JNJ](../news/JNJ.md) · [PFE](../news/PFE.md) · [MRK](../news/MRK.md) · [ABBV](../news/ABBV.md) · [AZN](../news/AZN.md) · [UNH](../news/UNH.md) · [TMO](../news/TMO.md) · [ABT](../news/ABT.md)
-- **에너지 / 원자재**: [XOM](../news/XOM.md) · [CVX](../news/CVX.md) · [COP](../news/COP.md) · [SHEL](../news/SHEL.md) · [OXY](../news/OXY.md) · [SLB](../news/SLB.md) · [FCX](../news/FCX.md) · [NEM](../news/NEM.md) · [LIN](../news/LIN.md) · [APD](../news/APD.md)
-- **금융**: [JPM](../news/JPM.md) · [BAC](../news/BAC.md) · [WFC](../news/WFC.md) · [C](../news/C.md) · [GS](../news/GS.md) · [MS](../news/MS.md) · [V](../news/V.md) · [MA](../news/MA.md) · [AXP](../news/AXP.md) · [BRK-B](../news/BRK-B.md)
-- **소비재**: [WMT](../news/WMT.md) · [COST](../news/COST.md) · [KO](../news/KO.md) · [PEP](../news/PEP.md) · [PG](../news/PG.md) · [MO](../news/MO.md) · [MCD](../news/MCD.md) · [HD](../news/HD.md) · [NKE](../news/NKE.md) · [SBUX](../news/SBUX.md)
-- **산업재 / 방산**: [CAT](../news/CAT.md) · [DE](../news/DE.md) · [BA](../news/BA.md) · [LMT](../news/LMT.md) · [RTX](../news/RTX.md) · [NOC](../news/NOC.md) · [HON](../news/HON.md) · [GE](../news/GE.md) · [UPS](../news/UPS.md) · [FDX](../news/FDX.md)
-- **부동산 (REITs)**: [AMT](../news/AMT.md) · [CCI](../news/CCI.md) · [PLD](../news/PLD.md) · [EQIX](../news/EQIX.md) · [DLR](../news/DLR.md) · [O](../news/O.md) · [SPG](../news/SPG.md) · [WELL](../news/WELL.md) · [PSA](../news/PSA.md) · [VICI](../news/VICI.md)
-- **통신 / 미디어**: [VZ](../news/VZ.md) · [T](../news/T.md) · [TMUS](../news/TMUS.md) · [CMCSA](../news/CMCSA.md) · [CHTR](../news/CHTR.md) · [NFLX](../news/NFLX.md) · [DIS](../news/DIS.md) · [SPOT](../news/SPOT.md) · [EA](../news/EA.md) · [TTWO](../news/TTWO.md)
-- **유틸리티 / 전력**: [NEE](../news/NEE.md) · [SO](../news/SO.md) · [DUK](../news/DUK.md) · [AEP](../news/AEP.md) · [EXC](../news/EXC.md) · [CEG](../news/CEG.md) · [VST](../news/VST.md) · [SRE](../news/SRE.md) · [ED](../news/ED.md) · [D](../news/D.md)
-- **조선 (한국)**: [329180.KS](../news/329180.KS.md) · [042660.KS](../news/042660.KS.md) · [010140.KS](../news/010140.KS.md) · [010620.KS](../news/010620.KS.md)
+- 개별 종목 로그는 `news/tickers/`에 격리한다. Finance 도메인 인덱스가 모든 기업 로그를 직접 링크하면 Obsidian graph에서 `finance` 중심의 거대한 중복 덩어리가 생기므로, 이 페이지에서는 대시보드만 진입점으로 둔다.

@@ -1,7 +1,7 @@
 ---
 title: "Managed Agents"
 created: 2026-04-11
-updated: 2026-04-11
+updated: 2026-06-09
 domain: ai
 type: framework
 weight: important
@@ -74,7 +74,7 @@ Managed Agents 이전, Anthropic은 수동으로 관리하는 하니스 패턴�
 ## 관련 페이지
 
 - [에이전트 하니스](./agent-harness.md)
-- [Generator-Evaluator 루프](./generator-evaluator-loop.md)
+- [Generator-Evaluator 루프](../principles/generator-evaluator-loop.md)
 - [Anthropic 하니스 엔지니어링](../topics/anthropic-harness-engineering.md)
 - [Anthropic Managed Agents (토픽)](../topics/anthropic-managed-agents.md)
 - [Anthropic](../entities/anthropic.md)

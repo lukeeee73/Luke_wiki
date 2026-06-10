@@ -9,6 +9,7 @@ from __future__ import annotations
 from pathlib import Path
 import re
 import sys
+import urllib.parse
 
 ROOT = Path(__file__).resolve().parents[1]
 ALLOWED_TOP_LEVEL = {
@@ -26,6 +27,7 @@ ALLOWED_TOP_LEVEL_DIRS = {
     "wiki",
 }
 FRONTMATTER_RE = re.compile(r"\A---\n(.*?)\n---\n", re.DOTALL)
+MARKDOWN_LINK_RE = re.compile(r"(?<!!)\[[^\]]+\]\(([^)]+\.md(?:#[^)]+)?)\)")
 
 
 def markdown_files(base: Path) -> list[Path]:
@@ -84,6 +86,26 @@ def is_empty_routine_scaffold(path: Path) -> bool:
     return not any(meaningful)
 
 
+def broken_markdown_links(path: Path) -> list[str]:
+    """Return relative markdown-link targets that do not resolve to files."""
+    broken: list[str] = []
+    text = path.read_text(encoding="utf-8")
+    for match in MARKDOWN_LINK_RE.finditer(text):
+        raw_target = match.group(1).split("#", 1)[0]
+        if raw_target.startswith(("http://", "https://", "mailto:")):
+            continue
+        target = urllib.parse.unquote(raw_target)
+        resolved = (path.parent / target).resolve()
+        try:
+            resolved.relative_to(ROOT)
+        except ValueError:
+            continue
+        if not resolved.exists():
+            line = text[: match.start()].count("\n") + 1
+            broken.append(f"line {line}: {raw_target}")
+    return broken
+
+
 def main() -> int:
     errors: list[str] = []
 
@@ -124,6 +146,9 @@ def main() -> int:
         if relative.startswith(("wiki/", "inbox/")):
             if not has_frontmatter(path):
                 errors.append(f"Missing YAML frontmatter: {relative}")
+
+        for broken_link in broken_markdown_links(path):
+            errors.append(f"Broken markdown link in {relative}: {broken_link}")
 
     if not news_dir.exists():
         errors.append("Missing routine news folder: wiki/news/")

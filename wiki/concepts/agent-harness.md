@@ -1,7 +1,7 @@
 ---
 title: "에이전트 하니스 (Agent Harness)"
 created: 2026-04-05
-updated: 2026-04-05
+updated: 2026-06-09
 domain: ai
 type: framework
 weight: important
@@ -35,7 +35,7 @@ GAN(Generative Adversarial Network)에서 영감받은 구조:
 - **Evaluator**: 평가 및 피드백 제공
 - 반복적 피드백 루프로 품질 향상
 
-상세: [Generator-Evaluator 루프](./generator-evaluator-loop.md)
+상세: [Generator-Evaluator 루프](../principles/generator-evaluator-loop.md)
 
 ### 2. Initializer-Coder 패턴
 
@@ -79,7 +79,7 @@ Anthropic 사례: Opus 4.5 이후 context reset 불필요, Claude Agent SDK 자�
 
 ## 관련 페이지
 
-- [Generator-Evaluator 루프](./generator-evaluator-loop.md)
+- [Generator-Evaluator 루프](../principles/generator-evaluator-loop.md)
 - [Managed Agents](./managed-agents.md)
 - [Anthropic 하니스 엔지니어링](../topics/anthropic-harness-engineering.md)
 - [Anthropic Managed Agents](../topics/anthropic-managed-agents.md)

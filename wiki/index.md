@@ -139,5 +139,5 @@ sources: []
 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적하는 watchlist 종목 뉴스 로그. **사람-작성 영역과 분리된 별도 폴더**이며, 모든 항목은 `tags: [routine-news, ...]` 로 식별된다. 검증된 사실은 `topics/` 로 promote 가능. 자세한 규칙: [news/README.md](news/README.md).
 
 - [Watchlist News Dashboard](news/_dashboard.md) — watchlist 전 종목 최신 narrative_score / 핵심 한 줄 (섹터별, 요일별 라운드로빈)
-- 개별 종목 로그는 `wiki/news/{TICKER} - {COMPANY}.md` 형식을 따른다. 예: [010140.KS - Samsung Heavy Industries](news/010140.KS%20-%20Samsung%20Heavy%20Industries.md).
+- 개별 종목 로그는 graph clutter를 줄이기 위해 `wiki/news/tickers/{TICKER} - {COMPANY}.md` 형식으로 격리한다. 예: [010140.KS - Samsung Heavy Industries](news/tickers/010140.KS%20-%20Samsung%20Heavy%20Industries.md).
 - 뉴스에서 장기 보존 가치가 확인된 항목은 `_templates/news-promotion.md` 를 사용해 `topics/`, `entities/`, `syntheses/` 중 하나로 승격한다.
