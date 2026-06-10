@@ -1,7 +1,7 @@
 ---
 title: "AMD - Advanced Micro Devices — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-09
+updated: 2026-06-10
 domain: finance
 type: claim
 weight: reference
@@ -19,18 +19,14 @@ sources: []
 CPU(컴퓨터 두뇌)와 GPU(그래픽 처리 장치) 모두를 만드는 반도체 회사. 한때 인텔(CPU)과 엔비디아(GPU)에 크게 밀렸지만, 뛰어난 설계 역량으로 점유율을 빠르게 회복했다. AI용 GPU(MI 시리즈)로 엔비디아에 도전하는 2위 사업자이며, 서버 CPU(EPYC)로 인텔 점유율을 빠르게 잠식하고 있다.
 
 > [!info] 자동 수집 노트
-> 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 직접 편집해도 되지만, HTML 마커(`<!-- OPEN_CLAIMS_START -->` 등)는 지우지 말 것.
-
----
-
-## 미해결 가설 (Open Claims)
-
-<!-- OPEN_CLAIMS_START -->
-- [x] **2026-05-19**: Q1 데이터센터 $5.8B (+57%) 성장 — Q2도 유지 가능한지 → **on-track** (Q2 가이던스 $11.2B +45% YoY로 컨센서스 초과, 2026-06-02 확인)
+> 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 직접 편집해도 되지만, HTML 마커(`<!-- OPEN_CLAIMS_START -->
+- [x] **2026-05-19**: Q1 데이터센터 $5.8B (+57%) 성장 — Q2도 유지 가능한지 → **on-track** (Q2 가이던스 $11.2B +45% YoY로 컨센서스 초과, 2026-06-10 확인)
+- [x] **2026-06-02**: NVDA RTX Spark AI PC 공세 — AMD GPU 시장 점유율 영향 → **partial-verified** (MI350 MSFT·Meta·OpenAI 확보로 AI GPU 2위 입지 유지, 2026-06-10 확인)
 - [ ] **2026-05-19**: MI450 AI 칩 H2 2026 출시 — NVDA Blackwell 대비 경쟁력 검증 (pending — H2 2026 출시 전 검증 불가)
-- [x] **2026-06-02**: NVDA RTX Spark AI PC 공세 — AMD GPU 시장 점유율 영향 → **partial-verified** (AMD 주가 YTD +130% 회복, 데이터센터 성장으로 AI PC 압박 상쇄, 2026-06-09 확인)
 - [ ] **2026-06-09**: 영국 AI 인프라 £2B 투자 — 유럽 데이터센터 시장 점유율 확대 실현 여부 (5년 장기 모니터링)
-- [ ] **2026-06-09**: 바클레이즈 $665 목표가 — YTD +130% 이후 데이터센터 성장 지속 여부 (Q2 FY2027 어닝 검증 대기)
+- [ ] **2026-06-09**: 바클레이즈 $665 목표가 — 데이터센터 성장 지속 여부 (Q2 FY2027 어닝 검증 대기)
+- [ ] **2026-06-10**: ARK Invest $3900만 + 내부자 $1.2억 매도 — 고점 신호인지 vs 기관 단순 차익실현인지 (30일 추이 관찰)
+- [ ] **2026-06-10**: Q2 FY2026 가이던스 $11.2B (+45% YoY) — 실제 달성 여부 (Q2 어닝 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -47,6 +43,27 @@ CPU(컴퓨터 두뇌)와 GPU(그래픽 처리 장치) 모두를 만드는 반도
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-10
+
+**narrative_score**: +0.11 (약한 긍정)
+**key_events**: Q2 가이던스 $11.2B +45% YoY, MI350 주요 고객 확보, ARK/내부자 대규모 매도
+**risks**: ARK $3900만 + 내부자 $1.2억 매도 — 고점 경계, 6개월 2배 급등 후 차익실현 가속
+
+> [!claim] (출처: GuruFocus, 2026-06-02) Q2 FY2026 가이던스 $11.2B (+45% YoY) — 에이전틱 AI 수요
+> CFO 장 후: 에이전틱 AI가 AMD 플랫폼 수요 폭발적 증가 견인. impact: + / category: earnings
+
+> [!claim] (출처: Seeking Alpha, 2026-06-08) MI350(288GB HBM3E) — MSFT·Meta·OpenAI 배포 계약 확보
+> AI GPU 2위 경쟁력 강화. impact: + / category: product
+
+> [!claim] (출처: Investing.com, 2026-06-03) ARK Invest $3900만 + 내부자 3개월 $1.2억 매도
+> 6개월 2배 급등 후 대규모 차익실현 — 단기 투매 경계 신호. impact: - / category: other
+
+**경쟁사 동향**:
+- NVDA: Apple/Google AI 파트너십으로 생태계 장악 강화 — AMD의 AI GPU 추격 여건 더 어려워짐
+- INTC: 구글 TPU 파운드리 수주로 서버 CPU 부활 가능성 — AMD EPYC와 중장기 경쟁 심화 예고
+
+
 
 ### 2026-06-09
 

@@ -1,7 +1,7 @@
 ---
 title: "MU - Micron Technology — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-09
+updated: 2026-06-10
 domain: finance
 type: claim
 weight: reference
@@ -19,18 +19,14 @@ sources: []
 메모리 반도체(DRAM·NAND)를 만드는 글로벌 3강 중 하나(삼성·SK하이닉스·마이크론)다. AI 학습용 GPU에 필수적인 HBM(고대역폭 메모리 — 기존 메모리보다 수십 배 빠른 초고속 메모리)을 생산하며, HBM 수요 급증으로 역대급 실적을 기록 중이다. 직접 설계·생산하는 IDM 구조이며, 미국 유일의 선단 메모리 생산사로 CHIPS Act 보조금도 받는다. AI 메모리 수퍼사이클의 핵심 수혜주다.
 
 > [!info] 자동 수집 노트
-> 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 직접 편집해도 되지만, HTML 마커(`<!-- OPEN_CLAIMS_START -->` 등)는 지우지 말 것.
-
----
-
-## 미해결 가설 (Open Claims)
-
-<!-- OPEN_CLAIMS_START -->
-- [x] **2026-05-19**: HBM 2026년 전량 매진 — 2027년 공급 계획 및 가격 협상 동향 → **confirmed** (HBM4 2026년 전량 매진 공식 확인, 시총 $1조 돌파, 2026-06-02)
-- [ ] **2026-05-19**: Q2 매출 +196% YoY — 성장률 지속 가능성 vs 기저효과 → Q3 FY2026 매출 $33.5B(+263% YoY) 예상 — 6/24 실적 발표 검증 대기 (15일 대기)
-- [ ] **2026-06-02**: 6월 24일 Q3 FY2026 실적 — 매출 $33.5B(+263% YoY)·EPS $19.15 달성 여부 (15일 대기)
+> 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 직접 편집해도 되지만, HTML 마커(`<!-- OPEN_CLAIMS_START -->
+- [x] **2026-05-19**: HBM 2026년 전량 매진 — 2027년 공급 계획 및 가격 협상 동향 → **confirmed** (HBM 2026 전량 장기계약 완료·$2,000억 증설 계획 발표, 2026-06-10)
+- [ ] **2026-05-19**: Q2 매출 +196% YoY — 성장률 지속 가능성 vs 기저효과 → Q3 FY2026 매출 $33.5B(+263% YoY) 예상 — 6/24 실적 발표 검증 대기
+- [ ] **2026-06-02**: 6월 24일 Q3 FY2026 실적 — 매출 $33.5B(+263% YoY)·EPS 달성 여부 (14일 대기)
 - [ ] **2026-06-09**: DRAM 가격 +58~63% TrendForce 예측 — 실제 Q3 컨트랙트 가격 확인 (실적 발표 시 검증)
-- [ ] **2026-06-09**: 6/24 어닝 옵션 ±20% 함의 — 어닝 후 방향성 (15일 대기)
+- [ ] **2026-06-09**: 6/24 어닝 옵션 ±20% 함의 — 어닝 후 방향성 (14일 대기)
+- [ ] **2026-06-10**: 골드만삭스 $900 / Cantor $1,500 목표주가 — Q3 어닝 서프라이즈 여부에 따른 검증 (6/24)
+- [ ] **2026-06-10**: Bechtel NY 팹 착공 — CHIPS Act 일정 준수 및 2025년 이후 국내 생산 개시 여부 (24개월)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -38,6 +34,10 @@ sources: []
 ## 사실 누적 (Verified Facts)
 
 <!-- FACTS_START -->
+> [!fact] Micron HBM 2026년 전량 장기계약 완료, $2,000억 용량 확대 계획
+> 2026-06-08 Yahoo Finance 보도. 2026년 HBM 전체 물량 장기 공급 계약 완료. $2,000억 규모 생산 역량 확대 발표. HBM 공급 타이트 2026년 이후도 지속 전망. 출처: Yahoo Finance (Tier-2)
+
+
 > [!fact] (검증일 2026-05-18, 출처: TradingKey + Capital.com) MU Q2 2026 역대급 실적
 > Q2 매출 +196% YoY, 총마진 74.9%, HBM 2026년 전량 매진. Mizuho $800 (from $740), Melius Research $1,100 (from $700) 목표주가 상향.
 
@@ -56,6 +56,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-10
+
+**narrative_score**: +0.21 (강한 긍정)
+**key_events**: HBM 2026 전량 매진·$2,000억 증설, 골드만삭스 $900·Cantor $1,500 상향, Bechtel NY 팹 착공, 6/24 어닝 대기
+**risks**: AVGO 여진으로 -2.05%, DRAM 가격 컨센서스 미달 시 급락, 중국 HBM 규제 확대 가능성
+
+> [!claim] (출처: Yahoo Finance, 2026-06-08) HBM 2026 전량 매진 + $2,000억 용량 확대 계획
+> AI 메모리 공급 타이트 2026년 이후도 구조적 지속. impact: + / category: product
+
+> [!claim] (출처: Capital.com, 2026-06-08) 골드만삭스 $400→$900(+125%) / Cantor $700→$1,500(+114%) 상향
+> Q3 어닝(6/24) 전 강세론 극단적 확산. impact: + / category: earnings
+
+> [!claim] (출처: Nasdaq/Micron, 2026-06-09) Bechtel — CHIPS Act Clay, NY 메모리 팹 1단계 건설사 선정
+> 미국 국내 메모리 생산 인프라 착공 단계 진입. impact: + / category: product
+
+> [!claim] (출처: Timothy Sykes, 2026-06-10) AI 메모리 단기 수요 우려 + 리스크오프 -2.05%
+> AVGO 가이던스 실망의 연쇄 심리 — 6/24 어닝 전 변동성 구간. impact: - / category: macro
+
+**경쟁사 동향**:
+- AVGO: AI 가이던스 미상향 → AI 인프라 수요 peak-out 우려 일부 전이 (MU에 간접 부정)
+- AMAT: WFE 30%+ 상향 → 메모리(DRAM) 장비 투자 확대 직결, MU 설비투자 상승 요인
+
+
 
 ### 2026-06-09
 

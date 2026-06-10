@@ -1,7 +1,7 @@
 ---
 title: "QCOM - QUALCOMM Incorporated — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-09
+updated: 2026-06-10
 domain: finance
 type: claim
 weight: reference
@@ -19,19 +19,14 @@ sources: []
 스마트폰 통신 모뎀과 AP(Snapdragon — 스마트폰의 두뇌) 글로벌 1위 회사다. 안드로이드 스마트폰 거의 모두에 퀄컴 칩이 들어가며, 퀄컴 특허 로열티로도 별도 수익을 거둔다. 스마트폰 시장 사이클에 크게 영향을 받으며, 자동차·IoT 로 사업 다각화를 추진 중이다. AI 에이전트 시대에 온디바이스 AI(스마트폰 내에서 AI를 처리) 칩 시장에서 새로운 성장 기회를 모색하고 있다.
 
 > [!info] 자동 수집 노트
-> 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 직접 편집해도 되지만, HTML 마커(`<!-- OPEN_CLAIMS_START -->` 등)는 지우지 말 것.
-
----
-
-## 미해결 가설 (Open Claims)
-
-<!-- OPEN_CLAIMS_START -->
-- [x] **2026-05-19**: Q3 가이던스 하회 — 스마트폰 수요 회복 시점 불확실 → **partially verified** (ByteDance AI ASIC 대형 계약으로 부분 반등했으나 NVDA RTX Spark으로 온디바이스 AI PC 시장도 위협, 2026-06-02)
+> 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 직접 편집해도 되지만, HTML 마커(`<!-- OPEN_CLAIMS_START -->
+- [x] **2026-05-19**: Q3 가이던스 하회 — 스마트폰 수요 회복 시점 불확실 → **partially resolved** (Dragonfly 데이터센터 전략으로 스마트폰 의존도 탈피 중, 2026-06-10)
+- [x] **2026-06-02**: NVDA RTX Spark AI PC 공세 — Snapdragon X Elite 점유율 방어 가능 여부 → **challenged** (QCOM 주가 6/5 -9.52% 급락, Dragonfly 데이터센터 전략으로 일부 방어, 2026-06-10)
 - [ ] **2026-05-19**: 경영진 자사주 매입 — 저평가 판단 신호 vs 구조적 약세 (pending — 직접 증거 미확인)
-- [ ] **2026-06-02**: Dragonfly 데이터센터 칩 — 6월 24일 인베스터 데이 발표 후 시장 반응 (15일 대기)
-- [x] **2026-06-02**: NVDA RTX Spark AI PC 공세 — Snapdragon X Elite 점유율 방어 가능 여부 → **challenged** (QCOM 주가 6/5 -9.52% 급락 후 JP모건 데이터센터 3축 전략으로 부분 방어, 2026-06-09 확인)
+- [ ] **2026-06-02**: Dragonfly 데이터센터 칩 — 6/24 인베스터 데이 발표 후 시장 반응 (14일 대기)
 - [ ] **2026-06-09**: JP모건 데이터센터 전략 — FY27 $30억+ 달성 여부 (12개월 검증 대기)
-- [ ] **2026-06-09**: 6/24 인베스터 데이 Dragonfly 세부 발표 — 시장 기대치 충족 여부 (15일 대기)
+- [ ] **2026-06-09**: 6/24 인베스터 데이 Dragonfly 세부 발표 — 시장 기대치 충족 여부 (14일 대기)
+- [ ] **2026-06-10**: Humain 200MW 데이터센터 계약 — 첫 Dragonfly 실제 배포 타임라인 확인 (3개월 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +41,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-10
+
+**narrative_score**: +0.10 (약한 긍정)
+**key_events**: JP모건 목표주가 $265로 65% 상향, Dragonfly 브랜드 + Humain 200MW 계약, 6/24 인베스터 데이 전 반등
+**risks**: 6/24 기대 미달 시 재하락, NVDA AI PC 공세 지속, 중국 모뎀 수출 규제
+
+> [!claim] (출처: GuruFocus, 2026-06-09) JP모건 QCOM $265 목표주가 — 65% 상향, Neutral 유지
+> 데이터센터 3축 전략: FY27 $30억, FY31 $690억 비핸드셋 매출 전망. impact: + / category: earnings
+
+> [!claim] (출처: ServeTheHome, 2026-06-02) Dragonfly 브랜드 론칭 + Humain 200MW 계약 확보
+> 사우디 AI 기업 Humain이 2026년 첫 Dragonfly 배포 200MW 데이터센터 계약. impact: + / category: product
+
+> [!claim] (출처: TradingKey, 2026-06-05) QCOM 주가 -9.52% 급락 후 6/24 인베스터 데이 기대감 반등
+> 매크로·지정학 우려로 급락 후 데이터센터 AI 카탈리스트 기대로 회복세. impact: neutral / category: macro
+
+**경쟁사 동향**:
+- NVDA: RTX Spark (100+ TOPS) vs QCOM Snapdragon X Elite (45 TOPS) 격차 2배+ 유지
+- INTC: Xeon/Gaudi 서버 복귀 시도 — Dragonfly 서버 CPU 진입과 잠재 경쟁
+
+
 
 ### 2026-06-09
 

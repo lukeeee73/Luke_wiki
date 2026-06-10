@@ -1,7 +1,7 @@
 ---
 title: "NVDA - NVIDIA Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-09
+updated: 2026-06-10
 domain: finance
 type: claim
 weight: reference
@@ -19,19 +19,15 @@ sources: []
 AI(인공지능) 열풍의 최대 수혜 기업으로, GPU(그래픽 처리 장치)라는 반도체를 만드는 회사. GPU는 원래 게임 그래픽을 처리하는 칩이었지만, AI를 학습시키는 데 필수적이라는 게 밝혀지면서 AI 시대의 핵심 부품이 됐다. 전 세계 AI 반도체 시장에서 약 80% 이상을 점유하는 독보적 1위로, AI 인프라의 핵심 공급자 역할을 한다.
 
 > [!info] 자동 수집 노트
-> 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 직접 편집해도 되지만, HTML 마커(`<!-- OPEN_CLAIMS_START -->` 등)는 지우지 말 것.
-
----
-
-## 미해결 가설 (Open Claims)
-
-<!-- OPEN_CLAIMS_START -->
+> 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 직접 편집해도 되지만, HTML 마커(`<!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-19**: Q1 FY2027 어닝 5/20 발표 — EPS $1.78 (+120% YoY) 달성 여부 → **verified** (실제 EPS $1.87, 매출 $81.6B — 컨센서스 상회, 2026-06-02 확인)
 - [x] **2026-05-19**: 중국 H200 칩 판매 재개 — $500억 시장 규모 현실화 여부 → **refuted** (젠슨 황: "중국 AI 칩 시장을 화웨이에 양보", H200 판매 재개 불투명, 2026-06-02 확인)
-- [x] **2026-06-02**: COMPUTEX RTX Spark 슈퍼칩 — AI PC 시장 점유율 확보 여부 → **on-track** (애플 AI 클라이언트 확보·구글 GPU 렌탈 계약으로 AI 생태계 장악 강화, 2026-06-09 확인)
-- [x] **2026-06-02**: TSMC 파트너십 심화 및 대만 투자 확대 — FY2027 공급 안정성 확인 여부 → **on-track** (TSM 주주총회 30%+ 성장 확인, NVDA 대만 투자 계속 진행, 2026-06-09 확인)
+- [x] **2026-06-02**: COMPUTEX RTX Spark 슈퍼칩 — AI PC 시장 점유율 확보 여부 → **on-track** (애플 Google Cloud/NVIDIA 파트너십으로 AI 생태계 장악 강화, 2026-06-10 확인)
+- [x] **2026-06-02**: TSMC 파트너십 심화 및 대만 투자 확대 — FY2027 공급 안정성 확인 여부 → **on-track** (5월 TSM 매출 +30.1% YoY, NVDA 수요 직결, 2026-06-10 확인)
+- [x] **2026-06-09**: 애플 AI 클라이언트 — 구체적 계약 규모·제품 연동 내용 공개 여부 → **verified** (Apple PCC via Google Cloud/NVIDIA 공식 발표 — AFM Cloud Pro 9월 출시, 2026-06-10)
 - [ ] **2026-06-09**: 젠슨 황 상원 청문회 거부 — 규제 압박 강화 여부 (7일 검증 대기)
-- [ ] **2026-06-09**: 애플 AI 클라이언트 — 구체적 계약 규모·제품 연동 내용 공개 여부 (7일 검증 대기)
+- [ ] **2026-06-10**: TSMC 3nm 15% 가격 인상 → NVIDIA H2 2026 마진 압박 현실화 여부 (Q3 실적 검증)
+- [ ] **2026-06-10**: 인텔 18A 평가 결과 — 실제 수주 계약으로 전환 여부 (60일 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +35,10 @@ AI(인공지능) 열풍의 최대 수혜 기업으로, GPU(그래픽 처리 장�
 ## 사실 누적 (Verified Facts)
 
 <!-- FACTS_START -->
+> [!fact] TSMC 3nm 웨이퍼 가격 인상 H2 2026 최대 15% — NVIDIA 원가 구조 영향
+> 2026-06-10 TrendForce/Benzinga 보도. 3nm 웨이퍼 $20K→$23K(+15%) H2 2026 적용 예정. NVDA Blackwell GPU 원가 직격. 출처: TrendForce, Benzinga (Tier-2 2건)
+
+
 > [!fact] 애플 AI 주요 고객 확보 — 하이퍼스케일러·빅테크 전방위 공급 지위 확정
 > 2026-06-09 Reuters 보도. 애플이 NVIDIA AI 인프라의 주요 클라이언트로 확정. 구글 GPU 렌탈 계약 동시 발표. 출처: Reuters, Bloomberg (Tier-1 2건)
 
@@ -54,6 +54,27 @@ AI(인공지능) 열풍의 최대 수혜 기업으로, GPU(그래픽 처리 장�
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-10
+
+**narrative_score**: +0.10 (약한 긍정)
+**key_events**: 애플 Google Cloud/NVIDIA 파트너십 공식화, TSMC 3nm 15% 가격 인상 예고, 인텔 18A 평가 진행
+**risks**: TSMC 가격 인상 H2 마진 압박, 상원 AI 청문회 규제 압박, 섹터 셀오프 여진
+
+> [!claim] (출처: Seeking Alpha/Reuters, 2026-06-08) 애플 PCC — Google Cloud/NVIDIA GPU 통해 AFM Cloud Pro 9월 출시
+> 애플이 구글 클라우드의 NVIDIA GPU를 통해 Siri AI 백엔드 확장 공식화. impact: + / category: product
+
+> [!claim] (출처: TrendForce, 2026-05-27) TSMC 3nm H2 2026 최대 15% 가격 인상 예고
+> NVIDIA Blackwell GPU 원가 구조 직격 — H2 마진 압박 요인. impact: - / category: macro
+
+> [!claim] (출처: InsiderFinance, 2026-06-09) NVIDIA, 인텔 18A 공정 2028 GPU 후보 평가 중
+> 아직 공식 수주 아님 — 2028년 대안 파운드리 다각화 가능성. impact: neutral / category: product
+
+**경쟁사 동향**:
+- TSM: 5월 매출 +30.1% YoY 확인 — NVDA 수요 직결, 가격 인상도 NVDA 원가에 반영
+- INTC: 구글 TPU 300만+ 수주 → NVDA 18A 평가 맥락 심화 (파운드리 생태계 다양화)
+
+
 
 ### 2026-06-09
 
