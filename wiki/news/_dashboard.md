@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-06-10
+updated: 2026-06-11
 domain: finance
 type: index
 weight: reference
@@ -82,16 +82,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [LLY](tickers/LLY - Eli Lilly and Company.md) | 2026-06-04 | +0.22 | M&A $10B+ 가속화·독일 투자 절반 삭감 — 미국 우선 전략 선명화 | 2 |
-| [NVO](tickers/NVO - Novo Nordisk AS.md) | 2026-06-04 | -0.07 | 경구형 위고비 UAE 론칭, 주가 1년 -38.9% 하락 지속 | 2 |
-| [JNJ](tickers/JNJ - Johnson and Johnson.md) | 2026-06-04 | +0.13 | 닙포칼리맙 Phase 2 SLE·쇼그렌증 성공, 64년 연속 배당 3.1% 인상 | 2 |
-| [PFE](tickers/PFE - Pfizer Inc.md) | 2026-06-04 | -0.02 | 350번째 연속 분기 배당, 2026년 20개 피벗 임상 계획 | 2 |
-| [MRK](tickers/MRK - Merck and Co.md) | 2026-06-04 | +0.11 | ASCO 흑색종 5년 데이터 긍정·$6.7B 인수, LITESPARK-012 실패 | 3 |
-| [ABBV](tickers/ABBV - AbbVie Inc.md) | 2026-06-04 | +0.15 | 아퀴프타 EU 편두통 승인, 골드만삭스 컨퍼런스 6/9 참가 | 2 |
-| [AZN](tickers/AZN - AstraZeneca PLC.md) | 2026-06-04 | -0.09 | 카미제스트란트 FDA 결정 연기·안셀라미맙 Phase 3 실패 | 2 |
-| [UNH](tickers/UNH - UnitedHealth Group.md) | 2026-06-04 | +0.09 | BofA·MS·Truist 동시 목표주가 $450+ 상향, 소송 재부상 | 2 |
-| [TMO](tickers/TMO - Thermo Fisher Scientific.md) | 2026-06-04 | -0.03 | Q1 컨센서스 초과·미생물학 사업부 $1.075B 매각, 가이던스 보수적 | 2 |
-| [ABT](tickers/ABT - Abbott Laboratories.md) | 2026-06-04 | +0.03 | 이중 CGM EU CE 마크·Exact Sciences 인수 완료, 주가 +4.4% | 3 |
+| [LLY](tickers/LLY - Eli Lilly and Company.md) | 2026-06-11 | +0.34 | 경구 GLP-1 Foundayo FDA 최초 승인·Ebglyss 8주 투약 승인·메디케어 GLP-1 7/1 적용 시작 | 3 |
+| [NVO](tickers/NVO - Novo Nordisk AS.md) | 2026-06-11 | -0.14 | 경구 위고비 300만 처방에도 LLY FDA 승인으로 가려져 주가 약세 지속 | 4 |
+| [JNJ](tickers/JNJ - Johnson and Johnson.md) | 2026-06-11 | +0.19 | Firefly Bio $10억 인수·FY2026 가이던스 $100.8B 상향·닙포칼리맙 SLE 2상 성공 | 3 |
+| [PFE](tickers/PFE - Pfizer Inc.md) | 2026-06-11 | -0.08 | RBC 등급 Sector Perform 상향·SOLIS-1 2상 시작·H2 종양학 3상 데이터 예정 | 3 |
+| [MRK](tickers/MRK - Merck and Co.md) | 2026-06-11 | +0.03 | 경구 HIV 치료 3상 성공(Gilead 공동)·KEYNOTE-D46 폐암 병용 중단·주가 +1.5% | 3 |
+| [ABBV](tickers/ABBV - AbbVie Inc.md) | 2026-06-11 | +0.17 | 아퀴프타 EU 편두통 급성기 승인·EHA 2026 혈액암 데이터·스카이리지 성장 지속 | 2 |
+| [AZN](tickers/AZN - AstraZeneca PLC.md) | 2026-06-11 | +0.19 | 경구 GLP-1 엘레코글리프론 Phase 3 진입·2025 실적 매출+8.6%·컨센서스 $224 Strong Buy | 3 |
+| [UNH](tickers/UNH - UnitedHealth Group.md) | 2026-06-11 | -0.20 | CMS 2027 메디케어 요율 동결·버크셔 지분 완전 매각·독점금지 조사 지속 | 3 |
+| [TMO](tickers/TMO - Thermo Fisher Scientific.md) | 2026-06-11 | +0.15 | Q1 어닝 비트 + FY EPS 가이던스 상향·ASMS 신형 질량분석기 2종 공개 | 3 |
+| [ABT](tickers/ABT - Abbott Laboratories.md) | 2026-06-11 | +0.08 | 리브레 듀오 EU CE 마크(세계 최초 이중 CGM)·Exact Sciences 인수 완료 | 3 |
 
 ### 에너지 / 원자재
 

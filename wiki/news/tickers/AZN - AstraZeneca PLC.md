@@ -1,7 +1,7 @@
 ---
 title: "AZN - AstraZeneca PLC — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-04
+updated: 2026-06-11
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] FDA가 카미제스트란트 재심에서 최종 승인할 것인가? (기한 미정, 결정 후 판정)
 - [ ] 안셀라미맙 CARES 실패가 AZN 항암 파이프라인 밸류에이션에 얼마나 영향을 주는가? (차기 실적 발표 시 확인)
+- [ ] 경구 GLP-1 엘레코글리프론 Phase 3 완료 후 LLY·NVO와 차별화될 것인가? (기한: 2028-12-31)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -44,6 +45,13 @@ sources: []
 
 > [!fact] CARES Phase 3 프로그램 안셀라미맙 — 전체 환자군 1차 지표 미달 실패 (AZN IR, 2026-06-01)
 > 출처: AstraZeneca IR (2026-06-01)
+
+> [!fact] AZN 2025년 매출 $58.74B(+8.63%), 순이익 $10.23B(+45.34%) 확정 실적
+> 출처: Stockanalysis / AstraZeneca IR (2026-06-01)
+
+> [!fact] 경구 GLP-1 엘레코글리프론(elecoglipron) Phase 3 진입 공식 발표
+> 출처: Seeking Alpha (2026-06-10)
+
 <!-- FACTS_END -->
 
 ---
@@ -51,6 +59,18 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-11 (목) — narrative_score: +0.19
+
+**핵심 이벤트:** 경구 GLP-1 엘레코글리프론 Phase 3 진입, 2025 강한 실적 재확인, 컨센서스 $224 Strong Buy  
+**리스크:** 경구 GLP-1 릴리·NVO 대비 2~3년 후발, 항암 파이프라인 키트루다 독점 돌파 불확실
+
+> [!claim] 경구 GLP-1 엘레코글리프론 Phase 3 진입 (Seeking Alpha, 2026-06-10)
+> LLY·NVO에 이어 AZN이 경구 GLP-1 3상 진입 — 비만 치료 시장 3파전 구도 형성 중.
+> ※ LLY Foundayo가 이미 FDA 승인됨에 따라 Phase 3 완료 시 시장 진입은 2028년 이후 예상.
+
+> [!claim] 현재가 $181 vs 컨센서스 목표 $224 — 10개 애널리스트 전원 Strong Buy (2026-06-11)
+> 40.9% 저평가 논리는 강하나, 항암 파이프라인 실패(안셀라미맙 등) 리스크로 현실화 시점 불확실.
 
 ### 2026-06-04 (목) — narrative_score: -0.09
 

@@ -1,7 +1,7 @@
 ---
 title: "ABBV - AbbVie Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-04
+updated: 2026-06-11
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,9 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [x] 골드만삭스 컨퍼런스(6/9)에서 M&A 또는 새 파이프라인 전략이 발표될 것인가? → **refuted**: 6/9 컨퍼런스 참가 확인됐으나 주요 M&A·파이프라인 공시 없음. 종료.
 - [ ] 아퀴프타 EU 승인 이후 유럽 편두통 시장에서 실질 매출이 의미 있는 수준으로 발생할 것인가? (기한: 2026-09-04)
-- [ ] 골드만삭스 컨퍼런스(6/9)에서 M&A 또는 새 파이프라인 전략이 발표될 것인가? (2026-06-09 확인)
+- [ ] EHA 2026 혈액암 데이터가 AbbVie 혈액종양학 매출 성장에 기여할 것인가? (기한: 2026-09-30)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -41,6 +42,10 @@ sources: []
 <!-- FACTS_START -->
 > [!fact] 유럽 집행위원회, 아퀴프타(아토게판트) 편두통 치료제 승인 — Phase 3 ECLIPSE 결과 기반 (GuruFocus, AbbVie News 2건 확인)
 > 출처: GuruFocus, AbbVie News (2026-06-02)
+
+> [!fact] 아퀴프타(atogepant) EU 편두통 급성기 치료 공식 승인 (AbbVie IR, 2026-06-09)
+> 출처: AbbVie News Center (2026-06-09)
+
 <!-- FACTS_END -->
 
 ---
@@ -48,6 +53,18 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-11 (목) — narrative_score: +0.17
+
+**핵심 이벤트:** 아퀴프타 EU 편두통 승인, EHA 2026 혈액암 포트폴리오 발표, 스카이리지 성장세 지속  
+**리스크:** 휴미라 바이오시밀러 침식 가속화, JNJ 면역질환 파이프라인 경쟁 심화
+
+> [!claim] 아퀴프타(atogepant) EU 편두통 급성기 치료 승인 (AbbVie News, 2026-06-09)
+> 유럽 신경과 시장 진입 — 미국 예방적 편두통 치료에 이어 EU 급성기 적응증 추가.
+> ※ 유럽 편두통 시장 규모(약 $2B) 장기 매출 기여 가능성.
+
+> [!claim] EHA 2026에서 혈액암 포트폴리오(벤클렉스타 포함) 데이터 발표 (AbbVie IR, 2026-06-10)
+> 혈액종양학 분야 임상 데이터 강화 — JNJ Darzalex와 혈액암 시장 직접 경쟁.
 
 ### 2026-06-04 (목) — narrative_score: +0.15
 

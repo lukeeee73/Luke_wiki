@@ -1,7 +1,7 @@
 ---
 title: "ABT - Abbott Laboratories — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-04
+updated: 2026-06-11
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] Exact Sciences 인수 시너지(Cologuard + Freestyle Libre)가 2026 매출에 의미 있게 기여할 것인가? (H2 2026 실적 확인)
-- [ ] 이중 포도당·케톤 CGM이 미국 FDA 승인을 받을 것인가? (기한: 2026-12-31)
+- [ ] Exact Sciences 인수 시너지(Cologuard + Freestyle Libre)가 2026 매출에 의미 있게 기여할 것인가? — 인수 완료 확인 (H2 2026 실적 확인)
+- [ ] 이중 포도당·케톤 CGM이 미국 FDA 승인을 받을 것인가? — EU CE 마크 획득으로 진전 (기한: 2026-12-31)
 - [ ] 영양 사업 부진이 2026 전체 성장률 발목을 잡을 것인가? (연간 실적 시 확인)
 <!-- OPEN_CLAIMS_END -->
 
@@ -52,6 +52,18 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-11 (목) — narrative_score: +0.08
+
+**핵심 이벤트:** 리브레 듀오 EU CE 마크(세계 최초 이중 CGM), Exact Sciences 인수 완료  
+**리스크:** 리브레 듀오 미국 FDA 허가 대기, 연초 대비 -28% YTD 낙폭
+
+> [!claim] 리브레 듀오 EU CE 마크 획득 — 세계 최초 이중 포도당-케톤 CGM (Simply Wall St, 2026-06-08)
+> EU 승인으로 유럽 케토 다이어트·당뇨·비만 관리 시장 진입 — 리브레 브랜드 차별화 강화.
+> ※ 미국 FDA 허가 신청 및 승인 여부가 주가 반등의 핵심 촉매.
+
+> [!claim] Exact Sciences 인수 완료 — Cologuard 결장암 조기 진단 포트폴리오 합류 (Seeking Alpha, 2026-06-06)
+> 진단 부문 시너지: CGM(혈당) + 암 진단(결장암) + 진단시약 통합 플랫폼 가능성.
 
 ### 2026-06-04 (목) — narrative_score: +0.03
 

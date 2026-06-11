@@ -1,7 +1,7 @@
 ---
 title: "TMO - Thermo Fisher Scientific — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-04
+updated: 2026-06-11
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,9 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] 바이오파마 capex 둔화가 2026 하반기까지 지속될 것인가? (Q3 TMO 실적에서 확인)
+- [ ] 바이오파마 capex 둔화가 2026 하반기까지 지속될 것인가? — Q1 beat+raise로 완화 신호 (Q3 TMO 실적에서 최종 확인)
 - [ ] 미생물학 사업부 매각 완료 시점과 자본 배분 방향은? (2026년 중 공시 기대)
+- [ ] ASMS 2026 오비트랩 신형 질량분석기가 실질적 매출 기여를 할 것인가? (기한: 2026-12-31)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -44,6 +45,10 @@ sources: []
 
 > [!fact] TMO 2026 가이던스: 유기성장 3~4%, EPS +8~10% (TMO IR, StockTitan 확인)
 > 출처: TMO IR, StockTitan (2026-06-03)
+
+> [!fact] TMO Q1 2026: 매출 $11.01B(컨센 $10.85B 상회), FY EPS 가이던스 $24.64-25.12 상향 발표
+> 출처: Thermo Fisher IR (2026-06-05)
+
 <!-- FACTS_END -->
 
 ---
@@ -51,6 +56,18 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-11 (목) — narrative_score: +0.15
+
+**핵심 이벤트:** Q1 어닝 비트 + FY 가이던스 상향, ASMS 오비트랩 신형 질량분석기 2종 공개  
+**리스크:** 현재가 내재가치($477) 근처 프리미엄, R&D 정부 펀딩 삭감 우려
+
+> [!claim] TMO Q1 2026 어닝 비트 + FY EPS 가이던스 $24.64-25.12 상향 (Thermo Fisher IR, 2026-06-05)
+> 제약·바이오텍 수요 회복 초기 신호 — 바이오파마 capex 회복 트렌드 확인.
+> ※ 3분기까지 수요 개선이 지속될 경우 추가 가이던스 상향 가능성.
+
+> [!claim] ASMS 2026에서 오비트랩 트리브리드 에이펙스·오비트랩 엑서디온 공개 (2026-06-08)
+> 단백질체학·신약 분석 고급 시장 겨냥 — 가격 경쟁력보다 기술 차별화 전략.
 
 ### 2026-06-04 (목) — narrative_score: -0.03
 

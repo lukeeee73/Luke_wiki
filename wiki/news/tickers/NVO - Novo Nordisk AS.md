@@ -1,7 +1,7 @@
 ---
 title: "NVO - Novo Nordisk A/S — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-04
+updated: 2026-06-11
 domain: finance
 type: claim
 weight: reference
@@ -29,7 +29,9 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [ ] 경구형 위고비 UAE 론칭 이후 추가 국가 출시 일정이 발표될 것인가? (기한: 2026-06-18)
-- [ ] NVO 주가 1년 -38.9% 하락이 LLY와의 경쟁 심화 때문인가, 아니면 성장 기대치 조정 때문인가? (지속 모니터링)
+- [ ] NVO 주가 1년 하락이 LLY 경쟁 심화와 성장 기대치 조정 복합 요인인가? (지속 모니터링 — 6/11 LLY FDA 승인으로 경쟁 리스크 확인)
+- [ ] NVO CagriSema Phase 3 성공이 시장 점유율 회복 촉매가 될 것인가? (기한: 2026-09-11)
+- [ ] 메디케어 GLP-1 7/1 적용 후 Wegovy vs Foundayo 처방 비율은? (기한: 2026-09-30)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -48,6 +50,19 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-11 (목) — narrative_score: -0.14
+
+**핵심 이벤트:** 경구 위고비 처방 300만 돌파, LLY 경구 GLP-1 FDA 승인으로 경쟁 심화, DKK 150억 자사주매입 지속  
+**리스크:** LLY Foundayo 점유율 잠식, 주가 52주 고점 대비 -46% 지속
+
+> [!claim] 경구 위고비 미국 처방 300만 건 돌파 (CNBC, 2026-06-08)
+> 처방 건수 300만 돌파로 미국 론칭 초기 수요 확인. 그러나 릴리 ADA 데이터 성과에 가려 시장 주목도 낮음.
+> ※ 메디케어 적용 7/1 이후 대규모 시장 진입이 실질적 성장 촉매가 될 것인지 관찰 필요.
+
+> [!claim] LLY Foundayo FDA 승인으로 NVO 경구 GLP-1 선점 우위 희석 (CNBC, 2026-06-08)
+> 릴리 경구 GLP-1 공식 시판으로 NVO Wegovy pill의 최초 경구 GLP-1 지위가 도전받음.
+> ※ 두 약물 간 체중 감량 효능 데이터 직접 비교가 핵심 경쟁 변수.
 
 ### 2026-06-04 (목) — narrative_score: -0.07
 
