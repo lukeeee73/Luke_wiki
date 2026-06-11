@@ -1,7 +1,7 @@
 ---
 title: "LLY - Eli Lilly and Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-04
+updated: 2026-06-11
 domain: finance
 type: claim
 weight: reference
@@ -30,8 +30,10 @@ sources: []
 _(루틴 첫 실행 전 — 비어 있음)_
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] LLY 독일 투자 삭감이 EU 규제 역풍으로 이어질 것인가? (추가 확인 필요, 기한: 2026-06-11)
+- [x] LLY 독일 투자 삭감이 EU 규제 역풍으로 이어질 것인가? ~~(기한: 2026-06-11)~~ → **aged-out**: 6/11 기한 도래, EU 규제 역풍 뉴스 없음. 만료 처리.
 - [ ] $10B+ M&A 가속화가 2026 EPS 가이던스에 미치는 영향은? (분기 실적 시 확인, 기한: 2026-08-01)
+- [ ] FDA Foundayo(경구 GLP-1) 승인이 NVO Wegovy pill 미국 점유율을 의미있게 잠식할 것인가? (기한: 2026-09-11)
+- [ ] 메디케어 GLP-1 적용(7/1 시작) 이후 Zepbound·Mounjaro 처방 급증이 지속될 것인가? (기한: 2026-09-11)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +48,12 @@ _(루틴 첫 실행 전 — 비어 있음)_
 
 > [!fact] Eli Lilly 시가총액 $1조 달러 돌파 — 제약사 최초 (GuruFocus, Motley Fool 2건 이상 확인)
 > 출처: GuruFocus, Motley Fool (2026-06-04)
+
+> [!fact] FDA 경구 GLP-1 포파글리프론(Foundayo) 비만 성인 대상 최초 승인 (PR Newswire, 2026-06-08)
+> 출처: PR Newswire / Eli Lilly IR (2026-06-08)
+
+> [!fact] FDA Ebglyss(lebrikizumab) 8주 1회 유지요법 아토피 피부염 승인 (PR Newswire, 2026-06-09)
+> 출처: PR Newswire (2026-06-09)
 <!-- FACTS_END -->
 
 ---
@@ -53,6 +61,21 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-11 (목) — narrative_score: +0.34
+
+**핵심 이벤트:** 경구 GLP-1 Foundayo FDA 승인, Ebglyss 8주 투약 승인, 메디케어 GLP-1 적용 7/1 시작  
+**리스크:** NVO 경구 위고비 점유율 선점, 메디케어 약가 협상 장기 마진 압박
+
+> [!claim] 경구 GLP-1 파운다요(Foundayo) FDA 최초 승인 (PR Newswire, 2026-06-08)
+> 세계 최초 경구 GLP-1 비만치료제로 FDA 승인 획득 — 주사제 기피 환자층 신규 확보 기대.
+> ※ NVO Wegovy pill 300만 처방 선점에도 불구, 릴리의 데이터 우위 확인.
+
+> [!claim] Ebglyss(lebrikizumab) 8주 1회 유지투약 FDA 승인 (PR Newswire, 2026-06-09)
+> 아토피 피부염 환자의 연간 유지 주사 횟수를 6회로 감소 — 환자 편의성 향상으로 시장 접근성 확대.
+
+> [!claim] 메디케어 GLP-1 보험 적용 7/1 시작 — 시니어 대규모 신시장 열림 (CNBC, 2026-06-08)
+> 약 50달러/월 수준으로 시니어 비만 환자 접근성 급증 예고. LLY·NVO 동시 수혜 vs 약가 협상 리스크 공존.
 
 ### 2026-06-04 (목) — narrative_score: +0.22
 

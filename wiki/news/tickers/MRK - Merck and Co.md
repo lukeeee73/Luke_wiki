@@ -1,7 +1,7 @@
 ---
 title: "MRK - Merck & Co., Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-04
+updated: 2026-06-11
 domain: finance
 type: claim
 weight: reference
@@ -29,7 +29,7 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [ ] Terns 파마슈티컬스 $6.7B 인수가 2026 EPS에 미치는 희석 효과는 얼마인가? (2026 연간 실적 시 확인)
-- [ ] LITESPARK-012 RCC 실패로 키트루다 적응증 확장 속도가 둔화될 것인가? (지속 모니터링)
+- [ ] LITESPARK-012 RCC 실패에 이어 KEYNOTE-D46 폐암 병용 실패 — 병용요법 전략 전반에 영향이 있을 것인가? (기한: 2026-09-30)
 - [ ] 가다실 HPV 소송 추가 합의가 이어질 것인가? (기한: 2026-09-04)
 <!-- OPEN_CLAIMS_END -->
 
@@ -48,6 +48,10 @@ sources: []
 
 > [!fact] LITESPARK-012 Phase 3, 1차 신세포암 PFS·OS 공동 1차 지표 미달 (Merck IR, 2026-06-01)
 > 출처: QuiverQuant, Merck IR (2026-06-01) — 임상 실패 공식 발표
+
+> [!fact] 이슬라트라비르/레나카파비르 경구 주 1회 HIV 치료 Phase 3 양성 최종 결과 (Gilead 공동, 2026-06-10)
+> 출처: Yahoo Finance / Merck IR (2026-06-10)
+
 <!-- FACTS_END -->
 
 ---
@@ -55,6 +59,19 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-11 (목) — narrative_score: +0.03
+
+**핵심 이벤트:** 경구 HIV 치료 3상 성공(Gilead 공동), KEYNOTE-D46 폐암 병용 임상 중단, 주가 +1.5%  
+**리스크:** 키트루다 병용요법 확장 차질, 2028 특허 만료 대비 파이프라인 부족
+
+> [!claim] 이슬라트라비르/레나카파비르 경구 주 1회 HIV 치료 Phase 3 성공 (2026-06-10)
+> 현재 표준 치료(주 1회 주사) 대비 경구 복용 가능한 HIV 치료 패러다임 변화 가능.
+> ※ Gilead 공동개발로 수익 분배 구조가 MRK 단독 대비 한계 있으나 파이프라인 다변화 의의.
+
+> [!claim] KEYNOTE-D46 폐암 병용(키트루다+트로델비) 임상 중단 (2026-06-09)
+> PFS 통계적 유의성 미달로 중단. 키트루다 단독 폐암 표준치료 지위는 유지.
+> ※ LITESPARK-012에 이어 연속 병용요법 실패 — 병용 전략 신뢰도 하락 우려.
 
 ### 2026-06-04 (목) — narrative_score: +0.11
 
