@@ -1,7 +1,7 @@
 ---
 title: "NEM - Newmont Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-05
+updated: 2026-06-12
 domain: finance
 type: claim
 weight: reference
@@ -48,6 +48,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-12
+**narrative_score**: -0.16
+**key_events**: 금 가격 $4,331/oz (-16.6% from Jan peak, -7.68% in past month), 2026년 생산 ~10% 감소 예상, AISC $1,680/oz로 상승 (높은 로열티·세금)
+**risks**: 금 가격 추가 하락 시 FCF 크게 악화, 생산 감소 + 비용 상승 동시 진행으로 이익 레버리지 역작용, 미·이란 협상 타결 시 안전자산 수요 추가 감소
+
+> [!claim] (Yahoo Finance, 2026-06-12) Gold Price Falls to $4,331/oz — Down 7.68% in Past Month, 16.6% Below January Peak
+> 금 가격 $4,331/oz — 최근 1개월 -7.68%, 1월 최고점($5,193) 대비 -16.6% 하락. impact: - / category: macro
+
+> [!claim] (Reuters, 2026-06-09) Newmont 2026 Gold Production Expected to Fall ~10%, All-in Sustaining Costs Rise to $1,680/oz
+> 2026년 생산량 약 10% 감소 예상, AISC $1,680/oz 상승 — 높은 로열티·세금 부담. impact: - / category: earnings
+
+> [!claim] (247 Wall St., 2026-06-10) Newmont Stock Down 25% Since February 28, 2026 as Iran War Gold Euphoria Fades
+> 이란 전쟁 초기 금 급등 이후 NEM 주가 25% 하락 — 생산 비용 상승과 생산량 감소 이중고. impact: - / category: other
+
+**경쟁사 동향**:
+- GOLD: 배릭의 저비용 아프리카 광산 대비 NEM의 AISC 상승이 상대적 불리
+- FCX: 귀금속·광산 섹터 전반 생산 차질 공통 우려
+
 ### 2026-06-05
 **narrative_score**: +0.24
 **key_events**: Q1 FCF $31억 기록 (금 $4,900/oz), $60억 자사주매입 프로그램 승인, CEO 10b5-1 계획에 따라 소량 매도

@@ -1,7 +1,7 @@
 ---
 title: "NEE - NextEra Energy, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-05
+updated: 2026-06-12
 domain: finance
 type: claim
 weight: reference
@@ -46,6 +46,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-12
+**narrative_score**: -0.04
+**key_events**: Dominion $670억 전액 주식교환 인수 발표 (5/18), NEE 주가 -9% (희석 우려), 분기 배당 $0.6232 — 6/15 지급
+**risks**: FERC + NRC + 버지니아/캐롤라이나 주 규제 복수 승인 필요 (12-18개월), 전액 주식교환으로 NEE 기존 주주 25.5% 희석, 딜 완료 전까지 경영 불확실성 지속
+
+> [!claim] (Fortune / Motley Fool, 2026-05-18) NextEra Energy to Acquire Dominion Energy in $67B All-Stock Deal — World's Largest Regulated Utility
+> NextEra, Dominion을 $670억 전액 주식교환 인수 — 세계 최대 규제 전력회사 창출, 1998년 엑슨-모빌 이후 최대 에너지 딜. impact: + / category: m&a
+
+> [!claim] (GuruFocus, 2026-06-10) NextEra Energy Stock Falls ~9% on Dominion Acquisition Announcement — Dilution Concern
+> 인수 발표 후 NEE 주가 -9% — 전액 주식교환 희석 효과와 복잡한 규제 승인 불확실성 반영. impact: - / category: m&a
+
+> [!claim] (StockTitan, 2026-06-05) NextEra Energy Declares $0.6232 Quarterly Dividend Payable June 15
+> 분기 배당 $0.6232/주, 6/15 지급, 기준일 6/5. impact: + / category: other
+
+> [!claim] (FX Leaders, 2026-06-12) Dominion Energy Stock Surges on $67B NextEra Deal as AI Power Demand Reshapes Utility Sector
+> AI 전력 수요 시대 유틸리티 구조 재편 — NEE+D 조합이 버지니아 데이터센터 메카 장악. impact: + / category: m&a
+
+**경쟁사 동향**:
+- D: 인수 타깃 D의 버지니아 AI 인프라가 NEE 전략적 가치를 높이나, D 주주 지분(25.5%)은 희석 요인
+- DUK: 캐롤라이나 10GW 조달 vs NEE+D의 버지니아 지배력 — 유틸리티 영토 경쟁
+
 ### 2026-06-05
 **narrative_score**: +0.03
 **key_events**: Dominion Energy $670억 합병 (0.8138 NEE주, 발표 5/18), 분기 배당 $0.6232 6/15 지급 (기록일 오늘), 주가 최근 1개월 -13.7% (고금리+합병 희석)

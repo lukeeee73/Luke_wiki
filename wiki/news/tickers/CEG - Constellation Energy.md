@@ -1,7 +1,7 @@
 ---
 title: "CEG - Constellation Energy — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-05
+updated: 2026-06-12
 domain: finance
 type: claim
 weight: reference
@@ -46,6 +46,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-12
+**narrative_score**: +0.19
+**key_events**: FERC TMI 원전 재가동 면제 허가 (+2.6%), 5,650MW 하이퍼스케일러 계약 (MS + Meta), 2차공모 1,100만 주 $281 + $558M 자사주 매입
+**risks**: 2차공모 오버행 → 주가 YTD -27.5% 부담, 원전 운영 예상 외 비용 증가 또는 정전 리스크, 복잡한 하이퍼스케일러 계약 이행 리스크
+
+> [!claim] (StockTitan, 2026-06-01) Constellation Energy Secondary Offering: 11M Shares at $281 — $558M Buyback from Offering
+> 1,100만 주 $281 공개매출 완료 (6/2 클로징) + 자기주식 200만 주 $558M 매입. impact: neutral / category: other
+
+> [!claim] (GuruFocus, 2026-06-02) Constellation Gains 2.6% After FERC Waiver Granted for Three Mile Island Restart
+> FERC, TMI 원전 재가동 면제 허가 — 빠른 전력망 통합 허용, +2.6% 급등. impact: + / category: regulation
+
+> [!claim] (Constellation IR, 2026-06-08) Calpine Completes 25 MW Geothermal Expansion at The Geysers — 25,000+ Homes Powered
+> 캘파인 지열발전 25MW 확장 완료 — 25,000가구 이상 공급, Clean Power Alliance 18MW 계약. impact: + / category: other
+
+> [!claim] (Seeking Alpha, 2026-06-10) Constellation Energy 5,650 MW Clean Energy Contracts with Hyperscalers (Microsoft, Meta)
+> 마이크로소프트(TMI)·메타(1.1GW, 20년) 포함 총 5,650MW 하이퍼스케일러 계약 — AI 시대 원전 수요 최전선. impact: + / category: earnings
+
+**경쟁사 동향**:
+- VST: 메타 2,600MW PPA vs CEG의 메타 1.1GW + MS TMI 계약 — AI 전력 리더십 경쟁
+- NEE: NEE의 M&A 전략 vs CEG의 하이퍼스케일러 직접 계약 — AI 전력 선점 경쟁
+
 ### 2026-06-05
 **narrative_score**: +0.09
 **key_events**: 하이퍼스케일러 5,650MW 원전 PPA (MSFT+Meta), 분기 배당 $0.4265 오늘(6/5) 지급, YTD -25% 조정, 애널리스트 평균 목표가 $368

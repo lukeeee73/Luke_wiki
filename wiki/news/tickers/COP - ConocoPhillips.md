@@ -1,7 +1,7 @@
 ---
 title: "COP - ConocoPhillips — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-05
+updated: 2026-06-12
 domain: finance
 type: claim
 weight: reference
@@ -46,6 +46,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-12
+**narrative_score**: -0.01
+**key_events**: 잭스 에너지 섹터 피크 종목 선정, 6월 10일 내부자 거래 신고, 2026년 생산 가이던스 2.295-2.325 MMBOED로 하향
+**risks**: 생산 가이던스 하향이 실적 기대감 후퇴 신호, 미·이란 협상 타결 시 유가 하락
+
+> [!claim] (Yahoo Finance / Zacks, 2026-06-10) Zacks Industry Outlook: ConocoPhillips Among Energy Picks Amid High Crude Environment
+> 잭스가 COP를 고유가 환경 수혜 에너지 피크 종목으로 선정 — 상류 집중 비즈니스 모델 부각. impact: + / category: other
+
+> [!claim] (CNBC, 2026-06-10) ConocoPhillips Insider Activity Reported on June 10, 2026
+> 6월 10일 내부자 거래 신고 — 상세 내역 미확인이나 매수로 추정. impact: neutral / category: other
+
+> [!claim] (Reuters, 2026-06-05) ConocoPhillips Cuts 2026 Production Guidance to 2.295–2.325 MMBOED
+> 2026년 생산 가이던스 소폭 하향 — 셰일 + 알래스카 + 카타르 LNG 포트폴리오 영향. impact: - / category: earnings
+
+**경쟁사 동향**:
+- XOM: 가이아나 상류 생산 확대가 순수 E&P 경쟁에서 COP 대비 우위 요인
+- OXY: OxyChem 매각 $58억 부채 감소로 재무구조 개선 — COP 대비 상대 모멘텀 강화
+
 ### 2026-06-05
 **narrative_score**: -0.03
 **key_events**: 2026년 생산 가이던스 하향 (2.295-2.325 MMBOED), 포트아서 LNG 1단계 첫 생산 임박, $2B 자사주매입 지속

@@ -1,7 +1,7 @@
 ---
 title: "SLB - Schlumberger Limited — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-05
+updated: 2026-06-12
 domain: finance
 type: claim
 weight: reference
@@ -46,6 +46,21 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-12
+**narrative_score**: +0.05
+**key_events**: 퀄컴과 에너지 현장 엣지 AI 솔루션 파트너십, 2026 디지털 투자자의 날 개최 예정
+**risks**: 미·이란 협상 타결 시 E&P 설비투자 감소 → 유전 서비스 수요 하락, 전방 산업 capex 사이클 정점 통과 여부
+
+> [!claim] (Yahoo Finance, 2026-06-10) SLB Partners with Qualcomm to Enhance Edge AI Solutions in Energy Sector
+> 퀄컴과 에너지 현장용 엣지 AI 솔루션 강화 파트너십 체결 — 유전 디지털화 가속. impact: + / category: other
+
+> [!claim] (SLB IR, 2026-06-09) SLB to Host 2026 Digital Investor Day — Highlighting Digital Strategy and Growth
+> 2026 디지털 투자자의 날 개최 예정 — 디지털 전략과 성장 전망 공유. impact: + / category: other
+
+**경쟁사 동향**:
+- HAL: Halliburton 대비 SLB의 디지털·AI 차별화 전략이 장기 경쟁우위 구축
+- BKR: Baker Hughes의 산업기술 다각화 vs SLB의 AI·디지털 집중 — 전략 분기
+
 ### 2026-06-05
 **narrative_score**: -0.05
 **key_events**: Tachyus AI 인수 (디지털 저류층 관리), 30일간 +15% 상승 (Q1 비트 + ChampionX), Q2 EPS $0.53 (-28.4% YoY) 예상

@@ -1,7 +1,7 @@
 ---
 title: "SRE - Sempra — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-05
+updated: 2026-06-12
 domain: finance
 type: claim
 weight: reference
@@ -46,6 +46,21 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-12
+**narrative_score**: +0.04
+**key_events**: 포트 아서 LNG 1단계 건설 진행, SoCalGas·SDG&E 에너지 효율 프로그램 확대
+**risks**: LNG 건설 비용 초과 및 일정 지연 리스크, 캘리포니아 규제 환경 변화 (에너지 정책 불확실성)
+
+> [!claim] (Company IR, 2026-06-09) Sempra Expanding LNG Export Terminal Investments — Port Arthur LNG Phase 1 on Track
+> 포트 아서 LNG 1단계 건설 진행 — 유럽·아시아 천연가스 수출 인프라 확대. impact: + / category: other
+
+> [!claim] (Simply Wall St, 2026-06-10) Sempra California Utilities (SoCalGas, SDG&E) Benefiting from Energy Efficiency Programs
+> 남부 캘리포니아 가스·전력 유틸리티 에너지 효율 프로그램 확대 — 규제 환경 안정적. impact: neutral / category: other
+
+**경쟁사 동향**:
+- NEE: NEE의 공격적 M&A vs SRE의 LNG+유틸리티 하이브리드 안정 전략
+- ED: ED·SRE 모두 규제 유틸리티 안정주 — 지역별 특성 차이
+
 ### 2026-06-05
 **narrative_score**: +0.03
 **key_events**: Voss Capital Oncor 분리 공식 촉구, 분기 배당 $0.658 배당락일 6/25

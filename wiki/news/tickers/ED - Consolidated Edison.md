@@ -1,7 +1,7 @@
 ---
 title: "ED - Consolidated Edison — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-05
+updated: 2026-06-12
 domain: finance
 type: claim
 weight: reference
@@ -45,6 +45,21 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-12
+**narrative_score**: +0.02
+**key_events**: YTD +14.5% (방어주 성과), 49년 연속 배당 증가 (배당귀족 유지)
+**risks**: 뉴욕시 규제 요금 결정이 수익 제약, 기후변화 관련 인프라 업그레이드 비용 (허리케인·폭염)
+
+> [!claim] (Barchart, 2026-06-10) Consolidated Edison Stock Up 14.5% YTD — NYC Utility Monopoly Delivering Steady Returns
+> YTD +14.5% — 뉴욕시 전력·가스·증기 독점 유틸리티로 안정적 수익. 49년 연속 배당 증가. impact: + / category: other
+
+> [!claim] (Simply Wall St, 2026-06-09) Consolidated Edison: NYC Analysts Bullish on Defensive Utility — 49 Consecutive Dividend Increases
+> 49년 연속 배당 증가로 배당귀족 지위 유지 — 뉴욕시 전력 수요의 구조적 안정성. impact: + / category: other
+
+**경쟁사 동향**:
+- EXC: ED(뉴욕)·EXC(시카고/필라델피아) 모두 대도시 T&D 독점 — 유사한 방어적 성격
+- AEP: AEP의 데이터센터 성장 노출 대비 ED는 순수 뉴욕 방어 유틸리티 — 성장 대신 안정
+
 ### 2026-06-05
 **narrative_score**: 0.00
 **key_events**: (최근 24시간 내 의미 있는 뉴스 없음)

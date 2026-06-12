@@ -1,7 +1,7 @@
 ---
 title: "D - Dominion Energy, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-05
+updated: 2026-06-12
 domain: finance
 type: claim
 weight: reference
@@ -46,6 +46,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-12
+**narrative_score**: +0.10
+**key_events**: NEE $670억 전액 주식교환 인수 발표 (오늘 주가 급등), 교환 비율: D 1주 → NEE 0.8138주 + $3.6억 현금, 버지니아 DC 클러스터 (~70% 미 인터넷 트래픽) 핵심 자산
+**risks**: 12~18개월 복수 규제 승인 과정에서 딜 수정 또는 무산 리스크, NEE 주가 하락 시 교환 가치 감소, FERC + NRC + 버지니아/캐롤라이나 주 규제 모두 통과해야
+
+> [!claim] (FX Leaders, 2026-06-12) Dominion Energy Stock Surges on $67B NextEra Acquisition — AI Power Demand Reshapes Utility Sector
+> NEE의 $670억 인수 발표로 D 주가 급등 — 버지니아 AI 인프라 전략적 가치 재평가. impact: + / category: m&a
+
+> [!claim] (Motley Fool / SEC, 2026-05-18) NextEra-Dominion Merger: D Shareholders Get 0.8138 NEE Shares + $360M One-Time Cash
+> D 주주는 주당 NEE 0.8138주 + $3.6억 현금 일시 지급 교환비율 확정. impact: + / category: m&a
+
+> [!claim] (Fortune, 2026-05-18) Dominion Virginia Infrastructure — Largest US Data Center Cluster Key Strategic Asset
+> 버지니아 북부 — 미국 최대 데이터센터 클러스터 (인터넷 트래픽 ~70%)가 D의 핵심 자산. impact: + / category: other
+
+> [!claim] (Reuters, 2026-05-18) NEE-Dominion Deal Timeline: 12–18 Months to Close — FERC, NRC, Multi-State Approvals Required
+> 딜 완료까지 12~18개월 예상 — FERC·NRC·버지니아·캐롤라이나 주 규제 승인 필요. impact: - / category: regulation
+
+**경쟁사 동향**:
+- NEE: NEE 주가 하락이 D 교환 가치 일부 희석 → 딜 클로징 리스크 상존
+- DUK: Duke Energy Carolinas 10 GW procurement competing with Dominion Virginia
+
 ### 2026-06-05
 **narrative_score**: +0.08
 **key_events**: NEE $670억 합병 합의 (0.8138 NEE주, 발표 5/18), 130GW AI 데이터센터 대형 부하 파이프라인, D 주주: 현 배당 유지 + 마감 시 $3.6억 일회성 지급

@@ -1,7 +1,7 @@
 ---
 title: "DUK - Duke Energy Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-05
+updated: 2026-06-12
 domain: finance
 type: claim
 weight: reference
@@ -46,6 +46,21 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-12
+**narrative_score**: +0.08
+**key_events**: 캐롤라이나 10GW 신규 발전 조달 계획, 미국 최대 데이터센터 밀집 영역(동남부) 서비스
+**risks**: 대규모 capex 조달에 따른 재무 부담, 규제 요금 결정이 투자 수익률 제약 가능
+
+> [!claim] (Bloomberg, 2026-06-10) Duke Energy Procuring 10 GW New Generation Across the Carolinas for Data Center Surge
+> 캐롤라이나 전역 10GW 신규 발전 조달 계획 — 미국 최대 데이터센터 벨트 수요 대응. impact: + / category: other
+
+> [!claim] (CNBC, 2026-06-09) Southeast is America's Densest Data Center Corridor — Duke Energy Territory at Center
+> 미국 동남부가 데이터센터 최밀집 지역으로 부상 — DUK 서비스 영역이 AI 전력 수요 직접 수혜. impact: + / category: macro
+
+**경쟁사 동향**:
+- SO: 조지아(SO)와 캐롤라이나(DUK) 동남부 데이터센터 벨트 분점 — 공동 수혜
+- NEE: NEE+D가 버지니아 진입 시 DUK 캐롤라이나 영역과 인접 — 장기 경쟁 지형 변화
+
 ### 2026-06-05
 **narrative_score**: +0.08
 **key_events**: AI 데이터센터 신규 원전 건설 테크 기업 논의 중, Q1 조정 EPS $1.93 (+, 가이던스 재확인), 분기 배당 $1.065 6/16 지급

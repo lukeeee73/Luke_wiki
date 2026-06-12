@@ -1,7 +1,7 @@
 ---
 title: "OXY - Occidental Petroleum — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-05
+updated: 2026-06-12
 domain: finance
 type: claim
 weight: reference
@@ -46,6 +46,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-12
+**narrative_score**: +0.09
+**key_events**: OxyChem 버크셔 매각 클로징 → $58억 부채 감소, 6개월 +35% 랠리 후 밸류에이션 점검, 2026년 capex $55~59억 가이던스 유지
+**risks**: 주가 급등 후 밸류에이션 부담 (추가 상승 여력 제한), 유가 하락 시 퍼미안 FCF 타격 (고유가 의존 구조)
+
+> [!claim] (Yahoo Finance, 2026-06-10) Occidental OxyChem Sale to Berkshire Hathaway Closed — $5.8B Debt Reduction Achieved
+> 버크셔에 OxyChem 매각 완료(1/2 클로징) → 원금 $58억 감소로 재무구조 대폭 개선. impact: + / category: other
+
+> [!claim] (Yahoo Finance, 2026-06-11) Is It Too Late to Buy This Warren Buffett Stock That Has Soared 35% in 6 Months?
+> 최근 6개월 +35% 급등 후 OXY 추가 매수 여부 검토 — 버핏 테마주 밸류에이션 점검. impact: neutral / category: other
+
+> [!claim] (Company IR, 2026-06-05) Occidental Petroleum 2026 Capex Guidance: $5.5B–$5.9B for Production Growth
+> 2026년 설비투자 $55~59억 가이던스 유지 — 퍼미안 분지 생산 성장에 집중. impact: neutral / category: earnings
+
+**경쟁사 동향**:
+- CVX: 대규모 주주환원 대비 OXY는 부채 감소에 집중 — 재무구조 개선 단계
+- COP: 생산 가이던스 하향 vs OXY 퍼미안 안정적 생산 — OXY 상대 포지션 유지
+
 ### 2026-06-05
 **narrative_score**: +0.05
 **key_events**: Vicki Hollub CEO 은퇴, Richard Jackson CEO 취임 (6/1), 멕시코만 Bandit 광구 석유 발견 (지분 45.375%), $0.26 분기 배당 선언

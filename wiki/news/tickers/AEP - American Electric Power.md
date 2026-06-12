@@ -1,7 +1,7 @@
 ---
 title: "AEP - American Electric Power — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-05
+updated: 2026-06-12
 domain: finance
 type: claim
 weight: reference
@@ -46,6 +46,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-12
+**narrative_score**: +0.07
+**key_events**: Q1 adj EPS $1.64, 매출 $60.2억, 2026 EPS 가이던스 $6.12~6.42 유지, 분기 배당 $0.95 — 6/10 지급
+**risks**: 그리드 신뢰성 관련 규제 당국 점검 강화, 대규모 인프라 투자 비용 증가로 단기 이익 희석
+
+> [!claim] (ad-hoc-news.de, 2026-06-10) AEP Q1 2026: Adjusted EPS $1.64, Revenue $6.02B — Data Center Demand Driving Grid Investment
+> Q1 조정 EPS $1.64, 매출 $60.2억 — 데이터센터 수요 증가로 그리드 투자 확대 국면. impact: + / category: earnings
+
+> [!claim] (StockTitan, 2026-06-05) AEP Declares $0.95 Quarterly Dividend Paid June 10 — 2026 EPS Guidance $6.12–$6.42
+> 분기 배당 $0.95 — 6/10 지급. 2026 EPS 가이던스 $6.12~6.42 유지. impact: + / category: earnings
+
+> [!claim] (Simply Wall St, 2026-06-12) AEP Stock at $128–$131 — 13 Buy / 9 Hold, Average Target $141.10
+> 주가 $128~131 거래 중, 애널리스트 평균 목표가 $141.10 — 상승 여력 약 10%. impact: + / category: other
+
+**경쟁사 동향**:
+- DUK: 10GW 조달 vs AEP 11개 주 광역 그리드 — 데이터센터 투자 경쟁
+- EXC: T&D 순수 모델 vs AEP 발전+송배전 통합 모델 — 수요 성장 포착 방식 차이
+
 ### 2026-06-05
 **narrative_score**: +0.08
 **key_events**: Q1 EPS $1.61 (+7.3% YoY), $417억 4년 자본투자 계획 (7.9% 요금기반 성장), 배당 $0.95 6/10 지급
