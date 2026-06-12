@@ -1,7 +1,7 @@
 ---
 title: "SHEL - Shell plc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-05
+updated: 2026-06-12
 domain: finance
 type: claim
 weight: reference
@@ -46,6 +46,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-12
+**narrative_score**: +0.09
+**key_events**: 6/11 198.6만 주 자사주매입 (5~7월 프로그램 지속), CEO: 유가 상방 압력 5~10년 지속 전망, 나미비아 멀린-1X 경질유 신규 발견
+**risks**: 미·이란 협상 타결 시 LNG·원유 가격 하락, 신재생 전환 투자 비용 증가로 전통 사업 수익성 압박
+
+> [!claim] (StockTitan, 2026-06-11) Shell Repurchases 1.986M Shares on June 11 as Part of May-July 2026 Buyback Programme
+> 6/11 198.6만 주 자사주 매입 — 5/7~7/24 자사주매입 프로그램 지속 집행. impact: + / category: other
+
+> [!claim] (GuruFocus, 2026-06-10) Shell CEO Wael Sawan: Upward Crude Oil Price Pressure to Persist for 5-10 Years
+> 와엘 사완 CEO: 글로벌 수요 증가로 유가 상방 압력이 향후 5~10년 지속될 것. impact: + / category: other
+
+> [!claim] (Reuters, 2026-06-09) Shell Reports New Light Oil Discovery at Merlin-1X Well Offshore Namibia
+> 나미비아 해상 멀린-1X 유정에서 경질유 신규 발견 — 아프리카 탐사 성과. impact: + / category: other
+
+> [!claim] (Shell IR, 2026-06-08) Shell Partners with Kazakhstan on Geoscience Information Platform
+> 카자흐스탄 정부와 지구과학 정보 플랫폼 파트너십 체결 — 중앙아시아 탐사 협력 강화. impact: + / category: other
+
+**경쟁사 동향**:
+- XOM: 베네수엘라 복귀 협상 vs SHEL 나미비아 발견 — 신규 상류 확장 경쟁
+- CVX: 대규모 주주환원과 비교해 SHEL 자사주매입 프로그램 경쟁력 있음
+
 ### 2026-06-05
 **narrative_score**: +0.01
 **key_events**: 6/3 자사주 매입 1.1M주 LSE + 200k Chi-X, Q1 배당 $0.3906/주 6/29 지급 예정, 애널리스트 8명 전원 Buy 목표가 $99.04

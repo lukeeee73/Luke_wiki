@@ -1,7 +1,7 @@
 ---
 title: "VST - Vistra Corp — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-05
+updated: 2026-06-12
 domain: finance
 type: claim
 weight: reference
@@ -46,6 +46,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-12
+**narrative_score**: +0.21
+**key_events**: Q1 EBITDA +20% YoY, 영업이익률 26.6%, 2026 EBITDA 가이던스 $68~76억 재확인, 메타 2,600MW 20년 핵발전 PPA (PJM 3개 식물)
+**risks**: 원전 예상 외 운영 비용 증가, 에너지 규제 환경 변화 시 현물 가격 리스크
+
+> [!claim] (Seeking Alpha, 2026-06-08) Vistra Q1 2026: Revenue $5.63B, Operating Margin 26.6%, EBITDA +20% YoY
+> Q1 매출 $56.3억, 영업이익률 26.6%, EBITDA 전년 대비 +20% — 핵발전+가스 포트폴리오 강세. impact: + / category: earnings
+
+> [!claim] (Yahoo Finance, 2026-06-09) Vistra Reaffirms 2026 Guidance: $6.8B–$7.6B Adjusted EBITDA, $10B+ Cash Generation Through 2027
+> 2026 adj EBITDA $68~76억 가이던스 재확인, 2027년까지 현금창출 $100억+ 목표 유지. impact: + / category: earnings
+
+> [!claim] (Vistra IR, 2026-01-15) Vistra Signs 20-Year PPA with Meta for ~2,600 MW Nuclear Power Across 3 PJM Plants
+> 메타와 20년 장기 전력 구매 계약 2,600MW — PJM 3개 원자력 발전소 청정 전력 공급. impact: + / category: earnings
+
+**경쟁사 동향**:
+- CEG: CEG(MS + 메타 1.1GW) vs VST(메타 2,600MW) — AI 전력 원전 양강 구도
+- NRG: NRG의 소매 중심 대비 VST의 발전 자산 직접 AI 계약이 고마진 구조
+
 ### 2026-06-05
 **narrative_score**: +0.10
 **key_events**: Meta 20년 PPA 2,600MW (PJM 원전 3기), 로터스 가스발전 7개 시설 ~2,600MW 인수, YTD -4%, 16.4X 포워드 P/E (CEG 24.7X 대비 저렴)

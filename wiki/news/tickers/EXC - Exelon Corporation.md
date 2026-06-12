@@ -1,7 +1,7 @@
 ---
 title: "EXC - Exelon Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-05
+updated: 2026-06-12
 domain: finance
 type: claim
 weight: reference
@@ -46,6 +46,21 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-12
+**narrative_score**: +0.02
+**key_events**: 분기 배당 $0.42 (기준일 6/4), 순수 T&D 모델 — 시카고·필라델피아·볼티모어 도시 전력
+**risks**: 규제 요금 결정으로 성장 제약, 그리드 업그레이드 투자 비용 증가
+
+> [!claim] (Simply Wall St, 2026-06-04) Exelon Declares $0.42 Quarterly Dividend, Ex-Date June 4, 2026
+> 분기 배당 $0.42 선언, 기준일 6/4 — 순수 송배전(T&D) 유틸리티 안정적 배당. impact: + / category: other
+
+> [!claim] (Bloomberg, 2026-06-10) Exelon Pure-Play T&D Model Benefits from Urban AI Infrastructure Demand (Chicago, Philadelphia, Baltimore)
+> 발전 없는 순수 T&D 모델 — ComEd(시카고)·PECO(필라델피아)·BGE(볼티모어) 도시 전력 인프라 수혜. impact: + / category: other
+
+**경쟁사 동향**:
+- AEP: AEP 발전+T&D 통합 vs EXC 순수 T&D — EXC는 연료 비용 리스크 없는 안정성이 강점
+- ED: ED(뉴욕)·EXC(시카고/필라델피아) 모두 대도시 T&D 독점 — 유사한 안정적 성격
+
 ### 2026-06-05
 **narrative_score**: -0.01
 **key_events**: Q1 조정 EPS $0.91 (가이던스 부합), PECO 요금 인상 신청 철회 (고객 부담 이유), 송전 투자 $1.5B 증액

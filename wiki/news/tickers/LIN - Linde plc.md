@@ -1,7 +1,7 @@
 ---
 title: "LIN - Linde plc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-05
+updated: 2026-06-12
 domain: finance
 type: claim
 weight: reference
@@ -46,6 +46,23 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-12
+**narrative_score**: +0.11
+**key_events**: Q1 EPS +10%, 영업이익률 30%, $15억 주주환원, RBC 목표가 $570 상향 (Outperform), 분기 배당 $1.60 — 6/18 지급
+**risks**: 볼륨 성장 +1% 저조 — 제조업 수요 둔화 반영, 에너지 비용 상승이 가스 생산 원가 압박
+
+> [!claim] (Seeking Alpha, 2026-06-09) Linde Q1 2026: EPS +10%, Operating Margins 30%, $1.5B Returned to Shareholders
+> Q1 EPS +10%, 영업이익률 30%, 주주환원 $15억 — 볼륨 성장 +1%로 저조하나 가격·믹스 효과로 커버. impact: + / category: earnings
+
+> [!claim] (Barron's, 2026-06-10) RBC Capital Raises Linde Price Target to $570 from $552 — Maintains Outperform
+> RBC 캐피털, 린데 목표주가 $552 → $570 상향, Outperform 유지. impact: + / category: other
+
+> [!claim] (Linde IR, 2026-06-05) Linde Declares $1.60 Quarterly Dividend Payable June 18 to Record Date June 4 Holders
+> 분기 배당 $1.60/주 — 6/18 지급, 기준일 6/4. 배당 성장 지속. impact: + / category: other
+
+**경쟁사 동향**:
+- APD: 수소 경제 집중 vs LIN의 균형적 산업가스 + 수소 포트폴리오
+
 ### 2026-06-05
 **narrative_score**: +0.17
 **key_events**: Q1 EPS $4.33 (+10% YoY, 컨센서스 상회), 배당 7% 인상 $1.60 (33년 연속 증가), 삼성 한국 반도체 팹 산업가스 계약 (최대 반도체 딜)

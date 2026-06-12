@@ -1,7 +1,7 @@
 ---
 title: "APD - Air Products & Chemicals — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-05
+updated: 2026-06-12
 domain: finance
 type: claim
 weight: reference
@@ -46,6 +46,20 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-12
+**narrative_score**: +0.03
+**key_events**: YTD 나스닥 초과 성과 (방어주 특성), NEOM 그린수소 프로젝트 지속
+**risks**: NEOM 프로젝트 일정·비용 초과 리스크, 수소 경제 상용화 속도가 기대 이하일 경우 밸류에이션 압박
+
+> [!claim] (Barchart, 2026-06-10) Air Products Stock Outperforming Nasdaq YTD — Hydrogen Economy Positioning
+> APD 나스닥 대비 YTD 초과 성과 — 수소 경제 포지셔닝과 안정적 배당이 방어주 매력. impact: + / category: other
+
+> [!claim] (Company IR, 2026-06-08) Air Products NEOM Green Hydrogen Project Continues with Saudi Partnership
+> 사우디 NEOM 그린수소 프로젝트 진행 중 — 청정수소 생산·수출 최대 프로젝트 참여 지속. impact: + / category: other
+
+**경쟁사 동향**:
+- LIN: 린데의 강한 실적 (Q1 EPS +10%) 대비 APD는 수소 투자 사이클 수혜에 의존 — 장기 테마주 성격
+
 ### 2026-06-05
 **narrative_score**: +0.17
 **key_events**: 회계Q2 EPS +19% YoY, 연간 가이던스 $13.00-$13.25 상향, 웰스파고 Overweight 상향 (목표가 $325), $70M 미주리 최대 단일 사이트 확장

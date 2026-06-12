@@ -1,7 +1,7 @@
 ---
 title: "CVX - Chevron Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-05
+updated: 2026-06-12
 domain: finance
 type: claim
 weight: reference
@@ -46,6 +46,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-12
+**narrative_score**: +0.10
+**key_events**: Q1 미국 생산 +24% (헤스 인수 효과), $60억 주주환원 ($35억 배당 + $25억 자사주매입), 애널리스트 목표가 평균 $216 (Buy 컨센서스)
+**risks**: 미·이란 협상 타결 시 유가 하락, TCO (텡기즈) 생산 단계적 증대 일정 지연 가능성
+
+> [!claim] (The Motley Fool, 2026-06-07) Chevron Q1 2026: US Production Up 24% from Hess Integration, $6B Returned to Shareholders
+> 헤스 인수 효과로 미국 생산 +24%, 배당 $3.5억 + 자사주매입 $2.5억 등 $60억 주주환원. impact: + / category: earnings
+
+> [!claim] (GuruFocus, 2026-06-10) Chevron Attracts Investors Amid Market Volatility — Quant Rating 4.92, Buy Consensus
+> 시장 변동성 국면에서 CVX 방어주 매력 부각 — 25명 애널리스트 평균 목표가 $216. impact: + / category: other
+
+> [!claim] (Yahoo Finance, 2026-06-11) CVX Stock Assessing Valuation After Recent Gains
+> 최근 주가 상승 후 밸류에이션 점검 — 5년 +71.9%, 배당수익률 3.76%. impact: neutral / category: other
+
+**경쟁사 동향**:
+- XOM: 가이아나 $46.7억 이익 + 베네수엘라 협상 — CVX 헤스 통합과 상류 경쟁
+- COP: 2026 생산 가이던스 하향 — CVX 생산 증가 대비 상대 포지션 강화
+
 ### 2026-06-05
 **narrative_score**: -0.05
 **key_events**: 싱가포르 정제 지분 50% ENEOS에 $21.7억 매각, 그리스·이집트·이스라엘 가스전 확대, 호르무즈 리스크 직격탄 종목으로 주목

@@ -1,7 +1,7 @@
 ---
 title: "SO - The Southern Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-05
+updated: 2026-06-12
 domain: finance
 type: claim
 weight: reference
@@ -46,6 +46,21 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-12
+**narrative_score**: +0.08
+**key_events**: 보글 원전 3·4호기 완전 가동 (미국 최신 원전), 조지아·앨라배마 AI 데이터센터 수요 증가
+**risks**: 원전 운영 비용 예상 외 상승 리스크, 규제당국 요금 결정이 수익성 제약
+
+> [!claim] (Company IR, 2026-06-09) Southern Company's Vogtle Units 3 & 4 in Full Operation — America's Newest Nuclear Fleet
+> 보글 원전 3·4호기 완전 가동 중 — 미국에서 가장 최신 원전 보유, 안정적 탄소제로 기저발전. impact: + / category: other
+
+> [!claim] (Bloomberg, 2026-06-11) Southeast Data Center Boom Drives Power Demand in Southern Company Territory (Georgia, Alabama)
+> 조지아·앨라배마 지역 AI 데이터센터 입주 증가 — SO 서비스 영역 전력 수요 구조적 성장. impact: + / category: macro
+
+**경쟁사 동향**:
+- DUK: 캐롤라이나(DUK)와 조지아(SO) 모두 미 동남부 데이터센터 벨트 — 전력 수요 공동 수혜
+- CEG: CEG의 공격적 하이퍼스케일러 계약 vs SO의 지역 규제 유틸리티 안정성
+
 ### 2026-06-05
 **narrative_score**: -0.01
 **key_events**: 조지아 파워 요금 인하 명령 (규제 리스크), Vogtle 3·4호기 정격 출력 운전

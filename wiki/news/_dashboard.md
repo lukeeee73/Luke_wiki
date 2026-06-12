@@ -97,16 +97,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [XOM](tickers/XOM - Exxon Mobil Corporation.md) | 2026-06-05 | +0.10 | 텍사스 본거지 이전 + 가이아나 900k bpd 기록 + OPEC+ 6/7 증산 경계 | 2 |
-| [CVX](tickers/CVX - Chevron Corporation.md) | 2026-06-05 | -0.05 | 싱가포르 정제 매각 $21.7억 + 가스 비중 확대 vs 호르무즈 직격탄 | 2 |
-| [COP](tickers/COP - ConocoPhillips.md) | 2026-06-05 | -0.03 | 생산 가이던스 1.5% 하향 + 포트아서 LNG 첫 생산 임박 | 2 |
-| [SHEL](tickers/SHEL - Shell plc.md) | 2026-06-05 | +0.01 | 자사주 매입 지속 + Q1 배당 $0.3906 + Buy 컨센서스 목표가 $99 | 2 |
-| [OXY](tickers/OXY - Occidental Petroleum.md) | 2026-06-05 | +0.05 | CEO 교체(Hollub→Jackson) + 멕시코만 Bandit 광구 석유 발견 | 2 |
-| [SLB](tickers/SLB - Schlumberger Limited.md) | 2026-06-05 | -0.05 | Tachyus AI 인수 + 30일 +15% vs Q2 EPS -28.4% YoY 예상 | 2 |
-| [FCX](tickers/FCX - Freeport-McMoRan.md) | 2026-06-05 | +0.04 | Grasberg 복구 지연 (-) + $3B 신용한도 + UBS $75 상향 (구리 낙관론) | 2 |
-| [NEM](tickers/NEM - Newmont Corporation.md) | 2026-06-05 | +0.24 | Q1 FCF $31억 기록 (금 $4,900/oz) + $60억 자사주매입 | 2 |
-| [LIN](tickers/LIN - Linde plc.md) | 2026-06-05 | +0.17 | Q1 EPS +10% + 배당 33년 연속 + 삼성 반도체 팹 최대 딜 | 2 |
-| [APD](tickers/APD - Air Products and Chemicals.md) | 2026-06-05 | +0.17 | Q2 EPS +19% YoY + 웰스파고 OW 상향 + 삼성 반도체 팹 계약 | 2 |
+| [XOM](tickers/XOM - Exxon Mobil Corporation.md) | 2026-06-12 | +0.07 | 가이아나 $46.7억 이익 + 베네수엘라 협상 진전 vs 미·이란 딜 유가 하락 리스크 | 2 |
+| [CVX](tickers/CVX - Chevron Corporation.md) | 2026-06-12 | +0.10 | 미국 생산 +24% (헤스 통합) + $60억 주주환원 + Buy 컨센서스 $216 | 2 |
+| [COP](tickers/COP - ConocoPhillips.md) | 2026-06-12 | -0.01 | 잭스 에너지 피크 선정 vs 2026 생산 가이던스 2.295-2.325 MMBOED 하향 | 2 |
+| [SHEL](tickers/SHEL - Shell plc.md) | 2026-06-12 | +0.09 | CEO 유가 5~10년 상승 전망 + 나미비아 경질유 발견 + 자사주 매입 지속 | 2 |
+| [OXY](tickers/OXY - Occidental Petroleum.md) | 2026-06-12 | +0.09 | OxyChem $58억 부채 감소 + 6개월 +35% 랠리 — 밸류에이션 점검 국면 | 2 |
+| [SLB](tickers/SLB - Schlumberger Limited.md) | 2026-06-12 | +0.05 | 퀄컴 엣지 AI 파트너십 + 디지털 투자자의 날 — 디지털 전환 리더십 | 2 |
+| [FCX](tickers/FCX - Freeport-McMoRan.md) | 2026-06-12 | +0.01 | Q1 어닝 21% 상회 vs 그라스베르그 40% 삭감 + 구리 $5.80/lb 역대 최고 | 2 |
+| [NEM](tickers/NEM - Newmont Corporation.md) | 2026-06-12 | -0.16 | 금 가격 $4,331 (-16.6%) + 생산 -10% + AISC $1,680 — 이중 압박 | 2 |
+| [LIN](tickers/LIN - Linde plc.md) | 2026-06-12 | +0.11 | Q1 EPS +10% + 배당 $1.60 (6/18) + RBC 목표가 $570 상향 | 2 |
+| [APD](tickers/APD - Air Products and Chemicals.md) | 2026-06-12 | +0.03 | 나스닥 대비 YTD 초과 성과 + NEOM 그린수소 프로젝트 지속 | 1 |
 
 ### 금융
 
@@ -187,16 +187,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [NEE](tickers/NEE - NextEra Energy.md) | 2026-06-05 | +0.03 | Dominion $670억 합병 + 고금리·희석 우려로 -13.7% | 2 |
-| [SO](tickers/SO - The Southern Company.md) | 2026-06-05 | -0.01 | 조지아파워 요금 인하 명령 vs Vogtle 3·4호기 정격 출력 | 2 |
-| [DUK](tickers/DUK - Duke Energy Corporation.md) | 2026-06-05 | +0.08 | AI 데이터센터 원전 공급 테크 협의 + Q1 EPS $1.93 | 2 |
-| [AEP](tickers/AEP - American Electric Power.md) | 2026-06-05 | +0.08 | Q1 EPS +7.3% YoY + $417억 4년 자본투자 (7.9% 요금기반 성장) | 2 |
-| [EXC](tickers/EXC - Exelon Corporation.md) | 2026-06-05 | -0.01 | PECO 요금 신청 철회 + 송전 $1.5B 증액 — 혼조 신호 | 2 |
-| [CEG](tickers/CEG - Constellation Energy.md) | 2026-06-05 | +0.09 | MSFT+Meta 5,650MW 원전 PPA + YTD -25% → 역발상 매력 | 2 |
-| [VST](tickers/VST - Vistra Corp.md) | 2026-06-05 | +0.10 | Meta 20년 PPA 2,600MW + 로터스 가스발전 7개 인수 | 2 |
-| [SRE](tickers/SRE - Sempra.md) | 2026-06-05 | +0.03 | Voss Capital Oncor 분리 촉구 — 구조적 가치 해제 잠재력 | 2 |
-| [ED](tickers/ED - Consolidated Edison.md) | 2026-06-05 | 0.00 | 의미있는 뉴스 없음 — 49년 배당 성장 안정 인컴주 | 1 |
-| [D](tickers/D - Dominion Energy.md) | 2026-06-05 | +0.08 | NEE 합병 발표 + 130GW AI 파이프라인 + 규제 승인이 관건 | 2 |
+| [NEE](tickers/NEE - NextEra Energy.md) | 2026-06-12 | -0.04 | Dominion $670억 인수 발표 — NEE -9% 희석 우려 vs 세계 최대 유틸리티 창출 | 2 |
+| [SO](tickers/SO - The Southern Company.md) | 2026-06-12 | +0.08 | 보글 원전 3·4호기 완전 가동 + 조지아·앨라배마 AI 데이터센터 수요 성장 | 2 |
+| [DUK](tickers/DUK - Duke Energy Corporation.md) | 2026-06-12 | +0.08 | 캐롤라이나 10GW 신규 발전 조달 + 미국 최대 데이터센터 밀집 영역 서비스 | 2 |
+| [AEP](tickers/AEP - American Electric Power.md) | 2026-06-12 | +0.07 | Q1 EPS $1.64 + 가이던스 $6.12~6.42 유지 + 목표가 $141 (10% 상승 여력) | 2 |
+| [EXC](tickers/EXC - Exelon Corporation.md) | 2026-06-12 | +0.02 | 분기 배당 $0.42 + 순수 T&D — 시카고·필라델피아·볼티모어 AI 인프라 간접 수혜 | 2 |
+| [CEG](tickers/CEG - Constellation Energy.md) | 2026-06-12 | +0.19 | TMI FERC 면제 허가 + 5,650MW 하이퍼스케일러 PPA + 2차공모 오버행 해소 기대 | 2 |
+| [VST](tickers/VST - Vistra Corp.md) | 2026-06-12 | +0.21 | Q1 EBITDA +20% + EBITDA 가이던스 $68~76억 재확인 + 메타 2,600MW PPA | 2 |
+| [SRE](tickers/SRE - Sempra.md) | 2026-06-12 | +0.04 | 포트아서 LNG 1단계 건설 진행 + SoCal 유틸리티 에너지 효율 프로그램 안정적 | 2 |
+| [ED](tickers/ED - Consolidated Edison.md) | 2026-06-12 | +0.02 | YTD +14.5% 방어주 성과 + 49년 연속 배당 증가 (배당귀족 유지) | 1 |
+| [D](tickers/D - Dominion Energy.md) | 2026-06-12 | +0.10 | NEE $670억 인수로 오늘 주가 급등 — 버지니아 DC 클러스터(~70% 인터넷) 핵심 자산 | 2 |
 
 ### 조선 (한국)
 

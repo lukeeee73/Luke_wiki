@@ -1,7 +1,7 @@
 ---
 title: "FCX - Freeport-McMoRan Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-05
+updated: 2026-06-12
 domain: finance
 type: claim
 weight: reference
@@ -46,6 +46,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-12
+**narrative_score**: +0.01
+**key_events**: Q1 EPS $0.57 컨센서스 21% 상회 (발표 후 -12% 급락), 그라스베르그 H2 생산 60k톤/일로 40% 삭감 (구리 -9%, 금 -7% through 2031), 구리 가격 $5.80/lb 역대 최고
+**risks**: 그라스베르그 생산 차질이 2031년까지 지속, 발표 후 주가 급락으로 밸류에이션 우려 잔존
+
+> [!claim] (Investing.com, 2026-06-10) Freeport Q1 2026: EPS $0.57 Beats by 21%, Revenue $6.23B Beats by 9.3% — But Stock Plunged 12%
+> Q1 EPS $0.57 컨센서스 21% 상회, 매출 $62.3억 9.3% 상회. 그러나 고밸류에이션 우려로 발표 후 -12.35% 급락. impact: neutral / category: earnings
+
+> [!claim] (Reuters, 2026-06-09) Freeport Slashes Grasberg H2 2026 Production Guidance to 60k Tons/Day from 100k — 9% Copper Cuts Through 2031
+> 그라스베르그 H2 생산량 목표치 대비 40% 삭감 — 구리 9%, 금 7% 생산 2031년까지 하향 조정. impact: - / category: earnings
+
+> [!claim] (CNBC, 2026-06-12) Copper Price at $5.80/lb — Record Territory Driven by EV and AI Data Center Demand
+> 구리 가격 $5.80/lb 역대 최고 수준 — 전기차·AI 데이터센터 수요 구조적 강세. impact: + / category: macro
+
+> [!claim] (Investing.com, 2026-06-12) Freeport Stock Recovers to $66.34 — New All-Time High at $70.99
+> 발표 후 급락에서 회복해 $66.34 거래 중, 사상 최고가 $70.99 경신 이후 조정. impact: neutral / category: other
+
+**경쟁사 동향**:
+- NEM: 금 가격 하락 $4,331/oz, 생산 감소 — FCX 금 부산물 수익에도 부정적
+- BHP: BHP 구리 자산이 동일 수요 트렌드 공유하나 FCX 그라스베르그 생산 차질이 취약점
+
 ### 2026-06-05
 **narrative_score**: +0.04
 **key_events**: Grasberg 복구 당초 예상보다 지연, $3B 신용한도 신규 체결, UBS $75 목표주가 상향 (Buy)

@@ -1,7 +1,7 @@
 ---
 title: "XOM - Exxon Mobil Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-05
+updated: 2026-06-12
 domain: finance
 type: claim
 weight: reference
@@ -46,6 +46,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-12
+**narrative_score**: +0.07
+**key_events**: 베네수엘라 세르로 네그로 복귀 협상 진전, 가이아나 2025년 $46.7억 이익 기록 확인, 미·이란 협상 진전 — 이란 승인 가능성 시사
+**risks**: 미·이란 협상 타결 시 원유 공급 정상화 → 유가 하락, OPEC+ 188k bpd 추가 증산으로 공급 압박
+
+> [!claim] (Yahoo Finance, 2026-06-11) Exxon Mobil Negotiating Venezuela Cerro Negro Oil Deal — Potential Return After 19 Years
+> 베네수엘라 세르로 네그로 프로젝트 복귀 협상 진전 — 2007년 국유화 이후 19년 만. impact: + / category: other
+
+> [!claim] (CNBC, 2026-06-12) Iran War Day 105: Strait of Hormuz Still Disrupted, Oil Supply Tight
+> 이란 전쟁 105일째 호르무즈 해협 사실상 폐쇄 — 세계 원유 공급 11M bpd 감소 유지. impact: + / category: macro
+
+> [!claim] (Reuters, 2026-06-10) Exxon Guyana Operations Generated $4.67 Billion Profit in 2025 — Record High
+> 가이아나 사업부 2025년 $46.7억 이익 — 900k bpd 이상 생산 지속 중. impact: + / category: earnings
+
+> [!claim] (Bloomberg, 2026-06-12) US-Iran Deal Talks Advance — Could Ease Strait of Hormuz Restrictions
+> 미·이란 협상 진전 보도 — 이란 파르스 통신 승인 가능성 시사, 유가 하락 리스크. impact: - / category: macro
+
+**경쟁사 동향**:
+- CVX: 헤스 인수 효과로 미국 생산 +24%, $60억 주주환원 달성 — XOM 포트폴리오 최적화 압박 요인
+- COP: 생산 가이던스 2.295-2.325 MMBOED 하향 — 에너지 섹터 상류 센티먼트에 부담
+
 ### 2026-06-05
 **narrative_score**: +0.10
 **key_events**: 텍사스 법적 본거지 이전 주주 승인 (1882년 이후 첫 변경), 가이아나 900k bpd 분기 최고치, 홍콩 Esso 주유소 ~$6억 매각 검토
