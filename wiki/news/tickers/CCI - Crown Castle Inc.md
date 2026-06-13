@@ -1,7 +1,7 @@
 ---
 title: "CCI - Crown Castle Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-06
+updated: 2026-06-13
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-17**: CCI 파이버·소형기지국 $8.5B 매각 — 순수 타워 전략 실행력 확인 (verified) — 2026-06-06: Crown Castle IR 2026-05-31 공시로 매각 완료 공식 확인
 - [ ] **2026-05-17**: CCI 순수 타워 집중 — 5G 성장 수혜 vs 다각화 포기 트레이드오프 (pending) — 2026-06-06: CEO REITweek 발표에서 유기적 성장 전략 공식화, 트레이드오프 추적 중 (pending)
+[ ] **2026-06-13**: CCI AFFO 가이던스 $4.53~$4.65 달성 여부 — Q2 실적 발표에서 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -48,6 +49,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-13
+
+**narrative_score**: +0.20 (전회 +0.12, Δ +0.08)
+**key_events**: $85억 파이버·소형셀 매각 완료、2026 AFFO 가이던스 $4.53~$4.65 상향、분기 배당 $1.0625 선언
+**risks**: 5G 업그레이드 사이클 후반 진입 시 신규 임대 성장 둔화、파이버/소형셀 제외로 성장 다각화 제한
+
+> [!claim] (출처: SEC EDGAR, 2026-06-10) Crown Castle Raises 2026 AFFO Guidance to $4.53-$4.65 After Fiber/Small Cell Sale
+> CCI, $85억 파이버·소형셀 매각 완료 후 2026 AFFO 가이던스 상향. impact: + / category: earnings
+
+> [!claim] (출처: StockTitan, 2026-06-06) Crown Castle Declares $1.0625 Quarterly Dividend Payable June 30
+> CCI 분기 배당 $1.0625 선언, 지급일 6월 30일. impact: + / category: earnings
+
+> [!claim] (출처: StockTitan, 2026-06-02) Crown Castle CEO Presents at Nareit REITweek 2026 as Pure-Play Tower REIT
+> CCI CEO, REITweek에서 순수 미국 타워 REIT 전략 발표. impact: + / category: other
+
+**경쟁사 동향**:
+- AMT: DISH 계약 종료 역풍 — CCI의 순수 타워 전략 상대 우위 부각
+- EQIX: AI 데이터센터 수요 폭발 — 인프라 REIT 섹터 강세
+
+
 
 ### 2026-06-06
 

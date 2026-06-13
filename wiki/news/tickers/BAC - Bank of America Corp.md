@@ -1,7 +1,7 @@
 ---
 title: "BAC - Bank of America Corp. — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-06
+updated: 2026-06-13
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: Fed 2026 금리 인하 부재 — 은행 NIM 회복 시나리오 후퇴 (pending) ※ 2026-06-06: 연준 은행 건전성 확인(99% 건전), 금리 환경 변화 없음, 계속 모니터링
 - [x] **2026-05-17**: BAC Q1 EPS +25% 강력 어닝 비트 — 기초 펀더멘털 견조 (verified) ※ 2026-06-06: Fed 보고서 대형은행 ROE 14%(Q1) 확인, 섹터 전반 펀더멘털 견조 재확인
+[ ] **2026-06-13**: BofA 크로스보더 실시간 결제 도구 연내 출시 — 실제 출시 및 채택률 확인 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -48,6 +49,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-13
+
+**narrative_score**: +0.04 (전회 +0.13, Δ -0.09)
+**key_events**: 크로스보더 실시간 결제 도구 연내 출시、우선주 배당 공시、DOJ 디뱅킹 소환장
+**risks**: DOJ 규제 조사 장기화、AI 활용 규제 강화
+
+> [!claim] (출처: Yahoo Finance, 2026-06-09) Bank of America to Launch Cross-Border Real-Time Payments Tool
+> BofA, 연내 크로스보더 실시간 결제 플랫폼 출시 예정. impact: + / category: product
+
+> [!claim] (출처: Yahoo Finance, 2026-06-12) Bank of America Declares Preferred Stock Dividends for July-August 2026
+> BofA, 2026년 7~8월 우선주 배당 공시. impact: + / category: earnings
+
+> [!claim] (출처: Reuters, 2026-06-10) US Banking Regulators Increase AI Scrutiny; DOJ Subpoenas Big Banks
+> 금융당국 AI 규제 강화 + 법무부 디뱅킹 소환장. impact: - / category: regulation
+
+**경쟁사 동향**:
+- JPM: AI 에이전트 배포 + Prometheus 투자 — 기술 전략 선점
+- WFC: Q2 마켓 부문 중간 십대 % 성장 전망
+
+
 
 ### 2026-06-06
 

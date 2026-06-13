@@ -1,7 +1,7 @@
 ---
 title: "V - Visa Inc. — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-06
+updated: 2026-06-13
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: UK FCA V·MA·PayPal 디지털 지갑 경쟁 조사 — 규제 결과 대기 (pending) ※ 2026-06-06: 새로운 규제 결과 뉴스 없음, 계속 모니터링
 - [x] **2026-05-17**: Visa Agentic Ready 글로벌 확장 — AI 결제 선점 전략 (verified) ※ 2026-06-06: Canton Network 스테이블코인 결제 파일럿(Blockonomi) — AI/블록체인 결제 인프라 선점 전략 확장 확인
+[ ] **2026-06-13**: V·OpenAI 결제 통합 — 실제 AI 에이전트 거래량 및 수수료 기여도 확인 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -41,6 +42,8 @@ sources: []
 <!-- FACTS_START -->
 > [!fact] (확인: Motley Fool 2026-06-04 + Blockonomi 2026-06-04) Visa FQ2 2026 매출·EPS 컨센서스 상회, Canton Network 스테이블코인 결제 파일럿 착수
 > 복수 Tier-1 매체 보도. FQ2 실적 상회 및 블록체인 결제 인프라 확장 동시 확인.
+> [!fact] (확인: Yahoo Finance 2026-06-10 + TIKR 2026-06-11) V FQ2 2026 순매출 $112억 YoY +17%
+> 두 독립 매체 확인. 비자의 FQ2 순매출이 13년 만에 최고 성장률 +17%를 기록. CEO '2022년 이후 최강 성장'이라고 공식 확인.
 <!-- FACTS_END -->
 
 ---
@@ -48,6 +51,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-13
+
+**narrative_score**: +0.34 (전회 +0.17, Δ +0.17)
+**key_events**: FQ2 순매출 $112억 YoY +17% (13년 최고)、OpenAI 결제 통합、스테이블코인 파일럿
+**risks**: 스테이블코인 확산 시 네트워크 수수료 모델 잠식、주가 52주 고점 대비 할인
+
+> [!claim] (출처: TIKR, 2026-06-11) Visa Reports Q2 FY2026 Net Revenue +17% — Strongest in 13 Years
+> V FQ2 순매출 $112억, YoY +17% — 2013년 이후 최고 성장률. impact: + / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-06-10) Visa to Integrate Payments into OpenAI Platform for AI Agent Transactions
+> V, OpenAI 플랫폼 결제 통합 — AI 에이전트 거래 지원. impact: + / category: product
+
+> [!claim] (출처: Yahoo Finance, 2026-06-03) Visa Partners with Brale on Stablecoin Settlement on Canton Network
+> V, Brale와 Canton Network 스테이블코인 정산 파일럿. impact: + / category: product
+
+**경쟁사 동향**:
+- MA: Agent Pay for Machines 출시 + 교환수수료 합의 예비 승인
+- AXP: 신용카드 연체율 13% 15년 최고 — V 네트워크 모델 상대 우위 부각
+
+
 
 ### 2026-06-06
 

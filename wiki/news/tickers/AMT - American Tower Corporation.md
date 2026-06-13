@@ -1,7 +1,7 @@
 ---
 title: "AMT - American Tower Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-06
+updated: 2026-06-13
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: AMT 데이터센터 매출 +17% — AI·클라우드 수요 구조적 성장 (pending) — 2026-06-06: REITweek CEO 발표에서 150,000개 포트폴리오 언급, 수요 지속 확인 중 (pending)
 - [ ] **2026-05-17**: EchoStar 매출 손실로 AFFO 성장 2.7% 제한 — 개선 여부 추적 (pending) — 2026-06-06: 이번 주 뉴스에서 EchoStar 관련 업데이트 없음 (pending)
+[ ] **2026-06-13**: AMT DISH 계약 종료 영향 — 임대 수익 감소 규모 Q2 실적에서 확인 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-13
+
+**narrative_score**: +0.03 (전회 -0.06, Δ +0.09)
+**key_events**: 분기 배당 $1.79 선언 (권리락 6/12)、DISH 전략적 공동배치 계약 종료、유로 채권 일부 조기 상환
+**risks**: CCI 타워 전문화로 경쟁 격화、금리 환경에서 글로벌 타워 수익률 압박
+
+> [!claim] (출처: Barchart, 2026-06-06) American Tower Declares $1.79 Quarterly Distribution; Ex-Date June 12
+> AMT, 분기 배당 $1.79 선언 — 권리락일 6월 12일. impact: + / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-06-09) American Tower Ends Strategic Collocation Agreement with DISH
+> AMT, DISH와 전략적 공동배치 계약 종료. impact: - / category: other
+
+> [!claim] (출처: Yahoo Finance, 2026-06-08) American Tower Announces Partial Redemption of Euro Notes
+> AMT, 유로화 채권 일부 조기 상환. impact: neutral / category: other
+
+**경쟁사 동향**:
+- CCI: $85억 파이버·소형셀 매각 완료 + AFFO 가이던스 상향 — 순수 타워 경쟁 강화
+- EQIX: AI Fabric 예약 +70% — 데이터센터 REIT vs 타워 REIT 성장 격차 확대
+
+
 
 ### 2026-06-06
 

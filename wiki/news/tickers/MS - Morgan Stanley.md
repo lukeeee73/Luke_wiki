@@ -1,7 +1,7 @@
 ---
 title: "MS - Morgan Stanley — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-06
+updated: 2026-06-13
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: MS E*TRADE 암호화폐 거래 파일럿 — 리테일 암호화폐 수익 성장 (pending) ※ 2026-06-06: 새로운 확인/반증 뉴스 없음, 계속 모니터링
 - [ ] **2026-05-17**: FINRA MS 해외 부문 조사 — 규제 결과 대기 (pending) ※ 2026-06-06: 새로운 확인/반증 뉴스 없음, 계속 모니터링
+[ ] **2026-06-13**: MS 앤트로픽 IPO 실행 — 주관 수수료 및 IPO 시기 확인 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -48,6 +49,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-13
+
+**narrative_score**: +0.21 (전회 +0.19, Δ +0.02)
+**key_events**: 자산관리 $9조 AUM 달성($10조 목표 90%)、앤트로픽 IPO 공동 주관사、AI 주식플랜 플랫폼 모멘텀
+**risks**: AI IPO 파이프라인 과열 후 조정 시 수수료 급감、P/E 19.26 밸류에이션 부담
+
+> [!claim] (출처: GuruFocus, 2026-06-09) Morgan Stanley Wealth Management Reaches $9 Trillion AUM
+> MS 자산관리 $9조 달성, 연간 $1,000억 자문 유입. impact: + / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-06-11) Morgan Stanley Analysts Raise Earnings Estimates; AI Stock-Plan Push
+> 어닝 리비전 상향 + AI 주식플랜 플랫폼 모멘텀. impact: + / category: earnings
+
+> [!claim] (출처: Reuters, 2026-06-11) Anthropic Selects Morgan Stanley and Goldman Sachs to Lead IPO
+> MS, GS와 함께 앤트로픽 IPO 공동 주관 선정. impact: + / category: earnings
+
+**경쟁사 동향**:
+- GS: 스페이스X IPO 주관 + 앤트로픽 공동 주관 — GS·MS 대형 IPO 양분
+
+
 
 ### 2026-06-06
 

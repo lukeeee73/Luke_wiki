@@ -1,7 +1,7 @@
 ---
 title: "WFC - Wells Fargo and Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-06
+updated: 2026-06-13
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-17**: Fed WFC 자산제한 해제 — 대출 성장 본격화 시작 (verified) ※ 2026-06-06: CEO Scharf 번스타인 컨퍼런스에서 Q2 IB/트레이딩 중반 성장 전망 공개 — 자산제한 해제 후 성장 본격화 진입 확인
 - [ ] **2026-05-17**: WFC CEO ROTCE 17-18% 중기 목표 — 실행 가능성 추적 필요 (pending) ※ 2026-06-06: Q2 IB/트레이딩 강세 전망은 긍정적이나 ROTCE 목표 달성 여부는 계속 추적
+[ ] **2026-06-13**: WFC Q2 시장 부문 중간 십대 % 성장 전망 — Q2 실적 발표(7월)에서 검증 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-13
+
+**narrative_score**: +0.14 (전회 +0.18, Δ -0.04)
+**key_events**: Q2 시장 부문 중간 십대 % 성장 전망、분기 배당 $0.45 선언、DOJ 디뱅킹 소환장
+**risks**: DOJ 규제 조사、$50B NII 목표 달성 여부
+
+> [!claim] (출처: GuruFocus, 2026-06-09) Wells Fargo Projects Mid-Teen YoY Growth for Markets Business in Q2
+> WFC CFO, Q2 시장 부문 전년 대비 중간 십대 % 성장 전망 — 컨센서스 상회. impact: + / category: earnings
+
+> [!claim] (출처: Wells Fargo Newsroom, 2026-06-06) Wells Fargo Announces Quarterly Common Stock Dividend of $0.45
+> WFC 분기 보통주 배당 $0.45 선언. impact: + / category: earnings
+
+> [!claim] (출처: Reuters, 2026-06-10) DOJ Subpoenas JPMorgan, BofA, Wells Fargo Over Debanking Crackdown
+> DOJ, WFC에 계좌 강제 해지 소환장 발부. impact: - / category: regulation
+
+**경쟁사 동향**:
+- JPM: 주가 $320 역대 최고권, AI 에이전트 전략 발표
+- BAC: 크로스보더 결제 도구 연내 출시 예정
+
+
 
 ### 2026-06-06
 

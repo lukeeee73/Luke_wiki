@@ -1,7 +1,7 @@
 ---
 title: "DLR - Digital Realty Trust — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-06
+updated: 2026-06-13
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-17**: DLR Q1 매출 +16.2% — AI 수요 구조적 성장 확인 (verified) — 2026-06-06: 2026 가이던스 추가 상향 + Stifel $235 목표가로 성장 지속 확인
 - [x] **2026-05-17**: DLR Core FFO 가이던스 $8.00-$8.10 상향 — 수익성 개선 (verified) — 2026-06-06: StockTitan 2026-06-04 가이던스 재상향 보도로 추가 확인
+[ ] **2026-06-13**: DLR 바르셀로나 BCN1 가동률 — 첫 스페인 데이터센터 채택 속도 Q3 실적에서 확인 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -48,6 +49,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-13
+
+**narrative_score**: +0.12 (전회 +0.12, Δ 0.00)
+**key_events**: EPS 리비전 A+ 등급、Q2 배당 $1.22 선언、바르셀로나 BCN1 최초 스페인 데이터센터 개장
+**risks**: P/E 49.05 밸류에이션 부담 (등급 F)、EQIX 대비 AI 수요 성장 속도 열위
+
+> [!claim] (출처: GuruFocus, 2026-06-10) Digital Realty Leads Real Estate Stocks with A+ EPS Revision Grade
+> DLR, EPS 리비전 A+ 등급 — AI·클라우드 수요 기반 실적 모멘텀. impact: + / category: earnings
+
+> [!claim] (출처: StockTitan, 2026-06-06) Digital Realty Declares $1.22 Q2 Dividend; Opens Barcelona BCN1
+> DLR, Q2 배당 $1.22 + 바르셀로나 첫 데이터센터 BCN1 개장. impact: + / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-06-01) Digital Realty Shareholders Reaffirm Board, Reject Water Proposal
+> DLR 주총 이사회 재선임·용수 제안 부결 — 거버넌스 안정. impact: neutral / category: other
+
+**경쟁사 동향**:
+- EQIX: AI Fabric 예약 +70%·연결 3배 성장 — DLR 대비 AI 수요 흡수 속도 우위
+- AMT: DISH 계약 종료 — 인프라 REIT 재편 가속
+
+
 
 ### 2026-06-06
 

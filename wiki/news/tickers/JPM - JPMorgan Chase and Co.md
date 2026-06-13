@@ -1,7 +1,7 @@
 ---
 title: "JPM - JPMorgan Chase and Co. — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-06
+updated: 2026-06-13
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-17**: Dimon CEO 증시 과대평가·인플레이션 경고 — 단기 하향 시그널 (pending) ※ 2026-06-06: AI 열풍으로 주가 역대 최고권 — 경고 유효하나 시장 반응 없음, 계속 모니터링
 - [x] **2026-05-17**: JPM JLTXX 토큰화 MMF 출시 — 핀테크 확장 (verified) ※ 2026-06-06: The Bridge 토큰화 예금 네트워크 참여(Reuters)로 토큰화 전략 확장 확인
 - [ ] **2026-05-17**: 체이스 지점 연간 52개 확장 — 리테일 시장점유율 성장 (pending)
+[ ] **2026-06-13**: JPM AI 에이전트 하반기 배포 — 실제 배포 및 생산성 영향 검증 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +50,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-13
+
+**narrative_score**: +0.06 (전회 +0.19, Δ -0.13)
+**key_events**: AI 에이전트 하반기 배포 예정、Prometheus AI 스타트업 $120억 투자、DOJ 디뱅킹 소환장
+**risks**: DOJ 규제 조사 확대 가능성、Jamie Dimon 시장 과열 경고 지속
+
+> [!claim] (출처: Yahoo Finance, 2026-06-12) JPMorgan to Deploy AI Agents Capable of Operating Autonomously for Hours
+> JPM, 올해 하반기 수 시간 자율 운용 가능한 AI 에이전트 배포 예정. impact: + / category: product
+
+> [!claim] (출처: Reuters, 2026-06-11) JPMorgan Backs Jeff Bezos Prometheus AI Startup in $12B Funding Round
+> JPM, 베조스 AI 스타트업 Prometheus $120억 라운드 참여. impact: + / category: m&a
+
+> [!claim] (출처: Reuters, 2026-06-10) DOJ Subpoenas JPMorgan, BofA, Wells Fargo Over Debanking Crackdown
+> 법무부, JPM·BAC·WFC에 계좌 강제 해지 소환장 발부. impact: - / category: regulation
+
+> [!claim] (출처: Yahoo Finance, 2026-06-09) JPMorgan Launches Chase Business Credit Journey Tool
+> 체이스, 소기업용 Business Credit Journey 도구 출시. impact: + / category: product
+
+**경쟁사 동향**:
+- GS: 스페이스X IPO 주관 + 앤트로픽 IPO 공동 주관 — IB 수수료 집중
+- BAC: 크로스보더 실시간 결제 출시 예정
+
+
 
 ### 2026-06-06
 

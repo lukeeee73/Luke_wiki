@@ -1,7 +1,7 @@
 ---
 title: "AXP - American Express Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-06
+updated: 2026-06-13
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: AXP 골드 카드 ChatGPT 혜택 — AI 제휴 카드 차별화 전략 (pending) ※ 2026-06-06: 새로운 확인/반증 뉴스 없음, 계속 모니터링
 - [ ] **2026-05-17**: AXP 글로벌 비즈니스 트래블 매각 — 핵심 카드 사업 집중 (pending) ※ 2026-06-06: 새로운 확인/반증 뉴스 없음, 계속 모니터링
+[ ] **2026-06-13**: AXP 신용카드 연체율 13% 추세 — Q2 실적(7월)에서 대손충당금 증가 여부 확인 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-13
+
+**narrative_score**: +0.06 (전회 -0.04, Δ +0.10)
+**key_events**: CFO 수수료 매출 전망 긍정 발언 (+1.9%)、델타 스카이마일스 카드 전면 개편、신용카드 연체율 13% (15년 최고)
+**risks**: 소비자 신용 악화 가속 시 대손충당금 급증、Q2 실적 압박
+
+> [!claim] (출처: GuruFocus, 2026-06-09) American Express CFO Upbeat on Fee Revenue; Stock Up 1.9%
+> AXP CFO, 연말까지 수수료 매출 전망 긍정 발언 + 주가 +1.9%. impact: + / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-06-04) American Express and Delta Refresh SkyMiles Card Benefits
+> AXP·델타, 스카이마일스 카드 혜택 전면 개편. impact: + / category: product
+
+> [!claim] (출처: TradingKey, 2026-06-03) American Express Credit Card Delinquency Rate Hits 13% — 15-Year High
+> AXP 신용카드 연체율 13% — 15년 만에 최고, 주가 -3.25%. impact: - / category: earnings
+
+**경쟁사 동향**:
+- V: FQ2 +17% + OpenAI 결제 통합 — 네트워크 모델 우위
+- MA: Agent Pay 출시 + 교환수수료 합의 — AXP 대비 신용 리스크 없음
+
+
 
 ### 2026-06-06
 

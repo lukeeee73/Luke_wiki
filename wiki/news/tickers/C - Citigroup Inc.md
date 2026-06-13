@@ -1,7 +1,7 @@
 ---
 title: "C - Citigroup Inc. — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-06
+updated: 2026-06-13
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: 씨티 ROTCE 14-15% 중기 목표 — 구조개혁 진척도 추적 (pending) ※ 2026-06-06: Q1 매출 $24.6B +14% YoY 강세, 주가 다년간 고점 경신 — 구조개혁 성과 가시화 중, 목표 달성 가능성 높아짐
 - [ ] **2026-05-17**: 씨티 아시아·중국 확장 승인 — 신흥시장 성장 동력 (pending) ※ 2026-06-06: 새로운 확인 뉴스 없음, 계속 모니터링
+[ ] **2026-06-13**: 씨티 블록체인 프라이빗에쿼티 플랫폼 채택률 — 주요 PE 사의 실제 사용 여부 7/14일 실적에서 확인 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -41,6 +42,8 @@ sources: []
 <!-- FACTS_START -->
 > [!fact] (확인: Yahoo Finance 2026-06-01 + CNBC 2026-06-03) Citigroup Q1 2026 매출 $24.6B, +14% YoY
 > 복수 Tier-1 매체 보도. Q1 강세 펀더멘털 확인 — 구조개혁 효과 가시화.
+> [!fact] (확인: Yahoo Finance 2026-06-11 + GuruFocus 2026-06-11) 씨티, 블록체인 기반 토큰화 주식 거래 플랫폼 출시
+> 두 독립 Tier-2 매체가 동일 사실 보도. 씨티가 Digital Depositary Receipts 및 후기 스타트업 주식 거래용 블록체인 플랫폼 공식 출시, 주가 +5.6% 반응.
 <!-- FACTS_END -->
 
 ---
@@ -48,6 +51,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-13
+
+**narrative_score**: +0.25 (전회 +0.19, Δ +0.06)
+**key_events**: 블록체인 토큰화 주식 거래 플랫폼 출시 (+5.6%)、CFO 시장 매출 고단위~저이중 % 성장 전망、신채권 발행+구채권 상환
+**risks**: 글로벌 구조조정 완성 여부、규제 자본 요건 강화
+
+> [!claim] (출처: Yahoo Finance, 2026-06-11) Citigroup Launches Blockchain Platform for Tokenized Private Equity Access
+> 씨티, 블록체인 기반 후기 스타트업 주식 거래 플랫폼 출시 — 주가 +5.6%. impact: + / category: product
+
+> [!claim] (출처: GuruFocus, 2026-06-09) Citi CFO Projects High Single-Digit to Low Double-Digit Markets Revenue Growth
+> CFO Luchetti, Q2 시장 매출 고단위~저이중 % 성장 전망 (애널 예상 2% 대폭 상회). impact: + / category: earnings
+
+> [!claim] (출처: GuruFocus, 2026-06-11) Citigroup Issues Senior Notes, Redeems 2027 Debt
+> 씨티, 신규 선순위 채권 발행 + 2027 채권 조기 상환. impact: neutral / category: other
+
+**경쟁사 동향**:
+- MS: 앤트로픽 IPO 공동 주관 + 자산관리 $9조
+- JPM: AI 에이전트 배포 + 디뱅킹 DOJ 소환장 동일 수령
+
+
 
 ### 2026-06-06
 

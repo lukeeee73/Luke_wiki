@@ -1,7 +1,7 @@
 ---
 title: "BRK-B - Berkshire Hathaway — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-06
+updated: 2026-06-13
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-17**: BRK Abel 체제 첫 분기 영업이익 $11.35B·현금 $397B — 경영 연속성 확인 (verified) ※ 2026-06-06: Alphabet $10B 투자(6% 할인) + 시총 $1.02조 돌파 — Abel 체제 적극적 투자 집행으로 경영 연속성 강하게 확인
 - [ ] **2026-05-17**: BRK 델타항공 $2.6B 신규 투자 — 항공 섹터 재진입 (pending) ※ 2026-06-06: 새로운 확인/반증 뉴스 없음, 계속 모니터링
+[ ] **2026-06-13**: BRK 알파벳 $100억 AI 투자 수익률 — AI 인프라 수익화 타임라인 1~2년 추적 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -41,6 +42,8 @@ sources: []
 <!-- FACTS_START -->
 > [!fact] (확인: CNBC 2026-06-01 + StockAnalysis 2026-06-02) Berkshire Hathaway 시총 $1.02조 돌파, Alphabet $10B 지분 투자
 > 복수 Tier-1 매체 보도. 시총 $1조 클럽 진입 및 AI 인프라 기업 대규모 투자 확인.
+> [!fact] (확인: CNBC 2026-06-12 + Morningstar 2026-06-12) 버크셔, 알파벳 $80B AI 공모에 $10B 참여
+> CNBC·Morningstar 동시 보도. Greg Abel CEO 체제 첫 대형 AI 투자. 알파벳이 6/1 발표한 $80B 공모에 버크셔가 $10B 투자 약정 — AI 테마 전략적 전환점.
 <!-- FACTS_END -->
 
 ---
@@ -48,6 +51,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-13
+
+**narrative_score**: +0.12 (전회 +0.15, Δ -0.03)
+**key_events**: 알파벳 $80억 AI 공모에 $100억 투자、시총 $1.05조 돌파、Greg Abel CEO 6개월 안정화
+**risks**: 버핏 없는 AI 투자 실행력 검증 필요、포트폴리오 집중도 리스크(애플 30%+)
+
+> [!claim] (출처: CNBC, 2026-06-12) Berkshire Hathaway to Invest $10B in Alphabet's $80B AI Infrastructure Offering
+> 버크셔, 알파벳 $80B AI 인프라 공모에 $10B 투자 참여. impact: + / category: m&a
+
+> [!claim] (출처: Morningstar, 2026-06-12) Berkshire Hathaway Market Cap Surpasses $1.05 Trillion
+> 버크셔 시총 $1.05조 돌파. impact: + / category: other
+
+> [!claim] (출처: Morningstar, 2026-06-10) Greg Abel Leads Berkshire Hathaway as CEO Since 2026
+> Greg Abel CEO 체제 6개월 안정화. impact: neutral / category: other
+
+**경쟁사 동향**:
+- V: FQ2 +17% — 버크셔 포트폴리오 비자 보유 가치 제고
+- JPM: 주가 $320 역대 최고권 — 버크셔 금융주 포트폴리오 강세
+
+
 
 ### 2026-06-06
 
