@@ -1,7 +1,7 @@
 ---
 title: "VICI - VICI Properties Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-06
+updated: 2026-06-13
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: VICI 100% 입주율 유지 — 게이밍 REIT 안정성 최고 (pending) — 2026-06-06: 이번 주 뉴스에서 입주율 업데이트 없음, 추적 중 (pending)
 - [x] **2026-05-17**: VICI 골든 엔터테인먼트 $1.16B 인수 — 포트폴리오 확장 (verified) — 2026-06-06: BusinessWire 2026-06-04 보도로 골든 엔터테인먼트 카지노 7개 $1.16B 인수 완료 공식 확인
+[ ] **2026-06-13**: VICI One Beverly Hills $15억 메자닌 대출 수익률 — 비전통 부동산 투자 성과 추적 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -48,6 +49,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-13
+
+**narrative_score**: +0.17 (전회 +0.21, Δ -0.04)
+**key_events**: 연간 AFFO 가이던스 상향 + Q2 배당 $0.45、One Beverly Hills $15억 메자닌 대출、캐나다 카지노(Gamehost) 인수 진행 중
+**risks**: 카지노 산업 경기 민감도、메자닌 대출 수익률 압박
+
+> [!claim] (출처: BusinessWire, 2026-06-04) VICI Properties Declares $0.45 Quarterly Dividend; Raises Full-Year AFFO Guidance
+> VICI, Q2 배당 $0.45 + 연간 AFFO 가이던스 상향. impact: + / category: earnings
+
+> [!claim] (출처: ad-hoc-news, 2026-06-10) VICI Properties MACD Long Signal on June 10 amid Strategic Expansion
+> VICI, MACD 롱 시그널 + 52주 레인지 상단 거래. impact: + / category: other
+
+> [!claim] (출처: Investing.com, 2026-06-08) VICI Properties Agrees to $1.5B Mezzanine Loan for One Beverly Hills
+> VICI, One Beverly Hills $15억 메자닌 대출 + 캐나다 카지노 인수 진행. impact: + / category: m&a
+
+**경쟁사 동향**:
+- SPG: Q1 순이익 +15.9% — 오락·소매 부동산 섹터 동반 강세
+- PSA: NSA 결합 제안으로 대형 M&A 추진 — REIT 섹터 M&A 물결
+
+
 
 ### 2026-06-06
 

@@ -1,7 +1,7 @@
 ---
 title: "MA - Mastercard Incorporated — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-06
+updated: 2026-06-13
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: UK FCA MA·V·PayPal 디지털 지갑 조사 — 규제 결과 대기 (pending) ※ 2026-06-06: 새로운 규제 결과 뉴스 없음, 계속 모니터링
 - [x] **2026-05-17**: MA-JD닷컴 AI Agent Pay 라이브 시연 — AI 결제 선도 전략 (verified) ※ 2026-06-06: Stripe·Visa와 함께 스테이블코인 플랫폼 참여 + NY BitLicense 취득(CoinDesk) — AI/블록체인 결제 선도 전략 확장 확인
+[ ] **2026-06-13**: MA Agent Pay for Machines — AI 에이전트 결제 시장 점유율 확보 여부 하반기 추적 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +40,8 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (확인: TipRanks 2026-06-08 + Barchart 2026-06-09) V·MA 교환수수료 합의 예비 승인
+> TipRanks·Barchart 보도. 비자와 마스터카드의 교환수수료 집단소송 합의안이 법원의 예비 승인을 받음. 수년간 법적 불확실성 해소.
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +49,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-13
+
+**narrative_score**: +0.17 (전회 -0.03, Δ +0.20)
+**key_events**: Agent Pay for Machines 출시、교환수수료 합의 예비 승인、CFO 교체(Ling Hai)、$50억 채권 발행
+**risks**: 주가 $600 고점 대비 장기 하락 추세、V의 OpenAI 통합 대비 AI 결제 열위
+
+> [!claim] (출처: Yahoo Finance, 2026-06-10) Mastercard Launches Agent Pay for Machines
+> MA, AI 기기용 결제 시스템 'Agent Pay for Machines' 출시. impact: + / category: product
+
+> [!claim] (출처: Barchart, 2026-06-09) Visa and Mastercard Granted Preliminary Approval for Swipe Fee Settlement
+> V·MA 교환수수료 합의안 예비 승인 — 법적 불확실성 해소. impact: + / category: regulation
+
+> [!claim] (출처: TipRanks, 2026-06-08) Mastercard Completes $5 Billion Multi-Tranche Debt Offering
+> MA, $50억 채권 발행 완료 (2028~2036 만기). impact: neutral / category: other
+
+> [!claim] (출처: Barchart, 2026-06-07) Mastercard Names Ling Hai as New CFO
+> Ling Hai, 신임 CFO로 선임. impact: neutral / category: other
+
+**경쟁사 동향**:
+- V: FQ2 +17% + OpenAI 통합 선점 — 디지털 결제 모멘텀 우위
+- AXP: 연체율 13% 15년 최고 — 신용 모델 압박
+
+
 
 ### 2026-06-06
 

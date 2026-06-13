@@ -1,7 +1,7 @@
 ---
 title: "O - Realty Income Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-06
+updated: 2026-06-13
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-17**: O 670회 연속 월배당·134번째 인상 — 배당 신뢰성 최고 수준 (verified) — 2026-06-06: Realty Income IR 2026-06-01 공시로 671번째 연속 월배당 $0.2705 확인, 31년+ 연속 배당 기록 유지
 - [ ] **2026-05-17**: O GIC·아폴로 자본 파트너십 — 투자 규모 $9.5B로 확대 (pending) — 2026-06-06: 이번 주 뉴스에서 업데이트 없음, 추적 중 (pending)
+[ ] **2026-06-13**: O 배당 수익률 5.32% 매력도 — 금리 환경 변화 시 수익률 스프레드 추적 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -48,6 +49,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-13
+
+**narrative_score**: +0.07 (전회 +0.12, Δ -0.05)
+**key_events**: 월 배당 $0.271로 0.2% 인상 (수익률 5.32%)、REITweek CEO 발표 (6/3)
+**risks**: 장기 채권과의 yield 스프레드 축소、금리 고정 환경에서 배당 매력도 상대적 감소
+
+> [!claim] (출처: GuruFocus, 2026-06-09) Realty Income Raises Monthly Dividend to $0.271, Up 0.2% MoM
+> O, 월 배당 $0.271로 0.2% 인상 — 지급일 7월 15일, 수익률 5.32%. impact: + / category: earnings
+
+> [!claim] (출처: StockTitan, 2026-06-03) Realty Income CEO Presents at Nareit REITweek 2026
+> O CEO Sumit Roy, REITweek에서 순임대 전략 발표. impact: neutral / category: other
+
+**경쟁사 동향**:
+- SPG: Q1 순이익 +15.9% + FFO 가이던스 상향 — 소매 부동산 섹터 견조
+- VICI: AFFO 가이던스 상향 + One Beverly Hills 투자 — REIT 섹터 공격적 성장
+
+
 
 ### 2026-06-06
 

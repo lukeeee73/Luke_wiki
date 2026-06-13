@@ -1,7 +1,7 @@
 ---
 title: "GS - The Goldman Sachs Group — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-06
+updated: 2026-06-13
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-17**: GS 사모 크레딧 신중론 — 리스크 관리 신호 (verified) ※ 2026-06-06: CEO가 AI 붐 투자자 탐욕 경고(GuruFocus) — 사모 크레딧 신중론과 일관된 리스크 관리 기조 확인
 - [x] **2026-05-17**: GS 주가 12개월 +65% — 추가 상승 여력 평가 필요 (verified) ※ 2026-06-06: 1년 주가 +84%로 추가 상승 확인, 단 애널리스트 컨센서스 Hold·목표주가 현재가 대비 -13%로 상승 여력 제한적
+[ ] **2026-06-13**: GS 앤트로픽 IPO 공동 주관 — IPO 시기 및 수수료 규모 확인 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +40,8 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (확인: Reuters 2026-06-11 + CNBC 2026-06-12) GS 스페이스X IPO 주관사 선정
+> Reuters와 CNBC 양측 보도. GS가 미국 역사상 최대 규모 IPO(스페이스X)의 주관사를 맡아 주가 +2.9% 반응. 앤트로픽 IPO 공동 주관사(MS와 함께)도 동시 확인.
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +49,29 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-13
+
+**narrative_score**: +0.32 (전회 +0.11, Δ +0.21)
+**key_events**: 스페이스X 미국 최대 IPO 주관 (+2.9%)、앤트로픽 IPO 공동 주관사 선정、JP모건 목표주가 $900 상향
+**risks**: AI 시장 과열 버블 붕괴 시 IPO 파이프라인 급감、솔로몬 CEO '탐욕 모드' 경고
+
+> [!claim] (출처: CNBC, 2026-06-12) Goldman Sachs Leads SpaceX IPO — Largest IPO in US History
+> GS, 미국 사상 최대 IPO 스페이스X 주관 — 주가 +2.9%. impact: + / category: earnings
+
+> [!claim] (출처: Reuters, 2026-06-11) Anthropic Selects Goldman Sachs and Morgan Stanley to Lead IPO
+> GS·MS, 앤트로픽 IPO 공동 주관사 선정. impact: + / category: earnings
+
+> [!claim] (출처: Bloomberg, 2026-06-10) Goldman Sachs CEO Solomon Says Investors in 'Greed Mode'
+> 솔로몬 CEO, AI 기업 IPO 대규모 파도 예고 + 투자자 탐욕 경고. impact: + / category: macro
+
+> [!claim] (출처: Yahoo Finance, 2026-06-12) JPMorgan Raises Goldman Sachs Price Target to $900
+> JP모건, GS 목표주가 $826→$900 상향. impact: + / category: other
+
+**경쟁사 동향**:
+- MS: 앤트로픽 IPO 공동 주관 — GS와 함께 AI IPO 시장 양분
+
+
 
 ### 2026-06-06
 

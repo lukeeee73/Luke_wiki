@@ -1,7 +1,7 @@
 ---
 title: "PSA - Public Storage — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-06
+updated: 2026-06-13
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: PSA Q1 매출 -18% 미스·동일점포 NOI +0.4% — 자가창고 수요 약세 (pending) — 2026-06-06: 투자자 업데이트에서 동일점포 점유율 92.2%, 이탈률 16.4%로 개선 부분 확인, 구조적 수요 약세 여부는 추적 중 (pending)
 - [x] **2026-05-17**: PSA NSA $5.63B 인수 — 규모 확대로 약점 보완 전략 (verified) — 2026-06-06: StockTitan 2026-06-04 보도로 NSA 인수 제안 업데이트 확인: +30% 부동산, 시너지 $110-130M, FFO +$0.10-0.20 (2027)
+[ ] **2026-06-13**: PSA·NSA 결합 딜 규제 승인 — FTC 심사 결과 6개월 내 확인 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -48,6 +49,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-13
+
+**narrative_score**: +0.17 (전회 +0.16, Δ +0.01)
+**key_events**: NSA 전략적 결합 제안 (자산 +30%, 시너지 $1.1~1.3억)、Q2 배당 $3.00 선언、Q1 점유율 92.2%·업계 1위 NOI 마진
+**risks**: NSA 딜 규제 승인 불확실성、레버리지 확대 시 금리 민감도 증가
+
+> [!claim] (출처: StockTitan, 2026-06-10) Public Storage Proposes Strategic Combination with National Storage Affiliates (NSA)
+> PSA, NSA 결합 제안 — 자산 +30%, 시너지 $1.1~1.3억, 2027 FFO +$0.10~0.20 기대. impact: + / category: m&a
+
+> [!claim] (출처: StockTitan, 2026-06-06) Public Storage Q2 Dividend: $3.00 per Common Share
+> PSA Q2 배당 $3.00, 지급일 6월 30일. impact: + / category: earnings
+
+> [!claim] (출처: StockTitan, 2026-06-09) Public Storage Reports 92.2% Average Occupancy, #1 NOI Margin in Q1
+> PSA Q1: 점유율 92.2%, 업계 1위 NOI 마진. impact: + / category: earnings
+
+**경쟁사 동향**:
+- PLD: 52주 신고가 + 복수 기관 목표가 상향 — 산업 REIT 강세
+- WELL: Q1 모든 지표 호조 — 헬스케어 REIT 회복세
+
+
 
 ### 2026-06-06
 

@@ -1,7 +1,7 @@
 ---
 title: "WELL - Welltower Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-06
+updated: 2026-06-13
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-17**: WELL Q1 동일점포 NOI +16.4% — 고령화 수요 구조적 성장 확인 (verified) — 2026-06-06: AD HOC News 2026-06-01/02 보도로 동일점포 NOI +16.4%, 노인주택 점유율 88.8%, FFO +23% 추가 확인
 - [x] **2026-05-17**: WELL 목표주가 일제 상향 (최고 $255) — 프리미엄 밸류에이션 정당성 (verified) — 2026-06-06: 주가 $200 근접, 낮은 레버리지 확인으로 프리미엄 밸류에이션 정당성 지지 (verified)
+[ ] **2026-06-13**: WELL say-on-pay 부결 후 경영진 보수 구조 개혁 — 6개월 내 새 보상 체계 발표 여부 확인 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -48,6 +49,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-13
+
+**narrative_score**: +0.15 (전회 +0.19, Δ -0.04)
+**key_events**: Q1 FFO·동일점포 NOI 성장 + 시니어주택 점유율·임대료 개선、+3.4% (6/9) 섹터 초과、주총 say-on-pay 부결
+**risks**: 경영진 보수 구조 개혁 압박、시니어주택 점유율 회복 지속 여부
+
+> [!claim] (출처: TradingKey, 2026-06-09) Welltower Stock +3.4% on June 9 as Healthcare REIT Outperforms
+> WELL, 6월 9일 +3.4% 섹터 초과 성과. impact: + / category: other
+
+> [!claim] (출처: ad-hoc-news, 2026-06-10) Welltower Q1 2026: FFO, Same-Store NOI Growth, Occupancy Improvement
+> WELL Q1: FFO 성장 + 동일점포 NOI + 점유율·임대료 개선 — 모든 지표 호조. impact: + / category: earnings
+
+> [!claim] (출처: ad-hoc-news, 2026-06-08) Welltower Shareholders Reject Say-on-Pay Proposal
+> WELL 주총 경영진 보수 안건 부결 — 거버넌스 우려, 주가 -3.4% (6/8). impact: - / category: regulation
+
+**경쟁사 동향**:
+- PSA: NSA 전략적 결합 제안 + 운영 효율성 — REIT 섹터 M&A 물결
+- SPG: Q1 순이익 +15.9% — 소매 부동산 섹터 견조
+
+
 
 ### 2026-06-06
 
