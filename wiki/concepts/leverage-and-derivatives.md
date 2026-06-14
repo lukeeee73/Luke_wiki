@@ -1,7 +1,7 @@
 ---
 title: "레버리지와 파생상품 (선물·스왑·레버리지 ETF)"
 created: 2026-04-12
-updated: 2026-04-12
+updated: 2026-06-09
 domain: finance
 type: framework
 weight: important
@@ -12,7 +12,7 @@ sources: [sources/ray-dalio-all-weather-portfolio.md]
 
 # 레버리지와 파생상품 (선물·스왑·레버리지 ETF)
 
-[All Weather Portfolio](../topics/all-weather-portfolio.md)와 [Risk Parity](risk-parity.md)가 실제로 구현되려면, 저변동성 자산의 리스크를 인위적으로 증폭시켜야 한다. 이때 사용하는 도구가 파생상품과 레버리지다.
+[All Weather Portfolio](../topics/all-weather-portfolio.md)와 [Risk Parity](../principles/risk-parity.md)가 실제로 구현되려면, 저변동성 자산의 리스크를 인위적으로 증폭시켜야 한다. 이때 사용하는 도구가 파생상품과 레버리지다.
 
 ## 레버리지의 본질
 
@@ -28,7 +28,7 @@ sources: [sources/ray-dalio-all-weather-portfolio.md]
 - 노출되는 포지션: **10억원어치 국채 가격 변동**
 - 금리 하락으로 국채 가격 +1% → 수익 **1,000만원** (증거금 대비 **+20%**)
 
-작은 원금으로 큰 포지션을 잡는 이 구조가 [Risk Parity](risk-parity.md)에서 채권의 변동성을 주식 수준으로 증폭시키는 핵심 메커니즘이다.
+작은 원금으로 큰 포지션을 잡는 이 구조가 [Risk Parity](../principles/risk-parity.md)에서 채권의 변동성을 주식 수준으로 증폭시키는 핵심 메커니즘이다.
 
 ## 스왑 (Swap)
 
@@ -73,5 +73,5 @@ TQQQ처럼 나스닥 3배 수익을 추구하는 ETF는 **매일 장 마감 후 
 ## 관련 페이지
 
 - [All Weather Portfolio](../topics/all-weather-portfolio.md) - 파생상품을 이용해 Risk Parity를 구현하는 대표 전략
-- [Risk Parity](risk-parity.md) - 레버리지가 필요한 이유
+- [Risk Parity](../principles/risk-parity.md) - 레버리지가 필요한 이유
 - [개인 투자자용 All Weather 변형](../syntheses/personal-all-weather-variant.md) - 레버리지를 포기한 설계

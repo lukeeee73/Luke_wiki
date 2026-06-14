@@ -15,6 +15,16 @@ sources: []
 
 ## 2026-06-09
 
+### [MAINTENANCE] Obsidian graph finance/index 중복 덩어리 정리
+
+- **문제**: 자동 뉴스 종목 로그가 Finance 도메인 인덱스에 대량 직접 링크되어 Obsidian graph에서 `finance` 중심의 거대한 중복 덩어리가 생기고, 일부 예전 `news/{TICKER}.md` 링크가 실제 `news/tickers/` 위치와 달라 눌렀을 때 깨질 수 있었다.
+- **조치**:
+  - `.obsidian/graph.json` — 기본 graph에서 `wiki/news` 제외 및 unresolved 노드 숨김
+  - `wiki/domains/finance.md` — 종목별 직접 링크 목록 제거, dashboard만 진입점으로 유지
+  - `wiki/index.md` — 종목 로그 경로 안내를 `wiki/news/tickers/`로 수정
+  - `scripts/validate_vault.py` — 깨진 상대 markdown 링크 검증 추가
+  - 일부 concept 링크의 이동된 대상 경로 수정
+
 ### [INGEST] 반도체·AI 칩 가치사슬 종합 학습 노트
 
 - **작업**: "모래에서 AI 칩까지" 반도체 가치사슬 종합 학습 노트를 수집·정제하여 위키 통합
