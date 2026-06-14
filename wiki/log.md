@@ -1,7 +1,7 @@
 ---
 title: "Wiki Log"
 created: 2026-04-05
-updated: 2026-06-09
+updated: 2026-06-14
 tags: [log, meta]
 sources: []
 ---
@@ -10,6 +10,30 @@ sources: []
 # Wiki Log
 
 위키의 모든 작업 이력을 시간순으로 기록합니다.
+
+---
+
+## 2026-06-14
+
+### [INGEST] AI 신약 개발 — 발굴은 압축, 임상은 불변
+
+- **작업**: "AI in 신약 개발" 개인 학습 노트(Obsidian 형식)를 수집·정제하여 위키 통합
+- **원본 유형**: 개인 학습 노트 (Luke) — AI 바이오 산업 분석 / 투자 판단용
+- **생성된 파일**:
+  - `sources/ai-drug-discovery.md` — 원본 학습 노트 (불변 보존, Obsidian `[[wikilink]]` 원형 유지)
+  - `wiki/topics/ai-drug-discovery.md` — 정제 페이지 (`type: claim`, `domain: ai, finance`, `confidence: medium`)
+- **업데이트된 파일**:
+  - `wiki/index.md` — Topics > AI 에 신규 페이지 링크 추가
+  - `wiki/domains/ai.md` — 사례/분석 섹션에 링크 추가
+  - `wiki/domains/finance.md` — 전문가 주장/분석 섹션에 링크 추가 (경제적 함의 측면)
+- **주요 내용**:
+  1. **핵심 명제**: "발굴은 압축, 임상은 불변" — AI는 초기 발굴(time-to-clinic)을 압축하나 임상 성공 확률은 못 움직임
+  2. **두 개의 엔진**: ① 특화 과학 모델(AlphaFold3 구조 예측 → IsoDDE 친화도·포켓·분자 생성) ② 추론·오케스트레이션(GPT-Rosalind)
+  3. **AI 경계의 실증**: 임상 1상 80~90%(전통 40~65%) → 2상 ~40%(산업 평균 회귀). 1상=화학·구조 탐색 문제(AI 강점), 2상=인간 생물학 효능(AI 한계)
+  4. **경제적 함의**: 50:1 바이오벅스 비율(헤드라인 5B+ 딜의 실제 계약금 2%) — 시장이 임상 미입증을 가격에 반영. 중국 제약 라이선싱 50:1 구조와 동일 논리
+  5. **GPT-Rosalind**: OpenAI 생명과학 첫 모델(2026.04.17), 분자 설계가 아닌 추론 레이어, 이중용도 위험 → 제한 접근 + Rosalind Biodefense
+- **인식론 처리**: 임상 성공률·2a상 완료는 `[!fact]`, IsoDDE/OpenAI 발표는 `[!claim]`(반론 가능성 명시), 핵심 명제·한계 구조 분석은 `[!judgment]`로 구분
+- **후속 페이지 후보 (미작성)**: 중국 제약 라이선싱, AlphaFold2/3, Jevons Paradox, 복잡성 프리미엄
 
 ---
 
