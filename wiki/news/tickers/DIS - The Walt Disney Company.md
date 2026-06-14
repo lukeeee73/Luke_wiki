@@ -1,7 +1,7 @@
 ---
 title: "DIS - The Walt Disney Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-14
 domain: finance
 type: claim
 weight: reference
@@ -28,16 +28,40 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: 디즈니+ 두 자릿수 스트리밍 마진이 FY2027에도 유지·확대될 것인가 (pending)
 - [ ] **2026-05-17**: 국내 테마파크 방문객 -1%가 소비자 지출 둔화의 선행 신호인가, 일시적 현상인가 (pending)
+- [ ] **2026-06-14**: Josh D'Amaro 신임 CEO 하 스트리밍 수익화 모멘텀이 Q3에도 지속될 것인가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
 
 > [!fact] (Disney IR + Yahoo Finance, 2026-06-05) Q2 FY26 스트리밍 영업이익 +88%, SVOD 마진 11% 흑자 정착 확인.
+> [!fact] (출처: 루틴 수집, 2026-06-14) Disney Q2 스트리밍 영업이익 $5.82억 (+88% YoY) — Disney+ 수익화 전환 완성 (Disney IR, 2026-06-14)
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-14
+
+
+**narrative_score**: +0.57
+**key_events**: Q2 스트리밍 영업이익 $5.82억 (+88%), 파크 매출 +7% YoY, Josh D'Amaro 신임 CEO 취임
+**risks**: 콘텐츠 제작비 증가로 스트리밍 마진 압박 재현 가능, ESPN+ 스포츠 중계권 비용 과열, 파크 임금 상승과 경기 민감성
+
+> [!claim] (출처: Disney IR, 2026-06-14) Q2 스트리밍 영업이익 $5.82억 (+88% YoY) — Disney+ 수익화 전환점 완성
+> impact: + / category: earnings
+
+> [!claim] (출처: Disney IR, 2026-06-14) 파크 매출 +7% YoY — 갤럭틱 스타크루저 2027년 완매, 테마파크 회복 가속
+> impact: + / category: earnings
+
+> [!claim] (출처: Bloomberg, 2026-06-13) Josh D'Amaro 신임 CEO 취임 (파크 총괄) — Bob Iger 상임이사로 전환, 경영 연속성 확보
+> impact: + / category: other
+
+**경쟁사 동향**:
+- NFLX: Q1 +16.2%, 광고 60%+ → DIS 스트리밍 수익화 전환과 함께 프리미엄 스트리밍 시장 양강 체제
+- CMCSA: Peacock 성장 → DIS 스포츠 콘텐츠 경쟁이나 규모 차이로 직접 위협 제한
+
+---
+
 ### 2026-06-07
 
 

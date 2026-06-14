@@ -1,7 +1,7 @@
 ---
 title: "SPOT - Spotify Technology S.A — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-14
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: Q2 2026 가이던스가 보수적이었는지, 실제 실적으로 확인 필요 (pending)
 - [ ] **2026-05-17**: 미국 가격 인상 3회 이후 프리미엄 구독자 성장 둔화 여부 Q2 결과로 검증 (pending)
+- [ ] **2026-06-14**: Q2 마진 가이던스 미스가 일시적 AI 투자 비용인가 vs 구조적 마진 압박인가 (Q2 실적 7월 발표에서 확인)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
@@ -36,6 +37,25 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-14
+
+
+**narrative_score**: +0.41
+**key_events**: Q1 MAU 7.61억 역대 최고, Q2 매총이익 가이던스 €6.3억 (컨센서스 미스), AI DJ·플레이리스트 프리미엄 전환 견인
+**risks**: AI 기능 투자 비용으로 마진율 하락 지속, 애플·유튜브 뮤직과의 음악 스트리밍 경쟁, 레코드 레이블 로열티 협상 비용 상승
+
+> [!claim] (출처: Spotify IR, 2026-06-14) Q1 MAU 7.61억 역대 최고 — 전 분기 대비 +3,000만, 글로벌 오디오 플랫폼 지배력 확인
+> impact: + / category: earnings
+
+> [!claim] (출처: Spotify IR, 2026-06-14) Q2 매출총이익 가이던스 €6.3억 — 컨센서스 €6.84억 대비 미스, AI 기능 투자 비용 반영
+> impact: - / category: earnings
+
+**경쟁사 동향**:
+- NFLX: 광고 요금제 60%+ → SPOT도 광고 지원 모델 유효성 확인 — 오디오 광고 확장 기대
+- AAPL: Apple Music 고품질 오디오 확장 → SPOT 프리미엄 고객 이탈 압박
+
+---
+
 ### 2026-06-07
 
 

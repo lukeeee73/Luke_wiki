@@ -1,7 +1,7 @@
 ---
 title: "CAT - Caterpillar Inc. — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-14
 domain: finance
 type: claim
 weight: reference
@@ -29,6 +29,7 @@ sources: []
 - [ ] **2026-05-17**: 관세 비용 22~26억 달러가 2026년 하반기 마진을 실질적으로 압박할 것인가 (pending)
 - [ ] **2026-05-17**: 임원 내부자 매도($1,144만)가 단순 자산 관리인지 경영 불확실 신호인지 (pending)
 - [ ] **2026-05-17**: AI 데이터센터 발전 수요가 2026년 연간 발전 부문 성장률 40%+ 유지 가능할지 (pending)
+- [ ] **2026-06-14**: AI 데이터센터 전력 컨소시엄이 CAT 비상발전 장기 수주 가시화될 것인가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
@@ -39,6 +40,24 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-14
+
+
+**narrative_score**: +0.53
+**key_events**: AI 데이터센터 2GW 전력 컨소시엄 참여, 수주잔고 $62.7B 역대 최고, 배당 8% 인상
+**risks**: 관세로 해외 매출 환산 감소, 광산 투자 사이클 정점 이후 수요 감소 우려, 중국 인프라 투자 둔화
+
+> [!claim] (출처: CAT IR, 2026-06-14) GE·HON과 AI 데이터센터 2GW 전력 인프라 컨소시엄 참여 — 비상발전·UPS 장기 수주 기반
+> impact: + / category: product
+
+> [!claim] (출처: CAT IR, 2026-06-14) 수주잔고 역대 최고 $62.7B 달성, 배당 8% 인상 — 중장기 성장 신뢰도 확인
+> impact: + / category: earnings
+
+**경쟁사 동향**:
+- DE: 건설장비 +29% YoY 서프라이즈이나 대형 농기계 부진·관세 $1.2B → CAT 건설기계 동반 수요 확인, 채굴장비는 독보적 강세
+
+---
+
 ### 2026-06-07
 
 

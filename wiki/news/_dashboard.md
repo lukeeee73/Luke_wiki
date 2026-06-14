@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-14
 domain: finance
 type: index
 weight: reference
@@ -127,31 +127,35 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [WMT](tickers/WMT - Walmart Inc.md) | 2026-06-07 | +0.11 | Q1 FY27 이커머스 +26%, 동일점포 +4.1%, Q2 가이던스 제시 — 강한 실적에도 주가 조정 | 1 |
-| [COST](tickers/COST - Costco Wholesale.md) | 2026-06-07 | +0.17 | Q3 FY26 매출 +11.6% (2022년 이후 최고) — 강한 실적에도 주가 하락, 소비 경기 고점 논쟁 | 1 |
-| [KO](tickers/KO - The Coca-Cola Company.md) | 2026-06-07 | 0.00 | 금일 의미 있는 신규 뉴스 없음 — 배당귀족 60년 연속 방어적 특성 유지 | 0 |
-| [PEP](tickers/PEP - PepsiCo.md) | 2026-06-07 | 0.00 | 금일 의미 있는 신규 뉴스 없음 — 음료+스낵 결합 모델 견조 | 0 |
-| [PG](tickers/PG - Procter and Gamble.md) | 2026-06-07 | +0.11 | 소비자 수요 서프라이즈 주가 +5%, Native 클린뷰티·Secret 젠Z 마케팅 호응 | 0 |
-| [MO](tickers/MO - Altria Group.md) | 2026-06-07 | -0.02 | 금일 신규 뉴스 없음 — 담배 볼륨 감소 구조적 헤드윈드, 배당수익률 7%대 인컴주 | 0 |
-| [MCD](tickers/MCD - McDonalds Corporation.md) | 2026-06-07 | +0.03 | 수제 치킨 메뉴 테스트 (치킨 전쟁 대응), 내부자 거래 신고 (6/1) | 0 |
-| [HD](tickers/HD - The Home Depot.md) | 2026-06-07 | -0.02 | 금일 신규 뉴스 없음 — 금리 인하 기대감이 중기 촉매, 주가 $310.78 | 0 |
-| [NKE](tickers/NKE - NIKE Inc.md) | 2026-06-07 | -0.12 | 월드컵 중심 턴어라운드 전략에 애널리스트 회의적, 주가 $42.98 약세 지속 | 1 |
-| [SBUX](tickers/SBUX - Starbucks Corporation.md) | 2026-06-07 | -0.15 | AI 재고관리 폐기·기관 41.9% 매도·1개월 -9% — 턴어라운드 신뢰도 급락 | 1 |
+| [WMT](tickers/WMT - Walmart Inc.md) | 2026-06-14 | +0.60 | 드론배달 7개 시장 확장, 시총 $1조 임박 (YTD +37%), 월튼 가문 $2억 매도 | 1 |
+| [COST](tickers/COST - Costco Wholesale.md) | 2026-06-14 | +0.55 | 5월 순매출 +14.5% YoY, 회원 갱신률 92.9% 역대 최고, Outperform 목표가 $975 | 1 |
+| [KO](tickers/KO - The Coca-Cola Company.md) | 2026-06-14 | +0.52 | FIFA 월드컵 공식 음료 파트너, 인도 보틀링 2027 IPO, MS 목표가 $89 | 1 |
+| [PEP](tickers/PEP - PepsiCo.md) | 2026-06-14 | +0.23 | 북미 음료 -2.5%, 스낵 가격 15% 인하, Q2 실적 7월 9일 | 1 |
+| [PG](tickers/PG - Procter and Gamble.md) | 2026-06-14 | +0.42 | UBS 목표가 $172, Native Surf Club Gen Z 론칭, 주간 +5.4% | 1 |
+| [MO](tickers/MO - Altria Group.md) | 2026-06-14 | +0.28 | on! PLUS 신규 출시, 배당락일 6/15 ($1.06), NJOY 멘톨 금지 지속 | 1 |
+| [MCD](tickers/MCD - McDonalds Corporation.md) | 2026-06-14 | +0.57 | FIFA 월드컵 캠페인, AI 드라이브스루 90% 달성, Q1 동일매장 +9.4% | 1 |
+| [HD](tickers/HD - The Home Depot.md) | 2026-06-14 | +0.44 | Q1 $41.8B (+4.8%), 주택 거래 2022년 이후 최고, Pro 5분기 연속 강세 | 1 |
+| [NKE](tickers/NKE - NIKE Inc.md) | 2026-06-14 | -0.27 | RBC Sector Perform 하향 $50, YTD -30.3%, Q4 실적 6/30 | 1 |
+| [SBUX](tickers/SBUX - Starbucks Corporation.md) | 2026-06-14 | +0.29 | 일본 지분 IPO 검토 $2.5B, 중국 60% 알리바바 매각 $4B, YTD +22.7% | 1 |
 
 ### 산업재 / 방산
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [CAT](tickers/CAT - Caterpillar Inc.md) | 2026-06-07 | +0.23 | Q1 매출 +22%·사상 최대 수주잔고·가이던스 상향, 에버코어 목표가 $1,103 상향 | 0 |
-| [DE](tickers/DE - Deere & Company.md) | 2026-06-07 | +0.03 | 인디애나·NC 신규 시설 미국 제조 확장 — 대형 촉매 부재 | 3 |
-| [BA](tickers/BA - The Boeing Company.md) | 2026-06-07 | +0.11 | CEO 787 월 10대 목표·4번째 737 라인 계획, Q1 실적 컨센서스 상회 | 0 |
-| [LMT](tickers/LMT - Lockheed Martin Corp.md) | 2026-06-07 | +0.04 | 스컹크웍스 GM 교체 (4년간 3번째), FY26 방위예산 $8,950억 우호 환경 | 0 |
-| [RTX](tickers/RTX - RTX Corporation.md) | 2026-06-07 | +0.16 | Q1 조정 EPS +21%, 신규 방산 계약·P&W 생산 확대, 목표가 $215~$240 | 0 |
-| [NOC](tickers/NOC - Northrop Grumman Corp.md) | 2026-06-07 | +0.11 | 해군 $1억 계약, 아르테미스 III 발송, 배당 +6.93% 인상 — 3중 긍정 | 0 |
-| [HON](tickers/HON - Honeywell International.md) | 2026-06-07 | -0.02 | Honeywell Aerospace 분사 기준일 6/15·완료 6/29 (HONA 상장), 1:2 역분할 | 1 |
-| [GE](tickers/GE - GE Aerospace.md) | 2026-06-07 | +0.23 | Q1 주문 +87%·EPS +15.5% 서프라이즈, 수주잔고 $2,100억 역대 최대 | 0 |
-| [UPS](tickers/UPS - United Parcel Service.md) | 2026-06-07 | -0.10 | 아마존 물량 50%+ 감축 가속·화물기 사고 조사, 배당수익률 6.66% | 1 |
-| [FDX](tickers/FDX - FedEx Corporation.md) | 2026-06-07 | +0.11 | 연간 가이던스 상향·분사 계획 발표 — UPS 대비 상대적 강세 | 0 |
+| [CAT](tickers/CAT - Caterpillar Inc.md) | 2026-06-14 | +0.53 | AI 데이터센터 2GW 컨소시엄, 수주잔고 $62.7B 역대 최고, 배당 8% 인상 | 1 |
+| [DE](tickers/DE - Deere & Company.md) | 2026-06-14 | +0.11 | 건설장비 +29% 서프라이즈, 관세 $1.2B 역풍, 대형 농기계 부진 지속 | 1 |
+| [BA](tickers/BA - The Boeing Company.md) | 2026-06-14 | +0.02 | 5월 인도 60대 (+28% MoM), 777X 조립 개시, 우간다항공 $9.85억 수주 | 1 |
+| [LMT](tickers/LMT - Lockheed Martin Corp.md) | 2026-06-14 | +0.62 | 주간 PAC-3·F-35·MH-60R ~$100억, 우주군 $5.1억, DB Buy $610 | 1 |
+| [RTX](tickers/RTX - RTX Corporation.md) | 2026-06-14 | +0.57 | $5.15억 SPY-6 레이더 양산, $1억 LTAMDS 신시설, DBS Buy $145 | 1 |
+| [NOC](tickers/NOC - Northrop Grumman Corp.md) | 2026-06-14 | +0.52 | B-21 73일 시험 순항, 생산율 25% 확대 $4.5B, 배당 +6.9% | 1 |
+| [HON](tickers/HON - Honeywell International.md) | 2026-06-14 | +0.44 | HONA 스핀오프 6/29 확정 (1:2 역분할), 배당락 6/15, 가이던스 유지 | 0 |
+| [GE](tickers/GE - GE Aerospace.md) | 2026-06-14 | +0.41 | Q1 수주 +87% $23B, LEAP +63%, Wolfspeed SiC MOU + $1B 미국 투자 | 1 |
+| [UPS](tickers/UPS - United Parcel Service.md) | 2026-06-14 | -0.16 | 30,000명 감원·24개 시설 폐쇄, 아마존 물량 50%+ 감소, 국제 +6% | 1 |
+| [FDX](tickers/FDX - FedEx Corporation.md) | 2026-06-14 | +0.13 | Freight 스핀오프 완료 NYSE:FDXF, 조종사 합의 타결 | 0 |
+| [AVAV](tickers/AVAV - AeroVironment, Inc..md) | 2026-06-14 | +0.42 | $1.17억 P550 육군 계약, 대만 Ubiqconn MOU, Switchblade 500% 증산 | 1 |
+| [KTOS](tickers/KTOS - Kratos Defense & Security Solutions, Inc..md) | 2026-06-14 | +0.48 | JPM Overweight $82, Spartan 3K 달성, 해병대 CCA 공식 선정 | 1 |
+| [012450.KS](tickers/012450.KS - Hanwha Aerospace.md) | 2026-06-14 | -0.28 | 대전 폭발 5명 사망, CEO 중대재해법 입건, 9개 사업장 중단 | 1 |
+| [079550.KS](tickers/079550.KS - LIG Nex1.md) | 2026-06-14 | +0.53 | UAE 천궁-II 92% 요격 성공, 말레이시아 해궁 $9,400만, LIG Defense 리브랜딩 | 1 |
 
 ### 부동산 (REITs)
 
@@ -172,16 +176,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [VZ](tickers/VZ - Verizon Communications.md) | 2026-06-07 | -0.09 | 대법원 FCC 과징금 판결 → 주가 -4%, T-Mobile 경쟁 심화 | 1 |
-| [T](tickers/T - AT&T Inc.md) | 2026-06-07 | -0.09 | 대법원 FCC 과징금 판결 → -4% 동반 하락, 광케이블 확장 장기 긍정 | 0 |
-| [TMUS](tickers/TMUS - T-Mobile US.md) | 2026-06-07 | +0.16 | Charter·Comcast MVNO 독점 계약, Q1 강세·애널리스트 30%+ 상승 전망 | 0 |
-| [CMCSA](tickers/CMCSA - Comcast Corporation.md) | 2026-06-07 | +0.03 | T-Mobile MVNO 비즈니스 계약 — 케이블 가입자 감소 속 B2B 다각화 | 0 |
-| [CHTR](tickers/CHTR - Charter Communications.md) | 2026-06-07 | +0.03 | T-Mobile MVNO 계약, Q1 Spectrum Mobile +36.8만 (누계 12.1M) | 0 |
-| [NFLX](tickers/NFLX - Netflix Inc.md) | 2026-06-07 | +0.20 | 광고 고객사 +70% YoY·매출 $30억 경로, 가입자 3.25억+, SPOT $1억 계약 | 0 |
-| [DIS](tickers/DIS - The Walt Disney Company.md) | 2026-06-07 | +0.07 | Q2 스트리밍 영업이익 +88%·마진 11%, 반기 배당 $0.75 (기준일 6/30) | 0 |
-| [SPOT](tickers/SPOT - Spotify Technology.md) | 2026-06-07 | +0.09 | Netflix와 $1억 독점 팟캐스트 영상 계약 — 콘텐츠 수익화 강화 | 0 |
-| [EA](tickers/EA - Electronic Arts Inc.md) | 2026-06-07 | +0.10 | FY26 사상 최대 실적, $550억 비공개 인수 CFIUS 심사 최종 단계 | 1 |
-| [TTWO](tickers/TTWO - Take-Two Interactive.md) | 2026-06-07 | +0.22 | GTA VI 2026년 11월 19일 확정, Q4 어닝 비트, 목표가 $280~$320 | 0 |
+| [VZ](tickers/VZ - Verizon Communications.md) | 2026-06-14 | +0.44 | Frontier 인수 완료 광케이블 3,000만+, 3사 위성 JV, 기업 광케이블 +12% | 1 |
+| [T](tickers/T - AT&T Inc.md) | 2026-06-14 | +0.56 | Q1 광케이블 584K 역대 최고, Lumen 인수 완료, 3사 위성 JV | 1 |
+| [TMUS](tickers/TMUS - T-Mobile US.md) | 2026-06-14 | +0.62 | Q1 EPS $2.27 비트, FWA 500K+ 누적 500만, 3사 위성 JV | 1 |
+| [CMCSA](tickers/CMCSA - Comcast Corporation.md) | 2026-06-14 | +0.29 | Versant 스핀오프 완료, 브로드밴드 순감 45K (예상 대비 개선), Xfinity Mobile 43.5만 | 0 |
+| [CHTR](tickers/CHTR - Charter Communications.md) | 2026-06-14 | -0.14 | 브로드밴드 순감 18만 이탈 가속, 주가 월간 -12.3%, AI 광고 타겟팅 도입 | 1 |
+| [NFLX](tickers/NFLX - Netflix Inc.md) | 2026-06-14 | +0.62 | Q1 +16.2% $10.5B, 광고 요금제 60%+, NFL 크리스마스 2029 독점 | 1 |
+| [DIS](tickers/DIS - The Walt Disney Company.md) | 2026-06-14 | +0.57 | Q2 스트리밍 +88% $5.82억, 파크 +7%, Josh D'Amaro 신임 CEO 취임 | 1 |
+| [SPOT](tickers/SPOT - Spotify Technology.md) | 2026-06-14 | +0.41 | Q1 MAU 7.61억 역대 최고, Q2 마진 가이던스 미스, AI 프리미엄 전환 견인 | 1 |
+| [EA](tickers/EA - Electronic Arts Inc.md) | 2026-06-14 | +0.38 | FY26 역대 최고 순예약 $80.26억, $550억 PIF 인수 CFIUS 심사, Apex 모바일 중단 | 1 |
+| [TTWO](tickers/TTWO - Take-Two Interactive.md) | 2026-06-14 | +0.72 | GTA VI 11/19 공식 확정, 트레일러 3 6월 말, 첫 주 $30억+ 전망 | 0 |
 
 ### 유틸리티 / 전력
 
@@ -205,6 +209,30 @@ sources: []
 | [329180.KS](tickers/329180.KS - HD Hyundai Heavy Industries.md) | 2026-06-03 | +0.33 | VLGC 8척 1.416조원 수주, 연간 목표 60.8% 조기 달성, KDDX 소송 | 2 |
 | [042660.KS](tickers/042660.KS - Hanwha Ocean Co.md) | 2026-06-03 | +0.13 | Leidos 미 해군 설계 협력, 캐나다 해군 MOU 체결 | 2 |
 | [010140.KS](tickers/010140.KS - Samsung Heavy Industries.md) | 2026-06-03 | +0.25 | FDC 시장 선점 — Capital/LR MOU·Supermicro AI 서버 JDP | 2 |
+
+
+## 오늘의 시그널 (2026-06-14 · 일요일 · 소비재 + 산업재 / 방산 + 통신 / 미디어)
+
+루틴은 다음 패턴을 감지하면 이 섹션에 기록한다:
+
+- **연속성**: 같은 테마가 3 일 이상 연속 등장 (예: 비만치료제 임상 데이터 연속)
+- **모순**: 같은 종목 어제/오늘 narrative 가 반대 방향
+- **섹터 동기화**: 3 종목 이상이 같은 매크로 이슈 (예: 관세, FOMC, 유가, 비만치료제, 데이터센터 전력) 로 동시 움직임
+
+**2026-06-14 감지된 시그널:**
+
+- **최고 시그널 (TTWO +0.72)**: GTA VI 11/19 공식 확정 + 트레일러 3 6월 말 + 첫 주 $30억+ 전망 삼중 모멘텀. 역대 최대 엔터테인먼트 출시가 6개월 앞으로 다가오며 마케팅 사이클 점화. TTWO 주도 통신/미디어 섹터 최강 모멘텀.
+- **최고 시그널 (LMT +0.62)**: 주간 PAC-3·F-35·MH-60R ~$100억 + 우주군 $5.1억 + Deutsche Bank Buy 업그레이드. 유럽 재무장·중동 미사일방어 수요 동시 폭발. 방산 섹터 복합 호재 집중.
+- **섹터 동기화 (방산 예산 확대)**: LMT +0.62 / RTX +0.57 / NOC +0.52 / KTOS +0.48 / AVAV +0.42 — 5개 방산주 동시 강세. 미사일방어(LMT·RTX)·스텔스(NOC)·드론(KTOS·AVAV) 전 영역에서 대형 계약 동시 발표. NATO 재무장 + 드론 우위 전략이 방산 섹터 구조적 슈퍼사이클 신호.
+- **섹터 동기화 (소비재 방어주 로테이션)**: WMT +0.60 / COST +0.55 / MCD +0.57 / KO +0.52 — 4종목 동시 강세. 소비 경기 불확실성 속 대형 소비재 방어주 로테이션 가속. PEP +0.23·NKE -0.27의 약세 대비 극명한 양극화.
+- **섹터 동기화 (통신 인프라 구조 개편)**: VZ Frontier 인수 완료 + T Lumen 인수 완료 + 3사 위성 JV — 통신 빅3 모두 인프라 확장·위성 커버리지 공동 진입. 광케이블 vs FWA(TMUS) 경쟁이 최고조로 도달, 구독자 쟁탈전 본격화.
+- **역방향 (NKE vs 소비재 섹터)**: NKE -0.27 vs WMT +0.60·MCD +0.57·COST +0.55 — 나이키만 섹터 내 역행. 브랜드 리셋 고통이 2년째 지속 중. 6/30 Q4 실적이 전환점 여부의 마지막 판단 기회.
+- **경고 시그널 (012450.KS -0.28)**: 대전 폭발 5명 사망·CEO 중대재해법 입건·9개 사업장 중단 — K-방산 대장주에 최대 악재. 폴란드·루마니아 수출 납기 차질 여부 30일 추적 필요. 경쟁사 LIG Nex1(079550.KS +0.53)이 반사 수혜.
+- **섹터간 전파 (AI 인프라 → 소비재 + 방산 + 통신)**: CAT AI 데이터센터 2GW 컨소시엄 + VZ 기업 광케이블 +12% + GE Q1 수주 +87% — AI 인프라 수요가 소비재(CAT 발전기)·방산(드론 AI)·통신(광케이블 연결) 전 섹터로 파급.
+- **연속성 (스트리밍 수익화)**: NFLX +0.62 (광고 60%) / DIS +0.57 (스트리밍 +88%) — 2주 연속 스트리밍 수익화 테마 강화. OTT 업계 광고 모델 수익성 전환 완성 신호.
+- **주목 이벤트**: GTA VI 트레일러 3 6월 말 공개·사전예약 시작, HONA 스핀오프 6/29 완료, HON·MO 배당락일 6/15, NKE Q4 실적 6/30, PEP Q2 실적 7/9, UPS Q2 실적 (감원 효과 첫 확인), 012450.KS 수출 납기 30일 추적.
+
+### 감지된 패턴 (2026-06-13 · 토요일 · 금융 + 부동산 (REITs))
 
 ## 오늘의 시그널 (2026-06-10 · 화요일 · 반도체)
 

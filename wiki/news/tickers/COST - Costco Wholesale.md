@@ -1,7 +1,7 @@
 ---
 title: "COST - Costco Wholesale — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-14
 domain: finance
 type: claim
 weight: reference
@@ -30,7 +30,8 @@ sources: []
 _(루틴 첫 실행 전 — 비어 있음)_
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-06-07**: COST 실적 서프라이즈에도 주가 하락 — 시장이 소비 둔화를 선반영하는가 (7일 검증 대기)
+- [x] **2026-06-07** → **2026-06-14 refuted — 5월 매출 +14.5% 서프라이즈로 성장 모멘텀 유효 확인, 소비 둔화보다 단기 밸류에이션 조정**
+- [ ] **2026-06-14**: 회원 갱신률 92.9% 역대 최고 — 경기 불확실성에도 COST 해자 강화 추세 지속될 것인가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -47,6 +48,24 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-14
+
+
+**narrative_score**: +0.55
+**key_events**: 5월 순매출 +14.5% YoY, 회원 갱신률 92.9% 역대 최고, Oppenheimer Outperform 재확인 목표가 $975
+**risks**: 밸류에이션 프리미엄 (P/E 55x), 소비 경기 둔화 시 트래픽 감소 가능성, WMT 드론배달 확장으로 경쟁 심화
+
+> [!claim] (출처: Costco IR, 2026-06-14) 5월 순매출 +14.5% — 회원제 갱신률 92.9% 역대 최고, 트래픽 +9%
+> impact: + / category: earnings
+
+> [!claim] (출처: Oppenheimer, 2026-06-14) 3분기 EPS $4.02 컨센서스 상회, Outperform 재확인 — 목표가 $975
+> impact: + / category: earnings
+
+**경쟁사 동향**:
+- WMT: 드론배달 7개 시장 확장, 시총 $1조 임박 → 대형 유통 소비 수요 견조 COST도 공유
+
+---
+
 ### 2026-06-07
 
 

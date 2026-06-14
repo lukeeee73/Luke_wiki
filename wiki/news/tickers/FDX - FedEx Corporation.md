@@ -1,7 +1,7 @@
 ---
 title: "FDX - FedEx Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-14
 domain: finance
 type: claim
 weight: reference
@@ -29,14 +29,35 @@ sources: []
 - [ ] **2026-05-17**: FedEx Freight 분사 후 '뉴 FedEx'의 영업이익률이 분사 전 대비 개선될 것인가 (pending)
 - [ ] **2026-05-17**: FDXF 상장 이후 FDX 주가가 순수 특송 사업 집중 프리미엄을 받아 리레이팅될 것인가 (pending)
 - [ ] **2026-05-17**: 관세 환경 변화가 2026년 하반기 국제 특송 물량에 유의미한 감소를 야기할 것인가 (pending)
+- [ ] **2026-06-14**: Freight 스핀오프 완료 후 FDX 핵심 사업 마진이 개선될 것인가 (Q4 FY2026 실적에서 확인)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
+> [!fact] (출처: 루틴 수집, 2026-06-14) FedEx Freight 스핀오프 완료 — NYSE:FDXF로 독립 상장 시작 (2026-06-01), ALPA 조종사 합의 타결 (2026-06-09)
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-14
+
+
+**narrative_score**: +0.13
+**key_events**: FedEx Freight 독립 상장 완료 (NYSE: FDXF)
+**risks**: 아마존 자체 배송 확장으로 e커머스 물량 구조적 감소, 유가 상승 시 항공 연료비 마진 압박, 경기 침체 시 국제 특급 물량 감소
+
+> [!claim] (출처: FedEx IR, 2026-06-14) FedEx Freight 독립 상장 완료 (NYSE: FDXF) — FDX는 특급·국제 물류 집중 구조로 재편
+> impact: + / category: other
+
+> [!claim] (출처: Reuters, 2026-06-09) ALPA 조종사 잠정 합의 타결 — 파업 리스크 해소, 운영 안정성 확보
+> impact: + / category: other
+
+**경쟁사 동향**:
+- UPS: 30,000명 감원·24개 시설 폐쇄 → UPS 구조조정으로 FDX가 기업 화주 물량 흡수 기회
+- AMZN: Amazon Logistics 완성 → FDX는 아마존 의존도 낮아 직접 영향 제한
+
+---
+
 ### 2026-06-07
 
 

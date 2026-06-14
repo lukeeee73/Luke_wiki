@@ -1,7 +1,7 @@
 ---
 title: "WMT - Walmart Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-14
 domain: finance
 type: claim
 weight: reference
@@ -30,7 +30,8 @@ sources: []
 _(루틴 첫 실행 전 — 비어 있음)_
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-06-07**: 강한 실적에도 주가 하락은 소비 경기 고점 신호인가 vs 단순 밸류에이션 조정인가 (7일 검증 대기)
+- [x] **2026-06-07** → **2026-06-14 refuted — 6/14 기준 WMT YTD +37%, $1조 시총 임박 → 단순 밸류에이션 조정으로 판정**
+- [ ] **2026-06-14**: 드론배달 22개 시장 확장 + $1조 시총 임박 → 이커머스 리더십 프리미엄 지속될 것인가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -47,6 +48,28 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-14
+
+
+**narrative_score**: +0.60
+**key_events**: 드론배달 7개 시장 신규 확장, 시총 $1조 돌파 임박 (YTD +37%), 월튼 가문 $2억 내부자 매도
+**risks**: 월튼 가문 대규모 매도 오버행, 아마존 식료품 경쟁 심화, 소비자 경기 둔화 시 방어주 쏠림 한계
+
+> [!claim] (출처: Walmart Newsroom, 2026-06-12) 드론배달 Wing 협력 통해 7개 추가 지역 확장 — 미국 내 총 22개 시장
+> impact: + / category: product
+
+> [!claim] (출처: Reuters, 2026-06-13) WMT 주가 사상 최고치 갱신, 시총 $1조 임박 — YTD +37%
+> impact: + / category: other
+
+> [!claim] (출처: Bloomberg, 2026-06-13) 월튼 가문 최고가에 $2억 매도 — 내부자 차익실현 신호
+> impact: neutral / category: other
+
+**경쟁사 동향**:
+- COST: 5월 순매출 +14.5% YoY, 회원 갱신률 92.9% 역대 최고 → 대형 유통 소비 수요 견조 확인
+- - AMZN: Amazon Fresh 15개 신규 도시 2시간 배달 보장 확대 → WMT 이커머스 식료품과 직접 경쟁 심화
+
+---
+
 ### 2026-06-07
 
 

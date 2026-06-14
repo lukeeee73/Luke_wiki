@@ -1,7 +1,7 @@
 ---
 title: "NKE - NIKE, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-14
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ _(루틴 첫 실행 전 — 비어 있음)_
 
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-06-07**: 나이키 월드컵 전략이 분기 매출 회복의 실질 촉매가 될 수 있는가 — 6/30 실적으로 검증 (30일 대기)
+- [ ] **2026-06-14**: Q4 실적 6월 30일 — 채널 정상화·브랜드 리셋 효과가 수치로 확인될 것인가 (6/30 실적에서 판단)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -47,6 +48,21 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-14
+
+
+**narrative_score**: -0.27
+**key_events**: RBC Sector Perform 하향 — 목표가 $50, YTD -30.3% 언더퍼폼 지속, Q4 실적 발표 6월 30일
+**risks**: 중국 회복 지연 — 현지 브랜드 리닝·안타 약진, 직접판매(DTC) 전략 과도로 채널 파트너 이탈, 재고 증가로 추가 할인 마진 압박
+
+> [!claim] (출처: RBC Capital Markets, 2026-06-14) 투자의견 Sector Perform 하향, 목표가 $50 — 중국 회복 지연·직접판매 전략 리스크
+> impact: - / category: other
+
+> [!claim] (출처: Reuters, 2026-06-14) YTD -30.3% — 브랜드 리셋 중 채널 재편·디지털 직판 전략 혼선 지속
+> impact: - / category: other
+
+---
+
 ### 2026-06-07
 
 

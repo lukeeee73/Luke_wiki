@@ -1,7 +1,7 @@
 ---
 title: "RTX - RTX Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-14
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,7 @@ RTX(구 레이시온 테크놀로지스)는 미국 2위 방산 기업으로, 패
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: NATO 동맹국 방산비 20% 증가가 2026~2027년 패트리어트 신규 계약으로 직접 이어질 것인가 (pending)
 - [ ] **2026-05-17**: P&W GTF 엔진 납품 일정 차질이 2026년 하반기에도 지속될 것인가 (pending)
+- [ ] **2026-06-14**: LTAMDS 신시설과 SPY-6 양산이 RTX 방산전자 마진율 개선으로 이어질 것인가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
@@ -36,6 +37,28 @@ RTX(구 레이시온 테크놀로지스)는 미국 2위 방산 기업으로, 패
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-14
+
+
+**narrative_score**: +0.57
+**key_events**: $5.15억 SPY-6 레이더 양산 계약, $1억 LTAMDS 레이더 생산시설 개소, DBS Buy 업그레이드 목표가 $145
+**risks**: Pratt & Whitney GTF 엔진 리콜 비용 잔존, 방산 공급망 인력 부족 생산 병목, 금리 상승으로 정부 조달 예산 압박
+
+> [!claim] (출처: DoD, 2026-06-14) $5.15억 육군 SPY-6 레이더 양산 계약 — 이지스 방어 업그레이드 수요 강화
+> impact: + / category: earnings
+
+> [!claim] (출처: RTX IR, 2026-06-14) $1억 LTAMDS 레이더 생산시설 개소 — 다중위협 대응 미사일방어 용량 확대
+> impact: + / category: product
+
+> [!claim] (출처: DBS, 2026-06-14) Buy 업그레이드 목표가 $145 — NATO 재무장 사이클 방산전자 직접 수혜
+> impact: + / category: other
+
+**경쟁사 동향**:
+- LMT: PAC-3 ~$100억 수주 강세 → 미사일방어 예산 확대로 RTX SPY-6 레이더와 동반 수혜
+- NOC: B-21 생산 가속 → RTX P&W 엔진 수요 간접 자극
+
+---
+
 ### 2026-06-07
 
 

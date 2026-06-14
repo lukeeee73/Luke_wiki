@@ -1,7 +1,7 @@
 ---
 title: "EA - Electronic Arts Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-14
 domain: finance
 type: claim
 weight: reference
@@ -30,14 +30,35 @@ sources: []
 - [ ] **2026-05-17**: EA Q1 CY2026 EPS 예상치 하회가 일회성인지, 비용 구조 문제인지 Q2에서 확인 필요 (pending)
 
 - [ ] **2026-06-07**: EA $550억 비공개 인수 CFIUS 승인 여부 — 안보 심사 결과 게임 섹터 최대 이슈 (결정 전까지 검증 대기)
+- [ ] **2026-06-14**: CFIUS 심사 결과 — 인수 승인 시 $550억 프리미엄 실현 vs 불허 시 되돌림 리스크 (결정 시기 불확정)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
+> [!fact] (출처: 루틴 수집, 2026-06-14) EA FY2026 순예약 $80.26억 역대 최고 — 라이브서비스 모델 안정적 성장 확인 (EA IR, 2026-06-14)
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-14
+
+
+**narrative_score**: +0.38
+**key_events**: FY26 순예약 $80.26억 역대 최고, $550억 PIF·Silver Lake 인수 제안 CFIUS 심사, Apex Legends 모바일 중단
+**risks**: CFIUS 인수 불허 시 주가 되돌림 리스크, GTA VI 연말 출시로 EA 게임 시즌 경쟁 심화, 라이브서비스 의존도 집중으로 신작 IP 개발 지연
+
+> [!claim] (출처: EA IR, 2026-06-14) FY26 순예약 $80.26억 역대 최고 (+8% YoY) — FC·Madden 라이브서비스 안정적 성장 확인
+> impact: + / category: earnings
+
+> [!claim] (출처: WSJ, 2026-06-14) $550억 사우디 PIF·Silver Lake 인수 제안 CFIUS 심사 중 — 국가안보 우려로 승인 불확실
+> impact: + / category: m&a
+
+**경쟁사 동향**:
+- TTWO: GTA VI 11월 19일 공식 확정 → EA 연말 게임 시즌 경쟁 심화 — EA Sports FC 시즌과 겹침
+- MSFT: Game Pass에 EA 게임 추가 → 유통 채널 확대이나 구독 모델 의존도 증가 양면
+
+---
+
 ### 2026-06-07
 
 

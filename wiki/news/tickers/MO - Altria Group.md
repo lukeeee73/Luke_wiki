@@ -1,7 +1,7 @@
 ---
 title: "MO - Altria Group, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-14
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 _(루틴 첫 실행 전 — 비어 있음)_
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-14**: on! PLUS 신규 출시가 연기 없는 제품 점유율 확대로 이어질 것인가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,24 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-14
+
+
+**narrative_score**: +0.28
+**key_events**: on! PLUS 니코틴 파우치 신규 출시, 배당락일 6월 15일 — 분기 $1.06, FDA NJOY 멘톨 금지 지속
+**risks**: 담배 소비량 구조적 감소 추세, FDA 추가 규제 확대 가능성, 연기 없는 제품 경쟁 심화
+
+> [!claim] (출처: Altria IR, 2026-06-14) on! PLUS 니코틴 파우치 신규 향 추가 전국 출시 — 연기 없는 제품 포트폴리오 확대
+> impact: + / category: product
+
+> [!claim] (출처: Altria IR, 2026-06-14) 배당락일 6월 15일 — 분기 배당 $1.06, 연간 배당수익률 ~8.3%
+> impact: + / category: other
+
+> [!claim] (출처: Reuters, 2026-06-14) FDA NJOY 멘톨 금지 지속 — MO 직접 영향 제한적이나 규제 불확실성 상존
+> impact: - / category: regulation
+
+---
+
 ### 2026-06-07
 
 

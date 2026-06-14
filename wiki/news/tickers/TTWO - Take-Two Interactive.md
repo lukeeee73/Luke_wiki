@@ -1,7 +1,7 @@
 ---
 title: "TTWO - Take-Two Interactive — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-14
 domain: finance
 type: claim
 weight: reference
@@ -29,16 +29,40 @@ GTA(Grand Theft Auto) 시리즈, NBA 2K, 보더랜드 등 유명 게임 시리�
 - [ ] **2026-05-17**: GTA VI 트레일러가 2026-05-18에 실제로 공개될 것인가 (pending)
 - [ ] **2026-05-17**: GTA VI가 2026년 말 출시 창을 확정하고, Q4 FY26 실적 발표에서 공식 일정을 발표할 것인가 (pending)
 - [ ] **2026-05-17**: GTA VI 사전예약 캠페인이 5/18~21 창에 실제로 시작될 것인가 (pending)
+- [ ] **2026-06-14**: GTA VI 출시 첫 주 $30억+ 매출 전망 — 역대 최대 엔터테인먼트 출시 기록 달성할 것인가 (11/19 출시 후 확인)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
 
 > [!fact] (Take-Two IR, 2026-05-16) GTA VI 2026년 11월 19일 PS5·Xbox Series X|S 출시 확정. Q4 FY26 넷북킹 $15.8억 확인.
+> [!fact] (출처: 루틴 수집, 2026-06-14) GTA VI 공식 출시일 11월 19일, 2026 최종 확정 (Rockstar Games, 2026-06-14). 트레일러 3 6월 말 공개·사전예약 개시 예정.
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-14
+
+
+**narrative_score**: +0.72
+**key_events**: GTA VI 출시일 11월 19일 공식 확정, 트레일러 3 6월 말 공개·사전예약 개시, 애널리스트 출시 첫 주 $30억+ 매출 전망
+**risks**: GTA VI 출시 지연 리스크 (1회 이상 연기 이력), GTA VI 출시 후 실망 시 급락 리스크 (기대 과잉), 사이버범죄·규제 논란으로 마케팅 차질
+
+> [!claim] (출처: Rockstar Games, 2026-06-14) GTA VI 공식 출시일 11월 19일 확정 — 역대 최다 사전예약 기록 경신 전망
+> impact: + / category: product
+
+> [!claim] (출처: Bloomberg, 2026-06-13) 트레일러 3 6월 말 공개 및 사전예약 시작 예정 — 마케팅 사이클 본격 점화
+> impact: + / category: product
+
+> [!claim] (출처: Barron's, 2026-06-14) 애널리스트 GTA VI 출시 첫 주 $30억+ 매출 전망 — 역대 최대 엔터테인먼트 출시 기록 가능성
+> impact: + / category: earnings
+
+**경쟁사 동향**:
+- EA: Apex 모바일 중단 → TTWO GTA VI PC·콘솔 집중 경쟁 완화 — 연말 점유율 집중 유리
+- MSFT: Game Pass 생태계 확장 → GTA VI 구독 포함 여부 협상 지렛대
+
+---
+
 ### 2026-06-07
 
 

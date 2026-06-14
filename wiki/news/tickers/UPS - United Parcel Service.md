@@ -1,7 +1,7 @@
 ---
 title: "UPS - United Parcel Service — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-14
 domain: finance
 type: claim
 weight: reference
@@ -30,14 +30,35 @@ UPS(United Parcel Service)는 '갈색 트럭'으로 전 세계에 알려진 글�
 - [ ] **2026-05-17**: 아마존 물류 내재화로 인한 UPS 물량 감소가 2026년 전체 매출에서 유의미하게 드러날 것인가 (pending)
 
 - [ ] **2026-06-07**: UPS 아마존 물량 감축이 실제 마진 개선으로 이어지는가 — 분기 실적으로 검증
+- [ ] **2026-06-14**: 30,000명 감원·시설 폐쇄가 수익성 회복으로 이어지는 시점은 언제인가 (Q2 실적에서 확인)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
+> [!fact] (출처: 루틴 수집, 2026-06-14) UPS 30,000명 감원 및 24개 시설 폐쇄 결정 공식 발표 — 아마존 물량 50%+ 감소에 대응한 구조조정 (UPS IR / WSJ, 2026-06-14)
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-14
+
+
+**narrative_score**: -0.16
+**key_events**: 30,000명 감원·24개 시설 폐쇄, 아마존 물량 50%+ 감소 확인, 국제 부문 +6% YoY 견조
+**risks**: 아마존 물량 이탈 구조적 — 대체 화주 확보 시간 필요, 인건비 구조 고정화로 단기 수익성 압박, 경기 둔화 시 B2B 물량 추가 감소
+
+> [!claim] (출처: UPS IR, 2026-06-14) 30,000명 감원·24개 시설 폐쇄 — USPS 계약 종료와 아마존 물량 감소에 대응한 비용 구조 재편
+> impact: - / category: earnings
+
+> [!claim] (출처: WSJ, 2026-06-14) 아마존 물량 50%+ 감소 — 아마존 자체 배송망(AMZ Logistics) 내재화 완료 여파
+> impact: - / category: other
+
+**경쟁사 동향**:
+- FDX: Freight 스핀오프 완료, 조종사 합의 타결 → FDX 구조 단순화로 UPS와 기업 화주 시장 경쟁 심화 예상
+- AMZN: Amazon Logistics 자체 배송망 완성 → UPS 핵심 물량 이탈 구조적 원인
+
+---
+
 ### 2026-06-07
 
 

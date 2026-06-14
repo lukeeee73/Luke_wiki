@@ -1,7 +1,7 @@
 ---
 title: "MCD - McDonald's Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-14
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 _(루틴 첫 실행 전 — 비어 있음)_
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-14**: FIFA 월드컵 캠페인 + AI 드라이브스루 90%가 Q2-Q3 동일매장 성장 가속으로 이어질 것인가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,27 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-14
+
+
+**narrative_score**: +0.57
+**key_events**: FIFA 월드컵 글로벌 마케팅 캠페인 론칭, AI 드라이브스루 정확도 90% — 500개 매장, Q1 동일매장 +9.4% 어닝 서프라이즈
+**risks**: 소비자 절약 트렌드로 외식 지출 감소 가능성, 원자재(소고기·포장재) 비용 재상승, 글로벌 지역별 동일매장 편차 심화
+
+> [!claim] (출처: McDonald's IR, 2026-06-14) FIFA 월드컵 글로벌 캠페인 론칭 — McDelivery 프로모션·한정 메뉴로 Q2-Q3 매출 견인 기대
+> impact: + / category: product
+
+> [!claim] (출처: CNBC, 2026-06-13) AI 드라이브스루 주문 정확도 90% 달성 — 500개 매장 확대 후 인건비 절감 효과 가시화
+> impact: + / category: product
+
+> [!claim] (출처: McDonald's IR, 2026-06-14) Q1 글로벌 동일 매장 +9.4% — 앱 기반 충성 고객 증가 효과
+> impact: + / category: earnings
+
+**경쟁사 동향**:
+- SBUX: 일본 지분 매각·IPO 검토 ($2.5B) + 중국 60% 알리바바 JV 매각 완료 ($4B) → SBUX 구조 개편으로 커피 포지션 불확실 — MCD McCafé 틈새 기회
+
+---
+
 ### 2026-06-07
 
 

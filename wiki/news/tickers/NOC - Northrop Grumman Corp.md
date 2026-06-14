@@ -1,7 +1,7 @@
 ---
 title: "NOC - Northrop Grumman Corp. — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-14
 domain: finance
 type: claim
 weight: reference
@@ -29,6 +29,7 @@ sources: []
 - [ ] **2026-05-17**: B-21 레이더 생산 가속화가 2026년 하반기 매출 성장률 가시적 개선으로 이어질 것인가 (pending)
 - [ ] **2026-05-17**: 주가 3개월 -20%가 과도한 저평가인지, FMS·비용 압박 리스크가 충분히 반영된 수준인지 (pending)
 - [ ] **2026-05-17**: LR-450 우주 항법 시스템이 새로운 우주 사업 계약 수주로 이어질 것인가 (pending)
+- [ ] **2026-06-14**: B-21 생산율 25% 확대 $4.5B 투자가 2027년 납기 가속으로 이어질 것인가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
@@ -39,6 +40,28 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-14
+
+
+**narrative_score**: +0.52
+**key_events**: B-21 레이더 73일 비행시험 완료 (180일 목표 순항), B-21 생산율 25% 확대 $4.5B 투자, 분기 배당 +6.9% → $2.30
+**risks**: B-21 프로그램 고정가 계약 원가 초과 리스크, Space 세그먼트 위성 지연 여파, 정부 지속적 예산 해결 지연 리스크
+
+> [!claim] (출처: Northrop IR / Air Force, 2026-06-14) B-21 레이더 73일 비행시험 완료 — 180일 목표 순항 중, FAA 인증 일정 유지
+> impact: + / category: product
+
+> [!claim] (출처: Bloomberg, 2026-06-13) B-21 생산율 25% 확대 계획 — $45억 투자로 팜데일 시설 증설, 2027년 납기 가속
+> impact: + / category: earnings
+
+> [!claim] (출처: NOC IR, 2026-06-14) 분기 배당 +6.9% → $2.30 — 주주환원 지속 의지 확인
+> impact: + / category: other
+
+**경쟁사 동향**:
+- LMT: $100억 수주 + DB Buy 업그레이드 → 방산 예산 확대 공유로 NOC B-21 예산도 동반 수혜
+- RTX: LTAMDS·SPY-6 강세 → 방산전자 투자 확대로 NOC B-21 생산 병행 가속
+
+---
+
 ### 2026-06-07
 
 

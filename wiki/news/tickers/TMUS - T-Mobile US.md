@@ -1,7 +1,7 @@
 ---
 title: "TMUS - T-Mobile US, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-14
 domain: finance
 type: claim
 weight: reference
@@ -28,16 +28,37 @@ T-Mobile은 미국 3위 통신사에서 출발했으나 2020년 스프린트(Spr
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: SuperBroadband(5G+스타링크) 기업 인터넷 서비스가 연내 의미 있는 가입자 및 매출 기여를 달성할 것인가 (pending)
 - [ ] **2026-05-17**: Q1 마진 압박이 일시적인지, 구조적 비용 증가인지 Q2 결과로 판별 필요 (pending)
+- [ ] **2026-06-14**: FWA 누적 500만 달성 이후 성장 속도 둔화 시점이 언제인가 — Q2에서 확인 필요
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
 
 > [!fact] (BusinessWire, 2026-06-01) Charter·Comcast와 T-Mobile 비즈니스 MVNO 독점 계약 체결 확인.
+> [!fact] (출처: 루틴 수집, 2026-06-14) T-Mobile FWA 누적 가입자 500만 달성 (T-Mobile IR, 2026-06-14), Q1 EPS $2.27 컨센서스 상회
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-14
+
+
+**narrative_score**: +0.62
+**key_events**: Q1 EPS $2.27 어닝 서프라이즈, FWA 50만+ 순증 누적 500만, 3사 위성-셀룰러 JV 출범
+**risks**: FWA 가입자 증가로 5G 네트워크 용량 조기 포화, VZ·T 광케이블 공세로 유선 대체 경쟁 심화, 스펙트럼 추가 확보 비용
+
+> [!claim] (출처: T-Mobile IR, 2026-06-14) Q1 EPS $2.27로 컨센서스 상회, 서비스 매출 +11% — 후불제 가입자 순증 지속
+> impact: + / category: earnings
+
+> [!claim] (출처: T-Mobile IR, 2026-06-14) 고정무선인터넷(FWA) 분기 50만+ 순증, 누적 500만 가입자 — 케이블 사업자 대체 가속
+> impact: + / category: earnings
+
+**경쟁사 동향**:
+- VZ: Frontier 광케이블 3,000만+ 완성 → TMUS FWA 대체 수요 일부 흡수 — 단기 경쟁 심화
+- T: 584K 광케이블 역대 최고 → TMUS FWA 시장 침투 경쟁 압박
+
+---
+
 ### 2026-06-07
 
 
