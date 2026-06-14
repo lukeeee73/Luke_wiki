@@ -1,7 +1,7 @@
 ---
 title: "PEP - PepsiCo, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-14
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 _(루틴 첫 실행 전 — 비어 있음)_
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-14**: 스낵 15% 가격 인하가 판매량 회복으로 이어질 것인가 vs 마진 악화만 남을 것인가 (7월 9일 Q2 실적에서 확인)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,24 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-14
+
+
+**narrative_score**: +0.23
+**key_events**: 북미 음료 판매량 -2.5% YoY, 스낵 가격 최대 15% 인하 결정, Q2 실적 발표 7월 9일 예정
+**risks**: 가격 인하로 마진율 추가 압박, 건강 트렌드 가속화로 전통 음료·스낵 장기 수요 감소, KO FIFA 파트너십 대비 브랜드 노출 열위
+
+> [!claim] (출처: PepsiCo IR, 2026-06-14) 북미 음료 판매량 -2.5% — 소비자 가격 저항과 건강 트렌드로 전통 탄산 수요 둔화
+> impact: - / category: earnings
+
+> [!claim] (출처: WSJ, 2026-06-14) 스낵 부문 가격 최대 15% 인하 — 판매량 회복 시도, 단기 마진 압박 불가피
+> impact: - / category: product
+
+**경쟁사 동향**:
+- KO: 2026 FIFA 월드컵 공식 음료 파트너 확정 → PEP 글로벌 음료 브랜드 노출 열위
+
+---
+
 ### 2026-06-07
 
 

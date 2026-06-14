@@ -1,7 +1,7 @@
 ---
 title: "VZ - Verizon Communications — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-14
 domain: finance
 type: claim
 weight: reference
@@ -30,14 +30,38 @@ sources: []
 - [ ] **2026-05-17**: VZ 조정 EPS 5~6% 성장 가이던스가 T-Mobile 경쟁 심화 속 달성 가능한가 (pending)
 
 - [ ] **2026-06-07**: 대법원 FCC 판결이 통신 섹터 장기 규제 강화로 이어지는가 vs 일회성 이벤트인가 (7일 검증 대기)
+- [ ] **2026-06-14**: Frontier 통합 완료 후 VZ 광케이블 가입자 순증이 ARPU 개선으로 이어질 것인가 (Q2 실적에서 확인)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
+> [!fact] (출처: 루틴 수집, 2026-06-14) Verizon Frontier Communications 인수 완료 — 광케이블 통과 가구 3,000만+ 달성, 미국 최대 광네트워크 사업자 (Verizon IR, 2026-06-14)
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-14
+
+
+**narrative_score**: +0.44
+**key_events**: Frontier 인수 완료 — 광케이블 3,000만+ 가구, 3대 통신사 위성-셀룰러 JV 출범, 기업 광케이블 매출 +12% YoY
+**risks**: Frontier 통합 비용 및 고객 이탈 리스크, TMUS 모바일 가격 경쟁으로 무선 수익 압박, 금리 유지로 인프라 투자 이자 부담
+
+> [!claim] (출처: Verizon IR, 2026-06-14) Frontier 인수 완료 — 광케이블 통과 가구 3,000만+ 달성, 미국 최대 광네트워크 사업자
+> impact: + / category: m&a
+
+> [!claim] (출처: Reuters, 2026-06-10) Verizon·T-Mobile·AT&T 3대 통신사 위성-셀룰러 JV 설립 — 농촌·재난 지역 커버리지 공백 해소
+> impact: + / category: product
+
+> [!claim] (출처: Verizon IR, 2026-06-14) 기업 광케이블 매출 +12% YoY — AI 데이터센터 연결 수요 급증 수혜
+> impact: + / category: earnings
+
+**경쟁사 동향**:
+- T: Q1 광케이블 순증 584K 역대 최고 → VZ Frontier 통합 경쟁 압박 — 광케이블 시장 양강 체제 형성
+- TMUS: Q1 EPS 비트, FWA 500K+ 순증 → VZ 모바일 가입자 유지에 압박 — Frontier 유선 강화로 대응
+
+---
+
 ### 2026-06-07
 
 

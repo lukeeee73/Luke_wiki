@@ -1,7 +1,7 @@
 ---
 title: "NFLX - Netflix, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-14
 domain: finance
 type: claim
 weight: reference
@@ -28,16 +28,41 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: 넷플릭스 2026년 광고 매출이 TD Cowen 전망대로 $30억에 도달할 것인가 (pending)
 - [ ] **2026-05-17**: NFL 5경기 중계 확대가 광고형 멤버십 가입자 추가 유입의 실질적 촉매가 될 것인가 (pending)
+- [ ] **2026-06-14**: 광고 요금제 60%+ 침투율이 광고 단가(CPM) 상승으로 이어져 $30억 광고 매출 목표를 조기 달성할 것인가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
 
 > [!fact] (Netflix IR + CNBC, 2026-04-15) Q1 2026 가입자 3.25억+, 광고 고객사 4,000+ (+70% YoY), 자사주 매입 $13억 확인.
+> [!fact] (출처: 루틴 수집, 2026-06-14) Netflix Q1 광고 요금제 신규 가입 비중 60%+ 돌파, 연간 광고 매출 $30억 달성 경로 확인 (Bloomberg / Netflix IR, 2026-06-14)
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-14
+
+
+**narrative_score**: +0.62
+**key_events**: Q1 매출 +16.2% → $10.5B, 유료 가입자 +800만, 광고 요금제 신규 가입 60%+ 돌파, NFL 크리스마스 라이브 2029년 계약
+**risks**: 콘텐츠 투자 비용 증가로 자유현금흐름 압박, 광고 시장 경기 민감성, 라이브 스포츠 중계권 비용 과열
+
+> [!claim] (출처: Netflix IR, 2026-06-14) Q1 매출 +16.2% → $10.5B, 유료 가입자 +800만 — 광고 지원 요금제 효과 본격화
+> impact: + / category: earnings
+
+> [!claim] (출처: Bloomberg, 2026-06-13) 광고 요금제 신규 가입 60%+ 차지 — 광고 사업 연간 $30억 달성 경로 확인
+> impact: + / category: product
+
+> [!claim] (출처: Reuters, 2026-06-14) NFL 크리스마스 라이브 방송 2029년까지 확보 — 라이브 스포츠로 가입자 유인 강화
+> impact: + / category: product
+
+**경쟁사 동향**:
+- DIS: Q2 스트리밍 +88% ($5.82억) → NFLX 광고 모델 유효성 공동 증명
+- AMZN: Prime Video 광고 확장 → NFLX 광고 인벤토리 시장 경쟁 심화
+- SPOT: Q2 마진 가이던스 미스 → 미디어 스트리밍 수익화에서 NFLX 실행력 우위 부각
+
+---
+
 ### 2026-06-07
 
 

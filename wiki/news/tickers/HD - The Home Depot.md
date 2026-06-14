@@ -1,7 +1,7 @@
 ---
 title: "HD - The Home Depot, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-14
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 _(루틴 첫 실행 전 — 비어 있음)_
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-14**: 주택 거래 회복과 Pro 고객 강세가 하반기 동일매장 성장 회복으로 이어질 것인가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,21 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-14
+
+
+**narrative_score**: +0.44
+**key_events**: Q1 매출 $41.8B (+4.8%) 가이던스 유지, 미국 기존 주택 거래 2022년 이후 최고, Pro 세그먼트 5분기 연속 DIY 상회
+**risks**: 모기지 금리 재상승 시 주택 시장 위축, 관세로 수입 건자재 비용 상승, SRS Distribution 인수 통합 비용
+
+> [!claim] (출처: Home Depot IR, 2026-06-14) Q1 매출 $41.8B (+4.8%), Pro 고객 매출 +9% — 연간 가이던스 유지
+> impact: + / category: earnings
+
+> [!claim] (출처: NAR, 2026-06-14) 미국 기존 주택 거래량 2022년 이후 최고 — 모기지 금리 6.7%로 소폭 하락 효과
+> impact: + / category: macro
+
+---
+
 ### 2026-06-07
 
 

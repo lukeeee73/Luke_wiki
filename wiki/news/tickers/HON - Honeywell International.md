@@ -1,7 +1,7 @@
 ---
 title: "HON - Honeywell International — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-14
 domain: finance
 type: claim
 weight: reference
@@ -31,16 +31,40 @@ sources: []
 - [ ] **2026-05-17**: 이란 지정학 긴장이 HON 방산 제품 수요를 2분기에도 지속 견인할 것인가 (pending)
 
 - [ ] **2026-06-07**: Honeywell Aerospace(HONA) 분사 후 독립 기업으로서의 주주가치 창출 여부 — 6/29 분사 후 검증
+- [ ] **2026-06-14**: HONA 스핀오프 완료 후 HON 항공우주 집중 구조에서 마진 개선이 실현될 것인가 (6/29 스핀오프 완료 후 확인)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
 
 > [!fact] (PR Newswire, 2026-06-01) Honeywell Aerospace 분사 기준일 6/15, 완료 6/29 확정. 주주 2주당 HONA 1주, 1:2 역분할 동시 실행.
+> [!fact] (출처: 루틴 수집, 2026-06-14) HONA 스핀오프 6월 29일 완료 확정, 기준일(배당락) 6월 15일, 1:2 역분할 비율 공식 발표 (Honeywell IR, 2026-06-14)
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-14
+
+
+**narrative_score**: +0.44
+**key_events**: HONA 스핀오프 6월 29일 확정 (1:2 역분할), 배당락일 6월 15일 — 분기 $1.13, 2026 연간 가이던스 유지
+**risks**: 스핀오프 후 HON 항공우주 집중 구조에서 성장 다변화 약화, 항공 여행 수요 감소 시 항공우주 노출 리스크, HON·HONA 분리 비용 예상 초과
+
+> [!claim] (출처: Honeywell IR, 2026-06-14) HONA 스핀오프 6월 29일 확정 — 주식 1:2 역분할 비율 공개, HON 주주에 HONA 주식 배분
+> impact: + / category: other
+
+> [!claim] (출처: Honeywell IR, 2026-06-14) 배당락일 6월 15일 — 분기 배당 $1.13, HONA 스핀오프 전 마지막 합산 배당
+> impact: + / category: other
+
+> [!claim] (출처: Honeywell IR, 2026-06-14) 2026 연간 가이던스 유지 — 스핀오프 분리 비용 반영 후에도 EPS 가이던스 불변
+> impact: + / category: earnings
+
+**경쟁사 동향**:
+- GE: Q1 수주 +87% → $23B, LEAP 엔진 인도 +63% → HON 항공 소재·시스템 부문 간접 수요 유발
+- RTX: LTAMDS·방산전자 투자 확대 → HON 방산 소재 공급 수요 증가로 연결
+
+---
+
 ### 2026-06-07
 
 

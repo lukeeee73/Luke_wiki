@@ -1,7 +1,7 @@
 ---
 title: "GE - GE Aerospace — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-14
 domain: finance
 type: claim
 weight: reference
@@ -29,6 +29,7 @@ GE Aerospace는 민항기 엔진 세계 1위 기업이다. 과거 제너럴 일�
 - [ ] **2026-05-17**: 중국 400~450개 엔진 공급 약정이 구속력 있는 계약으로 전환되어 2027년부터 매출에 반영될 것인가 (pending)
 - [ ] **2026-05-17**: 미·중 무역 긴장 재발 시 엔진 수출 규제가 재부과될 가능성이 있는가 (pending)
 - [ ] **2026-05-17**: 상업 엔진 부문 34% 성장이 2026년 전체 연간으로도 20%+ 유지 가능한가 (pending)
+- [ ] **2026-06-14**: LEAP 엔진 인도 +63% 폭증이 지속될 것인가 vs 공급망 병목으로 둔화 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
@@ -39,6 +40,25 @@ GE Aerospace는 민항기 엔진 세계 1위 기업이다. 과거 제너럴 일�
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-14
+
+
+**narrative_score**: +0.41
+**key_events**: Q1 수주 +87% → $23B, LEAP 엔진 인도 +63%, Wolfspeed SiC MOU + $1B 미국 제조 투자
+**risks**: 항공사 수요 둔화 시 LEAP 신규 주문 감소, 공급망 부품 부족으로 인도 지연 리스크, SiC 기술 개발 지연으로 차세대 로드맵 밀림
+
+> [!claim] (출처: GE Aerospace IR, 2026-06-14) Q1 수주 +87% → $23B, LEAP 엔진 인도 +63% — 항공 여행 회복 수요 폭증 수혜
+> impact: + / category: earnings
+
+> [!claim] (출처: GE Aerospace, 2026-06-14) Wolfspeed과 SiC 전력모듈 MOU — 차세대 하이브리드 전기 항공기 전력계통 공동 개발
+> impact: + / category: product
+
+**경쟁사 동향**:
+- RTX: P&W 엔진·LTAMDS 방산전자 확장 → GE LEAP 엔진과 민간항공 시장 양강 체제 확인
+- HON: 스핀오프 후 항공우주 집중 → GE 항공부품 공급망에 긍정적
+
+---
+
 ### 2026-06-07
 
 

@@ -1,7 +1,7 @@
 ---
 title: "CHTR - Charter Communications — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-14
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: Spectrum Mobile 2회선 서비스($10/월)가 ARPU 개선 및 고객 이탈 방지에 기여할 것인가 (pending)
 - [ ] **2026-05-17**: AT&T 루멘 인수 완료가 CHTR 커버리지 지역에서 직접 경쟁으로 전환되는 시점과 강도 (pending)
+- [ ] **2026-06-14**: CHTR 광케이블 업그레이드 투자가 브로드밴드 이탈 방어로 이어지는 시점은 언제인가 (장기 추적 필요)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
@@ -36,6 +37,28 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-14
+
+
+**narrative_score**: -0.14
+**key_events**: Q1 브로드밴드 순감 18만 — 이탈 가속, 월간 주가 -12.3%, Spectrum TV AI 광고 타겟팅 도입
+**risks**: TMUS·VZ FWA 광케이블 대체 가속 — 구조적 이탈, 2025 광케이블 업그레이드 투자 회수 지연, 부채 레버리지 고정비 부담
+
+> [!claim] (출처: Charter IR, 2026-06-14) Q1 브로드밴드 순감 18만 — 전 분기 대비 악화, TMUS·VZ FWA 대체 심화
+> impact: - / category: earnings
+
+> [!claim] (출처: Bloomberg, 2026-06-13) 월간 -12.3% 언더퍼폼 — 브로드밴드 구조적 이탈과 2025 광케이블 투자 회수 불확실
+> impact: - / category: other
+
+> [!claim] (출처: CNBC, 2026-06-13) Spectrum TV AI 광고 타겟팅 추가 — 가입자 감소 대응, ARPU 방어 전략
+> impact: + / category: product
+
+**경쟁사 동향**:
+- CMCSA: 브로드밴드 이탈 45K로 예상 대비 개선 → CHTR 이탈 가속화 대비 CMCSA 상대 강세 부각
+- VZ: Frontier 광케이블 3,000만+ 완성 → CHTR 시장 광케이블 대체 압박 직접 가중
+
+---
+
 ### 2026-06-07
 
 

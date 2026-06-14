@@ -1,7 +1,7 @@
 ---
 title: "CMCSA - Comcast Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-14
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: 피콕(Peacock)이 Q2 2026에 CFO 전망대로 손익분기점에 근접할 것인가 (pending)
 - [ ] **2026-05-17**: 로쿠 채널 통한 피콕 판매 채널 확대가 가입자 성장을 의미 있게 가속화할 것인가 (pending)
+- [ ] **2026-06-14**: 브로드밴드 이탈 45K로 예상 대비 개선 — 2분기에 이탈 추세가 안정화될 것인가 (Q2 실적에서 확인)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
@@ -36,6 +37,28 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-14
+
+
+**narrative_score**: +0.29
+**key_events**: Versant 스핀오프 독립 완료, Q1 브로드밴드 순감 45K — 예상 대비 개선, Xfinity Mobile 43.5만 순증
+**risks**: FWA(TMUS·VZ)에 의한 브로드밴드 가입자 추가 이탈, Peacock 콘텐츠 투자 대비 가입자 성장 속도, 테마파크 경기 민감성
+
+> [!claim] (출처: Comcast IR, 2026-01-02) 케이블 채널(MSNBC·E! 등) 스핀오프 Versant 독립 완료 — CMCSA 테마파크·스트리밍 집중
+> impact: + / category: other
+
+> [!claim] (출처: Comcast IR, 2026-06-14) Q1 브로드밴드 순감 45K — 예상(-80K) 대비 개선, 하락세 둔화 신호
+> impact: + / category: earnings
+
+> [!claim] (출처: Comcast IR, 2026-06-14) Xfinity Mobile 무선 Q1 순증 43.5만 — MVNO 성장으로 브로드밴드 번들 방어
+> impact: + / category: earnings
+
+**경쟁사 동향**:
+- CHTR: 브로드밴드 이탈 가속 주가 -12.3% → CMCSA 브로드밴드 이탈 둔화 대비 상대적 강세
+- NFLX: Q1 +16.2% 광고 요금제 60% → CMCSA Peacock 구독 경쟁 압박이나 광고 다각화로 헤지
+
+---
+
 ### 2026-06-07
 
 

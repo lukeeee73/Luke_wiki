@@ -1,7 +1,7 @@
 ---
 title: "LMT - Lockheed Martin Corp. — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-14
 domain: finance
 type: claim
 weight: reference
@@ -29,6 +29,7 @@ sources: []
 - [ ] **2026-05-17**: FMS 승인 주기 장기화가 2026년 매출 성장률을 1~2%p 실질 감소시킬 것인가 (pending)
 - [ ] **2026-05-17**: Nokia 5G 협력이 LMT 통신 방산 시스템에 의미 있는 매출로 이어질 것인가 (pending)
 - [ ] **2026-05-17**: NATO 동맹국 방산비 20% 증가가 F-35 추가 발주로 구체화될 것인가 (pending)
+- [ ] **2026-06-14**: 주간 $100억 수주 행진이 FY2026 전체 수주잔고 사상 최고 갱신으로 이어질 것인가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
@@ -37,6 +38,28 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-14
+
+
+**narrative_score**: +0.62
+**key_events**: 주간 PAC-3·F-35·MH-60R 계약 합계 ~$100억, $5.14억 우주군 위성 계약, Deutsche Bank Buy 업그레이드 목표가 $610
+**risks**: F-35 공급망 병목으로 인도 지연, 방산 예산 지속성 — 정치 사이클 의존, 원가 초과(cost overrun) 고정가 계약 리스크
+
+> [!claim] (출처: DoD / LMT IR, 2026-06-14) PAC-3 미사일·F-35·MH-60R 등 주간 계약 합계 약 $100억 — 미사일방어 수요 급증
+> impact: + / category: earnings
+
+> [!claim] (출처: DoD, 2026-06-14) $5.14억 우주군 위성 계약 — 우주 인프라 포트폴리오 확장
+> impact: + / category: earnings
+
+> [!claim] (출처: Deutsche Bank, 2026-06-14) Buy 업그레이드, 목표가 $610 — 유럽 재무장 사이클 직접 수혜 근거
+> impact: + / category: other
+
+**경쟁사 동향**:
+- RTX: $5.15억 SPY-6 레이더 양산 계약 → 미사일방어 예산 확대로 LMT PAC-3와 동반 수혜
+- NOC: B-21 생산율 25% 확대 → 방산 예산 확대 공유
+
+---
+
 ### 2026-06-07
 
 

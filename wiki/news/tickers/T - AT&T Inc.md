@@ -1,7 +1,7 @@
 ---
 title: "T - AT&T Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-14
 domain: finance
 type: claim
 weight: reference
@@ -28,14 +28,38 @@ AT&T는 미국 2위 통신사로, 과거 워너미디어(HBO, CNN 등 미디어 
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: 루멘 광케이블 인수가 AT&T 광케이블 가입자 성장을 연내 가시적으로 가속화할 것인가 (pending)
 - [ ] **2026-05-17**: T-Mobile FWA+스타링크 서비스가 AT&T 광케이블 가입자 성장에 구조적 위협이 될 것인가 (pending)
+- [ ] **2026-06-14**: Q1 광케이블 584K 순증이 지속 가속될 것인가 — Lumen 인수 통합 효과 포함 Q2 확인 예정
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
+> [!fact] (출처: 루틴 수집, 2026-06-14) AT&T Q1 광케이블 순증 584K 역대 최고 기록 (AT&T IR, 2026-06-14), Lumen 11개 주 유선 인수 완료
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-14
+
+
+**narrative_score**: +0.56
+**key_events**: Q1 광케이블 순증 584K 역대 최고, Lumen 유선 11개 주 인수 완료, 3사 위성-셀룰러 JV 출범
+**risks**: Lumen 인수 통합 비용 및 레거시 인프라 교체 속도, TMUS 가격 경쟁으로 무선 ARPU 하락, 부채 규모 지속 — 이자 비용이 잉여현금 압박
+
+> [!claim] (출처: AT&T IR, 2026-06-14) Q1 광케이블 순증 584K로 역대 최고 — 광케이블 통과 가구 누적 3,000만 달성
+> impact: + / category: earnings
+
+> [!claim] (출처: Reuters, 2026-06-14) Lumen 유선 사업 11개 주 인수 완료 — 광케이블 커버리지 남부·중서부 확대
+> impact: + / category: m&a
+
+> [!claim] (출처: AT&T Newsroom, 2026-06-10) 3사 위성-셀룰러 JV 참여 — 농촌 커버리지 해소로 가입자 이탈 방지
+> impact: + / category: product
+
+**경쟁사 동향**:
+- VZ: Frontier 인수 완료 광케이블 3,000만+ → T와 광케이블 규모 경쟁 양강 구도
+- TMUS: FWA 500K+ 순증 → T 모바일 가입자 유출 압박, T는 유선 광케이블로 차별화
+
+---
+
 ### 2026-06-07
 
 
