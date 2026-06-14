@@ -1,7 +1,7 @@
 ---
 title: "AI Domain Index"
 created: 2026-05-02
-updated: 2026-05-07
+updated: 2026-06-14
 domain: ai
 type: index
 weight: foundational
@@ -42,6 +42,7 @@ AI/LLM, 에이전트, 프롬프트 엔지니어링, AI 제품 관련 모든 페�
 - [Anthropic: Eval 인프라 노이즈 정량화](../topics/anthropic-infrastructure-noise.md) — Terminal-Bench 기반 노이즈 측정 연구
 - [Claude Code 세션 관리와 1M 컨텍스트](../topics/claude-code-session-management.md) — 긴 세션의 컨텍스트 관리 전략
 - [Karpathy Autoresearch](../topics/karpathy-autoresearch.md) — AI 에이전트가 단일 GPU에서 자율 ML 실험 (630줄, 2026-05)
+- [AI 신약 개발 — 발굴은 압축, 임상은 불변](../topics/ai-drug-discovery.md) — AI는 발굴(1상 80~90%)을 압축하나 임상(2상 ~40%)의 벽에서 멈춘다 (`domain: ai, finance`, 2026-06)
 - [The Batch Issue 347 요약](../topics/the-batch-issue-347.md) — 2026년 AI 뉴스 스냅샷
 
 ---

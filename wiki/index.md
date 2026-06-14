@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 created: 2026-04-05
-updated: 2026-06-09
+updated: 2026-06-14
 tags: [index, meta]
 sources: []
 ---
@@ -99,6 +99,7 @@ sources: []
 - [Claude Code 세션 관리와 1M 컨텍스트](topics/claude-code-session-management.md) — 컨텍스트 롯, 5가지 세션 전략 (2026-04)
 - [Claude 개인 조언 연구](topics/claude-personal-guidance.md) — 1M 대화 분석, 9개 도메인 분포, 아첨 실태(관계 25%·영성 38%), Opus 4.7 개선 (2026-05)
 - [Karpathy Autoresearch](topics/karpathy-autoresearch.md) — AI 에이전트의 단일 GPU 자율 ML 실험 루프, 630줄 train.py 분석 (2026-05)
+- [AI 신약 개발 — 발굴은 압축, 임상은 불변](topics/ai-drug-discovery.md) — AlphaFold3/IsoDDE/GPT-Rosalind, 임상 1상 80~90% vs 2상 40%, 50:1 바이오벅스 (`domain: ai, finance`) (2026-06)
 - [The Batch Issue 347](topics/the-batch-issue-347.md) — AI 뉴스 스냅샷 (2026-04)
 
 ### Finance

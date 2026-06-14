@@ -1,7 +1,7 @@
 ---
 title: "Finance Domain Index"
 created: 2026-05-02
-updated: 2026-05-16
+updated: 2026-06-14
 domain: finance
 type: index
 weight: foundational
@@ -39,6 +39,7 @@ sources: []
 
 - [Ray Dalio - 세계대전과 Big Cycle 분석](../topics/ray-dalio-world-war-big-cycle.md) — 현재 세계 질서가 대전환점에 있다는 분석 (`confidence: medium`)
 - [Ray Dalio All Weather Portfolio](../topics/all-weather-portfolio.md) — All Weather의 설계 원리와 실제 구성
+- [AI 신약 개발 — 발굴은 압축, 임상은 불변](../topics/ai-drug-discovery.md) — AI 신약 투자의 50:1 바이오벅스 비율, 임상 미입증을 시장이 가격에 반영 (`domain: ai, finance`, 2026-06)
 
 ---
 
