@@ -1,7 +1,7 @@
 ---
 title: "GOOGL - Alphabet Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-08
+updated: 2026-06-15
 domain: finance
 type: claim
 weight: reference
@@ -31,8 +31,10 @@ sources: []
 - [x] **2026-05-18**: 2026 EPS 컨센서스 $11.63→$14.22 상향, 클라우드 시장 점유율 확대 (**verified** 2026-06-01: Q1 EPS $5.17 (+82% YoY), 목표주가 $427.89로 추가 상향)
 - [x] **2026-05-18**: Bill Ackman GOOGL 전량 매도 — 기관 투자자 이탈 신호 (**refuted** 2026-06-01: Berkshire Hathaway $100억 신규 투자 — 기관 자금 유입으로 반증)
 - [x] **2026-06-01**: $800억 AI 자본 조달이 GCP·Waymo 경쟁력 급격히 높일 것 (**aged-out** 2026-06-08: 7일 내 시장 점유율 변화 미확인; 단 capex $180~190B·$25B TPU 벤처로 투자 확장 확인)
-- [ ] **2026-06-08**: $25B Blackstone TPU 벤처가 GCP AI 추론 속도를 경쟁사 대비 30%+ 개선할 것 (7일 검증 대기)
-- [ ] **2026-06-08**: 2026 capex $180~190B 초대형 투자가 2027 EPS 성장률을 단기 훼손할 것 (7일 검증 대기)
+- [x] **2026-06-08**: $25B Blackstone TPU 벤처가 GCP AI 추론 속도를 경쟁사 대비 30%+ 개선할 것 (**aged-out** 2026-06-15: 7일 내 벤치마크 데이터 없음; 단 6/12 신규 AI 에이전트 출시로 GCP AI 전략 진전 확인)
+- [x] **2026-06-08**: 2026 capex $180~190B 초대형 투자가 2027 EPS 성장률을 단기 훼손할 것 (**aged-out** 2026-06-15: 7일 내 2027 EPS 컨센서스 변화 데이터 없음; Q1 순이익 +81% 성장이 capex 우려 상쇄 중)
+- [ ] **2026-06-15**: 6/15 GOOGL +3.19% 급등이 AI 모멘텀 재평가 시작인지, 또는 배당 지급일 기술적 반등인지 (7일 검증 대기)
+- [ ] **2026-06-15**: $80B 유상증자 희석이 주주 환원 지속성에 실질적 영향을 줄 것 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +51,8 @@ sources: []
 > 역대 최대 규모 AI 인프라 확장 자금. 버크셔 신규 투자로 기관 매수 신호 확인.
 > [!fact] (Yahoo Finance + Google Finance, 2026-06-08) Alphabet 2026 capex $180~190B 상향 + $25B Blackstone TPU 벤처 확정
 > 2026 전체 AI 인프라 투자 $1,800~1,900억. Blackstone와 합작 TPU AI 벤처 $250억 규모. 배당 권리락일 2026-06-08.
+> [!fact] (TradingKey + Robinhood, 2026-06-15) GOOGL +3.19% 급등, 분기 배당 $0.22 지급, AI 에이전트 6/12 공개
+> 앨라배마 Jackson County 데이터센터 $15억 투자 발표. 배당 지급일 6/15 확정.
 
 <!-- FACTS_END -->
 
@@ -57,6 +61,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-15
+
+**narrative_score**: +0.21
+**key_events**: GOOGL +3.19% 급등, Q1 순이익 +81%, 신규 AI 에이전트 6/12 공개, 분기 배당 $0.22 지급
+**risks**: $80B 유상증자 희석 리스크, DOJ 반독점 소송 지속, $180~190B capex FCF 압박
+
+> [!claim] (출처: TradingKey, 2026-06-15) GOOGL 6/15 +3.19% 급등 — AI 모멘텀 재평가
+> 배당 지급일 효과 + AI 에이전트 출시 후 긍정 리레이팅. impact: + / category: other
+
+> [!claim] (출처: Alphabet IR, 2026-06-12) 실시간 개인화 AI 에이전트 6종 신규 공개
+> GCP AI 서비스 경쟁력 강화. impact: + / category: product
+
+> [!claim] (출처: Robinhood / Alphabet IR, 2026-06-15) 분기 배당 $0.22 지급 + 앨라배마 데이터센터 $15억 투자
+> 주주 환원 + AI 인프라 투자 동시 진행. impact: + / category: other
+
+**경쟁사 동향**:
+- MSFT: Azure AI $37B 런레이트 — GCP 클라우드 AI 점유율 경쟁 (impact for GOOGL: -)
+- META: Business Agent 광고 AI 강화 — YouTube 광고 경쟁 (impact for GOOGL: -)
+
+---
 
 ### 2026-06-08
 

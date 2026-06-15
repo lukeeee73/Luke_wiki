@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-15
 domain: finance
 type: index
 weight: reference
@@ -37,16 +37,16 @@ sources: []
 
 | Ticker                                          | as_of      | score  | 핵심 한 줄                                         | open claims |
 | ----------------------------------------------- | ---------- | ------ | ----------------------------------------------- | ----------- |
-| [AAPL](tickers/AAPL - Apple Inc.md)                     | 2026-06-08 | +0.09  | WWDC 2026 Apple Intelligence·AI Siri 공개, 주가 sell-the-news -1.89%  | 2           |
-| [MSFT](tickers/MSFT - Microsoft Corporation.md)         | 2026-06-08 | +0.13  | MAI-Thinking-1 포함 7개 AI 모델 + Majorana 2 양자칩 공개, YTD -12%   | 2           |
-| [GOOGL](tickers/GOOGL - Alphabet Inc.md)                | 2026-06-08 | +0.07  | capex $180~190B 상향, $25B Blackstone TPU 벤처, 배당 권리락 주가 -1.18%  | 2           |
-| [AMZN](tickers/AMZN - Amazon.com Inc.md)                | 2026-06-08 | +0.17  | Corning 광섬유 대규모 계약, 자연어 물류 로봇 출시, 62명 전원 매수      | 2           |
-| [META](tickers/META - Meta Platforms Inc.md)            | 2026-06-08 | +0.17  | Q1 EPS 57% 어닝 서프라이즈, 비즈니스 AI 에이전트 글로벌 출시           | 2           |
-| [ORCL](tickers/ORCL - Oracle Corporation.md)            | 2026-06-08 | +0.30  | Q4 발표 6/12 (매출 +20% 기대), RPO +325% $533B, 3개 증권사 목표가 상향  | 1           |
-| [CRM](tickers/CRM - Salesforce, Inc.md)                 | 2026-06-08 | +0.47  | Q1 FY27 EPS +50% (컨센 24% 초과), Agentforce ARR $1.2B (+205%)       | 2           |
-| [ADBE](tickers/ADBE - Adobe Inc.md)                     | 2026-06-08 | -0.17  | Q2 발표 6/11, YTD -27.49%, 애널 혼조 (Stifel $400↑ vs TD Cowen $285↓) | 2           |
-| [IBM](tickers/IBM - International Business Machines.md) | 2026-06-08 | +0.24  | $10B 양자컴퓨팅 투자 (+7%), Nvidia Vera Rubin 파트너, BofA $315 상향   | 2           |
-| [PLTR](tickers/PLTR - Palantir Technologies Inc.md)     | 2026-06-08 | +0.46  | Q1 EPS 22% 어닝 서프라이즈, FY2026 가이던스 +71%, 미국 세 자릿수 성장  | 2           |
+| [AAPL](tickers/AAPL - Apple Inc.md)                     | 2026-06-15 | +0.03  | WWDC 후 주가 8% 하락, MS PT $360 상향, 시리 AI 베타 미국 한정 (EU·중국 제외) | 1           |
+| [MSFT](tickers/MSFT - Microsoft Corporation.md)         | 2026-06-15 | +0.15  | Q3 Azure +40% / AI $37B 런레이트(+123%), 배당 $0.91, Xbox 대규모 감원 | 2           |
+| [GOOGL](tickers/GOOGL - Alphabet Inc.md)                | 2026-06-15 | +0.21  | +3.19% 급등, Q1 순이익 +81%, AI 에이전트 6/12 공개, 배당 $0.22 지급   | 2           |
+| [AMZN](tickers/AMZN - Amazon.com Inc.md)                | 2026-06-15 | +0.10  | +3.70% 급등, 프라임데이 6/23~26 확정, EU·FTC 이중 규제 리스크           | 2           |
+| [META](tickers/META - Meta Platforms Inc.md)            | 2026-06-15 | +0.11  | 비즈니스 AI 에이전트 글로벌 출시, 광고 AI 전환율 개선 확인, YTD -13%   | 1           |
+| [ORCL](tickers/ORCL - Oracle Corporation.md)            | 2026-06-15 | +0.07  | Q4 IaaS +93%·클라우드 +47% 달성, $20B 유상증자 → 주가 8~10% 급락     | 2           |
+| [CRM](tickers/CRM - Salesforce, Inc.md)                 | 2026-06-15 | +0.26  | $36억 Fin 인수(AI 에이전트), Q1 EPS +50%, Agentforce ARR $1.2B (+205%) | 2           |
+| [ADBE](tickers/ADBE - Adobe Inc.md)                     | 2026-06-15 | +0.06  | Q2 EPS 비트+가이던스 상향, CFO 퇴임+3개 다운그레이드, 6일 -19% 후 +1.7% | 2           |
+| [IBM](tickers/IBM - International Business Machines.md) | 2026-06-15 | +0.21  | Q1 FCF +13%, ServiceNow 협력, Anderon 양자 파운드리 설립, ATH 대비 -17% | 2           |
+| [PLTR](tickers/PLTR - Palantir Technologies Inc.md)     | 2026-06-15 | +0.20  | +5.2% ($134.71), 목표가 $225 상향, Q1 +85%, 구글·GNP·McCarthy 파트너십 | 2           |
 
 ### 반도체
 

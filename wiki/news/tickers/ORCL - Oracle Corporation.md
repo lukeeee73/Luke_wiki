@@ -1,7 +1,7 @@
 ---
 title: "ORCL - Oracle Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-08
+updated: 2026-06-15
 domain: finance
 type: claim
 weight: reference
@@ -29,8 +29,10 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-18**: Wedbush·Oppenheimer 목표주가 동시 상향 ($275/$235), 삼성 Java 계약 체결 (**verified** 2026-06-01: 오늘 주가 +5.56%, 목표주가 추가 상향 — 모멘텀 지속 확인)
-- [ ] **2026-06-01**: Q4 FY2026 실적 발표 시 OCI 백로그 규모 재차 컨센서스 상회할 것 (pending — 발표일 6/12로 확인, 현재 3개 증권사 추가 목표가 상향으로 기대 고조)
-- [ ] **2026-06-08**: Q4 매출 +20% ($19.19B) 달성 및 RPO $533B 이상 유지로 AI 클라우드 지배력 재확인될 것 (7일 검증 대기)
+- [x] **2026-06-01**: Q4 FY2026 실적 발표 시 OCI 백로그 규모 재차 컨센서스 상회할 것 (**verified** 2026-06-15: Q4 매출 $19.2B +21%, IaaS +93% — 컨센서스 초과 달성 확인)
+- [x] **2026-06-08**: Q4 매출 +20% ($19.19B) 달성 및 RPO $533B 이상 유지로 AI 클라우드 지배력 재확인될 것 (**verified** 2026-06-15: Q4 실제 $19.2B +21% — 예상치 초과; 단 주가 8~10% 급락으로 시장 반응 부정적)
+- [ ] **2026-06-15**: $20B 유상증자 희석이 FY27 EPS 성장률을 3~5%p 이상 훼손할 것 (7일 검증 대기)
+- [ ] **2026-06-15**: Q4 후 주가 $180~184 급락 수준이 단기 과매도 구간으로, 4~6주 내 $200 회복될 것 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -47,6 +49,8 @@ sources: []
 > 뉴멕시코 Project Jupiter 대규모 데이터센터 착공 계획.
 > [!fact] (Yahoo Finance + CNN, 2026-06-08) Oracle Q3 RPO $533B (+325% YoY) 확정, Q4 발표 6/12 예정
 > 3개 주요 증권사(Evercore·Oppenheimer·TD Cowen) 목표가 일제히 상향. 4월 저점 대비 +60% 랠리.
+> [!fact] (Oracle IR + CNBC, 2026-06-10) Oracle Q4 FY2026 기록적 실적 확정
+> 매출 $19.2B (+21%), 클라우드 $9.9B (+47%), IaaS +93%. FY27 가이던스 $90B, adj EPS $8.05. 단 $40B 자본 조달($20B 유상증자) 발표로 주가 8~10% 급락.
 
 <!-- FACTS_END -->
 
@@ -55,6 +59,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-15
+
+**narrative_score**: +0.07
+**key_events**: Q4 FY26 $19.2B (+21%)·IaaS +93% 달성, FY27 가이던스 $90B, $20B 유상증자 → 주가 8~10% 급락
+**risks**: $20B 유상증자 EPS 희석, FY27 capex $70B FCF 압박, 주가 과매도 회복 불확실
+
+> [!claim] (출처: Oracle IR, 2026-06-10) Q4 FY26 매출 $19.2B (+21%), 클라우드 $9.9B (+47%), IaaS +93%
+> FY27 가이던스 $90B, adj EPS $8.05 — 기대 초과 달성. impact: + / category: earnings
+
+> [!claim] (출처: Motley Fool, 2026-06-11) $40B 자본 조달 발표 ($20B 유상증자 포함) — 주가 8~10% 급락
+> FY27 capex $70B 계획으로 희석 우려 확산. impact: - / category: other
+
+> [!claim] (출처: Oracle IR, 2026-06-10) OCI AI 업데이트: Cohere Rerank 4·멀티모달 확장, UAE 리전 개방
+> OCI AI 제품 확장 지속. impact: + / category: product
+
+**경쟁사 동향**:
+- MSFT: Azure AI $37B 런레이트 — OCI AI 클라우드 경쟁 심화 (impact for ORCL: -)
+- CRM: $3.6B Fin 인수 — 엔터프라이즈 SaaS 경쟁 (impact for ORCL: -)
+
+---
 
 ### 2026-06-08
 

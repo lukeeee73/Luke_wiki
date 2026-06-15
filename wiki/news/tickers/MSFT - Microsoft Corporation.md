@@ -1,7 +1,7 @@
 ---
 title: "MSFT - Microsoft Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-08
+updated: 2026-06-15
 domain: finance
 type: claim
 weight: reference
@@ -30,8 +30,10 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-18**: MSFT OpenAI 의존도 탈피 → 독립 AI 성장 전략 구체화 (**verified** 2026-06-01: Build 2026에서 자체 AI 코딩 모델 공개 확정)
 - [x] **2026-06-01**: Build 2026 자체 AI 코딩 모델이 GitHub Copilot 시장 점유율 개선으로 이어질 것 (**aged-out** 2026-06-08: 7일 내 시장 점유율 변화 데이터 없음; 단 AI 모델 포트폴리오 7종 추가 확장 확인)
-- [ ] **2026-06-08**: MAI-Thinking-1 추론 모델이 OpenAI o3 대비 Azure AI 고객 이탈 방지에 기여할 것 (7일 검증 대기)
-- [ ] **2026-06-08**: Majorana 2 양자칩 로드맵이 2029년 내결함성 양자컴퓨터 상용화로 현실화될 것 (7일 검증 대기)
+- [x] **2026-06-08**: MAI-Thinking-1 추론 모델이 OpenAI o3 대비 Azure AI 고객 이탈 방지에 기여할 것 (**aged-out** 2026-06-15: 7일 내 점유율 데이터 없음; Azure +40% 성장 지속으로 전반적 긍정 환경 확인)
+- [x] **2026-06-08**: Majorana 2 양자칩 로드맵이 2029년 내결함성 양자컴퓨터 상용화로 현실화될 것 (**aged-out** 2026-06-15: 7일 내 추가 진전 없음; IBM도 동시에 Anderon 파운드리 발표로 양자 경쟁 가속 확인)
+- [ ] **2026-06-15**: Xbox 대규모 감원이 게임 사업 경쟁력을 약화시킬지, 또는 비용 효율화로 MSFT 전체 마진 개선에 기여할지 (7일 검증 대기)
+- [ ] **2026-06-15**: YTD -17% 주가 부진이 저평가 매수 기회인지, 또는 시장 대비 구조적 언더퍼폼 신호인지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -48,6 +50,8 @@ sources: []
 > OpenAI 의존 탈피 전략 공식화. 6월 2~3일 컨퍼런스.
 > [!fact] (CNBC + CNN, 2026-06-08) Microsoft AI 모델 포트폴리오 7종 출시 + Majorana 2 양자칩 공개
 > MAI-Thinking-1 추론 모델 포함 7개 자체 모델. Majorana 2 양자칩 발표로 2029 내결함성 양자컴퓨터 로드맵 공개.
+> [!fact] (Yahoo Finance + CNBC, 2026-04-29) Microsoft Q3 FY2026: EPS $4.27 (+$0.20 비트), 매출 $82.9B (+18.3%), Azure +40%
+> AI 사업 연간 런레이트 $37B (+123%). 분기 배당 $0.91/주 선언(2026-06-10).
 
 <!-- FACTS_END -->
 
@@ -56,6 +60,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-15
+
+**narrative_score**: +0.15
+**key_events**: Q3 FY26 Azure +40% / AI $37B 런레이트(+123%), 분기 배당 $0.91 선언, Xbox 대규모 감원·Claude 사용 제한
+**risks**: YTD -17% 시장 대비 부진 지속, Xbox 감원으로 게임 경쟁력 약화, 클라우드 AI 경쟁 심화
+
+> [!claim] (출처: CNBC, 2026-04-29) Q3 FY26 EPS $4.27 비트, Azure +40%, AI 런레이트 $37B (+123%)
+> 18.3% 매출 성장. impact: + / category: earnings
+
+> [!claim] (출처: Bloomberg, 2026-06-11) Xbox 부문 대규모 감원 + 마케팅 예산 삭감
+> 게임 사업 구조조정 진행 중. impact: - / category: other
+
+> [!claim] (출처: Yahoo Finance / investsnips, 2026-06-10) 이사회 분기 배당 $0.91/주 선언
+> 배당 안정성 재확인. impact: + / category: earnings
+
+**경쟁사 동향**:
+- GOOGL: Q1 순이익 +81%, AI 에이전트 6/12 공개 — GCP vs Azure 경쟁 심화 (impact for MSFT: -)
+- ORCL: IaaS +93%, FY27 가이던스 $90B — 엔터프라이즈 클라우드 경쟁 (impact for MSFT: -)
+
+---
 
 ### 2026-06-08
 

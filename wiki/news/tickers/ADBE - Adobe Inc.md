@@ -1,7 +1,7 @@
 ---
 title: "ADBE - Adobe Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-08
+updated: 2026-06-15
 domain: finance
 type: claim
 weight: reference
@@ -30,8 +30,10 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-18**: $25B 자사주 매입 + Semrush 인수 + AI PDF 에이전트 출시 (**partially verified** 2026-06-08: Semrush $1.9B 인수 확정; 자사주 매입 규모 별도 확인 필요)
 - [x] **2026-05-18**: 소프트웨어 섹터 로테이션 — ADBE 주도주 부상, 당일 +3.2% (**verified** 2026-06-01: 오늘도 +5.7% 반등, 소프트웨어 섹터 로테이션 지속 확인)
-- [ ] **2026-06-01**: Q2 FY2026(6/11) 실적이 EPS +15.2% 예상치를 충족해 장기 약세 반전 촉매 될 것 (pending — 실적 발표 6/11, 오늘 주가 -1%·애널리스트 혼조로 불확실성 고조)
-- [ ] **2026-06-08**: Q2 FY2026 실적 발표(6/11) 후 CEO 교체 불확실성과 AI 경쟁 압박이 하락 압력 지속할 것 (7일 검증 대기)
+- [x] **2026-06-01**: Q2 FY2026(6/11) 실적이 EPS +15.2% 예상치를 충족해 장기 약세 반전 촉매 될 것 (**partially verified** 2026-06-15: EPS $5.96 비트(+0.2%), 가이던스 상향 — 그러나 CFO 퇴임 + 3개 증권사 다운그레이드로 주가 -19% 연속 하락 → 반전 촉매 역할 실패)
+- [x] **2026-06-08**: Q2 FY2026 실적 발표(6/11) 후 CEO 교체 불확실성과 AI 경쟁 압박이 하락 압력 지속할 것 (**verified** 2026-06-15: CFO 댄 던 퇴임 + 3개 다운그레이드로 주가 6일 -19% 급락 — 하락 압력 현실화)
+- [ ] **2026-06-15**: CFO 공백 상태에서 신임 CFO 선임이 90일 이내 완료되어 경영 안정성 회복될 것 (7일 검증 대기)
+- [ ] **2026-06-15**: A.J. 버튼 매수 등급 상향 + 가이던스 $26.5~26.6B이 주가 반등 지속의 근거가 될 것 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +47,8 @@ sources: []
 > 예상 EPS $5.83(+15.2% YoY), 예상 매출 $64.6억(+9.9% YoY).
 > [!fact] (Traders Union + Gurufocus, 2026-06-08) Adobe Semrush $1.9B 인수 확정, CEO 교체 진행 중
 > 쉬안타누 나라옌 CEO 퇴임. Q2 FY2026 실적 발표 6월 11일. YTD -27.49% 약세 지속.
+> [!fact] (Quiver Quant + GuruFocus, 2026-06-11/15) Q2 FY2026 EPS $5.96 비트, FY26 가이던스 $26.5~26.6B 상향 확정
+> CFO 댄 던 마벨 이직 발표 + 3개 증권사 다운그레이드로 주가 6일 -19% 급락. 6/15 A.J. 버튼 매수 등급 상향 + $207.53 (+1.7%) 회복.
 
 <!-- FACTS_END -->
 
@@ -53,6 +57,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-15
+
+**narrative_score**: +0.06
+**key_events**: Q2 EPS $5.96 비트, FY26 가이던스 $26.5~26.6B 상향, CFO 퇴임 → 주가 6일 -19% → 6/15 +1.7% 회복
+**risks**: CFO 공백, 프리미엄→프리미엄 전환 단기 ARR 희생, MSFT·Canva AI 크리에이티브 경쟁
+
+> [!claim] (출처: Quiver Quant, 2026-06-11) Q2 EPS $5.96 비트, 매출 $6.62B (+11% YoY), FY 가이던스 $26.5~26.6B 상향
+> 컨센서스 $26.09B 상회. impact: + / category: earnings
+
+> [!claim] (출처: GuruFocus, 2026-06-11) CFO 댄 던 마벨 이직 — 3개 증권사 동시 다운그레이드
+> 경영 공백 우려. impact: - / category: other
+
+> [!claim] (출처: GuruFocus, 2026-06-15) A.J. 버튼 매수 등급 상향, 주가 +1.7% ($207.53) 회복
+> 6일 -19% 하락 후 지지선 형성 시도. impact: + / category: other
+
+**경쟁사 동향**:
+- MSFT: Designer·Copilot AI 크리에이티브 확장 — Adobe Firefly 핵심 시장 경쟁 (impact for ADBE: -)
+- CRM: Agentforce 마케팅 컨텐츠 AI 진출 — Adobe Experience Cloud 일부 중첩 (impact for ADBE: -)
+
+---
 
 ### 2026-06-08
 
