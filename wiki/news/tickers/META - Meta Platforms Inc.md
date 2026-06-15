@@ -1,7 +1,7 @@
 ---
 title: "META - Meta Platforms Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-08
+updated: 2026-06-15
 domain: finance
 type: claim
 weight: reference
@@ -31,8 +31,9 @@ sources: []
 - [x] **2026-05-18**: Q1 매출 $56.3B (+33%), EPS 어닝 서프라이즈 (**verified** 2026-06-01: 다수 매체 확인, 광고 노출 +19%·단가 +12% 세부 수치도 확정)
 - [x] **2026-05-18**: 2026 capex $125B (+8% 상향) (**verified** 2026-06-01: $115~135B 범위로 최종 확정)
 - [x] **2026-06-01**: EU DSA 위반 조사·영국 메시징 시장 조사 중 하나 이상이 실질적 벌금으로 이어질 것 (**aged-out** 2026-06-08: 7일 내 실질 벌금 결정 없음, 조사는 지속 중)
-- [ ] **2026-06-08**: 2026 capex $125~145B 상향이 FCF 마진을 15%p 이상 압박해 주가 재조정 유발할 것 (7일 검증 대기)
-- [ ] **2026-06-08**: Agentforce(비즈니스 AI 에이전트) 글로벌 출시가 광고 전환율 및 ARPU 상승으로 이어질 것 (7일 검증 대기)
+- [x] **2026-06-08**: 2026 capex $125~145B 상향이 FCF 마진을 15%p 이상 압박해 주가 재조정 유발할 것 (**verified** 2026-06-15: YTD -13% 주가 하락이 고capex 우려를 반영한 시장 재평가로 확인)
+- [x] **2026-06-08**: Meta 비즈니스 AI 에이전트 글로벌 출시가 광고 전환율 및 ARPU 상승으로 이어질 것 (**verified** 2026-06-15: Motley Fool — 광고 랭킹 AI 모델의 전환율 개선 초기 확인, Business Agent 글로벌 배포 완료)
+- [ ] **2026-06-15**: Meta Business Agent 글로벌 출시 이후 WhatsApp 비즈니스 대화량 추가 확대 및 엔터프라이즈 ARPU 상승이 Q2 가이던스 달성 견인할 것 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +50,8 @@ sources: []
 > Q2 2026 매출 가이던스 $58~61B. 2026 capex $115~135B 최종 확정.
 > [!fact] (Meta IR + 다수 매체, 2026-06-08) Meta 비즈니스 AI 에이전트 글로벌 출시 확정
 > 전 세계 WhatsApp·Messenger 기업 계정 대상 배포 완료. 광고 전환율 초기 개선 효과 확인.
+> [!fact] (Motley Fool + Quiver Quant, 2026-06-13/15) 광고 랭킹 AI 모델의 전환율 개선 초기 수익화 확인
+> AI 광고 랭킹 모델에서 개선된 전환율 실현. 구독 및 엔터프라이즈 확장 병행. YTD -13% 주가 부진 지속.
 
 <!-- FACTS_END -->
 
@@ -57,6 +60,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-15
+
+**narrative_score**: +0.11
+**key_events**: 메타 비즈니스 에이전트 글로벌 출시, AI 광고 전환율 개선 확인, YTD -13% 주가 부진, 29개 증권사 중간 목표가 $815
+**risks**: EU·미국 규제 압박 강화, 고AI capex 지속, 광고 시장 경기 둔화 시 매출 취약
+
+> [!claim] (출처: Motley Fool, 2026-06-03) 메타 비즈니스 AI 에이전트 글로벌 출시 — 주가 +4%
+> 기업용 AI 고객 서비스 에이전트 전 세계 배포. impact: + / category: product
+
+> [!claim] (출처: Motley Fool, 2026-06-13) AI 광고 랭킹 모델에서 전환율 개선 초기 수익화 확인
+> 고capex 투자의 첫 가시적 수익 증거. impact: + / category: earnings
+
+> [!claim] (출처: Quiver Quant, 2026-06-10) YTD -13%, 규제 압박·AI 투자 회의론 지속
+> 29개 증권사 중간 목표가 $815 (현재比 +40%). impact: neutral / category: other
+
+**경쟁사 동향**:
+- GOOGL: Q1 광고 매출 강세 — YouTube vs Meta 광고 점유율 경쟁 (impact for META: -)
+- SNAP: 인스타그램 릴스 대비 이용자 이탈 지속 — META 플랫폼 우위 유지 (impact for META: +)
+
+---
 
 ### 2026-06-08
 

@@ -1,7 +1,7 @@
 ---
 title: "AAPL - Apple Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-08
+updated: 2026-06-15
 domain: finance
 type: claim
 weight: reference
@@ -31,7 +31,8 @@ sources: []
 - [x] **2026-05-18**: Apple 첫 폴더블 기기 힌지 결함 — 출시 2027년으로 지연 가능 (**aged-out** 2026-06-08: 21일 내 추가 확인 없음, WWDC에서도 언급 없음)
 - [x] **2026-06-01**: WWDC 2026(6월 8일) AI 발표가 AI 생태계 경쟁력 격차를 좁힐 것 (**verified** 2026-06-08: Apple Intelligence·AI Siri 공개 확정, 단 주가는 sell-the-news로 -1.89%)
 - [ ] **2026-06-01**: 존 테르누스 CEO 교체로 제품 전략 연속성 유지 여부 (pending — WWDC에서 전략 방향 확인됐으나 신임 CEO 공식 발표 미확인)
-- [ ] **2026-06-08**: Apple Intelligence 플랫폼이 내년 기기 업그레이드 사이클을 자극해 2027 하드웨어 매출 상승 견인할 것 (7일 검증 대기)
+- [x] **2026-06-08**: Apple Intelligence 플랫폼이 내년 기기 업그레이드 사이클을 자극해 2027 하드웨어 매출 상승 견인할 것 (**aged-out** 2026-06-15: 7일 내 업그레이드 사이클 데이터 없음; 시리 AI 베타 미국 한정으로 효과 측정 불가 시점)
+- [ ] **2026-06-15**: 시리 AI 베타 미국 한정 출시 — EU·중국 확대 일정 및 WWDC 이후 실제 AI 수익화 시점 확인 필요 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +46,8 @@ sources: []
 > 애널리스트 컨센서스 +9.5% 대폭 상회. 이사회 $1000억 자사주매입 추가 승인, 배당 4% 인상($0.27/주) 확정.
 > [!fact] (Motley Fool + Gurufocus, 2026-06-08) WWDC 2026 Apple Intelligence 플랫폼 공식 출시 확정
 > 차세대 AI Siri·Apple Intelligence 발표. 팀 쿡의 마지막 WWDC. 주가 종가 $301.54(-1.89%), 거래량 평균比 +68%.
+> [!fact] (ForeignPolicyJournal + Morgan Stanley, 2026-06-12) WWDC 후 주가 8% 하락 + 모건스탠리 PT $360 상향
+> Morgan Stanley 애널리스트 Erik Woodring, AI 로드맵 진전 인정 + 조기 수익화 기회 확인으로 $330→$360 상향 유지 (Buy). 주가는 WWDC 이후 8% 급락.
 
 <!-- FACTS_END -->
 
@@ -53,6 +56,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-15
+
+**narrative_score**: +0.03
+**key_events**: WWDC 사후 주가 8% 하락 지속, 모건스탠리 PT $360 상향, 시리 AI 베타 미국 한정 (EU·중국 제외)
+**risks**: EU·중국 AI 출시 제한 지속 시 매출 둔화, MSFT·Google AI 인프라 확장 압박, CEO 전환기 불확실성
+
+> [!claim] (출처: ForeignPolicyJournal, 2026-06-12) WWDC 후 주가 8% 급락 지속 — AI 실망감
+> 시리 AI 베타 미국 한정, 유럽·중국 제외로 투자자 기대 미충족. impact: - / category: product
+
+> [!claim] (출처: Morgan Stanley via Yahoo Finance, 2026-06-09) PT $330→$360 상향 (Buy 유지)
+> AI 로드맵 진전 및 조기 수익화 기회 확인. impact: + / category: earnings
+
+> [!claim] (출처: CNBC, 2026-04-30) Q3 2026 매출 가이던스 +14~17% YoY — iPhone 17 수요 견고
+> 컨센서스 대폭 상회. impact: + / category: earnings
+
+**경쟁사 동향**:
+- MSFT: Azure +40%, AI 런레이트 $37B (+123%) — Apple Intelligence 대비 AI 인프라 격차 심화 (impact for AAPL: -)
+- GOOGL: 6/15 +3.19% + 신규 AI 에이전트 6/12 공개 — 소비자 AI 경쟁 격화 (impact for AAPL: -)
+
+---
 
 ### 2026-06-08
 

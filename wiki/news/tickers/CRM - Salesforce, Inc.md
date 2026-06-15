@@ -1,7 +1,7 @@
 ---
 title: "CRM - Salesforce, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-08
+updated: 2026-06-15
 domain: finance
 type: claim
 weight: reference
@@ -31,8 +31,10 @@ sources: []
 - [x] **2026-05-18**: $25B 자사주 매입 (역대 최대), Agentforce ARR +200% — 주가 회복 촉매 기대 (**verified** 2026-06-01: $25B ASR 공식 확정 + Q1 FY27 +13% 어닝 서프라이즈로 주가 +9.7%)
 - [x] **2026-05-18**: BofA Underperform 하향, AI 에이전트가 SaaS 좌석 수요 잠식 우려 (**refuted** 2026-06-01: Q1 FY27 강한 성장 + 주가 +9.7% — BofA 우려 단기 반증)
 - [x] **2026-06-01**: Contentful 인수·Anthropic $50억 투자가 AI CRM 시장 점유율 확대로 이어질 것 (**verified** 2026-06-08: Agentforce ARR $1.2B (+205%) — 2026년 엔터프라이즈 AI SaaS 최속 성장 확인)
-- [ ] **2026-06-08**: Agentforce ARR $1.2B (+205%)가 2026년 말 $3B 이상으로 가속될 것 (7일 검증 대기)
-- [ ] **2026-06-08**: Q1 FY2027 EPS 50% 성장이 연간 가이던스 상향으로 이어질 것 (7일 검증 대기)
+- [x] **2026-06-08**: Agentforce ARR $1.2B (+205%)가 2026년 말 $3B 이상으로 가속될 것 (**aged-out** 2026-06-15: 7일 내 ARR 데이터 없음; 단 $3.6B Fin 인수로 에이전트 생태계 확장 확인)
+- [x] **2026-06-08**: Q1 FY2027 EPS 50% 성장이 연간 가이던스 상향으로 이어질 것 (**pending** 2026-06-15: 공식 가이던스 상향 발표 미확인; 단 분기 실적 강세로 가능성 높음)
+- [ ] **2026-06-15**: $36억 Fin 인수가 Agentforce 생태계 통합을 통해 AI 고객 서비스 CRM 시장 점유율 5%p 이상 확대할 것 (7일 검증 대기)
+- [ ] **2026-06-15**: Contentful·Fin·M3ter 3건 동시 인수로 인한 통합 리스크가 FY27 마진에 가시적 영향을 줄 것 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +51,8 @@ sources: []
 > Q3 FY27 완료 예정. Anthropic AI $50억 투자 + 프랑스 $20억 AI Hub 확정.
 > [!fact] (Salesforce IR + Yahoo Finance, 2026-06-08) CRM Q1 FY2027 EPS $3.88 (+50% YoY) + Agentforce ARR $1.2B (+205%) 확정
 > 비GAAP EPS $3.88로 컨센서스 $3.13 대비 24% 초과. Agentforce가 2026년 엔터프라이즈 AI SaaS 최속 성장 플랫폼으로 등극.
+> [!fact] (GuruFocus, 2026-06-15) Salesforce $3.6B Fin 인수 + Contentful·M3ter 동시 추진 발표
+> Fin: AI 고객 서비스 에이전트 전문 기업. Agentforce 생태계 확장 가속 의지 확인. 동시 다발 인수로 통합 리스크 존재.
 
 <!-- FACTS_END -->
 
@@ -57,6 +61,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-15
+
+**narrative_score**: +0.26
+**key_events**: $36억 Fin 인수 발표, Q1 FY27 EPS +50%, Agentforce ARR $1.2B (+205%), Contentful·M3ter 동시 추진
+**risks**: 다중 인수 통합 리스크, MSFT Copilot CRM 침투, 주가 $191 컨센서스 $250 대비 크게 할인
+
+> [!claim] (출처: GuruFocus, 2026-06-15) $36억 Fin 인수 — AI 고객 서비스 에이전트 역량 확보
+> Agentforce 생태계 수직 확장. impact: + / category: m&a
+
+> [!claim] (출처: Simply Wall St, 2026-06-15) Q1 FY27 EPS $3.88 (+50%), Agentforce ARR $1.2B (+205%)
+> 엔터프라이즈 AI SaaS 선도 지위 확인. impact: + / category: earnings
+
+> [!claim] (출처: GuruFocus, 2026-06-15) 주가 $191, 컨센서스 $250~264 대비 30%+ 할인
+> 저평가 매수 기회 논거 강화 중. impact: neutral / category: other
+
+**경쟁사 동향**:
+- MSFT: Copilot 기업 AI 배포 14만 기업 — CRM AI 시장 최대 위협 (impact for CRM: -)
+- ORCL: ERP/CX Cloud 강화 — 일부 엔터프라이즈 CRM 영역 경쟁 (impact for CRM: -)
+
+---
 
 ### 2026-06-08
 

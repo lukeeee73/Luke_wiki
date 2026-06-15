@@ -1,7 +1,7 @@
 ---
 title: "IBM - International Business Machines — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-08
+updated: 2026-06-15
 domain: finance
 type: claim
 weight: reference
@@ -31,8 +31,10 @@ sources: []
 - [x] **2026-05-18**: YTD 메가캡 최하위 (-26%), RBC 목표주가 $330→$300 하향 (**refuted** 2026-06-01: 5월 +32% 역대급 상승, Barclays Overweight $350 개시 — 완전 반전)
 - [x] **2026-05-18**: IBM-Aramco AI 협업 + Red Hat AI 인퍼런스 서비스 출시 — 반등 촉매 (**verified** 2026-06-01: Nvidia 파트너십·Barclays 상향·주가 +7.6% — 반등 촉매 확인)
 - [x] **2026-06-01**: Nvidia IBM AI 파트너십이 IBM Cloud의 기업 AI 계약 수주 증가로 이어질 것 (**verified** 2026-06-08: Nvidia Vera Rubin AI 파트너 선정 + Google Cloud 협약 + $10B 양자 투자 발표로 AI 생태계 입지 강화 확인)
-- [ ] **2026-06-08**: $10B 양자컴퓨팅 투자가 2029년 내결함성 양자컴퓨터 상용화로 현실화될 것 (7일 검증 대기)
-- [ ] **2026-06-08**: Nvidia Vera Rubin + Google Cloud 이중 파트너십이 IBM watsonx 엔터프라이즈 AI 계약 수주를 가속할 것 (7일 검증 대기)
+- [x] **2026-06-08**: $10B 양자컴퓨팅 투자가 2029년 내결함성 양자컴퓨터 상용화로 현실화될 것 (**aged-out** 2026-06-15: 7일 내 추가 진전 없음; 단 Anderon 파운드리 미 상무부 협력으로 구체화 진행)
+- [x] **2026-06-08**: Nvidia Vera Rubin + Google Cloud 이중 파트너십이 IBM watsonx 엔터프라이즈 AI 계약 수주를 가속할 것 (**aged-out** 2026-06-15: 7일 내 계약 수주 데이터 없음; 단 ServiceNow 협력 추가로 생태계 확장 확인)
+- [ ] **2026-06-15**: IBM 주가 ATH $329 대비 현재 $272 (-17%) 조정 구간이 재진입 기회인지, 또는 추가 하락 예고인지 (7일 검증 대기)
+- [ ] **2026-06-15**: Anderon 양자칩 파운드리 ($10억 공동 출자)가 IBM-미국 정부 AI 인프라 협력 확대로 이어질 것 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +51,8 @@ sources: []
 > IBM Cloud 베라 루빈 인스턴스·Power Systems AI 서버 통합. 5월 +32% (24년래 최고).
 > [!fact] (CNBC + Yahoo Finance, 2026-06-08) IBM $10B 양자컴퓨팅 투자 + Nvidia Vera Rubin 파트너 + BofA 목표가 $315 확정
 > $10B 양자컴퓨팅 투자 발표로 주가 +7%. Nvidia Vera Rubin AI 파트너 선정. BofA 목표가 $315 상향.
+> [!fact] (Trefis + StockStory, 2026-06-12) IBM Q1 2026 10년 만의 최강 실적 확정
+> 매출 +6% (고정환율), FCF +13% 성장. ServiceNow 협력 확장(2026-06-11). Anderon 양자칩 파운드리 美 상무부와 공동 ($10억씩) 설립 발표.
 
 <!-- FACTS_END -->
 
@@ -57,6 +61,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-15
+
+**narrative_score**: +0.21
+**key_events**: Q1 10년 최강 (FCF +13%), ServiceNow 협력 확장, Anderon 양자 파운드리 설립, ATH $329 대비 $272 조정
+**risks**: ATH 대비 -17% 조정 회복 불확실, 양자 수익화 일정 불확실, 메인프레임 레거시 점진적 감소
+
+> [!claim] (출처: Trefis, 2026-06-12) IBM Q1 2026 10년 만의 최강 실적 — 매출 +6%, FCF +13%
+> 기업 IT 지출 회복 + AI 컨설팅 수요 확인. impact: + / category: earnings
+
+> [!claim] (출처: StockStory, 2026-06-11) ServiceNow와 협력 확장 발표 — AI 기반 IT 자동화 강화
+> impact: + / category: other
+
+> [!claim] (출처: CNBC, 2026-06-05) Anderon 양자칩 파운드리 美 상무부와 공동 설립 ($10억씩)
+> 미국 정부 양자 생태계 파트너십 공고화. impact: + / category: product
+
+**경쟁사 동향**:
+- MSFT: Majorana 2 양자칩 — IBM 양자 시장 경쟁 (impact for IBM: -)
+- ORCL: 엔터프라이즈 AI 클라우드 확장 — IBM watsonx 시장 경쟁 (impact for IBM: -)
+
+---
 
 ### 2026-06-08
 

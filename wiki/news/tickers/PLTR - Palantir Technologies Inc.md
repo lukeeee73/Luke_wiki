@@ -1,7 +1,7 @@
 ---
 title: "PLTR - Palantir Technologies Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-08
+updated: 2026-06-15
 domain: finance
 type: claim
 weight: reference
@@ -29,9 +29,11 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-18**: Q1 매출 +85% YoY, EPS 크게 상회, FY 가이던스 +10pt 상향 (**verified** 2026-06-01: 다수 매체 재확인, 주간 +13% 급등으로 모멘텀 지속)
-- [ ] **2026-05-18**: 97배 선행 PER → 밸류에이션 압박 (pending — 주가 $137 수준, 고밸류에이션 리스크 지속)
-- [ ] **2026-06-01**: 주간 +13% 급등 모멘텀이 달 단위로 지속되어 $200 목표 조기 도달할 것 (pending — 현재 $137, $200까지 46% 추가 상승 필요, 월 단위 지속 모니터링)
-- [ ] **2026-06-08**: FY2026 가이던스 +71% ($7.65~7.66B)가 실제 달성되면 현재 밸류에이션이 정당화될 것 (7일 검증 대기)
+- [ ] **2026-05-18**: 97배 선행 PER → 밸류에이션 압박 (pending — 주가 $134.71, YTD -24.2% 하락으로 부분 조정됐으나 고밸류에이션 지속)
+- [x] **2026-06-01**: 주간 +13% 급등 모멘텀이 달 단위로 지속되어 $200 목표 조기 도달할 것 (**refuted** 2026-06-15: 현재 $134.71, YTD -24.2% — 6/1 이후 주가 하락으로 $200 조기 도달 반증)
+- [x] **2026-06-08**: FY2026 가이던스 +71% ($7.65~7.66B)가 실제 달성되면 현재 밸류에이션이 정당화될 것 (**aged-out** 2026-06-15: 7일 내 가이던스 달성 확인 불가; 단 Q1 +85% 성장으로 방향성은 긍정적)
+- [ ] **2026-06-15**: 6/15 +5.2% 반등이 YTD -24.2% 하락의 추세 전환점인지, 또는 단기 기술적 반등인지 (7일 검증 대기)
+- [ ] **2026-06-15**: 구글 클라우드·GNP Seguros·McCarthy 파트너십이 민간 기업 AIP 확산의 가속 신호인지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +47,8 @@ sources: []
 > 미국 상업 +133%, 정부 +84%. FY2026 가이던스 $7.65~7.66B. 역대 최고 분기 실적.
 > [!fact] (Capital.com + Yahoo Finance, 2026-06-08) Palantir Q1 2026 EPS $0.33 어닝 서프라이즈 + FY2026 가이던스 +71% 확정
 > Q1 adj EPS $0.33 (컨센서스 $0.27 대비 22% 초과). FY2026 매출 가이던스 $7.65~7.66B, +71% YoY. 미국 세 자릿수 성장.
+> [!fact] (GuruFocus + Yahoo Finance, 2026-06-15) PLTR +5.2% ($134.71), 목표가 $225 상향, YTD -24.2%
+> 구글 클라우드 딜·GNP Seguros·McCarthy Building 파트너십 다수 발표. GF Value $134.53 대비 현재가 균형점.
 
 <!-- FACTS_END -->
 
@@ -53,6 +57,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-15
+
+**narrative_score**: +0.20
+**key_events**: PLTR +5.2% ($134.71), 목표가 $225 상향, Q1 +85% / FY $7.65B 가이던스, 구글 클라우드·다수 기업 파트너십
+**risks**: YTD -24.2% 추세 부담, GF Value 균형점 도달 → 추가 상승 여력 논란, 고PER 금리 민감성
+
+> [!claim] (출처: GuruFocus, 2026-06-15) PLTR +5.2% ($134.71) — 목표가 $225 상향 애널리스트 업그레이드
+> YTD -24.2% 기저에서 반등 시도. impact: + / category: other
+
+> [!claim] (출처: Capital.com, 2026-06-02) Q1 매출 $16.3억 (+85% YoY), FY2026 가이던스 $7.65B 재확인
+> 고성장 지속. impact: + / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-06-10) 구글 클라우드·GNP Seguros·McCarthy Building 파트너십 발표
+> AIP 민간 기업 확산 가속 신호. impact: + / category: other
+
+**경쟁사 동향**:
+- MSFT: Azure AI 14만 기업 배포 — PLTR AIP 차별화 도전 (impact for PLTR: -)
+- IBM: NVIDIA 파트너십으로 정부 AI 경쟁 심화 — PLTR 정보기관 계약 경쟁 (impact for PLTR: -)
+
+---
 
 ### 2026-06-08
 
