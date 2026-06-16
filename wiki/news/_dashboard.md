@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-06-15
+updated: 2026-06-16
 domain: finance
 type: index
 weight: reference
@@ -52,16 +52,24 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [NVDA](tickers/NVDA - NVIDIA Corporation.md) | 2026-06-10 | +0.10 | 애플 PCC Google/NVIDIA 파트너십 공식화, TSMC 3nm 15% 인상 예고로 H2 마진 압박 부상 | 3 |
-| [AMD](tickers/AMD - Advanced Micro Devices.md) | 2026-06-10 | +0.11 | Q2 가이던스 $11.2B +45% YoY, MI350 주요 고객 확보, ARK+내부자 $1.6억 매도 경계 | 3 |
-| [TSM](tickers/TSM - Taiwan Semiconductor Mfg.md) | 2026-06-10 | +0.23 | 5월 매출 +30.1% YoY 공시, CEO 30%+ 가이던스 재확인, 3nm 가격 인상 수요 이탈 無 | 2 |
-| [AVGO](tickers/AVGO - Broadcom Inc.md) | 2026-06-10 | -0.02 | Q2 AI $108억(2배)·총매출 $222억 역대 최대에도 FY 미상향 -15% 여진 지속 | 4 |
-| [INTC](tickers/INTC - Intel Corporation.md) | 2026-06-10 | +0.19 | 구글 TPU 수주 후속 WF $110·바클레이즈 $100 상향, NVDA 18A 평가 + 폭스콘·히타치 파트너십 | 3 |
-| [QCOM](tickers/QCOM - QUALCOMM Incorporated.md) | 2026-06-10 | +0.10 | JP모건 $265 목표주가 65% 상향, Dragonfly + Humain 200MW 계약, 6/24 인베스터 데이 14일 | 4 |
-| [ASML](tickers/ASML - ASML Holding NV.md) | 2026-06-10 | +0.29 | CEO Terafab '매우 진지' 확인, BofA €1,921·JPM·바클레이즈·MS 4사 동시 상향, 유럽 시총 기록 | 3 |
-| [AMAT](tickers/AMAT - Applied Materials.md) | 2026-06-10 | +0.29 | +7.43%, Q2 사상 최대 실적·WFE 30%+ 상향·싱가포르 $5억 시설, Citi $520 | 3 |
-| [LRCX](tickers/LRCX - Lam Research Corp.md) | 2026-06-10 | +0.13 | 미즈호·MS·B.Riley 3사 목표주가 동시 상향, MATCH Act 중국 매출 30% 이하 전망 리스크 | 4 |
-| [MU](tickers/MU - Micron Technology.md) | 2026-06-10 | +0.21 | HBM 전량 매진·$2,000억 증설, GS $900·Cantor $1,500 상향, 6/24 Q3 어닝 14일 대기 | 4 |
+| [NVDA](tickers/NVDA - NVIDIA Corporation.md) | 2026-06-16 | +0.23 | 시총 $5.1조 세계 1위, NAVER AI 파트너십, SOX -10% 여진 후 회복·52주 고점 -26% | 5 |
+| [AMD](tickers/AMD - Advanced Micro Devices.md) | 2026-06-16 | +0.31 | MEXT 인수 + Ryzen AI Halo $3,999 출시로 52주 고점($547) 달성, 시총 $9,000억 돌파 | 5 |
+| [TSM](tickers/TSM - Taiwan Semiconductor Mfg.md) | 2026-06-16 | +0.30 | 5월 매출 +30.1% YoY·시총 $2.28조 최고, 3nm 15% 가격 인상 공급자 우위 확인 | 4 |
+| [AVGO](tickers/AVGO - Broadcom Inc.md) | 2026-06-16 | -0.11 | Q2 AI $10.8B(2배) 달성에도 FY 미상향 -15%, 구글 TPU 다변화 리스크 재부각 | 6 |
+| [INTC](tickers/INTC - Intel Corporation.md) | 2026-06-16 | +0.04 | NVDA RTX Spark 경쟁 -1.95%, 구글 300만 TPU 수주(6/8), YTD +250% 밸류에이션 부담 | 5 |
+| [QCOM](tickers/QCOM - QUALCOMM Incorporated.md) | 2026-06-16 | +0.12 | Tenstorrent $8-10B 인수 협의, Humain 200MW 계약, 6/24 인베스터 데이 8일 대기 | 6 |
+| [ASML](tickers/ASML - ASML Holding NV.md) | 2026-06-16 | +0.28 | YTD +69.2% 후 -4.7% 조정, CEO Terafab '매우 진지', 4개 증권사 PT 동시 상향 | 5 |
+| [AMAT](tickers/AMAT - Applied Materials.md) | 2026-06-16 | +0.29 | P/S 16배 역대 최고, Q2 사상 최대·WFE 30%+ 상향, 싱가포르 $5억 캠퍼스 | 5 |
+| [LRCX](tickers/LRCX - Lam Research Corp.md) | 2026-06-16 | +0.27 | Q3 사상 최대 $58.4억·Q4 가이던스 $66억, 첨단 패키징 +50%, 6/17 배당 권리락 | 6 |
+| [MU](tickers/MU - Micron Technology.md) | 2026-06-16 | +0.32 | NVDA HBM4 인증(Vera Rubin), 미국 1α DRAM 생산 개시, 6/24 Q3 실적 기대 | 6 |
+
+### 로보틱스 / 피지컬 AI
+
+| Ticker | as_of | score | 핵심 한 줄 | open claims |
+|---|---|---|---|---|
+| [TER](tickers/TER - Teradyne, Inc.md) | 2026-06-16 | +0.29 | Nasdaq-100 6/22 편입, 공군 $1.4억 다년 계약, Q1 AI 수요 70%, Automate 2026 준비 | 4 |
+| [HSAI](tickers/HSAI - Hesai Group.md) | 2026-06-16 | -0.05 | 8:1 주식 분할 AGM(6/26), Kosmo 3D 센서 출시, YTD -23.42% 지정학·경쟁 복합 압박 | 4 |
+| [MP](tickers/MP - MP Materials Corp.md) | 2026-06-16 | +0.01 | 애플·DoD 장기 공급 계약, 미중 협정 진전 → 지정학 프리미엄 해소 -10%, CEO 매도 | 4 |
 
 ### 자동차 / 모빌리티
 
@@ -205,6 +213,29 @@ sources: []
 | [329180.KS](tickers/329180.KS - HD Hyundai Heavy Industries.md) | 2026-06-03 | +0.33 | VLGC 8척 1.416조원 수주, 연간 목표 60.8% 조기 달성, KDDX 소송 | 2 |
 | [042660.KS](tickers/042660.KS - Hanwha Ocean Co.md) | 2026-06-03 | +0.13 | Leidos 미 해군 설계 협력, 캐나다 해군 MOU 체결 | 2 |
 | [010140.KS](tickers/010140.KS - Samsung Heavy Industries.md) | 2026-06-03 | +0.25 | FDC 시장 선점 — Capital/LR MOU·Supermicro AI 서버 JDP | 2 |
+
+## 오늘의 시그널 (2026-06-16 · 화요일 · 반도체 + 로보틱스 / 피지컬 AI)
+
+루틴은 다음 패턴을 감지하면 이 섹션에 기록한다:
+
+- **연속성**: 같은 테마가 3 일 이상 연속 등장
+- **모순**: 같은 종목 어제/오늘 narrative 가 반대 방향
+- **섹터 동기화**: 3 종목 이상이 같은 매크로 이슈로 동시 움직임
+
+**2026-06-16 감지된 시그널:**
+
+- **최고 시그널 (AMD +0.31)**: MEXT 인수 완료 + Ryzen AI Halo $3,999 출시로 52주 고점 + 시총 $9,000억 돌파. 12개월 +300% 랠리 지속 — AI PC(에지)·데이터센터 양축 동시 공략으로 NVDA와의 경쟁이 반도체 최대 테마로 부상.
+- **최고 시그널 (MU +0.32)**: NVDA Vera Rubin HBM4 공식 인증 + 미국 1α DRAM 생산 개시 + 6/24 Q3 실적 이중 카탈리스트. HBM 공급자 우위 시장 + 국내 생산 보조금 양방향 수혜 구조.
+- **섹터 동기화 (WFE 슈퍼사이클 가속)**: AMAT +0.29 / LRCX +0.27 / ASML +0.28 — 장비 3사 일제히 강세. AMAT P/S 16배 역대 최고·LRCX Q3 사상 최대·ASML CEO Terafab '진지' — WFE 사이클이 AI 수요로 새로운 고점 도달.
+- **섹터 동기화 (AI PC 3파전)**: NVDA RTX Spark / AMD Ryzen AI Halo / INTC 신규 AI 칩 — 에지 AI PC 시장에서 3강 동시 격돌. INTC -1.95%·AMD +6.98%·NVDA +3%로 당일 AMD 압도적 우세. 단기 시장점유율 변화 모니터링 필요.
+- **연속성 (TSM 가격 인상 → 업스트림 강세)**: 3nm 15% 인상 + 5월 +30.1% + 시총 $2.28조 최고 — 2주 연속 TSMC 공급자 우위 확인. 칩 업체(NVDA·AMD) 원가 상승 vs 파운드리(TSM) 마진 개선 양극화 심화.
+- **역방향 (AVGO 추가 약세)**: -0.02 → -0.11 — 구글 TPU 다변화로 추가 하락. Q2 발표 이후 2주 연속 부정적 신호. Q3 실적(8월)이 반전 여부 최후 판단 시점.
+- **역방향 (INTC 상승 후 조정)**: 6/8 구글 수주 +11% → 6/16 NVDA 경쟁 -1.95%. YTD +250% 랠리 후 AI PC 경쟁 구도 재평가 시작. 신규 AI 칩 2026 말 제한 출하 타이밍이 관건.
+- **신규 섹터 (로보틱스 / 피지컬 AI)**: TER +0.29 (Nasdaq-100 편입+공군 계약) / HSAI -0.05 (지정학·가격경쟁) / MP +0.01 (미중 협정 지정학 프리미엄 해소). 로보틱스 내 미국(TER)·중국(HSAI)·원자재(MP) 3중 분기 — 지정학이 핵심 차별화 요인.
+- **경고 (밸류에이션 과열)**: AMAT P/S 16배(닷컴 초과) / TER GF Value +129% 과대평가 / AMD YTD +300% — 반도체·로보틱스 전반 밸류에이션 고점 경보. WFE 사이클 피크아웃 신호 감지 시 급격한 조정 위험.
+- **주목 이벤트**: 6/17(내일) LRCX 배당 권리락, 6/22 TER Nasdaq-100 편입·Automate 2026, 6/24 MU Q3 실적(GS $900·Cowen $1,500 목표)·QCOM 인베스터 데이·NVDA 주주총회·HSAI AGM(8:1 분할), AMD Q2 어닝(7월 예정).
+
+### 감지된 패턴 (2026-06-10 · 화요일 · 반도체)
 
 ## 오늘의 시그널 (2026-06-10 · 화요일 · 반도체)
 

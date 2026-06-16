@@ -1,7 +1,7 @@
 ---
 title: "AMD - Advanced Micro Devices — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-10
+updated: 2026-06-16
 domain: finance
 type: claim
 weight: reference
@@ -27,6 +27,8 @@ CPU(컴퓨터 두뇌)와 GPU(그래픽 처리 장치) 모두를 만드는 반도
 - [ ] **2026-06-09**: 바클레이즈 $665 목표가 — 데이터센터 성장 지속 여부 (Q2 FY2027 어닝 검증 대기)
 - [ ] **2026-06-10**: ARK Invest $3900만 + 내부자 $1.2억 매도 — 고점 신호인지 vs 기관 단순 차익실현인지 (30일 추이 관찰)
 - [ ] **2026-06-10**: Q2 FY2026 가이던스 $11.2B (+45% YoY) — 실제 달성 여부 (Q2 어닝 검증 대기)
+- [ ] **2026-06-16**: MEXT 인수 완료 — AI 에지 사업 매출 기여 시점 확인 (2~4분기 검증)
+- [ ] **2026-06-16**: Ryzen AI Halo $3,999 판매량 — AI PC 개발자 시장 점유율 확보 여부 (6개월)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -43,6 +45,26 @@ CPU(컴퓨터 두뇌)와 GPU(그래픽 처리 장치) 모두를 만드는 반도
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-16
+
+**narrative_score**: +0.31 (강한 긍정)
+**key_events**: MEXT 인수 완료, Ryzen AI Halo $3,999 출시, 시총 $9,000억 52주 고점
+**risks**: NVDA AI PC 경쟁(RTX Spark), 밸류에이션 과열, 내부자 매도 경계
+
+> [!claim] (출처: Yahoo Finance / Motley Fool, 2026-06-15) AMD MEXT Corporation 인수 완료 + Ryzen AI Halo 출시로 52주 고점
+> MEXT 인수 + Ryzen AI Halo 개발자 플랫폼($3,999, 200B 파라미터 로컬 AI) 동시 출시. 시총 $9,000억 돌파. impact: + / category: m&a
+
+> [!claim] (출처: CNBC, 2026-06-15) AMD 당일 +6.98% ($547.26) — 12개월 +300%
+> AI 인프라·에지 AI 양축 강세로 12개월 +300% 달성. impact: + / category: other
+
+> [!claim] (출처: Simply Wall St, 2026-06-10) Q1 FY2026 매출 ~$10.3B; 데이터센터 $5.8B
+> 에이전틱 AI가 EPYC CPU + Instinct GPU 수요 폭발 견인. 컨센서스 상회. impact: + / category: earnings
+
+**경쟁사 동향**:
+- NVDA: RTX Spark AI PC 공세 — AMD Ryzen AI Halo와 에지 AI 시장 직접 경쟁 예상
+- INTC: EPYC 서버 CPU 점유율 지속 잠식 — INTC -3.3% AMD 경쟁 압박 간접 확인
+
+
 
 ### 2026-06-10
 

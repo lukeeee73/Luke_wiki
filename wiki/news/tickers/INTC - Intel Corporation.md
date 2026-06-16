@@ -1,7 +1,7 @@
 ---
 title: "INTC - Intel Corporation — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-10
+updated: 2026-06-16
 domain: finance
 type: claim
 weight: reference
@@ -27,6 +27,8 @@ x86 CPU(컴퓨터 연산 핵심 칩)의 전통적 절대강자였던 미국 반�
 - [ ] **2026-06-09**: NVIDIA 인텔 18A 평가 — 실제 수주 계약으로 이어질지 (60일 검증 대기)
 - [ ] **2026-06-10**: GAAP 순손실 $37억·FCF -$25억 — 2026년 흑자 전환 경로 명확화 여부 (분기 검증)
 - [ ] **2026-06-10**: 폭스콘·히타치 AI 인프라 파트너십 — 구체적 수주 규모 공개 여부 (3개월 대기)
+- [ ] **2026-06-16**: NVDA RTX Spark AI PC 진출 → INTC 클라이언트 CPU 분기 매출 영향 (Q2 실적 검증)
+- [ ] **2026-06-16**: 신규 AI 칩 2026 말 제한 출하 — 타이밍 우려 해소 여부 (2~3개월)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -50,6 +52,26 @@ x86 CPU(컴퓨터 연산 핵심 칩)의 전통적 절대강자였던 미국 반�
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-16
+
+**narrative_score**: +0.04 (중립)
+**key_events**: NVDA RTX Spark 경쟁 -1.95%, 구글 300만 TPU 수주(6/8), Computex AI 풀스택 전략
+**risks**: NVDA·AMD AI PC 이중 경쟁, 신규 AI 칩 2026 말 제한 출하 타이밍, YTD +250% 밸류에이션
+
+> [!claim] (출처: StocksToTrade, 2026-06-16) INTC -1.95% — NVIDIA RTX Spark AI PC 경쟁 우려 재점화
+> NVDA가 Windows 노트북 AI PC 시장 진출 → INTC 클라이언트 사업 위협. impact: - / category: other
+
+> [!claim] (출처: Vantage Markets, 2026-06-08) 구글 TPU 300만개 인텔 파운드리 수주 (18A, 2028 인도) → +11.2%
+> 파운드리 전략 신뢰 획득. 2028 첨단공정 고객 확보. impact: + / category: product
+
+> [!claim] (출처: StocksToTrade, 2026-06-05) Computex 2026: 폭스콘·히타치 협력 + 인도 $33억 패키징 공장
+> AI 풀스택 인프라 전략 공개. 국제 파트너십 확장. impact: + / category: product
+
+**경쟁사 동향**:
+- NVDA: RTX Spark AI PC 진출 — INTC 클라이언트 CPU 시장 위협
+- AMD: Ryzen AI Halo $3,999 — AI PC 개발자 시장 INTC 동시 압박
+
+
 
 ### 2026-06-10
 

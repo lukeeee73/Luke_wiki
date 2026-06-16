@@ -1,7 +1,7 @@
 ---
 title: "AVGO - Broadcom Inc. — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-10
+updated: 2026-06-16
 domain: finance
 type: claim
 weight: reference
@@ -27,6 +27,8 @@ sources: []
 - [ ] **2026-06-09**: FY AI 매출 $100B 목표 — 연내 상향 발표 여부 (6~9개월 검증)
 - [ ] **2026-06-10**: AI XPV 플랫폼 $350억 (Apollo·Blackstone) — 실제 AI 인프라 용량(1GW+) 배치 일정 (6개월 대기)
 - [ ] **2026-06-10**: 6개 AI 핵심 고객 — Anthropic·Google·Meta·OpenAI 외 미공개 2곳 신원 공개 여부 (3~6개월)
+- [ ] **2026-06-16**: 구글 TPU 공급사 다변화 — Q3 실적에서 AI 매출 타격 규모 확인 (Q3 실적 대기)
+- [ ] **2026-06-16**: AI XPV 플랫폼 $350억 Apollo·Blackstone — 실제 1GW+ 데이터센터 착공 일정 (6개월)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +51,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-16
+
+**narrative_score**: -0.11 (약한 부정)
+**key_events**: Q2 AI $10.8B(2배) 달성에도 FY 미상향 -15%, AI XPV 플랫폼 $350억, 구글 TPU 다변화
+**risks**: 구글 TPU 공급사 다변화, FY AI 가이던스 신뢰도 훼손, 실적 쇼크 여진
+
+> [!claim] (출처: CNBC, 2026-06-03) Q2 EPS $2.44 비트·매출 $22.19B 미스·AI $10.8B(2배) — FY $100B 미상향 → -15%
+> AI 칩 2배 달성에도 연간 $100B AI 목표 미상향 → 기대 실망감으로 급락. impact: - / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-06-10) AI XPV 플랫폼 Apollo·Blackstone와 $350억 1GW+ 데이터센터 딜
+> 대형 인프라 딜 발표 — 실제 AI 사업 다각화 신호. impact: + / category: product
+
+> [!claim] (출처: StockInvest.us, 2026-06-12) 구글 AI TPU 공급사 다변화 계획
+> 장기 고객 집중도 리스크 재부각 — AVGO 매출 구조 변화 위험. impact: - / category: regulation
+
+**경쟁사 동향**:
+- NVDA: 하이퍼스케일러 전방위 공급 — AVGO 커스텀 ASIC 차별화 경쟁 가속
+- AMD: MI350 MSFT·Meta·OpenAI 배포 → 동일 고객군에서 AMD와 경쟁
+
+
 
 ### 2026-06-10
 
