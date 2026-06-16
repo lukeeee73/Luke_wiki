@@ -1,7 +1,7 @@
 ---
 title: "LRCX - Lam Research Corp. — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-10
+updated: 2026-06-16
 domain: finance
 type: claim
 weight: reference
@@ -27,6 +27,8 @@ sources: []
 - [ ] **2026-06-09**: 배당 $0.26 권리락 6/17 — 주주환원 정책 지속 여부 (연간 배당 성장 추이 확인)
 - [ ] **2026-06-10**: MATCH Act 수출 규제 — 중국 매출 43%→30% 이하 하락 시 총매출 영향 (2~3분기 검증)
 - [ ] **2026-06-10**: IBM 파트너십 — 한국·대만·미국 전환 수요가 중국 감소분 대체 여부 (6개월 검증)
+- [ ] **2026-06-16**: Q4 FY2026 $66억 가이던스 — 6/28 실적 달성 여부 (12일 대기)
+- [ ] **2026-06-16**: 배당 $0.26 권리락 6/17 — 주주환원 정책 분기 배당 성장 지속 여부
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -36,6 +38,8 @@ sources: []
 <!-- FACTS_START -->
 > [!fact] LRCX Q3 FY2026 사상 최대 매출 $5.84B (+24% YoY), EPS +41%, 4분기 연속 컨센서스 상회
 > 2026-04-23 발표. 2026년 WFE 지출 전망 ~$1,400억 상향, 어드밴스드 패키징 매출 50%+ 성장 전망. 출처: Yahoo Finance.
+> [!fact] LRCX Q3 FY2026 사상 최대 매출 $58.4억 — EPS 4분기 연속 상회
+> 2026-06-12 실적 발표. Q4 가이던스 $66억·OPM 36.5%. WFE $1,400억 전망. 출처: Yahoo Finance / LRCX IR (Tier-1 2건)
 <!-- FACTS_END -->
 
 ---
@@ -43,6 +47,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-16
+
+**narrative_score**: +0.27 (약한 긍정)
+**key_events**: Q3 사상 최대 $58.4억, Q4 가이던스 $66억·OPM 36.5%, 첨단 패키징 +50%
+**risks**: 중국 MATCH Act 매출 30% 노출, WFE 사이클 피크 가능성, 52주 +320% 밸류에이션
+
+> [!claim] (출처: Yahoo Finance, 2026-06-12) LRCX Q3 FY2026 매출 $58.4억 사상 최대, EPS 4분기 연속 상회
+> WFE 슈퍼사이클 + AI 고급 패키징 수요 주도. Q4 가이던스 $66억·OPM 36.5%. impact: + / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-06-14) 첨단 패키징 매출 2026년 +50% 이상 성장 전망
+> HBM·고밀도 AI 칩 패키징 수요 급증. impact: + / category: earnings
+
+> [!claim] (출처: GuruFocus, 2026-06-15) LRCX +6.0% (→$388.92) — 52주 수익률 +320%
+> Cantor $425·바클레이즈 $335 다수 PT 상향. WFE $1,400억 시장 전망. impact: + / category: other
+
+**경쟁사 동향**:
+- AMAT: Q2 사상 최대 + WFE 30%+ 상향 — LRCX와 동반 슈퍼사이클 수혜 확인
+- ASML: Terafab 로드맵 + 4사 동시 PT 상향 — 장비 생태계 전반 강세
+
+
 
 ### 2026-06-10
 

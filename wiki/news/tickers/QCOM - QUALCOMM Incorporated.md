@@ -1,7 +1,7 @@
 ---
 title: "QCOM - QUALCOMM Incorporated — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-10
+updated: 2026-06-16
 domain: finance
 type: claim
 weight: reference
@@ -27,6 +27,8 @@ sources: []
 - [ ] **2026-06-09**: JP모건 데이터센터 전략 — FY27 $30억+ 달성 여부 (12개월 검증 대기)
 - [ ] **2026-06-09**: 6/24 인베스터 데이 Dragonfly 세부 발표 — 시장 기대치 충족 여부 (14일 대기)
 - [ ] **2026-06-10**: Humain 200MW 데이터센터 계약 — 첫 Dragonfly 실제 배포 타임라인 확인 (3개월 대기)
+- [ ] **2026-06-16**: Tenstorrent 인수 협상 ($8~10B) — 6개월 내 성사 여부 (협상 모니터링)
+- [ ] **2026-06-16**: 6/24 인베스터 데이 데이터센터 전략 발표 — 시장 기대치 충족 여부 (8일 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -41,6 +43,29 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-16
+
+**narrative_score**: +0.12 (약한 긍정)
+**key_events**: Tenstorrent $8-10B 인수 협의, Humain 200MW 계약, 6/24 인베스터 데이 기대
+**risks**: 스마트폰 QCT 사업 약세, 데이터센터 실행 불확실성, 인수 가격 협상
+
+> [!claim] (출처: TradingKey, 2026-06-15) QCOM +4.27% — JPM $265 PT 65% 상향 (Neutral 유지), 6/24 인베스터 데이 기대
+> 데이터센터 전략 구체화 기대감. impact: + / category: other
+
+> [!claim] (출처: GuruFocus, 2026-06-12) Tenstorrent AI 스타트업 $8~10B 인수 협의
+> AI 칩 역량 확보 M&A — 데이터센터 전략 가속. impact: + / category: m&a
+
+> [!claim] (출처: Barchart, 2026-06-10) Dragonfly + Humain 200MW 데이터센터 계약
+> 스마트폰 의존 탈피, 첫 데이터센터 대형 계약 신호. impact: + / category: product
+
+> [!claim] (출처: GuruFocus, 2026-06-16) 스마트폰 QCT 사업 약세 지속
+> 핵심 사업 단기 역풍 — 데이터센터 전환 속도가 관건. impact: - / category: earnings
+
+**경쟁사 동향**:
+- AVGO: 커스텀 AI ASIC $100B 목표 미상향 — QCOM Dragonfly 데이터센터 진입 기회 창출
+- INTC: 서버 CPU 경쟁 — QCOM Dragonfly와 데이터센터 고객군 겹침
+
+
 
 ### 2026-06-10
 

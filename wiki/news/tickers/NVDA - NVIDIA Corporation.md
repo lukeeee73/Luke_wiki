@@ -1,7 +1,7 @@
 ---
 title: "NVDA - NVIDIA Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-10
+updated: 2026-06-16
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,8 @@ AI(인공지능) 열풍의 최대 수혜 기업으로, GPU(그래픽 처리 장�
 - [ ] **2026-06-09**: 젠슨 황 상원 청문회 거부 — 규제 압박 강화 여부 (7일 검증 대기)
 - [ ] **2026-06-10**: TSMC 3nm 15% 가격 인상 → NVIDIA H2 2026 마진 압박 현실화 여부 (Q3 실적 검증)
 - [ ] **2026-06-10**: 인텔 18A 평가 결과 — 실제 수주 계약으로 전환 여부 (60일 대기)
+- [ ] **2026-06-16**: 6/24 주주총회 — 이사회 구성·보상 안건 주주 반발 여부 (14일 대기)
+- [ ] **2026-06-16**: AMD Ryzen AI Halo AI PC 경쟁 심화 — RTX Spark 에지 AI 시장점유율 방어 여부 (3개월)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -54,6 +56,26 @@ AI(인공지능) 열풍의 최대 수혜 기업으로, GPU(그래픽 처리 장�
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-16
+
+**narrative_score**: +0.23 (약한 긍정)
+**key_events**: 시총 $5.1조 세계 1위, NAVER AI 인프라 파트너십, 6/24 주주총회
+**risks**: SOX -10% 셀오프 여진 (52주 고점 -26%), TSMC 3nm 인상 H2 마진, AMD AI PC 경쟁
+
+> [!claim] (출처: CNBC, 2026-06-16) NVDA 시총 $5.1조 — 세계 가장 비싼 기업 지위 유지
+> 주가 ~$211 (+3%), 시총 $5.1조. Q1 FY2027 매출 $81.6B(+85%)·EPS $1.87 펀더멘털 강세 지속. impact: + / category: other
+
+> [!claim] (출처: Reuters, 2026-06-15) NAVER AI 인프라 확장 NVIDIA 파트너십 발표
+> NAVER가 NVIDIA GPU 인프라 기반 글로벌 AI 수요 대응 확장 — 하이퍼스케일러 다변화. impact: + / category: product
+
+> [!claim] (출처: Yahoo Finance, 2026-06-05) 6/5 SOX -10% 역대급 섹터 셀오프, NVDA 회복 중
+> 브로드컴 촉발 PHLX 칩 지수 -10% (2020년 3월 이후 최대 단일일 하락) — 52주 고점 대비 여전히 -26%. impact: - / category: macro
+
+**경쟁사 동향**:
+- AMD: MEXT 인수 + Ryzen AI Halo $3,999 출시로 52주 고점 돌파 — AI PC 에지 시장 NVDA와 정면 경쟁
+- TSM: 5월 매출 +30.1%, 3nm 15% 인상 — NVDA 수요 안정 확인, H2 원가 압박 예고
+
+
 
 ### 2026-06-10
 

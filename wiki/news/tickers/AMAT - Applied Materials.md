@@ -1,7 +1,7 @@
 ---
 title: "AMAT - Applied Materials — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-10
+updated: 2026-06-16
 domain: finance
 type: claim
 weight: reference
@@ -26,6 +26,8 @@ sources: []
 - [ ] **2026-06-09**: 내부자 5만주 $2,526만 매도 — 고점 신호인지 vs 단순 계획적 매도인지 (30일 주가 추이 관찰)
 - [ ] **2026-06-09**: 장비 사업 연간 30%+ 성장 — Q3 FY2026 실적 발표 시 달성 여부 (분기 검증 대기)
 - [ ] **2026-06-10**: 싱가포르 $5억 시설 — 비중국 아시아 WFE 수요 점유율 실질 변화 여부 (6개월 검증)
+- [ ] **2026-06-16**: P/S 16배 역대 최고 밸류에이션 — WFE 성장률이 정당화하는지 Q3 실적 검증
+- [ ] **2026-06-16**: 싱가포르 탐피네스 $5억 캠퍼스 — 비중국 아시아 WFE 시장점유율 실질 변화 (6개월)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,6 +44,8 @@ sources: []
 
 > [!fact] AMAT 2026년 캘린더 기준 반도체 장비 사업 30%+ 성장 가이던스 재확인
 > 2026-06-08 Q2 FY2026 실적 발표. "record revenue and earnings, highest gross margin in more than 25 years" 공식 발표. 출처: CNBC (Tier-1)
+> [!fact] AMAT Q2 FY2026 매출 $79.1억 + EPS $2.86 사상 최대 — WFE 30%+ 상향
+> 2026-06-11 실적 발표. Citi $520 목표주가. 출처: CNBC / StocksToTrade (Tier-1·2)
 <!-- FACTS_END -->
 
 ---
@@ -49,6 +53,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-16
+
+**narrative_score**: +0.29 (약한 긍정)
+**key_events**: P/S 16배 역대 최고, Q2 실적 컨센 상회 + WFE 30%+ 상향, 싱가포르 $5억 캠퍼스
+**risks**: P/S 16배 닷컴 버블 초과 과열, WFE 사이클 피크아웃 조정, 중국 수출 규제
+
+> [!claim] (출처: GuruFocus, 2026-06-16) AMAT P/S 16배 역대 최고 — 닷컴 버블 2000년(15배) 초과
+> 역대 최고 밸류에이션 도달. 성장률 정당화 여부 검증 필요. impact: neutral / category: other
+
+> [!claim] (출처: StocksToTrade, 2026-06-11) Q2 매출 $79.1억 + EPS $2.86 컨센 상회; WFE 30%+ 상향
+> AI 반도체 장비 수요 강세. Citi $520 목표주가. impact: + / category: earnings
+
+> [!claim] (출처: StocksToTrade, 2026-06-11) 싱가포르 탐피네스 $5억 캠퍼스 발표
+> AI 인프라 수요 대응 비중국 아시아 역량 강화. impact: + / category: product
+
+**경쟁사 동향**:
+- ASML: EUV 수요 급증 — AMAT 식각/증착 장비 WFE 동반 상승 연쇄 효과
+- LRCX: Q3 사상 최대 $58.4억 — WFE 슈퍼사이클 3대 장비사 공동 수혜 확인
+
+
 
 ### 2026-06-10
 

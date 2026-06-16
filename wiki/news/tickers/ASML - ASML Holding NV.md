@@ -1,7 +1,7 @@
 ---
 title: "ASML - ASML Holding NV — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-10
+updated: 2026-06-16
 domain: finance
 type: claim
 weight: reference
@@ -26,6 +26,8 @@ sources: []
 - [ ] **2026-05-19**: 인도 Tata 300mm 팹 장비 공급 — 수주 규모·일정 구체화 필요 (pending)
 - [ ] **2026-06-09**: 2026 매출 €36~40B 가이던스 — 하반기 EUV 출하 일정 준수 여부 (Q3 실적 검증 대기)
 - [ ] **2026-06-10**: Terafab 수주 일정 — CEO 협상 '진지' 확인 후 공식 장비 계약 체결 여부 (6~12개월 대기)
+- [ ] **2026-06-16**: YTD +69% 후 -4.7% 조정 — 단기 €1,800 지지선 여부 (30일 관찰)
+- [ ] **2026-06-16**: Terafab JV 공식 수주 계약 체결 여부 — CEO '매우 진지' 확인 후 (6~12개월)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -52,6 +54,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-16
+
+**narrative_score**: +0.28 (약한 긍정)
+**key_events**: YTD +69.2% 후 -4.7% 조정, CEO Terafab '매우 진지', 4개 증권사 PT 상향
+**risks**: YTD 급등 후 과매수 조정, 중국 EUV 수출 규제 재강화, High-NA 납기 지연
+
+> [!claim] (출처: GuruFocus, 2026-06-16) ASML -4.7% (→$1,803.89) — YTD +69.2% 후 차익실현 조정
+> 강세 기조는 유지 중. GF Score 92 고평가 경고. impact: neutral / category: other
+
+> [!claim] (출처: GuruFocus, 2026-06-08) ASML +6.5% — BofA EUR 1,921·JPM·바클레이즈·MS 4사 동시 상향
+> AI 수요 EUV 독점 수혜 공감대 확대. impact: + / category: other
+
+> [!claim] (출처: Motley Fool, 2026-06-12) CEO: Terafab(테라급 팹) '매우 진지하게' 검토 중
+> High-NA 이후 로드맵 가시화 — 장기 독점 지위 재확인. impact: + / category: product
+
+**경쟁사 동향**:
+- AMAT: Q2 사상 최대 실적 + WFE 30%+ 상향 — WFE 슈퍼사이클 ASML과 동반 수혜
+- LRCX: Q3 사상 최대 + 첨단 패키징 +50% — EUV 노광 수요 연쇄 확대
+
+
 
 ### 2026-06-10
 

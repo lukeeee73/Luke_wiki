@@ -1,7 +1,7 @@
 ---
 title: "MU - Micron Technology — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-10
+updated: 2026-06-16
 domain: finance
 type: claim
 weight: reference
@@ -27,6 +27,8 @@ sources: []
 - [ ] **2026-06-09**: 6/24 어닝 옵션 ±20% 함의 — 어닝 후 방향성 (14일 대기)
 - [ ] **2026-06-10**: 골드만삭스 $900 / Cantor $1,500 목표주가 — Q3 어닝 서프라이즈 여부에 따른 검증 (6/24)
 - [ ] **2026-06-10**: Bechtel NY 팹 착공 — CHIPS Act 일정 준수 및 2025년 이후 국내 생산 개시 여부 (24개월)
+- [ ] **2026-06-16**: NVDA HBM4 인증 → Vera Rubin 플랫폼 공급 계약 규모 공개 여부 (Q3 실적 6/24)
+- [ ] **2026-06-16**: 6/24 Q3 FY2026 실적 — RBC $1,200·Cowen $1,500 목표 달성 경로 확인
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +51,8 @@ sources: []
 
 > [!fact] MU YTD +174% (2026-06-09 기준)
 > $10,000 투자 시 $27,400+ 수익. Nasdaq-100 내 반도체 섹터 최상위 수익률 구간.
+> [!fact] NVIDIA, MU·삼성·SK하이닉스 HBM4 Vera Rubin 플랫폼 공급사 공식 인증
+> 2026-06-14 NVIDIA 발표. 출처: GuruFocus/Yahoo Finance (Tier-2 2건)
 <!-- FACTS_END -->
 
 ---
@@ -56,6 +60,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-16
+
+**narrative_score**: +0.32 (강한 긍정)
+**key_events**: NVDA HBM4 인증(Vera Rubin), 미국 1α DRAM 생산 개시, 6/24 Q3 실적 기대
+**risks**: YTD +281% 과열, 6/24 실적 미달 시 급락, 삼성·SK하이닉스 HBM4 경쟁
+
+> [!claim] (출처: GuruFocus, 2026-06-14) NVIDIA Vera Rubin 플랫폼 — MU·삼성·SK하이닉스 HBM4 공급사 인증
+> HBM4 시장 3강 확정 — MU 고수익 HBM 공급 안정화. impact: + / category: product
+
+> [!claim] (출처: Yahoo Finance, 2026-06-12) 버지니아 Manassas 1α DRAM 미국 생산 개시 + $2,000억 확장
+> CHIPS Act 수혜 + 비중국 공급망 포지셔닝. impact: + / category: product
+
+> [!claim] (출처: Yahoo Finance, 2026-06-10) RBC $1,200·TD Cowen $1,500 PT 상향 — 46개사 Buy 컨센서스
+> HBM 수요 폭증 반영. YTD +281%, $1,020-$1,133 박스권. impact: + / category: earnings
+
+**경쟁사 동향**:
+- NVDA: Vera Rubin AI 플랫폼 HBM4 인증 — MU 가장 직접적인 고수익 고객 관계 확인
+- AMD: MI350 HBM 채택 — MU·삼성·SK 동시 수혜로 HBM 공급 부족 지속 예상
+
+
 
 ### 2026-06-10
 

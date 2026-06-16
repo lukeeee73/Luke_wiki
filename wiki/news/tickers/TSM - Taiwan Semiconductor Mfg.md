@@ -1,7 +1,7 @@
 ---
 title: "TSM - Taiwan Semiconductor Mfg. — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-10
+updated: 2026-06-16
 domain: finance
 type: claim
 weight: reference
@@ -27,6 +27,8 @@ sources: []
 - [x] **2026-06-09**: 2026년 매출 30%+ 성장 — Q2/Q3 실제 실적 달성 여부 → **on-track** (5월 +30.1% YoY 실현, 1~5월 누적 +30.0%, 2026-06-10 SEC 공시)
 - [ ] **2026-06-09**: 인텔 파운드리 구글 TPU 수주 — 중장기 파운드리 경쟁 압력 현실화 여부 (장기 모니터링)
 - [ ] **2026-06-10**: 3nm 가격 인상 후 고객사 대체 팹 탐색 — INTC 18A, 삼성 SF3 대안화 여부 (12개월 모니터링)
+- [ ] **2026-06-16**: 3nm 15% 가격 인상 후 고객사 반발·대안 팹 전환 여부 — 6/24 QCOM 인베스터 데이가 시그널 (14일)
+- [ ] **2026-06-16**: 대만해협 지정학 리스크 — 2026 하반기 생산 차질 없이 +30% 가이던스 달성 여부 (분기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +48,8 @@ sources: []
 
 > [!fact] TSM 시가총액 $1.89T (2026-06-09 기준), 주가 $427.89
 > AI 컴퓨트 공급망 핵심 위치 재확인. 17개 애널리스트 전원 Strong Buy, 평균 목표주가 $467.84.
+> [!fact] TSMC 5월 2026 매출 NTD 4,170억 (+30.1% YoY) 공시 — 수요 과열 재확인
+> 2026-06-10 TSMC IR 공시 (기업 직접 발표). 1~5월 누적 +30.0% YoY. 출처: TSMC IR, Globe and Mail (Tier-1 2건)
 <!-- FACTS_END -->
 
 ---
@@ -53,6 +57,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-16
+
+**narrative_score**: +0.30 (강한 긍정)
+**key_events**: 5월 매출 +30.1% YoY, 3nm 웨이퍼 15% 가격 인상, 시총 $2.28조 사상 최고
+**risks**: 대만해협 지정학, 인텔 파운드리 18A 중장기 경쟁, 고객사 가격 저항
+
+> [!claim] (출처: The Globe and Mail (IR), 2026-06-10) 5월 매출 NTD 4,170억 — +30.1% YoY, +1.5% MoM
+> 미국 보조금 확대 세부사항 동시 공개. AI 칩 수요 폭발 지속 확인. impact: + / category: earnings
+
+> [!claim] (출처: GuruFocus, 2026-06-11) 3nm 웨이퍼 H2 2026 최대 15% 가격 인상
+> AI 수요가 공급 초과 — 공급자 우위 시장 가격 결정력 재확인. 고객사 이탈 없음. impact: + / category: earnings
+
+> [!claim] (출처: GuruFocus, 2026-06-01) 시총 $2.28조 사상 최고 달성
+> NVIDIA 신규 AI 칩 수요·AI 사이클 정점 확인. impact: + / category: other
+
+**경쟁사 동향**:
+- INTC: 구글 TPU 300만 18A 파운드리 수주 — 2028년 이후 TSMC 첨단공정 독점에 최초 도전
+- NVDA: Blackwell GPU 수요가 TSMC 3nm 공급 부족 핵심 원인 — 인상 정당화
+
+
 
 ### 2026-06-10
 
