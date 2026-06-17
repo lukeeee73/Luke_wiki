@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-06-16
+updated: 2026-06-17
 domain: finance
 type: index
 weight: reference
@@ -75,16 +75,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [TSLA](tickers/TSLA - Tesla Inc.md) | 2026-06-03 | +0.10 | 유럽 5월 판매 급증·Q1+17%, 텍사스 로보택시 규제 강화 | 2 |
-| [TM](tickers/TM - Toyota Motor Corporation.md) | 2026-06-03 | -0.09 | 인증 위반으로 日 3개 차종 판매 중단, FY2026 실적 양호 | 2 |
-| [F](tickers/F - Ford Motor Company.md) | 2026-06-03 | -0.07 | 4월 판매 -14.4%, EV -31.1% — CMO 퇴임 겹침 | 2 |
-| [GM](tickers/GM - General Motors Company.md) | 2026-06-03 | +0.17 | 관세 대법원 수혜 가이던스 상향, Q1 EBIT $4.3B 견고 | 1 |
-| [STLA](tickers/STLA - Stellantis NV.md) | 2026-06-03 | -0.30 | 증권사기 집단소송 마감 임박 — 법적 리스크 최고조 | 2 |
-| [HMC](tickers/HMC - Honda Motor Co.md) | 2026-06-03 | +0.02 | 5월 미국 판매 +9.9%, Q4 FY2026 대규모 순손실 혼조 | 1 |
-| [RIVN](tickers/RIVN - Rivian Automotive.md) | 2026-06-03 | +0.30 | R2 배송 6/9 시작 + VW 15.9% 지분 — 10거래일 연속 상승 | 3 |
-| [NIO](tickers/NIO - NIO Inc.md) | 2026-06-03 | +0.20 | 5월 인도 +62.3%, ONVO L80 출시, Q2 110k-115k 가이던스 | 2 |
-| [005380.KS](tickers/005380.KS - Hyundai Motor Company.md) | 2026-06-03 | -0.05 | 5월 판매 -7.7% 내수 약세, $200억 미국 투자 발표 예정 | 2 |
-| [000270.KS](tickers/000270.KS - Kia Corporation.md) | 2026-06-03 | +0.07 | U.S. News 최우수 EV 3종 수상, NVIDIA 자율주행 협력 | 1 |
+| [TSLA](tickers/TSLA - Tesla Inc.md) | 2026-06-17 | +0.06 | JPMorgan PT $475 상향(자율주행 재평가), Q1 FCF 적자, 사이버트럭 생산 확대 | 2 |
+| [TM](tickers/TM - Toyota Motor Corporation.md) | 2026-06-17 | -0.12 | 렉서스 EV 개발 중단, FY2026 순이익 -19.24%, 5월 미국 판매 -0.6%, 8만2천대 리콜 | 2 |
+| [F](tickers/F - Ford Motor Company.md) | 2026-06-17 | -0.20 | 5월 미국 판매 -13.6%·EV -22.2%, 42만대 리콜, EBIT 마진 -4.5% | 2 |
+| [GM](tickers/GM - General Motors Company.md) | 2026-06-17 | +0.07 | 2027 실버라도 공개, 테네시 LFP→에너지저장 전환, 배당 $0.18(6/18) | 1 |
+| [STLA](tickers/STLA - Stellantis NV.md) | 2026-06-17 | -0.09 | 다수 집단소송 제기, 씨티 목표가 EUR 7.20 하향, 전고체 배터리 테스트 긍정 | 2 |
+| [HMC](tickers/HMC - Honda Motor Co.md) | 2026-06-17 | -0.19 | 70년 만의 연간 적자(관세+EV 구조조정 $9B+), 5월 미국 판매 +9.9% | 1 |
+| [RIVN](tickers/RIVN - Rivian Automotive.md) | 2026-06-17 | +0.01 | R2 양산 개시, AT&T 5G 파트너십(+6%), NHTSA R1S 서스펜션 조사, 2% 감원 | 3 |
+| [NIO](tickers/NIO - NIO Inc.md) | 2026-06-17 | +0.21 | Q1 EPS +105.6% 서프라이즈, 5월 인도 +62.3%, Onvo L60 가격 인하 | 2 |
+| [005380.KS](tickers/005380.KS - Hyundai Motor Company.md) | 2026-06-17 | +0.08 | HMGMA 2단계 $27억(+20만대·3,000일자리), Pleos Connect 출시, 박민우 42dot 수장 | 2 |
+| [000270.KS](tickers/000270.KS - Kia Corporation.md) | 2026-06-17 | 0.00 | 신규 재료 없음, 다음 실적 발표 7/17 예정 | 1 |
 
 ### 바이오 / 제약 / 헬스케어
 
@@ -210,9 +210,32 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [329180.KS](tickers/329180.KS - HD Hyundai Heavy Industries.md) | 2026-06-03 | +0.33 | VLGC 8척 1.416조원 수주, 연간 목표 60.8% 조기 달성, KDDX 소송 | 2 |
-| [042660.KS](tickers/042660.KS - Hanwha Ocean Co.md) | 2026-06-03 | +0.13 | Leidos 미 해군 설계 협력, 캐나다 해군 MOU 체결 | 2 |
-| [010140.KS](tickers/010140.KS - Samsung Heavy Industries.md) | 2026-06-03 | +0.25 | FDC 시장 선점 — Capital/LR MOU·Supermicro AI 서버 JDP | 2 |
+| [329180.KS](tickers/329180.KS - HD Hyundai Heavy Industries.md) | 2026-06-17 | -0.18 | KDDX ₩7.8조 입찰 탈락(보안 벌점 결정적), 가처분 기각 → 한화오션 수주 확정 | 1 |
+| [042660.KS](tickers/042660.KS - Hanwha Ocean Co.md) | 2026-06-17 | +0.30 | KDDX ₩7.8조 수주(이지스 6척, 2030년), +7.85% 급등, 캐나다 CPSP 후보 | 2 |
+| [010140.KS](tickers/010140.KS - Samsung Heavy Industries.md) | 2026-06-17 | +0.25 | 델핀 FLNG $29억·Cedar LNG 진수(세계 최초 3기 동시)·GTT LNG 2척·베트남 ₩3,410억 | 2 |
+| [010620.KS](tickers/010620.KS - HD Hyundai Mipo Dockyard Co. Ltd..md) | 2026-06-17 | +0.05 | Q2/Q3 PCTC·MR 탱커 납기 순조, 메탄올 추진 MR 탱커 시장 선두 | 1 |
+
+## 오늘의 시그널 (2026-06-17 · 수요일 · 자동차 / 모빌리티 + 조선 (한국))
+
+루틴은 다음 패턴을 감지하면 이 섹션에 기록한다:
+
+- **연속성**: 같은 테마가 3 일 이상 연속 등장
+- **모순**: 같은 종목 어제/오늘 narrative 가 반대 방향
+- **섹터 동기화**: 3 종목 이상이 같은 매크로 이슈로 동시 움직임
+
+**2026-06-17 감지된 시그널:**
+
+- **최고 시그널 (042660.KS +0.30)**: KDDX ₩7.8조 수주 단독 수확 — 이지스 구축함 6척 2030년 납품, 캐나다 CPSP 후보 부상, 온타리오 파트너십까지 삼중 호재. 한국 해군 함정 시장 주도권을 단번에 획득.
+- **최고 시그널 (NIO +0.21)**: Q1 EPS 컨센서스 105.6% 상회 + 5월 인도 +62.3% + Onvo L60 가격 경쟁력 — 중국 EV 섹터 내 최강 모멘텀 주. 전통 완성차(F·TM·HMC) 대비 중국 EV 스타트업 디커플링이 극명.
+- **역방향 (329180.KS → 042660.KS)**: KDDX 패자(-0.18) vs 승자(+0.30)의 극명한 대조. 보안 벌점(-1.2점)이 ₩7.8조를 가른 결정적 요인 — 방산 조선사 내부 관리 리스크의 실질 비용 확인.
+- **섹터 동기화 (일본 완성차 EV 후퇴)**: TM(-0.12, 렉서스 EV 중단) + HMC(-0.19, 70년 만의 연간 적자) — 일본 완성차 1·2위 모두 EV 전환 비용 직격. 일본 자동차 섹터의 구조적 EV 전환 지체가 단기 악재·장기 경쟁력 의문으로 부각.
+- **섹터 동기화 (완성차 전반 EV 수요 둔화)**: F(-0.20, EV -22.2%) + TM(-0.12) + HMC(-0.19) — 전통 완성차 3종목이 공통으로 EV 수요 부진, 판매 둔화, 리콜 악재로 동반 약세. EV 전환 비용 부담이 섹터 전반 헤드윈드.
+- **섹터 동기화 (K-조선 방산+LNG 동시 수주 러시)**: 042660.KS(KDDX 방산) + 010140.KS(Delfin FLNG + Cedar LNG) + 010620.KS(PCTC·MR 납기) — K-조선 3사 모두 수주 집행 모멘텀. 방산·FLNG·중소형 특수선 3개 세그먼트가 동시 강세로 조선 섹터 수퍼사이클 재확인.
+- **모순 (RIVN 급반전)**: 2026-06-03 +0.30 → 2026-06-17 +0.01 — R2 실제 양산 시작에도 NHTSA 조사·2% 감원이 모멘텀 급감. "출시 기대 → 출시 현실" 전환 과정에서 실행 리스크 현실화.
+- **연속성 (STLA 법적 리스크)**: 2026-06-03 -0.30(증권사기 소송 마감) → 2026-06-17 -0.09(다수 집단소송 제기) — 2주 연속 법적 리스크 테마. 소송 비용 누적이 밸류에이션 디스카운트 확대 요인.
+- **주목 이벤트**: GM 배당 $0.18 지급(6/18), 현대차 배당 지급(6/30), 기아 다음 실적 발표(7/17), 042660.KS 캐나다 CPSP 최종 수주 결정(미정), 010140.KS Delfin FLNG 착공 일정.
+
+### 감지된 패턴 (2026-06-16 · 화요일 · 반도체 + 로보틱스 / 피지컬 AI)
 
 ## 오늘의 시그널 (2026-06-16 · 화요일 · 반도체 + 로보틱스 / 피지컬 AI)
 

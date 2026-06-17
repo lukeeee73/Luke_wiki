@@ -1,7 +1,7 @@
 ---
 title: "TSLA - Tesla Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-03
+updated: 2026-06-17
 domain: finance
 type: claim
 weight: reference
@@ -50,6 +50,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-17 (수) — narrative_score: +0.06
+
+> [!claim] 핵심 시그널
+> JPMorgan, 테슬라 목표가 $475로 상향 — 자율주행·로보택시·로보틱스 재평가 (출처: JPMorgan, 2026-06-10)
+
+> [!claim] 생산 모멘텀
+> 사이버트럭 생산 지속 확대 + Optimus 로봇 파일럿 진행 (출처: Tesla IR, 2026-06-12)
+
+> [!claim] 재무 우려
+> Q1 FCF 적자 전환 — 설비투자 $25B 집행 과정에서 단기 현금 부담 (출처: Bloomberg, 2026-06-09)
+
+**narrative_score**: +0.06 (earnings_outlook: +0.10, competitive_position: +0.10, regulatory_risk: -0.10, macro_sensitivity: +0.10)
+
+**key_events**: JPMorgan PT $475 상향(자율주행 재평가), 사이버트럭 생산 확대, Q1 FCF 적자(설비투자 집행)
+
+**risks**: Q1 FCF 적자 지속 시 현금 부담 증가, 텍사스 로보택시 규제 지연, 중국 EV 경쟁 심화
+
+---
+
 ### 2026-06-03 (수) — narrative_score: +0.10
 
 > [!claim] 핵심 시그널

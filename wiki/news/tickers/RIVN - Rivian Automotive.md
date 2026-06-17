@@ -1,7 +1,7 @@
 ---
 title: "RIVN - Rivian Automotive, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-03
+updated: 2026-06-17
 domain: finance
 type: claim
 weight: reference
@@ -53,6 +53,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-17 (수) — narrative_score: +0.01
+
+> [!claim] 핵심 시그널
+> R2 양산 시작 — 일리노이주 노멀 공장에서 R2 대량 생산 및 고객 인도 개시 (출처: Rivian IR, 2026-06-10)
+
+> [!claim] 파트너십 긍정
+> AT&T 5G 플릿 커넥티비티 파트너십 발표 후 장중 +6% 급등 (출처: CNBC, 2026-06-12)
+
+> [!claim] 규제·구조조정 악재
+> NHTSA, 2023-2024년형 R1S 후방 서스펜션 토 링크 결함 조사 개시; 추가 구조조정으로 전체 인력의 약 2% 감축 (출처: Reuters/Bloomberg, 2026-06-05)
+
+**narrative_score**: +0.01 (earnings_outlook: 0.00, competitive_position: +0.20, regulatory_risk: -0.20, macro_sensitivity: 0.00)
+
+**key_events**: R2 양산·고객 인도 개시, AT&T 5G 파트너십(+6% 급등), NHTSA R1S 서스펜션 조사 개시, 2% 인력 구조조정
+
+**risks**: NHTSA 조사 리콜 확대 가능성, R2 양산 램프업 속도 불확실, EV 수요 둔화 지속 시 재무 부담
+
+---
+
 ### 2026-06-03 (수) — narrative_score: +0.30
 
 > [!claim] R2 출시 임박

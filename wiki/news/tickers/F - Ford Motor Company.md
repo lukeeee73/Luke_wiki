@@ -1,7 +1,7 @@
 ---
 title: "F - Ford Motor Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-03
+updated: 2026-06-17
 domain: finance
 type: claim
 weight: reference
@@ -50,6 +50,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-17 (수) — narrative_score: -0.20
+
+> [!claim] 핵심 시그널
+> 5월 미국 판매 -13.6%(190,828대), EV -22.2% — 당일 주가 -3.09% (출처: StocksToTrade, 2026-06-17)
+
+> [!claim] 리콜 악재
+> 포드 익스페디션·링컨 내비게이터 42만 대 리콜 — 시트벨트 프리텐셔너 결함 (출처: StocksToTrade, 2026-06-16)
+
+> [!claim] 실적 악화 지속
+> EBIT 마진 -4.5% 적자, 주가 5월 말 $17대에서 $14 아래로 연속 하락 (출처: StocksToTrade, 2026-06-01)
+
+**narrative_score**: -0.20 (earnings_outlook: -0.30, competitive_position: -0.20, regulatory_risk: -0.10, macro_sensitivity: -0.10)
+
+**key_events**: 5월 미국 판매 -13.6%, EV 판매 -22.2%, 42만 대 리콜(시트벨트), 주가 $17→$14 연속 하락
+
+**risks**: EV 판매 부진 구조화 우려, EBIT 마이너스 지속 시 재무 압박, 리콜 비용 확대, 소프트웨어 수익화 지연
+
+---
+
 ### 2026-06-03 (수) — narrative_score: -0.07
 
 > [!claim] 판매 급감
