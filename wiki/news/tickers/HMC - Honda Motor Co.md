@@ -1,7 +1,7 @@
 ---
 title: "HMC - Honda Motor Co., Ltd — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-03
+updated: 2026-06-17
 domain: finance
 type: claim
 weight: reference
@@ -47,6 +47,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-17 (수) — narrative_score: -0.19
+
+> [!claim] 핵심 시그널
+> 상장 이래 70년 만의 연간 적자 — 미국 관세·EV 구조조정 비용 $9B+ 직격 (출처: Reuters/QuiverQuant, 2026-06-12)
+
+> [!claim] 판매 반등
+> 5월 미국 판매 +9.9%(148,903대) — 연간 적자 속에서도 미국 시장 판매 반등 (출처: Honda IR, 2026-06-04)
+
+> [!claim] 주가 반등
+> 주가 +3.7% 급등 — GF 종합점수 72점, 밸류에이션(8/10)·수익성(7/10) 강점, 모멘텀(1/10) 약점 (출처: GuruFocus, 2026-06-11)
+
+**narrative_score**: -0.19 (earnings_outlook: -0.40, competitive_position: +0.10, regulatory_risk: -0.10, macro_sensitivity: -0.20)
+
+**key_events**: 70년 만의 연간 적자(미국 관세+EV 구조조정 $9B+), 5월 미국 판매 +9.9%, 주가 +3.7% 반등(6/11)
+
+**risks**: EV 전환 비용 추가 확대 가능성, 미국 관세 장기화 시 수익성 악화, 모멘텀 지표 10점 중 1점으로 기술적 약세
+
+---
+
 ### 2026-06-03 (수) — narrative_score: +0.02
 
 > [!claim] 미국 판매 강세

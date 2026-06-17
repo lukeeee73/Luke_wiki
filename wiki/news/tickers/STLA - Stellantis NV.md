@@ -1,7 +1,7 @@
 ---
 title: "STLA - Stellantis N.V — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-03
+updated: 2026-06-17
 domain: finance
 type: claim
 weight: reference
@@ -48,6 +48,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-17 (수) — narrative_score: -0.09
+
+> [!claim] 핵심 시그널
+> 2026년 6월 다수 집단소송 제기 — 법적 리스크 최고조 (출처: Yahoo Finance, 2026-06-05)
+
+> [!claim] 밸류에이션 하향
+> 씨티, 스텔란티스 목표가 EUR 7.50 → EUR 7.20으로 하향 조정 (출처: CNBC, 2026-06-09)
+
+> [!claim] 제품 긍정
+> 팩토리얼과 협력해 닷지 차저 데이토나에 전고체 배터리 탑재 도로 주행 검증 개시, 2027 차저·두란고 라인업 공개 (출처: Stellantis IR, 2026-06-10)
+
+**narrative_score**: -0.09 (earnings_outlook: -0.10, competitive_position: +0.10, regulatory_risk: -0.30, macro_sensitivity: -0.10)
+
+**key_events**: 다수 집단소송 제기, 씨티 목표가 EUR 7.50→7.20 하향, 전고체 배터리 차저 데이토나 도로 테스트, 2027 차저·두란고 라인업 공개
+
+**risks**: 집단소송 법적 비용 확대, EV 전환 지연 시 경쟁력 하락, 목표주가 하향 컨센서스 확산
+
+---
+
 ### 2026-06-03 (수) — narrative_score: -0.30
 
 > [!claim] 집단소송 리스크

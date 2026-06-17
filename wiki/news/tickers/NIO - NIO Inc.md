@@ -1,7 +1,7 @@
 ---
 title: "NIO - NIO Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-03
+updated: 2026-06-17
 domain: finance
 type: claim
 weight: reference
@@ -50,6 +50,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-17 (수) — narrative_score: +0.21
+
+> [!claim] 핵심 시그널
+> Q1 2026 EPS 컨센서스 105.6% 상회, 매출 YoY +112%(¥255.3억) — 어닝 서프라이즈 (출처: Seeking Alpha, 2026-06-10)
+
+> [!claim] 인도 급성장
+> 5월 인도 +62.3%(37,705대), Onvo 브랜드 월 1만2,000대+ 달성 (출처: NIO IR, 2026-06-04)
+
+> [!claim] 가격 경쟁력
+> Onvo L60 가격 인하 리프레시 — 테슬라 모델Y 직접 겨냥한 가격 경쟁력 강화 (출처: CnEVPost, 2026-06-09)
+
+**narrative_score**: +0.21 (earnings_outlook: +0.40, competitive_position: +0.20, regulatory_risk: 0.00, macro_sensitivity: 0.00)
+
+**key_events**: Q1 EPS 컨센서스 105.6% 상회, 5월 인도 +62.3%(37,705대), Onvo 브랜드 월 1만2,000대+, Onvo L60 가격 인하 리프레시
+
+**risks**: 중국 EV 경쟁 심화(BYD·Li Auto 등), 미중 무역 긴장 시 해외 확장 차질, 이익률 압박(가격 인하 정책 지속 시)
+
+---
+
 ### 2026-06-03 (수) — narrative_score: +0.20
 
 > [!claim] 5월 인도 서프라이즈

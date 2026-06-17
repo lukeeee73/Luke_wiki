@@ -1,7 +1,7 @@
 ---
 title: "GM - General Motors Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-03
+updated: 2026-06-17
 domain: finance
 type: claim
 weight: reference
@@ -51,6 +51,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-17 (수) — narrative_score: +0.07
+
+> [!claim] 핵심 시그널
+> 2027년형 실버라도 공개 — 파워풀한 엔진 옵션과 첨단 기술 탑재로 픽업트럭 경쟁력 강화 (출처: GMAuthority, 2026-06-12)
+
+> [!claim] 배터리 다각화
+> 테네시 LFP 공장 에너지저장·데이터센터 용도로 전환(700명 재고용), LMR 배터리 전략 발표 (출처: Bloomberg/Electrek, 2026-06-11)
+
+> [!claim] 주주환원
+> 분기 배당 $0.18/주 선언, 지급일 2026년 6월 18일 (출처: GM IR, 2026-06-05)
+
+**narrative_score**: +0.07 (earnings_outlook: +0.10, competitive_position: +0.10, regulatory_risk: 0.00, macro_sensitivity: 0.00)
+
+**key_events**: 2027 실버라도 공개, 테네시 LFP 배터리 에너지저장 전환, 배당 $0.18(6/18 지급), LMR 배터리 전략 발표
+
+**risks**: LMR 배터리 기술 성숙도 불확실, Cruise 자율주행 축소로 장기 경쟁력 의문, 에너지저장 시장 경쟁 격화
+
+---
+
 ### 2026-06-03 (수) — narrative_score: +0.17
 
 > [!claim] 가이던스 상향

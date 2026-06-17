@@ -1,7 +1,7 @@
 ---
 title: "TM - Toyota Motor Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-03
+updated: 2026-06-17
 domain: finance
 type: claim
 weight: reference
@@ -50,6 +50,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-17 (수) — narrative_score: -0.12
+
+> [!claim] 핵심 시그널
+> 렉서스 차세대 EV 개발 중단 결정 — EV 전략 근본 재점검 신호 (출처: Yahoo Finance, 2026-06-04)
+
+> [!claim] 실적 악화
+> FY2026 순이익 -19.24% — 소프트뱅크에 일본 시총 1위 자리 내줌 (출처: Stockanalysis.com, 2026-05-15)
+
+> [!claim] 판매·리콜 악재
+> 5월 미국 판매 -0.6%(238,800대), 미국 내 8만2,000대 안전 결함 리콜 발표 (출처: Yahoo Finance/Reuters, 2026-06-04)
+
+**narrative_score**: -0.12 (earnings_outlook: -0.20, competitive_position: -0.10, regulatory_risk: -0.10, macro_sensitivity: 0.00)
+
+**key_events**: 렉서스 차세대 EV 개발 중단, 5월 미국 판매 -0.6%, FY2026 순이익 -19.24%, 미국 8만2천대 리콜
+
+**risks**: EV 전략 후퇴로 장기 경쟁력 의문, 일본 시총 1위 소프트뱅크에 추월, 글로벌 리콜 확대 가능성
+
+---
+
 ### 2026-06-03 (수) — narrative_score: -0.09
 
 > [!claim] 규제 악재
