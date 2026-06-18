@@ -1,7 +1,7 @@
 ---
 title: "JNJ - Johnson & Johnson — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-11
+updated: 2026-06-18
 domain: finance
 type: claim
 weight: reference
@@ -49,6 +49,9 @@ sources: []
 > [!fact] JNJ FY2026 가이던스 $100.8B 상향, 64년 연속 배당 증가 $1.34/분기
 > 출처: CNBC / Bloomberg (2026-06-09)
 
+> [!fact] TALVEY(탈케타맙) MonumenTAL-3 Phase 3 1차 평가변수 충족 — 재발성/불응성 다발성 골수종 (PR Newswire, Reuters, 2026-06-13)
+> 출처: PR Newswire, Reuters (2026-06-13) — 복수 Tier-1 매체 확인
+
 <!-- FACTS_END -->
 
 ---
@@ -56,6 +59,18 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-18 (목) — narrative_score: +0.20
+
+**핵심 이벤트:** TALVEY MonumenTAL-3 Phase 3 성공, Firefly Bio $1B 인수, FY 가이던스 $100.8B 재확인  
+**리스크:** Firefly 인수 EPS 단기 희석, 글로벌 의약품 가격 규제 환경 악화
+
+> [!claim] TALVEY(탈케타맙) MonumenTAL-3 Phase 3 1차 평가변수 충족 — 재발성/불응성 다발성 골수종 (PR Newswire, 2026-06-13)
+> 혈액암 파이프라인 임상 성공 — ABBV 베네토클락스와 함께 혈액종양학 경쟁 이원화 구도 속 입지 강화.
+> ※ FDA 적응증 확대 신청 예정으로 추가 매출 기반 마련.
+
+> [!claim] Firefly Bio $10억 인수, FY 가이던스 $100.8B 재확인 (Reuters, 2026-06-14)
+> 종양학 M&A 지속 — Stelara 특허 만료 공백을 파이프라인·M&A로 메우는 전략 유지.
 
 ### 2026-06-11 (목) — narrative_score: +0.19
 

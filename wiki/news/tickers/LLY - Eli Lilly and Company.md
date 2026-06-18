@@ -1,7 +1,7 @@
 ---
 title: "LLY - Eli Lilly and Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-11
+updated: 2026-06-18
 domain: finance
 type: claim
 weight: reference
@@ -54,6 +54,12 @@ _(루틴 첫 실행 전 — 비어 있음)_
 
 > [!fact] FDA Ebglyss(lebrikizumab) 8주 1회 유지요법 아토피 피부염 승인 (PR Newswire, 2026-06-09)
 > 출처: PR Newswire (2026-06-09)
+
+> [!fact] Foundayo(orforglipron) ACHIEVE-3 3상 — 경구 세마글루타이드 대비 A1C·체중 감소 양축 우위 확인 (Reuters, CNBC, 2026-06-17)
+> 출처: Reuters, CNBC (2026-06-17) — head-to-head 임상 복수 매체 확인
+
+> [!fact] Jaypirca(pirtobrutinib) BRUIN CLL-322 Phase 3 — CLL 질병 진행·사망 위험 45% 감소 확인 (PR Newswire, 2026-06-15)
+> 출처: PR Newswire / Eli Lilly IR (2026-06-15)
 <!-- FACTS_END -->
 
 ---
@@ -61,6 +67,22 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-18 (목) — narrative_score: +0.42
+
+**핵심 이벤트:** ACHIEVE-3 경구 GLP-1 head-to-head NVO 승리, Jaypirca CLL-322 3상 성공, 4E Therapeutics 인수  
+**리스크:** 4E 인수 EPS 희석, NVO 경구 위고비 UK 승인으로 유럽 경쟁 강화, 메디케어 약가 협상
+
+> [!claim] Foundayo(orforglipron) ACHIEVE-3 3상 — 경구 세마글루타이드 대비 A1C·체중 감소 우위 확인 (Reuters, 2026-06-17)
+> 세계 최초 경구 GLP-1 FDA 승인(6/8) 이후 head-to-head 임상에서도 NVO 경구 세마글루타이드를 앞서 — 임상 데이터 우위 공식화.
+> ※ NVO 경구 위고비 UK 승인(6/16)으로 유럽 경쟁은 심화되나, 효능 데이터에서 LLY 리드 확인.
+
+> [!claim] Jaypirca(pirtobrutinib) BRUIN CLL-322 Phase 3 — CLL 질병 진행·사망 위험 45% 감소 (PR Newswire, 2026-06-15)
+> BTK 억제제 CLL 3상 성공으로 혈액암 파이프라인 다변화 입증 — 비만 치료제 의존 집중 리스크 완화.
+
+> [!claim] 4E Therapeutics 인수 — 비중독성 진통제 파이프라인 확보 (Yahoo Finance, 2026-06-16)
+> 신경과학 파이프라인 확장. ARK 4만1천주 매수도 동시 확인으로 긍정 센티먼트.
+> ※ 단기 EPS 희석 가능성 있으나 파이프라인 다각화 가치.
 
 ### 2026-06-11 (목) — narrative_score: +0.34
 

@@ -1,7 +1,7 @@
 ---
 title: "TMO - Thermo Fisher Scientific — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-11
+updated: 2026-06-18
 domain: finance
 type: claim
 weight: reference
@@ -49,6 +49,9 @@ sources: []
 > [!fact] TMO Q1 2026: 매출 $11.01B(컨센 $10.85B 상회), FY EPS 가이던스 $24.64-25.12 상향 발표
 > 출처: Thermo Fisher IR (2026-06-05)
 
+> [!fact] 주주총회 경영진 보수(say-on-pay) 안건 부결 — 거버넌스 우려 표시 (Reuters, 2026-06-11)
+> 출처: Reuters (2026-06-11)
+
 <!-- FACTS_END -->
 
 ---
@@ -56,6 +59,19 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-18 (목) — narrative_score: -0.10
+
+**핵심 이벤트:** HSBC Buy→Hold 다운그레이드(PT $670→$540), 주주총회 say-on-pay 부결, YTD -20.23%  
+**리스크:** 바이오파마 CRO/CDMO 수요 약세 지속, 거버넌스 우려
+
+> [!claim] HSBC Buy→Hold, PT $670→$540 — 바이오파마 CDMO 수요 우려 반영 (HSBC Research, 2026-06-13)
+> 전임 목표가 대비 $130 하향 — CRO/CDMO 사이클 약세 장기화 예상.
+> ※ Piper Sandler도 Neutral 유지 — 애널리스트 센티먼트 전반 보수적.
+
+> [!claim] 주주총회 say-on-pay 부결, YTD -20.23% (Reuters, GuruFocus, 2026-06-11~17)
+> 주주 거버넌스 불만 표시 — 성과 대비 경영진 보수 수준 재검토 필요.
+> ※ Q1 어닝 비트에도 주가 -20% YTD 지속은 구조적 수요 우려 반영.
 
 ### 2026-06-11 (목) — narrative_score: +0.15
 

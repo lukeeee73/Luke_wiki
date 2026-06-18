@@ -1,7 +1,7 @@
 ---
 title: "ABT - Abbott Laboratories — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-11
+updated: 2026-06-18
 domain: finance
 type: claim
 weight: reference
@@ -52,6 +52,18 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-18 (목) — narrative_score: +0.03
+
+**핵심 이벤트:** Citi 적정가치 $99-104(현재 $88 대비 저평가), Wells Fargo Buy 유지, DKA CGM 데이터  
+**리스크:** 헬스케어 섹터 매도세로 주가 $88.50(-2.34%), 근거리 촉매 부재
+
+> [!claim] Citi 가치 평가 $99-104, 현재가 $88-90 — 13~18% 업사이드 (Citi Research, 2026-06-17)
+> 밸류에이션 저평가 논거 강화. Wells Fargo도 Buy 유지 — 기관 긍정 의견 지속.
+> ※ 촉매 부재 상황에서 섹터 셀오프로 주가 $88.50(-2.34%) — 저가 매력은 높으나 모멘텀 약함.
+
+> [!claim] DKA CGM 데이터 ADA 2026 발표 — Libre Duo 적응 환자군 확장 (ADA 2026, 2026-06-15)
+> 당뇨병 케톤산증 예방 CGM 활용 가능성 확인 — 미국 FDA 허가 절차가 다음 촉매.
 
 ### 2026-06-11 (목) — narrative_score: +0.08
 

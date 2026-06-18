@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-06-17
+updated: 2026-06-18
 domain: finance
 type: index
 weight: reference
@@ -90,16 +90,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [LLY](tickers/LLY - Eli Lilly and Company.md) | 2026-06-11 | +0.34 | 경구 GLP-1 Foundayo FDA 최초 승인·Ebglyss 8주 투약 승인·메디케어 GLP-1 7/1 적용 시작 | 3 |
-| [NVO](tickers/NVO - Novo Nordisk AS.md) | 2026-06-11 | -0.14 | 경구 위고비 300만 처방에도 LLY FDA 승인으로 가려져 주가 약세 지속 | 4 |
-| [JNJ](tickers/JNJ - Johnson and Johnson.md) | 2026-06-11 | +0.19 | Firefly Bio $10억 인수·FY2026 가이던스 $100.8B 상향·닙포칼리맙 SLE 2상 성공 | 3 |
-| [PFE](tickers/PFE - Pfizer Inc.md) | 2026-06-11 | -0.08 | RBC 등급 Sector Perform 상향·SOLIS-1 2상 시작·H2 종양학 3상 데이터 예정 | 3 |
-| [MRK](tickers/MRK - Merck and Co.md) | 2026-06-11 | +0.03 | 경구 HIV 치료 3상 성공(Gilead 공동)·KEYNOTE-D46 폐암 병용 중단·주가 +1.5% | 3 |
-| [ABBV](tickers/ABBV - AbbVie Inc.md) | 2026-06-11 | +0.17 | 아퀴프타 EU 편두통 급성기 승인·EHA 2026 혈액암 데이터·스카이리지 성장 지속 | 2 |
-| [AZN](tickers/AZN - AstraZeneca PLC.md) | 2026-06-11 | +0.19 | 경구 GLP-1 엘레코글리프론 Phase 3 진입·2025 실적 매출+8.6%·컨센서스 $224 Strong Buy | 3 |
-| [UNH](tickers/UNH - UnitedHealth Group.md) | 2026-06-11 | -0.20 | CMS 2027 메디케어 요율 동결·버크셔 지분 완전 매각·독점금지 조사 지속 | 3 |
-| [TMO](tickers/TMO - Thermo Fisher Scientific.md) | 2026-06-11 | +0.15 | Q1 어닝 비트 + FY EPS 가이던스 상향·ASMS 신형 질량분석기 2종 공개 | 3 |
-| [ABT](tickers/ABT - Abbott Laboratories.md) | 2026-06-11 | +0.08 | 리브레 듀오 EU CE 마크(세계 최초 이중 CGM)·Exact Sciences 인수 완료 | 3 |
+| [LLY](tickers/LLY - Eli Lilly and Company.md) | 2026-06-18 | +0.42 | ACHIEVE-3 경구 GLP-1 head-to-head NVO 승리·Jaypirca CLL-322 3상(-45%)·4E Therapeutics 인수 | 3 |
+| [NVO](tickers/NVO - Novo Nordisk AS.md) | 2026-06-18 | -0.12 | 영국 경구 위고비 승인(긍정)에도 ACHIEVE-3에서 LLY에 패배·YTD -12.2% 약세 지속 | 3 |
+| [JNJ](tickers/JNJ - Johnson and Johnson.md) | 2026-06-18 | +0.20 | TALVEY MonumenTAL-3 Phase 3 성공·Firefly Bio $1B 인수·FY 가이던스 $100.8B 재확인 | 3 |
+| [PFE](tickers/PFE - Pfizer Inc.md) | 2026-06-18 | -0.02 | CFO Dave Denton 퇴임 -3%·berobenatide Phase 2b 15.9% 체중 감소(LLY/NVO 대비 열위)·주가 $25.09 | 3 |
+| [MRK](tickers/MRK - Merck and Co.md) | 2026-06-18 | +0.23 | FDA KEYTRUDA+WELIREG RCC 1차 승인·Capvaxive 신규 적응증·Protillion $510M 파트너십 | 3 |
+| [ABBV](tickers/ABBV - AbbVie Inc.md) | 2026-06-18 | +0.24 | CLL14 최종 3상 PFS 6.4y vs 3.2y(EHA 2026)·Skyrizi·Rinvoq 가이던스 상향 | 2 |
+| [AZN](tickers/AZN - AstraZeneca PLC.md) | 2026-06-18 | +0.24 | PTEN-결핍 전립선암 최초 FDA 미국 표적 승인·elecoglipron Phase IIb 긍정·Citi Buy 개시 | 3 |
+| [UNH](tickers/UNH - UnitedHealth Group.md) | 2026-06-18 | +0.05 | Q1 EPS $7.23(+10%)·FY >$18.25 가이던스 견고에도 DOJ 조사·CMS 2027 동결 오버행 | 3 |
+| [TMO](tickers/TMO - Thermo Fisher Scientific.md) | 2026-06-18 | -0.10 | HSBC Buy→Hold PT $670→$540·주주총회 say-on-pay 부결·YTD -20.23% | 3 |
+| [ABT](tickers/ABT - Abbott Laboratories.md) | 2026-06-18 | +0.03 | Citi 적정가치 $99-104(현재 $88 저평가)·DKA CGM 데이터(ADA 2026)·섹터 매도세로 -2.34% | 3 |
 
 ### 에너지 / 원자재
 
@@ -214,6 +214,27 @@ sources: []
 | [042660.KS](tickers/042660.KS - Hanwha Ocean Co.md) | 2026-06-17 | +0.30 | KDDX ₩7.8조 수주(이지스 6척, 2030년), +7.85% 급등, 캐나다 CPSP 후보 | 2 |
 | [010140.KS](tickers/010140.KS - Samsung Heavy Industries.md) | 2026-06-17 | +0.25 | 델핀 FLNG $29억·Cedar LNG 진수(세계 최초 3기 동시)·GTT LNG 2척·베트남 ₩3,410억 | 2 |
 | [010620.KS](tickers/010620.KS - HD Hyundai Mipo Dockyard Co. Ltd..md) | 2026-06-17 | +0.05 | Q2/Q3 PCTC·MR 탱커 납기 순조, 메탄올 추진 MR 탱커 시장 선두 | 1 |
+
+## 오늘의 시그널 (2026-06-18 · 목요일 · 바이오 / 제약 / 헬스케어)
+
+루틴은 다음 패턴을 감지하면 이 섹션에 기록한다:
+
+- **연속성**: 같은 테마가 3 일 이상 연속 등장
+- **모순**: 같은 종목 어제/오늘 narrative 가 반대 방향
+- **섹터 동기화**: 3 종목 이상이 같은 매크로 이슈로 동시 움직임
+
+**2026-06-18 감지된 시그널:**
+
+- **최고 시그널 (LLY +0.42)**: ACHIEVE-3 3상에서 NVO 경구 세마글루타이드 대비 A1C·체중 감소 양축 우위 확인 — 경구 GLP-1 선점 + 임상 우위 동시 입증. Jaypirca BRUIN CLL-322 성공(혈액암)까지 다변화, 파이프라인 전방위 우위의 한 주.
+- **역방향 (NVO -0.12 ← +0.19 전환점)**: 영국 경구 위고비 승인(긍정)에도 ACHIEVE-3 head-to-head 패배로 narrative 역전. 오픈 클레임 '추가 국가 출시' verified 처리. 경구 GLP-1 시장 주도권이 NVO에서 LLY로 이동하는 첫 임상 증거.
+- **모순 (UNH)**: 2026-06-11 -0.20(버크셔 매각·CMS 동결) → 2026-06-18 +0.05(Q1 EPS+10%·FY가이던스 상향). 펀더멘털(긍정)과 규제 오버행(부정) 간의 양방향 당김. DOJ 조사 해소 전까지 구조적 갈등 지속.
+- **모순 (TMO)**: 2026-06-11 +0.15(어닝 비트·ASMS) → 2026-06-18 -0.10(HSBC 다운그레이드·say-on-pay 부결). Q1 어닝 비트에도 CRO/CDMO 사이클 우려가 애널리스트·주주 모두 지배 — 단기 어닝 서프라이즈가 구조적 약세 반전에 역부족.
+- **섹터 동기화 (FDA 승인 러시)**: LLY ACHIEVE-3 head-to-head 확인 + MRK KEYTRUDA+WELIREG RCC + Capvaxive + AZN PTEN-전립선암 — 규제 헤드라인이 목요일 한 주에 집중. 제약 섹터 FDA 파이프라인 모멘텀 최고조.
+- **섹터 동기화 (경구 GLP-1 3파전 재편)**: LLY(Foundayo FDA승인+ACHIEVE-3 우세) vs NVO(UK승인+ACHIEVE-3 패배) vs AZN(elecoglipron Phase 2b) — 경구 비만 치료제 시장이 LLY 주도로 재편되는 분기점. NVO의 다음 대응(CagriSema Phase 3)이 핵심 주목 이벤트.
+- **연속성 (PFE 리더십·파이프라인 이중 약세)**: 6/11 -0.08(RBC 상향에도 GLP-1 후발) → 6/18 -0.02(CFO 퇴임+berobenatide 효능 열위). 2주 연속 부정적 흐름. 파이프라인과 조직 안정성 동시 약세.
+- **주목 이벤트**: 7/1 메디케어 GLP-1 보험 적용 시작(LLY·NVO 수혜 규모 가늠자), MRK Q2 실적(KEYTRUDA RCC 판매량 반영 여부), NVO CagriSema Phase 3 결과(기한 2026-09-11), LLY·NVO 메디케어 Zepbound vs Wegovy 처방 비율(2026-09-30).
+
+### 감지된 패턴 (2026-06-17 · 수요일 · 자동차 / 모빌리티 + 조선 (한국))
 
 ## 오늘의 시그널 (2026-06-17 · 수요일 · 자동차 / 모빌리티 + 조선 (한국))
 
