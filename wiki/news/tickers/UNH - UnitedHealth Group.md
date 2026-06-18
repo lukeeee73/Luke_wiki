@@ -1,7 +1,7 @@
 ---
 title: "UNH - UnitedHealth Group — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-11
+updated: 2026-06-18
 domain: finance
 type: claim
 weight: reference
@@ -52,6 +52,9 @@ sources: []
 > [!fact] 버크셔 해서웨이 UNH 지분 완전 매각 — 2025.8 공개 후 약 10개월 만에 전량 처분
 > 출처: CNBC / Morningstar (2026-06-09)
 
+> [!fact] UNH Q1 2026 EPS $7.23 (+10% YoY), MCR 83.9% 안정, FY 2026 EPS 가이던스 >$18.25 (UNH IR, 2026-05-01)
+> 출처: UNH IR (investor.unitedhealthgroup.com), Yahoo Finance (2026-05-01) — 공시 복수 확인
+
 <!-- FACTS_END -->
 
 ---
@@ -59,6 +62,19 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-18 (목) — narrative_score: +0.05
+
+**핵심 이벤트:** Q1 EPS $7.23 (+10%), FY 가이던스 >$18.25 EPS 상향, 배당 $2.32 — 실적 펀더멘털 견고  
+**리스크:** DOJ 독점금지 조사 지속, CMS 2027 동결, 주가 $407.65 (고점 $415.98 대비 후퇴)
+
+> [!claim] Q1 2026 EPS $7.23 (+10% YoY), MCR 83.9% 안정, FY 가이던스 >$18.25 EPS (UNH IR, 2026-05-01)
+> 핵심 보험 수익성 안정적 — MCR 80%대 초반 유지로 구조적 마진 훼손 없음 확인.
+> ※ DOJ 독점금지 조사 오버행에도 실적 펀더멘털은 긍정적.
+
+> [!claim] DOJ 독점금지 조사 지속 — 규제 오버행 해소 시점 불확실 (Reuters, 2026-06-15)
+> 버크셔 지분 매각, CMS 2027 동결에 이어 규제 리스크 3중 오버행.
+> ※ 주가 $407.65는 JP모건 $466·미즈호 $460 목표 대비 9~12% 할인. 리스크-리워드 비대칭 유효.
 
 ### 2026-06-11 (목) — narrative_score: -0.20
 

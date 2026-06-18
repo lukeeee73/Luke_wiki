@@ -1,7 +1,7 @@
 ---
 title: "MRK - Merck & Co., Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-11
+updated: 2026-06-18
 domain: finance
 type: claim
 weight: reference
@@ -52,6 +52,12 @@ sources: []
 > [!fact] 이슬라트라비르/레나카파비르 경구 주 1회 HIV 치료 Phase 3 양성 최종 결과 (Gilead 공동, 2026-06-10)
 > 출처: Yahoo Finance / Merck IR (2026-06-10)
 
+> [!fact] FDA, KEYTRUDA+WELIREG 병용요법 1차 치료 신장세포암(RCC) 승인 (Merck IR, 2026-06-12)
+> 출처: Merck IR, PR Newswire (2026-06-12) — 공식 FDA 승인 공시
+
+> [!fact] FDA, Capvaxive 신규 폐렴구균 적응증 추가 승인 (Merck IR, 2026-06-16)
+> 출처: Merck IR (2026-06-16)
+
 <!-- FACTS_END -->
 
 ---
@@ -59,6 +65,18 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-18 (목) — narrative_score: +0.23
+
+**핵심 이벤트:** KEYTRUDA+WELIREG RCC 1차 FDA 승인, Capvaxive 신규 적응증, Protillion $510M 파트너십  
+**리스크:** KEYTRUDA 2028 특허 만료, Gardasil 중국 매출 불확실성
+
+> [!claim] FDA KEYTRUDA+WELIREG 병용요법 1차 신장세포암(RCC) 승인 (Merck IR, 2026-06-12)
+> 면역항암제 병용요법 적응증 확대 — 기존 LITESPARK-012 실패 이후 RCC 1차 치료 재진입 성공.
+> ※ WELIREG 병용으로 VEGF-독립 경로 차단 + PD-L1 차단 이중 기전 활용.
+
+> [!claim] FDA Capvaxive 신규 폐렴구균 적응증, Protillion Biosciences $510M 파트너십 (Merck IR, 2026-06-14~16)
+> 백신·신약 파이프라인 동시 확장 — 키트루다 의존도 분산 전략 착실히 진행 중.
 
 ### 2026-06-11 (목) — narrative_score: +0.03
 

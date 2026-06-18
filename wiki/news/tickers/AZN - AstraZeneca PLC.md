@@ -1,7 +1,7 @@
 ---
 title: "AZN - AstraZeneca PLC — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-11
+updated: 2026-06-18
 domain: finance
 type: claim
 weight: reference
@@ -52,6 +52,12 @@ sources: []
 > [!fact] 경구 GLP-1 엘레코글리프론(elecoglipron) Phase 3 진입 공식 발표
 > 출처: Seeking Alpha (2026-06-10)
 
+> [!fact] FDA, PTEN 결핍 전립선암 최초 미국 표적 치료 승인 — 신규 바이오마커 기반 정밀의학 (AstraZeneca IR, 2026-06-15)
+> 출처: AstraZeneca IR (2026-06-15) — 공식 FDA 승인 공시
+
+> [!fact] 일레코글리프론(elecoglipron) Phase IIb 긍정 결과 — 체중 감소 통계적 유의성 확인 (AstraZeneca IR, 2026-06-16)
+> 출처: AstraZeneca IR (2026-06-16)
+
 <!-- FACTS_END -->
 
 ---
@@ -59,6 +65,19 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-18 (목) — narrative_score: +0.24
+
+**핵심 이벤트:** PTEN-결핍 전립선암 최초 FDA 미국 표적 승인, elecoglipron Phase IIb 긍정, Citi Buy 개시  
+**리스크:** 경구 GLP-1 LLY 대비 2~3년 후발, 카미제스트란트 FDA 재심 결과 대기
+
+> [!claim] FDA PTEN 결핍 전립선암 표적 치료 최초 미국 승인 획득 (AstraZeneca IR, 2026-06-15)
+> 희귀 바이오마커 기반 정밀의학 선도 — 전립선암 시장 첫 PTEN-기반 표적치료 진입.
+> ※ 환자 선별 필요하여 시장 규모 제한적이나 프리미엄 가격 적용 가능.
+
+> [!claim] 일레코글리프론 Phase IIb 긍정 결과, Citi Buy 개시 (AstraZeneca IR, Citi, 2026-06-14~16)
+> GLP-1 파이프라인 기대치 유지 + 종양학 Buy 이유 인정 — 밸류에이션 재평가 촉매.
+> ※ 경구 GLP-1은 Phase 3 완료 후 시장 진입까지 2028년 이후 예상 — LLY/NVO 선점 시장에서 차별화 필요.
 
 ### 2026-06-11 (목) — narrative_score: +0.19
 

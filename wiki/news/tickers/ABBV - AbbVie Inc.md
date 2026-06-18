@@ -1,7 +1,7 @@
 ---
 title: "ABBV - AbbVie Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-11
+updated: 2026-06-18
 domain: finance
 type: claim
 weight: reference
@@ -46,6 +46,9 @@ sources: []
 > [!fact] 아퀴프타(atogepant) EU 편두통 급성기 치료 공식 승인 (AbbVie IR, 2026-06-09)
 > 출처: AbbVie News Center (2026-06-09)
 
+> [!fact] CLL14 최종 3상 PFS 6.4년 vs 대조군(화학면역요법) 3.2년 — EHA 2026 발표, 장기 데이터 확정 (AbbVie IR, EHA 2026, 2026-06-14)
+> 출처: AbbVie IR, EHA 2026 공식 발표 (2026-06-14) — 복수 매체 확인
+
 <!-- FACTS_END -->
 
 ---
@@ -53,6 +56,19 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-18 (목) — narrative_score: +0.24
+
+**핵심 이벤트:** CLL14 최종 3상 PFS 6.4년(EHA 2026), Skyrizi·Rinvoq 가이던스 상향  
+**리스크:** 휴미라 바이오시밀러 침식 가속화, JNJ TALVEY 혈액암 경쟁
+
+> [!claim] CLL14 최종 3상 PFS 6.4년 vs 화학면역요법 3.2년 — EHA 2026 발표 (AbbVie IR, 2026-06-14)
+> 베네토클락스 CLL 장기 내구성 최종 확인 — 혈액암 1차 치료 표준으로서 입지 강화.
+> ※ JNJ TALVEY MonumenTAL-3 성공으로 혈액암 경쟁 심화되나, CLL vs MM 적응증 상이.
+
+> [!claim] Skyrizi·Rinvoq 연간 가이던스 상향 — 휴미라 이후 성장 전환 궤도 가시화 (CNBC, 2026-06-12)
+> 2025 수익 전환 예상보다 빠르게 진행. 구조적 성장 동력 확인.
+> ※ EHA 2026 혈액암 open claim → 데이터 발표 완료, 매출 기여는 하반기 지속 모니터링.
 
 ### 2026-06-11 (목) — narrative_score: +0.17
 

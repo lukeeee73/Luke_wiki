@@ -1,7 +1,7 @@
 ---
 title: "NVO - Novo Nordisk A/S — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-11
+updated: 2026-06-18
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] 경구형 위고비 UAE 론칭 이후 추가 국가 출시 일정이 발표될 것인가? (기한: 2026-06-18)
-- [ ] NVO 주가 1년 하락이 LLY 경쟁 심화와 성장 기대치 조정 복합 요인인가? (지속 모니터링 — 6/11 LLY FDA 승인으로 경쟁 리스크 확인)
+- [x] 경구형 위고비 UAE 론칭 이후 추가 국가 출시 일정이 발표될 것인가? ~~(기한: 2026-06-18)~~ → **verified**: 영국 MHRA 승인(2026-06-16)으로 두 번째 해외 시장 진출 확인.
+- [ ] NVO 주가 1년 하락이 LLY 경쟁 심화와 성장 기대치 조정 복합 요인인가? (지속 모니터링 — ACHIEVE-3 패배로 경쟁 열위 심화)
 - [ ] NVO CagriSema Phase 3 성공이 시장 점유율 회복 촉매가 될 것인가? (기한: 2026-09-11)
 - [ ] 메디케어 GLP-1 7/1 적용 후 Wegovy vs Foundayo 처방 비율은? (기한: 2026-09-30)
 <!-- OPEN_CLAIMS_END -->
@@ -43,6 +43,9 @@ sources: []
 <!-- FACTS_START -->
 > [!fact] Wegovy 경구형 Q1 2026 매출 $351M, 처방 200만건 돌파 (CNBC, Capital.com 2건 이상 확인)
 > 출처: CNBC, Capital.com (2026-05-06, 2026-06-02)
+
+> [!fact] 영국 MHRA, 경구형 위고비(세마글루타이드 알약) 비만 치료 승인 — UAE 이후 두 번째 해외 시장 (Reuters, BBC, 2026-06-16)
+> 출처: Reuters, BBC (2026-06-16) — 복수 Tier-1 매체 확인
 <!-- FACTS_END -->
 
 ---
@@ -50,6 +53,19 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-18 (목) — narrative_score: -0.12
+
+**핵심 이벤트:** 영국 MHRA 경구 위고비 승인(긍정), ACHIEVE-3에서 LLY Foundayo에 패배(부정), YTD -12.2%  
+**리스크:** 경구 GLP-1 점유율 LLY에 잠식 가능성, 투자자 신뢰 약화
+
+> [!claim] 영국 MHRA 경구형 위고비 승인 — UAE 이후 두 번째 해외 시장 (Reuters, 2026-06-16)
+> 글로벌 경구 비만약 확장 계속되고 있으나 주목도는 ACHIEVE-3 패배에 가려짐.
+> ※ 오픈 클레임 "추가 국가 출시" 기한 도달 → verified 처리.
+
+> [!claim] ACHIEVE-3 3상 — LLY 파운다요에 A1C·체중 감소 양축 패배 (Bloomberg, 2026-06-17)
+> 경구 GLP-1 최초 head-to-head에서 NVO 패배 — 임상 데이터 우위 상실로 점유율 리스크 현실화.
+> ※ 메디케어 7/1 적용 이후 처방 비율이 핵심 확인 지표.
 
 ### 2026-06-11 (목) — narrative_score: -0.14
 

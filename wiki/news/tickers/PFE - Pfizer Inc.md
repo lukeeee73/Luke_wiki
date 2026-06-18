@@ -1,7 +1,7 @@
 ---
 title: "PFE - Pfizer Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-11
+updated: 2026-06-18
 domain: finance
 type: claim
 weight: reference
@@ -49,6 +49,19 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-18 (목) — narrative_score: -0.02
+
+**핵심 이벤트:** CFO Dave Denton 퇴임(-3%), berobenatide Phase 2b 15.9% 체중 감소, 주가 $25.09  
+**리스크:** 리더십 불안정, 비만 파이프라인 LLY/NVO 대비 효능 열위
+
+> [!claim] CFO Dave Denton 퇴임 발표 — 주가 -3% (Reuters, 2026-06-16)
+> 재무 리더십 불안정성 투자자 우려. 파이프라인 전환기 CFO 부재 타이밍 불리.
+> ※ 후임자 발표 속도와 자격이 투자자 신뢰 회복 관건.
+
+> [!claim] berobenatide Phase 2b — 체중 15.9% 감소, ADA 2026 발표 (Fierce Pharma, 2026-06-15)
+> 비만 시장 진입 데이터 확보. 그러나 LLY Foundayo·NVO Wegovy 대비 효능 열위 뚜렷.
+> ※ SOLIS-1 Phase 2 시작과 함께 파이프라인은 진행 중이나 차별화 근거 미흡.
 
 ### 2026-06-11 (목) — narrative_score: -0.08
 
