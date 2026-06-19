@@ -1,7 +1,7 @@
 ---
 title: "FCX - Freeport-McMoRan Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-12
+updated: 2026-06-19
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,9 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-29**: Barclays OW 신규 개시 + 구리 수요 강세 — Grasberg 생산 정상화 시 목표가 도달 여부 (pending)
-- [ ] **2026-06-05**: Grasberg 복구 지연 — 2026 하반기 생산 정상화 일정 발표 여부 (pending)
+- [ ] **2026-05-29**: Barclays OW 신규 개시 + 구리 수요 강세 — Grasberg 생산 정상화 시 목표가 도달 여부 (pending; 구리 $13,572/t 고점 유지하나 Grasberg 지연 지속)
+- [ ] **2026-06-05**: Grasberg 복구 지연 — 2026 하반기 생산 정상화 일정 발표 여부 (pending; 6/16 연결 판매 전망 ~31억 파운드로 추가 하향)
+- [ ] **2026-06-19**: 인도네시아 신규 제련소 조기 가동 — 연말 풀가동·완전 통합 생산자화 달성 여부 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-19
+**narrative_score**: +0.13
+**key_events**: Grasberg 지연으로 2026 연결 판매 전망 ~31억 파운드로 하향(기존 34억), 구리 LME ~$13,572/t 역사적 고점 부근 (AI 데이터센터 구조적 공급부족), 인도네시아 신규 제련소 조기 가동
+**risks**: Grasberg 생산 차질 장기화로 단기 FCF·생산 가이던스 훼손, 구리 고점 조정 시 밸류에이션 압박, 인도네시아 광업 규제·수출 정책 리스크
+
+> [!claim] (Seeking Alpha, 2026-06-16) Freeport-McMoRan Falls as Grasberg Delay Cuts 2026 Output Outlook
+> 그라스베르그 블록케이브 복구 지연으로 연결 판매량 전망 ~31억 파운드로 하향(기존 34억). 단기 생산 전망 약화. impact: - / category: earnings
+
+> [!claim] (OilPrice.com, 2026-06-15) Copper Near Historic Highs (~$13,572/t LME); AI Data Centers Drive Structural Deficit
+> LME 구리 약 $13,572/톤 역사적 고점 부근. AI 데이터센터(하이퍼스케일당 최대 5만톤)·전기화 수요로 구조적 공급부족, UBS 9월 $14,000 전망. impact: + / category: macro
+
+> [!claim] (MINING.COM, 2026-06-16) Freeport's New Indonesian Smelter Starting Ahead of Schedule, Full Integration by Year-End
+> 인도네시아 신규 제련소 조기 가동, 연말 풀가동 예상 — 완전 통합 구리 생산자로 비용 절감·수출세 노출 축소. impact: + / category: other
+
+**경쟁사 동향**:
+- NEM: 금 ~$4,136/oz로 풀백 — FCX 금 부산물에 소폭 부정적이나 구리 익스포저가 지배적
+- BHP: 동일 AI·전기화 구리 수요 트렌드 공유하나 FCX의 Grasberg 생산 차질이 상대적 취약점
+
 ### 2026-06-12
 **narrative_score**: +0.01
 **key_events**: Q1 EPS $0.57 컨센서스 21% 상회 (발표 후 -12% 급락), 그라스베르그 H2 생산 60k톤/일로 40% 삭감 (구리 -9%, 금 -7% through 2031), 구리 가격 $5.80/lb 역대 최고

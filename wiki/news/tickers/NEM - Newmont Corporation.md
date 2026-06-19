@@ -1,7 +1,7 @@
 ---
 title: "NEM - Newmont Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-12
+updated: 2026-06-19
 domain: finance
 type: claim
 weight: reference
@@ -29,7 +29,8 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-29**: 2026 생산량 하락 + 비용 상승 — Q2 실적에서 개선 여부 (pending)
-- [ ] **2026-06-05**: $60억 자사주매입 프로그램 — 매입 속도 및 주가 지지 효과 (pending)
+- [ ] **2026-06-05**: $60억 자사주매입 프로그램 — 매입 속도 및 주가 지지 효과 (pending; 한 달 -15% 약세로 지지 효과 제한적)
+- [ ] **2026-06-19**: 7/1 발효 CFO·COO·CTO 경영진 쇄신 — 운영성과·비용통제 실행 개선 여부 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -41,6 +42,9 @@ sources: []
 <!-- FACTS_START -->
 >[!fact] (Company IR + Barchart, 2026-06-01) Newmont Q1 2026 Record FCF $3.1B; Revenue +42% YoY; Gold at $4,900/oz
 > Q1 2026 FCF $31억 기록 달성. 금 실현가 $4,900/oz, 귀속 생산량 130만 온스, 매출 $73.1억 (+42% YoY). $60억 자사주매입 프로그램 승인. — 복수 출처 확인.
+
+>[!fact] (Reuters + Mining Weekly + Investing.com, 2026-06-17) Newmont Names New CFO, COO, CTO Effective July 1
+> Brian Tabolt CFO, Mark Rodgers COO, David Thornton CTO 임명(7/1 발효), Viljoen CEO 체제 경영진 쇄신. — 복수 Tier-1 출처 확인.
 <!-- FACTS_END -->
 
 ---
@@ -48,6 +52,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-19
+**narrative_score**: -0.06
+**key_events**: CFO·COO·CTO 신규 임명(7/1 발효, Viljoen 체제 경영진 쇄신), 금 가격 ~$4,136/oz 하락 (한 달 ~4% 조정), 주가 한 주 -10%·한 달 -15% 약세
+**risks**: 금 가격 추가 하락 시 FCF·마진 직격, 생산 감소(~10%) + AISC 상승 동시 진행, 가나 로열티 등 비용·세제 역풍
+
+> [!claim] (Mining Weekly, 2026-06-17) Newmont Names New CFO, COO and CTO as Part of Leadership Overhaul Effective July 1
+> Brian Tabolt CFO, Mark Rodgers COO, David Thornton CTO 임명(7/1 발효) — 운영성과·비용통제·실행력 강화 목적. impact: + / category: other
+
+> [!claim] (Fortune, 2026-06-19) Gold Falls to ~$4,136/oz; Down ~4% Over Month on Hawkish Fed Signals
+> 금 가격 6/19 약 $4,136/oz로 하락 — 매파적 연준 신호·달러 강세로 한 달 ~4% 조정. 중앙은행 매입(연 ~800톤)이 하방 지지. impact: - / category: macro
+
+> [!claim] (Simply Wall St, 2026-06-18) Newmont Stock Down ~10% on Week, ~15% on Month Despite +89% 1-Year Return
+> 주가 한 주 -10%, 한 달 -15.4% 조정(1년 +89.5%) — 금값 풀백 동반, 밸류에이션 재점검 국면. impact: - / category: macro
+
+**경쟁사 동향**:
+- GOLD: 배릭의 저비용 운영 대비 NEM의 AISC($1,680/oz) 상승이 상대적 불리
+- AEM: Agnico의 Hope Bay 긍정적 투자 결정(400-435k oz/yr) 등 성장 파이프라인 vs NEM 생산 감소
+
 ### 2026-06-12
 **narrative_score**: -0.16
 **key_events**: 금 가격 $4,331/oz (-16.6% from Jan peak, -7.68% in past month), 2026년 생산 ~10% 감소 예상, AISC $1,680/oz로 상승 (높은 로열티·세금)

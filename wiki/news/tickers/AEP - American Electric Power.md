@@ -1,7 +1,7 @@
 ---
 title: "AEP - American Electric Power — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-12
+updated: 2026-06-19
 domain: finance
 type: claim
 weight: reference
@@ -29,7 +29,8 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-29**: Q1 EPS 상회 + 3GW 데이터센터 계약 + 가이던스 상향 — Q2 실적 데이터센터 매출 기여 여부 (pending)
-- [ ] **2026-06-05**: $417억 4년 자본투자 계획 — 요금기반 7.9% 성장 달성 여부 검증 (pending)
+- [ ] **2026-06-05**: $417억 4년 자본투자 계획 — 요금기반 7.9% 성장 달성 여부 검증 (pending — 6/19 업데이트: 5개년 자본계획 $78B로 확대, 장기 EPS 성장률 9%+ 상향)
+- [ ] **2026-06-19**: 2030년까지 증분 부하 63GW(약 90% 데이터센터) — 계약 전환 및 OVEC 재편 후 수익 기여 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-19
+**narrative_score**: +0.17
+**key_events**: 5개년 자본계획 $78B 확대·장기 EPS 성장률 9%+ 상향, 2030년까지 증분 부하 63GW(약 90% 데이터센터)·Q1 7GW 신규 계약, 6/1 OVEC 재편 거래 완료·2026 EPS 가이던스 $6.15~6.45 재확인
+**risks**: PJM 시장 관련 불만·송전 정책 규제 불확실성, $78B 대규모 투자 부채 증가, 고금리 환경 밸류에이션 압박(1개월 주가 -7%)
+
+> [!claim] (Simply Wall St, 2026-06-15) Did AEP's US$78B Data Center-Focused Plan Just Shift the Investment Narrative?
+> 5개년 자본계획 $78B로 확대, 장기 EPS 성장률 9% 이상 상향 — 데이터센터 수요가 핵심 동인. impact: + / category: other
+
+> [!claim] (Simply Wall St, 2026-06-13) Is AEP's OVEC Restructuring And PJM Frustrations Altering The Investment Case?
+> 6/1 OVEC 지분·전력권 이전 거래 완료(FERC 4월 승인), 다만 PJM 시장 관련 불만 지속. impact: neutral / category: regulation
+
+> [!claim] (Quiver Quantitative, 2026-06-14) AEP Opinions on AI Data Center Demand Surge
+> 2030년까지 증분 부하 63GW(약 90% 데이터센터), Q1 7GW 신규 에너지 계약 체결. impact: + / category: macro
+
+> [!claim] (Yahoo Finance, 2026-06-12) A Look At AEP Valuation After Expanded Capital Plan And Earnings Growth Outlook
+> 2026 영업 EPS 가이던스 $6.15~6.45 재확인, 주가 1개월 -7% — Morgan Stanley 목표가 $129 하향(Overweight 유지). impact: neutral / category: earnings
+
+**경쟁사 동향**:
+- DUK: 10GW 조달 + 데이터센터 부하 약 10배 전망 — AEP는 11개 주 광역 그리드·63GW 파이프라인으로 규모 대응
+- EXC: 순수 T&D 모델로 도시 AI 인프라 수혜 — AEP 발전+송배전 통합과 수요 포착 방식 차이
+
 ### 2026-06-12
 **narrative_score**: +0.07
 **key_events**: Q1 adj EPS $1.64, 매출 $60.2억, 2026 EPS 가이던스 $6.12~6.42 유지, 분기 배당 $0.95 — 6/10 지급

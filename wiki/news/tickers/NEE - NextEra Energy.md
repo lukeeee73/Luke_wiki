@@ -1,7 +1,7 @@
 ---
 title: "NEE - NextEra Energy, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-12
+updated: 2026-06-19
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,9 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-29**: Dominion과 $4000억 합병 — 규제 승인 결과 (pending)
+- [ ] **2026-05-29**: Dominion과 $670억 합병 — 규제 승인 결과 (pending — 6/19 업데이트: Dominion 7월 규제 신청 예정, 버지니아 위원회 1월 결정 목표; 버지니아 입법부 정밀 검토 착수)
 - [ ] **2026-06-05**: 고금리 환경 주가 압박 — 규제 승인 후 합병 완료 시 주가 반등 여부 (pending)
+- [ ] **2026-06-19**: 버지니아 입법부 압축 심사 일정 우려 — 규제 안전장치 입법 전 승인 강요 여부 및 딜 일정 영향 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +40,8 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (2026-05-18 발표, 복수 Tier-1 보도로 확정 2026-06-19) NextEra의 Dominion Energy 약 $67B 전액 주식교환 인수
+> NextEra Energy가 Dominion Energy를 약 $66.8~67B 전액 주식교환으로 인수해 세계 최대 규제 전력회사(약 1,000만 고객) 창출에 합의. FERC·NRC·버지니아/노스캐롤라이나/사우스캐롤라이나 주 규제 승인 필요, 완료 목표 12-18개월. 양사 이사회 만장일치 승인. (출처: CNBC, Reuters/Yahoo Finance, Connection Newspapers, SEC Form 425)
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +49,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-19
+**narrative_score**: +0.04
+**key_events**: 버지니아 14인 입법 패널 Dominion 인수 정밀 검토 (6/16), Dominion 7월 규제 신청·버지니아 위원회 1월 결정 목표 (6/9 브리핑), Bernstein Outperform·목표가 $107 (Dominion 데이터센터 스토리로 8.5% 저평가)
+**risks**: 버지니아·캐롤라이나 다주 + FERC/NRC 복수 승인 (12-18개월), 전액 주식교환 희석, FPL 과거 고객 분쟁 이력이 규제 정치 리스크로 부상
+
+> [!claim] (Connection Newspapers, 2026-06-16) Virginia Lawmakers Scrutinize NextEra's $66.8B Acquisition of Dominion Energy
+> 버지니아 14인 입법 패널이 인수를 정밀 검토 — 압축된 심사 일정과 FPL 과거 고객 분쟁 우려 제기. impact: - / category: regulation
+
+> [!claim] (Daily Signal, 2026-06-10) Virginia Lawmakers Examine Dominion-NextEra Energy Deal
+> 6/9 버지니아 전력규제위 브리핑 — Dominion이 7월 신청, 버지니아 위원회 1월 결정 목표 제시. impact: neutral / category: m&a
+
+> [!claim] (Yahoo Finance, 2026-06-15) NextEra (NEE) Stock Could Be 8.5% Undervalued on Its Dominion Data Center Story
+> Dominion 버지니아 데이터센터 입지로 NEE 약 8.5% 저평가 분석 — Bernstein Outperform·목표가 $107. impact: + / category: other
+
+> [!claim] (GuruFocus, 2026-06-10) NextEra Energy (NEE) Shares Decline Amid Dominion Energy Acquisition
+> 전액 주식교환 희석·규제 불확실성으로 발표 후 주가 약 -9%, 현재 $86~87 수준 거래. impact: - / category: m&a
+
+**경쟁사 동향**:
+- DUK: 캐롤라이나 10GW 조달 + AI 데이터센터 원전 논의 — NEE+Dominion 버지니아 진입 시 영역 인접, 동남부 영토 경쟁 심화
+- SO: Vogtle 원전 완공 + 11GW 데이터센터 계약 — NEE는 재생에너지+Dominion 원전 포트폴리오로 차별화 필요
+
 ### 2026-06-12
 **narrative_score**: -0.04
 **key_events**: Dominion $670억 전액 주식교환 인수 발표 (5/18), NEE 주가 -9% (희석 우려), 분기 배당 $0.6232 — 6/15 지급

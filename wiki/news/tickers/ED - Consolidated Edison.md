@@ -1,7 +1,7 @@
 ---
 title: "ED - Consolidated Edison — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-12
+updated: 2026-06-19
 domain: finance
 type: claim
 weight: reference
@@ -28,7 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-29**: Q1 EPS 상회 + NYC 그리드 현대화 $7억 투자 — 전력망 현대화 공사 진행 상황 (pending)
+- [ ] **2026-05-29**: Q1 EPS 상회 + NYC 그리드 현대화 $7억 투자 — 전력망 현대화 공사 진행 상황 (aged-out: 21일 경과, 후속 갱신 없음)
+- [ ] **2026-06-19**: 2026 EPS 가이던스 $6.00~$6.20 재확인 + $380억 투자계획 — 7%+ 성장 실현 여부 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +46,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-19
+**narrative_score**: +0.07
+**key_events**: 6/15 $0.89 배당 지급 (52년 연속 증가), 2026 EPS 가이던스 $6.00~$6.20 재확인 (※ 기존 로그 $5.25~$5.45 대비 상이 — 출처 표기 차이 추적), $380억 청정에너지·그리드 투자계획 강조
+**risks**: 고금리 환경 배당주 밸류에이션 압박, 뉴욕 규제 요금 결정이 수익 제약, 기후 관련 인프라 비용 증가
+
+> [!claim] (Dividend.com, 2026-06-15) Consolidated Edison pays $0.89/share dividend; 52 consecutive years of increases
+> 6/15 주당 $0.89 배당 지급, 연 $3.55(수익률 ~3.3%) — 52년 연속 배당 증가 유지. impact: + / category: earnings
+
+> [!claim] (Seeking Alpha, 2026-06-16) Consolidated Edison: Steady Dividend King, Solid Valuation Ahead of Summer
+> 2026 EPS 가이던스 $6.00~$6.20 재확인, 7%+ 성장 전망 — 방어적 배당주 매수 의견. impact: + / category: other
+
+> [!claim] (Simply Wall St, 2026-06-12) Con Edison highlights $38B investment plan focused on clean energy and grid upgrades
+> $380억 투자계획(청정에너지·인프라) 강조 + 기록적 배당 인상 — 안정적 규제 성장 기반. impact: neutral / category: other
+
+**경쟁사 동향**:
+- EXC: Exelon(시카고·필라델피아) 대도시 T&D 독점 — ED와 유사한 순수 규제 방어주
+- AEP: AEP의 데이터센터 성장 노출 대비 ED는 순수 뉴욕 방어 유틸리티 — 성장 대신 안정·배당
+
 ### 2026-06-12
 **narrative_score**: +0.02
 **key_events**: YTD +14.5% (방어주 성과), 49년 연속 배당 증가 (배당귀족 유지)

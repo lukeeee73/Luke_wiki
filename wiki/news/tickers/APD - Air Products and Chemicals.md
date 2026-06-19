@@ -1,7 +1,7 @@
 ---
 title: "APD - Air Products & Chemicals — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-12
+updated: 2026-06-19
 domain: finance
 type: claim
 weight: reference
@@ -29,7 +29,8 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-29**: 미국 3개 프로젝트 철수 ($31억 손상) 후 포트폴리오 재편 효과 — Q2 이후 마진 개선 여부 (pending)
-- [ ] **2026-06-05**: 웰스파고 Overweight 상향 — $325 목표가 도달 시점 (pending)
+- [ ] **2026-06-05**: 웰스파고 Overweight 상향 — $325 목표가 도달 시점 (pending; RBC도 6/13 $355 목표가로 Outperform 개시)
+- [ ] **2026-06-19**: NEOM 그린수소 프로젝트 진전 — 연 120만톤 그린암모니아 수출 일정 준수 여부 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,23 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-19
+**narrative_score**: +0.17
+**key_events**: RBC Outperform 신규 개시·목표가 $355 (6/13, 3월 이후 ~10% 하락을 진입점으로 평가), Q1 호실적 + NASA $140M+ 수소 계약으로 +10.7% 상승, NEOM 그린수소 프로젝트 진전
+**risks**: NEOM 등 대형 수소·암모니아 프로젝트 일정·예산 초과 리스크, 헬륨 시장 가격 압박 재발 가능성, 수소 경제 상용화 속도가 기대 이하일 경우 밸류에이션 부담
+
+> [!claim] (Finviz/RBC, 2026-06-13) RBC Capital Initiates Air Products at Outperform with $355 Price Target
+> RBC 6/13 Outperform 신규 개시·목표가 $355 — 3월 이후 ~10% 하락을 매력적 진입점으로 평가. JPMorgan·BMO·Berenberg 상향과 함께 긍정적 기류. impact: + / category: other
+
+> [!claim] (Simply Wall St, 2026-06-16) Air Products Up 10.7% After Strong Q1 2026 Earnings and NASA Hydrogen Deals
+> Q1 호실적과 $140M+ NASA 액체수소 공급 계약으로 +10.7% 상승 — 우주·청정수소 인프라 입지 부각. impact: + / category: earnings
+
+> [!claim] (Yahoo Finance, 2026-06-17) Air Products Rallied Amid Improved Demand
+> 수요 개선·전략 투자로 모멘텀, FY 조정 EPS 가이던스 재확인. NEOM 그린수소(연 120만톤 그린암모니아 수출) 진전. impact: + / category: other
+
+**경쟁사 동향**:
+- LIN: 린데 사상 최고가 $523.57 경신 — 균형 포트폴리오 강세 vs APD는 수소·NEOM 사이클 수혜에 더 의존, 청정에너지 테마 공동 수혜
+
 ### 2026-06-12
 **narrative_score**: +0.03
 **key_events**: YTD 나스닥 초과 성과 (방어주 특성), NEOM 그린수소 프로젝트 지속

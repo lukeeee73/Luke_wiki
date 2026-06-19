@@ -1,7 +1,7 @@
 ---
 title: "XOM - Exxon Mobil Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-12
+updated: 2026-06-19
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,9 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-29**: 베네수엘라 세르로 네그로 복귀 협상 — 생산 재개 시 XOM 상류 볼륨 증가 여부 (pending)
-- [ ] **2026-06-05**: OPEC+ 6/7 추가 증산 결정 — 유가 추가 하락 시 XOM 가이아나·퍼미안 FCF 영향 여부 (pending)
+- [ ] **2026-05-29**: 베네수엘라 세르로 네그로 복귀 협상 — 생산 재개 시 XOM 상류 볼륨 증가 여부 (aged-out)
+- [ ] **2026-06-05**: OPEC+ 6/7 추가 증산 결정 — 유가 추가 하락 시 XOM 가이아나·퍼미안 FCF 영향 여부 (verified 2026-06-19) — 미·이란 협정발 유가 급락으로 한 달 -15% 조정, 매크로 하방 현실화
+- [ ] **2026-06-19**: 가이아나·퍼미안 기록 생산이 유가 하락 충격을 구조적으로 상쇄하는지 — 저평가 분석 vs 유가 민감도 검증 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-19
+**narrative_score**: +0.02
+**key_events**: 미·이란 평화협정 임박 보도로 유가 급락, 한 달 -15% 조정 후 6/18 $136.82, 가이아나·퍼미안 기록 생산으로 충격 일부 상쇄
+**risks**: 호르무즈 재개 시 원유 공급 정상화 → 유가 추가 하락, 유가 하락 시 상류 FCF 압박
+
+> [!claim] (Yahoo Finance, 2026-06-18) Exxon Mobil (XOM) Stock Could Be 18.9% Undervalued Despite Recent Pullback
+> 최근 한 달 -15% 조정에도 18.9% 저평가 분석 — 12개월 목표가 $169.91. impact: + / category: other
+
+> [!claim] (GuruFocus, 2026-06-18) Exxon Mobil (XOM) Faces Bearish Sentiment as Shares Drop
+> 6/18 주가 -$3.92(약 $136.82)로 옵션 시장 비관 심리 확대. impact: - / category: macro
+
+> [!claim] (Trefis, 2026-06-16) The Number That Could Test Exxon Mobil Stock
+> 가이아나·퍼미안 기록 생산이 유가 하락 충격을 일부 상쇄한다는 분석. impact: neutral / category: earnings
+
+**경쟁사 동향**:
+- CVX: 미·이란 평화협정 임박 보도로 6/15 -3.6% — XOM도 동일 유가 하락에 직접 노출
+- COP: 2026 생산 가이던스 추가 하향 — 상류 섹터 센티먼트 부담, XOM 볼륨 강점이 상대 우위
+
 ### 2026-06-12
 **narrative_score**: +0.07
 **key_events**: 베네수엘라 세르로 네그로 복귀 협상 진전, 가이아나 2025년 $46.7억 이익 기록 확인, 미·이란 협상 진전 — 이란 승인 가능성 시사
