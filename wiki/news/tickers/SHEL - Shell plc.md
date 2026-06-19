@@ -1,7 +1,7 @@
 ---
 title: "SHEL - Shell plc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-12
+updated: 2026-06-19
 domain: finance
 type: claim
 weight: reference
@@ -29,7 +29,8 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-29**: LNG 캐나다 첫 화물 출하 (Q3 2026) — 실제 LNG 수익 기여 확인 여부 (pending)
-- [ ] **2026-06-05**: 5/7~7/24 자사주 매입 프로그램 완료 — 매입 규모 대비 주가 지지 효과 (pending)
+- [ ] **2026-06-05**: 5/7~7/24 자사주 매입 프로그램 완료 — 매입 규모 대비 주가 지지 효과 (refuted 2026-06-19) — $164억 ARC 인수 증권법 요건으로 6/12~7/14 자사주매입 일시 중단, 프로그램 무중단 완료 가설 깨짐
+- [ ] **2026-06-19**: 자사주매입 중단 기간 (6/12~7/14) 주가 지지력 약화 여부 — 재개 후 회복 탄력 검증 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-19
+**narrative_score**: -0.06
+**key_events**: ARC 인수($164억) 관련 $30억 자사주매입 일시 중단 (6/12~7/14), 미·이란 협정발 유가 급락 → 6/15 -3.48%, Q1 배당 $0.3906/주 6/29 지급 확정
+**risks**: 자사주매입 중단 기간 주가 지지력 약화, 호르무즈 재개 시 LNG·원유 가격 하락
+
+> [!claim] (StockTitan, 2026-06-12) Shell temporarily suspends $3.0B buyback (Jun 12-Jul 14) due to $16.4B ARC Resources acquisition
+> $164억 ARC 인수 관련 증권법 요건으로 $30억 자사주매입 6/12~7/14 일시 중단. impact: - / category: m&a
+
+> [!claim] (TradingKey, 2026-06-15) Shell PLC Stock (SHEL) Moved Down by 3.48% on Jun 15
+> 미·이란 평화협정 임박발 유가 급락으로 6/15 -3.48%. impact: - / category: macro
+
+> [!claim] (StockTitan, 2026-06-16) Shell sets Q1 2026 euro and sterling dividend equivalents, payable June 29
+> Q1 중간배당 $0.3906/주 (29.18p) 6/29 지급 확정 — 주주환원 지속. impact: + / category: earnings
+
+**경쟁사 동향**:
+- BP: 멕시코만 2개 프로젝트 지분 매각 개시·7/1 신조직 출범 — 메이저 포트폴리오 간소화 흐름, SHEL ARC 재편과 동일 방향
+- TTE: 미·이란 협정발 유가 급락으로 6/15 약 -9% — 유럽 메이저 동반 약세, 동일 매크로 충격 공유
+
 ### 2026-06-12
 **narrative_score**: +0.09
 **key_events**: 6/11 198.6만 주 자사주매입 (5~7월 프로그램 지속), CEO: 유가 상방 압력 5~10년 지속 전망, 나미비아 멀린-1X 경질유 신규 발견

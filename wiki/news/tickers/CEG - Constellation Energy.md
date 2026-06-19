@@ -1,7 +1,7 @@
 ---
 title: "CEG - Constellation Energy — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-12
+updated: 2026-06-19
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-29**: Q1 EPS $3.68 대폭 상회 + Microsoft 20년 PPA — EPS 가시성 2029년까지 확인 여부 (pending)
 - [ ] **2026-06-05**: YTD -25% 조정 — 애널리스트 평균 목표가 $368 대비 수렴 시점 (pending)
+- [ ] **2026-06-19**: FERC waiver + Eddystone 760MW 용량권 이전 — Crane(TMI) 2027 하반기 재가동 일정 준수 여부 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +40,8 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] Crane(구 Three Mile Island) 원전 재가동 진척 (FERC 승인)
+> FERC가 Crane 유닛에 대해 면제(waiver)를 승인했고, 은퇴 화력 Eddystone의 760MW 용량연계권을 Crane으로 이전하는 것도 승인됐다. Microsoft 20년 PPA를 뒷받침하며 목표 재가동 시점은 2027년 하반기. (Utility Dive 2026-06-15, GuruFocus/FERC 2026-06-02)
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +49,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-19
+**narrative_score**: +0.37
+**key_events**: FERC waiver로 Crane(TMI) 2027 하반기 재가동 추진 탄력, Eddystone 760MW 용량연계권 Crane으로 이전 승인, Microsoft·Meta·미 정부 장기 PPA가 매출 가시성 제공
+**risks**: 고금리 환경 유틸리티 밸류에이션 압박 (YTD ~-20%), 원전 재가동 비용 초과·일정 지연, 2027 가이던스가 데이터센터 PPA 미반영으로 보수적
+
+> [!claim] (Utility Dive, 2026-06-15) Constellation's Three Mile Island (Crane) nuclear restart gets boost with FERC waiver
+> FERC 면제 승인으로 Crane(구 TMI) 원전 2027 하반기 재가동 추진이 탄력 — Microsoft 20년 PPA 뒷받침. impact: + / category: regulation
+
+> [!claim] (Utility Dive, 2026-06-12) Constellation secures transfer of 760 MW capacity rights from Eddystone to Crane
+> 은퇴 화력 Eddystone의 760MW 용량연계권을 Crane 원전으로 이전 승인 — 완전 출력 인도 가능성 확보. impact: + / category: regulation
+
+> [!claim] (Yahoo Finance, 2026-06-16) AI Data Center Power Deals and Nuclear Expansion Could Be a Game Changer for CEG
+> Microsoft·Meta·미 정부 장기 PPA가 매출 가시성 제공 — 2027 가이던스는 데이터센터 PPA 미반영으로 보수적. impact: + / category: earnings
+
+> [!claim] (Seeking Alpha, 2026-06-17) Constellation Energy: Buy the Pullback Before Data Center Deals Arrive
+> YTD ~-20% 조정으로 밸류에이션 매력 부각 — 추가 데이터센터 계약이 촉매가 될 수 있다는 강세 의견. impact: + / category: other
+
+**경쟁사 동향**:
+- VST: Meta 2,600MW + AWS 1,200MW 원전 PPA — CEG는 규모/재가동 가시성, VST는 밸류에이션 매력으로 AI 전력 양강 경쟁
+- NEE: NextEra-Dominion $67B 메가딜로 규모 확대 vs CEG의 하이퍼스케일러 직접 PPA — 선점 경로 차별화
+
 ### 2026-06-12
 **narrative_score**: +0.19
 **key_events**: FERC TMI 원전 재가동 면제 허가 (+2.6%), 5,650MW 하이퍼스케일러 계약 (MS + Meta), 2차공모 1,100만 주 $281 + $558M 자사주 매입

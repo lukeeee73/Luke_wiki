@@ -1,7 +1,7 @@
 ---
 title: "EXC - Exelon Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-12
+updated: 2026-06-19
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,9 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-29**: Q1 EPS 컨센서스 부합 — 뚜렷한 촉매 부재 — Q2 실적 개선 여부 (pending)
+- [ ] **2026-05-29**: Q1 EPS 컨센서스 부합 — 뚜렷한 촉매 부재 — Q2 실적 개선 여부 (pending — 6/19 업데이트: Q1 조정 EPS $0.91로 컨센 상회, 전력가격·수요·날씨가 견인)
 - [ ] **2026-06-05**: PECO 요금 신청 철회 — 재신청 시점 및 규제 당국과 협의 결과 (pending)
+- [ ] **2026-06-19**: 순수 T&D 모델 — 데이터센터발 성장 포착 폭이 발전 보유 동종 대비 충분한지 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-19
+**narrative_score**: +0.06
+**key_events**: Q1 조정 EPS $0.91 컨센 상회·2026 가이던스 및 7.9% 요금기반 성장 재확인, 분기 배당 $0.42 6/15 지급, 주가 $46.18(월 +6.4%)·적정가치 $49.33 대비 소폭 저평가
+**risks**: 순수 T&D 모델로 데이터센터발 성장 포착 제한, 규제 요금 결정·폭풍 등 운영 변수, 고금리 환경 밸류에이션 압박(3개월 -7.7%)
+
+> [!claim] (StockTitan, 2026-06-12) Exelon Q1 Operating EPS $0.91, Affirms 2026 Guide
+> Q1 조정 EPS $0.91로 컨센 상회(전력가격·수요·날씨), 2026 가이던스·7.9% 요금기반 성장 재확인. impact: + / category: earnings
+
+> [!claim] (Simply Wall St, 2026-06-15) Exelon (EXC) Stock Valuation Check After Mixed Recent Returns
+> 주가 약 $46.18, 주간 +3.1%·월간 +6.4%이나 3개월 -7.7% — 적정가치 약 $49.33 대비 소폭 저평가. impact: neutral / category: other
+
+> [!claim] (Business Wire, 2026-06-13) Exelon Declares $0.42 Quarterly Dividend, Payable June 15
+> 분기 배당 $0.42, 6/15 지급 — 순수 송배전(T&D) 유틸리티 안정적 배당 유지. impact: + / category: other
+
+**경쟁사 동향**:
+- AEP: $78B 데이터센터 자본계획·63GW 부하 — AEP 통합 모델 대비 EXC는 연료비 리스크 없는 안정성이 강점이나 성장성은 보수적
+- ED: ConEd(뉴욕) 대도시 T&D 독점 — ED·EXC 모두 유사한 방어적·안정적 성격
+
 ### 2026-06-12
 **narrative_score**: +0.02
 **key_events**: 분기 배당 $0.42 (기준일 6/4), 순수 T&D 모델 — 시카고·필라델피아·볼티모어 도시 전력

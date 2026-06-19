@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-06-18
+updated: 2026-06-19
 domain: finance
 type: index
 weight: reference
@@ -105,16 +105,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [XOM](tickers/XOM - Exxon Mobil Corporation.md) | 2026-06-12 | +0.07 | 가이아나 $46.7억 이익 + 베네수엘라 협상 진전 vs 미·이란 딜 유가 하락 리스크 | 2 |
-| [CVX](tickers/CVX - Chevron Corporation.md) | 2026-06-12 | +0.10 | 미국 생산 +24% (헤스 통합) + $60억 주주환원 + Buy 컨센서스 $216 | 2 |
-| [COP](tickers/COP - ConocoPhillips.md) | 2026-06-12 | -0.01 | 잭스 에너지 피크 선정 vs 2026 생산 가이던스 2.295-2.325 MMBOED 하향 | 2 |
-| [SHEL](tickers/SHEL - Shell plc.md) | 2026-06-12 | +0.09 | CEO 유가 5~10년 상승 전망 + 나미비아 경질유 발견 + 자사주 매입 지속 | 2 |
-| [OXY](tickers/OXY - Occidental Petroleum.md) | 2026-06-12 | +0.09 | OxyChem $58억 부채 감소 + 6개월 +35% 랠리 — 밸류에이션 점검 국면 | 2 |
-| [SLB](tickers/SLB - Schlumberger Limited.md) | 2026-06-12 | +0.05 | 퀄컴 엣지 AI 파트너십 + 디지털 투자자의 날 — 디지털 전환 리더십 | 2 |
-| [FCX](tickers/FCX - Freeport-McMoRan.md) | 2026-06-12 | +0.01 | Q1 어닝 21% 상회 vs 그라스베르그 40% 삭감 + 구리 $5.80/lb 역대 최고 | 2 |
-| [NEM](tickers/NEM - Newmont Corporation.md) | 2026-06-12 | -0.16 | 금 가격 $4,331 (-16.6%) + 생산 -10% + AISC $1,680 — 이중 압박 | 2 |
-| [LIN](tickers/LIN - Linde plc.md) | 2026-06-12 | +0.11 | Q1 EPS +10% + 배당 $1.60 (6/18) + RBC 목표가 $570 상향 | 2 |
-| [APD](tickers/APD - Air Products and Chemicals.md) | 2026-06-12 | +0.03 | 나스닥 대비 YTD 초과 성과 + NEOM 그린수소 프로젝트 지속 | 1 |
+| [XOM](tickers/XOM - Exxon Mobil Corporation.md) | 2026-06-19 | +0.02 | 미·이란 협정發 유가 급락에 한 달 -15%, 가이아나·퍼미안 기록 생산·저평가가 하방 방어 | 1 |
+| [CVX](tickers/CVX - Chevron Corporation.md) | 2026-06-19 | -0.07 | 호르무즈 재개 기대로 6/15 -3.6%, 높은 원유 레버리지 직격 + Zacks 강력매수→보유 강등 | 1 |
+| [COP](tickers/COP - ConocoPhillips.md) | 2026-06-19 | -0.16 | 생산 가이던스 하향 재확인 + 내부자 매도 + 유가 하락 3중 악재, 한 달 -9% (섹터 최약세) | 2 |
+| [SHEL](tickers/SHEL - Shell plc.md) | 2026-06-19 | -0.06 | $164억 ARC 인수로 $30억 자사주매입 일시 중단 + 유가 급락 겹쳐 6/15 -3.48% | 2 |
+| [OXY](tickers/OXY - Occidental Petroleum.md) | 2026-06-19 | -0.04 | 유가 하락에 6/17 -1.17%·크레이머 하락 경고 vs YTD +31%·부채감소·버핏 지지로 방어 | 1 |
+| [SLB](tickers/SLB - Schlumberger Limited.md) | 2026-06-19 | +0.15 | 6/17 디지털 투자자의 날 AI·2030 야망 제시, +34% YTD 신고가 부근 (CEO Q2 운영 도전 언급) | 3 |
+| [FCX](tickers/FCX - Freeport-McMoRan.md) | 2026-06-19 | +0.13 | 구리 ~$13,572/t 역사적 고점(AI 데이터센터 수요) vs Grasberg 지연 2026 생산 ~31억 파운드 하향 | 3 |
+| [NEM](tickers/NEM - Newmont Corporation.md) | 2026-06-19 | -0.06 | 7/1 CFO·COO·CTO 경영진 쇄신 긍정이나 금값 ~$4,136/oz 풀백에 주가 한 주 -10% 약세 | 3 |
+| [LIN](tickers/LIN - Linde plc.md) | 2026-06-19 | +0.27 | 반도체 팹·수소·헬스케어 가스 수요로 6/15 사상 최고 $523.57 — 섹터 최고 점수 | 3 |
+| [APD](tickers/APD - Air Products and Chemicals.md) | 2026-06-19 | +0.17 | RBC Outperform·$355 신규 개시 + Q1 호실적 + NASA 수소 계약 반등, NEOM 진전 | 3 |
 
 ### 금융
 
@@ -195,16 +195,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [NEE](tickers/NEE - NextEra Energy.md) | 2026-06-12 | -0.04 | Dominion $670억 인수 발표 — NEE -9% 희석 우려 vs 세계 최대 유틸리티 창출 | 2 |
-| [SO](tickers/SO - The Southern Company.md) | 2026-06-12 | +0.08 | 보글 원전 3·4호기 완전 가동 + 조지아·앨라배마 AI 데이터센터 수요 성장 | 2 |
-| [DUK](tickers/DUK - Duke Energy Corporation.md) | 2026-06-12 | +0.08 | 캐롤라이나 10GW 신규 발전 조달 + 미국 최대 데이터센터 밀집 영역 서비스 | 2 |
-| [AEP](tickers/AEP - American Electric Power.md) | 2026-06-12 | +0.07 | Q1 EPS $1.64 + 가이던스 $6.12~6.42 유지 + 목표가 $141 (10% 상승 여력) | 2 |
-| [EXC](tickers/EXC - Exelon Corporation.md) | 2026-06-12 | +0.02 | 분기 배당 $0.42 + 순수 T&D — 시카고·필라델피아·볼티모어 AI 인프라 간접 수혜 | 2 |
-| [CEG](tickers/CEG - Constellation Energy.md) | 2026-06-12 | +0.19 | TMI FERC 면제 허가 + 5,650MW 하이퍼스케일러 PPA + 2차공모 오버행 해소 기대 | 2 |
-| [VST](tickers/VST - Vistra Corp.md) | 2026-06-12 | +0.21 | Q1 EBITDA +20% + EBITDA 가이던스 $68~76억 재확인 + 메타 2,600MW PPA | 2 |
-| [SRE](tickers/SRE - Sempra.md) | 2026-06-12 | +0.04 | 포트아서 LNG 1단계 건설 진행 + SoCal 유틸리티 에너지 효율 프로그램 안정적 | 2 |
-| [ED](tickers/ED - Consolidated Edison.md) | 2026-06-12 | +0.02 | YTD +14.5% 방어주 성과 + 49년 연속 배당 증가 (배당귀족 유지) | 1 |
-| [D](tickers/D - Dominion Energy.md) | 2026-06-12 | +0.10 | NEE $670억 인수로 오늘 주가 급등 — 버지니아 DC 클러스터(~70% 인터넷) 핵심 자산 | 2 |
+| [NEE](tickers/NEE - NextEra Energy.md) | 2026-06-19 | +0.04 | Dominion 인수 — 세계 최대 유틸리티 매력 vs 버지니아 입법부 정밀 검토·다주 규제 리스크 팽팽 | 3 |
+| [SO](tickers/SO - The Southern Company.md) | 2026-06-19 | +0.24 | Vogtle 원전 완공 + 11GW 데이터센터 계약·$26.5B DOE 대출로 목표가 상향 행렬 | 3 |
+| [DUK](tickers/DUK - Duke Energy Corporation.md) | 2026-06-19 | +0.26 | Q1 어닝 비트 + CEO "부하 약 10배 급증" 전망으로 성장 서사 최강 | 3 |
+| [AEP](tickers/AEP - American Electric Power.md) | 2026-06-19 | +0.17 | $78B 데이터센터 자본계획·63GW 부하 호재 vs OVEC/PJM 잡음·1개월 주가 -7% | 3 |
+| [EXC](tickers/EXC - Exelon Corporation.md) | 2026-06-19 | +0.06 | Q1 EPS $0.91 컨센 상회나 순수 T&D 모델로 데이터센터 성장 포착 제한적 | 3 |
+| [CEG](tickers/CEG - Constellation Energy.md) | 2026-06-19 | +0.37 | FERC waiver + Eddystone 용량권 이전으로 Crane(TMI) 2027 재가동 가시성↑, AI 원전 PPA 리더십 | 3 |
+| [VST](tickers/VST - Vistra Corp.md) | 2026-06-19 | +0.32 | 2026 EBITDA 가이던스 재확인 + Meta/AWS 원전 PPA·Perry 12월 가동·Cogentrix 가스 인수 | 4 |
+| [SRE](tickers/SRE - Sempra.md) | 2026-06-19 | +0.16 | 포트아서 커넥터 조기 가동·ECA LNG 생산 개시·Oncor $70억 송전 수주, 2028 GRC가 변수 | 3 |
+| [ED](tickers/ED - Consolidated Edison.md) | 2026-06-19 | +0.07 | 52년 연속 배당·EPS $6.00~6.20 재확인 방어주, 고금리가 밸류 부담 | 1 |
+| [D](tickers/D - Dominion Energy.md) | 2026-06-19 | +0.03 | NextEra $668억 인수 — 7월 버지니아 SCC 신청 앞 의원·규제 검토 직면, $22.5억 요금 크레딧이 승인 카드 | 2 |
 
 ### 조선 (한국)
 
@@ -214,6 +214,18 @@ sources: []
 | [042660.KS](tickers/042660.KS - Hanwha Ocean Co.md) | 2026-06-17 | +0.30 | KDDX ₩7.8조 수주(이지스 6척, 2030년), +7.85% 급등, 캐나다 CPSP 후보 | 2 |
 | [010140.KS](tickers/010140.KS - Samsung Heavy Industries.md) | 2026-06-17 | +0.25 | 델핀 FLNG $29억·Cedar LNG 진수(세계 최초 3기 동시)·GTT LNG 2척·베트남 ₩3,410억 | 2 |
 | [010620.KS](tickers/010620.KS - HD Hyundai Mipo Dockyard Co. Ltd..md) | 2026-06-17 | +0.05 | Q2/Q3 PCTC·MR 탱커 납기 순조, 메탄올 추진 MR 탱커 시장 선두 | 1 |
+
+## 오늘의 시그널 (2026-06-19 · 금요일 · 에너지 / 원자재 + 유틸리티 / 전력)
+
+**2026-06-19 감지된 시그널:**
+
+- **섹터 동기화 (미·이란 평화협정 → 호르무즈 재개 → 유가 급락)**: XOM +0.02, CVX -0.07, COP -0.16, SHEL -0.06, OXY -0.04 — 미·이란 협정 타결 임박으로 호르무즈 재개 기대가 형성되며 6/15 유가 ~5% 급락, 에너지 5종목 동시 매크로 하방. 지난 주까지의 "유가 하락/호르무즈 재개" 가설이 XOM·CVX·COP에서 verified 처리됨 (이전 "이란 전쟁/공급 부족" 서사의 반전).
+- **모순 (에너지 vs 유틸리티 탈동조)**: 같은 금요일 묶음 안에서 유가 하락이 에너지를 누르는 동안, AI 데이터센터 전력 수요 테마가 유틸리티/전력 10종목을 끌어올려 두 섹터가 정반대로 움직임 (에너지 평균 음수 vs 유틸리티 평균 +0.17).
+- **섹터 동기화 (AI 원전·가스 PPA)**: CEG +0.37, VST +0.32, SO +0.24, DUK +0.26 — 원전 재가동(Crane/TMI), 하이퍼스케일러 PPA(Meta·AWS), 데이터센터 부하 급증 전망이 전력회사 전반의 핵심 성장 서사로 고착. 최고 시그널은 CEG +0.37 (FERC waiver + Eddystone 용량권 이전으로 Crane 2027 재가동 가시성↑).
+- **연속성 (NEE-Dominion $668억 합병)**: 5주 연속 NEE·D 양쪽에 등장. 최신 — 7월 버지니아 SCC 신청 예정(180일 심사, 2027년 1월 결정 전망), $22.5억 요금 크레딧 제안. 연방·주 규제 승인이 핵심 관문으로 부각되며 NEE(+0.04)·D(+0.03) 모두 호재(규모)와 악재(규제 불확실성)가 상쇄.
+- **섹터간 전파 (AI capex)**: 빅테크 AI 데이터센터 capex → 전력 수요(유틸리티) + 산업용 가스(LIN +0.27, APD +0.17) + 구리(FCX +0.13) 동시 수혜. AI 전력·소재 수요가 에너지 유가 하락과 탈동조화하며 별도 모멘텀 형성.
+- **역방향 (금 풀백, NEM -0.06)**: 금값 ~$4,136/oz 풀백에 NEM 한 주 -10% — 에너지·유틸리티 묶음 내 유일하게 귀금속 사이클에 노출된 종목이 독립적으로 약세. 7/1 경영진 쇄신은 장기 긍정 요인.
+- **주목 이벤트**: 미·이란 최종 협정 서명 여부(유가 추가 방향성), NEE-Dominion 7월 버지니아 SCC 신청, Crane(TMI) 2027 재가동 진척, Vogtle 데이터센터 11GW 계약 이행, OPEC+ 다음 증산 결정.
 
 ## 오늘의 시그널 (2026-06-18 · 목요일 · 바이오 / 제약 / 헬스케어)
 

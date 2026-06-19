@@ -1,7 +1,7 @@
 ---
 title: "SO - The Southern Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-12
+updated: 2026-06-19
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,9 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-29**: Q1 EPS 상회 + Vogtle 4호기 정격출력 — 2026 전력 판매량 성장 여부 (pending)
+- [ ] **2026-05-29**: Q1 EPS 상회 + Vogtle 4호기 정격출력 — 2026 전력 판매량 성장 여부 (pending — 6/19 업데이트: Q1 데이터센터발 전력수요 +42%, 28개 대형부하 11GW 계약으로 성장 가속 정황)
 - [ ] **2026-06-05**: 조지아 파워 요금 인하 명령 — 매출 감소 규모 및 다음 요금 신청 시점 (pending)
+- [ ] **2026-06-19**: $26.5B DOE 저리 대출 + 75GW 파이프라인 — 2026-30 $81B capex 집행 및 데이터센터 계약 전환율 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-19
+**narrative_score**: +0.24
+**key_events**: Vogtle 진척·데이터센터 수요로 다수 애널리스트 목표가 상향, 28개 대형부하 11GW 계약 + 75GW 이상 파이프라인(Google/Meta/MSFT), $26.5B DOE 저리 대출 확보·2026-30 capex $81B 상향
+**risks**: 조지아 파워 요금 결정이 수익성 제약, 대규모 원전·인프라 운영 비용 상승, 고금리 환경 자본집약 밸류에이션 압박
+
+> [!claim] (Investing.com, 2026-06-15) Southern Co. Stock Target Raised on Vogtle Progress
+> Vogtle 원전 안정 가동·데이터센터 수요로 애널리스트 목표가 상향, Outperform 유지. impact: + / category: other
+
+> [!claim] (Yahoo Finance, 2026-06-12) Barclays Updates Price Target for The Southern Company (SO)
+> Barclays 목표가 갱신 — Q1 데이터센터발 42% 전력수요 증가, 2026-30 capex $81B로 상향. impact: + / category: earnings
+
+> [!claim] (FinancialContent, 2026-06-14) Southern Company: The Nuclear-Powered Engine of the Southeast's AI Boom
+> 28개 대형부하 11GW 계약·75GW 이상 파이프라인(Google·Meta·MSFT) — 동남부 AI 전력 엔진. impact: + / category: macro
+
+> [!claim] (Simply Wall St, 2026-06-13) Southern Secures $26.5B DOE Loans, Raises Dividend 25th Straight Year
+> $26.5B 저리 DOE 대출로 30년간 고객 $7B 절감 추정, 25년 연속 배당 인상. impact: + / category: regulation
+
+**경쟁사 동향**:
+- DUK: 캐롤라이나 10GW 조달 + Q1 데이터센터 어닝 비트 — 조지아·캐롤라이나 동남부 벨트 공동 수혜
+- NEE: Dominion 인수로 버지니아 데이터센터 메카 진입 — 동남부 전력 패권 경쟁 격화, SO는 Vogtle·독립 유지로 대응
+
 ### 2026-06-12
 **narrative_score**: +0.08
 **key_events**: 보글 원전 3·4호기 완전 가동 (미국 최신 원전), 조지아·앨라배마 AI 데이터센터 수요 증가

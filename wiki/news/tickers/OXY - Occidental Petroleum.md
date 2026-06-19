@@ -1,7 +1,7 @@
 ---
 title: "OXY - Occidental Petroleum — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-12
+updated: 2026-06-19
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,9 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-29**: Barclays Hold→Buy 업그레이드 — 신임 CEO 하에서 매도 측 커버리지 추가 여부 (pending)
-- [ ] **2026-06-05**: 멕시코만 Bandit 광구 석유 발견 — 생산 가능 추정량 및 개발 일정 발표 여부 (pending)
+- [ ] **2026-05-29**: Barclays Hold→Buy 업그레이드 — 신임 CEO 하에서 매도 측 커버리지 추가 여부 (aged-out)
+- [ ] **2026-06-05**: 멕시코만 Bandit 광구 석유 발견 — 생산 가능 추정량 및 개발 일정 발표 여부 (aged-out)
+- [ ] **2026-06-19**: OXY 고원유 레버리지 — 미·이란 협정으로 전쟁 종료 시 추가 하락 (크레이머 경고) vs 부채감소·버핏지지 방어력 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-19
+**narrative_score**: -0.04
+**key_events**: 미·이란 협정발 유가 하락 → 6/17 -1.17% ($53.04), 크레이머 '전쟁 종료 시 하락' 경고, YTD +31%·부채 감소·버핏 지지로 하방 방어
+**risks**: 호르무즈 재개 시 유가 하락 — 고원유 레버리지 직격, 급등 후 밸류에이션 부담
+
+> [!claim] (FX Leaders, 2026-06-17) OXY Stock Falls on Oil Dip After US-Iran Deal — Still Up 31% in 2026
+> 미·이란 협정발 유가 하락에도 YTD +31% 유지 — 부채 감소·버핏 지지가 하방 방어. impact: neutral / category: macro
+
+> [!claim] (Yahoo Finance, 2026-06-17) Jim Cramer on Occidental: 'If the War Ends, That Stock's Going to Go Down'
+> 크레이머: 전쟁 종료(평화협정) 시 OXY 하락 경고 — 고원유 레버리지 리스크 부각. impact: - / category: macro
+
+> [!claim] (Yahoo Finance, 2026-06-16) Occidental (OXY) Stock Sinks As Market Gains
+> 시장 상승에도 OXY 하락 — 6/17 -1.17% ($53.04), 차기 EPS $1.89(+385%) 전망. impact: neutral / category: earnings
+
+**경쟁사 동향**:
+- CVX: 미·이란 협정발 유가 급락으로 6/15 -3.6% — 고원유 레버리지 피어 동반 약세
+- EOG: 캐나다·UAE 비전통 가스 확장으로 지역 다변화 — 퍼미안 집중 OXY는 부채 감소 스토리로 차별화
+
 ### 2026-06-12
 **narrative_score**: +0.09
 **key_events**: OxyChem 버크셔 매각 클로징 → $58억 부채 감소, 6개월 +35% 랠리 후 밸류에이션 점검, 2026년 capex $55~59억 가이던스 유지

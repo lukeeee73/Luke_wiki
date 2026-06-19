@@ -1,7 +1,7 @@
 ---
 title: "DUK - Duke Energy Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-12
+updated: 2026-06-19
 domain: finance
 type: claim
 weight: reference
@@ -29,7 +29,8 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-29**: Q1 EPS 상회 + 인디애나 18% 요금 신청 — 요금 신청 승인 여부 (pending)
-- [ ] **2026-06-05**: AI 데이터센터 원전 공급 테크 기업 논의 — 계약 체결 여부 및 시점 (pending)
+- [ ] **2026-06-05**: AI 데이터센터 원전 공급 테크 기업 논의 — 계약 체결 여부 및 시점 (pending — 6/19 업데이트: CEO 부하 성장률 약 10배 전망으로 수요 서사 강화, 계약 체결은 미확인)
+- [ ] **2026-06-19**: 한파 연료비 $809M 19개월 회수 신청 + 19,000MW 증설 계획 — NCUC 승인 및 밸류에이션 영향 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-19
+**narrative_score**: +0.26
+**key_events**: Q1 조정 EPS $1.93(컨센 $1.86 상회)·매출 $9.18B 데이터센터 어닝 비트, CEO 부하 성장률 기존의 약 10배 급증 전망, 한파 연료비 $809M 19개월 회수 신청 + 19,000MW 증설 계획
+**risks**: 대규모 capex·증설 조달 재무 레버리지, 연료비 회수·요금 신청 규제 불확실성, 고금리 환경 밸류에이션 압박
+
+> [!claim] (Investing.com, 2026-06-13) Duke Energy Q1 2026: Data Center Boom Drives Earnings Beat
+> Q1 조정 EPS $1.93(컨센 $1.86 상회), 매출 $9.18B — 데이터센터 붐이 어닝 비트 견인. impact: + / category: earnings
+
+> [!claim] (TheStreet, 2026-06-16) Duke CEO Offers Sobering Prediction on Data Center Electricity Demand
+> Sideris CEO, AI·제조 수요로 부하 성장률이 기존 0~0.5%의 약 10배로 급증 전망. impact: + / category: macro
+
+> [!claim] (Energy News Beat, 2026-06-14) Duke Energy Cost Recovery Bid and 19,000 MW Plan Test Valuation
+> 1~2월 한파 연료비 $809M을 6/1부터 19개월 회수 신청 — 19,000MW 증설 계획과 함께 밸류에이션 시험대. impact: neutral / category: regulation
+
+> [!claim] (Simply Wall St, 2026-06-15) Duke Energy (DUK) Stock Could Be 9.6% Undervalued After DOE Grant And Rate Cuts
+> DOE $61.8M 보조금·요금 조정 반영 시 약 9.6% 저평가, 평균 목표가 $138.56(상승여력 약 12%). impact: + / category: other
+
+**경쟁사 동향**:
+- SO: Vogtle 원전 완공 + 11GW 데이터센터 계약 — 동남부 벨트 공동 수혜, 원전 자산은 SO 우위
+- NEE: Dominion 인수로 버지니아 진입 — NEE+Dominion 영역이 DUK 캐롤라이나와 인접, 장기 경쟁 지형 변화
+
 ### 2026-06-12
 **narrative_score**: +0.08
 **key_events**: 캐롤라이나 10GW 신규 발전 조달 계획, 미국 최대 데이터센터 밀집 영역(동남부) 서비스

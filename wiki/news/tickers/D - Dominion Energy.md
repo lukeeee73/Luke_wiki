@@ -1,7 +1,7 @@
 ---
 title: "D - Dominion Energy, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-12
+updated: 2026-06-19
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,9 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-29**: NEE와 합병 합의 (0.8138배) — 주가 합병 프리미엄 반영 (pending)
+- [ ] **2026-05-29**: NEE와 합병 합의 (0.8138배) — 주가 합병 프리미엄 반영 (verified 2026-06-19: 복수 Tier-1 확정, 7월 버지니아 SCC 신청 예정)
 - [ ] **2026-06-05**: NEE 주가 하락 (-13.7%) — 교환 가치 감소 시 D 주가 추가 조정 여부 (pending)
+- [ ] **2026-06-19**: 7월 버지니아 SCC 신청 예정 (180일 심사) — 규제 통과/지연/무산 경로 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +40,8 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] NextEra의 Dominion 인수 (~$67B 전액 주식, 2026-05-18 발표)
+> NextEra(NEE)가 Dominion(D)을 약 $668억 전액 주식교환(교환비율 D 1주 → NEE 0.8138주)으로 인수하기로 합의. 합병 후 D 주주는 통합사의 약 25.5%를 보유하며, 세계 최대 규제 전력 유틸리티가 된다. FERC·NRC + 버지니아·NC·SC 주 규제 승인 필요, 7월 버지니아 SCC 신청 예정(180일 심사, 2027년 1월 결정 전망). 마감 후 2년간 $22.5억 요금 크레딧(버지니아 ~$18억) 제안. (Reuters/CNBC 2026-05-18, Utility Dive 2026-06-12, Virginia Mercury 2026-06-15)
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +49,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-19
+**narrative_score**: +0.03
+**key_events**: 버지니아 의원들 $668억 인수 면밀 검토 (규제 우려), 7월 버지니아 SCC 신청 예정 — 180일 심사·2027년 1월 결정 전망, $22.5억 요금 크레딧 제안 + 130GW 데이터센터 파이프라인
+**risks**: 버지니아·NC·SC + FERC + NRC 다단계 승인 (무산/수정 리스크), NEE 과거 인수 시도(Duke·Hawaiian·Oncor) 규제 실패 전력, NEE 주가 하락 시 교환 가치 희석
+
+> [!claim] (Connection Newspapers, 2026-06-16) Virginia lawmakers scrutinize NextEra's $66.8B acquisition of Dominion Energy
+> 버지니아 의원들이 $668억 인수를 면밀히 검토 — 정치적 통제·요금 인상 우려로 규제 통과 불확실성 부각. impact: - / category: regulation
+
+> [!claim] (VPM, 2026-06-12) Merger expert: Virginia regulators need more time for NextEra-Dominion review
+> 합병 전문가, 버지니아 SCC 180일 법정 심사기간이 빠듯 — 7월 신청 시 2027년 1월 결정 전망. impact: neutral / category: regulation
+
+> [!claim] (Virginia Mercury, 2026-06-15) Dominion-NextEra propose $2.25B bill credit (~$1.8B for Virginia) over two years
+> 마감 후 2년간 $22.5억 요금 크레딧(버지니아 ~$18억) 제안 — 규제 승인 확보용 고객 혜택 카드. impact: + / category: m&a
+
+> [!claim] (Utility Dive, 2026-06-12) Combined NextEra-Dominion would have 130-GW large-load pipeline for data centers
+> 합병 후 130GW 대형부하 파이프라인 — 세계 최대 규제 유틸리티로 AI 데이터센터 전력 공급 포지셔닝. impact: + / category: m&a
+
+**경쟁사 동향**:
+- NEE: 인수 주체 — D 주가는 NEE × 0.8138에 수렴, NEE 주가 하락 시 교환 가치 희석·딜 클로징 리스크 상존
+- DUK: Duke Energy Carolinas 대규모 조달이 Dominion Virginia와 경쟁 — NC·SC 규제 승인도 합병 조건
+
 ### 2026-06-12
 **narrative_score**: +0.10
 **key_events**: NEE $670억 전액 주식교환 인수 발표 (오늘 주가 급등), 교환 비율: D 1주 → NEE 0.8138주 + $3.6억 현금, 버지니아 DC 클러스터 (~70% 미 인터넷 트래픽) 핵심 자산

@@ -1,7 +1,7 @@
 ---
 title: "SLB - Schlumberger Limited — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-12
+updated: 2026-06-19
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,9 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-29**: 차기 EPS -28% YoY — Q2 결과(7/24)에서 추가 하향 여부 (pending)
-- [ ] **2026-06-05**: Tachyus AI 인수 — 디지털 저류층 솔루션 매출 기여 시점 (pending)
+- [ ] **2026-05-29**: 차기 EPS -28% YoY — Q2 결과(7/24)에서 추가 하향 여부 (pending; CEO가 6/16 Q2 운영 도전 언급해 하방 위험 시사)
+- [ ] **2026-06-05**: Tachyus AI 인수 — 디지털 저류층 솔루션 매출 기여 시점 (pending; 6/17 디지털 투자자의 날에서 디지털 전략 구체화)
+- [ ] **2026-06-19**: 6/17 디지털 투자자의 날에서 제시한 2030 디지털 야망 — 재무 목표 달성 궤도 여부 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-19
+**narrative_score**: +0.15
+**key_events**: 6/17 2026 디지털 투자자의 날 개최 (AI 디지털 전략·2030 야망 제시), 주가 +34.1% YTD·52주 최고가 $58.01 부근, CEO Q2 운영 도전 언급
+**risks**: 유가 약세 시 E&P capex 삭감 → 유전 서비스 수요 둔화, HAL-BKR 통합으로 규모 경쟁 압박, Q2 운영 도전으로 단기 실적 변동성
+
+> [!claim] (SLB IR, 2026-06-17) SLB Hosts 2026 Digital Investor Day — AI-Powered Digital Strategy and 2030 Ambitions
+> 디지털 투자자의 날 개최 — CEO·CFO가 AI 기반 디지털 사업 성장, 2030 디지털 야망, ChampionX 통합 시너지 제시. impact: + / category: other
+
+> [!claim] (stockanalysis.com, 2026-06-18) SLB up 34.1% YTD, Near 52-Week High $58.01; Analyst Reiterates Buy ($63 PT)
+> 연초 대비 +34.1%, 52주 최고가 $58.01 부근 거래. 최신 애널리스트 Buy·목표가 $63 유지. impact: + / category: other
+
+> [!claim] (TipRanks, 2026-06-16) SLB CEO Highlights Q2 Operational Challenges at Conference
+> CEO가 컨퍼런스에서 Q2 운영상 도전 과제 언급 — 단기 실적 변동성 신호. impact: - / category: earnings
+
+**경쟁사 동향**:
+- HAL: Halliburton-Baker Hughes 인수 합의 — 대형 통합으로 경쟁 구도 재편, SLB는 디지털 차별화로 독자 노선
+- BKR: Baker Hughes 산업·에너지기술 다각화·$32B+ IET 수주잔고 vs SLB 디지털 집중 — 전략 분기 심화
+
 ### 2026-06-12
 **narrative_score**: +0.05
 **key_events**: 퀄컴과 에너지 현장 엣지 AI 솔루션 파트너십, 2026 디지털 투자자의 날 개최 예정

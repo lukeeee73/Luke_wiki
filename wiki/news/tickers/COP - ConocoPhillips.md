@@ -1,7 +1,7 @@
 ---
 title: "COP - ConocoPhillips — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-12
+updated: 2026-06-19
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,9 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-29**: 연간 생산가이던스 하향 수정 (-3.4%) — 추가 하향 여부 (pending)
+- [ ] **2026-05-29**: 연간 생산가이던스 하향 수정 (-3.4%) — 추가 하향 여부 (verified 2026-06-19) — 2.295-2.325 MMBOED 하향이 복수 매체로 재확인, 주가 -3.13% 반응
 - [ ] **2026-06-05**: 포트아서 LNG 첫 생산 임박 — 2026 하반기 LNG 매출 기여 시점 (pending)
+- [ ] **2026-06-19**: 가이던스 하향·내부자 매도·유가 하락 3중 악재로 한 달 -9% — Willow·포트아서 LNG가 모멘텀 반전시킬지 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +40,8 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] 2026 생산 가이던스 하향 (확정)
+> ConocoPhillips는 2026 연간 생산 가이던스를 기존 2.33-2.36 MMBOED에서 2.295-2.325 MMBOED로 하향했다 (약 -1.5%). Reuters(2026-06-05), TradingKey(2026-05-26), Traders Union(2026-06-18) 등 복수 매체가 반복 보고. 발표 시 주가 -3%대 반응.
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +49,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-19
+**narrative_score**: -0.16
+**key_events**: 2026 생산 가이던스 하향 재확인 → 6/18 -3.13% ($107.74), 이사 1,974주 내부자 매도 (6/10), Willow·포트아서 LNG 장기 성장 동력
+**risks**: 미·이란 협정발 유가 하락 시 FCF 추가 감소, 생산 가이던스 추가 하향 가능성
+
+> [!claim] (Traders Union, 2026-06-18) 2026 production outlook cut sends ConocoPhillips stock down 3.13%
+> 2026 생산 가이던스 2.295-2.325 MMBOED로 하향 재확인 — 주가 -3.13% ($107.74). impact: - / category: earnings
+
+> [!claim] (Traders Union, 2026-06-16) Director share sale of 1,974 shares pushes ConocoPhillips stock down 2.12%
+> 이사 Sharmila Mulligan 1,974주($234,906) 매도 — 내부자 매도로 주가 압박. impact: - / category: other
+
+> [!claim] (Simply Wall St, 2026-06-17) ConocoPhillips offers value at $114 with Willow and Port Arthur LNG growth
+> 11.6x 선행 P/E·2.9% 배당 — 알래스카 Willow·포트아서 LNG가 성장 동력. impact: + / category: other
+
+**경쟁사 동향**:
+- EOG: 캐나다 앨버타 석탄층 메탄·UAE 비전통 가스 JV로 공격적 글로벌 확장 — COP 가이던스 하향과 대비
+- OXY: 유가 하락에도 YTD +31%·부채 감소 — 퍼미안 피어 모멘텀이 COP 약세와 대비
+
 ### 2026-06-12
 **narrative_score**: -0.01
 **key_events**: 잭스 에너지 섹터 피크 종목 선정, 6월 10일 내부자 거래 신고, 2026년 생산 가이던스 2.295-2.325 MMBOED로 하향

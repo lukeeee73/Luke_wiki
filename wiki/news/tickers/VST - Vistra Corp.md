@@ -1,7 +1,7 @@
 ---
 title: "VST - Vistra Corp — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-12
+updated: 2026-06-19
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,8 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-29**: Q1 EBITDA 상회 + 가이던스 상향 — Q2 실적에서 Meta PPA 기여 반영 여부 (pending)
 - [ ] **2026-06-05**: 로터스 가스발전 7개 시설 인수 — 인수 완료 후 EBITDA 기여 시점 (pending)
+- [ ] **2026-06-19**: Perry 원전 가동용량 2026년 12월 인도 개시 예정 — 일정 준수 및 Meta 전력 인도 시작 여부 (pending)
+- [ ] **2026-06-19**: Cogentrix 5,500MW 가스 ~$40억 인수 추진 — 클로징 및 부채 영향 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +48,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-19
+**narrative_score**: +0.32
+**key_events**: 2026 adj EBITDA $68~76억 가이던스 재확인, Meta 2,600MW + AWS 1,200MW 원전 PPA·Perry 12월 가동 개시, Cogentrix 5,500MW 가스 ~$40억 인수 추진
+**risks**: 도매 전력시장 가격 변동성, 대규모 가스 인수에 따른 부채 증가, 원전 예상 외 운영비용·정전 리스크
+
+> [!claim] (QuiverQuant, 2026-06-16) Vistra gains as investors focus on reaffirmed 2026 outlook and nuclear contracts
+> 2026 adj EBITDA $68~76억 가이던스 재확인 + 데이터센터 연계 원전 계약 부각으로 주가 상승. impact: + / category: earnings
+
+> [!claim] (World Nuclear News, 2026-06-15) Amazon and Meta agreements boost Vistra nuclear plants; Perry capacity Dec 2026
+> Meta 2,600MW(PJM 3기) + AWS Comanche Peak 1,200MW PPA, Perry 가동용량 인도 2026년 12월 개시 예정. impact: + / category: earnings
+
+> [!claim] (Seeking Alpha, 2026-06-17) Vistra: A Buy on AI Demand, Nuclear Power, and Strong Cash Flow
+> 2027년까지 현금창출 $100억+ 목표 — AI 수요·원전·가스 포트폴리오 강세로 매수 의견. impact: + / category: other
+
+> [!claim] (Simply Wall St, 2026-06-14) Vistra plans ~$4B Cogentrix 5,500 MW gas acquisition; Q1 revenue +43% YoY
+> Cogentrix 5,500MW 가스 포트폴리오 ~$40억 인수 추진, Q1 매출 +43% YoY로 MS·JPM 목표가 상향. impact: + / category: m&a
+
+**경쟁사 동향**:
+- CEG: FERC waiver로 Crane 원전 재가동 + 하이퍼스케일러 PPA 규모 우위 — CEG 규모/가시성 vs VST 낮은 P/E
+- NEE: NextEra-Dominion $67B 메가딜로 규제 유틸리티 재편 vs VST 비규제 발전+직접 PPA 고마진 차별화
+
 ### 2026-06-12
 **narrative_score**: +0.21
 **key_events**: Q1 EBITDA +20% YoY, 영업이익률 26.6%, 2026 EBITDA 가이던스 $68~76억 재확인, 메타 2,600MW 20년 핵발전 PPA (PJM 3개 식물)

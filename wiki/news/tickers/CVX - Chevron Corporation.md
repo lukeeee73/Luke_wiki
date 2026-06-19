@@ -1,7 +1,7 @@
 ---
 title: "CVX - Chevron Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-12
+updated: 2026-06-19
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,10 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-29**: 지중해 가스전 (그리스·이집트·이스라엘) 진출 — 생산 개시 시 가스 매출 비중 변화 여부 (pending)
-- [ ] **2026-06-05**: 싱가포르 정제 지분 ENEOS 매각 — 완료 후 하류 포트폴리오 간소화 효과 실현 여부 (pending)
+- [ ] **2026-05-29**: 지중해 가스전 (그리스·이집트·이스라엘) 진출 — 생산 개시 시 가스 매출 비중 변화 여부 (aged-out)
+- [ ] **2026-06-05**: 싱가포르 정제 지분 ENEOS 매각 — 완료 후 하류 포트폴리오 간소화 효과 실현 여부 (aged-out)
+- [ ] **2026-06-05**: CVX는 피어 대비 원유 레버리지가 높아 호르무즈 재개 시 하락 위험 더 큼 (verified 2026-06-19) — 미·이란 협정 임박발 유가 급락에 6/15 -3.6%로 직격, 가설 입증
+- [ ] **2026-06-19**: Zacks 강력매수→보유 강등 후 추가 매도측 등급 하향 이어지는지 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +48,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-19
+**narrative_score**: -0.07
+**key_events**: 미·이란 평화협정 임박 보도로 6/15 -3.6% (~$180.40), Zacks 강력매수→보유 강등 (6/11), 헤스 통합 미국 생산 +24% 효과 지속
+**risks**: 호르무즈 재개 시 유가 추가 하락 — CVX 원유 레버리지 직격, Zacks 등급 하향으로 투심 약화
+
+> [!claim] (TradingKey, 2026-06-15) Chevron Corp Stock (CVX) Moved Down by 3.76% on Jun 15: US-Iran Peace Deal Hits Crude
+> 6/15 -3.6% (~$180.40) — 미·이란 평화협정 임박·호르무즈 재개 기대로 WTI -5%. impact: - / category: macro
+
+> [!claim] (GuruFocus, 2026-06-15) Chevron Corp (CVX) Shares Fall 3.6% -- What GF Score of 62 Tells Investors
+> 유가 급락으로 CVX 3.6% 하락 — GF 스코어 62 중립 평가. impact: - / category: macro
+
+> [!claim] (Barchart, 2026-06-16) Is Chevron Stock Primed for Growth After Profit-Boosting News
+> 헤스 통합 효과·주주환원 지속에도 유가 레버리지가 단기 부담 요인. impact: neutral / category: earnings
+
+**경쟁사 동향**:
+- XOM: 동일 유가 급락에 한 달 -15% 조정 — 섹터 공통 충격, CVX는 원유 레버리지 더 높음
+- OXY: 미·이란 협정으로 6/17 -1.17% (YTD +31%) — 고원유 레버리지 종목 동반 약세
+
 ### 2026-06-12
 **narrative_score**: +0.10
 **key_events**: Q1 미국 생산 +24% (헤스 인수 효과), $60억 주주환원 ($35억 배당 + $25억 자사주매입), 애널리스트 목표가 평균 $216 (Buy 컨센서스)

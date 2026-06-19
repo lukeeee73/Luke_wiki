@@ -1,7 +1,7 @@
 ---
 title: "SRE - Sempra — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-12
+updated: 2026-06-19
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,9 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-29**: Q1 EPS 컨센서스 하회 + LNG 수출 용량 확대 승인 — 하반기 LNG 매출 기여 여부 (pending)
+- [ ] **2026-05-29**: Q1 EPS 컨센서스 하회 + LNG 수출 용량 확대 승인 — 하반기 LNG 매출 기여 여부 (pending → ECA LNG 1단계 생산 개시로 진전, 매출 기여 시점 계속 추적)
 - [ ] **2026-06-05**: Voss Capital Oncor 분리 촉구 — 경영진 대응 및 분리 실현 가능성 (pending)
+- [ ] **2026-06-19**: SDG&E·SoCalGas 2028 GRC 신청 — CPUC 결정이 향후 캘리포니아 규제 수익에 미치는 영향 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-19
+**narrative_score**: +0.16
+**key_events**: SDG&E·SoCalGas 2028 GRC 신청 (CPUC), 포트 아서 루이지애나 커넥터 조기 가동 + ECA LNG 1단계 생산 개시, Oncor $70억+ 텍사스 송전 프로젝트 대부분 수주
+**risks**: 캘리포니아 GRC 결과 불확실성, LNG 프로젝트 건설 비용 초과·일정 지연, 신규 부채 발행에 따른 금리 부담
+
+> [!claim] (TipRanks, 2026-06-15) SDG&E and SoCalGas file 2028 General Rate Case applications with CPUC
+> SDG&E·SoCalGas, 2028 GRC 신청 — 2028 시험연도 매출요건 및 2031년까지 조정 요청. impact: neutral / category: regulation
+
+> [!claim] (Yahoo Finance, 2026-06-09) Sempra's Port Arthur Pipeline Louisiana Connector placed in-service ahead of schedule
+> 포트 아서 파이프라인 루이지애나 커넥터 조기·예산 이하로 가동 개시 — LNG 수출 인프라 진척. impact: + / category: other
+
+> [!claim] (ad-hoc-news, 2026-06-04) Sempra ECA LNG Phase 1 (Ensenada, Mexico) starts producing LNG
+> 멕시코 ECA LNG 1단계가 LNG 생산 개시 — 아시아향 수출 용량 본격화. impact: + / category: other
+
+> [!claim] (Simply Wall St, 2026-06-11) Sempra completes $1B notes offering; Oncor endorsed for $7B+ Texas transmission
+> $10억 변동금리채 발행 완료 + Oncor가 $70억 이상 텍사스 송전 프로젝트 대부분 수주. impact: + / category: other
+
+**경쟁사 동향**:
+- NEE: NextEra-Dominion $67B 메가딜로 유틸리티 M&A 가속 — Sempra Oncor 분리·LNG 자산 가치 재조명 압박과 같은 맥락
+- AEP: AEP 대규모 송전 자본투자 확대 — 텍사스 송전 성장은 Oncor와 경쟁/공유 테마
+
 ### 2026-06-12
 **narrative_score**: +0.04
 **key_events**: 포트 아서 LNG 1단계 건설 진행, SoCalGas·SDG&E 에너지 효율 프로그램 확대

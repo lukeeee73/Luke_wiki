@@ -1,7 +1,7 @@
 ---
 title: "LIN - Linde plc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-12
+updated: 2026-06-19
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-29**: Q1 EPS +10% YoY + 가이던스 상향 — 연간 가이던스 컨센서스 상회 여부 (pending, 현재 소폭 하회)
 - [ ] **2026-06-05**: 삼성 반도체 팹 계약 — 착공 및 가스 공급 개시 일정 (pending)
+- [ ] **2026-06-19**: 반도체 팹·수소·헬스케어 가스 수요로 사상 최고가 $523.57 — 추가 신고가 모멘텀 지속 여부 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-19
+**narrative_score**: +0.27
+**key_events**: 6/15 사상 최고가 $523.57 경신 (반도체 팹·수소·헬스케어 가스 수요), 수소 생산·유통 네트워크 확대로 청정에너지 프록시 부각, 분기 배당 $1.60 6/18 지급
+**risks**: 제조업 수요 둔화 시 볼륨 성장 정체(+1% 저조), 에너지 비용 상승이 가스 생산 원가 압박, 사상 최고가 밸류에이션 부담
+
+> [!claim] (Kalkine, 2026-06-15) Linde plc Reaches All-Time High of $523.57 — Capitalises on Clean Energy and Chip Fab Demand
+> 6/15 사상 최고가 $523.57(+1.58%) — 반도체 팹·수소 에너지·헬스케어 가스 수요 확대 수혜. impact: + / category: other
+
+> [!claim] (Ad-Hoc News, 2026-06-12) Linde Operations and Hydrogen Strategy Under the Spotlight
+> 수소 생산·유통 네트워크 확대로 청정에너지 프록시 부각 — 장기 계약·capex의 중기 성장 기여 주시. impact: + / category: other
+
+> [!claim] (Linde IR, 2026-06-18) Linde Declares $1.60 Quarterly Dividend, Paid June 18 to June 4 Record Holders
+> 분기 배당 $1.60/주 6/18 지급(기준일 6/4) — 33년 연속 배당 증가 기조 유지. impact: + / category: other
+
+**경쟁사 동향**:
+- APD: RBC가 APD Outperform·$355 신규 개시 — 수소 집중 APD vs LIN 균형 포트폴리오, 양사 AI 반도체/청정에너지 가스 공동 수혜
+- AIR.PA: Air Liquide도 전자·수소 성장 테마 공유, LIN의 규모·마진 우위 유지
+
 ### 2026-06-12
 **narrative_score**: +0.11
 **key_events**: Q1 EPS +10%, 영업이익률 30%, $15억 주주환원, RBC 목표가 $570 상향 (Outperform), 분기 배당 $1.60 — 6/18 지급
