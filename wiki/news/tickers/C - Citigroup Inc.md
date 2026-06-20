@@ -1,7 +1,7 @@
 ---
 title: "C - Citigroup Inc. — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-20
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-17**: 씨티 ROTCE 14-15% 중기 목표 — 구조개혁 진척도 추적 (pending) ※ 2026-06-06: Q1 매출 $24.6B +14% YoY 강세, 주가 다년간 고점 경신 — 구조개혁 성과 가시화 중, 목표 달성 가능성 높아짐
 - [ ] **2026-05-17**: 씨티 아시아·중국 확장 승인 — 신흥시장 성장 동력 (pending) ※ 2026-06-06: 새로운 확인 뉴스 없음, 계속 모니터링
 [ ] **2026-06-13**: 씨티 블록체인 프라이빗에쿼티 플랫폼 채택률 — 주요 PE 사의 실제 사용 여부 7/14일 실적에서 확인 (pending)
+- [ ] **2026-06-20**: 토큰화 예탁증서(DR) 세계 최초 출시 — 검증 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -51,6 +52,29 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-20
+
+**narrative_score**: +0.14 (전회 +0.25, Δ -0.11)
+**key_events**: 토큰화 예탁증서(DR) 세계 최초 출시、JPM 목표가 상향·Overweight、구조조정 진척·Q2 마켓 두 자릿수 성장 전망
+**risks**: 금리 인하 지연에 따른 매크로 불확실성、구조조정 실행 리스크
+
+> [!claim] (출처: Citigroup, 2026-06-11) Citi Launches Market-First Tokenized Depositary Receipts to Connect Private Companies and Investors
+> 시티, 비상장주식 토큰화 예탁증서 세계 최초 출시. impact: + / category: product
+
+> [!claim] (출처: Yahoo Finance, 2026-06-17) JP Morgan Raises Target Price on Citi (C), Keeps Overweight Call
+> JPM 리서치, C 목표가 상향·비중확대 유지. impact: + / category: other
+
+> [!claim] (출처: Investing.com, 2026-06-15) Citigroup's SWOT analysis: transformation gains traction as stock targets rise
+> 시티 구조조정 가속, Q2 마켓 매출 두 자릿수 성장 전망. impact: + / category: earnings
+
+> [!claim] (출처: Reuters, 2026-06-18) Citigroup pushes back Fed rate-cut timeline amid rising hawkishness
+> 시티, 연준 금리인하 전망을 10·12월로 연기. impact: neutral / category: macro
+
+**경쟁사 동향**:
+- JPM: JPM raised Citi price target, Overweight — 경쟁사 JPM 리서치의 긍정 평가는 C 투심에 직접 호재
+- BAC: BofA·Citi 동반 Q2 마켓 가이던스 상향 — 월가 트레이딩 호황 공유 — C 마켓 부문 실적 기대 강화
+
 
 ### 2026-06-13
 

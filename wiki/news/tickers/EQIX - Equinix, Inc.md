@@ -1,7 +1,7 @@
 ---
 title: "EQIX - Equinix, Inc — Routine News Log"
 created: 2026-06-13
-updated: 2026-06-13
+updated: 2026-06-20
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-06-13**: EQIX 2026 연간 매출 $101~102억 가이던스 달성 여부 — Q2 실적(7/29) 확인 (pending)
 - [ ] **2026-06-13**: AI Fabric 예약 +70% 지속성 — AI 에이전트 인터커넥션 수요가 구조적인지 Q3까지 추적 (pending)
+- [ ] **2026-06-20**: 엔비디아·시스코 보안 AI 팩토리 글로벌 배치 — 검증 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -48,6 +49,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-20
+
+**narrative_score**: +0.20 (전회 +0.30, Δ -0.10)
+**key_events**: 엔비디아·시스코 보안 AI 팩토리 글로벌 배치、F5와 AI 관리 파트너십、AI 수요로 연간 가이던스 상향
+**risks**: 높은 밸류에이션 부담、금리 환경 변화 시 멀티플 압박
+
+> [!claim] (출처: Equinix, 2026-06-16) Equinix Collaborates with Cisco and NVIDIA to Deploy Secure AI Factories Across Global Data Centers
+> 시스코·엔비디아와 보안 AI 팩토리 글로벌 배치. impact: + / category: product
+
+> [!claim] (출처: Equinix, 2026-06-17) Equinix Partners with F5 for Enhanced AI Management
+> F5와 분산 AI 보안·관리 강화 파트너십. impact: + / category: product
+
+> [!claim] (출처: Simply Wall St, 2026-06-12) Equinix Valuation After Raised Guidance On AI Data Center Demand
+> AI 수요로 연간 가이던스 상향, 매출 두 자릿수 성장. impact: + / category: earnings
+
+**경쟁사 동향**:
+- DLR: UBS, DLR 목표가 상향·기록적 백로그 — AI 데이터센터 수요 강세가 EQIX에도 동일 테마로 작용
+- AMT: AMT 데이터센터 수요로 등급 상향 — 인프라 섹터 전반 AI 모멘텀 공유
+
 
 ### 2026-06-13
 

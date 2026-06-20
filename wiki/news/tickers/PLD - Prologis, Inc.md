@@ -1,7 +1,7 @@
 ---
 title: "PLD - Prologis, Inc — Routine News Log"
 created: 2026-06-13
-updated: 2026-06-13
+updated: 2026-06-20
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-06-13**: PLD 52주 신고가 $147.93 — 밸류에이션 과열 우려 vs 펀더멘탈 지지 여부 Q3 실적에서 확인 (pending)
 - [ ] **2026-06-13**: RBC $148·Truist $154·Citi $145 목표주가 집중 — 목표주가 달성 여부 6개월 추적 (pending)
+- [ ] **2026-06-20**: 분기배당 $1.07(6/30 지급) — 검증 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-20
+
+**narrative_score**: +0.04 (전회 +0.12, Δ -0.08)
+**key_events**: 분기배당 $1.07(6/30 지급)、Q2 실적 7/16 발표 예정、주가 약세·고평가 지적
+**risks**: 금리 인하 지연에 따른 물류 REIT 밸류 부담、고평가 논란 지속
+
+> [!claim] (출처: Prologis, 2026-06-01) Prologis Declares Quarterly Dividend ($1.07/share, payable June 30)
+> 2분기 주당 $1.07 배당 선언, 6/30 지급. impact: neutral / category: other
+
+> [!claim] (출처: Prologis, 2026-06-09) Prologis to Announce Second Quarter 2026 Results July 16, 2026
+> 2분기 실적 7월 16일 발표 예정 공지. impact: neutral / category: earnings
+
+> [!claim] (출처: GuruFocus, 2026-06-09) Prologis Inc (PLD) Shares Fall 3.1% -- GF Value Says Still Overvalued
+> 주가 3.1% 하락에도 여전히 고평가 평가. impact: - / category: other
+
+**경쟁사 동향**:
+- PSA: Public Storage 점유율 가이던스 상회·연초대비 +19.8% 랠리 — 셀프스토리지 강세로 섹터 내 자본 분산 — PLD 상대 매력 약화 가능
+
 
 ### 2026-06-13
 

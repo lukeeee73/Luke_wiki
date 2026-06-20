@@ -1,7 +1,7 @@
 ---
 title: "AXP - American Express Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-20
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-17**: AXP 골드 카드 ChatGPT 혜택 — AI 제휴 카드 차별화 전략 (pending) ※ 2026-06-06: 새로운 확인/반증 뉴스 없음, 계속 모니터링
 - [ ] **2026-05-17**: AXP 글로벌 비즈니스 트래블 매각 — 핵심 카드 사업 집중 (pending) ※ 2026-06-06: 새로운 확인/반증 뉴스 없음, 계속 모니터링
 [ ] **2026-06-13**: AXP 신용카드 연체율 13% 추세 — Q2 실적(7월)에서 대손충당금 증가 여부 확인 필요 (pending)
+- [ ] **2026-06-20**: 카드지출 3년만 최고 증가 — 검증 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -47,6 +48,29 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-20
+
+**narrative_score**: +0.15 (전회 +0.06, Δ +0.09)
+**key_events**: 카드지출 3년만 최고 증가、DZ방크 Buy 상향·목표가 $375、NFL 공식 결제 파트너 확보
+**risks**: 고소득 소비 둔화 시 지출 성장 약화、연체율 상승 추세 모니터링
+
+> [!claim] (출처: Ticker Report, 2026-06-18) DZ Bank Upgrades American Express to Buy (PT $375)
+> DZ방크, 아멕스 투자의견 매수 상향·목표주가 $375. impact: + / category: other
+
+> [!claim] (출처: Motley Fool, 2026-06-04) American Express Card Spending Is Growing at Its Fastest Pace in 3 Years
+> 회원 카드지출 3년만 최고 증가, 고소득 소비 지속성 관건. impact: + / category: earnings
+
+> [!claim] (출처: TradingKey, 2026-06-15) American Express Stock Moved Up 3.51% on Jun 15 on Strong Q2 Spend Expectations
+> 강한 2분기 결제지표 기대에 아멕스 +3.5%. impact: + / category: other
+
+> [!claim] (출처: Reuters, 2026-06-09) Visa, Mastercard $38B Interchange Settlement Wins Preliminary Approval
+> 비자·MA 인터체인지 합의 예비승인 — 폐쇄망 아멕스 영향 제한적. impact: neutral / category: regulation
+
+**경쟁사 동향**:
+- V: Amex replaces Visa as NFL official payments partner — 아멕스가 프리미엄 브랜드·충성도 강화, 비자 스폰서십 상실
+- MA: Mastercard in $38B interchange settlement — 업계 수수료 압박; 아멕스는 폐쇄망으로 직접 영향 제한적
+
 
 ### 2026-06-13
 

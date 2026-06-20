@@ -1,7 +1,7 @@
 ---
 title: "AMT - American Tower Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-20
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-17**: AMT 데이터센터 매출 +17% — AI·클라우드 수요 구조적 성장 (pending) — 2026-06-06: REITweek CEO 발표에서 150,000개 포트폴리오 언급, 수요 지속 확인 중 (pending)
 - [ ] **2026-05-17**: EchoStar 매출 손실로 AFFO 성장 2.7% 제한 — 개선 여부 추적 (pending) — 2026-06-06: 이번 주 뉴스에서 EchoStar 관련 업데이트 없음 (pending)
 [ ] **2026-06-13**: AMT DISH 계약 종료 영향 — 임대 수익 감소 규모 Q2 실적에서 확인 필요 (pending)
+- [ ] **2026-06-20**: 번스타인 Outperform 상향 — 검증 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -47,6 +48,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-20
+
+**narrative_score**: +0.06 (전회 +0.03, Δ +0.03)
+**key_events**: 번스타인 Outperform 상향、$2.5억 만기채 상환·등급 상향、DISH 계약 종료(영향 제한적)
+**risks**: 금리 인하 지연에 따른 REIT 밸류 부담、DISH 소송 잔존
+
+> [!claim] (출처: Yahoo Finance, 2026-06-10) Bernstein Upgrades American Tower on Long-Term 5G and Data Center Demand
+> 번스타인, 장기 5G·데이터센터 수요로 Outperform 상향. impact: + / category: other
+
+> [!claim] (출처: Simply Wall St, 2026-06-09) American Tower Note Redemption and Rating Upgrade Reframe Its 5G Story
+> 2027년 만기채 2.5억달러 상환+등급 상향으로 재무 개선. impact: + / category: other
+
+> [!claim] (출처: American Tower, 2026-06-02) American Tower Updates Termination of Agreement with DISH Wireless
+> DISH 콜로케이션 계약 종료(이미 churn 반영), 소송 지속. impact: neutral / category: regulation
+
+**경쟁사 동향**:
+- CCI: Crown Castle becomes only US pure-play tower company after $8.5B fiber sale — 순수 타워 경쟁사 부상 — 미국 타워 가격경쟁 심화 가능
+- EQIX: AI 데이터센터 수요로 인프라 REIT 전반 강세 — 데이터센터 사업 확대 시 AMT에 동반 수혜 테마
+
 
 ### 2026-06-13
 

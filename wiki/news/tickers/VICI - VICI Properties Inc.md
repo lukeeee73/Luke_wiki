@@ -1,7 +1,7 @@
 ---
 title: "VICI - VICI Properties Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-20
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-17**: VICI 100% 입주율 유지 — 게이밍 REIT 안정성 최고 (pending) — 2026-06-06: 이번 주 뉴스에서 입주율 업데이트 없음, 추적 중 (pending)
 - [x] **2026-05-17**: VICI 골든 엔터테인먼트 $1.16B 인수 — 포트폴리오 확장 (verified) — 2026-06-06: BusinessWire 2026-06-04 보도로 골든 엔터테인먼트 카지노 7개 $1.16B 인수 완료 공식 확인
 [ ] **2026-06-13**: VICI One Beverly Hills $15억 메자닌 대출 수익률 — 비전통 부동산 투자 성과 추적 필요 (pending)
+- [ ] **2026-06-20**: Club Med 카람볼라 리조트 인수·재개발 — 검증 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +50,28 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-20
+
+**narrative_score**: +0.02 (전회 +0.17, Δ -0.15)
+**key_events**: Club Med 카람볼라 리조트 인수·재개발、Scotiabank 목표가 $29 하향、주가 52주 신저가 $26.53
+**risks**: 고금리 환경 속 넷리스 REIT 디레이팅、게이밍 자산 집중 리스크
+
+> [!claim] (출처: Business Wire, 2026-06-11) VICI Properties and Club Med Announce Acquisition and Redevelopment of Carambola Beach Resort
+> Club Med과 카람볼라 리조트 인수·재개발(트리플넷 리스). impact: + / category: m&a
+
+> [!claim] (출처: GuruFocus, 2026-06-18) VICI Maintains by Scotiabank — Price Target Lowered to $29.00
+> Scotiabank 목표가 $32→$29 하향(유지). impact: - / category: other
+
+> [!claim] (출처: Investing.com, 2026-06-15) VICI Properties stock hits 52-week low at $26.53
+> 주가 52주 신저가 $26.53 기록. impact: - / category: other
+
+> [!claim] (출처: Business Wire, 2026-06-04) VICI Properties Declares Regular Quarterly Dividend ($0.45/share)
+> 분기 배당 $0.45 선언, 7/9 지급. impact: neutral / category: other
+
+**경쟁사 동향**:
+- GLPI: 게이밍 넷리스 섹터 전반 금리 민감도로 밸류 압박·목표가 하향 — VICI 신저가·목표가 하향은 개별 악재보다 고금리 넷리스 디레이팅 영향
+
 
 ### 2026-06-13
 

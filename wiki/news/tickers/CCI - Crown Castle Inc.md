@@ -1,7 +1,7 @@
 ---
 title: "CCI - Crown Castle Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-20
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [x] **2026-05-17**: CCI 파이버·소형기지국 $8.5B 매각 — 순수 타워 전략 실행력 확인 (verified) — 2026-06-06: Crown Castle IR 2026-05-31 공시로 매각 완료 공식 확인
 - [ ] **2026-05-17**: CCI 순수 타워 집중 — 5G 성장 수혜 vs 다각화 포기 트레이드오프 (pending) — 2026-06-06: CEO REITweek 발표에서 유기적 성장 전략 공식화, 트레이드오프 추적 중 (pending)
 [ ] **2026-06-13**: CCI AFFO 가이던스 $4.53~$4.65 달성 여부 — Q2 실적 발표에서 검증 (pending)
+- [ ] **2026-06-20**: $85억 파이버·스몰셀 매각 완료 — 검증 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +50,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-20
+
+**narrative_score**: +0.09 (전회 +0.20, Δ -0.11)
+**key_events**: $85억 파이버·스몰셀 매각 완료、순수 타워사 전환·자사주 매입、분기배당 $1.0625
+**risks**: 금리 환경에 따른 REIT 밸류 부담、파이버 매각 후 성장 동력 재정립 과제
+
+> [!claim] (출처: Crown Castle, 2026-05-01) Crown Castle Closes $8.5B Sale of Fiber and Small Cell Businesses, Updates FY2026 Outlook
+> 파이버·스몰셀 85억달러 매각 완료, 순수 타워사 전환. impact: + / category: m&a
+
+> [!claim] (출처: Seeking Alpha, 2026-06-02) Crown Castle Presents at Nareit REITweek 2026 Conference
+> CEO, REITweek서 순수 타워 전환 전략 발표. impact: neutral / category: other
+
+> [!claim] (출처: Crown Castle, 2026-06-05) Crown Castle sets June 30 payment for $1.0625 dividend
+> 분기배당 주당 $1.0625, 6/30 지급 선언. impact: neutral / category: other
+
+**경쟁사 동향**:
+- AMT: Bernstein upgrades AMT on 5G/data center demand — 타워 섹터 전반 투심 개선이 CCI에도 우호적
+- DLR: AI 데이터센터 수요로 데이터 인프라 REIT 강세 — CCI는 타워 집중 — 데이터센터 경쟁에선 이탈
+
 
 ### 2026-06-13
 

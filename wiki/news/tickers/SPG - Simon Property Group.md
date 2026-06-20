@@ -1,7 +1,7 @@
 ---
 title: "SPG - Simon Property Group — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-20
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [x] **2026-05-17**: SPG 소매 매출 +11.8%/sqft — 리테일 REIT 최강 운영 지표 (verified) — 2026-06-06: SPG IR 2026-06-01 Q1 순이익 +15.9% YoY 및 FFO 가이던스 상향으로 강력한 운영 지표 추가 확인
 - [x] **2026-05-17**: SPG 배당 7.1% 인상 $2.25 — 주주환원 적극성 (verified) — 2026-06-06: TIKR.com 2026-06-03 보도로 $2.25/분기 배당 인상 및 주가 1년 +32% 재확인
 [ ] **2026-06-13**: SPG Eli Simon 신임 CEO 전략 방향 — 다음 분기 프레젠테이션에서 독자 전략 확인 필요 (pending)
+- [ ] **2026-06-20**: $50억 신용시설 수정 — 검증 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +50,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-20
+
+**narrative_score**: +0.07 (전회 +0.19, Δ -0.12)
+**key_events**: $50억 신용시설 수정、€5억 2031 만기 채권 발행(비희석)、체험형 아웃렛·Adidas 이벤트
+**risks**: 금리 환경에 따른 몰 REIT 밸류 부담、소비 둔화 시 임대 수요 압박
+
+> [!claim] (출처: Finviz, 2026-06-12) Simon Property Group amends $5B credit facility
+> $50억 신용시설 수정, 성장 자금조달 유연성 확보. impact: + / category: other
+
+> [!claim] (출처: Simon Property Group, 2026-06-10) Simon Property Group announces offering of euro-denominated notes (€500M 3.650% due 2031)
+> €5억 2031년 만기 채권 발행(주식 비희석). impact: neutral / category: other
+
+> [!claim] (출처: Simply Wall St, 2026-06-11) Investors React to Simon Property Group's Experience-Driven Adidas Events and Outlet Promotions
+> Adidas 이벤트·아웃렛 프로모션 등 체험형 전략. impact: + / category: other
+
+**경쟁사 동향**:
+- MAC: Macerich, 6/15 보통주 공모(증액) 가격 결정; 매출 YoY -6.7% — 몰 동종업체 주식 희석 — SPG의 채권 발행·우량 포지션 대비 재무 강점 부각
+
 
 ### 2026-06-13
 

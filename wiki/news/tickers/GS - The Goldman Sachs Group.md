@@ -1,7 +1,7 @@
 ---
 title: "GS - The Goldman Sachs Group — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-20
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [x] **2026-05-17**: GS 사모 크레딧 신중론 — 리스크 관리 신호 (verified) ※ 2026-06-06: CEO가 AI 붐 투자자 탐욕 경고(GuruFocus) — 사모 크레딧 신중론과 일관된 리스크 관리 기조 확인
 - [x] **2026-05-17**: GS 주가 12개월 +65% — 추가 상승 여력 평가 필요 (verified) ※ 2026-06-06: 1년 주가 +84%로 추가 상승 확인, 단 애널리스트 컨센서스 Hold·목표주가 현재가 대비 -13%로 상승 여력 제한적
 [ ] **2026-06-13**: GS 앤트로픽 IPO 공동 주관 — IPO 시기 및 수수료 규모 확인 필요 (pending)
+- [ ] **2026-06-20**: 상반기 M&A 자문 1조달러 최단기록 — 검증 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +50,29 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-20
+
+**narrative_score**: +0.22 (전회 +0.32, Δ -0.10)
+**key_events**: 상반기 M&A 자문 1조달러 최단기록、스페이스X IPO 주간사 확보、6/24 스트레스테스트 자본환원 대기
+**risks**: 연준 금리인하 지연 시 자본시장 활동 둔화 가능、IB 1위 자리 경쟁 심화
+
+> [!claim] (출처: Bloomberg, 2026-06-16) Goldman Tops $1 Trillion of M&A, Fastest Ever to Reach the Mark
+> 골드만, 상반기 M&A 자문 1조달러 돌파 최단기록. impact: + / category: m&a
+
+> [!claim] (출처: Yahoo Finance, 2026-06-12) Goldman Sachs Lands SpaceX IPO Lead As New Listings Come Back Into Focus
+> 사상 최대 스페이스X IPO 주간사로 GS 주가 2.9% 상승. impact: + / category: m&a
+
+> [!claim] (출처: Bloomberg, 2026-06-07) Fed Rate Cut Unlikely in 2026, Goldman Sachs Economists Say After Jobs Report
+> 강한 고용에 GS, 올해 연준 금리인하 전망 철회. impact: neutral / category: macro
+
+> [!claim] (출처: Quiver Quantitative, 2026-06-17) Federal Reserve to Release 2026 Bank Stress Test Results on June 24
+> 6/24 스트레스테스트, GS 자본환원 여력 좌우. impact: neutral / category: regulation
+
+**경쟁사 동향**:
+- MS: Morgan Stanley co-leads SpaceX/Anthropic IPOs; broad M&A rebound — 업계 전반 딜 회복으로 GS 자문수수료 수혜 지속, 1위 경쟁 심화
+- JPM: JPMorgan M&A fees nearly doubled YoY amid IB recovery — IB 회복은 GS에도 우호적이나 리그테이블 1위 경쟁 심화
+
 
 ### 2026-06-13
 

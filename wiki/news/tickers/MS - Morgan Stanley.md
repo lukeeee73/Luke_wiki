@@ -1,7 +1,7 @@
 ---
 title: "MS - Morgan Stanley — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-20
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-17**: MS E*TRADE 암호화폐 거래 파일럿 — 리테일 암호화폐 수익 성장 (pending) ※ 2026-06-06: 새로운 확인/반증 뉴스 없음, 계속 모니터링
 - [ ] **2026-05-17**: FINRA MS 해외 부문 조사 — 규제 결과 대기 (pending) ※ 2026-06-06: 새로운 확인/반증 뉴스 없음, 계속 모니터링
 [ ] **2026-06-13**: MS 앤트로픽 IPO 실행 — 주관 수수료 및 IPO 시기 확인 필요 (pending)
+- [ ] **2026-06-20**: L3Harris Axyv IPO 주관 선정 — 검증 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +50,29 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-20
+
+**narrative_score**: +0.17 (전회 +0.21, Δ -0.04)
+**key_events**: L3Harris Axyv IPO 주관 선정、Metra Living £10.45억 인수、앤트로픽 IPO 공동 주관
+**risks**: 대형딜 IB 경쟁 심화、자본시장 변동성 노출
+
+> [!claim] (출처: Bloomberg, 2026-06-16) L3Harris Missile Arm Axyv Picks JPMorgan, Morgan Stanley for IPO
+> MS, L3Harris 미사일 자회사 약 20억달러 IPO 주관사 선정. impact: + / category: m&a
+
+> [!claim] (출처: Morgan Stanley, 2026-06-16) Morgan Stanley Real Estate Investing Acquires Metra Living from L&Q for £1.045 Billion
+> MS 부동산 부문, 런던 임대주택 플랫폼 10.45억파운드 인수. impact: + / category: m&a
+
+> [!claim] (출처: Bloomberg, 2026-06-15) Morgan Stanley's Wilson Sees US Stock Market Rally Broadening
+> 윌슨, 강세장 지속·경기민감주로 랠리 확산 전망. impact: + / category: macro
+
+> [!claim] (출처: Bloomberg, 2026-06-03) Morgan Stanley, Goldman Sachs to Lead Anthropic IPO
+> MS·GS, AI기업 앤트로픽 IPO 공동 주관사 선정. impact: + / category: m&a
+
+**경쟁사 동향**:
+- GS: Goldman leads M&A league tables; co-leads Anthropic IPO with MS — IB/IPO 호황은 MS 수수료에 우호적이나 대형딜 경쟁 심화
+- JPM: JPMorgan partners with MS on L3Harris Axyv IPO — 딜 파이프라인 확대 긍정적, 공동 주관으로 협력·경쟁 공존
+
 
 ### 2026-06-13
 

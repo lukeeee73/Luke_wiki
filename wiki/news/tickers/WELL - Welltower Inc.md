@@ -1,7 +1,7 @@
 ---
 title: "WELL - Welltower Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-20
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [x] **2026-05-17**: WELL Q1 동일점포 NOI +16.4% — 고령화 수요 구조적 성장 확인 (verified) — 2026-06-06: AD HOC News 2026-06-01/02 보도로 동일점포 NOI +16.4%, 노인주택 점유율 88.8%, FFO +23% 추가 확인
 - [x] **2026-05-17**: WELL 목표주가 일제 상향 (최고 $255) — 프리미엄 밸류에이션 정당성 (verified) — 2026-06-06: 주가 $200 근접, 낮은 레버리지 확인으로 프리미엄 밸류에이션 정당성 지지 (verified)
 [ ] **2026-06-13**: WELL say-on-pay 부결 후 경영진 보수 구조 개혁 — 6개월 내 새 보상 체계 발표 여부 확인 (pending)
+- [ ] **2026-06-20**: 배당 $0.85 두 자릿수 중반 인상 — 검증 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +50,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-20
+
+**narrative_score**: +0.13 (전회 +0.15, Δ -0.02)
+**key_events**: 배당 $0.85 두 자릿수 중반 인상、대형 시니어하우징 규모 확장、실적 비트·2026 가이던스 상향
+**risks**: 금리 환경에 따른 헬스케어 REIT 밸류 부담、시니어하우징 운영 비용·인건비
+
+> [!claim] (출처: Welltower, 2026-06-01) Welltower Inc. dividend increase to $0.85/share (mid-teens% hike)
+> 분기 배당 $0.85로 두 자릿수 중반 인상(8-K). impact: + / category: other
+
+> [!claim] (출처: ad-hoc-news, 2026-06-10) New lease deal expands Welltower senior housing footprint at scale
+> 대형 시니어하우징 리스·운영전환으로 규모 확장. impact: + / category: m&a
+
+> [!claim] (출처: Simply Wall St, 2026-06-09) Welltower Valuation After Earnings Beat And Raised 2026 Guidance
+> 실적 호조·2026 가이던스 상향 후 밸류 점검. impact: + / category: earnings
+
+**경쟁사 동향**:
+- VICI: 넷리스 REIT 전반 금리 민감도로 밸류 압박 — WELL은 SHOP 운영성장으로 차별화 — 금리보다 점유율 회복이 핵심 동력
+
 
 ### 2026-06-13
 

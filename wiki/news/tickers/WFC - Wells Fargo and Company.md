@@ -1,7 +1,7 @@
 ---
 title: "WFC - Wells Fargo and Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-20
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [x] **2026-05-17**: Fed WFC 자산제한 해제 — 대출 성장 본격화 시작 (verified) ※ 2026-06-06: CEO Scharf 번스타인 컨퍼런스에서 Q2 IB/트레이딩 중반 성장 전망 공개 — 자산제한 해제 후 성장 본격화 진입 확인
 - [ ] **2026-05-17**: WFC CEO ROTCE 17-18% 중기 목표 — 실행 가능성 추적 필요 (pending) ※ 2026-06-06: Q2 IB/트레이딩 강세 전망은 긍정적이나 ROTCE 목표 달성 여부는 계속 추적
 [ ] **2026-06-13**: WFC Q2 시장 부문 중간 십대 % 성장 전망 — Q2 실적 발표(7월)에서 검증 필요 (pending)
+- [ ] **2026-06-20**: CFO NII 증가·연간 목표 유지 — 검증 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -47,6 +48,29 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-20
+
+**narrative_score**: +0.09 (전회 +0.14, Δ -0.05)
+**key_events**: CFO NII 증가·연간 목표 유지、Fargo AI 누적 10억 상호작용、6/24 스트레스테스트 환원여력
+**risks**: 자산상한 해제 효과 기대 이하、내수 집중에 따른 성장 동력 제한
+
+> [!claim] (출처: Wells Fargo, 2026-06-09) Wells Fargo CFO: NII to rise this quarter, on track for full-year forecast
+> CFO, 이번 분기 NII 증가·연간 목표 달성 전망. impact: + / category: earnings
+
+> [!claim] (출처: Wells Fargo, 2026-06-11) Wells Fargo Reaches Major Digital Milestones (Fargo AI tops 1B interactions)
+> AI 비서 Fargo 누적 10억 상호작용·모바일 3300만명 돌파. impact: + / category: product
+
+> [!claim] (출처: CNBC, 2026-06-16) Wells Fargo's asset cap removal has not been the silver bullet we expected
+> 자산상한 해제 1년, 기대만큼 성과 못내며 주가 부진. impact: - / category: other
+
+> [!claim] (출처: Motley Fool, 2026-06-03) Bank Stress Tests Are Coming in Late June. These Big Banks Could Reward Shareholders Next.
+> 6/24 스트레스테스트, WFC 최저 버퍼로 배당여력 확대. impact: + / category: regulation
+
+**경쟁사 동향**:
+- JPM: Chase digital bank expanding across Europe — 대형은행 디지털·해외 확장 경쟁 심화 — WFC는 내수 집중 차별화
+- BAC: BofA lifts Q2 trading revenue guidance — 트레이딩 의존도 낮은 WFC엔 직접 수혜 적으나 업종 투심엔 우호적
+
 
 ### 2026-06-13
 

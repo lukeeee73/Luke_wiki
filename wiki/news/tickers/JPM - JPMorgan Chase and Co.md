@@ -1,7 +1,7 @@
 ---
 title: "JPM - JPMorgan Chase and Co. — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-20
 domain: finance
 type: claim
 weight: reference
@@ -32,6 +32,7 @@ sources: []
 - [x] **2026-05-17**: JPM JLTXX 토큰화 MMF 출시 — 핀테크 확장 (verified) ※ 2026-06-06: The Bridge 토큰화 예금 네트워크 참여(Reuters)로 토큰화 전략 확장 확인
 - [ ] **2026-05-17**: 체이스 지점 연간 52개 확장 — 리테일 시장점유율 성장 (pending)
 [ ] **2026-06-13**: JPM AI 에이전트 하반기 배포 — 실제 배포 및 생산성 영향 검증 필요 (pending)
+- [ ] **2026-06-20**: Chase 독일·EU 디지털뱅크 확장 — 검증 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -50,6 +51,29 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-20
+
+**narrative_score**: +0.15 (전회 +0.06, Δ +0.09)
+**key_events**: Chase 독일·EU 디지털뱅크 확장、AMD·OQC 양자-AI 연구 협력、6/24 스트레스테스트 자본환원 기대
+**risks**: DOJ 디뱅킹 조사 잔존 리스크、Dimon 시장 과열 경고 지속
+
+> [!claim] (출처: Reuters, 2026-06-16) JPMorgan mulls Chase expansion into Europe's largest markets, FT reports
+> Chase 디지털뱅크, 프랑스·스페인·이탈리아 등 EU 확장 추진. impact: + / category: product
+
+> [!claim] (출처: Banking Dive, 2026-06-16) JPMorgan to launch digital retail bank in Germany in 2026
+> Chase, 베를린 거점 독일 디지털 소매은행 출범 계획. impact: + / category: product
+
+> [!claim] (출처: AMD Newsroom, 2026-06-03) OQC, JPMorganChase and AMD Commence Research Collaboration on Quantum-AI Platform in London
+> JPM, OQC·AMD와 런던 양자-AI 플랫폼 연구 협력. impact: + / category: product
+
+> [!claim] (출처: Motley Fool, 2026-06-03) Bank Stress Tests Are Coming in Late June. These Big Banks Could Reward Shareholders Next.
+> 6/24 연준 스트레스테스트 후 자사주·배당 확대 기대. impact: + / category: regulation
+
+**경쟁사 동향**:
+- BAC: BofA says Q2 trading revenue trending above 15% growth — 트레이딩 업황 호조는 JPM 마켓 부문 실적 기대도 동반 상향
+- C: Citi pushes back Fed rate-cut timeline to Oct/Dec — 금리 인하 지연 전망은 JPM 순이자이익(NII)에 우호적
+
 
 ### 2026-06-13
 

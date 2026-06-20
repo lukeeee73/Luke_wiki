@@ -1,7 +1,7 @@
 ---
 title: "PSA - Public Storage — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-20
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-17**: PSA Q1 매출 -18% 미스·동일점포 NOI +0.4% — 자가창고 수요 약세 (pending) — 2026-06-06: 투자자 업데이트에서 동일점포 점유율 92.2%, 이탈률 16.4%로 개선 부분 확인, 구조적 수요 약세 여부는 추적 중 (pending)
 - [x] **2026-05-17**: PSA NSA $5.63B 인수 — 규모 확대로 약점 보완 전략 (verified) — 2026-06-06: StockTitan 2026-06-04 보도로 NSA 인수 제안 업데이트 확인: +30% 부동산, 시너지 $110-130M, FFO +$0.10-0.20 (2027)
 [ ] **2026-06-13**: PSA·NSA 결합 딜 규제 승인 — FTC 심사 결과 6개월 내 확인 필요 (pending)
+- [ ] **2026-06-20**: 연초대비 +19.8~23% 랠리 — 검증 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +50,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-20
+
+**narrative_score**: +0.08 (전회 +0.17, Δ -0.09)
+**key_events**: 연초대비 +19.8~23% 랠리、점유율 가이던스 상회、분기배당 $3.00(6/30 지급)
+**risks**: 금리 환경에 따른 REIT 밸류 부담、랠리 후 밸류에이션 고평가 논란
+
+> [!claim] (출처: Public Storage, 2026-05-06) Public Storage declares second quarter 2026 dividend ($3.00/share)
+> 분기 보통주 배당 $3.00 선언, 6/30 지급. impact: neutral / category: other
+
+> [!claim] (출처: Simply Wall St, 2026-06-10) Is It Time To Reassess Public Storage (PSA) After This Year's 19.8% Rally?
+> 연초대비 +19.8% 랠리·점유율 가이던스 상회 후 재평가. impact: + / category: other
+
+> [!claim] (출처: Simply Wall St, 2026-06-12) Public Storage (PSA) After 23% YTD Rise — Is There Still Upside Potential
+> 23% 상승 후 추가 상승여력 분석·다수 목표가 상향. impact: + / category: other
+
+**경쟁사 동향**:
+- PLD: PLD 주가 약세·고평가 지적 — 물류와 달리 셀프스토리지(PSA) 점유율 강세 — 섹터 내 상대 강도 우위
+
 
 ### 2026-06-13
 

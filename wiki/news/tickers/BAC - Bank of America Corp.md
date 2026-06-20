@@ -1,7 +1,7 @@
 ---
 title: "BAC - Bank of America Corp. — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-20
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-17**: Fed 2026 금리 인하 부재 — 은행 NIM 회복 시나리오 후퇴 (pending) ※ 2026-06-06: 연준 은행 건전성 확인(99% 건전), 금리 환경 변화 없음, 계속 모니터링
 - [x] **2026-05-17**: BAC Q1 EPS +25% 강력 어닝 비트 — 기초 펀더멘털 견조 (verified) ※ 2026-06-06: Fed 보고서 대형은행 ROE 14%(Q1) 확인, 섹터 전반 펀더멘털 견조 재확인
 [ ] **2026-06-13**: BofA 크로스보더 실시간 결제 도구 연내 출시 — 실제 출시 및 채택률 확인 필요 (pending)
+- [ ] **2026-06-20**: Q2 트레이딩 수익 15% 초과 성장 전망 — 검증 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +50,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-20
+
+**narrative_score**: +0.18 (전회 +0.04, Δ +0.14)
+**key_events**: Q2 트레이딩 수익 15% 초과 성장 전망、6/24 스트레스테스트 자본환원 여력、부의 이전 자산관리 조사 발표
+**risks**: DOJ 디뱅킹 조사 잔존、금리 환경 변화에 따른 NII 변동
+
+> [!claim] (출처: Bloomberg, 2026-06-09) Bank of America Sees Trading Revenue Outpacing 15% Growth Forecast
+> DeMare, Q2 마켓 매출 15% 초과 성장 전망(주식 강세). impact: + / category: earnings
+
+> [!claim] (출처: Reuters, 2026-06-11) Fed to Release 2026 Bank Stress Test Results on June 24
+> 6/24 스트레스테스트 결과 발표, BAC 버퍼 2.5% 최저권 → 환원여력. impact: + / category: regulation
+
+> [!claim] (출처: Bank of America, 2026-06-17) BofA Study Finds Longevity and Accelerating Wealth Transfer Are Reshaping Wealth Plans
+> 프라이빗뱅크, 고액자산가 부의 이전 트렌드 조사 발표. impact: neutral / category: other
+
+**경쟁사 동향**:
+- C: Citigroup also raised Q2 markets revenue guidance — 동종 트레이딩 호조 확인 — BAC 가이던스 상향의 업계 공통 추세 뒷받침
+- WFC: WFC CFO says NII to rise this quarter — 업종 전반 NII 개선 신호로 BAC 이자수익 전망에도 긍정적
+
 
 ### 2026-06-13
 

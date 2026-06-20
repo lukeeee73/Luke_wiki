@@ -1,7 +1,7 @@
 ---
 title: "DLR - Digital Realty Trust — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-20
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [x] **2026-05-17**: DLR Q1 매출 +16.2% — AI 수요 구조적 성장 확인 (verified) — 2026-06-06: 2026 가이던스 추가 상향 + Stifel $235 목표가로 성장 지속 확인
 - [x] **2026-05-17**: DLR Core FFO 가이던스 $8.00-$8.10 상향 — 수익성 개선 (verified) — 2026-06-06: StockTitan 2026-06-04 가이던스 재상향 보도로 추가 확인
 [ ] **2026-06-13**: DLR 바르셀로나 BCN1 가동률 — 첫 스페인 데이터센터 채택 속도 Q3 실적에서 확인 필요 (pending)
+- [ ] **2026-06-20**: UBS 목표가 $227 상향 — 검증 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +50,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-20
+
+**narrative_score**: +0.12 (전회 +0.12, Δ +0.00)
+**key_events**: UBS 목표가 $227 상향、말레이시아·바르셀로나 데이터센터 확장、기록적 $1.8B 백로그·코어FFO 두 자릿수 성장
+**risks**: 높은 P/E 밸류에이션 부담、금리 인하 지연 시 멀티플 압박
+
+> [!claim] (출처: Yahoo Finance, 2026-06-12) UBS Raises Price Target on Digital Realty Trust to $227
+> UBS, DLR 목표가 $227로 상향. impact: + / category: other
+
+> [!claim] (출처: Simply Wall St, 2026-06-10) Digital Realty Valuation After Malaysia Data Center Launch And AI Infrastructure Push
+> 말레이시아·바르셀로나 데이터센터 등 AI 인프라 확장. impact: + / category: product
+
+> [!claim] (출처: GuruFocus, 2026-06-08) Digital Realty Trust Leads Real Estate Stocks with Strong Earnings Momentum
+> 기록적 리싱·코어FFO 두 자릿수 성장, $1.8B 백로그. impact: + / category: earnings
+
+**경쟁사 동향**:
+- EQIX: EQIX 엔비디아·시스코·F5 AI 파트너십 연달아 발표 — 데이터센터 AI 경쟁 가열, 양사 동반 수요 수혜
+- AMT: AMT 데이터센터/5G 수요로 등급 상향 — 인프라 REIT 전반 AI 테마 강세 공유
+
 
 ### 2026-06-13
 

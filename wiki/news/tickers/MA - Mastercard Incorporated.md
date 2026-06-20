@@ -1,7 +1,7 @@
 ---
 title: "MA - Mastercard Incorporated — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-20
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-17**: UK FCA MA·V·PayPal 디지털 지갑 조사 — 규제 결과 대기 (pending) ※ 2026-06-06: 새로운 규제 결과 뉴스 없음, 계속 모니터링
 - [x] **2026-05-17**: MA-JD닷컴 AI Agent Pay 라이브 시연 — AI 결제 선도 전략 (verified) ※ 2026-06-06: Stripe·Visa와 함께 스테이블코인 플랫폼 참여 + NY BitLicense 취득(CoinDesk) — AI/블록체인 결제 선도 전략 확장 확인
 [ ] **2026-06-13**: MA Agent Pay for Machines — AI 에이전트 결제 시장 점유율 확보 여부 하반기 추적 (pending)
+- [ ] **2026-06-20**: Agent Pay for Machines(AI 결제) 출시 — 검증 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +50,29 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-20
+
+**narrative_score**: +0.13 (전회 +0.17, Δ -0.04)
+**key_events**: Agent Pay for Machines(AI 결제) 출시、스테이블코인 온체인 정산 도입、Ling Hai 신임 CFO 임명
+**risks**: $38B 합의 인터체인지 인하 부담、자체 수익모델 잠식 우려(스테이블코인)
+
+> [!claim] (출처: Bloomberg, 2026-06-10) Mastercard Taps Coinbase, Ripple and Crypto Firms for AI Agent Payments (Agent Pay for Machines)
+> 'Agent Pay for Machines' 출시, 30여 파트너로 AI 결제 진출. impact: + / category: product
+
+> [!claim] (출처: Mastercard, 2026-06-03) Mastercard expands settlement capabilities to include stablecoin
+> 규제 스테이블코인 기반 24/7 온체인 정산 도입. impact: + / category: product
+
+> [!claim] (출처: Fortune, 2026-06-08) Visa and Mastercard plan to shake up the stablecoin market
+> 비자·마스터카드·스트라이프, 공동 스테이블코인 플랫폼 추진. impact: + / category: m&a
+
+> [!claim] (출처: Mastercard, 2026-06-02) Mastercard announces leadership updates (Ling Hai named CFO)
+> Ling Hai 신임 CFO 임명 등 경영진 개편. impact: neutral / category: other
+
+**경쟁사 동향**:
+- V: Visa scaling global stablecoin settlement + OpenAI agentic commerce — 비자가 스테이블코인·AI 결제 공격 확장 — MA의 온체인 정산은 경쟁 대응 성격
+- AXP: Amex CEO calls stablecoins a SWIFT/ACH alternative, cautious approach — MA가 인프라 선점 시 상대적 우위 가능
+
 
 ### 2026-06-13
 

@@ -1,7 +1,7 @@
 ---
 title: "V - Visa Inc. — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-20
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-17**: UK FCA V·MA·PayPal 디지털 지갑 경쟁 조사 — 규제 결과 대기 (pending) ※ 2026-06-06: 새로운 규제 결과 뉴스 없음, 계속 모니터링
 - [x] **2026-05-17**: Visa Agentic Ready 글로벌 확장 — AI 결제 선점 전략 (verified) ※ 2026-06-06: Canton Network 스테이블코인 결제 파일럿(Blockonomi) — AI/블록체인 결제 인프라 선점 전략 확장 확인
 [ ] **2026-06-13**: V·OpenAI 결제 통합 — 실제 AI 에이전트 거래량 및 수수료 기여도 확인 필요 (pending)
+- [ ] **2026-06-20**: OpenAI 에이전트 결제 제휴 — 검증 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -51,6 +52,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-20
+
+**narrative_score**: +0.15 (전회 +0.34, Δ -0.19)
+**key_events**: OpenAI 에이전트 결제 제휴、스테이블코인·토큰 결제 혁신 발표、$38B 스와이프 수수료 합의 예비승인
+**risks**: 합의에 따른 5년 인터체인지 인하 부담、가맹점 단체의 추가 소송·반대
+
+> [!claim] (출처: Visa, 2026-06-10) Visa Partners with OpenAI to Power the Next Generation of AI Commerce
+> OpenAI와 제휴해 ChatGPT 에이전트 결제 지원. impact: + / category: product
+
+> [!claim] (출처: Business Wire, 2026-06-10) Visa Announces New AI, Stablecoin and Token Innovations at Visa Payments Forum
+> 토큰화 예금·스테이블코인 결제 확장 발표. impact: + / category: product
+
+> [!claim] (출처: Reuters, 2026-06-10) Visa, Mastercard $38 billion swipe fee settlement wins U.S. judge's preliminary approval
+> 판사가 380억 달러 스와이프 수수료 합의 예비 승인. impact: + / category: regulation
+
+**경쟁사 동향**:
+- MA: Mastercard co-defendant in same $38B swipe-fee settlement — 동일 합의 적용 — 수수료 인하 부담 양사 공유, V 단독 악재 아님
+- AXP: Amex replaces Visa as NFL official payments partner — 프리미엄 스폰서십 상실, AXP 브랜드 강화에 상대적 약점
+
 
 ### 2026-06-13
 

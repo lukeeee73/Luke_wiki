@@ -1,7 +1,7 @@
 ---
 title: "O - Realty Income Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-20
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [x] **2026-05-17**: O 670회 연속 월배당·134번째 인상 — 배당 신뢰성 최고 수준 (verified) — 2026-06-06: Realty Income IR 2026-06-01 공시로 671번째 연속 월배당 $0.2705 확인, 31년+ 연속 배당 기록 유지
 - [ ] **2026-05-17**: O GIC·아폴로 자본 파트너십 — 투자 규모 $9.5B로 확대 (pending) — 2026-06-06: 이번 주 뉴스에서 업데이트 없음, 추적 중 (pending)
 [ ] **2026-06-13**: O 배당 수익률 5.32% 매력도 — 금리 환경 변화 시 수익률 스프레드 추적 필요 (pending)
+- [ ] **2026-06-20**: 월배당 $0.2710 인상 — 검증 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +50,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-20
+
+**narrative_score**: +0.04 (전회 +0.07, Δ -0.03)
+**key_events**: 월배당 $0.2710 인상、Parker Kitchen 세일앤리스백 인수、5%대 배당수익률 vs 금리 부담
+**risks**: 금리 인하 지연 시 넷리스 밸류 압박、외부 성장(인수) 자금조달 비용 상승
+
+> [!claim] (출처: Realty Income, 2026-06-09) Realty Income declares monthly dividend increase to $0.2710/share
+> 월배당 $0.2710로 인상, 연속 증액 기록 지속. impact: + / category: other
+
+> [!claim] (출처: CoStar, 2026-06-10) Net lease REIT Realty Income buys Parker Kitchen retail portfolio in sale-leaseback
+> Parker Kitchen 7개 점포 세일앤리스백 인수. impact: + / category: m&a
+
+> [!claim] (출처: ts2.tech, 2026-06-12) Realty Income Stock Rises as Investors Weigh Monthly Dividend Growth and Rate Risk
+> 5%대 배당수익률 매력 vs 금리 부담 부각. impact: neutral / category: macro
+
+**경쟁사 동향**:
+- PLD: Realty Income–Apollo 49% JV로 $1.0B 조달(자산경량화) — 넷리스 REIT 전반 자본회수·자산경량 모델 확산 — 성장 둔화 헤지
+
 
 ### 2026-06-13
 
