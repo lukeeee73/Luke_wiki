@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 created: 2026-04-05
-updated: 2026-06-14
+updated: 2026-06-20
 tags: [index, meta]
 sources: []
 ---
@@ -87,6 +87,7 @@ sources: []
 - [엔비디아 (NVIDIA)](entities/nvidia.md) — AI GPU 지배 팹리스, CUDA 해자
 - [브로드컴 (AVGO)](entities/broadcom.md) — 커스텀 ASIC 설계 1위(~70%), 네트워킹 곱셈 효과
 - [마벨 (MRVL)](entities/marvell.md) — 커스텀 ASIC 설계 2위(~20~25%), 인터커넥트·광 강점
+- [DeepSeek](entities/deepseek.md) — 중국 프런티어 LLM 개발사, V4 학습 칩(H800+Ascend) 논쟁의 중심
 
 ---
 
@@ -106,6 +107,7 @@ sources: []
 - [Ray Dalio All Weather Portfolio](topics/all-weather-portfolio.md) — 상관관계·Risk Parity·4분면 프레임 기반 전략 (2026-04)
 - [Ray Dalio - 세계대전과 Big Cycle 분석](topics/ray-dalio-world-war-big-cycle.md) — 세계대전 진입 경고, 13단계 중 9단계 (`confidence: medium`) (2026-04)
 - [폴리실리콘 — 태양광 vs 반도체 시장 분기](topics/polysilicon.md) — 같은 물질이 순도 요구치로 두 시장으로 갈라짐 (`domain: finance, ai`) (2026-06)
+- [중국 반도체 격차 — ASML EUV 의혹·SMIC/화웨이·DeepSeek V4 학습 칩](topics/china-chip-gap-deepseek-v4.md) — 추론은 화웨이로, 사전학습은 엔비디아 의존; 칩 격차 향후 2년 확대 (`domain: finance, ai`) (2026-06)
 
 ### Design
 - [디자인 프로세스 기초](topics/design-process-basics.md) — 4D 프로세스, 7단계 실무 흐름, AI 도구의 위치 (2026-04)

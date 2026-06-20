@@ -13,6 +13,32 @@ sources: []
 
 ---
 
+## 2026-06-20
+
+### [INGEST] 중국 반도체 격차 — ASML EUV 의혹·SMIC/화웨이·DeepSeek V4 학습 칩
+
+- **작업**: 미·중 AI 반도체 격차 연구 노트(Obsidian 형식)를 수집·정제하여 위키 통합
+- **원본 유형**: 개인 연구 노트 (Luke) — 2026-06 시점 뉴스 기반 분석 (status: research)
+- **생성된 파일**:
+  - `sources/asml-smic-deepseek-v4-chips.md` — 원본 노트 (불변 보존, frontmatter 정규화 외 내용 유지)
+  - `wiki/topics/china-chip-gap-deepseek-v4.md` — 정제 페이지 (`type: claim`, `domain: finance, ai`, `confidence: medium`)
+  - `wiki/entities/deepseek.md` — DeepSeek 엔티티 (`type: entity`, `domain: ai, finance`)
+- **업데이트된 파일**:
+  - `wiki/index.md` — Topics > Finance, Entities > 반도체 섹션에 링크 추가
+  - `wiki/domains/finance.md` — 반도체 가치사슬 클러스터에 미·중 격차 + DeepSeek 추가
+  - `wiki/domains/ai.md` — AI 하드웨어 섹션에 미·중 격차 + DeepSeek 추가
+- **주요 내용**:
+  1. **ASML EUV 밀반출** = 미확인 의혹 (증거 비공개). ASML: 314대 전량 소재 파악, 중국 0대. SwaySure 건은 별도 회색지대.
+  2. **제조가 진짜 병목**: Kirin 9030 = SMIC N+3(=7nm 확장, "5nm 아님" / TechInsights). EUV 부재 → DUV 다중패터닝, 7nm 수율 20~40%. vs TSMC 2nm 양산.
+  3. **화웨이 Ascend** = 물량 집적(parity by aggregation): 950PR(128GB)·950DT(144GB), CloudMatrix 384 ~300 PFLOPs BF16. 대가는 전력·와트당 성능 열위.
+  4. **DeepSeek V4 학습 칩**: 공식 비공개, 부인 성명은 H800+Ascend 910C 주장. 1,000개 Ascend 작업 = 사후학습. 사전학습은 엔비디아 의존 지속.
+  5. **격차 방향**: 단일칩 910C ~40%, 종합 TPP ~5배, 2027 H2 17배 전망, 물량 ~4%. CFR: 2026 950 로드맵 TPP가 910C보다 낮음 + 910B/C 다수 TSMC 불법 제조 의혹.
+- **인식론 처리**: TechInsights 노드 실측은 `[!fact]`, 격차 배수·로드맵·수율은 `[!claim]`(업계 추정 명시), EUV 의혹은 `[!claim]`(미확인), 추론≠학습 구분·병목 진단은 `[!judgment]`, 출처 신뢰도 주의는 `[!opinion]`로 구분
+- **핵심 프레임**: "추론(inference) ≠ 학습(training)" 경계를 모든 수치 해석의 1차 필터로 명시 — 가치사슬 종합 §3.3 GPU vs ASIC 이분화와 연결
+- **후속 추적 (Open threads)**: EUV 증거 공개 여부, SwaySure 실체, SMIC N+3 수율, Ascend 960 블랙웰급 패리티, V4 후속 사전학습 칩 공개
+
+---
+
 ## 2026-06-14
 
 ### [INGEST] AI 신약 개발 — 발굴은 압축, 임상은 불변

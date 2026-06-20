@@ -1,7 +1,7 @@
 ---
 title: "Finance Domain Index"
 created: 2026-05-02
-updated: 2026-06-14
+updated: 2026-06-20
 domain: finance
 type: index
 weight: foundational
@@ -56,9 +56,10 @@ sources: []
 
 AI 반도체 투자 판단을 위한 가치사슬 지도. 진입점은 위 [종합 페이지](../syntheses/semiconductor-ai-chip-value-chain.md).
 
-- **기업**: [TSMC](../entities/tsmc.md) · [엔비디아](../entities/nvidia.md) · [브로드컴](../entities/broadcom.md) · [마벨](../entities/marvell.md)
+- **기업**: [TSMC](../entities/tsmc.md) · [엔비디아](../entities/nvidia.md) · [브로드컴](../entities/broadcom.md) · [마벨](../entities/marvell.md) · [DeepSeek](../entities/deepseek.md)
 - **기술/개념**: [EUV 노광(ASML)](../concepts/euv-lithography.md) · [CoWoS](../concepts/cowos.md) · [HBM](../concepts/hbm.md) · [CUDA](../concepts/cuda.md) · [SerDes](../concepts/serdes.md)
 - **소재 시장**: [폴리실리콘 — 태양광 vs 반도체 분기](../topics/polysilicon.md)
+- **미·중 격차**: [중국 반도체 격차 — ASML EUV 의혹·SMIC/화웨이·DeepSeek V4 학습 칩](../topics/china-chip-gap-deepseek-v4.md) — 추론은 화웨이로, 사전학습은 엔비디아 의존 (2026-06)
 
 ---
 
