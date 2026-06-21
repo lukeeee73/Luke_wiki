@@ -1,7 +1,7 @@
 ---
 title: "HON - Honeywell International — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-21
 domain: finance
 type: claim
 weight: reference
@@ -28,19 +28,40 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: HON Aerospace 분사 이후 모기업 HON의 P/E 재평가(리레이팅)가 상방으로 진행될 것인가 (pending)
 - [ ] **2026-05-17**: Quantinuum IPO가 2026년 내 성공적으로 완료되어 HON 장부가치에 긍정적 영향을 줄 것인가 (pending)
-- [ ] **2026-05-17**: 이란 지정학 긴장이 HON 방산 제품 수요를 2분기에도 지속 견인할 것인가 (pending)
-
+- [ ] **2026-05-17**: 이란 지정학 긴장이 HON 방산 제품 수요를 2분기에도 지속 견인할 것인가 → aged-out (2026-06-21): 6월 美-이란 평화협정으로 긴장 완화 국면 전환
+- [x] **2026-05-17**: HON Aerospace 분사 이후 모기업 HON의 P/E 재평가(리레이팅)가 상방으로 진행될 것인가 → partially-verified (2026-06-21): 6/29 분사 확정, 리레이팅 본격 검증은 분사 후
 - [ ] **2026-06-07**: Honeywell Aerospace(HONA) 분사 후 독립 기업으로서의 주주가치 창출 여부 — 6/29 분사 후 검증
+- [ ] **2026-06-21**: 6/29 분사 직후 HONA·HON 합산 시가총액이 분사 전 HON 대비 상승할 것인가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
 
 > [!fact] (PR Newswire, 2026-06-01) Honeywell Aerospace 분사 기준일 6/15, 완료 6/29 확정. 주주 2주당 HONA 1주, 1:2 역분할 동시 실행.
+
+> [!fact] (출처: Honeywell IR + AIN, 2026-06-21) 이사회가 6/15 항공우주 분사를 최종 승인했고, HONA는 6/29 Nasdaq 정규거래를 개시한다.
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-21
+
+
+**narrative_score**: +0.21
+**key_events**: 항공우주 분사 6월 29일 확정, HONA Nasdaq 상장(2주당 1주), 잔존 자동화 사업은 Honeywell Technologies로
+**risks**: 분사 직후 가격 변동성, 분할 비용·실행 리스크, 자동화 부문 단독 밸류에이션 불확실
+
+> [!claim] (출처: Aviation International News, 2026-06-16) 허니웰 항공우주 6월 29일 분사 확정, HONA Nasdaq 상장
+> impact: + / category: m&a
+
+> [!claim] (출처: Honeywell IR, 2026-06-15) 이사회 분사 승인, HON 2주당 HONA 1주 배정
+> impact: + / category: m&a
+
+**경쟁사 동향**:
+- GE: GE에어로스페이스 수주잔고 $210B·엔진주문 +87% → 항공우주 사이클 강세, 분사될 허니웰 항공우주에 우호적 환경
+- RTX: RTX 방산 수주 강세 → 허니웰 항공우주(HONA) 방산 tier-1 공급사로서 수혜 가능
+
+---
 ### 2026-06-07
 
 

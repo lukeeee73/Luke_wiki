@@ -1,7 +1,7 @@
 ---
 title: "COST - Costco Wholesale — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-21
 domain: finance
 type: claim
 weight: reference
@@ -30,7 +30,7 @@ sources: []
 _(루틴 첫 실행 전 — 비어 있음)_
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-06-07**: COST 실적 서프라이즈에도 주가 하락 — 시장이 소비 둔화를 선반영하는가 (7일 검증 대기)
+- [ ] **2026-06-07**: COST 실적 서프라이즈에도 주가 하락 — 시장이 소비 둔화를 선반영하는가 (7일 검증 대기) → aged-out (2026-06-21)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -40,6 +40,7 @@ _(루틴 첫 실행 전 — 비어 있음)_
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (출처: GuruFocus, Motley Fool earnings transcript, 2026-06-21) Costco Q3 FY26 매출 $70.53B(+11.6% YoY), 동일점포 +9.8%, EPS $4.93, 회원비 수입 +10.7%($1.37B), 갱신율 약 90% — 회사 IR 및 복수 매체 확정.
 <!-- FACTS_END -->
 
 ---
@@ -47,6 +48,24 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-21
+
+
+**narrative_score**: +0.25
+**key_events**: Q3 FY26 매출 +11.6%, 동일점포 +9.8%, 회원비 수입 +10.7%, 갱신율 약 90%
+**risks**: 고밸류에이션, 가솔린 판매 마진 희석, 회원 증가 목표 미달
+
+> [!claim] (출처: GuruFocus, 2026-06-03) Q3 FY26 매출 $70.53B(+11.6% YoY), 동일점포 +9.8%, EPS $4.93
+> impact: + / category: earnings
+
+> [!claim] (출처: Motley Fool, 2026-05-28) 회원비 수입 +10.7%($1.37B), 글로벌 갱신율 약 90% 유지
+> impact: + / category: earnings
+
+**경쟁사 동향**:
+- WMT: 매장 내 식당 확대 등 트래픽 강화 → 대형 유통 경쟁 지속이나 COST 회원제 차별화 견고
+- TGT: Target FY26 매출/이익 동반 감소 → 할인소매 부진 대비 COST 모델 우위 부각
+
+---
 ### 2026-06-07
 
 

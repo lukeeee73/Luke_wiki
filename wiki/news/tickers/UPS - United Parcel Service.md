@@ -1,7 +1,7 @@
 ---
 title: "UPS - United Parcel Service — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-21
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ UPS(United Parcel Service)는 '갈색 트럭'으로 전 세계에 알려진 글�
 - [ ] **2026-05-17**: 아마존 물류 내재화로 인한 UPS 물량 감소가 2026년 전체 매출에서 유의미하게 드러날 것인가 (pending)
 
 - [ ] **2026-06-07**: UPS 아마존 물량 감축이 실제 마진 개선으로 이어지는가 — 분기 실적으로 검증
+- [ ] **2026-06-21**: 27개 시설 추가 폐쇄·$30억 비용절감이 볼륨 감소를 상쇄하고 하반기 마진을 회복시킬 것인가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
@@ -38,6 +39,23 @@ UPS(United Parcel Service)는 '갈색 트럭'으로 전 세계에 알려진 글�
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-21
+
+
+**narrative_score**: +0.02
+**key_events**: 소포시설 27개 추가 폐쇄, $30억 구조적 비용절감 목표 진행, 관세 환급 $5억 고객 반환 약속
+**risks**: 택배 볼륨 감소 지속, Q1 순이익 -27%, 아마존 물량 축소 영향
+
+> [!claim] (출처: FreightWaves, 2026-06-17) UPS, 2026년 소포시설 27개 추가 폐쇄 — $30억 비용절감 추진
+> impact: neutral / category: other
+
+> [!claim] (출처: Simply Wall St, 2026-06-15) UPS, 관세 환급 $5억 고객 반환 약속 — 주가 한달간 +10%
+> impact: + / category: other
+
+**경쟁사 동향**:
+- FDX: 페덱스 Q4 실적 6월 23일 발표 예정, 프레이트 분사 후 첫 분기 → 물류 수요·가격 동향, FDX 결과가 UPS 볼륨 추세 가늠자
+
+---
 ### 2026-06-07
 
 

@@ -1,7 +1,7 @@
 ---
 title: "EA - Electronic Arts Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-21
 domain: finance
 type: claim
 weight: reference
@@ -26,10 +26,9 @@ sources: []
 
 ## 미해결 가설 (Open Claims)
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: PIF·실버레이크·어피니티 컨소시엄의 $550억 인수가 규제 심사를 통과하여 완료될 것인가 (pending)
-- [ ] **2026-05-17**: EA Q1 CY2026 EPS 예상치 하회가 일회성인지, 비용 구조 문제인지 Q2에서 확인 필요 (pending)
-
-- [ ] **2026-06-07**: EA $550억 비공개 인수 CFIUS 승인 여부 — 안보 심사 결과 게임 섹터 최대 이슈 (결정 전까지 검증 대기)
+- [ ] **2026-05-17**: PIF·실버레이크·어피니티 컨소시엄의 $550억 인수가 규제 심사를 통과하여 완료될 것인가 (pending — 6/21 현재 CFIUS 미완, long-stop 6/30 임박, outside date 9/28)
+- [x] **2026-05-17**: EA Q1 CY2026 EPS 예상치 하회가 일회성인지, 비용 구조 문제인지 Q2에서 확인 필요 → verified (2026-06-21): FY26 순예약 사상 최대, Battlefield 6 흥행으로 일회성 우려 해소
+- [ ] **2026-06-07**: EA $550억 비공개 인수 CFIUS 승인 여부 — 안보 심사 결과 게임 섹터 최대 이슈 (결정 전까지 검증 대기; 6/21 현재 미해결)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
@@ -38,6 +37,24 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-21
+
+
+**narrative_score**: +0.07
+**key_events**: $55B 비공개 전환 CFIUS 관문 잔류(주가 $210 대비 $9 할인), FY26 순예약 사상 최대, Battlefield 6 2025 최대 흥행 슈터
+**risks**: CFIUS 심사 지연·불발 위험(PIF 외국정부), 딜 무산 시 주가 급락, 신작 경쟁(GTA 6)
+
+> [!claim] (출처: TIKR, 2026-06-18) $55B 비공개 전환 진행 — CFIUS가 마지막 관문, 주가 $210 매수가 대비 $9 할인
+> impact: neutral / category: m&a
+
+> [!claim] (출처: EA IR(SEC 8-K), 2026-05-05) FY26 순예약 사상 최대 — Battlefield 6 흥행·라이브서비스 성장 견인
+> impact: + / category: earnings
+
+**경쟁사 동향**:
+- TTWO: GTA 6 예약판매 6/25·11/19 출시 확정 → GTA 6가 2026 게임 지출 흡수, EA 신작 경쟁 부담
+- MSFT: Xbox 콘텐츠·구독 지속 → EA는 인수 종료까지 딜 스프레드가 주가 주도
+
+---
 ### 2026-06-07
 
 

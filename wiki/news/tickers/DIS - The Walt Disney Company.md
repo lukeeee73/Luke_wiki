@@ -1,7 +1,7 @@
 ---
 title: "DIS - The Walt Disney Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-21
 domain: finance
 type: claim
 weight: reference
@@ -27,7 +27,8 @@ sources: []
 ## 미해결 가설 (Open Claims)
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: 디즈니+ 두 자릿수 스트리밍 마진이 FY2027에도 유지·확대될 것인가 (pending)
-- [ ] **2026-05-17**: 국내 테마파크 방문객 -1%가 소비자 지출 둔화의 선행 신호인가, 일시적 현상인가 (pending)
+- [ ] **2026-05-17**: 국내 테마파크 방문객 -1%가 소비자 지출 둔화의 선행 신호인가, 일시적 현상인가 → aged-out (2026-06-21): 7일 초과, 신규 파크 데이터 부재
+- [ ] **2026-06-21**: ESPN 스트리밍 출범과 텐트폴 콘텐츠(Avatar)가 2026 반등 시나리오를 실현시킬 것인가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
@@ -38,6 +39,24 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-21
+
+
+**narrative_score**: +0.03
+**key_events**: Avatar: Fire and Ash Disney+ 공개, ESPN 스트리밍 출범 기대, 테마파크 회복 시나리오
+**risks**: NFLX 스트리밍 지배력, 테마파크 수요 매크로 민감, 스트리밍 흑자 전환 지속성
+
+> [!claim] (출처: Disney+ Press, 2026-06-19) Avatar: Fire and Ash 6월 Disney+ 공개 — 텐트폴 콘텐츠로 가입자 유인
+> impact: + / category: product
+
+> [!claim] (출처: AInvest, 2026-06-17) ESPN 스트리밍·테마파크 회복이 2026 반등 핵심 — 전략 전환 주시
+> impact: neutral / category: other
+
+**경쟁사 동향**:
+- NFLX: 광고형 250M+·광고매출 $30억 경로 → 스트리밍·광고 지배력, DIS 수익성 개선에도 점유 압박
+- CMCSA: 브로드밴드 손실 속 파크·무선 의존 → 테마파크 경쟁 지속, DIS 파크 회복이 반등 변수
+
+---
 ### 2026-06-07
 
 

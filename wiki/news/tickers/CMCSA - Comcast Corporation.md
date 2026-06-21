@@ -1,7 +1,7 @@
 ---
 title: "CMCSA - Comcast Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-21
 domain: finance
 type: claim
 weight: reference
@@ -27,7 +27,8 @@ sources: []
 ## 미해결 가설 (Open Claims)
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: 피콕(Peacock)이 Q2 2026에 CFO 전망대로 손익분기점에 근접할 것인가 (pending)
-- [ ] **2026-05-17**: 로쿠 채널 통한 피콕 판매 채널 확대가 가입자 성장을 의미 있게 가속화할 것인가 (pending)
+- [ ] **2026-05-17**: 로쿠 채널 통한 피콕 판매 채널 확대가 가입자 성장을 의미 있게 가속화할 것인가 → aged-out (2026-06-21): 7일 초과 미해결, 가시적 데이터 부재
+- [ ] **2026-06-21**: 당일 WiFi 장비 배송 등 CX 개선이 브로드밴드 순감(Q1 -6.5만) 추세를 반전시킬 것인가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
@@ -36,6 +37,24 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-21
+
+
+**narrative_score**: -0.10
+**key_events**: 당일 WiFi 장비 배송 도입, Xfinity 브로드밴드 Q1 -6.5만, 2025년 브로드밴드 -71.1만
+**risks**: 브로드밴드 경쟁 심화·가입자 이탈, 파이버/통신사 저가 번들, 주가 1년 약 30% 하락
+
+> [!claim] (출처: Yahoo Finance, 2026-06-16) 당일 WiFi 장비 배송 도입 — 브로드밴드 가입자 이탈 방어 시도
+> impact: + / category: product
+
+> [!claim] (출처: CNBC, 2026-04-23) Xfinity 브로드밴드 6.5만 순감 — 경쟁 심화로 핵심사업 압박 지속
+> impact: - / category: earnings
+
+**경쟁사 동향**:
+- CHTR: 약 $70억 파이버 확장(1.7M 지역) → 케이블 동종업체 공세, CMCSA 브로드밴드 점유 추가 압박
+- T: 파이버 번들 월 $35 → 통신사 저가 번들이 케이블 인터넷 이탈 가속
+
+---
 ### 2026-06-07
 
 

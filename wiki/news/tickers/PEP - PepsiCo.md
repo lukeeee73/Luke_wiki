@@ -1,7 +1,7 @@
 ---
 title: "PEP - PepsiCo, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-21
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 _(루틴 첫 실행 전 — 비어 있음)_
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-21**: 6월 말 스낵 가격 인상이 마진 방어에 성공하는가 vs 볼륨 추가 감소를 유발하는가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,26 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-21
+
+
+**narrative_score**: -0.21
+**key_events**: 도이체방크 등 연속 목표가 하향, 6/17 주가 -3.08%, 6월 말 스낵 가격 인상 계획
+**risks**: 소비자 가격 저항·볼륨 감소, 입력비용 상승, 금리 상승에 따른 밸류 재평가
+
+> [!claim] (출처: CNBC, 2026-06-18) 도이체방크 PEP 목표가 173→168달러 하향 (다수 IB 연속 하향)
+> impact: - / category: other
+
+> [!claim] (출처: TradingKey, 2026-06-17) 약한 미국 소매 트렌드로 6/17 주가 -3.08%
+> impact: - / category: macro
+
+> [!claim] (출처: TIKR, 2026-06-16) 비용 상쇄 위해 6월 말 스낵 포트폴리오 가격 인상 추진 — 볼륨 추가 압박 위험
+> impact: neutral / category: product
+
+**경쟁사 동향**:
+- KO: 코카콜라 다수 목표가 상향, 월드컵 볼륨 기대 → KO 강세 대비 PEP 음료 부문 상대 열위 부각
+
+---
 ### 2026-06-07
 
 

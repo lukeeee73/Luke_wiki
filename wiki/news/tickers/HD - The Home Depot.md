@@ -1,7 +1,7 @@
 ---
 title: "HD - The Home Depot, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-21
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 _(루틴 첫 실행 전 — 비어 있음)_
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-21**: Q1 초기 안정화와 프로 고객(SRS) 확장이 홈임프루브먼트 수요 바닥 다지기를 확정하는가 (7일+ 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,23 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-21
+
+
+**narrative_score**: +0.07
+**key_events**: Q1 FY26 초기 안정화·동일점포 0~2% 가이던스 재확인, SRS 통한 프로 고객 확장 가속
+**risks**: 고금리·주택거래 위축, 대형 리모델링 지연, 관세에 따른 자재비 상승
+
+> [!claim] (출처: Yahoo Finance, 2026-06-09) Q1 FY26 초기 안정화 — 9개 부문 플러스 동일점포, 0~2% 가이던스 재확인
+> impact: + / category: earnings
+
+> [!claim] (출처: Simply Wall St, 2026-06-12) SRS Distribution 인수 등 프로 고객·전문 트레이드 확장 가속
+> impact: + / category: other
+
+**경쟁사 동향**:
+- LOW: Lowe's 주택 수요 둔화에도 안정적 실적 유지 예상(EPS ~$2.97) → 홈임프루브먼트 수요 바닥 다지기 — HD에도 동일 업황 신호
+
+---
 ### 2026-06-07
 
 

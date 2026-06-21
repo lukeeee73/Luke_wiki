@@ -1,7 +1,7 @@
 ---
 title: "PG - Procter & Gamble Co — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-21
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 _(루틴 첫 실행 전 — 비어 있음)_
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-21**: 신규 IB 중립 커버리지(골드만·번스타인)가 PG 밸류에이션 고평가 논쟁으로 굳어지는가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,23 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-21
+
+
+**narrative_score**: +0.08
+**key_events**: 골드만·번스타인 중립 커버리지 개시, Native·Secret 신제품 라인업 확대
+**risks**: 밸류에이션 고평가 논쟁, 원자재·관세 비용, 수요 둔화
+
+> [!claim] (출처: Yahoo Finance, 2026-06-14) 골드만삭스 PG 중립(Hold) 커버리지 개시 (번스타인도 6/11 Market Perform 개시)
+> impact: neutral / category: other
+
+> [!claim] (출처: StocksToTrade, 2026-06-11) Native·Secret 등 프리미엄 브랜드 신제품 확대로 성장 스토리 유지
+> impact: neutral / category: product
+
+**경쟁사 동향**:
+- CL: 콜게이트 등 생활용품 동종업체 가격 전가 경쟁 → 프리미엄 브랜드 차별화로 PG 가격 전가력 상대 우위
+
+---
 ### 2026-06-07
 
 

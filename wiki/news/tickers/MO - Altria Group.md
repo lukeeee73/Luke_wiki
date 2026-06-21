@@ -1,7 +1,7 @@
 ---
 title: "MO - Altria Group, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-21
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 _(루틴 첫 실행 전 — 비어 있음)_
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-21**: 신임 CEO 만쿠소 체제가 무연 제품 경쟁 열위를 해소할 전략 변화를 가져오는가 (7일+ 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,23 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-21
+
+
+**narrative_score**: -0.02
+**key_events**: 신임 CEO 만쿠소·CFO 뉴먼 선임, 분기 배당 1.06달러(56년 연속 증액)
+**risks**: 담배 규제 강화, 연소형 담배 물량 감소, 무연 제품 경쟁 열위
+
+> [!claim] (출처: StockTitan, 2026-06-15) 2026 주총서 Salvatore Mancuso CEO·Heather Newman CFO 선임, Gifford 은퇴
+> impact: neutral / category: other
+
+> [!claim] (출처: StockTitan, 2026-06-15) 분기 배당 1.06달러 선언 — 56년 연속 증액(배당왕) 유지
+> impact: + / category: other
+
+**경쟁사 동향**:
+- PM: 필립모리스 무연 제품 성장 지속 → 차세대 제품 경쟁에서 MO 상대 열위 지속 우려
+
+---
 ### 2026-06-07
 
 

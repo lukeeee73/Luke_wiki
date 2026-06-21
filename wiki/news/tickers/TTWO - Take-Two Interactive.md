@@ -1,7 +1,7 @@
 ---
 title: "TTWO - Take-Two Interactive — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-21
 domain: finance
 type: claim
 weight: reference
@@ -26,19 +26,40 @@ GTA(Grand Theft Auto) 시리즈, NBA 2K, 보더랜드 등 유명 게임 시리�
 
 ## 미해결 가설 (Open Claims)
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: GTA VI 트레일러가 2026-05-18에 실제로 공개될 것인가 (pending)
-- [ ] **2026-05-17**: GTA VI가 2026년 말 출시 창을 확정하고, Q4 FY26 실적 발표에서 공식 일정을 발표할 것인가 (pending)
-- [ ] **2026-05-17**: GTA VI 사전예약 캠페인이 5/18~21 창에 실제로 시작될 것인가 (pending)
+- [x] **2026-05-17**: GTA VI 트레일러가 2026-05-18에 실제로 공개될 것인가 → aged-out (2026-06-21): 별도 확인 불가, 다만 6/18 커버아트 공개로 마케팅 본격화 확인
+- [x] **2026-05-17**: GTA VI가 2026년 말 출시 창을 확정하고, Q4 FY26 실적 발표에서 공식 일정을 발표할 것인가 → verified (2026-06-21): 11/19 출시일 확정 재확인, CEO 최종 일정 확인
+- [x] **2026-05-17**: GTA VI 사전예약 캠페인이 5/18~21 창에 실제로 시작될 것인가 → refuted/updated (2026-06-21): 예약판매는 6/25 시작으로 확정(5월 창보다 지연)
+- [ ] **2026-06-21**: GTA 6 첫해 4천만장 판매 전망이 11/19 출시 후 실현될 것인가 (장기 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
 
 > [!fact] (Take-Two IR, 2026-05-16) GTA VI 2026년 11월 19일 PS5·Xbox Series X|S 출시 확정. Q4 FY26 넷북킹 $15.8억 확인.
+
+> [!fact] (GameSpot + Variety, 2026-06-21) GTA 6 예약판매 6/25 시작, 6/18 커버아트 공개, 11/19 출시일 CEO 최종 재확인.
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-21
+
+
+**narrative_score**: +0.24
+**key_events**: GTA 6 예약판매 6/25 시작·커버아트 공개, 11/19 출시일 확정 재확인, 여름 마케팅 본격화
+**risks**: 추가 출시 지연 가능성, GTA 6 가격 미공개, 출시 후 판매 기대치 부담
+
+> [!claim] (출처: GameSpot, 2026-06-18) GTA 6 6/25 예약판매·커버아트 공개 — 주가 약 5% 급등, 지연 우려 해소
+> impact: + / category: product
+
+> [!claim] (출처: Variety, 2026-06-18) CEO, GTA 6 11/19 출시일 확정 재확인 — 여름 마케팅 본격 개시
+> impact: + / category: product
+
+**경쟁사 동향**:
+- EA: $55B 비공개 전환·Battlefield 6 흥행 → 게임 지출 경쟁하나 GTA 6 모멘텀이 TTWO 우위
+- MSFT: Xbox 구독·콘텐츠 지속 → GTA 6 멀티플랫폼 출시로 TTWO 협상력 강화
+
+---
 ### 2026-06-07
 
 

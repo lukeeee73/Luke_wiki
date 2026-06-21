@@ -1,7 +1,7 @@
 ---
 title: "VZ - Verizon Communications — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-21
 domain: finance
 type: claim
 weight: reference
@@ -29,7 +29,8 @@ sources: []
 - [ ] **2026-05-17**: VZ의 후불폰 순증 전환이 Q2 2026에도 유지될 것인가 (pending)
 - [ ] **2026-05-17**: VZ 조정 EPS 5~6% 성장 가이던스가 T-Mobile 경쟁 심화 속 달성 가능한가 (pending)
 
-- [ ] **2026-06-07**: 대법원 FCC 판결이 통신 섹터 장기 규제 강화로 이어지는가 vs 일회성 이벤트인가 (7일 검증 대기)
+- [x] **2026-06-07**: 대법원 FCC 판결이 통신 섹터 장기 규제 강화로 이어지는가 vs 일회성 이벤트인가 → verified (2026-06-21): TMUS $80M 벌금 확정 등 FCC 집행권 실질화 — 일회성 아닌 지속 규제 신호
+- [ ] **2026-06-21**: VZ 활성화·업그레이드 수수료 폐지가 Q2 후불 순증·churn 방어로 실제 연결될 것인가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
@@ -38,6 +39,24 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-21
+
+
+**narrative_score**: +0.08
+**key_events**: 활성화·업그레이드 수수료 폐지(고객 우선), 12.95억달러 채권 조기상환, Q1 후불폰 순증 13년만 흑자 모멘텀
+**risks**: LEO 위성 경쟁 위협, 업계 가입자 성장 둔화, 높은 부채 부담
+
+> [!claim] (출처: Verizon IR, 2026-06-18) 활성화·업그레이드 수수료 폐지 — churn 방어 위한 고객 우선 전략
+> impact: + / category: product
+
+> [!claim] (출처: Verizon IR, 2026-06-16) 4.329% 2028년 만기 채권 12.95억달러 조기상환 — 부채 관리 진행
+> impact: neutral / category: other
+
+**경쟁사 동향**:
+- T: 오펜하이머가 LEO 위성 위협·파이버 침투율 우려로 강등 → 위성 경쟁은 VZ에도 동일 리스크, 다만 VZ 무선 순증 회복세는 차별점
+- TMUS: 후불 순증 2026 ~2.5M로 둔화 → 업계 성장 둔화 국면서 VZ 수수료 폐지 공세가 점유 방어에 유리
+
+---
 ### 2026-06-07
 
 

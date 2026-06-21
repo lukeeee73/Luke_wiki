@@ -1,7 +1,7 @@
 ---
 title: "T - AT&T Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-21
 domain: finance
 type: claim
 weight: reference
@@ -26,8 +26,9 @@ AT&T는 미국 2위 통신사로, 과거 워너미디어(HBO, CNN 등 미디어 
 
 ## 미해결 가설 (Open Claims)
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: 루멘 광케이블 인수가 AT&T 광케이블 가입자 성장을 연내 가시적으로 가속화할 것인가 (pending)
-- [ ] **2026-05-17**: T-Mobile FWA+스타링크 서비스가 AT&T 광케이블 가입자 성장에 구조적 위협이 될 것인가 (pending)
+- [ ] **2026-05-17**: 루멘 광케이블 인수가 AT&T 광케이블 가입자 성장을 연내 가시적으로 가속화할 것인가 → aged-out (2026-06-21): 7일 초과 미해결, Opensignal 성능 우위는 확인되나 가입자 가속 데이터 부재
+- [x] **2026-05-17**: T-Mobile FWA+스타링크 서비스가 AT&T 광케이블 가입자 성장에 구조적 위협이 될 것인가 → verified (2026-06-21): 오펜하이머가 LEO 위성 구조적 위협으로 T 강등, 파이버 침투율 ~50M 정체 전망
+- [ ] **2026-06-21**: 오펜하이머가 경고한 파이버 침투율 미달(60M→50M 정체) 시나리오가 실적에 반영될 것인가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
@@ -36,6 +37,27 @@ AT&T는 미국 2위 통신사로, 과거 워너미디어(HBO, CNN 등 미디어 
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-21
+
+
+**narrative_score**: +0.01
+**key_events**: 오펜하이머 강등(위성·파이버 우려), 파이버 요금제 단순화 $35 번들, Opensignal 107개 수상
+**risks**: LEO 위성 구조적 위협, 파이버 빌드아웃 비용·침투율 미달, CFO 교체 비용 논쟁, 높은 부채
+
+> [!claim] (출처: Yahoo Finance, 2026-06-17) 오펜하이머 Outperform→Perform 강등 — 위성 LEO 위협·파이버 침투율 우려
+> impact: - / category: other
+
+> [!claim] (출처: PR Newswire, 2026-06-07) 파이버 4종 단순화, 무선 번들 시 월 $35부터 — 연 최대 $420 절감
+> impact: + / category: product
+
+> [!claim] (출처: StockTitan, 2026-06-12) Opensignal 가정용 인터넷 성능 107개 부문 수상 — 2위 경쟁사 대비 2배
+> impact: + / category: product
+
+**경쟁사 동향**:
+- VZ: 활성화·업그레이드 수수료 폐지 → VZ 가격 공세가 T 번들 가격 경쟁과 직접 충돌
+- TMUS: 대법원 FCC 권한 인정·$80M 벌금 확정 → 통신 3사 공통 규제 리스크, 비용 증가 가능
+
+---
 ### 2026-06-07
 
 

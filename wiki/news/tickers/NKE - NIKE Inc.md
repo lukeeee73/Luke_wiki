@@ -1,7 +1,7 @@
 ---
 title: "NKE - NIKE, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-21
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ _(루틴 첫 실행 전 — 비어 있음)_
 
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-06-07**: 나이키 월드컵 전략이 분기 매출 회복의 실질 촉매가 될 수 있는가 — 6/30 실적으로 검증 (30일 대기)
+- [ ] **2026-06-21**: 6/30 Q4 실적에서 중국 매출 감소세가 안정화/바닥 신호를 보이는가 (6/30 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -47,6 +48,24 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-21
+
+
+**narrative_score**: -0.16
+**key_events**: 6/30 Q4 FY26 실적 발표 예정, UBS 목표가 54→50달러 하향(중립)
+**risks**: 중국 매출 회복 지연, 재고·할인 압박, 룰루레몬·아디다스 경쟁
+
+> [!claim] (출처: MarketBeat, 2026-06-18) 6/30 Q4 FY26 실적 발표 예정 — 애널리스트는 중국 둔화 안정화 신호 주목
+> impact: neutral / category: earnings
+
+> [!claim] (출처: TipRanks, 2026-06-16) UBS 목표가 54→50달러 하향, 중립 유지 (씨티도 하향)
+> impact: - / category: other
+
+**경쟁사 동향**:
+- LULU: Lululemon 애슬레저 점유율 확대 지속 → 프리미엄 운동복 경쟁 심화, NKE 핵심 고객층 잠식 우려
+- ADDYY: 아디다스 월드컵 마케팅 공세 강화 → 월드컵 차별화 부담 가중, NKE 마케팅 비용 증가
+
+---
 ### 2026-06-07
 
 

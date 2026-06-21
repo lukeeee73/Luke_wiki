@@ -1,7 +1,7 @@
 ---
 title: "NFLX - Netflix, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-21
 domain: finance
 type: claim
 weight: reference
@@ -26,8 +26,9 @@ sources: []
 
 ## 미해결 가설 (Open Claims)
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: 넷플릭스 2026년 광고 매출이 TD Cowen 전망대로 $30억에 도달할 것인가 (pending)
-- [ ] **2026-05-17**: NFL 5경기 중계 확대가 광고형 멤버십 가입자 추가 유입의 실질적 촉매가 될 것인가 (pending)
+- [x] **2026-05-17**: 넷플릭스 2026년 광고 매출이 TD Cowen 전망대로 $30억에 도달할 것인가 → verified (2026-06-21): 광고형 월 2.5억+ 시청자, 2026 광고매출 $30억(2배) 경로 재확인
+- [ ] **2026-05-17**: NFL 5경기 중계 확대가 광고형 멤버십 가입자 추가 유입의 실질적 촉매가 될 것인가 → aged-out (2026-06-21): 7일 초과, 가입자 직접 기여 데이터 부재(넷플릭스 분기 가입자 미공개)
+- [ ] **2026-06-21**: Citizens가 지적한 '2027 매출에 가격인상 선반영' 우려가 주가 상단을 제한할 것인가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
@@ -38,6 +39,27 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-21
+
+
+**narrative_score**: +0.20
+**key_events**: 광고형 월 2.5억+ 시청자, 2026 광고매출 $30억(2배) 경로, 광고형 2027년 15개국 확대
+**risks**: 밸류에이션에 가격인상 선반영 우려, 콘텐츠 비용 증가, 경쟁사 스트리밍 수익성 개선
+
+> [!claim] (출처: Yahoo Finance, 2026-06-19) 광고형 월 2.5억+ 시청자, 2026 광고매출 $30억(2배) 경로 — 수익화 가속
+> impact: + / category: earnings
+
+> [!claim] (출처: Insider Monkey, 2026-06-18) Citizens, 2027 매출에 가격인상 선반영 우려 — 밸류에이션 부담 지적
+> impact: - / category: other
+
+> [!claim] (출처: GuruFocus, 2026-06-17) 광고형 요금제 2027년 15개국 추가 확대 — 글로벌 수익화 TAM 확장
+> impact: + / category: product
+
+**경쟁사 동향**:
+- DIS: Avatar: Fire and Ash Disney+ 공개·ESPN 스트리밍 강화 → 콘텐츠 경쟁 심화하나 NFLX 우위 유지
+- SPOT: 프리미엄 전용 비디오 진출 → 영상 콘텐츠 경쟁 확대, 시청시간 잠재 경쟁
+
+---
 ### 2026-06-07
 
 

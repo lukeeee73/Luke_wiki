@@ -1,7 +1,7 @@
 ---
 title: "TMUS - T-Mobile US, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-21
 domain: finance
 type: claim
 weight: reference
@@ -27,17 +27,41 @@ T-Mobile은 미국 3위 통신사에서 출발했으나 2020년 스프린트(Spr
 ## 미해결 가설 (Open Claims)
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: SuperBroadband(5G+스타링크) 기업 인터넷 서비스가 연내 의미 있는 가입자 및 매출 기여를 달성할 것인가 (pending)
-- [ ] **2026-05-17**: Q1 마진 압박이 일시적인지, 구조적 비용 증가인지 Q2 결과로 판별 필요 (pending)
+- [ ] **2026-05-17**: Q1 마진 압박이 일시적인지, 구조적 비용 증가인지 Q2 결과로 판별 필요 → aged-out (2026-06-21): 7일 초과 미해결, Q2 실적 발표 전까지 판별 불가
+- [ ] **2026-06-21**: 후불폰 순증 둔화(2026 ~2.5M)와 churn 소폭 상승이 점유율 정체로 굳어질 것인가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
 
 > [!fact] (BusinessWire, 2026-06-01) Charter·Comcast와 T-Mobile 비즈니스 MVNO 독점 계약 체결 확인.
+
+> [!fact] (대법원 판결 + Yahoo Finance, 2026-06-21) 대법원이 FCC 벌금 부과권한 인정 — 위치정보 보호 미흡으로 T-Mobile $80M 벌금 확정.
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-21
+
+
+**narrative_score**: +0.01
+**key_events**: 대법원 FCC $80M 벌금 확정, Dynamic CX AI 망 최적화 출시, 분기배당 $1.02 선언
+**risks**: FCC 위치정보 규제·벌금, 후불폰 순증 둔화·churn 소폭 상승, 업계 가격 경쟁 심화
+
+> [!claim] (출처: Yahoo Finance, 2026-06-04) 대법원 FCC 벌금권한 인정 — 위치정보 보호 미흡으로 $80M 벌금 확정
+> impact: - / category: regulation
+
+> [!claim] (출처: T-Mobile Newsroom, 2026-06-15) Dynamic CX 출시 — AI 실시간 망 최적화로 수요변동 자동 대응
+> impact: + / category: product
+
+> [!claim] (출처: Yahoo Finance, 2026-06-10) 분기배당 $1.02(수익률 2.2%) 선언 — 9월 지급, 주주환원 지속
+> impact: neutral / category: other
+
+**경쟁사 동향**:
+- VZ: 활성화·업그레이드 수수료 폐지 → 후불 순증 둔화 국면서 churn 압박
+- T: 오펜하이머가 LEO 위성 위협으로 강등 → 위성 위협은 TMUS Starlink direct-to-cell 제휴로 일부 상쇄 가능
+
+---
 ### 2026-06-07
 
 

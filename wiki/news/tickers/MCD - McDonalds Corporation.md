@@ -1,7 +1,7 @@
 ---
 title: "MCD - McDonald's Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-21
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 _(루틴 첫 실행 전 — 비어 있음)_
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-21**: 월드컵 신메뉴·노스탤지어 마케팅이 2분기 동일점포 성장 가속의 실질 촉매가 되는가 (7일+ 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,23 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-21
+
+
+**narrative_score**: +0.13
+**key_events**: 6/22 프라이드 애플파이 재출시, 월드컵 신메뉴로 75억달러 소비 시장 공략
+**risks**: 저소득층 소비 둔화, 가격 인상 피로, QSR 가치경쟁 심화
+
+> [!claim] (출처: Yahoo Finance, 2026-06-19) 6/22 프라이드 애플파이 재출시 — 노스탤지어로 참여 유도
+> impact: + / category: product
+
+> [!claim] (출처: Yahoo Finance, 2026-06-18) 월드컵 신메뉴로 예상 75억달러 소비 시장 점유 공략
+> impact: + / category: product
+
+**경쟁사 동향**:
+- SBUX: 스타벅스 미국 동일점포 +7.1% 턴어라운드 가속 → 외식 트래픽 회복세, MCD 가치 전략에도 우호적
+
+---
 ### 2026-06-07
 
 

@@ -1,7 +1,7 @@
 ---
 title: "KO - The Coca-Cola Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-21
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 _(루틴 첫 실행 전 — 비어 있음)_
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-21**: 여름 월드컵이 KO 음료 볼륨의 실질 촉매가 되는가 — 2분기 실적으로 검증 (7일+ 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,23 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-21
+
+
+**narrative_score**: +0.17
+**key_events**: 씨티 등 목표가 89~91달러로 상향, 인도 힌두스탄 코카콜라 2027 IPO 검토
+**risks**: 고밸류에이션(P/E ~24.8), 원자재 비용, 신흥국 환율
+
+> [!claim] (출처: StocksToTrade, 2026-06-05) 씨티 목표가 91달러로 상향 — 여름 월드컵을 볼륨 촉매로 지목, 다수 IB가 89~91달러로 상향
+> impact: + / category: other
+
+> [!claim] (출처: StocksToTrade, 2026-06-05) 인도 보틀러 힌두스탄 코카콜라 2027 상장 검토 — 인도 보틀링 리프랜차이즈 마무리 단계
+> impact: + / category: m&a
+
+**경쟁사 동향**:
+- PEP: 펩시코 다수 애널리스트 목표가 하향, 6/17 -3.08% → 음료 수요 둔화 우려 속 KO 상대 강세 — 가격 전가력 우위
+
+---
 ### 2026-06-07
 
 

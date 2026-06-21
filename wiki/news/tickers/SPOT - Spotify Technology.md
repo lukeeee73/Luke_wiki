@@ -1,7 +1,7 @@
 ---
 title: "SPOT - Spotify Technology S.A — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-21
 domain: finance
 type: claim
 weight: reference
@@ -27,7 +27,8 @@ sources: []
 ## 미해결 가설 (Open Claims)
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: Q2 2026 가이던스가 보수적이었는지, 실제 실적으로 확인 필요 (pending)
-- [ ] **2026-05-17**: 미국 가격 인상 3회 이후 프리미엄 구독자 성장 둔화 여부 Q2 결과로 검증 (pending)
+- [ ] **2026-05-17**: 미국 가격 인상 3회 이후 프리미엄 구독자 성장 둔화 여부 Q2 결과로 검증 → aged-out (2026-06-21): 7일 초과, Q1 프리미엄 2.93억 가이던스 부합했으나 가격인상 효과는 Q2 검증 필요
+- [ ] **2026-06-21**: 프리미엄 전용 뮤직비디오 등 영상 진출이 ARPU·체류시간 개선으로 실제 연결될 것인가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
@@ -36,6 +37,24 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-21
+
+
+**narrative_score**: +0.16
+**key_events**: 프리미엄 전용 뮤직비디오 출시(미국·캐나다), 미국 가격 $12.99 인상(4년내 3번째), 프리미엄 2.93억·MAU 7.51억
+**risks**: 반복 가격인상 시 churn, 영상 콘텐츠 투자 비용, Apple/NFLX 콘텐츠 경쟁
+
+> [!claim] (출처: Simply Wall St, 2026-06-18) 미국·캐나다 프리미엄 전용 뮤직비디오 출시 — 영상으로 콘텐츠 확장
+> impact: + / category: product
+
+> [!claim] (출처: Spotify IR(SEC 6-K), 2026-04-29) Q1 프리미엄 2.93억·MAU 7.51억, 미국 개인요금 $12.99로 인상
+> impact: + / category: earnings
+
+**경쟁사 동향**:
+- NFLX: 팟캐스트 영상·광고형 250M+ → 영상·팟캐스트 영역 중첩, 콘텐츠 경쟁
+- AAPL: Apple Music 번들 생태계 지속 → 번들 경쟁하나 SPOT 가격인상이 가격결정력 입증
+
+---
 ### 2026-06-07
 
 

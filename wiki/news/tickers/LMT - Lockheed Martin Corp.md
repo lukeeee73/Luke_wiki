@@ -1,7 +1,7 @@
 ---
 title: "LMT - Lockheed Martin Corp. — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-21
 domain: finance
 type: claim
 weight: reference
@@ -26,9 +26,11 @@ sources: []
 
 ## 미해결 가설 (Open Claims)
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: FMS 승인 주기 장기화가 2026년 매출 성장률을 1~2%p 실질 감소시킬 것인가 (pending)
-- [ ] **2026-05-17**: Nokia 5G 협력이 LMT 통신 방산 시스템에 의미 있는 매출로 이어질 것인가 (pending)
-- [ ] **2026-05-17**: NATO 동맹국 방산비 20% 증가가 F-35 추가 발주로 구체화될 것인가 (pending)
+- [ ] **2026-05-17**: FMS 승인 주기 장기화가 2026년 매출 성장률을 1~2%p 실질 감소시킬 것인가 → aged-out (2026-06-21)
+- [ ] **2026-05-17**: Nokia 5G 협력이 LMT 통신 방산 시스템에 의미 있는 매출로 이어질 것인가 → aged-out (2026-06-21)
+- [ ] **2026-05-17**: NATO 동맹국 방산비 20% 증가가 F-35 추가 발주로 구체화될 것인가 → aged-out (2026-06-21)
+- [ ] **2026-06-21**: 美-이란 평화협정發 섹터 셀오프가 LMT를 $500 지지선 아래로 끌어내릴 것인가 (7일 검증 대기)
+- [ ] **2026-06-21**: GM디펜스 MOU가 12개월 내 구체적 공동 생산 프로그램으로 전환될 것인가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
@@ -37,6 +39,27 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-21
+
+
+**narrative_score**: +0.18
+**key_events**: 2주간 100억 달러 신규 수주(PAC-3 48억·F-35 8.8억·MH-60R 15억), GM디펜스 MOU, 헌츠빌 차세대요격기 미사일조립동 개소
+**risks**: 美-이란 평화협정發 방산 섹터 디스카운트, F-35 일정·예산 변동, 주가 $500 지지선 위협
+
+> [!claim] (출처: Lockheed Martin IR, 2026-06-16) 록히드-GM디펜스, 美 방산 제조기반 강화 MOU 체결
+> impact: + / category: m&a
+
+> [!claim] (출처: Money Morning, 2026-06-09) 2주간 100억 달러 신규 수주(PAC-3 48억·F-35 8.8억·MH-60R 15억)
+> impact: + / category: earnings
+
+> [!claim] (출처: FXLeaders, 2026-06-18) 美-이란 평화협정에 방산 셀오프, LMT $500 지지선 위협
+> impact: - / category: macro
+
+**경쟁사 동향**:
+- RTX: SPY-6 레이더 $515M·로드아일랜드 $100M 투자 → 미사일방어 수요 강세 공유, 다만 양사 모두 평화협정發 섹터 약세 노출
+- NOC: 평화협정에 -6% 하락 → 이란 디에스컬레이션이 방산 전반 단기 역풍
+
+---
 ### 2026-06-07
 
 

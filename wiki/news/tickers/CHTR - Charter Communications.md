@@ -1,7 +1,7 @@
 ---
 title: "CHTR - Charter Communications — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-21
 domain: finance
 type: claim
 weight: reference
@@ -27,7 +27,8 @@ sources: []
 ## 미해결 가설 (Open Claims)
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-17**: Spectrum Mobile 2회선 서비스($10/월)가 ARPU 개선 및 고객 이탈 방지에 기여할 것인가 (pending)
-- [ ] **2026-05-17**: AT&T 루멘 인수 완료가 CHTR 커버리지 지역에서 직접 경쟁으로 전환되는 시점과 강도 (pending)
+- [ ] **2026-05-17**: AT&T 루멘 인수 완료가 CHTR 커버리지 지역에서 직접 경쟁으로 전환되는 시점과 강도 → aged-out (2026-06-21): 7일 초과, 다만 통신사 파이버·번들 공세 심화는 진행 중
+- [ ] **2026-06-21**: 약 $70억 파이버 확장(1.7M 지역)의 ROI가 통신사 저가 번들 경쟁 속에 정당화될 것인가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
@@ -36,6 +37,24 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-21
+
+
+**narrative_score**: -0.07
+**key_events**: 약 $70억 파이버 확장(1.7M 지역), Chris Hacker 보안 총괄 선임, 주가 1년 약 64% 하락
+**risks**: 브로드밴드 가입자 이탈, 대규모 파이버 capex·ROI 불확실, 통신사 저가 번들 경쟁
+
+> [!claim] (출처: Yahoo Finance, 2026-06-05) 약 $70억 파이버 확장 — 1.7M 미서비스 지역, 번들 브로드밴드·모바일 강화
+> impact: + / category: product
+
+> [!claim] (출처: StockTitan, 2026-06-08) Chris Hacker 기업보안 총괄 선임 — 전 FBI·Delta 출신, 임원 인사
+> impact: neutral / category: other
+
+**경쟁사 동향**:
+- CMCSA: Xfinity Q1 브로드밴드 -6.5만 → 케이블 공통 이탈 압박, CHTR도 동일 구조적 역풍
+- T: 파이버 Opensignal 107개 수상·번들 $35 → 통신사 파이버 우위가 CHTR 투자 ROI 위협
+
+---
 ### 2026-06-07
 
 

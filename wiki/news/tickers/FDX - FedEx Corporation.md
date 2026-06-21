@@ -1,7 +1,7 @@
 ---
 title: "FDX - FedEx Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-21
 domain: finance
 type: claim
 weight: reference
@@ -26,9 +26,10 @@ sources: []
 
 ## 미해결 가설 (Open Claims)
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-17**: FedEx Freight 분사 후 '뉴 FedEx'의 영업이익률이 분사 전 대비 개선될 것인가 (pending)
-- [ ] **2026-05-17**: FDXF 상장 이후 FDX 주가가 순수 특송 사업 집중 프리미엄을 받아 리레이팅될 것인가 (pending)
+- [ ] **2026-05-17**: FedEx Freight 분사 후 '뉴 FedEx'의 영업이익률이 분사 전 대비 개선될 것인가 → 6/23 Q4 실적으로 검증 예정 (pending)
+- [x] **2026-05-17**: FDXF 상장 이후 FDX 주가가 순수 특송 사업 집중 프리미엄을 받아 리레이팅될 것인가 → partially-verified (2026-06-21): 분사·Network 2.0로 주가 52주 고점 근접($336), 본격 검증은 6/23 실적
 - [ ] **2026-05-17**: 관세 환경 변화가 2026년 하반기 국제 특송 물량에 유의미한 감소를 야기할 것인가 (pending)
+- [ ] **2026-06-21**: 6/23 Q4 FY26 실적이 컨센서스(EPS $5.91·매출 $24.18B)를 충족하고 분사 후 첫 가이던스가 긍정적일 것인가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ## 사실 누적 (Verified Facts)
@@ -37,6 +38,23 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-21
+
+
+**narrative_score**: +0.07
+**key_events**: Q4 FY26 실적 6월 23일 발표(EPS $5.91 예상), 프레이트 분사 완료 후 첫 분기, 주가 52주 고점 근접($336)
+**risks**: 산업물류 수요 둔화, 분사 후 수익구조 변화 불확실, 최근 4분기 연속 EPS 비트 이후 기대치 부담
+
+> [!claim] (출처: Barchart, 2026-06-18) 페덱스 Q4 실적 6월 23일, EPS $5.91·매출 $24.18B 전망
+> impact: neutral / category: earnings
+
+> [!claim] (출처: TradingKey, 2026-06-16) 프레이트 분사·Network 2.0로 주가 52주 고점 근접($336)
+> impact: + / category: other
+
+**경쟁사 동향**:
+- UPS: UPS 시설 27개 추가 폐쇄·비용절감 $30억 → 양사 모두 볼륨 약세 속 구조조정, FDX는 Network 2.0로 대응
+
+---
 ### 2026-06-07
 
 
