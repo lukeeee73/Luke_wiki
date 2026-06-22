@@ -1,7 +1,7 @@
 ---
 title: "GOOGL - Alphabet Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-15
+updated: 2026-06-22
 domain: finance
 type: claim
 weight: reference
@@ -28,13 +28,10 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [x] **2026-05-18**: 2026 EPS 컨센서스 $11.63→$14.22 상향, 클라우드 시장 점유율 확대 (**verified** 2026-06-01: Q1 EPS $5.17 (+82% YoY), 목표주가 $427.89로 추가 상향)
-- [x] **2026-05-18**: Bill Ackman GOOGL 전량 매도 — 기관 투자자 이탈 신호 (**refuted** 2026-06-01: Berkshire Hathaway $100억 신규 투자 — 기관 자금 유입으로 반증)
-- [x] **2026-06-01**: $800억 AI 자본 조달이 GCP·Waymo 경쟁력 급격히 높일 것 (**aged-out** 2026-06-08: 7일 내 시장 점유율 변화 미확인; 단 capex $180~190B·$25B TPU 벤처로 투자 확장 확인)
-- [x] **2026-06-08**: $25B Blackstone TPU 벤처가 GCP AI 추론 속도를 경쟁사 대비 30%+ 개선할 것 (**aged-out** 2026-06-15: 7일 내 벤치마크 데이터 없음; 단 6/12 신규 AI 에이전트 출시로 GCP AI 전략 진전 확인)
-- [x] **2026-06-08**: 2026 capex $180~190B 초대형 투자가 2027 EPS 성장률을 단기 훼손할 것 (**aged-out** 2026-06-15: 7일 내 2027 EPS 컨센서스 변화 데이터 없음; Q1 순이익 +81% 성장이 capex 우려 상쇄 중)
-- [ ] **2026-06-15**: 6/15 GOOGL +3.19% 급등이 AI 모멘텀 재평가 시작인지, 또는 배당 지급일 기술적 반등인지 (7일 검증 대기)
-- [ ] **2026-06-15**: $80B 유상증자 희석이 주주 환원 지속성에 실질적 영향을 줄 것 (7일 검증 대기)
+- [x] **2026-06-15**: 6/15 +3.19% 급등이 AI 모멘텀 재평가인지 배당 기술적 반등인지 (**refuted** 2026-06-22: 이후 주가 약세·연속 하락 지속으로 추세 전환 아님 — 기술적 반등 쪽 확인)
+- [ ] **2026-06-15**: $80B 유상증자 희석이 주주 환원 지속성에 실질 영향을 줄 것 (pending — 약 $85B AI 인프라 자본조달 진행 중)
+- [ ] **2026-06-22**: 청소년 SNS 중독 소송 재심 기각이 추가 손해배상·유사 소송 확산으로 이어질지 (7일 검증 대기)
+- [ ] **2026-06-22**: HSBC-Google Cloud Gemini 제휴가 GCP 금융 엔터프라이즈 수주 확대의 신호인지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -54,6 +51,8 @@ sources: []
 > [!fact] (TradingKey + Robinhood, 2026-06-15) GOOGL +3.19% 급등, 분기 배당 $0.22 지급, AI 에이전트 6/12 공개
 > 앨라배마 Jackson County 데이터센터 $15억 투자 발표. 배당 지급일 6/15 확정.
 
+> [!fact] (HSBC IR + 다수 매체, 2026-06-17) HSBC-Google Cloud, Gemini 기반 멀티이어 AI 뱅킹 제휴
+> 200+ 사용사례·$100M+ 기대효과. GCP 금융 엔터프라이즈 입지 강화.
 <!-- FACTS_END -->
 
 ---
@@ -61,6 +60,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-22
+
+**narrative_score**: +0.00
+**key_events**: 청소년 SNS 중독 소송 재심 기각 · HSBC-Google Cloud Gemini 제휴 · 약 $85B 규모 AI 인프라 자본조달
+**risks**: 플랫폼 책임 소송 확산 · 주가 연속 약세 · 대규모 capex 수익화 압박 · DOJ 반독점 잔존 리스크
+
+> [!claim] (출처: CNBC, 2026-06-10) Google and Meta denied new trial in youth social media addiction case
+> 캘리포니아 판사, 유튜브 중독 평결 재심 요청 기각 — 책임 확정. impact: - / category: regulation
+
+> [!claim] (출처: HSBC, 2026-06-17) HSBC and Google Cloud Announce Transformative AI Banking Partnership
+> HSBC, Gemini 기반 멀티이어 AI 제휴 — 200+ 사용사례·$100M+ 기대효과. impact: + / category: product
+
+> [!claim] (출처: CNBC, 2026-06-05) Alphabet is seeking fresh capital as stock's losing streak tests investor appetite
+> AI 데이터센터 자금 위해 대규모(약 $85B) 자본조달 추진. impact: neutral / category: other
+
+**경쟁사 동향**:
+- META: Meta denied new trial in same youth social-media addiction case — 동일 판결이 GOOGL·META 모두에 적용 — 플랫폼 설계 책임론 확산으로 추가 소송·규제 리스크 상승
+- MSFT: Microsoft guides large 2026 AI capex amid sector arms race — MSFT 대규모 투자 지속은 AI 군비경쟁 심화 신호 — GOOGL capex 정당화하나 수익화 압박 가중
+
+---
 
 ### 2026-06-15
 

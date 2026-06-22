@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-06-19
+updated: 2026-06-22
 domain: finance
 type: index
 weight: reference
@@ -37,16 +37,16 @@ sources: []
 
 | Ticker                                          | as_of      | score  | 핵심 한 줄                                         | open claims |
 | ----------------------------------------------- | ---------- | ------ | ----------------------------------------------- | ----------- |
-| [AAPL](tickers/AAPL - Apple Inc.md)                     | 2026-06-15 | +0.03  | WWDC 후 주가 8% 하락, MS PT $360 상향, 시리 AI 베타 미국 한정 (EU·중국 제외) | 1           |
-| [MSFT](tickers/MSFT - Microsoft Corporation.md)         | 2026-06-15 | +0.15  | Q3 Azure +40% / AI $37B 런레이트(+123%), 배당 $0.91, Xbox 대규모 감원 | 2           |
-| [GOOGL](tickers/GOOGL - Alphabet Inc.md)                | 2026-06-15 | +0.21  | +3.19% 급등, Q1 순이익 +81%, AI 에이전트 6/12 공개, 배당 $0.22 지급   | 2           |
-| [AMZN](tickers/AMZN - Amazon.com Inc.md)                | 2026-06-15 | +0.10  | +3.70% 급등, 프라임데이 6/23~26 확정, EU·FTC 이중 규제 리스크           | 2           |
-| [META](tickers/META - Meta Platforms Inc.md)            | 2026-06-15 | +0.11  | 비즈니스 AI 에이전트 글로벌 출시, 광고 AI 전환율 개선 확인, YTD -13%   | 1           |
-| [ORCL](tickers/ORCL - Oracle Corporation.md)            | 2026-06-15 | +0.07  | Q4 IaaS +93%·클라우드 +47% 달성, $20B 유상증자 → 주가 8~10% 급락     | 2           |
-| [CRM](tickers/CRM - Salesforce, Inc.md)                 | 2026-06-15 | +0.26  | $36억 Fin 인수(AI 에이전트), Q1 EPS +50%, Agentforce ARR $1.2B (+205%) | 2           |
-| [ADBE](tickers/ADBE - Adobe Inc.md)                     | 2026-06-15 | +0.06  | Q2 EPS 비트+가이던스 상향, CFO 퇴임+3개 다운그레이드, 6일 -19% 후 +1.7% | 2           |
-| [IBM](tickers/IBM - International Business Machines.md) | 2026-06-15 | +0.21  | Q1 FCF +13%, ServiceNow 협력, Anderon 양자 파운드리 설립, ATH 대비 -17% | 2           |
-| [PLTR](tickers/PLTR - Palantir Technologies Inc.md)     | 2026-06-15 | +0.20  | +5.2% ($134.71), 목표가 $225 상향, Q1 +85%, 구글·GNP·McCarthy 파트너십 | 2           |
+| [AAPL](tickers/AAPL - Apple Inc.md)                     | 2026-06-22 | -0.14  | 쿡 "메모리 비용發 가격 인상 불가피", 애플-인텔 미국 칩 생산 협력 (마진 우려) | 4           |
+| [MSFT](tickers/MSFT - Microsoft Corporation.md)         | 2026-06-22 | -0.23  | Copilot 성과 과장 증권 집단소송 + EU DMA 클라우드 압박, Cowork 과금 출시 | 2           |
+| [GOOGL](tickers/GOOGL - Alphabet Inc.md)                | 2026-06-22 | +0.00  | 청소년 SNS 중독 소송 재심 기각(책임 확정), HSBC Gemini 제휴, $85B 자본조달   | 3           |
+| [AMZN](tickers/AMZN - Amazon.com Inc.md)                | 2026-06-22 | +0.06  | FTC 광고 소송 초안 + EU DMA 압박, Trainium 외부 판매, 프라임데이 6/23~26   | 3           |
+| [META](tickers/META - Meta Platforms Inc.md)            | 2026-06-22 | +0.23  | Crusoe 1.6GW AI 전력 계약, AI 임원 사임, 애널리스트 강세 유지(저평가)   | 3           |
+| [ORCL](tickers/ORCL - Oracle Corporation.md)            | 2026-06-22 | +0.17  | RPO $638B(+363%) 기록, $40B 자금조달·마이너스 FCF 우려, MS 계약 결렬 보도 | 3           |
+| [CRM](tickers/CRM - Salesforce, Inc.md)                 | 2026-06-22 | +0.09  | Fin $36억 인수 본계약, Q1 EPS +50%, 'SaaS 종말론'에 사상 최장 연속 하락 | 3           |
+| [ADBE](tickers/ADBE - Adobe Inc.md)                     | 2026-06-22 | +0.19  | Firefly 에이전트 확장, Q2 비트+가이던스 상향, Citi $228 하향, CFO 공백 | 3           |
+| [IBM](tickers/IBM - International Business Machines.md) | 2026-06-22 | +0.10  | 美 첫 양자 파운드리($10억 CHIPS) 공식화, ServiceNow 협력, ACN發 IT서비스 급락 | 1           |
+| [PLTR](tickers/PLTR - Palantir Technologies Inc.md)     | 2026-06-22 | +0.12  | Wolfe 상향(Peer Perform), 英 NHS·경찰 계약 역풍, -4.32%·YTD -24% (고밸류) | 3           |
 
 ### 반도체
 
@@ -226,6 +226,18 @@ sources: []
 - **섹터간 전파 (AI capex)**: 빅테크 AI 데이터센터 capex → 전력 수요(유틸리티) + 산업용 가스(LIN +0.27, APD +0.17) + 구리(FCX +0.13) 동시 수혜. AI 전력·소재 수요가 에너지 유가 하락과 탈동조화하며 별도 모멘텀 형성.
 - **역방향 (금 풀백, NEM -0.06)**: 금값 ~$4,136/oz 풀백에 NEM 한 주 -10% — 에너지·유틸리티 묶음 내 유일하게 귀금속 사이클에 노출된 종목이 독립적으로 약세. 7/1 경영진 쇄신은 장기 긍정 요인.
 - **주목 이벤트**: 미·이란 최종 협정 서명 여부(유가 추가 방향성), NEE-Dominion 7월 버지니아 SCC 신청, Crane(TMI) 2027 재가동 진척, Vogtle 데이터센터 11GW 계약 이행, OPEC+ 다음 증산 결정.
+
+## 오늘의 시그널 (2026-06-22 · 월요일 · 빅테크 / 소프트웨어)
+
+**2026-06-22 감지된 시그널:**
+
+- **모순/역방향 (메가캡 약세 전환)**: AAPL -0.14(전주 +0.03), MSFT -0.23(전주 +0.15), GOOGL +0.00(전주 +0.21) — 빅테크 상위 3종목이 전주 대비 narrative 큰 폭 하락. 규제·메모리 비용·AI ROI 회의론이 동시 작용.
+- **섹터 동기화 (메모리/칩 비용 위기)**: AAPL·MSFT — AI發 DRAM 부족이 빅테크 전반의 비용 위기로 확산. 쿡 "가격 인상 불가피" + MS 기록적 AI 예산의 메모리 비용 귀속. 하드웨어·인프라 마진 동반 압박.
+- **섹터 동기화 (규제·소송 러시)**: MSFT(Copilot 증권 집단소송 + EU DMA), AMZN(FTC 광고 소송 초안 + EU DMA), GOOGL(청소년 SNS 중독 소송 재심 기각) — 빅테크 4종목에 규제·소송 헤드라인 동시 집중, regulatory_risk 음수 동조.
+- **섹터 분화 ('SaaS 종말론' vs 제품 모멘텀)**: CRM(YTD -43%, 사상 최장 연속 하락)·ADBE(CFO 공백)는 AI 에이전트의 구독모델 잠식 공포로 밸류 압박. 반면 AI 인프라·에이전트 출시(MSFT Copilot Cowork, AMZN Bedrock AgentCore, ADBE Firefly)는 견고 — 밸류에이션과 제품의 괴리.
+- **최고 시그널 (META +0.23)**: Crusoe 1.6GW AI 전력 계약 + 비즈니스 에이전트 글로벌 출시로 성장 서사 강화, 애널리스트 저평가 강세 유지. 최저는 MSFT -0.23(집단소송·EU·Azure 둔화).
+- **양자/AI 인프라 (IBM)**: 美 첫 목적형 양자 파운드리($10억 CHIPS) 공식화로 정부 협력 open claim verified. 단 ACN 가이던스 충격의 IT서비스 readthrough가 컨설팅 부문 우려로 전이.
+- **주목 이벤트**: 프라임데이 2026(6/23~26) 매출, MSFT Copilot 증권 집단소송 8/11 리드원고 마감, EU DMA 클라우드(Azure·AWS) 게이트키퍼 지정 여부, 애플-인텔 미국 칩 생산 협력 구체화, ORCL RPO $638B 매출 실현 여부.
 
 ## 오늘의 시그널 (2026-06-18 · 목요일 · 바이오 / 제약 / 헬스케어)
 

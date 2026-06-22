@@ -1,7 +1,7 @@
 ---
 title: "IBM - International Business Machines — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-15
+updated: 2026-06-22
 domain: finance
 type: claim
 weight: reference
@@ -28,13 +28,9 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [x] **2026-05-18**: YTD 메가캡 최하위 (-26%), RBC 목표주가 $330→$300 하향 (**refuted** 2026-06-01: 5월 +32% 역대급 상승, Barclays Overweight $350 개시 — 완전 반전)
-- [x] **2026-05-18**: IBM-Aramco AI 협업 + Red Hat AI 인퍼런스 서비스 출시 — 반등 촉매 (**verified** 2026-06-01: Nvidia 파트너십·Barclays 상향·주가 +7.6% — 반등 촉매 확인)
-- [x] **2026-06-01**: Nvidia IBM AI 파트너십이 IBM Cloud의 기업 AI 계약 수주 증가로 이어질 것 (**verified** 2026-06-08: Nvidia Vera Rubin AI 파트너 선정 + Google Cloud 협약 + $10B 양자 투자 발표로 AI 생태계 입지 강화 확인)
-- [x] **2026-06-08**: $10B 양자컴퓨팅 투자가 2029년 내결함성 양자컴퓨터 상용화로 현실화될 것 (**aged-out** 2026-06-15: 7일 내 추가 진전 없음; 단 Anderon 파운드리 미 상무부 협력으로 구체화 진행)
-- [x] **2026-06-08**: Nvidia Vera Rubin + Google Cloud 이중 파트너십이 IBM watsonx 엔터프라이즈 AI 계약 수주를 가속할 것 (**aged-out** 2026-06-15: 7일 내 계약 수주 데이터 없음; 단 ServiceNow 협력 추가로 생태계 확장 확인)
-- [ ] **2026-06-15**: IBM 주가 ATH $329 대비 현재 $272 (-17%) 조정 구간이 재진입 기회인지, 또는 추가 하락 예고인지 (7일 검증 대기)
-- [ ] **2026-06-15**: Anderon 양자칩 파운드리 ($10억 공동 출자)가 IBM-미국 정부 AI 인프라 협력 확대로 이어질 것 (7일 검증 대기)
+- [x] **2026-06-15**: ATH $329 대비 -17% 조정이 재진입 기회인지 추가 하락 예고인지 (**partially verified** 2026-06-22: ACN 가이던스 충격·Fed 매파로 추가 조정(고점 대비 ~22%) — 단기 추가 하락 쪽 확인)
+- [x] **2026-06-15**: Anderon 양자칩 파운드리($10억 공동출자)가 IBM-미국 정부 AI 인프라 협력으로 이어질 것 (**verified** 2026-06-22: 美 상무부 공동 '첫 목적형 양자 파운드리'($10억 CHIPS) 공식 발표 확인)
+- [ ] **2026-06-22**: Accenture 가이던스 하향(IT서비스 수요 둔화)이 IBM 컨설팅 부문 실적 약화로 전이될지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -54,6 +50,8 @@ sources: []
 > [!fact] (Trefis + StockStory, 2026-06-12) IBM Q1 2026 10년 만의 최강 실적 확정
 > 매출 +6% (고정환율), FCF +13% 성장. ServiceNow 협력 확장(2026-06-11). Anderon 양자칩 파운드리 美 상무부와 공동 ($10억씩) 설립 발표.
 
+> [!fact] (IBM Newsroom + 美 상무부, 2026-05-21 발표·6월 진행) 美 첫 목적형 양자 파운드리(뉴욕 알바니) 설립 — 약 $10억 CHIPS 지원
+> IBM-미국 정부 양자/AI 인프라 협력 공식화.
 <!-- FACTS_END -->
 
 ---
@@ -61,6 +59,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-22
+
+**narrative_score**: +0.10
+**key_events**: ServiceNow 협력 확대(6/11) · Accenture 가이던스 하향 → IT서비스 급락, IBM -5%대(6/18) · 양자 랠리 후 고점 대비 22% 조정 · 美 첫 양자 파운드리 CHIPS 지원
+**risks**: IT서비스·컨설팅 수요 둔화(ACN readthrough) · 고금리 환경의 고밸류 멀티플 압박 · 양자 상용화 시점 불확실성·기대 선반영
+
+> [!claim] (출처: IBM Newsroom, 2026-06-11) IBM and ServiceNow Expand Collaboration to Unlock Enterprise Data for AI at Scale
+> ServiceNow와 협력 확대 — 레거시 현대화·엔터프라이즈 데이터 AI화. impact: + / category: product
+
+> [!claim] (출처: TradingKey, 2026-06-18) IBM stock moves down 5.49% on June 18 amid IT services selloff
+> Accenture 가이던스 하향 충격에 IT서비스 동반 하락, IBM 5%대 급락. impact: - / category: macro
+
+> [!claim] (출처: INDmoney, 2026-06-19) IBM Stock Analysis: Why It Fell After Quantum Rally
+> 6월 초 양자 랠리 후 차익실현·고밸류 부담으로 고점 대비 22% 조정. impact: - / category: other
+
+> [!claim] (출처: IBM Newsroom, 2026-05-21) IBM and U.S. Department of Commerce Announce America's First Purpose-Built Quantum Foundry
+> 美 첫 양자 칩 파운드리(뉴욕 알바니)에 약 $10억 CHIPS 지원. impact: + / category: regulation
+
+**경쟁사 동향**:
+- ACN: Accenture cuts FY26 revenue growth outlook, stock plunges ~16-20% — IT서비스 수요 둔화·연방 컨설팅 약세 신호 — IBM 컨설팅 부문에 직접 부정 readthrough
+- ORCL: Oracle posts record AI-driven cloud backlog — 하이브리드 클라우드·watsonx 성장 runway 경쟁 압박
+
+---
 
 ### 2026-06-15
 

@@ -1,7 +1,7 @@
 ---
 title: "AAPL - Apple Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-15
+updated: 2026-06-22
 domain: finance
 type: claim
 weight: reference
@@ -28,11 +28,10 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [x] **2026-05-18**: Apple 첫 폴더블 기기 힌지 결함 — 출시 2027년으로 지연 가능 (**aged-out** 2026-06-08: 21일 내 추가 확인 없음, WWDC에서도 언급 없음)
-- [x] **2026-06-01**: WWDC 2026(6월 8일) AI 발표가 AI 생태계 경쟁력 격차를 좁힐 것 (**verified** 2026-06-08: Apple Intelligence·AI Siri 공개 확정, 단 주가는 sell-the-news로 -1.89%)
-- [ ] **2026-06-01**: 존 테르누스 CEO 교체로 제품 전략 연속성 유지 여부 (pending — WWDC에서 전략 방향 확인됐으나 신임 CEO 공식 발표 미확인)
-- [x] **2026-06-08**: Apple Intelligence 플랫폼이 내년 기기 업그레이드 사이클을 자극해 2027 하드웨어 매출 상승 견인할 것 (**aged-out** 2026-06-15: 7일 내 업그레이드 사이클 데이터 없음; 시리 AI 베타 미국 한정으로 효과 측정 불가 시점)
-- [ ] **2026-06-15**: 시리 AI 베타 미국 한정 출시 — EU·중국 확대 일정 및 WWDC 이후 실제 AI 수익화 시점 확인 필요 (7일 검증 대기)
+- [ ] **2026-06-01**: 존 테르누스 CEO 교체로 제품 전략 연속성 유지 여부 (**aged-out** 2026-06-22: 21일 내 신임 CEO 공식 발표 미확인)
+- [ ] **2026-06-15**: 시리 AI 베타 미국 한정 출시 — EU·중국 확대 일정 및 실제 AI 수익화 시점 (pending — 6/22까지 EU·중국 출시 일정 추가 발표 없음)
+- [ ] **2026-06-22**: 메모리(DRAM) 가격 급등이 애플 기기 가격 인상·하드웨어 마진 압박으로 실증될지 (7일 검증 대기)
+- [ ] **2026-06-22**: 애플-인텔 미국 칩 생산 협력이 실제 공급망 다변화·관세 리스크 완화로 구체화될지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +48,8 @@ sources: []
 > [!fact] (ForeignPolicyJournal + Morgan Stanley, 2026-06-12) WWDC 후 주가 8% 하락 + 모건스탠리 PT $360 상향
 > Morgan Stanley 애널리스트 Erik Woodring, AI 로드맵 진전 인정 + 조기 수익화 기회 확인으로 $330→$360 상향 유지 (Buy). 주가는 WWDC 이후 8% 급락.
 
+> [!fact] (MacRumors + Dataconomy, 2026-06-17~22) Tim Cook, 메모리 비용發 기기 가격 인상 '불가피' 공식 발언
+> AI 수요發 DRAM 부족을 '100년 만의 홍수'로 표현. 하드웨어 마진 압박 신호.
 <!-- FACTS_END -->
 
 ---
@@ -56,6 +57,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-22
+
+**narrative_score**: -0.14
+**key_events**: 쿡, 메모리 비용發 가격 인상 불가피 발언 · 애플-인텔 미국 칩 생산 협력 발표 · WWDC 후 애널리스트 목표가 상향
+**risks**: DRAM 가격 급등 원가 역풍 · Siri AI 출시 지연·지역 제한 · 높은 P/E 밸류에이션 부담 · EU·중국 AI 출시 제약
+
+> [!claim] (출처: MacRumors, 2026-06-17) Tim Cook Says Apple Price Increases Are 'Unavoidable' Due to Memory Costs
+> 메모리 칩 부족으로 애플 기기 가격 인상 불가피, 마진 압박. impact: - / category: product
+
+> [!claim] (출처: CBS News, 2026-06-18) Intel shares leap after Trump says it's working with Apple to make chips in the U.S.
+> 트럼프, 애플-인텔 미국 칩 생산 협력 발표 — 공급망 다변화 기대. impact: + / category: m&a
+
+> [!claim] (출처: Dataconomy, 2026-06-22) Tim Cook Says Higher Apple Device Prices Are Unavoidable
+> 쿡, AI發 메모리 부족을 '100년 만의 홍수'로 표현하며 가격 인상 시사. impact: - / category: product
+
+> [!claim] (출처: MacRumors, 2026-06-11) AAPL Stock Slides Following WWDC, But Analysts Broadly Raise Targets
+> WWDC Siri AI 발표 후 주가 하락했으나 애널리스트 목표가 대거 상향. impact: neutral / category: product
+
+**경쟁사 동향**:
+- MSFT: Microsoft attributes part of record AI budget to memory/chip costs — 메모리 칩 부족이 빅테크 전반 비용 위기임을 확인 — 애플 가격 인상 명분은 되나 마진 리스크 지속
+- GOOGL: Alphabet raises capex toward ~$190B; Big Tech AI spend to surge in 2026 — 경쟁사 공격적 AI 인프라 투자 대비 애플은 Siri AI 일정조차 제시 못해 실행력 격차 우려
+
+---
 
 ### 2026-06-15
 

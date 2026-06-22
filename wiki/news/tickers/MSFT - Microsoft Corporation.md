@@ -1,7 +1,7 @@
 ---
 title: "MSFT - Microsoft Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-15
+updated: 2026-06-22
 domain: finance
 type: claim
 weight: reference
@@ -28,12 +28,10 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [x] **2026-05-18**: MSFT OpenAI 의존도 탈피 → 독립 AI 성장 전략 구체화 (**verified** 2026-06-01: Build 2026에서 자체 AI 코딩 모델 공개 확정)
-- [x] **2026-06-01**: Build 2026 자체 AI 코딩 모델이 GitHub Copilot 시장 점유율 개선으로 이어질 것 (**aged-out** 2026-06-08: 7일 내 시장 점유율 변화 데이터 없음; 단 AI 모델 포트폴리오 7종 추가 확장 확인)
-- [x] **2026-06-08**: MAI-Thinking-1 추론 모델이 OpenAI o3 대비 Azure AI 고객 이탈 방지에 기여할 것 (**aged-out** 2026-06-15: 7일 내 점유율 데이터 없음; Azure +40% 성장 지속으로 전반적 긍정 환경 확인)
-- [x] **2026-06-08**: Majorana 2 양자칩 로드맵이 2029년 내결함성 양자컴퓨터 상용화로 현실화될 것 (**aged-out** 2026-06-15: 7일 내 추가 진전 없음; IBM도 동시에 Anderon 파운드리 발표로 양자 경쟁 가속 확인)
-- [ ] **2026-06-15**: Xbox 대규모 감원이 게임 사업 경쟁력을 약화시킬지, 또는 비용 효율화로 MSFT 전체 마진 개선에 기여할지 (7일 검증 대기)
-- [ ] **2026-06-15**: YTD -17% 주가 부진이 저평가 매수 기회인지, 또는 시장 대비 구조적 언더퍼폼 신호인지 (7일 검증 대기)
+- [x] **2026-06-15**: Xbox 대규모 감원이 게임 경쟁력 약화인지 비용 효율화인지 (pending — 6/22까지 후속 게임 사업 데이터 없음)
+- [x] **2026-06-15**: YTD -17% 주가 부진이 저평가 매수 기회인지 구조적 언더퍼폼 신호인지 (**partially verified** 2026-06-22: Copilot 증권 집단소송·EU DMA 클라우드 예비 판단으로 구조적 규제·성장 우려 쪽 부각)
+- [ ] **2026-06-22**: Copilot 성과 과장 증권 사기 집단소송(8/11 마감)이 실질적 책임·합의로 이어질지 (7일 검증 대기)
+- [ ] **2026-06-22**: EU DMA의 Azure 게이트키퍼 지정 예비판단이 실질 규제로 구체화될지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -60,6 +58,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-22
+
+**narrative_score**: -0.23
+**key_events**: Copilot Cowork 사용량 과금 출시 · Copilot 관련 증권 사기 집단소송(8/11 마감) · EU DMA 클라우드 예비 판단
+**risks**: 증권 집단소송 책임 · Azure 성장 둔화 · EU·UK·FTC 다중 반독점 전선 · ORCL 등 클라우드 경쟁 심화 · AI capex ROI 회의론
+
+> [!claim] (출처: Reuters (via The Star), 2026-06-18) Microsoft launches AI agent with pay-as-you-go pricing
+> MS, 사용량 기반 Copilot Cowork AI 에이전트 출시 — 20년 만의 첫 과금 변경. impact: + / category: product
+
+> [!claim] (출처: Windows Central, 2026-06-17) Investors say Microsoft inflated Copilot's success and OpenAI partnership as Azure stumbles
+> 투자자, Copilot 성과·OpenAI 협업 과장 의혹 — Azure 성장 둔화 우려. impact: - / category: regulation
+
+> [!claim] (출처: GlobeNewswire (BFA Law), 2026-06-22) MSFT Alert: Microsoft Investors may have been Misled about Copilot Issues – Pending Securities Fraud Class Action
+> Copilot 문제로 주가 급락 후 증권 사기 집단소송 — 8/11 리드원고 마감. impact: - / category: regulation
+
+> [!claim] (출처: Bloomberg, 2026-06-18) Microsoft, Amazon Cloud Services Targeted by EU Antitrust Law Probe
+> EU, Azure·AWS를 디지털시장법(DMA) 규제 대상 가능성으로 예비 판단. impact: - / category: regulation
+
+**경쟁사 동향**:
+- ORCL: Oracle reports record Q4/FY2026 — OCI revenue up ~93% YoY — 오라클 OCI 폭증으로 AI 클라우드 점유율 잠식 — Azure 성장 둔화 우려와 겹쳐 경쟁 압박
+- GOOGL: Alphabet pursues large equity offerings to fund AI compute — 하이퍼스케일러 capex 군비경쟁 심화 — MSFT 막대한 지출 부담과 ROI 회의론 부각
+
+---
 
 ### 2026-06-15
 

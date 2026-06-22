@@ -1,7 +1,7 @@
 ---
 title: "AMZN - Amazon.com Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-15
+updated: 2026-06-22
 domain: finance
 type: claim
 weight: reference
@@ -28,13 +28,10 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [x] **2026-05-18**: Q1 AWS 성장률 +28% YoY, 시총 $3조 돌파 임박 (**aged-out** 2026-06-08: 21일 내 $3조 미돌파, 추가 데이터 없음)
-- [x] **2026-05-18**: 관세 비용 소비자 전가 집단소송 제기 (**aged-out** 2026-06-08: 21일 내 소송 진전 뉴스 없음)
-- [x] **2026-06-01**: EU 클라우드 규제·ACCC 소송이 AWS 정부 계약 수주 능력에 실질적 제약 가할 것 (**aged-out** 2026-06-08: 7일 내 규제 실질화 없음, 진행 중)
-- [x] **2026-06-08**: Corning 광섬유 대규모 계약이 AWS 데이터센터 AI 추론 레이턴시를 경쟁사 대비 개선할 것 (**aged-out** 2026-06-15: 7일 내 벤치마크 데이터 없음)
-- [x] **2026-06-08**: 자연어 기반 차세대 물류 로봇이 연간 운영비용 5% 이상 절감할 것 (**aged-out** 2026-06-15: 7일 내 비용 절감 데이터 없음)
-- [ ] **2026-06-15**: 프라임데이 2026 (6/23~26)이 전년 대비 매출을 초과해 Q2 가이던스 상향 재료가 될 것 (7일 검증 대기)
-- [ ] **2026-06-15**: EU 클라우드 조달 심사 + FTC 반독점 소송이 AWS 유럽·미국 정부 계약에 실질적 제약을 가할 것 (7일 검증 대기)
+- [ ] **2026-06-15**: 프라임데이 2026(6/23~26)이 전년 대비 매출 초과로 Q2 가이던스 상향 재료가 될 것 (pending — 6/23~26 일정 확정, 행사 종료 후 검증)
+- [x] **2026-06-15**: EU 클라우드 조달 + FTC 반독점 소송이 AWS 정부 계약에 실질 제약을 가할 것 (**partially verified** 2026-06-22: FTC 광고 소송 초안 작성·EU DMA 클라우드 예비 판단으로 규제 압박 실질화 진행)
+- [ ] **2026-06-22**: FTC 광고사업 소송 초안이 실제 제소·대규모 벌금으로 이어질지 (7일 검증 대기)
+- [ ] **2026-06-22**: Trainium 외부 판매가 엔비디아 의존 완화·AI 칩 신규 매출원으로 구체화될지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -54,6 +51,8 @@ sources: []
 > [!fact] (GuruFocus + Interactive Crypto, 2026-06-12/15) Amazon C$139.67억 채권 발행 완료 + 프라임데이 2026 일정 확정
 > 6/23~26 프라임데이 공식 확정. C$140억 채권 발행으로 AI·물류 인프라 재원 다각화.
 
+> [!fact] (About Amazon + AWS 공식, 2026-06-17~18) 프라임데이 2026 6/23~26 확정 + AWS NY 서밋 Bedrock AgentCore 정식출시
+> 4일간 프라임데이 + 에이전트 AI 대거 발표로 리테일·클라우드 양축 모멘텀.
 <!-- FACTS_END -->
 
 ---
@@ -61,6 +60,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-22
+
+**narrative_score**: +0.06
+**key_events**: FTC 광고사업 소송 초안 작성 · Trainium AI 칩 외부 판매 협의 · AWS NY 서밋 (Bedrock AgentCore) · 프라임데이 6/23~26 확정
+**risks**: FTC 광고 반독점 소송 (대규모 벌금) · EU DMA 클라우드 압박 · Azure·Google Cloud 경쟁 심화 · AI capex 부담
+
+> [!claim] (출처: Bloomberg (via Yahoo Finance), 2026-06-17) FTC drafts potential complaint against Amazon
+> FTC, 아마존 광고사업 대상 소송 초안 작성 — 대규모 벌금 위험. impact: - / category: regulation
+
+> [!claim] (출처: GuruFocus, 2026-06-18) Amazon (AMZN) Plans to Sell AI Chip Trainium, Challenging Nvidia's Dominance
+> 아마존, 트레이니움 AI 칩 외부 판매 협의 — 엔비디아에 직접 도전. impact: + / category: product
+
+> [!claim] (출처: AWS News Blog, 2026-06-17) Top announcements of the AWS Summit in New York, 2026
+> AWS 뉴욕 서밋, Bedrock AgentCore 정식출시 등 에이전트 AI 대거 발표. impact: + / category: product
+
+> [!claim] (출처: AWS News Blog, 2026-06-22) AWS Weekly Roundup: NY Summit recap, Grok 4.3 in Bedrock, price reductions, and more
+> AWS, Grok 4.3 베드록 탑재·하노이 로컬존·가격 인하 등 주간 업데이트. impact: + / category: product
+
+**경쟁사 동향**:
+- MSFT: Azure AI run-rate far ahead of Google Cloud this quarter — 애저 AI 빠른 성장으로 AWS 클라우드 점유율 방어 압박
+- GOOGL: Google Cloud secures large GPU compute deals — 구글 클라우드의 대형 GPU 컴퓨트 계약으로 AWS 신규 AI 워크로드 유치 경쟁 심화
+
+---
 
 ### 2026-06-15
 
