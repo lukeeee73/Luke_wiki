@@ -1,7 +1,7 @@
 ---
 title: "ORCL - Oracle Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-15
+updated: 2026-06-22
 domain: finance
 type: claim
 weight: reference
@@ -28,11 +28,10 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [x] **2026-05-18**: Wedbush·Oppenheimer 목표주가 동시 상향 ($275/$235), 삼성 Java 계약 체결 (**verified** 2026-06-01: 오늘 주가 +5.56%, 목표주가 추가 상향 — 모멘텀 지속 확인)
-- [x] **2026-06-01**: Q4 FY2026 실적 발표 시 OCI 백로그 규모 재차 컨센서스 상회할 것 (**verified** 2026-06-15: Q4 매출 $19.2B +21%, IaaS +93% — 컨센서스 초과 달성 확인)
-- [x] **2026-06-08**: Q4 매출 +20% ($19.19B) 달성 및 RPO $533B 이상 유지로 AI 클라우드 지배력 재확인될 것 (**verified** 2026-06-15: Q4 실제 $19.2B +21% — 예상치 초과; 단 주가 8~10% 급락으로 시장 반응 부정적)
-- [ ] **2026-06-15**: $20B 유상증자 희석이 FY27 EPS 성장률을 3~5%p 이상 훼손할 것 (7일 검증 대기)
-- [ ] **2026-06-15**: Q4 후 주가 $180~184 급락 수준이 단기 과매도 구간으로, 4~6주 내 $200 회복될 것 (7일 검증 대기)
+- [x] **2026-06-15**: $20B 유상증자 희석이 FY27 EPS 성장률을 훼손할 것 (**partially verified** 2026-06-22: 약 $40B 자금조달(부채+주식)·마이너스 FCF 보도로 희석·레버리지 우려 구체화)
+- [ ] **2026-06-15**: Q4 후 주가 $180~184 급락이 단기 과매도로 4~6주 내 $200 회복될 것 (pending — 6/22까지 회복 미확인, 약세 지속)
+- [ ] **2026-06-22**: MS와의 클라우드 계약 결렬 보도(FedRAMP)가 공공부문 수주에 실질 타격인지, 오라클 반박대로 무근거인지 (7일 검증 대기)
+- [ ] **2026-06-22**: RPO $638B 폭증이 실제 매출 실현으로 이어져 마진·capex 우려를 상쇄할지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -52,6 +51,8 @@ sources: []
 > [!fact] (Oracle IR + CNBC, 2026-06-10) Oracle Q4 FY2026 기록적 실적 확정
 > 매출 $19.2B (+21%), 클라우드 $9.9B (+47%), IaaS +93%. FY27 가이던스 $90B, adj EPS $8.05. 단 $40B 자본 조달($20B 유상증자) 발표로 주가 8~10% 급락.
 
+> [!fact] (Oracle IR + CNBC, 2026-06-10) Q4/FY2026 기록적 실적 — 매출 +21%, RPO $638B(+363% YoY)
+> AI 클라우드(OCI/IaaS +93%) 견인. 단 마진·capex 우려로 주가는 11%+ 급락.
 <!-- FACTS_END -->
 
 ---
@@ -59,6 +60,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-22
+
+**narrative_score**: +0.17
+**key_events**: Q4/FY2026 실적·RPO $638B(6/10) · 주가 11%+ 급락(6/11) · MS 계약 결렬 보도(6/18) · 약 $40B 자금조달 추진
+**risks**: 막대한 capex와 마이너스 FCF · 주식 발행 희석 · FedRAMP 등 공공부문 인증 공백 · AI 수요 둔화 시 RPO 실현 리스크
+
+> [!claim] (출처: Oracle IR, 2026-06-10) Oracle Announces Record Q4 and FY2026 Results Driven by Cloud Infrastructure
+> Q4 매출 +21%, RPO $638B(+363%) — AI 계약이 수주잔고 견인. impact: + / category: earnings
+
+> [!claim] (출처: CNBC, 2026-06-11) Oracle stock falls more than 11% post-earnings on margin and capex concerns
+> 실적 호조에도 마진 우려·capex 급증으로 주가 11%+ 급락. impact: - / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-06-11) Oracle Q4 earnings beat on revenue but miss on cloud sales
+> AI 인프라 투자 위해 약 $40B 자금조달 추진, 마이너스 FCF 부담. impact: - / category: other
+
+> [!claim] (출처: Business Insider (via Yahoo Finance), 2026-06-18) Oracle-Microsoft cloud lease deal reportedly collapses over FedRAMP (Oracle denies)
+> MS와 $30억+ 클라우드 임대 협상 FedRAMP 미충족으로 결렬 보도(오라클 부인). impact: - / category: other
+
+**경쟁사 동향**:
+- MSFT: Microsoft reportedly walks away from $3B Oracle cloud deal over FedRAMP — 오라클의 공공부문 인증 미비가 대형 계약 손실 리스크로 노출
+- SAP: SAP unveils Autonomous Enterprise & AI agents, wins JPMorgan — SaaS·ERP 영역 AI 경쟁 격화 — 오라클 Cloud Apps 성장 압박
+
+---
 
 ### 2026-06-15
 

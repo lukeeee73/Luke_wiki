@@ -1,7 +1,7 @@
 ---
 title: "ADBE - Adobe Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-15
+updated: 2026-06-22
 domain: finance
 type: claim
 weight: reference
@@ -28,12 +28,10 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [x] **2026-05-18**: $25B 자사주 매입 + Semrush 인수 + AI PDF 에이전트 출시 (**partially verified** 2026-06-08: Semrush $1.9B 인수 확정; 자사주 매입 규모 별도 확인 필요)
-- [x] **2026-05-18**: 소프트웨어 섹터 로테이션 — ADBE 주도주 부상, 당일 +3.2% (**verified** 2026-06-01: 오늘도 +5.7% 반등, 소프트웨어 섹터 로테이션 지속 확인)
-- [x] **2026-06-01**: Q2 FY2026(6/11) 실적이 EPS +15.2% 예상치를 충족해 장기 약세 반전 촉매 될 것 (**partially verified** 2026-06-15: EPS $5.96 비트(+0.2%), 가이던스 상향 — 그러나 CFO 퇴임 + 3개 증권사 다운그레이드로 주가 -19% 연속 하락 → 반전 촉매 역할 실패)
-- [x] **2026-06-08**: Q2 FY2026 실적 발표(6/11) 후 CEO 교체 불확실성과 AI 경쟁 압박이 하락 압력 지속할 것 (**verified** 2026-06-15: CFO 댄 던 퇴임 + 3개 다운그레이드로 주가 6일 -19% 급락 — 하락 압력 현실화)
-- [ ] **2026-06-15**: CFO 공백 상태에서 신임 CFO 선임이 90일 이내 완료되어 경영 안정성 회복될 것 (7일 검증 대기)
-- [ ] **2026-06-15**: A.J. 버튼 매수 등급 상향 + 가이던스 $26.5~26.6B이 주가 반등 지속의 근거가 될 것 (7일 검증 대기)
+- [ ] **2026-06-15**: CFO 공백 상태에서 신임 CFO 선임이 90일 이내 완료되어 경영 안정성 회복될 것 (pending — Steve Day 임시 CFO 선임, 정규 CFO 미확정)
+- [x] **2026-06-15**: A.J. 버튼 매수 상향 + 가이던스가 주가 반등 지속의 근거가 될 것 (**partially refuted** 2026-06-22: Citi 목표가 $228 하향 등 다운그레이드 지속으로 반등 지속 근거 약화 — 단 Firefly 제품 확장은 긍정)
+- [ ] **2026-06-22**: Firefly 크리에이티브 에이전트 확장이 AI ARR 성장 가속·구독 이탈 방지로 이어질지 (7일 검증 대기)
+- [ ] **2026-06-22**: CEO·CFO 동시 리더십 공백이 실행 리스크로 주가에 추가 부담을 줄지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -50,6 +48,8 @@ sources: []
 > [!fact] (Quiver Quant + GuruFocus, 2026-06-11/15) Q2 FY2026 EPS $5.96 비트, FY26 가이던스 $26.5~26.6B 상향 확정
 > CFO 댄 던 마벨 이직 발표 + 3개 증권사 다운그레이드로 주가 6일 -19% 급락. 6/15 A.J. 버튼 매수 등급 상향 + $207.53 (+1.7%) 회복.
 
+> [!fact] (SEC 8-K/Adobe IR + Benzinga, 2026-06-11) Q2 FY26 실적 매출 $66.2억(+13%)·EPS $5.96 컨센 상회 + 가이던스 상향
+> 펀더멘털은 견조하나 CFO 댄 던 동시 사임으로 주가는 급락.
 <!-- FACTS_END -->
 
 ---
@@ -57,6 +57,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-22
+
+**narrative_score**: +0.19
+**key_events**: Q2 FY26 실적 상회·가이던스 상향(6/11) · CFO 댄 던 사임, Steve Day 임시 CFO · Firefly 크리에이티브 에이전트 확장(6/18) · Citi 목표가 $228로 하향(Neutral)
+**risks**: CEO·CFO 동시 리더십 공백 · AI freemium 전환의 단기 마진 압박 · 빅테크 생성형 AI의 크리에이티브 영역 잠식
+
+> [!claim] (출처: Benzinga (via Yahoo Finance), 2026-06-11) Adobe Stock Drops After-Hours As CFO Exit Eclipses Strong Q2 Results, FY26 Guidance
+> 어닝 호조에도 CFO 댄 던 돌연 사임 발표로 주가 급락. impact: - / category: earnings
+
+> [!claim] (출처: TechCrunch, 2026-06-18) Adobe adds its AI assistant to Premiere, Illustrator, and InDesign
+> Firefly 크리에이티브 에이전트를 영상·디자인 앱으로 확장 (공개 베타). impact: + / category: product
+
+> [!claim] (출처: Benzinga (via Yahoo Finance), 2026-06-12) Why Is ADBE Stock Falling After Easy Q2 Beat? An Analyst Caught Something On The Earnings Call
+> 실적 서프라이즈에도 AI 전환·리더십 공백 우려로 52주 신저가. impact: - / category: earnings
+
+> [!claim] (출처: SEC / Adobe IR, 2026-06-11) Adobe Q2 FY2026 Earnings (Form 8-K, Exhibit 99.1)
+> 매출 $66.2억(+13%), EPS $5.96로 컨센 상회·가이던스 상향. impact: + / category: earnings
+
+**경쟁사 동향**:
+- CRM: Salesforce accelerates Agentforce via Fin acquisition and partnerships — 엔터프라이즈 에이전틱 AI 경쟁 심화 — Adobe 콘텐츠/마케팅 워크플로우와 일부 충돌
+- MSFT: Microsoft/Copilot generative & agentic AI features keep expanding — Firefly 차별화 압박, 크리에이티브 인접 영역 잠식 위험
+
+---
 
 ### 2026-06-15
 

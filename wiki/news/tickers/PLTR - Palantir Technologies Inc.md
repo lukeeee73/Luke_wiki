@@ -1,7 +1,7 @@
 ---
 title: "PLTR - Palantir Technologies Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-15
+updated: 2026-06-22
 domain: finance
 type: claim
 weight: reference
@@ -28,12 +28,10 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [x] **2026-05-18**: Q1 매출 +85% YoY, EPS 크게 상회, FY 가이던스 +10pt 상향 (**verified** 2026-06-01: 다수 매체 재확인, 주간 +13% 급등으로 모멘텀 지속)
-- [ ] **2026-05-18**: 97배 선행 PER → 밸류에이션 압박 (pending — 주가 $134.71, YTD -24.2% 하락으로 부분 조정됐으나 고밸류에이션 지속)
-- [x] **2026-06-01**: 주간 +13% 급등 모멘텀이 달 단위로 지속되어 $200 목표 조기 도달할 것 (**refuted** 2026-06-15: 현재 $134.71, YTD -24.2% — 6/1 이후 주가 하락으로 $200 조기 도달 반증)
-- [x] **2026-06-08**: FY2026 가이던스 +71% ($7.65~7.66B)가 실제 달성되면 현재 밸류에이션이 정당화될 것 (**aged-out** 2026-06-15: 7일 내 가이던스 달성 확인 불가; 단 Q1 +85% 성장으로 방향성은 긍정적)
-- [ ] **2026-06-15**: 6/15 +5.2% 반등이 YTD -24.2% 하락의 추세 전환점인지, 또는 단기 기술적 반등인지 (7일 검증 대기)
-- [ ] **2026-06-15**: 구글 클라우드·GNP Seguros·McCarthy 파트너십이 민간 기업 AIP 확산의 가속 신호인지 (7일 검증 대기)
+- [ ] **2026-05-18**: 초고 선행 PER(약 88배) → 밸류에이션 압박 (pending — 주가 -4.32%, YTD -24%로 부분 조정됐으나 고밸류 지속)
+- [x] **2026-06-15**: 6/15 +5.2% 반등이 추세 전환점인지 단기 기술적 반등인지 (**refuted** 2026-06-22: 6/22 -4.32%, YTD -24% — 추세 전환 아닌 기술적 반등으로 확인)
+- [ ] **2026-06-15**: 구글 클라우드·GNP·McCarthy 파트너십이 민간 AIP 확산 가속 신호인지 (pending — 6/22까지 신규 민간 수주 데이터 없음)
+- [ ] **2026-06-22**: 영국 NHS FDP·Met Police 등 공공계약 역풍이 정부 매출 성장에 실질 제약을 가할지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -57,6 +55,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-22
+
+**narrative_score**: +0.12
+**key_events**: Wolfe Research 상향(Underperform→Peer Perform, 6/16) · NHS FDP 성과 의문 보도·break clause 압박(6/16) · 런던시장 £50M 경찰 계약 차단 → Palantir 소송 · 주가 -4.32%(6/22)
+**risks**: 영국 공공계약 축소·해지 리스크(NHS FDP, Met Police) · 초고밸류에이션 → 작은 실망에도 급락 · 상반된 애널리스트 시각이 보여주는 밸류 논쟁
+
+> [!claim] (출처: TheStreet, 2026-06-16) Top analyst calls Palantir too big to ignore, resets rating (Wolfe upgrade to Peer Perform)
+> Wolfe Research, Underperform→Peer Perform 상향(매수까진 아님). impact: + / category: other
+
+> [!claim] (출처: The Register, 2026-06-16) NHS Palantir claims face scrutiny after data suggests uneven results
+> £330M NHS FDP 계약 성과 의문 — 英 의원들 2027 break clause 압박. impact: - / category: regulation
+
+> [!claim] (출처: Secarma, 2026-06-10) Palantir Sues Over Blocked Met Police Contract
+> 런던시장이 막은 £50M 경찰 계약에 Palantir 법적 대응. impact: - / category: regulation
+
+> [!claim] (출처: TradingKey, 2026-06-22) Palantir stock moves down 4.32% on June 22 amid high-valuation pressure
+> 고밸류 부담·시장 약세에 -4%대, 연초 대비 24%↓. impact: - / category: macro
+
+**경쟁사 동향**:
+- IBM: IBM-ServiceNow expand enterprise data AI collaboration (06-11) — 정부·대기업 AI 데이터 플랫폼에서 IBM과 직접 경합 확대
+- ORCL: Enterprise data/AI platform competition intensifies — 데이터 통합·AI 워크플로우 경쟁 심화로 Palantir 상업 부문 침투 난이도 상승
+
+---
 
 ### 2026-06-15
 

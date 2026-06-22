@@ -1,7 +1,7 @@
 ---
 title: "META - Meta Platforms Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-15
+updated: 2026-06-22
 domain: finance
 type: claim
 weight: reference
@@ -28,12 +28,9 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [x] **2026-05-18**: Q1 매출 $56.3B (+33%), EPS 어닝 서프라이즈 (**verified** 2026-06-01: 다수 매체 확인, 광고 노출 +19%·단가 +12% 세부 수치도 확정)
-- [x] **2026-05-18**: 2026 capex $125B (+8% 상향) (**verified** 2026-06-01: $115~135B 범위로 최종 확정)
-- [x] **2026-06-01**: EU DSA 위반 조사·영국 메시징 시장 조사 중 하나 이상이 실질적 벌금으로 이어질 것 (**aged-out** 2026-06-08: 7일 내 실질 벌금 결정 없음, 조사는 지속 중)
-- [x] **2026-06-08**: 2026 capex $125~145B 상향이 FCF 마진을 15%p 이상 압박해 주가 재조정 유발할 것 (**verified** 2026-06-15: YTD -13% 주가 하락이 고capex 우려를 반영한 시장 재평가로 확인)
-- [x] **2026-06-08**: Meta 비즈니스 AI 에이전트 글로벌 출시가 광고 전환율 및 ARPU 상승으로 이어질 것 (**verified** 2026-06-15: Motley Fool — 광고 랭킹 AI 모델의 전환율 개선 초기 확인, Business Agent 글로벌 배포 완료)
-- [ ] **2026-06-15**: Meta Business Agent 글로벌 출시 이후 WhatsApp 비즈니스 대화량 추가 확대 및 엔터프라이즈 ARPU 상승이 Q2 가이던스 달성 견인할 것 (7일 검증 대기)
+- [ ] **2026-06-15**: Business Agent 글로벌 출시 이후 WhatsApp 대화량 확대·엔터프라이즈 ARPU 상승이 Q2 가이던스를 견인할 것 (pending — 6/22까지 ARPU 정량 데이터 없음, 애널리스트 강세 유지)
+- [ ] **2026-06-22**: Crusoe 1.6GW 등 공격적 AI capex가 FCF 압박으로 주가 변동성을 키울지 (7일 검증 대기)
+- [ ] **2026-06-22**: AI 조직 핵심 임원(Emily Dalton Smith) 이탈이 AI 실행력에 실질 타격을 줄지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -53,6 +50,8 @@ sources: []
 > [!fact] (Motley Fool + Quiver Quant, 2026-06-13/15) 광고 랭킹 AI 모델의 전환율 개선 초기 수익화 확인
 > AI 광고 랭킹 모델에서 개선된 전환율 실현. 구독 및 엔터프라이즈 확장 병행. YTD -13% 주가 부진 지속.
 
+> [!fact] (Bloomberg via Yahoo Finance, 2026-06-20) Meta, Crusoe와 약 1.6GW AI 컴퓨팅 전력 확보 계약
+> 대규모 AI 인프라 선점. 동시에 공격적 capex 부담 신호.
 <!-- FACTS_END -->
 
 ---
@@ -60,6 +59,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-22
+
+**narrative_score**: +0.23
+**key_events**: Crusoe 1.6GW AI 전력 계약(6/20) · 비즈니스 에이전트 글로벌 출시 · AI 임원 Dalton Smith 사임(6/17)
+**risks**: AI capex 급증에 따른 현금흐름 압박 · AI 인재 유출 · 청소년 SNS 책임 소송·빅테크 규제 · 광고 매출 매크로 민감도
+
+> [!claim] (출처: Bloomberg (via Yahoo Finance), 2026-06-20) Meta signs new AI computing deals with data-center firm Crusoe (~1.6 GW)
+> 메타, Crusoe와 약 1.6GW AI 컴퓨팅 전력 확보 계약 체결. impact: + / category: product
+
+> [!claim] (출처: TechCrunch, 2026-06-03) Meta's AI agent for WhatsApp Business is now available globally
+> 메타 비즈니스 에이전트 전 세계 출시 — 광고 외 신규 수익원 기대. impact: + / category: product
+
+> [!claim] (출처: Storyboard18, 2026-06-17) Meta AI executive Emily Dalton Smith exits amid push to automate internal work
+> 메타 AI 내부 툴 책임자 부임 2개월 만에 사임 — 조직 혼란 우려. impact: - / category: other
+
+> [!claim] (출처: Simply Wall St, 2026-06-19) Meta Platforms stock could be undervalued after AI pullback
+> YTD 약세에도 애널리스트 강세 유지 — 상당한 상승 여력 제시. impact: + / category: other
+
+**경쟁사 동향**:
+- GOOGL: Alphabet hit by AI talent departures (key researchers to Anthropic/OpenAI) — AI 인재 유출이 빅테크 전반 리스크로 부각 — 메타도 핵심 인재(Dalton Smith) 이탈로 같은 우려 노출
+- GOOGL: Google/Meta denied new trial in youth social-media addiction case — 동일 판결로 플랫폼 설계 책임론 확산 — 메타도 추가 소송·규제 리스크 동반 상승
+
+---
 
 ### 2026-06-15
 
