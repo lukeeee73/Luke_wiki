@@ -1,7 +1,7 @@
 ---
 title: "MU - Micron Technology — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-16
+updated: 2026-06-23
 domain: finance
 type: claim
 weight: reference
@@ -21,14 +21,17 @@ sources: []
 > [!info] 자동 수집 노트
 > 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 직접 편집해도 되지만, HTML 마커(`<!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-19**: HBM 2026년 전량 매진 — 2027년 공급 계획 및 가격 협상 동향 → **confirmed** (HBM 2026 전량 장기계약 완료·$2,000억 증설 계획 발표, 2026-06-10)
-- [ ] **2026-05-19**: Q2 매출 +196% YoY — 성장률 지속 가능성 vs 기저효과 → Q3 FY2026 매출 $33.5B(+263% YoY) 예상 — 6/24 실적 발표 검증 대기
-- [ ] **2026-06-02**: 6월 24일 Q3 FY2026 실적 — 매출 $33.5B(+263% YoY)·EPS 달성 여부 (14일 대기)
+- [x] **2026-05-19**: Q2 매출 +196% YoY — 성장률 지속 가능성 vs 기저효과 → **aged-out** (6/24 Q3 실적으로 검증 예정, 별도 6/24 클레임으로 이관, 2026-06-23)
+- [x] **2026-06-02**: 6월 24일 Q3 FY2026 실적 — 매출 $33.5B(+263% YoY)·EPS 달성 여부 → **on-track** (6/24 발표 임박, 역대급 마진·HBM4 가속 기대 유지, 2026-06-23)
 - [ ] **2026-06-09**: DRAM 가격 +58~63% TrendForce 예측 — 실제 Q3 컨트랙트 가격 확인 (실적 발표 시 검증)
 - [ ] **2026-06-09**: 6/24 어닝 옵션 ±20% 함의 — 어닝 후 방향성 (14일 대기)
 - [ ] **2026-06-10**: 골드만삭스 $900 / Cantor $1,500 목표주가 — Q3 어닝 서프라이즈 여부에 따른 검증 (6/24)
 - [ ] **2026-06-10**: Bechtel NY 팹 착공 — CHIPS Act 일정 준수 및 2025년 이후 국내 생산 개시 여부 (24개월)
 - [ ] **2026-06-16**: NVDA HBM4 인증 → Vera Rubin 플랫폼 공급 계약 규모 공개 여부 (Q3 실적 6/24)
 - [ ] **2026-06-16**: 6/24 Q3 FY2026 실적 — RBC $1,200·Cowen $1,500 목표 달성 경로 확인
+- [ ] **2026-06-23**: 6/24 회계 Q3 실적 — 역대급 마진·HBM4 공급 가속 가이던스 확인 여부 (1일 대기)
+- [ ] **2026-06-23**: SK하이닉스 HBM4 증설 둔화·DRAM 전환 보도 — 실제 HBM 수요 믹스 둔화로 확인되는지 vs 일시적 셀오프 (14일 검증 대기)
+- [ ] **2026-06-23**: Anthropic 전략 계약(복수년 공급+Series H) — MU 메모리 매출 anchor 효과·계약 규모 후속 공개 여부 (30일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -36,6 +39,9 @@ sources: []
 ## 사실 누적 (Verified Facts)
 
 <!-- FACTS_START -->
+> [!fact] (검증일 2026-06-23, 출처: GlobeNewswire + Micron IR) Micron-Anthropic 전략적 계약 체결
+> 2026-06-22 발표. 차세대 AI 인프라 확장을 위한 메모리·스토리지 공동설계, 복수년 공급 계약, Anthropic Series H 라운드 투자 참여를 포함하는 전략적 파트너십. MU의 AI 메모리 수요 선확보(anchor customer) 구조 확인. 출처: GlobeNewswire/Company IR (Tier-1 2건)
+
 > [!fact] Micron HBM 2026년 전량 장기계약 완료, $2,000억 용량 확대 계획
 > 2026-06-08 Yahoo Finance 보도. 2026년 HBM 전체 물량 장기 공급 계약 완료. $2,000억 규모 생산 역량 확대 발표. HBM 공급 타이트 2026년 이후도 지속 전망. 출처: Yahoo Finance (Tier-2)
 
@@ -60,6 +66,28 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-23
+
+**narrative_score**: +0.05 (약한 긍정)
+**key_events**: 6/23 메모리 셀오프 -11.4% ($1,074.60), Anthropic 전략 계약(공급+공동설계+Series H), 6/24 회계 Q3 실적 발표 예정
+**risks**: SK하이닉스 HBM4 둔화發 수요 믹스 우려, HBM 가격 경쟁(SK하이닉스·삼성), 실적 전 변동성 확대
+
+> [!claim] (출처: TheStreet, 2026-06-23) Micron -11.4% $1,074.60 — SK하이닉스 HBM4 둔화 보도發 메모리 급락
+> SK하이닉스 HBM4 증설 둔화·DRAM 전환 보도로 MU 급락. impact: - / category: macro
+
+> [!claim] (출처: GlobeNewswire, 2026-06-22) Micron-Anthropic 차세대 AI 인프라 전략 계약
+> 메모리/스토리지 공동설계·복수년 공급·Series H 투자 전략 계약. impact: + / category: m&a
+
+> [!claim] (출처: TradingKey, 2026-06-24) 6/24 회계 Q3 실적 발표 예정 — 역대급 마진·HBM4 기대
+> MU 6/24 회계 Q3 실적 발표 예정 — 역대급 마진·HBM4 공급 가속 기대. impact: neutral / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-06-23) Korea 메모리 셀오프 — SK하이닉스/삼성 -12%, KOSPI 서킷브레이커
+> SK하이닉스·삼성 -12%, KOSPI 서킷브레이커 — HBM 수요 믹스 우려 전이. impact: - / category: macro
+
+**경쟁사 동향**:
+- SK Hynix: Report: SK Hynix slowing HBM4 expansion, shifting toward conventional DRAM — 셀오프 진앙, HBM 수요 둔화 우려가 MU 핵심 성장축을 직접 겨냥
+- Samsung: Samsung -12% in the Korea memory rout — 메모리 3사 동반 급락, HBM 가격·믹스 불확실성 부각, 단 MU는 Anthropic 수요 선확보
+
 ### 2026-06-16
 
 **narrative_score**: +0.32 (강한 긍정)

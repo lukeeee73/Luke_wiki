@@ -1,7 +1,7 @@
 ---
 title: "AVGO - Broadcom Inc. — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-16
+updated: 2026-06-23
 domain: finance
 type: claim
 weight: reference
@@ -23,12 +23,14 @@ sources: []
 - [x] **2026-05-19**: AI 맞춤형 칩 2027년 $1000억 매출 — 달성 경로 검증 필요 → **at-risk** (Q2 AI $108억(2배) 달성했으나 FY 목표 미상향 → 주가 -15%, 2026-06-10)
 - [x] **2026-06-02**: Q2 FY2026 실적 (6/3 발표) — AI 가이던스 달성 여부 → **partial-miss** (EPS $2.44 소폭 상회, 매출 $22.19B 기록적, FY AI $1,000억 목표 미상향 → -15%, 2026-06-10)
 - [x] **2026-05-19**: Meta 2nm AI 칩 파트너십 — 구체 수주 규모·일정 미정 → **confirmed-customer** (Hock Tan 어닝콜에서 Meta를 6개 핵심 AI 고객 중 하나로 공식 확인, 2026-06-10)
-- [ ] **2026-06-09**: 주가 -15% 급락 이후 회복 — 다음 분기 AI 가이던스 상향 여부 (Q3 실적 대기)
+- [x] **2026-06-09**: 주가 -15% 급락 이후 회복 — 다음 분기 AI 가이던스 상향 여부 (Q3 실적 대기) → **on-track** (Q3 가이드 ~$16B 제시됐으나 FY $100B 목표는 재확인에 그쳐 미상향, 6/23 AI 셀오프에 -8.6% 추가 하락, 2026-06-23)
 - [ ] **2026-06-09**: FY AI 매출 $100B 목표 — 연내 상향 발표 여부 (6~9개월 검증)
 - [ ] **2026-06-10**: AI XPV 플랫폼 $350억 (Apollo·Blackstone) — 실제 AI 인프라 용량(1GW+) 배치 일정 (6개월 대기)
 - [ ] **2026-06-10**: 6개 AI 핵심 고객 — Anthropic·Google·Meta·OpenAI 외 미공개 2곳 신원 공개 여부 (3~6개월)
 - [ ] **2026-06-16**: 구글 TPU 공급사 다변화 — Q3 실적에서 AI 매출 타격 규모 확인 (Q3 실적 대기)
 - [ ] **2026-06-16**: AI XPV 플랫폼 $350억 Apollo·Blackstone — 실제 1GW+ 데이터센터 착공 일정 (6개월)
+- [ ] **2026-06-23**: $100B 연간 AI 목표 재확인(미상향) — 시장이 보수적 가이던스를 어떻게 재평가할지 (Q3 실적 대기)
+- [ ] **2026-06-23**: 6/23 AI 셀오프 -8.6% — AI 투자 둔화 우려가 일시적 조정인지 추세 전환인지 (30일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -51,6 +53,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-23
+
+**narrative_score**: +0.05 (약한 긍정)
+**key_events**: 6/23 AI 셀오프 -8.6% (촉발 요인 지목), JPMorgan '적극 매수' 의견, $2.5B 부채 텐더오퍼
+**risks**: 연간 AI 목표 미상향에 따른 기대치 미달, AI 투자 둔화 우려 확산, 고밸류에이션·금리 민감도
+
+> [!claim] (출처: TheStreet, 2026-06-23) Broadcom drops ~8.6% on June 23; cited among triggers of the AI-spending selloff
+> AVGO 6/23 ~-8.6% — 신중한 AI 가이던스가 섹터 셀오프 촉발 요인으로 지목. impact: - / category: macro
+
+> [!claim] (출처: Public.com, 2026-06-17) JPMorgan tells investors to be 'aggressive buyers' of Broadcom (June 17)
+> JPMorgan, AVGO '적극 매수' 의견 — 커스텀 AI 칩 모멘텀 신뢰. impact: + / category: other
+
+> [!claim] (출처: CNBC, 2026-06-18) Broadcom launches $2.5B debt tender offer (June 18)
+> AVGO, $2.5B 부채 텐더오퍼 발표 — 자본구조 관리. impact: neutral / category: other
+
+> [!claim] (출처: Broadcom IR, 2026-06-03) Broadcom Q2 FY26 AI revenue $10.8B (+143% YoY); Q3 guide ~$16B, $100B AI target reaffirmed
+> Q2 AI 매출 $10.8B(+143%), Q3 ~$16B 가이드 — 단 연간 목표 미상향에 실망 잔존. impact: + / category: earnings
+
+**경쟁사 동향**:
+- NVDA: Nvidia -3.2% in the same selloff — AI 칩 수요 둔화 우려 공유, 단 AVGO 커스텀 ASIC은 NVDA GPU 대체 수요 공략
+- MU: Micron -11.4% as HBM demand-mix fears hit memory — AI 인프라 투자 둔화 우려가 AVGO 가속기 수요 전망에도 그림자
+
+
+
 ### 2026-06-16
 
 **narrative_score**: -0.11 (약한 부정)

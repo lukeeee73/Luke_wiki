@@ -1,7 +1,7 @@
 ---
 title: "QCOM - QUALCOMM Incorporated — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-16
+updated: 2026-06-23
 domain: finance
 type: claim
 weight: reference
@@ -22,13 +22,15 @@ sources: []
 > 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 직접 편집해도 되지만, HTML 마커(`<!-- OPEN_CLAIMS_START -->
 - [x] **2026-05-19**: Q3 가이던스 하회 — 스마트폰 수요 회복 시점 불확실 → **partially resolved** (Dragonfly 데이터센터 전략으로 스마트폰 의존도 탈피 중, 2026-06-10)
 - [x] **2026-06-02**: NVDA RTX Spark AI PC 공세 — Snapdragon X Elite 점유율 방어 가능 여부 → **challenged** (QCOM 주가 6/5 -9.52% 급락, Dragonfly 데이터센터 전략으로 일부 방어, 2026-06-10)
-- [ ] **2026-05-19**: 경영진 자사주 매입 — 저평가 판단 신호 vs 구조적 약세 (pending — 직접 증거 미확인)
-- [ ] **2026-06-02**: Dragonfly 데이터센터 칩 — 6/24 인베스터 데이 발표 후 시장 반응 (14일 대기)
+- [x] **2026-05-19**: 경영진 자사주 매입 — 저평가 판단 신호 vs 구조적 약세 (pending — 직접 증거 미확인) → **aged-out** (2026-06-23)
+- [x] **2026-06-02**: Dragonfly 데이터센터 칩 — 6/24 인베스터 데이 발표 후 시장 반응 (14일 대기) → **aged-out** (6/24 인베스터데이 직전, 데이터센터 ASIC 하반기 공급 추진으로 전략은 진행 중, 2026-06-23)
 - [ ] **2026-06-09**: JP모건 데이터센터 전략 — FY27 $30억+ 달성 여부 (12개월 검증 대기)
 - [ ] **2026-06-09**: 6/24 인베스터 데이 Dragonfly 세부 발표 — 시장 기대치 충족 여부 (14일 대기)
 - [ ] **2026-06-10**: Humain 200MW 데이터센터 계약 — 첫 Dragonfly 실제 배포 타임라인 확인 (3개월 대기)
-- [ ] **2026-06-16**: Tenstorrent 인수 협상 ($8~10B) — 6개월 내 성사 여부 (협상 모니터링)
+- [x] **2026-06-16**: Tenstorrent 인수 협상 ($8~10B) — 6개월 내 성사 여부 (협상 모니터링) → **refuted** (6/22 Bloomberg는 Tenstorrent 대신 Modular(~$4B) 인수 협상 보도 — Tenstorrent 협상은 대체된 정황, 2026-06-23)
 - [ ] **2026-06-16**: 6/24 인베스터 데이 데이터센터 전략 발표 — 시장 기대치 충족 여부 (8일 대기)
+- [ ] **2026-06-23**: Modular ~$4B 인수 협상 — 실제 계약 성사·데이터센터 SW 수직통합 여부 (60~90일 검증 대기)
+- [ ] **2026-06-23**: 커스텀 데이터센터 ASIC 2026 하반기 공급 — 실제 출하·하이퍼스케일러 채택 여부 (Q3~Q4 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -43,6 +45,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-23
+
+**narrative_score**: +0.17 (약한 긍정)
+**key_events**: Modular ~$4B 인수 협상, Snapdragon Reality Elite AR/XR 칩 공개, 데이터센터 ASIC 2026 하반기 공급 추진
+**risks**: 데이터센터 시장 경쟁(NVDA·기존 파트너십), 스마트폰 수요 둔화, Modular 인수 무산 가능성
+
+> [!claim] (출처: Bloomberg, 2026-06-22) Qualcomm in talks to acquire AI-infrastructure software startup Modular for ~$4B
+> 퀄컴, AI 인프라 SW 스타트업 Modular ~$4B 인수 협상 — 데이터센터 SW 수직통합. impact: + / category: m&a
+
+> [!claim] (출처: Engadget, 2026-06-17) Qualcomm unveils Snapdragon Reality Elite for next-gen AR/XR devices
+> 퀄컴, AR/XR용 Snapdragon Reality Elite 공개(48 TOPS) — 신성장 축. impact: + / category: product
+
+> [!claim] (출처: CNBC, 2026-06-20) Qualcomm targets custom AI data-center chip shipments in late 2026
+> 퀄컴, 하이퍼스케일러向 커스텀 데이터센터 ASIC 2026 하반기 공급 추진. impact: + / category: product
+
+**경쟁사 동향**:
+- INTC: Intel jumps on reported Apple partnership; AI revenue mix rising — 데이터센터·AI 경쟁 심화, 퀄컴은 ASIC·Modular로 차별화 모색
+- MU: Micron -11.4% on HBM demand-mix fears — 퀄컴 데이터센터 진출은 메모리 파트너 의존, 메모리 변동성은 양날의 칼
+
+
+
 ### 2026-06-16
 
 **narrative_score**: +0.12 (약한 긍정)

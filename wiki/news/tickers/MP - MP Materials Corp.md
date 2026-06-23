@@ -1,7 +1,7 @@
 ---
 title: "MP - MP Materials Corp. — Routine News Log"
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-06-23
 domain: finance
 type: claim
 weight: reference
@@ -24,10 +24,13 @@ sources: []
 ## 미해결 가설 (Open Claims)
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-06-16**: 미중 희토류 협정 진전 — 지정학 프리미엄 추가 해소 vs 재부각 여부 (3개월)
+- [x] **2026-06-16**: 미중 희토류 협정 진전 — 지정학 프리미엄 추가 해소 vs 재부각 여부 (3개월) → **refuted** (6/22 중국이 MP를 수출통제 리스트에 편입 — 협정 진전이 아니라 디커플링 재격화로 전환, 지정학 프리미엄 재부각, 2026-06-23)
 - [ ] **2026-06-16**: CEO Litinsky 대규모 매도($2,600만) — 내부 고점 신호 vs 계획 매도 (30일 주가 추이)
 - [ ] **2026-06-16**: 애플·DoD 장기 공급 계약 — 실제 매출 반영 시점 및 규모 (분기 검증)
 - [ ] **2026-06-16**: 사우디 희토류 정제소 딜 — 중동 시장 진출 수익화 시점 (12개월)
+- [ ] **2026-06-23**: 중국 수출통제 리스트 편입(6/22) — 실질 사업 영향(매출·조달 차질) 발생 여부 vs 상징적 격화에 그칠지 (14일 검증 대기)
+- [ ] **2026-06-23**: 텍사스 $1.25B 10X 자석 캠퍼스 — 착공·정부 지원(펜타곤 오프테이크) 구체화 여부 (14일 검증 대기)
+- [ ] **2026-06-23**: 애널리스트 'Strong Buy' 목표가 ~$80(+30%) — 수출통제 악재에도 컨센서스 유지 여부 (14일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -47,6 +50,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-23
+
+**narrative_score**: +0.31 (강한 긍정)
+**key_events**: 중국 수출통제 리스트 편입(6/22), 텍사스 $1.25B 희토류 자석 캠퍼스(10X), 애널리스트 'Strong Buy' 목표가 ~$80
+**risks**: 중국 수출통제·무역 갈등 확대, $1.25B 캠퍼스 준공 지연 리스크, 희토류 가격 변동성
+
+> [!claim] (출처: Bloomberg, 2026-06-22) China places MP Materials on export-control list (June 22)
+> 중국, MP 머티리얼즈를 수출통제 리스트에 추가 — 디커플링 갈등 상징적 격화. impact: - / category: regulation
+
+> [!claim] (출처: StockAnalysis, 2026-06-23) MP Materials reiterated Strong Buy with ~$80 average target (≈+30% upside)
+> 애널리스트 18인 'Strong Buy', 평균 목표가 ~$80(약 +30% 상승여력). impact: + / category: other
+
+> [!claim] (출처: MP Materials IR, 2026-06-15) MP Materials advances $1.25B 'Independence/10X' rare-earth magnet campus in Texas
+> MP, 텍사스 노스레이크 $1.25B 희토류 자석 캠퍼스(10X) 추진 — 美 공급망 핵심. impact: + / category: product
+
+**경쟁사 동향**:
+- LYC.AX: Lynas partners with Noveon Magnetics to cut China dependence — 비중국 희토류 밸류체인 경쟁 심화 — 단 MP는 펜타곤 오프테이크로 차별화
+- FCX: Pentagon expands conditional lending for US rare-earth capacity — 미국 정부 지원 확대 = MP 장기 경쟁력·수요 가시성 강화
 
 ### 2026-06-16
 

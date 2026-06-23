@@ -1,7 +1,7 @@
 ---
 title: "TER - Teradyne, Inc. — Routine News Log"
 created: 2026-06-16
-updated: 2026-06-16
+updated: 2026-06-23
 domain: finance, ai
 type: claim
 weight: reference
@@ -24,10 +24,12 @@ sources: []
 ## 미해결 가설 (Open Claims)
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-06-16**: Nasdaq-100 편입 6/22 — 패시브 펀드 매수 유입으로 주가 기술적 상승 여부 (7일 대기)
+- [x] **2026-06-16**: Nasdaq-100 편입 6/22 — 패시브 펀드 매수 유입으로 주가 기술적 상승 여부 → **refuted** (6/22 편입 발효됐으나 6/23 HBM 셀오프로 ~-8% 하락, 패시브 유입 효과가 섹터 약세에 압도됨, 2026-06-23)
 - [ ] **2026-06-16**: 공군 $1.4억 다년 계약 — 방산 매출 안정화가 이익률에 미치는 영향 (분기 검증)
 - [ ] **2026-06-16**: Automate 2026 (6/22-25) 피지컬 AI 쇼케이스 — 신규 로보틱스 수주 촉매 여부 (30일)
 - [ ] **2026-06-16**: Q1 AI 수요 비중 70% — Q2도 지속 가능한지 또는 반도체 사이클 정점 신호 (Q2 실적)
+- [ ] **2026-06-23**: SK하이닉스 HBM 둔화發 테스트 장비 수요 위축 — 실제 TER ATE 수주 둔화로 이어지는지 vs 일시적 셀오프 (14일 검증 대기)
+- [ ] **2026-06-23**: 도쿄일렉트론 AI 칩렛 통합 테스트 솔루션 — 신규 매출 기여·수주 가시화 여부 (30일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -50,6 +52,28 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-23
+
+**narrative_score**: +0.14 (약한 긍정)
+**key_events**: 6/23 HBM 둔화發 테스트 수요 우려 ~-8%, 도쿄일렉트론 AI 칩렛 테스트 협업, 나스닥-100 편입
+**risks**: HBM 수요 둔화發 테스트 장비 수요 위축, 고밸류에이션(P/E), 반도체 셀오프 동조
+
+> [!claim] (출처: FinancialContent, 2026-06-23) Teradyne ~-8% — SK하이닉스 HBM 둔화發 테스트 장비 수요 우려
+> SK하이닉스 HBM 둔화 우려로 테스트 장비 수요 직격 — TER 6/23 ~-8% 하락. impact: - / category: macro
+
+> [!claim] (출처: Morningstar, 2026-06-08) 테라다인-도쿄일렉트론 AI·데이터센터 통합 테스트 솔루션 출시
+> 테라다인-도쿄일렉트론, AI·데이터센터 칩렛 통합 테스트 솔루션 출시. impact: + / category: product
+
+> [!claim] (출처: Yahoo Finance, 2026-06-10) 테라다인 나스닥-100 편입 — AI 테스트 수요 모멘텀
+> 테라다인, 나스닥-100 편입 — AI 테스트 수요 모멘텀 반영. impact: + / category: other
+
+> [!claim] (출처: BusinessWire, 2026-06-08) 테라다인 로보틱스 Automate 2026 양산형 피지컬 AI 전시
+> 테라다인 로보틱스(UR·MiR), Automate 2026서 양산형 피지컬 AI 솔루션 전시. impact: + / category: product
+
+**경쟁사 동향**:
+- AMAT: Applied Materials/Teradyne/Entegris all trade down June 23 — 장비·테스트 섹터 동반 약세, HBM 수요 둔화 우려 공유
+- LRCX: Lam Research lower in the equipment selloff — WFE·테스트 수요 심리 위축 동조, 단 TER 로보틱스 다각화는 차별점
 
 ### 2026-06-16
 
