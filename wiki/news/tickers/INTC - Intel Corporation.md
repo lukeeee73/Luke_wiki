@@ -1,7 +1,7 @@
 ---
 title: "INTC - Intel Corporation — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-16
+updated: 2026-06-23
 domain: finance
 type: claim
 weight: reference
@@ -29,6 +29,8 @@ x86 CPU(컴퓨터 연산 핵심 칩)의 전통적 절대강자였던 미국 반�
 - [ ] **2026-06-10**: 폭스콘·히타치 AI 인프라 파트너십 — 구체적 수주 규모 공개 여부 (3개월 대기)
 - [ ] **2026-06-16**: NVDA RTX Spark AI PC 진출 → INTC 클라이언트 CPU 분기 매출 영향 (Q2 실적 검증)
 - [ ] **2026-06-16**: 신규 AI 칩 2026 말 제한 출하 — 타이밍 우려 해소 여부 (2~3개월)
+- [ ] **2026-06-23**: 트럼프發 인텔-애플 칩 파트너십 (미확인) — 양사 공식 확인·실제 계약 성사 여부 (30~60일 검증 대기)
+- [ ] **2026-06-23**: 이석희 파운드리 부회장 영입 — 18A 수율·첨단 패키징 개선으로 가시화되는지 (2~3분기 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -52,6 +54,30 @@ x86 CPU(컴퓨터 연산 핵심 칩)의 전통적 절대강자였던 미국 반�
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-23
+
+**narrative_score**: +0.15 (약한 긍정)
+**key_events**: 트럼프發 인텔-애플 파트너십 보도 (+10.6%, 미확인), 이석희 파운드리 부회장 영입, Mizuho 목표가 $135 상향
+**risks**: 애플 파트너십 양사 미확인·실현 불확실, 18A 수율·마진 회복 지연, 반도체 셀오프 동조
+
+> [!claim] (출처: Bloomberg, 2026-06-18) Intel surges ~10.6% after Trump says it struck an Apple chip deal (unconfirmed by companies)
+> 트럼프, 인텔-애플 칩 파트너십 발표로 INTC ~+10.6% — 단 양사 공식 미확인. impact: + / category: m&a
+
+> [!claim] (출처: Intel Newsroom, 2026-06-18) Intel appoints former SK Hynix CEO Seok-Hee Lee as EVP of Intel Foundry
+> 인텔, 前 SK하이닉스 CEO 이석희 파운드리 부회장 영입 — 첨단 패키징 역량 강화. impact: + / category: product
+
+> [!claim] (출처: Public.com, 2026-06-21) Mizuho raises Intel price target to $135 amid AI revenue momentum
+> Mizuho, 인텔 목표가 $135로 상향 — AI 매출 비중 확대 평가. impact: + / category: earnings
+
+> [!claim] (출처: TheStreet, 2026-06-23) Intel slides 5-9% in June 23 semiconductor selloff on rate-hike fears
+> 인텔, 6/23 반도체 셀오프에 5~9% 하락 — 금리 우려·섹터 위험회피. impact: - / category: macro
+
+**경쟁사 동향**:
+- AMD: AMD at record high before the selloff on data-center momentum — 데이터센터 경쟁 심화, 인텔의 Xeon·파운드리 반등 필요
+- TSM: TSMC -5.2%; faces ITC patent probe — 파운드리 1위 TSMC 약세는 인텔 18A 외부 수주 기회 측면에선 상대적 호재 가능
+
+
+
 ### 2026-06-16
 
 **narrative_score**: +0.04 (중립)

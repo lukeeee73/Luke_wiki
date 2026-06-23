@@ -1,7 +1,7 @@
 ---
 title: "AMAT - Applied Materials — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-16
+updated: 2026-06-23
 domain: finance
 type: claim
 weight: reference
@@ -23,11 +23,13 @@ sources: []
 - [x] **2026-05-19**: Q2 총마진 50% 25년 최고 — Q3도 유지 가능한지 → **exceeded** (연간 WFE 30%+로 상향, Q2 사상 최대 매출·25년 최고 마진 기록, 2026-06-10)
 - [x] **2026-05-19**: Q3 가이던스 $8.95B — 실제 달성 및 첨단 패키징 +50% 성장 검증 → **on-track** (Q3 가이던스 $8.45~$9.45B, WFE 30%+ 상향으로 달성 경로 명확, 2026-06-10)
 - [x] **2026-06-02**: ASMPT NEXX $120M 인수 — 어드밴스드 패키징 시장 점유율 확대 여부 → **on-track** (싱가포르 $5억 시설 오픈 + 아시아 역량 25% 확대로 패키징 전략 강화 확인, 2026-06-10)
-- [ ] **2026-06-09**: 내부자 5만주 $2,526만 매도 — 고점 신호인지 vs 단순 계획적 매도인지 (30일 주가 추이 관찰)
+- [x] **2026-06-09**: 내부자 5만주 $2,526만 매도 — 고점 신호인지 vs 단순 계획적 매도인지 → **on-track** (6/22 프라부 라자 ~$6.34M 추가 매도로 내부자 매도 패턴 지속, 2026-06-23)
 - [ ] **2026-06-09**: 장비 사업 연간 30%+ 성장 — Q3 FY2026 실적 발표 시 달성 여부 (분기 검증 대기)
 - [ ] **2026-06-10**: 싱가포르 $5억 시설 — 비중국 아시아 WFE 수요 점유율 실질 변화 여부 (6개월 검증)
-- [ ] **2026-06-16**: P/S 16배 역대 최고 밸류에이션 — WFE 성장률이 정당화하는지 Q3 실적 검증
+- [x] **2026-06-16**: P/S 16배 역대 최고 밸류에이션 — WFE 성장률이 정당화하는지 → **on-track** (6/23 장비주 셀오프로 밸류에이션 조정 시작, 펀더멘털 검증 진행 중, 2026-06-23)
 - [ ] **2026-06-16**: 싱가포르 탐피네스 $5억 캠퍼스 — 비중국 아시아 WFE 시장점유율 실질 변화 (6개월)
+- [ ] **2026-06-23**: Wells Fargo 목표가 $715 — AI WFE 붐 논거가 후속 IB 동조·실적으로 입증되는지 (30일 검증 대기)
+- [ ] **2026-06-23**: 에실로룩소티카 AR 광학 공동개발 — 반도체 외 신성장축으로 실제 매출 기여하는지 (6개월 검증)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -53,6 +55,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-23
+
+**narrative_score**: +0.18 (약한 긍정)
+**key_events**: Wells Fargo 목표가 $715 상향, 에실로룩소티카 AR 광학 공동개발, 6/23 장비주 셀오프 동반 하락
+**risks**: AI 투자 둔화 시 고객 capex 연기, 내부자 매도 심리, 반도체·장비 셀오프 동조
+
+> [!claim] (출처: MarketBeat, 2026-06-22) Wells Fargo raises Applied Materials price target to $715 on AI-driven WFE boom
+> Wells Fargo, AMAT 목표가 $715로 대폭 상향 — AI發 장비 수요 평가. impact: + / category: earnings
+
+> [!claim] (출처: GlobeNewswire, 2026-06-16) EssilorLuxottica and Applied Materials partner on AR smart-glasses optics platform
+> AMAT-에실로룩소티카, AR 스마트글래스 광학 플랫폼 공동개발 — 신성장. impact: + / category: m&a
+
+> [!claim] (출처: FinancialContent, 2026-06-23) Applied Materials, Teradyne, Entegris trade down in June 23 chip-equipment selloff
+> AMAT, 6/23 장비주 셀오프에 동반 하락 — HBM 수요 둔화 우려 전이. impact: - / category: macro
+
+> [!claim] (출처: Investing.com, 2026-06-22) Applied Materials president Prabu Raja sells ~$6.34M in shares
+> AMAT 임원 ~$6.34M 주식 매도 — 내부자 매도 심리 부담. impact: - / category: other
+
+**경쟁사 동향**:
+- LRCX: Lam Research draws multiple PT hikes (Wells Fargo $450, BofA $480) — WFE 업사이클 동조, AMAT 30%+ 성장 가이던스 뒷받침
+- ASML: ASML pressured by China EUV scrutiny and the equipment selloff — 장비 섹터 위험회피 동조, 단 펀더멘털 수요는 견조
+
+
+
 ### 2026-06-16
 
 **narrative_score**: +0.29 (약한 긍정)

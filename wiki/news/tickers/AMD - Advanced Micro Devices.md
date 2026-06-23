@@ -1,7 +1,7 @@
 ---
 title: "AMD - Advanced Micro Devices — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-16
+updated: 2026-06-23
 domain: finance
 type: claim
 weight: reference
@@ -25,10 +25,12 @@ CPU(컴퓨터 두뇌)와 GPU(그래픽 처리 장치) 모두를 만드는 반도
 - [ ] **2026-05-19**: MI450 AI 칩 H2 2026 출시 — NVDA Blackwell 대비 경쟁력 검증 (pending — H2 2026 출시 전 검증 불가)
 - [ ] **2026-06-09**: 영국 AI 인프라 £2B 투자 — 유럽 데이터센터 시장 점유율 확대 실현 여부 (5년 장기 모니터링)
 - [ ] **2026-06-09**: 바클레이즈 $665 목표가 — 데이터센터 성장 지속 여부 (Q2 FY2027 어닝 검증 대기)
-- [ ] **2026-06-10**: ARK Invest $3900만 + 내부자 $1.2억 매도 — 고점 신호인지 vs 기관 단순 차익실현인지 (30일 추이 관찰)
+- [x] **2026-06-10**: ARK Invest $3900만 + 내부자 $1.2억 매도 — 고점 신호인지 vs 기관 단순 차익실현인지 (30일 추이 관찰) → **on-track** (6/22 사상최고가 $563 갱신 — 매도 후에도 상승 지속, 단순 차익실현 쪽 무게, 2026-06-23)
 - [ ] **2026-06-10**: Q2 FY2026 가이던스 $11.2B (+45% YoY) — 실제 달성 여부 (Q2 어닝 검증 대기)
 - [ ] **2026-06-16**: MEXT 인수 완료 — AI 에지 사업 매출 기여 시점 확인 (2~4분기 검증)
 - [ ] **2026-06-16**: Ryzen AI Halo $3,999 판매량 — AI PC 개발자 시장 점유율 확보 여부 (6개월)
+- [ ] **2026-06-23**: M Science 2Q GPU 배치 '급격히 악화' 경고 — Q2 데이터센터 GPU 실적 부진으로 현실화되는지 (Q2 어닝 검증 대기)
+- [ ] **2026-06-23**: HBM 가격 인플레發 하반기 총마진 압박 — CFO 경고대로 GM 하락 현실화 여부 (Q3 실적 검증, 30일+ 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +47,30 @@ CPU(컴퓨터 두뇌)와 GPU(그래픽 처리 장치) 모두를 만드는 반도
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-23
+
+**narrative_score**: +0.03 (중립)
+**key_events**: 6/22 사상최고가 ~$563 (YTD +133%), Rackspace 30MW AI 컴퓨트 협약, M Science 2Q GPU 배치 악화 경고
+**risks**: 2Q GPU 배치 부진 우려, HBM 가격 인플레發 마진 압박, 반도체 섹터 셀오프 동조
+
+> [!claim] (출처: TradingKey, 2026-06-22) AMD hits record high near $563 (June 22), up ~133% YTD on data-center momentum
+> AMD 6/22 사상최고가 ~$563(YTD +133%) — 데이터센터 모멘텀 지속. impact: + / category: earnings
+
+> [!claim] (출처: Bloomberg, 2026-06-16) AMD and Apollo-backed Rackspace sign 30 MW AI compute deployment agreement
+> AMD-Rackspace 30MW AI 컴퓨트 배포 협약 — 데이터센터 수주 확대. impact: + / category: m&a
+
+> [!claim] (출처: TradingKey, 2026-06-17) AMD falls ~7% on June 17 after M Science flags 'materially worsened' Q2 GPU deployment
+> M Science 리포트, AMD 2Q GPU 배치량 '급격히 악화' 지적 — 주가 ~7% 하락. impact: - / category: other
+
+> [!claim] (출처: TechRadar, 2026-06-15) AMD CFO Jean Hu warns of unprecedented HBM price inflation pressuring gross margins
+> AMD CFO, '사상 최고' HBM 가격 인플레 경고 — 하반기 마진 압박 가능성. impact: - / category: macro
+
+**경쟁사 동향**:
+- NVDA: Nvidia -3.2% in June 23 semiconductor selloff — AI 칩 1위 NVDA 동반 약세, 섹터 전반 위험회피로 AMD도 동조 하락 위험
+- INTC: Intel surges on reported Trump-brokered Apple chip partnership — 인텔 파운드리 모멘텀 부각, AMD의 x86·AI 경쟁 구도 재점화
+
+
+
 ### 2026-06-16
 
 **narrative_score**: +0.31 (강한 긍정)

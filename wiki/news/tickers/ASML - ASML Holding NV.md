@@ -1,7 +1,7 @@
 ---
 title: "ASML - ASML Holding NV — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-16
+updated: 2026-06-23
 domain: finance
 type: claim
 weight: reference
@@ -23,11 +23,13 @@ sources: []
 - [x] **2026-05-19**: 2026 가이던스 +16% YoY 380억 유로 — 분기 진행 상황 검증 필요 → **exceeded** (가이던스 €36~40B로 상향, Q1 €88억 매출·마진 53%, 2026-06-10 확인)
 - [x] **2026-06-02**: UBS 목표가 €1,900 vs Morningstar 매도 — 밸류에이션 합리성 검증 → **bull-case-confirmed** (BofA €1,921·JPM €1,900·바클레이즈 €1,900·MS €1,660 4사 동시 상향, 2026-06-10)
 - [x] **2026-06-09**: 일론 머스크 Terafab JV ($550억 텍사스 팹) — 실제 ASML 장비 수주로 이어질지 → **progressing** (CEO 직접 협상 중, '매우 진지'하다고 공개 확인, 2026-06-10)
-- [ ] **2026-05-19**: 인도 Tata 300mm 팹 장비 공급 — 수주 규모·일정 구체화 필요 (pending)
+- [x] **2026-05-19**: 인도 Tata 300mm 팹 장비 공급 — 수주 규모·일정 구체화 필요 → **aged-out** (2026-06-23)
 - [ ] **2026-06-09**: 2026 매출 €36~40B 가이던스 — 하반기 EUV 출하 일정 준수 여부 (Q3 실적 검증 대기)
 - [ ] **2026-06-10**: Terafab 수주 일정 — CEO 협상 '진지' 확인 후 공식 장비 계약 체결 여부 (6~12개월 대기)
-- [ ] **2026-06-16**: YTD +69% 후 -4.7% 조정 — 단기 €1,800 지지선 여부 (30일 관찰)
+- [x] **2026-06-16**: YTD +69% 후 -4.7% 조정 — 단기 €1,800 지지선 여부 → **refuted** (6/23 ~-7% 추가 셀오프로 지지선 이탈, 2026-06-23)
 - [ ] **2026-06-16**: Terafab JV 공식 수주 계약 체결 여부 — CEO '매우 진지' 확인 후 (6~12개월)
+- [ ] **2026-06-23**: 미 상무부 中 EUV 유출 우려 — 신규 수출통제·고객기반 축소로 실제 확대되는지 (30일 검증 대기)
+- [ ] **2026-06-23**: 6/23 장비주 셀오프 ~-7% — 한국 메모리發 동조 약세가 단기 반등 vs 추세 전환인지 (14일 관찰)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -54,6 +56,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-23
+
+**narrative_score**: +0.01 (중립)
+**key_events**: 미 상무부 中 EUV 유출 우려 제기 (ASML 부인), 6/23 장비주 셀오프 ~-7%
+**risks**: 미·중 수출통제 강화로 고객기반 축소 가능성, 글로벌 반도체·장비 매도 동조, AI 투자 둔화 우려
+
+> [!claim] (출처: Bloomberg, 2026-06-19) U.S. tells ASML it is concerned China may have obtained a top chip tool; ASML denies
+> 미 상무부, ASML 고급 EUV 中 유출 우려 제기 — ASML 부인. 수출통제 리스크. impact: - / category: regulation
+
+> [!claim] (출처: Kalkine, 2026-06-23) ASML falls ~7% on June 23 as global chip-equipment names slide in the selloff
+> ASML, 한국 메모리發 장비주 동반 약세에 6/23 ~7% 하락. impact: - / category: macro
+
+> [!claim] (출처: CNBC, 2026-06-23) Tech rout: Samsung, SK Hynix lead global chip-equipment and AI selloff
+> 삼성·SK하이닉스 주도 글로벌 칩·장비 매도 — ASML 등 WFE 전반 압박. impact: - / category: macro
+
+**경쟁사 동향**:
+- AMAT: Applied Materials posts record Q2 margins, raises growth outlook — 장비 업황 강세 확인, ASML 독점 EUV 수요 펀더멘털 지지
+- LRCX: Lam Research draws multiple PT hikes on stronger WFE cycle — WFE 사이클 강세 신호, ASML 매출 가시성에도 우호적
+
+
+
 ### 2026-06-16
 
 **narrative_score**: +0.28 (약한 긍정)

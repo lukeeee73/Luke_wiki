@@ -1,7 +1,7 @@
 ---
 title: "TSM - Taiwan Semiconductor Mfg. — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-16
+updated: 2026-06-23
 domain: finance
 type: claim
 weight: reference
@@ -25,10 +25,12 @@ sources: []
 - [x] **2026-06-02**: 3nm 공정 가격 15% 인상 — 고객사 반발 없이 실행 여부 → **confirmed** (5월 매출 +30.1% 발표로 고객사 이탈 없이 수요 과열 재확인, 2026-06-10)
 - [x] **2026-06-02**: NVDA 대만 투자 확대 — 구체적 파운드리 수주 증가로 이어질지 → **on-track** (Apple/Google/NVDA AI 수요 TSM 직결, 5월 매출 확인, 2026-06-10)
 - [x] **2026-06-09**: 2026년 매출 30%+ 성장 — Q2/Q3 실제 실적 달성 여부 → **on-track** (5월 +30.1% YoY 실현, 1~5월 누적 +30.0%, 2026-06-10 SEC 공시)
-- [ ] **2026-06-09**: 인텔 파운드리 구글 TPU 수주 — 중장기 파운드리 경쟁 압력 현실화 여부 (장기 모니터링)
+- [x] **2026-06-09**: 인텔 파운드리 구글 TPU 수주 — 중장기 파운드리 경쟁 압력 현실화 여부 (장기 모니터링) → **on-track** (INTC 애플 파트너십·18A 진전 보도로 파운드리 모멘텀 부각, 단 TSMC ~70% 점유·선단 리드 유지, 2026-06-23)
 - [ ] **2026-06-10**: 3nm 가격 인상 후 고객사 대체 팹 탐색 — INTC 18A, 삼성 SF3 대안화 여부 (12개월 모니터링)
 - [ ] **2026-06-16**: 3nm 15% 가격 인상 후 고객사 반발·대안 팹 전환 여부 — 6/24 QCOM 인베스터 데이가 시그널 (14일)
 - [ ] **2026-06-16**: 대만해협 지정학 리스크 — 2026 하반기 생산 차질 없이 +30% 가이던스 달성 여부 (분기)
+- [ ] **2026-06-23**: ITC 특허 조사(Longitude/Marlin) — 미국 수입금지 등 실질 제재로 확대되는지 (조사 진행 추이, 60일 대기)
+- [ ] **2026-06-23**: Amkor 애리조나 10년 패키징 파트너십 — 미국 첨단 패키징 캐파 실제 가동·매출 기여 여부 (장기 모니터링)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -57,6 +59,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-23
+
+**narrative_score**: +0.12 (약한 긍정)
+**key_events**: 6/23 셀오프 -5.2% ($443.35), Susquehanna 목표가 $575 상향, Amkor 애리조나 10년 패키징 파트너십
+**risks**: ITC 특허 조사·미국 수입금지 리스크, 금리 인상·AI 투자 지속성 우려, 고밸류에이션
+
+> [!claim] (출처: TradingKey, 2026-06-23) TSMC falls ~5.2% to $443.35 in June 23 chip selloff after recent record highs
+> TSMC 6/23 -5.2%($443.35) — 신고가 후 반도체 매도·금리 우려에 차익실현. impact: - / category: macro
+
+> [!claim] (출처: GuruFocus, 2026-06-22) Susquehanna raises TSMC price target to $575 from $500 on AI demand and capex
+> Susquehanna, TSMC 목표가 $500→$575 상향 — AI 수요·증설 기대. impact: + / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-06-17) TSMC and Amkor sign 10-year advanced packaging partnership in Arizona
+> TSMC-Amkor, 애리조나 첨단 패키징 10년 파트너십 — 미국 공급망 강화. impact: + / category: m&a
+
+> [!claim] (출처: TradingKey, 2026-06-23) TSMC faces ITC patent probe with potential U.S. import-ban risk
+> Longitude/Marlin 특허 침해 주장으로 ITC 조사 — 미국 수입금지 리스크. impact: - / category: regulation
+
+**경쟁사 동향**:
+- INTC: Intel touts foundry momentum on reported Apple partnership and 18A progress — 파운드리 경쟁 부상, 단 TSMC의 ~70% 점유·선단 공정 리드는 유지
+- NVDA: Nvidia -3.2% in sector selloff — 최대 고객 NVDA 약세는 AI 가속기 수요 심리 둔화, TSMC 가동률 간접 영향
+
+
+
 ### 2026-06-16
 
 **narrative_score**: +0.30 (강한 긍정)

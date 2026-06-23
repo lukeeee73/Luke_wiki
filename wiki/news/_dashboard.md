@@ -52,25 +52,23 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [NVDA](tickers/NVDA - NVIDIA Corporation.md) | 2026-06-16 | +0.23 | 시총 $5.1조 세계 1위, NAVER AI 파트너십, SOX -10% 여진 후 회복·52주 고점 -26% | 5 |
-| [AMD](tickers/AMD - Advanced Micro Devices.md) | 2026-06-16 | +0.31 | MEXT 인수 + Ryzen AI Halo $3,999 출시로 52주 고점($547) 달성, 시총 $9,000억 돌파 | 5 |
-| [TSM](tickers/TSM - Taiwan Semiconductor Mfg.md) | 2026-06-16 | +0.30 | 5월 매출 +30.1% YoY·시총 $2.28조 최고, 3nm 15% 가격 인상 공급자 우위 확인 | 4 |
-| [AVGO](tickers/AVGO - Broadcom Inc.md) | 2026-06-16 | -0.11 | Q2 AI $10.8B(2배) 달성에도 FY 미상향 -15%, 구글 TPU 다변화 리스크 재부각 | 6 |
-| [INTC](tickers/INTC - Intel Corporation.md) | 2026-06-16 | +0.04 | NVDA RTX Spark 경쟁 -1.95%, 구글 300만 TPU 수주(6/8), YTD +250% 밸류에이션 부담 | 5 |
-| [QCOM](tickers/QCOM - QUALCOMM Incorporated.md) | 2026-06-16 | +0.12 | Tenstorrent $8-10B 인수 협의, Humain 200MW 계약, 6/24 인베스터 데이 8일 대기 | 6 |
-| [ASML](tickers/ASML - ASML Holding NV.md) | 2026-06-16 | +0.28 | YTD +69.2% 후 -4.7% 조정, CEO Terafab '매우 진지', 4개 증권사 PT 동시 상향 | 5 |
-| [AMAT](tickers/AMAT - Applied Materials.md) | 2026-06-16 | +0.29 | P/S 16배 역대 최고, Q2 사상 최대·WFE 30%+ 상향, 싱가포르 $5억 캠퍼스 | 5 |
-| [LRCX](tickers/LRCX - Lam Research Corp.md) | 2026-06-16 | +0.27 | Q3 사상 최대 $58.4억·Q4 가이던스 $66억, 첨단 패키징 +50%, 6/17 배당 권리락 | 6 |
-| [MU](tickers/MU - Micron Technology.md) | 2026-06-16 | +0.32 | NVDA HBM4 인증(Vera Rubin), 미국 1α DRAM 생산 개시, 6/24 Q3 실적 기대 | 6 |
-
+| [NVDA](tickers/NVDA - NVIDIA Corporation.md) | 2026-06-23 | -0.12 | HBM4 둔화·B200 렌탈가 -31% 셀오프로 -3.2%, 단기 심리 압박 | 6 |
+| [AMD](tickers/AMD - Advanced Micro Devices.md) | 2026-06-23 | +0.03 | 6/22 사상최고가 $563 vs M Science 2Q GPU 악화 경고로 변동성 | 8 |
+| [TSM](tickers/TSM - Taiwan Semiconductor Mfg.md) | 2026-06-23 | +0.12 | Susquehanna $575 상향에도 셀오프 -5.2%·ITC 수입금지 리스크 | 5 |
+| [AVGO](tickers/AVGO - Broadcom Inc.md) | 2026-06-23 | +0.05 | AI 셀오프 -8.6%, $100B 목표 미상향이 트리거로 지목 | 7 |
+| [INTC](tickers/INTC - Intel Corporation.md) | 2026-06-23 | +0.15 | 트럼프發 애플 파트너십(미확인) +10.6%, 이석희 영입 | 7 |
+| [QCOM](tickers/QCOM - QUALCOMM Incorporated.md) | 2026-06-23 | +0.17 | Modular ~$4B 인수 협상으로 데이터센터 SW 수직통합 | 6 |
+| [ASML](tickers/ASML - ASML Holding NV.md) | 2026-06-23 | +0.01 | 美 中EUV 유출 우려+장비주 -7% 셀오프, 중립 | 4 |
+| [AMAT](tickers/AMAT - Applied Materials.md) | 2026-06-23 | +0.18 | WF $715 상향·AR 협업, 셀오프·내부자매도가 상쇄 | 5 |
+| [LRCX](tickers/LRCX - Lam Research Corp.md) | 2026-06-23 | +0.17 | WF $450·BofA $480 US1 편입, 셀오프 약세 | 4 |
+| [MU](tickers/MU - Micron Technology.md) | 2026-06-23 | +0.05 | HBM4 둔화發 -11.4% 급락, Anthropic 전략계약·6/24 실적 임박 | 9 |
 ### 로보틱스 / 피지컬 AI
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [TER](tickers/TER - Teradyne, Inc.md) | 2026-06-16 | +0.29 | Nasdaq-100 6/22 편입, 공군 $1.4억 다년 계약, Q1 AI 수요 70%, Automate 2026 준비 | 4 |
-| [HSAI](tickers/HSAI - Hesai Group.md) | 2026-06-16 | -0.05 | 8:1 주식 분할 AGM(6/26), Kosmo 3D 센서 출시, YTD -23.42% 지정학·경쟁 복합 압박 | 4 |
-| [MP](tickers/MP - MP Materials Corp.md) | 2026-06-16 | +0.01 | 애플·DoD 장기 공급 계약, 미중 협정 진전 → 지정학 프리미엄 해소 -10%, CEO 매도 | 4 |
-
+| [TER](tickers/TER - Teradyne, Inc.md) | 2026-06-23 | +0.14 | HBM 둔화로 ~-8% 하락, 나스닥100 편입 효과 셀오프에 압도 | 5 |
+| [HSAI](tickers/HSAI - Hesai Group.md) | 2026-06-23 | +0.26 | 6/26 주총 8:1 액면분할 추진, 중국 ADR 위험회피로 월 -7% | 5 |
+| [MP](tickers/MP - MP Materials Corp.md) | 2026-06-23 | +0.31 | 중국 수출통제 편입에도 텍사스 $1.25B 캠퍼스·Strong Buy | 6 |
 ### 자동차 / 모빌리티
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
@@ -279,6 +277,25 @@ sources: []
 - **모순 (RIVN 급반전)**: 2026-06-03 +0.30 → 2026-06-17 +0.01 — R2 실제 양산 시작에도 NHTSA 조사·2% 감원이 모멘텀 급감. "출시 기대 → 출시 현실" 전환 과정에서 실행 리스크 현실화.
 - **연속성 (STLA 법적 리스크)**: 2026-06-03 -0.30(증권사기 소송 마감) → 2026-06-17 -0.09(다수 집단소송 제기) — 2주 연속 법적 리스크 테마. 소송 비용 누적이 밸류에이션 디스카운트 확대 요인.
 - **주목 이벤트**: GM 배당 $0.18 지급(6/18), 현대차 배당 지급(6/30), 기아 다음 실적 발표(7/17), 042660.KS 캐나다 CPSP 최종 수주 결정(미정), 010140.KS Delfin FLNG 착공 일정.
+
+### 감지된 패턴 (2026-06-23 · 화요일 · 반도체 + 로보틱스 / 피지컬 AI)
+
+## 오늘의 시그널 (2026-06-23 · 화요일 · 반도체 + 로보틱스 / 피지컬 AI)
+
+루틴은 다음 패턴을 감지하면 이 섹션에 기록한다:
+
+- **연속성**: 같은 테마가 3 일 이상 연속 등장
+- **모순**: 같은 종목 어제/오늘 narrative 가 반대 방향
+- **섹터 동기화**: 3 종목 이상이 같은 매크로 이슈로 동시 움직임
+
+**2026-06-23 감지된 시그널:**
+
+- **섹터 동기화 (HBM發 메모리·반도체 셀오프)**: SK하이닉스가 HBM4 증설 속도를 줄이고 일반 DRAM으로 전환한다는 보도가 진앙. KOSPI -10%(서킷브레이커 2회)·SK하이닉스/삼성 -12% → 글로벌 전이. MU -11.4%($1,074.60)·TSM -5.2%·NVDA -3.2%·AVGO -8.6%·ASML/AMAT/LRCX/TER 동반 하락. AI 가속기·메모리·장비·테스트 전 밸류체인이 단일 매크로 이슈로 동시 급락.
+- **모순 (MU 급반전)**: +0.32 → +0.05 — Anthropic 전략 계약(공급·공동설계·Series H)·6/24 Q3 실적 임박이라는 강한 카탈리스트에도, HBM 수요 믹스 우려가 핵심 성장축을 직접 겨냥하며 -11.4% 급락. 6/24 실적이 셀오프 과민반응 여부의 분수령.
+- **역방향 (AVGO 셀오프 트리거)**: -0.11 → +0.05 — 신중한 AI 가이던스가 6/23 'AI 투자 둔화' 셀오프의 촉발 요인으로 지목. 단 JPMorgan '적극 매수'·커스텀 ASIC 6대 고객 등 펀더멘털은 견조 — 심리와 펀더멘털 괴리.
+- **고유 강세 (셀오프 무관 종목)**: INTC +0.15(트럼프發 애플 파트너십 보도·이석희 파운드리 부회장 영입) / QCOM +0.17(Modular ~$4B 인수 협상) / MP +0.31(중국 수출통제 편입에도 펜타곤 오프테이크·텍사스 $1.25B 캠퍼스) / HSAI +0.26(6/26 주총 8:1 액면분할) — 반도체 매크로 셀오프와 상관성 낮은 고유 촉매로 상대적 강세.
+- **경고 (AI 자본지출 둔화 신호)**: NVDA B200 클라우드 렌탈가 3주 -31% + SK하이닉스 HBM4 전환 + AVGO 보수적 가이던스가 겹치며 'AI 인프라 투자 피크아웃' 내러티브 부상. 다음 주 실적·가이던스(MU 6/24 시작)에서 수요 둔화 실체 여부 확인 필요.
+- **주목 이벤트**: 6/24 MU 회계 Q3 실적·QCOM 인베스터 데이, 6/26 HSAI 주총(8:1 액면분할). ITC의 TSMC 특허 조사 예비결정, 美 상무부의 ASML 中 EUV 유출 조사 진행.
 
 ### 감지된 패턴 (2026-06-16 · 화요일 · 반도체 + 로보틱스 / 피지컬 AI)
 

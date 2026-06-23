@@ -1,7 +1,7 @@
 ---
 title: "LRCX - Lam Research Corp. — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-16
+updated: 2026-06-23
 domain: finance
 type: claim
 weight: reference
@@ -23,12 +23,14 @@ sources: []
 - [x] **2026-05-19**: Q1 매출 $5.84B 역대 최고 — Q2 가이던스 $6.6B 달성 가능성 → **on-track** (Q3 FY2026도 강세, 어드밴스드 패키징 50%+ 성장, 2026-06-10)
 - [x] **2026-05-19**: 삼성전자 5/21 파업 — 발주 지연 및 공급망 영향 규모 파악 필요 → **resolved** (COMPUTEX 후 LRCX 급등·52주 신고가 — 파업 영향 제한적, 2026-06-02)
 - [x] **2026-06-02**: WFE 전망 ~$1,400억 상향 — 실제 수주 증가 여부 → **verified** (미즈호 $380·MS Overweight·B.Riley $385 동시 상향, 2026-06-10)
-- [ ] **2026-06-09**: P/E 61x (5년 중위 23x 대비) — 밸류에이션 조정 없이 성장 지속 가능한지 (분기별 실적 검증)
-- [ ] **2026-06-09**: 배당 $0.26 권리락 6/17 — 주주환원 정책 지속 여부 (연간 배당 성장 추이 확인)
+- [x] **2026-06-09**: P/E 61x (5년 중위 23x 대비) — 밸류에이션 조정 없이 성장 지속 가능한지 → **on-track** (6/23 셀오프로 밸류에이션 조정 압력 발생, 단 다수 IB PT 상향으로 강세 논거 유지, 2026-06-23)
+- [x] **2026-06-09**: 배당 $0.26 권리락 6/17 — 주주환원 정책 지속 여부 → **verified** (6/17 권리락 통과, 분기 배당 정상 집행 확인, 2026-06-23)
 - [ ] **2026-06-10**: MATCH Act 수출 규제 — 중국 매출 43%→30% 이하 하락 시 총매출 영향 (2~3분기 검증)
 - [ ] **2026-06-10**: IBM 파트너십 — 한국·대만·미국 전환 수요가 중국 감소분 대체 여부 (6개월 검증)
-- [ ] **2026-06-16**: Q4 FY2026 $66억 가이던스 — 6/28 실적 달성 여부 (12일 대기)
-- [ ] **2026-06-16**: 배당 $0.26 권리락 6/17 — 주주환원 정책 분기 배당 성장 지속 여부
+- [ ] **2026-06-16**: Q4 FY2026 $66억 가이던스 — 6/28 실적 달성 여부 (5일 대기)
+- [x] **2026-06-16**: 배당 $0.26 권리락 6/17 — 주주환원 정책 분기 배당 성장 지속 여부 → **verified** (6/17 권리락 통과, 2026-06-23)
+- [ ] **2026-06-23**: BofA US 1 List 편입·$480 최고 목표가 — Street-high 목표가가 6/28 실적으로 정당화되는지 (실적 검증 대기)
+- [ ] **2026-06-23**: 6/23 장비주 셀오프 약세 — WFE 강세 논거가 섹터 위험회피를 단기에 압도하는지 (14일 관찰)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -47,6 +49,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-23
+
+**narrative_score**: +0.17 (약한 긍정)
+**key_events**: Wells Fargo 목표가 $450 상향, BofA US 1 List 편입·$480 최고 목표가, Barclays 목표가 $335 상향
+**risks**: 고밸류에이션, 미·중 수출규제 강화 우려, AI 투자 과열 우려發 거시 부담
+
+> [!claim] (출처: GuruFocus, 2026-06-22) Wells Fargo raises Lam Research price target to $450, maintains Overweight
+> Wells Fargo, LRCX 목표가 $450 상향·비중확대 유지. impact: + / category: earnings
+
+> [!claim] (출처: QuiverQuant, 2026-06-22) Bank of America adds Lam Research to US 1 List with Street-high $480 target
+> BofA, LRCX를 'US 1 List' 편입·목표가 $480(최고치). impact: + / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-06-11) Barclays raises Lam Research price target to $335 on stronger WFE cycle
+> Barclays, LRCX 목표가 $335 상향 — WFE 사이클 강화 지적. impact: + / category: earnings
+
+> [!claim] (출처: CNBC, 2026-06-23) Lam Research trades lower in June 23 chip-equipment selloff
+> LRCX, 6/23 장비주 셀오프에 약세 — 섹터 위험회피. impact: - / category: macro
+
+**경쟁사 동향**:
+- AMAT: Applied Materials posts record Q2 margins; Wells Fargo PT to $715 — 장비 업황 강세 동조, LRCX WFE 가이던스 뒷받침
+- ASML: ASML pressured by China EUV scrutiny — 장비 섹터 규제·셀오프 동조, 단 식각·증착 수요는 견조
+
+
+
 ### 2026-06-16
 
 **narrative_score**: +0.27 (약한 긍정)

@@ -1,7 +1,7 @@
 ---
 title: "NVDA - NVIDIA Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-16
+updated: 2026-06-23
 domain: finance
 type: claim
 weight: reference
@@ -25,11 +25,13 @@ AI(인공지능) 열풍의 최대 수혜 기업으로, GPU(그래픽 처리 장�
 - [x] **2026-06-02**: COMPUTEX RTX Spark 슈퍼칩 — AI PC 시장 점유율 확보 여부 → **on-track** (애플 Google Cloud/NVIDIA 파트너십으로 AI 생태계 장악 강화, 2026-06-10 확인)
 - [x] **2026-06-02**: TSMC 파트너십 심화 및 대만 투자 확대 — FY2027 공급 안정성 확인 여부 → **on-track** (5월 TSM 매출 +30.1% YoY, NVDA 수요 직결, 2026-06-10 확인)
 - [x] **2026-06-09**: 애플 AI 클라이언트 — 구체적 계약 규모·제품 연동 내용 공개 여부 → **verified** (Apple PCC via Google Cloud/NVIDIA 공식 발표 — AFM Cloud Pro 9월 출시, 2026-06-10)
-- [ ] **2026-06-09**: 젠슨 황 상원 청문회 거부 — 규제 압박 강화 여부 (7일 검증 대기)
+- [x] **2026-06-09**: 젠슨 황 상원 청문회 거부 — 규제 압박 강화 여부 (7일 검증 대기) → **aged-out** (2026-06-23)
 - [ ] **2026-06-10**: TSMC 3nm 15% 가격 인상 → NVIDIA H2 2026 마진 압박 현실화 여부 (Q3 실적 검증)
 - [ ] **2026-06-10**: 인텔 18A 평가 결과 — 실제 수주 계약으로 전환 여부 (60일 대기)
 - [ ] **2026-06-16**: 6/24 주주총회 — 이사회 구성·보상 안건 주주 반발 여부 (14일 대기)
 - [ ] **2026-06-16**: AMD Ryzen AI Halo AI PC 경쟁 심화 — RTX Spark 에지 AI 시장점유율 방어 여부 (3개월)
+- [ ] **2026-06-23**: SK하이닉스 HBM4 증설 둔화·DRAM 전환이 NVDA Rubin 수요 둔화로 실제 확산되는지 (Q2 가동률·수주 검증, 30일 대기)
+- [ ] **2026-06-23**: B200 클라우드 렌탈료 -31% — AI 컴퓨트 공급 완화가 신규 GPU ASP/수요에 압박 주는지 (21일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -56,6 +58,30 @@ AI(인공지능) 열풍의 최대 수혜 기업으로, GPU(그래픽 처리 장�
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-23
+
+**narrative_score**: -0.12 (약한 부정)
+**key_events**: 6/23 반도체 셀오프 NVDA -3.2%, B200 클라우드 렌탈료 3주 -31%, Jamendo 저작권 소송
+**risks**: SK하이닉스 HBM4 전환發 AI 수요 둔화 우려, GPU 렌탈가 하락 = 공급 완화 신호, 저작권 소송 등 규제 잡음
+
+> [!claim] (출처: TheStreet, 2026-06-23) Nvidia falls 3.2% to $201.97 as AI/semiconductor selloff grips global markets
+> SK하이닉스 HBM4 증설 둔화·DRAM 전환 보도發 반도체 매도세에 NVDA -3.2% ($201.97). impact: - / category: macro
+
+> [!claim] (출처: Yahoo Finance, 2026-06-23) Broadcom-linked AI selloff hits Samsung, SK Hynix; HBM demand-mix fears spread
+> SK하이닉스가 HBM4 증설 속도 줄이고 일반 DRAM으로 전환 — Rubin 수요 둔화 우려로 번짐. impact: - / category: macro
+
+> [!claim] (출처: GuruFocus, 2026-06-21) NVIDIA B200 cloud rental prices drop ~31% in three weeks, signaling AI capacity easing
+> B200 GPU 클라우드 렌탈료 3주간 $6.11→$4.22(-31%) — AI 수급 완화 신호. impact: - / category: macro
+
+> [!claim] (출처: Music Business Worldwide, 2026-06-22) Jamendo sues NVIDIA over alleged unlicensed AI training on copyrighted songs
+> Jamendo, 저작권 침해로 NVIDIA 제소(최대 $20.3M 청구) — 규제·소송 잡음. impact: - / category: regulation
+
+**경쟁사 동향**:
+- MU: Micron sinks 11.4% to $1,074.60 as HBM demand-mix worry hits memory complex — HBM 수요 둔화 우려가 NVDA 가속기 BOM·공급망 심리에도 부담
+- AVGO: Broadcom's cautious AI outlook cited as a trigger of the June 23 AI selloff — 커스텀 ASIC 강자 AVGO發 AI 투자 둔화 신호, NVDA 포함 AI 칩 전반 압박
+
+
+
 ### 2026-06-16
 
 **narrative_score**: +0.23 (약한 긍정)
