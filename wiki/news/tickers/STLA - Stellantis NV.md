@@ -1,7 +1,7 @@
 ---
 title: "STLA - Stellantis N.V — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-17
+updated: 2026-06-24
 domain: finance
 type: claim
 weight: reference
@@ -48,6 +48,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-24 (수) — narrative_score: -0.07
+
+> [!claim] 핵심 시그널
+> 스텔란티스·웨이브·우버, 글로벌 L4 로보택시 개발 파트너십 (출처: Stellantis, 2026-06-17)
+
+> [!claim] 주요 동향
+> 필로사 CEO, 마세라티 매각 부인…2개 파트너와 협의 중 (출처: Automotive News, 2026-06-17)
+
+> [!claim] 추가 시그널
+> 스텔란티스 투자자 집단소송 주도 신청 마감 임박 (출처: Newsfile / Robbins Geller, 2026-06-21)
+
+**narrative_score**: -0.07 (earnings_outlook: -0.15, competitive_position: +0.25, regulatory_risk: -0.30, macro_sensitivity: -0.10)
+
+**key_events**: 웨이브·우버와 글로벌 L4 로보택시 파트너십, 필로사 CEO 마세라티 매각 부인, 투자자 집단소송 주도 신청 마감 임박, 12월 마세라티 신전략 예고
+
+**risks**: 투자자 집단소송 등 법적 리스크, 유럽 등록대수 감소·수요 둔화, 마세라티 구조조정 불확실성
+
+---
+
 ### 2026-06-17 (수) — narrative_score: -0.09
 
 > [!claim] 핵심 시그널

@@ -1,7 +1,7 @@
 ---
 title: "GM - General Motors Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-17
+updated: 2026-06-24
 domain: finance
 type: claim
 weight: reference
@@ -39,6 +39,9 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+
+> [!fact] GM디펜스·록히드마틴, 무기·탄약 양산 확대 MOU 체결 (복수 매체, 2026-06-16)
+
 > [!fact] Q1 2026 매출 $43.6B, EBIT(조정) $4.3B (GM IR Q1 Press Release, 2026-04-29)
 
 > [!fact] 배당 $0.18/주, 권리락일 2026-06-05 (GM IR, 2026-06-02)
@@ -51,6 +54,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-24 (수) — narrative_score: +0.20
+
+> [!claim] 핵심 시그널
+> GM디펜스·록히드마틴, 무기·탄약 양산 확대 MOU — 신사업 다각화 (출처: Detroit News, 2026-06-16)
+
+> [!claim] 주요 동향
+> 쉐보레 신형 2027 실버라도 1500 완전변경 공개 — 픽업 경쟁력 강화 (출처: Chevrolet Newsroom, 2026-06-16)
+
+> [!claim] 추가 시그널
+> 배터리·SW 베팅 두고 애널리스트 목표가 엇갈림 (출처: Yahoo Finance, 2026-06-19)
+
+**narrative_score**: +0.20 (earnings_outlook: +0.35, competitive_position: +0.30, regulatory_risk: +0.10, macro_sensitivity: -0.20)
+
+**key_events**: 록히드마틴과 무기·탄약 양산 MOU, 2027 신형 실버라도 1500 공개, 애널리스트 목표가 엇갈림, 낮은 EV 의존도로 FSD류 규제 노출 적음
+
+**risks**: 배터리·SW 사업 수익성 불확실성, 픽업·트럭 수요의 경기 민감성, 무역·관세 정책 변동, 주가 급등 후 밸류 부담
+
+---
+
 ### 2026-06-17 (수) — narrative_score: +0.07
 
 > [!claim] 핵심 시그널

@@ -1,7 +1,7 @@
 ---
 title: "HMC - Honda Motor Co., Ltd — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-17
+updated: 2026-06-24
 domain: finance
 type: claim
 weight: reference
@@ -29,6 +29,7 @@ sources: []
 
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] 혼다-퀀텀스케이프 전고체 배터리 양산 일정 구체화 여부 (30일 검증 대기, 등록: 2026-06-24)
 - [ ] Q4 FY2026 손실 원인 공식 설명 (2026-06-26 주총에서 확인 예정)
 <!-- OPEN_CLAIMS_END -->
 
@@ -39,6 +40,9 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+
+> [!fact] 혼다, 퀀텀스케이프와 전고체 배터리 다년 공동개발 합의 (QuantumScape IR/Yahoo, 2026-06-18)
+
 > [!fact] 5월 미국 판매 148,903대 (+9.9% YoY) (American Honda Motor 공시, 2026-06-02)
 <!-- FACTS_END -->
 
@@ -47,6 +51,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-24 (수) — narrative_score: +0.12
+
+> [!claim] 핵심 시그널
+> 혼다, 퀀텀스케이프와 전고체 배터리 다년 공동개발 합의 (출처: QuantumScape (IR), 2026-06-18)
+
+> [!claim] 주요 동향
+> 혼다 전고체로 약 1,000km 주행거리 목표 제시 (출처: Yahoo Autos, 2026-06-18)
+
+> [!claim] 추가 시그널
+> 혼다, 후방 서브프레임 부식 위험으로 88만대 리콜 (출처: CBS News, 2026-06-10)
+
+**narrative_score**: +0.12 (earnings_outlook: +0.15, competitive_position: +0.40, regulatory_risk: -0.25, macro_sensitivity: +0.05)
+
+**key_events**: 퀀텀스케이프와 전고체 다년 공동개발 합의, 전고체로 약 1,000km 주행거리 목표, 후방 서브프레임 부식 88만대 리콜, FY2026 20-F 제출, 매출 약 21.8조엔
+
+**risks**: 대규모 리콜 비용·안전 신뢰 훼손, 전고체 상용화 시점·기술 불확실성, 엔화·관세 환율 변수
+
+---
+
 ### 2026-06-17 (수) — narrative_score: -0.19
 
 > [!claim] 핵심 시그널

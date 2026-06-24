@@ -1,7 +1,7 @@
 ---
 title: "NIO - NIO Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-17
+updated: 2026-06-24
 domain: finance
 type: claim
 weight: reference
@@ -50,6 +50,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-24 (수) — narrative_score: +0.10
+
+> [!claim] 핵심 시그널
+> 70만 대 이상에 NWM 주행보조 대규모 OTA 업데이트 (출처: CnEVPost, 2026-06-18)
+
+> [!claim] 주요 동향
+> ONVO 약진·ES9 강한 초기 주문으로 기록적 인도, 주가 상승 (출처: Yahoo Finance, 2026-06-19)
+
+> [!claim] 추가 시그널
+> 5월 인도 62% 급증에도 펜타곤 군수기업 리스트 논란 (출처: Simply Wall St, 2026-06-09)
+
+**narrative_score**: +0.10 (earnings_outlook: +0.30, competitive_position: +0.40, regulatory_risk: -0.50, macro_sensitivity: -0.10)
+
+**key_events**: 5월 인도 +62.3%(기록적), 펜타곤 군수기업 리스트 등재 반박, NWM 주행보조 70만대 이상 OTA, 6월 24일 주총 모든 안건 가결
+
+**risks**: 펜타곤 리스트로 미국 자본·상장 리스크, 미·중 지정학 긴장 심화, 중국 EV 가격경쟁 지속, 신규 브랜드 수익성 입증 필요
+
+---
+
 ### 2026-06-17 (수) — narrative_score: +0.21
 
 > [!claim] 핵심 시그널

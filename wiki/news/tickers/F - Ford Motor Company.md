@@ -1,7 +1,7 @@
 ---
 title: "F - Ford Motor Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-17
+updated: 2026-06-24
 domain: finance
 type: claim
 weight: reference
@@ -50,6 +50,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-24 (수) — narrative_score: -0.36
+
+> [!claim] 핵심 시그널
+> 포드, 익스페디션·내비게이터 약 42만대 안전벨트 결함 리콜 (출처: Fox Business, 2026-06-03)
+
+> [!claim] 주요 동향
+> 5월 美 판매 -13.6%(EV -44%), UBS는 연간 목표 유지 평가 (출처: ZeroHedge, 2026-06-03)
+
+> [!claim] 추가 시그널
+> 판매 급감·리콜 겹쳐 주가 약 3% 하락 (출처: StocksToTrade, 2026-06-17)
+
+**narrative_score**: -0.36 (earnings_outlook: -0.40, competitive_position: -0.30, regulatory_risk: -0.40, macro_sensitivity: -0.30)
+
+**key_events**: 익스페디션·내비게이터 약 42만대 리콜, 5월 美 판매 -13.6%, EV -44%, 판매·리콜 겹쳐 주가 약 3% 하락, UBS, 2026 연간 목표 정상궤도 평가
+
+**risks**: EV 부문 수요 급감·가격 압박, 반복 리콜에 따른 보증·품질 비용, GM 실버라도와 픽업 경쟁 심화, 전반적 수요 둔화
+
+---
+
 ### 2026-06-17 (수) — narrative_score: -0.20
 
 > [!claim] 핵심 시그널

@@ -1,7 +1,7 @@
 ---
 title: "RIVN - Rivian Automotive, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-17
+updated: 2026-06-24
 domain: finance
 type: claim
 weight: reference
@@ -53,6 +53,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-24 (수) — narrative_score: -0.15
+
+> [!claim] 핵심 시그널
+> 수익성 개선 목적 감원, R2 출시 1주 만에 효율화 (출처: Electrek, 2026-06-16)
+
+> [!claim] 주요 동향
+> 감원·R2 고가 리스·NHTSA 안전조사 겹치며 주가 하락 (출처: Timothy Sykes, 2026-06-22)
+
+> [!claim] 추가 시그널
+> 대중형 R2 SUV 첫 고객 인도 개시로 양산 이정표 달성 (출처: StocksToTrade, 2026-06-12)
+
+**narrative_score**: -0.15 (earnings_outlook: -0.20, competitive_position: +0.10, regulatory_risk: -0.30, macro_sensitivity: -0.20)
+
+**key_events**: R2 SUV 첫 고객 인도(양산 이정표), 전 직원 2% 미만 감원, R2 고가 리스 수요 우려, NHTSA R1S 후방 서스펜션 예비조사
+
+**risks**: R2 고가에 따른 대중형 수요 둔화, 반복 감원이 시사하는 수익성 압박, 안전조사 확대 시 리콜 비용, 미국 EV 수요 전반 둔화
+
+---
+
 ### 2026-06-17 (수) — narrative_score: +0.01
 
 > [!claim] 핵심 시그널

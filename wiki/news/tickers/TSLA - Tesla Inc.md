@@ -1,7 +1,7 @@
 ---
 title: "TSLA - Tesla Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-17
+updated: 2026-06-24
 domain: finance
 type: claim
 weight: reference
@@ -29,6 +29,7 @@ sources: []
 
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] NHTSA FSD 특별조사가 리콜·강제조치로 확대되는지 (30일 검증 대기, 등록: 2026-06-24)
 - [ ] 스페이스X-테슬라 합병 논의 공식화 여부 (7일 검증 대기, 등록: 2026-06-03)
 - [ ] 텍사스 SB 2807 최종 통과 시 로보택시 출시 지연 범위 (30일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
@@ -50,6 +51,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-24 (수) — narrative_score: +0.09
+
+> [!claim] 핵심 시그널
+> NHTSA, 텍사스 사망사고 후 FSD 특별조사 개시 (320만대 연계) (출처: CNBC, 2026-06-22)
+
+> [!claim] 주요 동향
+> 테슬라, 사고 당시 FSD 작동 인정하나 운전자 가속페달 과실 주장 (출처: Electrek, 2026-06-23)
+
+> [!claim] 추가 시그널
+> 테슬라·선런·리뉴홈, 데이터센터용 16GW 가상발전소 구축 — 에너지 확장 (출처: GlobeNewswire (Sunrun), 2026-06-24)
+
+**narrative_score**: +0.09 (earnings_outlook: +0.30, competitive_position: +0.40, regulatory_risk: -0.60, macro_sensitivity: -0.10)
+
+**key_events**: NHTSA 케이티 사망사고 FSD 320만대 특별조사, 테슬라 FSD 작동 인정·운전자 과실 주장, 선런·리뉴홈과 16GW 가상발전소 파트너십, Q2 인도 추정 40~42만대로 상향
+
+**risks**: FSD 안전조사 확대·리콜 가능성, 자율주행 규제 강화로 로보택시 지연, 저가 EV(RIVN R2) 경쟁 심화, 고밸류·변동성 확대
+
+---
+
 ### 2026-06-17 (수) — narrative_score: +0.06
 
 > [!claim] 핵심 시그널

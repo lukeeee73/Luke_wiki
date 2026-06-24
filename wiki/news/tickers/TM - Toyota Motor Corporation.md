@@ -1,7 +1,7 @@
 ---
 title: "TM - Toyota Motor Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-17
+updated: 2026-06-24
 domain: finance
 type: claim
 weight: reference
@@ -50,6 +50,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-24 (수) — narrative_score: +0.01
+
+> [!claim] 핵심 시그널
+> 2026년형 bZ·렉서스 RZ 리콜, 주행 중 전기구동 셧다운 우려 (출처: Toyota USA Newsroom, 2026-06-18)
+
+> [!claim] 주요 동향
+> 토요타·렉서스 2026년 누적 리콜 100만대 돌파, 품질 부담 (출처: Motor1, 2026-06-19)
+
+> [!claim] 추가 시그널
+> 제조·공급망·금융 부문 임원 교체 발표 (출처: PR Newswire / Toyota, 2026-06-19)
+
+**narrative_score**: +0.01 (earnings_outlook: -0.10, competitive_position: +0.30, regulatory_risk: -0.20, macro_sensitivity: +0.10)
+
+**key_events**: 2026년형 bZ·렉서스 RZ EV 구동 리콜, 2026년 누적 리콜 100만대 돌파, 제조·공급망·금융 임원 교체, 혼다 전고체로 EV 경쟁 심화
+
+**risks**: 리콜 비용·브랜드 신뢰 훼손, 전동화 전환 속도 경쟁 열위, 엔화·관세 환율 민감도
+
+---
+
 ### 2026-06-17 (수) — narrative_score: -0.12
 
 > [!claim] 핵심 시그널
