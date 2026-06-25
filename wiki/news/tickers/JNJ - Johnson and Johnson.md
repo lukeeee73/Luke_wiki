@@ -1,7 +1,7 @@
 ---
 title: "JNJ - Johnson & Johnson — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-18
+updated: 2026-06-25
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] 닙포칼리맙(nipocalimab)이 SLE Phase 3에 진입할 것인가? — 2상 JASMINE 성공으로 가능성 높아짐 (기한: 2026-09-04)
 - [ ] 90일 주가 약세가 1년 수익률 +47.95% 훼손 없이 마무리될 것인가? (지속 모니터링)
 - [ ] Firefly Bio $10억 인수가 종양학 파이프라인에 유의미한 기여를 할 것인가? (기한: 2027-06-11)
+- [ ] FTC 개입(6/23)이 Stelara 독점 판결로 이어져 면역 매출을 잠식할 것인가? (기한: 2026-12-31)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -52,6 +53,10 @@ sources: []
 > [!fact] TALVEY(탈케타맙) MonumenTAL-3 Phase 3 1차 평가변수 충족 — 재발성/불응성 다발성 골수종 (PR Newswire, Reuters, 2026-06-13)
 > 출처: PR Newswire, Reuters (2026-06-13) — 복수 Tier-1 매체 확인
 
+
+
+> [!fact] FTC, J&J Stelara 독점 관련 반독점 소송에 amicus brief 제출 (FTC 2026-06-23)
+> 출처: Federal Trade Commission (2026-06-23)
 <!-- FACTS_END -->
 
 ---
@@ -59,6 +64,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-25 (목) — narrative_score: +0.11
+
+**핵심 이벤트:** FTC, J&J Stelara 독점 반독점 소송 의견서 제출 · 미주리 항소법원 탈크 평결 46.9억→21.1억달러 감액 · TALVEY MonumenTAL-3 3상 호조, 항암 2030년 500억달러 목표  
+
+**리스크:** Stelara 바이오시밀러/반독점 압력에 따른 면역 매출 잠식 · 68,000건+ 탈크 소송과 합의 불확실성 · GLP-1/비만 시장 회피로 인한 성장 동력 상대적 약세(LLY·PFE 대비)
+
+
+> [!claim] FTC, J&J Stelara 독점 반독점 소송에 의견서 제출 (FTC, 2026-06-23)
+> FTC가 Stelara 관련 반독점 소송에 J&J에 불리한 amicus brief 제출. 면역 프랜차이즈 규제 압박 강화.
+> ※ Sherman법 해석 변화 시 추가 반독점 노출 가능.
+
+
+> [!claim] 미주리 항소법원, 탈크 평결 46.9억→21.1억달러 감액 (Lawsuit Information Center, 2026-06-23)
+> 탈크 소송 평결액이 절반 이하로 감액. 다만 6.8만건+ 소송과 합의 불확실성은 잔존.
+
+
+> [!claim] TALVEY MonumenTAL-3 Phase 3 호조 — 2030년 항암 500억달러 목표 (Yahoo Finance/IR, 2026-06-23)
+> 다발성골수종 TALVEY 3상 데이터 호조로 항암 성장 서사 강화. 6/23 주가 +3.07%.
+
 
 ### 2026-06-18 (목) — narrative_score: +0.20
 

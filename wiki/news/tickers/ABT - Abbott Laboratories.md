@@ -1,7 +1,7 @@
 ---
 title: "ABT - Abbott Laboratories — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-18
+updated: 2026-06-25
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] Exact Sciences 인수 시너지(Cologuard + Freestyle Libre)가 2026 매출에 의미 있게 기여할 것인가? — 인수 완료 확인 (H2 2026 실적 확인)
 - [ ] 이중 포도당·케톤 CGM이 미국 FDA 승인을 받을 것인가? — EU CE 마크 획득으로 진전 (기한: 2026-12-31)
 - [ ] 영양 사업 부진이 2026 전체 성장률 발목을 잡을 것인가? (연간 실적 시 확인)
+- [ ] ALZpath 제휴 혈액 알츠하이머 검사가 진단 부문 신성장축이 될 것인가? (기한: 2027-06-25)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -45,6 +46,10 @@ sources: []
 
 > [!fact] ABT Exact Sciences 인수 2026-03-23 완료 (QuiverQuant, 2026-06-04)
 > 암 진단(Cologuard) 역량 추가. 헬스케어 포트폴리오 다각화.
+
+
+> [!fact] ALZpath, Abbott와 글로벌 라이선스 계약 — pTau217 기반 혈액 알츠하이머 진단을 Alinity 플랫폼에 적용 (PR Newswire/StockTitan 2026-06-24)
+> 출처: PR Newswire / StockTitan (2026-06-24)
 <!-- FACTS_END -->
 
 ---
@@ -52,6 +57,22 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-25 (목) — narrative_score: +0.23
+
+**핵심 이벤트:** ALZpath-Abbott 알츠하이머 혈액검사 글로벌 라이선스 계약 · Citi 매수 유지, SOTP $99-104 · Q2 2026 실적 7/16 발표 예정 및 배당 $0.63 선언  
+
+**리스크:** FreeStyle Libre CGM 정확도 관련 FDA 경고서한 잔존 규제 리스크 · PFA·심혈관 디바이스에서 MDT/BSX와 경쟁 심화 · YTD 주가 약세 지속 및 관세/매크로 민감도
+
+
+> [!claim] ALZpath-Abbott 알츠하이머 혈액검사 글로벌 라이선스 계약 (StockTitan/PR Newswire, 2026-06-24)
+> pTau217 항체를 Abbott Alinity 플랫폼에 적용해 혈액 기반 알츠하이머 진단 진출. 진단 파이프라인 확장.
+
+
+> [!claim] Citi 매수 유지 SOTP $99-104·Q2 실적 7/16·배당 $0.63 (TipRanks/IR, 2026-06-17~24)
+> 사업부 분리 가치가 현 주가 상회. 7/16 Q2 실적과 분기배당 예정.
+> ※ FreeStyle Libre 규제 잡음·PFA 경쟁 심화는 리스크.
+
 
 ### 2026-06-18 (목) — narrative_score: +0.03
 

@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-06-22
+updated: 2026-06-25
 domain: finance
 type: index
 weight: reference
@@ -88,16 +88,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [LLY](tickers/LLY - Eli Lilly and Company.md) | 2026-06-18 | +0.42 | ACHIEVE-3 경구 GLP-1 head-to-head NVO 승리·Jaypirca CLL-322 3상(-45%)·4E Therapeutics 인수 | 3 |
-| [NVO](tickers/NVO - Novo Nordisk AS.md) | 2026-06-18 | -0.12 | 영국 경구 위고비 승인(긍정)에도 ACHIEVE-3에서 LLY에 패배·YTD -12.2% 약세 지속 | 3 |
-| [JNJ](tickers/JNJ - Johnson and Johnson.md) | 2026-06-18 | +0.20 | TALVEY MonumenTAL-3 Phase 3 성공·Firefly Bio $1B 인수·FY 가이던스 $100.8B 재확인 | 3 |
-| [PFE](tickers/PFE - Pfizer Inc.md) | 2026-06-18 | -0.02 | CFO Dave Denton 퇴임 -3%·berobenatide Phase 2b 15.9% 체중 감소(LLY/NVO 대비 열위)·주가 $25.09 | 3 |
-| [MRK](tickers/MRK - Merck and Co.md) | 2026-06-18 | +0.23 | FDA KEYTRUDA+WELIREG RCC 1차 승인·Capvaxive 신규 적응증·Protillion $510M 파트너십 | 3 |
-| [ABBV](tickers/ABBV - AbbVie Inc.md) | 2026-06-18 | +0.24 | CLL14 최종 3상 PFS 6.4y vs 3.2y(EHA 2026)·Skyrizi·Rinvoq 가이던스 상향 | 2 |
-| [AZN](tickers/AZN - AstraZeneca PLC.md) | 2026-06-18 | +0.24 | PTEN-결핍 전립선암 최초 FDA 미국 표적 승인·elecoglipron Phase IIb 긍정·Citi Buy 개시 | 3 |
-| [UNH](tickers/UNH - UnitedHealth Group.md) | 2026-06-18 | +0.05 | Q1 EPS $7.23(+10%)·FY >$18.25 가이던스 견고에도 DOJ 조사·CMS 2027 동결 오버행 | 3 |
-| [TMO](tickers/TMO - Thermo Fisher Scientific.md) | 2026-06-18 | -0.10 | HSBC Buy→Hold PT $670→$540·주주총회 say-on-pay 부결·YTD -20.23% | 3 |
-| [ABT](tickers/ABT - Abbott Laboratories.md) | 2026-06-18 | +0.03 | Citi 적정가치 $99-104(현재 $88 저평가)·DKA CGM 데이터(ADA 2026)·섹터 매도세로 -2.34% | 3 |
+| [LLY](tickers/LLY - Eli Lilly and Company.md) | 2026-06-25 | +0.45 | 센테사 인수 완료(신경과학)·트럼프 35억달러 공장 부각·경구 GLP-1 우위 지속 | 4 |
+| [NVO](tickers/NVO - Novo Nordisk AS.md) | 2026-06-25 | +0.02 | DKK 150억 자사주매입·영국 경구 위고비 승인에도 1.3TB 데이터 유출로 중립 | 4 |
+| [JNJ](tickers/JNJ - Johnson and Johnson.md) | 2026-06-25 | +0.11 | FTC Stelara 반독점 개입(악재)·탈크 평결 46.9억→21.1억 감액·TALVEY 3상 호조 | 4 |
+| [PFE](tickers/PFE - Pfizer Inc.md) | 2026-06-25 | -0.03 | 시그보타투그 폐암 3상 OS 미달(-3%)·입랜스 HER2+ FDA 승인·FY26 가이던스 재확인 | 4 |
+| [MRK](tickers/MRK - Merck and Co.md) | 2026-06-25 | +0.43 | 키트루다+트로델비 1차 TNBC 승인·툴리소키바트 첫 anti-TL1A 3상 성공·+4.04% | 3 |
+| [ABBV](tickers/ABBV - AbbVie Inc.md) | 2026-06-25 | +0.31 | Apogee $10.9B 인수(IL-13)·SKYRIZI 소아 건선 EC 승인·애널 목표가 엇갈림 | 3 |
+| [AZN](tickers/AZN - AstraZeneca PLC.md) | 2026-06-25 | +0.16 | IB 목표가 상향(후기 파이프라인)·카미제스트란트 FDA 심사 연기·월간 -5% 약세 | 3 |
+| [UNH](tickers/UNH - UnitedHealth Group.md) | 2026-06-25 | +0.30 | CMS 2027 MA 요율 +2.48% 확정·Optum Rx 투명 PBM·목표가 6회 상향(최고 $492) | 4 |
+| [TMO](tickers/TMO - Thermo Fisher Scientific.md) | 2026-06-25 | +0.11 | 미생물학 사업부 Astorg $10.8억 매각·BIO/ASMS 통합역량·HSBC 보유 하향($540) | 2 |
+| [ABT](tickers/ABT - Abbott Laboratories.md) | 2026-06-25 | +0.23 | ALZpath 혈액 알츠하이머 진단 라이선스·Citi SOTP $99-104·Q2 7/16·PFA 경쟁 | 4 |
 
 ### 에너지 / 원자재
 
@@ -212,6 +212,24 @@ sources: []
 | [042660.KS](tickers/042660.KS - Hanwha Ocean Co.md) | 2026-06-17 | +0.30 | KDDX ₩7.8조 수주(이지스 6척, 2030년), +7.85% 급등, 캐나다 CPSP 후보 | 2 |
 | [010140.KS](tickers/010140.KS - Samsung Heavy Industries.md) | 2026-06-17 | +0.25 | 델핀 FLNG $29억·Cedar LNG 진수(세계 최초 3기 동시)·GTT LNG 2척·베트남 ₩3,410억 | 2 |
 | [010620.KS](tickers/010620.KS - HD Hyundai Mipo Dockyard Co. Ltd..md) | 2026-06-17 | +0.05 | Q2/Q3 PCTC·MR 탱커 납기 순조, 메탄올 추진 MR 탱커 시장 선두 | 1 |
+
+## 오늘의 시그널 (2026-06-25 · 목요일 · 바이오 / 제약 / 헬스케어)
+
+루틴은 다음 패턴을 감지하면 이 섹션에 기록한다:
+
+- **연속성**: 같은 테마가 3 일 이상 연속 등장
+- **모순**: 같은 종목 어제/오늘 narrative 가 반대 방향
+- **섹터 동기화**: 3 종목 이상이 같은 매크로 이슈로 동시 움직임
+
+**2026-06-25 감지된 시그널:**
+
+- **최고 시그널 (LLY +0.45 / MRK +0.43)**: LLY는 센테사 인수 완료로 신경과학 파이프라인을 확장하고 경구 GLP-1 우위를 이어감. MRK는 키트루다+트로델비 1차 TNBC 승인과 툴리소키바트(최초 anti-TL1A) 궤양성대장염 3상 성공이 같은 주에 겹쳐 '키트루다 외 다변화' 서사가 강화되며 +4.04%.
+- **섹터 동기화 (FDA 승인·임상 데이터 러시)**: MRK(키트루다+트로델비 TNBC + 툴리소키바트 UC) · PFE(입랜스 HER2+ 승인) · ABBV(SKYRIZI 소아 건선 EC 승인) — 제약 4종목에 규제·임상 헤드라인이 목요일 한 주에 집중. 다만 PFE는 시그보타투그 폐암 3상 OS 미달로 명암이 갈림.
+- **섹터 동기화 (대형 M&A 물결)**: LLY(센테사 인수 완료) · ABBV(Apogee $10.9B 인수) — 제약사들이 특허절벽·성장 공백을 M&A로 메우는 흐름 지속. ABBV는 IL-13 항체로 면역학, LLY는 오렉신으로 신경과학에 베팅.
+- **모순/역방향 (UNH +0.30 ← 전주 +0.05)**: CMS 2027 MA 요율 +2.48% 확정으로 이전 'CMS 2027 동결' 오버행이 무효화되며 호재로 전환. Optum Rx 투명 PBM 모델·목표가 6회 상향까지 겹쳐 큰 폭 상승. 단 DOJ 메디케어 청구 조사는 상단 제약.
+- **역방향 (PFE -0.03)**: 입랜스 FDA 승인·배당 등 방어 요인에도 핵심 ADC 시그보타투그 폐암 3상 OS 미달이 심리를 주도하며 -3%. Seagen 인수 항암 파이프라인 입증 실패 누적 우려.
+- **규제 리스크 (JNJ +0.11)**: TALVEY 3상 호조·탈크 평결 감액(46.9억→21.1억)에도 FTC의 Stelara 반독점 개입(6/23)이 면역 프랜차이즈 규제 압박을 키움 — 펀더멘털(긍정)과 규제(부정)의 양방향 당김 지속.
+- **주목 이벤트**: 7/1 메디케어 GLP-1 보험 적용 시작(LLY·NVO 처방 가늠자), MRK 키트루다 2028 특허절벽 대비 파이프라인 진척, AZN 카미제스트란트 FDA 최종 결정, UNH·ABT Q2 실적(7/16), NVO 데이터 유출 후속·CagriSema Phase 3.
 
 ## 오늘의 시그널 (2026-06-19 · 금요일 · 에너지 / 원자재 + 유틸리티 / 전력)
 
