@@ -1,7 +1,7 @@
 ---
 title: "NVO - Novo Nordisk A/S — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-18
+updated: 2026-06-25
 domain: finance
 type: claim
 weight: reference
@@ -28,10 +28,10 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [x] 경구형 위고비 UAE 론칭 이후 추가 국가 출시 일정이 발표될 것인가? ~~(기한: 2026-06-18)~~ → **verified**: 영국 MHRA 승인(2026-06-16)으로 두 번째 해외 시장 진출 확인.
 - [ ] NVO 주가 1년 하락이 LLY 경쟁 심화와 성장 기대치 조정 복합 요인인가? (지속 모니터링 — ACHIEVE-3 패배로 경쟁 열위 심화)
 - [ ] NVO CagriSema Phase 3 성공이 시장 점유율 회복 촉매가 될 것인가? (기한: 2026-09-11)
 - [ ] 메디케어 GLP-1 7/1 적용 후 Wegovy vs Foundayo 처방 비율은? (기한: 2026-09-30)
+- [ ] 1.3TB 임상·AI 데이터 유출이 규제·소송·평판 손실로 확대될 것인가? (기한: 2026-09-25)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -53,6 +53,22 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-25 (목) — narrative_score: +0.02
+
+**핵심 이벤트:** DKK 150억 자사주 매입 진행, 자기주식 0.8% 도달 · 주가 $47.42, 7일 8.9% 반등·DCF 약 49% 저평가 분석 · 영국 MHRA 경구 위고비 첫 승인(NICE 심사 미정) · 1.3TB 임상·AI 데이터 유출, 해커 협박 거부  
+
+**리스크:** 사이버 유출에 따른 임상·지식재산 노출 및 규제·평판 리스크 · 2026 가이던스 하향(constant currency 매출 -4~-12%) · 릴리 retatrutide 등 차세대 비만약 대비 경쟁력 열위
+
+
+> [!claim] DKK 150억 자사주 매입 진행 — 자기주식 0.8% 도달 (The Globe and Mail/TipRanks, 2026-06-23)
+> 주가 7일 8.9% 반등과 함께 자사주 매입 진행. DCF상 약 49% 저평가 분석도 제기되며 회복 신호.
+
+
+> [!claim] 1.3TB 임상·AI 데이터 유출 — 해커 협박 거부 (Scientific American/FiercePharma, 2026-06-18)
+> 임상시험·AI·소스코드 등 1.3TB 유출, 해커가 2500만달러 협박. 회사는 지불 거부.
+> ※ 규제·평판·지식재산 노출 리스크 확대.
+
 
 ### 2026-06-18 (목) — narrative_score: -0.12
 

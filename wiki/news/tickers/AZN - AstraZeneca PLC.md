@@ -1,7 +1,7 @@
 ---
 title: "AZN - AstraZeneca PLC — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-18
+updated: 2026-06-25
 domain: finance
 type: claim
 weight: reference
@@ -28,7 +28,7 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] FDA가 카미제스트란트 재심에서 최종 승인할 것인가? (기한 미정, 결정 후 판정)
+- [ ] FDA가 카미제스트란트 재심에서 최종 승인할 것인가? — 심사기한 연장·자문위 부정표로 불확실성 확대 (기한 미정, 결정 후 판정)
 - [ ] 안셀라미맙 CARES 실패가 AZN 항암 파이프라인 밸류에이션에 얼마나 영향을 주는가? (차기 실적 발표 시 확인)
 - [ ] 경구 GLP-1 엘레코글리프론 Phase 3 완료 후 LLY·NVO와 차별화될 것인가? (기한: 2028-12-31)
 <!-- OPEN_CLAIMS_END -->
@@ -65,6 +65,22 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-25 (목) — narrative_score: +0.16
+
+**핵심 이벤트:** 트루캅 PTEN결핍 전립선암 美 첫 표적 승인 · 주요 IB 목표가 상향, 후기 파이프라인 $10B+ peak 기대 · 카미제스트란트 FDA 심사기한 연장(자문위 부정 투표) · 월간 5% 주가 약세 및 적정가치 소폭 하향  
+
+**리스크:** 카미제스트란트 최종 거절 또는 추가 지연 시 유방암 프랜차이즈 타격 · 약가 인하·페이어 접근성 압박 · GSK 등 경쟁사 종양 파이프라인 확대
+
+
+> [!claim] 주요 IB 목표가 상향 — 후기 파이프라인 $10B+ peak 기대 (MarketBeat, 2026-06-20)
+> Citi·Morgan Stanley·Guggenheim 등 목표가 상향. 트루캅 PTEN 전립선암 승인 등 종양학 모멘텀 반영.
+
+
+> [!claim] 약가·파이프라인 논쟁에 단기 주가 월간 5% 약세 (Yahoo Finance/Zacks, 2026-06-23~24)
+> 적정가치 소폭 하향과 함께 시장 상승에도 AZN은 약세. 카미제스트란트 FDA 심사 연기가 부담.
+> ※ 카미제스트란트 최종 거절·추가 지연 시 유방암 프랜차이즈 타격.
+
 
 ### 2026-06-18 (목) — narrative_score: +0.24
 

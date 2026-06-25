@@ -1,7 +1,7 @@
 ---
 title: "PFE - Pfizer Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-18
+updated: 2026-06-25
 domain: finance
 type: claim
 weight: reference
@@ -29,8 +29,9 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [ ] Metsera 인수 기반 비만 10개 임상자산이 2026년 중 Phase 2 진입할 것인가? (기한: 2026-12-31)
-- [ ] 주가 $25 저점권에서 반등 트리거가 나올 것인가? — RBC Sector Perform 상향이 첫 신호 (지속 모니터링)
-- [ ] SOLIS-1 Phase 2 데이터가 LLY/NVO 대비 경쟁력 있는 결과를 보일 것인가? (기한: 2027-12-31)
+- [ ] 주가 저점권에서 반등 트리거가 나올 것인가? — 입랜스 승인·배당이 방어 요인 (지속 모니터링)
+- [ ] 시그보타투그 베도틴 폐암 3상 OS 미달이 Seagen 인수 ADC 전략 전반에 영향을 줄 것인가? (기한: 2026-12-31)
+- [ ] 키트루다 병용 1차 NSCLC 3상은 OS 목표를 달성할 것인가? (기한: 2027-06-30)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,6 +43,13 @@ sources: []
 <!-- FACTS_START -->
 > [!fact] PFE 분기 배당 $0.43 — 350번째 연속 분기 배당 (Pfizer IR, BusinessWire 2건 확인)
 > 출처: Pfizer IR, BusinessWire (2026-04-22) — 배당수익률 약 6.8%
+
+
+> [!fact] 시그보타투그 베도틴 비편평 NSCLC Phase 3 — 전체생존(OS) 1차 평가지표 미달 (Pfizer BusinessWire 2026-06-21)
+> 출처: BusinessWire / Pfizer IR (2026-06-21)
+
+> [!fact] FDA, 입랜스(palbociclib) HR+/HER2+ 전이성 유방암 1차 유지요법 적응증 확대 승인 (FDA 2026-06-24)
+> 출처: FDA / Pfizer (2026-06-24)
 <!-- FACTS_END -->
 
 ---
@@ -49,6 +57,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-25 (목) — narrative_score: -0.03
+
+**핵심 이벤트:** 시그보타투그 베도틴 폐암 3상 OS 1차목표 미달 · 입랜스 HER2+ 전이성 유방암 유지요법 FDA 적응증 확대 승인 · FY2026 가이던스 재확인 및 CFO Dave Denton 8/15 사임 · 3분기 주당 0.43달러 배당 선언  
+
+**리스크:** Seagen 인수 항암 ADC 파이프라인의 임상 입증 실패 누적 위험 · 특허절벽(LOE) 및 매출 공백 우려 · CFO 교체 등 경영진 변동성
+
+
+> [!claim] 시그보타투그 베도틴 폐암 3상 OS 1차목표 미달 (BusinessWire/Pfizer, 2026-06-21)
+> Seagen 인수 핵심 ADC 신약이 비편평 NSCLC 3상에서 전체생존 1차목표 미달. 항암 파이프라인 타격.
+> ※ 임상 실패 누적으로 Seagen 인수 가치 의문 부각.
+
+
+> [!claim] 입랜스(palbociclib) HER2+ 전이성 유방암 유지요법 FDA 승인 (FDA/Pfizer, 2026-06-24)
+> HR+/HER2+ 1차 유지요법으로 적응증 확대. 임상 실패를 일부 상쇄하는 규제 호재.
+
+
+> [!claim] FY2026 가이던스 재확인·3분기 배당 $0.43 선언 (Yahoo Finance, 2026-06-23)
+> 매출 595~625억달러·EPS 2.80~3.00달러 가이던스 유지. CFO Dave Denton 8/15 사임 예정.
+
 
 ### 2026-06-18 (목) — narrative_score: -0.02
 

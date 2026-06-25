@@ -1,7 +1,7 @@
 ---
 title: "TMO - Thermo Fisher Scientific — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-18
+updated: 2026-06-25
 domain: finance
 type: claim
 weight: reference
@@ -28,8 +28,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] 바이오파마 capex 둔화가 2026 하반기까지 지속될 것인가? — Q1 beat+raise로 완화 신호 (Q3 TMO 실적에서 최종 확인)
-- [ ] 미생물학 사업부 매각 완료 시점과 자본 배분 방향은? (2026년 중 공시 기대)
+- [ ] 바이오파마 capex 둔화가 2026 하반기까지 지속될 것인가? — HSBC 보유 하향(성장둔화 우려) (Q3 TMO 실적에서 최종 확인)
+- [x] 미생물학 사업부 매각 완료 시점과 자본 배분 방향은? ~~(이전 가설)~~ → **verified(부분)**: Astorg에 10.8억달러 매각 계약 체결, 2H26 완료 예정. 자본 배분 방향은 추가 확인 필요.
 - [ ] ASMS 2026 오비트랩 신형 질량분석기가 실질적 매출 기여를 할 것인가? (기한: 2026-12-31)
 <!-- OPEN_CLAIMS_END -->
 
@@ -52,6 +52,10 @@ sources: []
 > [!fact] 주주총회 경영진 보수(say-on-pay) 안건 부결 — 거버넌스 우려 표시 (Reuters, 2026-06-11)
 > 출처: Reuters (2026-06-11)
 
+
+
+> [!fact] Thermo Fisher, 미생물학 사업부를 Astorg에 약 10.8억달러 매각 계약 체결 (2H26 완료 예정) (Thermo Fisher IR/BusinessWire)
+> 출처: Thermo Fisher IR / BusinessWire (2026-04-27 발표)
 <!-- FACTS_END -->
 
 ---
@@ -59,6 +63,22 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-25 (목) — narrative_score: +0.11
+
+**핵심 이벤트:** 미생물학 사업부 Astorg에 10.8억달러 매각 (EPS -0.15달러) · BIO International 2026 통합 역량·무균충전 증설 공개 · HSBC 하향(보유), 목표가 670→540달러  
+
+**리스크:** 중국 시장 노출 및 기기 주문 경기민감성 · 미생물학 매각에 따른 EPS 희석 및 사업 규모 축소 · ILMN·DHR 등 라이프사이언스 툴 경쟁 심화
+
+
+> [!claim] 미생물학 사업부 Astorg에 10.8억달러 매각 계약 (Thermo Fisher IR/BusinessWire, 2026-04~06)
+> 비핵심 미생물학 사업부 매각으로 포트폴리오 정리(2H26 완료 예정, EPS -0.15달러).
+
+
+> [!claim] BIO 2026·ASMS 2026서 Orbitrap·AI 연구·무균충전 통합 역량 공개 (BioSpace, 2026-06-16)
+> 질량분석·AI 연구·바이오프로덕션 통합 솔루션 부각. 다만 HSBC는 성장 둔화로 보유 하향(PT $540).
+> ※ 중국 노출·기기 주문 경기민감성이 부담.
+
 
 ### 2026-06-18 (목) — narrative_score: -0.10
 

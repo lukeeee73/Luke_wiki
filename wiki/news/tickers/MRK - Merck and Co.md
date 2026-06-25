@@ -1,7 +1,7 @@
 ---
 title: "MRK - Merck & Co., Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-18
+updated: 2026-06-25
 domain: finance
 type: claim
 weight: reference
@@ -29,8 +29,8 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [ ] Terns 파마슈티컬스 $6.7B 인수가 2026 EPS에 미치는 희석 효과는 얼마인가? (2026 연간 실적 시 확인)
-- [ ] LITESPARK-012 RCC 실패에 이어 KEYNOTE-D46 폐암 병용 실패 — 병용요법 전략 전반에 영향이 있을 것인가? (기한: 2026-09-30)
 - [ ] 가다실 HPV 소송 추가 합의가 이어질 것인가? (기한: 2026-09-04)
+- [ ] 툴리소키바트(anti-TL1A)·트로델비 병용 등 키트루다 외 파이프라인이 2028 특허절벽을 상쇄할 성장축이 될 것인가? (기한: 2026-12-31)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -58,6 +58,13 @@ sources: []
 > [!fact] FDA, Capvaxive 신규 폐렴구균 적응증 추가 승인 (Merck IR, 2026-06-16)
 > 출처: Merck IR (2026-06-16)
 
+
+
+> [!fact] FDA, 키트루다+트로델비 PD-L1+ 진행성 삼중음성유방암(TNBC) 1차 병용 승인 (Merck.com 2026-06-25)
+> 출처: Merck.com / Gilead IR (2026-06-25)
+
+> [!fact] 툴리소키바트(tulisokibart) Phase 3 ATLAS-UC 궤양성대장염 1차·핵심 2차 평가지표 충족 — 최초 anti-TL1A 생물제제 (Businesswire/Merck 2026-06-22)
+> 출처: Businesswire / Merck.com (2026-06-22)
 <!-- FACTS_END -->
 
 ---
@@ -65,6 +72,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-25 (목) — narrative_score: +0.43
+
+**핵심 이벤트:** 키트루다+트로델비 1차 TNBC FDA 승인 · 툴리소키바트 Phase 3 ATLAS-UC 1차 평가지표 충족 (최초 anti-TL1A 생물제제) · 2026 매출·EPS 가이던스 상향, CICC 목표가 138달러 · 주가 6/25 +4.04% (125.46달러)  
+
+**리스크:** 2028년 키트루다 핵심 특허 만료 — 바이오시밀러 진입 시 연 ~250억달러 매출 잠식 우려 · 키트루다가 제약 매출의 약 절반 차지하는 집중 리스크 · 신약 파이프라인이 키트루다 절벽을 충분히 상쇄할지 불확실
+
+
+> [!claim] 키트루다+트로델비 1차 삼중음성유방암(TNBC) FDA 승인 (Merck.com/Gilead IR, 2026-06-25)
+> PD-L1+ 진행성 TNBC 1차에서 PD-1+ADC 첫 병용 승인. 키트루다 라이프사이클 확장.
+
+
+> [!claim] 툴리소키바트 Phase 3 ATLAS-UC 성공 — 최초 anti-TL1A 생물제제 (Businesswire/Merck, 2026-06-22)
+> 궤양성대장염 3상에서 1차·핵심 2차 평가지표 충족. 키트루다 외 면역질환 신성장축 확보.
+> ※ 키트루다 의존도(매출 약 절반) 완화 기대.
+
+
+> [!claim] 2026 가이던스 상향·CICC 목표가 138달러 — 6/25 주가 +4.04% (Simply Wall St, 2026-06-24)
+> 6월 파이프라인 호재 집중으로 투자심리 개선, 저평가 분석과 함께 강세.
+
 
 ### 2026-06-18 (목) — narrative_score: +0.23
 

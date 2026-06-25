@@ -1,7 +1,7 @@
 ---
 title: "ABBV - AbbVie Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-18
+updated: 2026-06-25
 domain: finance
 type: claim
 weight: reference
@@ -28,9 +28,9 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [x] 골드만삭스 컨퍼런스(6/9)에서 M&A 또는 새 파이프라인 전략이 발표될 것인가? → **refuted**: 6/9 컨퍼런스 참가 확인됐으나 주요 M&A·파이프라인 공시 없음. 종료.
 - [ ] 아퀴프타 EU 승인 이후 유럽 편두통 시장에서 실질 매출이 의미 있는 수준으로 발생할 것인가? (기한: 2026-09-04)
 - [ ] EHA 2026 혈액암 데이터가 AbbVie 혈액종양학 매출 성장에 기여할 것인가? (기한: 2026-09-30)
+- [ ] 아포지 인수 줌일로키바트(IL-13)가 아토피 시장에서 듀피젠트에 도전할 수 있을 것인가? (기한: 2027-06-25)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +49,13 @@ sources: []
 > [!fact] CLL14 최종 3상 PFS 6.4년 vs 대조군(화학면역요법) 3.2년 — EHA 2026 발표, 장기 데이터 확정 (AbbVie IR, EHA 2026, 2026-06-14)
 > 출처: AbbVie IR, EHA 2026 공식 발표 (2026-06-14) — 복수 매체 확인
 
+
+
+> [!fact] AbbVie, Apogee Therapeutics 109억달러(주당 $135.11) 전액현금 인수 발표 — IL-13 항체 zumilokibart 확보 (AbbVie IR/PR Newswire 2026-06-22)
+> 출처: AbbVie IR / PR Newswire / Pharmaceutical Technology (2026-06-22~23)
+
+> [!fact] EC, 소아(6세+) 중등도-중증 판상 건선 대상 SKYRIZI 승인 (PR Newswire 2026-06-23)
+> 출처: PR Newswire (2026-06-23)
 <!-- FACTS_END -->
 
 ---
@@ -56,6 +63,22 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-25 (목) — narrative_score: +0.31
+
+**핵심 이벤트:** Apogee Therapeutics 109억달러($135.11/주, 49% 프리미엄) 전액현금 인수 발표 · EC, 소아(6세+) 중등도-중증 판상 건선 대상 SKYRIZI 승인 · 인수 후 애널리스트 목표주가 엇갈림 (캐나코드 $273 상향)  
+
+**리스크:** 아포지 인수가 109억달러가 풀밸류라는 평가 — 아토피 시장 경쟁·임상 마일스톤 실행 리스크 · 휴미라 특허만료 후 매출 공백을 스카이리치/린버크로 메우는 과정의 의존도 · 줌일로키바트 Phase 3 데이터 결과 불확실성
+
+
+> [!claim] Apogee Therapeutics 109억달러 전액현금 인수 — IL-13 항체 zumilokibart 확보 (AbbVie IR/PR Newswire, 2026-06-22)
+> 주당 $135.11(49% 프리미엄)에 면역학 바이오텍 인수. 휴미라 이후 차세대 면역학 성장축 보강.
+> ※ 인수가가 풀밸류라는 평가와 실행·통합 리스크 존재.
+
+
+> [!claim] EC, 소아(6세+) 중등도-중증 판상 건선 SKYRIZI 승인 (PR Newswire, 2026-06-23)
+> 스카이리치 소아 적응증 확대로 유럽 시장 접근성 강화.
+
 
 ### 2026-06-18 (목) — narrative_score: +0.24
 
