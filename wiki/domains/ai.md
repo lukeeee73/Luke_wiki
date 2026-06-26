@@ -1,7 +1,7 @@
 ---
 title: "AI Domain Index"
 created: 2026-05-02
-updated: 2026-06-20
+updated: 2026-06-26
 domain: ai
 type: index
 weight: foundational
@@ -60,6 +60,12 @@ AI 칩 가치사슬 — 모델이 실제로 돌아가는 하드웨어 공급단.
 - **개념**: [CUDA](../concepts/cuda.md) — 엔비디아 소프트웨어 해자 · [CoWoS](../concepts/cowos.md) · [HBM](../concepts/hbm.md) · [SerDes](../concepts/serdes.md) · [EUV 노광](../concepts/euv-lithography.md)
 - **기업**: [엔비디아](../entities/nvidia.md) · [TSMC](../entities/tsmc.md) · [브로드컴](../entities/broadcom.md) · [마벨](../entities/marvell.md) · [DeepSeek](../entities/deepseek.md)
 - **미·중 격차**: [중국 반도체 격차 — DeepSeek V4 학습 칩](../topics/china-chip-gap-deepseek-v4.md) — 추론(화웨이) vs 사전학습(엔비디아 의존) 구분 (2026-06)
+
+### AI 전력 인프라 / 변압기
+
+칩이 돌아가려면 전기가 필요하다 — 데이터센터 전력 병목과 변압기 가치사슬.
+
+- [AI 전력 병목과 변압기 가치사슬 종합](../syntheses/ai-power-transformer-value-chain.md) — 발전→송전→변압기→데이터센터, 진짜 병목은 GOES·OLTC·부싱·인력 (`domain: finance, ai`, 2026-06)
 
 ---
 

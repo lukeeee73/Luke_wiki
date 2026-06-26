@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 created: 2026-04-05
-updated: 2026-06-20
+updated: 2026-06-26
 tags: [index, meta]
 sources: []
 ---
@@ -126,6 +126,7 @@ sources: []
 
 - [개인 투자자용 All Weather 변형 포트폴리오](syntheses/personal-all-weather-variant.md) — 4분면 커버리지 유지 + 레버리지 포기 + 성장↑ 약한 가중치 (2026-04)
 - [반도체·AI 칩 가치사슬 종합](syntheses/semiconductor-ai-chip-value-chain.md) — 모래에서 AI 칩까지, 협상력·마진·해자의 집중 지점 6원리 (`domain: finance, ai`) (2026-06)
+- [AI 전력 병목과 변압기 가치사슬 종합](syntheses/ai-power-transformer-value-chain.md) — 발전→송전→변압기→데이터센터, 진짜 병목은 GOES·OLTC·부싱·인력 (`domain: finance, ai`) (2026-06)
 
 ---
 

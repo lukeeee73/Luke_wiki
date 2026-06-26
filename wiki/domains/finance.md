@@ -1,7 +1,7 @@
 ---
 title: "Finance Domain Index"
 created: 2026-05-02
-updated: 2026-06-20
+updated: 2026-06-26
 domain: finance
 type: index
 weight: foundational
@@ -49,6 +49,7 @@ sources: []
 
 - [개인 투자자용 All Weather 변형](../syntheses/personal-all-weather-variant.md) — 레버리지 없이 4분면을 커버하는 개인용 포트폴리오
 - [반도체·AI 칩 가치사슬 종합](../syntheses/semiconductor-ai-chip-value-chain.md) — 모래에서 AI 칩까지, 어디에 협상력·마진·해자가 집중되는가 (`domain: finance, ai`)
+- [AI 전력 병목과 변압기 가치사슬 종합](../syntheses/ai-power-transformer-value-chain.md) — 발전→송전→변압기→데이터센터, 진짜 병목은 GOES·OLTC·부싱·인력 (`domain: finance, ai`)
 
 ---
 
@@ -60,6 +61,15 @@ AI 반도체 투자 판단을 위한 가치사슬 지도. 진입점은 위 [종�
 - **기술/개념**: [EUV 노광(ASML)](../concepts/euv-lithography.md) · [CoWoS](../concepts/cowos.md) · [HBM](../concepts/hbm.md) · [CUDA](../concepts/cuda.md) · [SerDes](../concepts/serdes.md)
 - **소재 시장**: [폴리실리콘 — 태양광 vs 반도체 분기](../topics/polysilicon.md)
 - **미·중 격차**: [중국 반도체 격차 — ASML EUV 의혹·SMIC/화웨이·DeepSeek V4 학습 칩](../topics/china-chip-gap-deepseek-v4.md) — 추론은 화웨이로, 사전학습은 엔비디아 의존 (2026-06)
+
+---
+
+## AI 전력 인프라 / 변압기 (`domain: finance, ai`)
+
+AI 데이터센터의 전력 병목 지도. 반도체 가치사슬의 자매편 — "칩"이 아니라 "그 칩을 돌릴 전기"가 어디서 막히는가. 진입점은 [AI 전력 병목과 변압기 가치사슬 종합](../syntheses/ai-power-transformer-value-chain.md).
+
+- **핵심 병목**: 발전→송전→**변압기(765kV)**→데이터센터 사슬 중 변압기가 가장 느림. 진짜 진앙은 완성품이 아니라 소재(GOES)·부품(MR의 OLTC, Trench의 부싱)·숙련 인력.
+- **기업 층위**: 한국 4사(효성중공업·HD현대일렉트릭·LS일렉트릭·일진전기)는 "조립·통합" 층의 미국 시장 강자이나, 구조적 해자는 상류(Cleveland-Cliffs/POSCO·MR·Trench)에 있음.
 
 ---
 

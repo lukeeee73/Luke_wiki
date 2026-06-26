@@ -1,7 +1,7 @@
 ---
 title: "Wiki Log"
 created: 2026-04-05
-updated: 2026-06-14
+updated: 2026-06-26
 tags: [log, meta]
 sources: []
 ---
@@ -10,6 +10,31 @@ sources: []
 # Wiki Log
 
 위키의 모든 작업 이력을 시간순으로 기록합니다.
+
+---
+
+## 2026-06-26
+
+### [INGEST] AI 전력 병목과 변압기 가치사슬
+
+- **작업**: AI 데이터센터 전력 병목·변압기 가치사슬 연구 노트(Obsidian 형식, Claude 4턴 심층 대화 정리)를 수집·정제하여 위키 통합
+- **원본 유형**: 개인 연구 노트 (Luke ↔ Claude, 2026-06-23, status: 정리완료)
+- **생성된 파일**:
+  - `sources/ai-power-transformer-value-chain.md` — 원본 노트 (불변 보존, frontmatter 정규화 외 내용 유지)
+  - `wiki/syntheses/ai-power-transformer-value-chain.md` — 정제 종합 페이지 (`type: synthesis`, `domain: finance, ai`, `weight: important`, `confidence: medium`)
+- **업데이트된 파일**:
+  - `wiki/index.md` — Syntheses 섹션에 링크 추가
+  - `wiki/domains/finance.md` — "내 판단/종합" + 신규 "AI 전력 인프라/변압기" 클러스터 추가
+  - `wiki/domains/ai.md` — AI 하드웨어 섹션에 "AI 전력 인프라/변압기" 하위 추가
+- **주요 내용**:
+  1. **명제 검증**: "전력이 반도체 다음 병목" = 주류·실증(IEA 데이터센터 전력 2025→2030 2배 등). 단 IEA Headwinds Case·AI 버블 우려로 양날의 칼 → "여러 하위 병목 중 무엇이·어디서·얼마나 오래 구속력?"으로 재구성.
+  2. **변압기 = 가장 느린 병목**: 패러데이 유도 원리(AC 한정, V₁/V₂=N₁/N₂), 철손→GOES 사용. 발전→송전→변압기→DC 사슬.
+  3. **병목 스코어카드**: 🔴 GOES(Cleveland-Cliffs 단독·구조적)·OLTC(MR ~40%)·부싱(Trench)·숙련인력(자본으로 못 삼) / 🟠 구리·제조캐파(2027~2030 완화) / 🟡 절연유.
+  4. **기업 매핑**: 한국 4사(효성·HD현대·LS·일진)는 "조립·통합" 미국 강자이나 핵심 부품은 독일 MR·Trench 의존 → "병목의 하류"에 앉음. 효성 765kV 부싱조차 Trench 조달(2026.5).
+  5. **반대 신호**: "표준품"은 12~14개월이면 가능 → 병목은 "맞춤형·고전압·대형" 구간에 집중(종목 분석의 결정적 경계선).
+- **인식론 처리**: 전력수요 전망·점유율·리드타임·주가 = `[!claim]`(업계·기관 추정 명시), 물리 원리(패러데이·V/N비) = `[!principle]`/`[!fact]`, 효성-Trench 조달은 출처(더구루) 기반 `[!fact]`, 병목 진단·재구성·"하류" 구도 = `[!judgment]`, 출처 신뢰도 주의 = `[!opinion]`
+- **핵심 프레임**: [반도체 가치사슬 종합](syntheses/semiconductor-ai-chip-value-chain.md)의 "곡괭이와 삽" 통찰의 전력판 — 완성품 경쟁 승패와 무관하게 상류 투입재(GOES·OLTC·부싱)를 쥔 쪽이 가장 견고
+- **후속 추적 (Open threads)**: GOES 소재 사슬(POSCO·Cliffs·Nippon), MR·Trench 상장 접근 경로, 한국 4사 부품 내재화율·美 익스포저·밸류, 맞춤형 vs 표준품 노출도, 가스터빈 병목·BYOP·SMR 우회로
 
 ---
 
