@@ -1,7 +1,7 @@
 ---
 title: "APD - Air Products & Chemicals — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-19
+updated: 2026-06-26
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-29**: 미국 3개 프로젝트 철수 ($31억 손상) 후 포트폴리오 재편 효과 — Q2 이후 마진 개선 여부 (pending)
 - [ ] **2026-06-05**: 웰스파고 Overweight 상향 — $325 목표가 도달 시점 (pending; RBC도 6/13 $355 목표가로 Outperform 개시)
 - [ ] **2026-06-19**: NEOM 그린수소 프로젝트 진전 — 연 120만톤 그린암모니아 수출 일정 준수 여부 (pending)
+- [ ] **2026-06-26**: 대형 수소·암모니아 프로젝트 비용 초과 및 지연 리스크 — 향후 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -47,6 +48,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-26
+**narrative_score**: +0.29
+**key_events**: FY26 Q2 실적 호조 및 가이던스 상향($13.00~13.25), 미주리 멤브레인 공장 7천만달러 증설, 2026 지속가능성 보고서 발간
+**risks**: 대형 수소·암모니아 프로젝트 비용 초과 및 지연 리스크, 매크로 불확실성 및 대규모 capex 부담, Linde 등 경쟁사의 북미 수요 선점 경쟁
+
+> [!claim] (PR Newswire, 2026-06-26) Air Products Publishes 2026 Sustainability Report
+> FY2025 기반 2026 지속가능성 보고서 발간. impact: neutral / category: other
+
+> [!claim] (PR Newswire, 2026-06-03) Air Products Membrane Solutions Holds Ribbon-Cutting Event for $70 Million Expansion of its Missouri Manufacturing and Logistics Center
+> 미주리 멤브레인 공장 7천만달러 증설 완료, 수소·바이오가스 수요 대응. impact: + / category: product
+
+> [!claim] (PR Newswire, 2026-05-01) Air Products Reports Fiscal 2026 Second Quarter Results
+> Q2 실적 호조, FY26 조정EPS 가이던스 $13.00~13.25로 상향. impact: + / category: earnings
+
+> [!claim] (Yahoo Finance, 2026-06-10) How Rising Hydrogen Project Risks and Costs Will Impact Air Products and Chemicals (APD) Investors
+> 대형 수소 프로젝트의 비용·실행 리스크 부각. impact: - / category: macro
+
+**경쟁사 동향**:
+- LIN: Citi, Linde 목표주가 585→600달러 상향, 북미 산업수요 강세 — 산업가스 수요 견조로 APD 볼륨·가격에도 우호적이나 경쟁 강도 유지
+- AIR.PA: 에어리퀴드 한국 반도체 가스 투자 확대 — AI 칩 가스 수요 구조적 성장 확인 — APD 산업가스 사업에도 우호적
+
 ### 2026-06-19
 **narrative_score**: +0.17
 **key_events**: RBC Outperform 신규 개시·목표가 $355 (6/13, 3월 이후 ~10% 하락을 진입점으로 평가), Q1 호실적 + NASA $140M+ 수소 계약으로 +10.7% 상승, NEOM 그린수소 프로젝트 진전

@@ -1,7 +1,7 @@
 ---
 title: "SO - The Southern Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-19
+updated: 2026-06-26
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-29**: Q1 EPS 상회 + Vogtle 4호기 정격출력 — 2026 전력 판매량 성장 여부 (pending — 6/19 업데이트: Q1 데이터센터발 전력수요 +42%, 28개 대형부하 11GW 계약으로 성장 가속 정황)
 - [ ] **2026-06-05**: 조지아 파워 요금 인하 명령 — 매출 감소 규모 및 다음 요금 신청 시점 (pending)
 - [ ] **2026-06-19**: $26.5B DOE 저리 대출 + 75GW 파이프라인 — 2026-30 $81B capex 집행 및 데이터센터 계약 전환율 검증 (pending)
+- [ ] **2026-06-26**: 대규모 자본지출에 따른 금리 민감도 — 향후 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -47,6 +48,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-26
+**narrative_score**: +0.45
+**key_events**: 데이터센터 42% 성장, 전력판매 기록, 자본계획 810억달러로 확대, 2026 EPS $4.50~4.60 가이던스
+**risks**: 대규모 자본지출에 따른 금리 민감도, 데이터센터 수요 둔화 시 과잉투자 리스크
+
+> [!claim] (Utility Dive, 2026-04-30) Southern Co. electricity sales soar on 42% data center growth
+> 데이터센터 42% 성장에 전력판매 사상 최대. impact: + / category: earnings
+
+> [!claim] (Motley Fool, 2026-04-29) 1 Company Set to Make a Fortune From the $1.7 Trillion Data Center Build-Out
+> 보글 원전 기반 무탄소 전력으로 데이터센터 수혜. impact: + / category: macro
+
+> [!claim] (Seeking Alpha, 2026-06-15) Southern Company: Data Center Expansion Bullish, Market Overlooking Nuclear Facility
+> 10GW 대형부하 계약·75GW 파이프라인, 자본 810억달러. impact: + / category: other
+
+**경쟁사 동향**:
+- DUK: 듀크, 데이터센터 계약 누적 7.6GW로 확대 — 동남부 데이터센터 수요 경쟁 심화하나 시장 자체가 성장
+- NEE: NEE-도미니언 합병으로 규제 유틸리티 거대화 — 대형화 경쟁 압력, 단 SO는 보글 원전 차별화 유지
+
 ### 2026-06-19
 **narrative_score**: +0.24
 **key_events**: Vogtle 진척·데이터센터 수요로 다수 애널리스트 목표가 상향, 28개 대형부하 11GW 계약 + 75GW 이상 파이프라인(Google/Meta/MSFT), $26.5B DOE 저리 대출 확보·2026-30 capex $81B 상향

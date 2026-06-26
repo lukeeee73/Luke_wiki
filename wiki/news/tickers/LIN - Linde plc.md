@@ -1,7 +1,7 @@
 ---
 title: "LIN - Linde plc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-19
+updated: 2026-06-26
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-29**: Q1 EPS +10% YoY + 가이던스 상향 — 연간 가이던스 컨센서스 상회 여부 (pending, 현재 소폭 하회)
 - [ ] **2026-06-05**: 삼성 반도체 팹 계약 — 착공 및 가스 공급 개시 일정 (pending)
 - [ ] **2026-06-19**: 반도체 팹·수소·헬스케어 가스 수요로 사상 최고가 $523.57 — 추가 신고가 모멘텀 지속 여부 (pending)
+- [ ] **2026-06-26**: 글로벌 산업생산 둔화 시 가스 물량 수요 위축 — 향후 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -47,6 +48,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-26
+**narrative_score**: +0.45
+**key_events**: 씨티·UBS 목표주가 600달러로 상향(매수 유지), 반도체 팹·청정에너지 수요로 주가 사상 최고가, Q1 2026 EPS 13%↑·매출 8%↑·분기배당 인상, AI 칩용 초고순도 가스 공급 수혜
+**risks**: 글로벌 산업생산 둔화 시 가스 물량 수요 위축, 에어리퀴드의 아시아 반도체 가스 투자 확대로 경쟁 심화, 수소·청정에너지 프로젝트 가동 지연 가능성, 고밸류에이션(사상 최고가)에 따른 조정 위험
+
+> [!claim] (GuruFocus, 2026-06-24) Linde (LIN) Maintained by Citigroup -- Price Target Raised to $600
+> 씨티, 매수 유지하며 목표주가 585→600달러 상향. impact: + / category: other
+
+> [!claim] (ad-hoc-news, 2026-06-22) Linde Stock - UBS reiterates Buy rating and lifts price target to $600
+> UBS도 매수 유지·목표가 600달러로 상향. impact: + / category: other
+
+> [!claim] (Kalkine, 2026-06-23) Linde plc (LIN) Reaches All-Time High - Industrial Gas Giant Capitalises on Clean Energy and Chip Fab Demand
+> 반도체 팹·청정에너지 수요로 사상 최고가 경신. impact: + / category: macro
+
+> [!claim] (Business Wire, 2026-05-01) Linde Reports First-Quarter 2026 Results
+> Q1 EPS 13%↑, 매출 8%↑, 분기 배당 인상. impact: + / category: earnings
+
+**경쟁사 동향**:
+- APD: 에어프로덕츠, 미주리 물류센터 7천만달러 증설 완료 및 2026 지속가능경영보고서 발간 — 수소·바이오가스 수요 확대는 업종 전반 우호적이나, 규모는 Linde 대비 작아 LIN의 선두 지위 위협 제한적
+- AIR.PA: 에어리퀴드, SK하이닉스 AI 메모리 칩 프로젝트 지원 위해 한국 투자 확대 — 아시아 반도체 가스 경쟁 심화 신호이나, AI 칩 가스 수요 구조적 성장 확인 — LIN에도 우호적
+
 ### 2026-06-19
 **narrative_score**: +0.27
 **key_events**: 6/15 사상 최고가 $523.57 경신 (반도체 팹·수소·헬스케어 가스 수요), 수소 생산·유통 네트워크 확대로 청정에너지 프록시 부각, 분기 배당 $1.60 6/18 지급

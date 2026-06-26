@@ -1,7 +1,7 @@
 ---
 title: "COP - ConocoPhillips — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-19
+updated: 2026-06-26
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-29**: 연간 생산가이던스 하향 수정 (-3.4%) — 추가 하향 여부 (verified 2026-06-19) — 2.295-2.325 MMBOED 하향이 복수 매체로 재확인, 주가 -3.13% 반응
 - [ ] **2026-06-05**: 포트아서 LNG 첫 생산 임박 — 2026 하반기 LNG 매출 기여 시점 (pending)
 - [ ] **2026-06-19**: 가이던스 하향·내부자 매도·유가 하락 3중 악재로 한 달 -9% — Willow·포트아서 LNG가 모멘텀 반전시킬지 (pending)
+- [ ] **2026-06-26**: 생산 가이던스 하향 추세 — 향후 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +50,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-26
+**narrative_score**: -0.20
+**key_events**: 2026 생산 가이던스 하향(2.295~2.325 MMBOED), 주가 3.1% 급락, 시리아 가스전 개발 협약(약 20년 만에 복귀), RBC 베스트 아이디어 선정
+**risks**: 생산 가이던스 하향 추세, 최근 3개월 주가 -15.1%, 유가 약세 지속
+
+> [!claim] (Traders Union, 2026-06-20) 2026 production outlook cut sends ConocoPhillips stock down 3.13%
+> 2026 생산 가이던스 하향에 주가 3.1% 급락. impact: - / category: earnings
+
+> [!claim] (Yahoo Finance, 2026-06-23) ConocoPhillips (COP) Named to RBC Capital's June Global Energy Best Ideas List
+> RBC 6월 글로벌 에너지 베스트 아이디어 선정. impact: + / category: other
+
+> [!claim] (Simply Wall St, 2026-06-22) ConocoPhillips (COP) Stock Could Be 24.5% Undervalued on Its LNG Growth Narrative
+> LNG 성장 스토리 감안 24.5% 저평가 분석. impact: + / category: other
+
+**경쟁사 동향**:
+- EOG: EOG, 2분기 실적 발표 8/5 예정 및 JPM 컨퍼런스 발표 — 셰일 동종업체 EOG 일정·BP 트리니다드 JV로 가스 경쟁 부각
+- CVX: 셰브론 그리스·MS 가스 계약 등 공격적 확장 — 대형사 확장 대비 코노코의 생산 하향은 상대적 약점으로 부각
+
 ### 2026-06-19
 **narrative_score**: -0.16
 **key_events**: 2026 생산 가이던스 하향 재확인 → 6/18 -3.13% ($107.74), 이사 1,974주 내부자 매도 (6/10), Willow·포트아서 LNG 장기 성장 동력

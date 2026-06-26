@@ -1,7 +1,7 @@
 ---
 title: "XOM - Exxon Mobil Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-19
+updated: 2026-06-26
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-29**: 베네수엘라 세르로 네그로 복귀 협상 — 생산 재개 시 XOM 상류 볼륨 증가 여부 (aged-out)
 - [ ] **2026-06-05**: OPEC+ 6/7 추가 증산 결정 — 유가 추가 하락 시 XOM 가이아나·퍼미안 FCF 영향 여부 (verified 2026-06-19) — 미·이란 협정발 유가 급락으로 한 달 -15% 조정, 매크로 하방 현실화
 - [ ] **2026-06-19**: 가이아나·퍼미안 기록 생산이 유가 하락 충격을 구조적으로 상쇄하는지 — 저평가 분석 vs 유가 민감도 검증 필요 (pending)
+- [ ] **2026-06-26**: 유가 70달러 하회로 현금흐름 압박 — 향후 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -47,6 +48,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-26
+**narrative_score**: +0.02
+**key_events**: 7월 텍사스 본사 이전, 대법원 쿠바 10억달러 청구 부활 승소, BofA 매수 상향(6/15), WTI 70달러 붕괴
+**risks**: 유가 70달러 하회로 현금흐름 압박, 최근 1개월 주가 -8.2%, 호르무즈 긴장 완화로 유가 추가 하락 가능
+
+> [!claim] (GuruFocus, 2026-06-22) Exxon Mobil (XOM) Plans Move to Texas Effective July 2026
+> 엑손모빌, 7월 본사를 뉴저지서 텍사스로 이전 발표. impact: neutral / category: other
+
+> [!claim] (Simply Wall St, 2026-06-23) Exxon Mobil (XOM) Wins Supreme Court Ruling Reviving $1 Billion Cuba Claim
+> 대법원 6-3 판결로 10억달러 쿠바 손배 청구 부활. impact: + / category: regulation
+
+> [!claim] (Yahoo Finance, 2026-06-24) Exxon Mobil (XOM) Stock After Recent Pullback: Is The Market Pricing Cash Flows Correctly
+> 유가 하락 후 주가 조정, BofA는 6월 매수로 상향. impact: neutral / category: other
+
+> [!claim] (CNBC, 2026-06-26) Oil prices fall as more tankers exit Strait of Hormuz
+> WTI 69.23달러로 70달러 붕괴, 호르무즈 긴장 완화. impact: - / category: macro
+
+**경쟁사 동향**:
+- CVX: 셰브론, MS 데이터센터 20년 천연가스 공급 계약 및 그리스 블록10 진출 — 셰브론의 AI 전력·국제 확장 공세로 엑손도 가스·저탄소 사업 압박 받음
+- COP: 코노코필립스 2026년 생산 가이던스 하향(주가 -3%) — 업스트림 전반 생산 둔화 우려, 유가 약세와 맞물려 섹터 투자심리 악화
+
 ### 2026-06-19
 **narrative_score**: +0.02
 **key_events**: 미·이란 평화협정 임박 보도로 유가 급락, 한 달 -15% 조정 후 6/18 $136.82, 가이아나·퍼미안 기록 생산으로 충격 일부 상쇄

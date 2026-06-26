@@ -1,7 +1,7 @@
 ---
 title: "EXC - Exelon Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-19
+updated: 2026-06-26
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-29**: Q1 EPS 컨센서스 부합 — 뚜렷한 촉매 부재 — Q2 실적 개선 여부 (pending — 6/19 업데이트: Q1 조정 EPS $0.91로 컨센 상회, 전력가격·수요·날씨가 견인)
 - [ ] **2026-06-05**: PECO 요금 신청 철회 — 재신청 시점 및 규제 당국과 협의 결과 (pending)
 - [ ] **2026-06-19**: 순수 T&D 모델 — 데이터센터발 성장 포착 폭이 발전 보유 동종 대비 충분한지 검증 (pending)
+- [ ] **2026-06-26**: NY/IL 요금 적정성 규제 압박 — 향후 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -47,6 +48,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-26
+**narrative_score**: +0.31
+**key_events**: 자본계획 $41.7B로 상향(송전 중심), 데이터센터 파이프라인 ~18GW, Q1 EPS $0.91로 컨센서스 상회
+**risks**: NY/IL 요금 적정성 규제 압박, 송전 경쟁입찰 낙찰 불확실성, 대규모 자본지출에 따른 증자 희석
+
+> [!claim] (TIKR, 2026-06-15) Exelon Raises Capital Plan to $41.7 Billion: Why the Transmission Pivot Changes the Math
+> 자본계획 417억달러로 상향, 송전 투자 중심 전환. impact: + / category: other
+
+> [!claim] (Utility Dive, 2026-05-02) Exelon lowers utility spending to ease electric affordability issues
+> 요금 부담 완화 위해 배전 투자 일부 축소. impact: neutral / category: regulation
+
+> [!claim] (AlphaStreet, 2026-06-10) Exelon (EXC) Is Evolving From a Defensive Utility Into a Grid-Investment and Load-Growth Story
+> 방어주에서 부하성장·그리드투자 스토리로 진화. impact: + / category: other
+
+**경쟁사 동향**:
+- NEE: NextEra-Dominion 합병 발표, 세계 최대 규제 유틸리티 추진 — 대형 부하 요금구조 경쟁 심화, EXC 데이터센터 파이프라인 협상력에 비교 압박
+- DUK: Duke, 데이터센터 수요 대응 가스·송전 투자 확대 — 동종 유틸리티들도 부하성장 자본투자 가속, EXC 송전 차별화 필요
+
 ### 2026-06-19
 **narrative_score**: +0.06
 **key_events**: Q1 조정 EPS $0.91 컨센 상회·2026 가이던스 및 7.9% 요금기반 성장 재확인, 분기 배당 $0.42 6/15 지급, 주가 $46.18(월 +6.4%)·적정가치 $49.33 대비 소폭 저평가

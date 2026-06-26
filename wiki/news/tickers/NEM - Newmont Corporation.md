@@ -1,7 +1,7 @@
 ---
 title: "NEM - Newmont Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-19
+updated: 2026-06-26
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-29**: 2026 생산량 하락 + 비용 상승 — Q2 실적에서 개선 여부 (pending)
 - [ ] **2026-06-05**: $60억 자사주매입 프로그램 — 매입 속도 및 주가 지지 효과 (pending; 한 달 -15% 약세로 지지 효과 제한적)
 - [ ] **2026-06-19**: 7/1 발효 CFO·COO·CTO 경영진 쇄신 — 운영성과·비용통제 실행 개선 여부 (pending)
+- [ ] **2026-06-26**: 금 가격 급락(Fed 매파·지정학 리스크 완화)에 따른 실적 레버리지 — 향후 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -52,6 +53,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-26
+**narrative_score**: +0.25
+**key_events**: 금값 7개월 최저로 6/24 주가 4.17% 급락, Red Chris 블록케이브 채굴 허가 승인(2040년대 연장), 7/1자 신임 CFO·COO·CTO 선임, 1Q 사상 최대 실적·FCF, 자사주 매입 한도 확대
+**risks**: 금 가격 급락(Fed 매파·지정학 리스크 완화)에 따른 실적 레버리지, 순수 금 노출로 매크로 민감도 높음, 주가 핵심 지지선 이탈
+
+> [!claim] (TradingKey, 2026-06-24) Newmont Corporation Stock (NEM) Closed Down by 4.17% on Jun 24: What Investors Need To Know
+> 금값 7개월 최저로 NEM 주가 하루 4.17% 급락. impact: - / category: macro
+
+> [!claim] (Timothy Sykes, 2026-06-23) NEM Stock Tests Support As Strong Fundamentals Stand Out
+> 주가 지지선 시험하나 70%대 마진 등 펀더멘털 견조. impact: neutral / category: other
+
+> [!claim] (Simply Wall St, 2026-06-23) Newmont (NEM) Stock Could Be 26.6% Below Fair Value After Red Chris Permit Approval
+> BC주 Red Chris 블록케이브 허가 승인, 2040년대까지 채굴 연장. impact: + / category: regulation
+
+> [!claim] (Yahoo Finance, 2026-06-15) Newmont Corporation (NEM) Announces CFO, COO, CTO Appointments
+> 7월1일자 CFO·COO·CTO 신규 임원 선임 발표. impact: neutral / category: other
+
+> [!claim] (Newmont, 2026-04-30) Newmont Generates Record Quarterly Earnings and Free Cash Flow, Reports First Quarter 2026 Results
+> 분기 사상 최대 실적·FCF, 자사주 매입 한도 확대. impact: + / category: earnings
+
+**경쟁사 동향**:
+- AEM: Agnico, 핀란드 Rupert Resources 약 21억달러 주식 인수 추진 — 경쟁사 매장량 확대로 성장 압박, NEM은 자사주 매입·배당 환원으로 차별화
+- FCX: Freeport Grasberg 생산 차질 지속, 2분기 재가동 — 구리 익스포저 작은 NEM은 구리 약세 영향 제한적
+
 ### 2026-06-19
 **narrative_score**: -0.06
 **key_events**: CFO·COO·CTO 신규 임명(7/1 발효, Viljoen 체제 경영진 쇄신), 금 가격 ~$4,136/oz 하락 (한 달 ~4% 조정), 주가 한 주 -10%·한 달 -15% 약세

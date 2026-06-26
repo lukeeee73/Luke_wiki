@@ -1,7 +1,7 @@
 ---
 title: "CVX - Chevron Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-19
+updated: 2026-06-26
 domain: finance
 type: claim
 weight: reference
@@ -32,6 +32,7 @@ sources: []
 - [ ] **2026-06-05**: 싱가포르 정제 지분 ENEOS 매각 — 완료 후 하류 포트폴리오 간소화 효과 실현 여부 (aged-out)
 - [ ] **2026-06-05**: CVX는 피어 대비 원유 레버리지가 높아 호르무즈 재개 시 하락 위험 더 큼 (verified 2026-06-19) — 미·이란 협정 임박발 유가 급락에 6/15 -3.6%로 직격, 가설 입증
 - [ ] **2026-06-19**: Zacks 강력매수→보유 강등 후 추가 매도측 등급 하향 이어지는지 (pending)
+- [ ] **2026-06-26**: 유가 70달러 하회 — 향후 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -48,6 +49,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-26
+**narrative_score**: +0.17
+**key_events**: MS 데이터센터 20년 가스 공급 계약, 그리스 블록10 지분70% 운영권 확보, 베네수엘라 지진 후 운영 정상
+**risks**: 유가 70달러 하회, 베네수엘라 지정학 리스크, 데이터센터 최종투자결정(연내) 불확실성
+
+> [!claim] (CNBC, 2026-06-22) Chevron to fuel massive Microsoft data center in Texas using natural gas
+> MS 2.7GW 데이터센터에 20년 천연가스 공급 계약. impact: + / category: product
+
+> [!claim] (Yahoo Finance, 2026-06-24) Chevron (CVX) Expands Into Greece Block 10 While Venezuela Operations Stay Running
+> 그리스 이오니아해 블록10 지분70%·운영권 확보. impact: + / category: m&a
+
+> [!claim] (Yahoo Finance, 2026-06-25) Chevron (CVX) Expands Into a Promising New Offshore Region; Long-Term Growth Driver?
+> 동지중해 신규 해상광구가 장기 성장동력 될지 주목. impact: + / category: other
+
+> [!claim] (TheStreet, 2026-06-23) Exxon, Chevron investors cautious after oil news
+> 유가 뉴스에 엑손·셰브론 투자자 신중 모드. impact: neutral / category: macro
+
+**경쟁사 동향**:
+- XOM: 엑손, 대법원 쿠바 소송 승소 및 텍사스 본사 이전 — 엑손의 법적·전략 호재는 빅오일 경쟁에서 셰브론에 상대적 부담
+- COP: 코노코 2026 생산 가이던스 하향 — 셰브론의 가스·국제 확장 행보가 생산 둔화 동종업체 대비 차별화 부각
+
 ### 2026-06-19
 **narrative_score**: -0.07
 **key_events**: 미·이란 평화협정 임박 보도로 6/15 -3.6% (~$180.40), Zacks 강력매수→보유 강등 (6/11), 헤스 통합 미국 생산 +24% 효과 지속

@@ -1,7 +1,7 @@
 ---
 title: "AEP - American Electric Power — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-19
+updated: 2026-06-26
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-29**: Q1 EPS 상회 + 3GW 데이터센터 계약 + 가이던스 상향 — Q2 실적 데이터센터 매출 기여 여부 (pending)
 - [ ] **2026-06-05**: $417억 4년 자본투자 계획 — 요금기반 7.9% 성장 달성 여부 검증 (pending — 6/19 업데이트: 5개년 자본계획 $78B로 확대, 장기 EPS 성장률 9%+ 상향)
 - [ ] **2026-06-19**: 2030년까지 증분 부하 63GW(약 90% 데이터센터) — 계약 전환 및 OVEC 재편 후 수익 기여 검증 (pending)
+- [ ] **2026-06-26**: 오하이오 데이터센터 파이프라인 축소 — 향후 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -47,6 +48,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-26
+**narrative_score**: +0.32
+**key_events**: 5년 자본계획 780억달러 확대, 6/1 OVEC 구조조정 완료, 부하 파이프라인 56GW(6개월새 100%↑)
+**risks**: 오하이오 데이터센터 파이프라인 축소, PJM 규제·요금배분 리스크, 대규모 자본조달 금리부담
+
+> [!claim] (Simply Wall St, 2026-06-20) Did AEP's US$78 Billion Data Center-Focused Plan Just Shift the Investment Narrative?
+> 5년 자본계획 780억달러로 확대, 신규 7GW 계약. impact: + / category: other
+
+> [!claim] (Simply Wall St, 2026-06-10) A Look At AEP Valuation After OVEC Overhaul And Data Center Growth Plans
+> 6/1 OVEC 구조조정 완료, 부하 파이프라인 56GW. impact: + / category: regulation
+
+> [!claim] (DataCenterDynamics, 2026-06-12) AEP Ohio slashes data center pipeline by more than half - report
+> AEP 오하이오, 데이터센터 파이프라인 절반 이상 축소. impact: - / category: other
+
+> [!claim] (Seeking Alpha, 2026-06-13) American Electric Power Stock: Current Valuation Reflects The Capital Plan
+> 현 밸류에이션이 자본계획 반영, 2026 EPS $6.15~6.45. impact: neutral / category: earnings
+
+**경쟁사 동향**:
+- EXC: 엑셀론 데이터센터 파이프라인 18GW로 증가 — PJM 권역 부하성장 공유, AEP 송전투자 수혜
+- DUK: 듀크 요금인상 하향으로 affordability 대응 — 유틸리티 전반 요금 정치압력 확산 가능성
+
 ### 2026-06-19
 **narrative_score**: +0.17
 **key_events**: 5개년 자본계획 $78B 확대·장기 EPS 성장률 9%+ 상향, 2030년까지 증분 부하 63GW(약 90% 데이터센터)·Q1 7GW 신규 계약, 6/1 OVEC 재편 거래 완료·2026 EPS 가이던스 $6.15~6.45 재확인

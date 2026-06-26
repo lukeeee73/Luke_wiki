@@ -1,7 +1,7 @@
 ---
 title: "OXY - Occidental Petroleum — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-19
+updated: 2026-06-26
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-29**: Barclays Hold→Buy 업그레이드 — 신임 CEO 하에서 매도 측 커버리지 추가 여부 (aged-out)
 - [ ] **2026-06-05**: 멕시코만 Bandit 광구 석유 발견 — 생산 가능 추정량 및 개발 일정 발표 여부 (aged-out)
 - [ ] **2026-06-19**: OXY 고원유 레버리지 — 미·이란 협정으로 전쟁 종료 시 추가 하락 (크레이머 경고) vs 부채감소·버핏지지 방어력 (pending)
+- [ ] **2026-06-26**: 유가에 대한 높은 민감도(고베타) — 향후 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -47,6 +48,21 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-26
+**narrative_score**: -0.01
+**key_events**: CEO 교체(홀럽 은퇴→잭슨 취임, 6/1), Q1 순이익 32억달러·EPS 3.13달러, 유가 하락으로 주가 약세(연초 대비 +31%)
+**risks**: 유가에 대한 높은 민감도(고베타), 호르무즈 긴장 완화로 유가 추가 하락, 신임 CEO 전환기 불확실성
+
+> [!claim] (FX Leaders, 2026-06-17) OXY Stock Falls on Oil Dip After US-Iran Deal — Still Up 31% in 2026
+> 미·이란 협상에 유가 하락, 주가 약세지만 연 31%↑. impact: - / category: macro
+
+> [!claim] (SEC, 2026-06-01) Occidental Petroleum Corp - Form 8-K (FY2026)
+> CEO 교체: 홀럽 은퇴, 잭슨 신임 CEO 취임. impact: neutral / category: other
+
+**경쟁사 동향**:
+- COP: 코노코 2026 생산 가이던스 하향 — 퍼미안 중심 동종업체 생산 둔화로 OXY 생산 전망에도 경계감
+- CVX: 셰브론 국제·가스 확장 가속 — 대형사 확장 대비 OXY는 부채 감축·버핏 지원에 의존하는 구조
+
 ### 2026-06-19
 **narrative_score**: -0.04
 **key_events**: 미·이란 협정발 유가 하락 → 6/17 -1.17% ($53.04), 크레이머 '전쟁 종료 시 하락' 경고, YTD +31%·부채 감소·버핏 지지로 하방 방어

@@ -1,7 +1,7 @@
 ---
 title: "SRE - Sempra — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-19
+updated: 2026-06-26
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-29**: Q1 EPS 컨센서스 하회 + LNG 수출 용량 확대 승인 — 하반기 LNG 매출 기여 여부 (pending → ECA LNG 1단계 생산 개시로 진전, 매출 기여 시점 계속 추적)
 - [ ] **2026-06-05**: Voss Capital Oncor 분리 촉구 — 경영진 대응 및 분리 실현 가능성 (pending)
 - [ ] **2026-06-19**: SDG&E·SoCalGas 2028 GRC 신청 — CPUC 결정이 향후 캘리포니아 규제 수익에 미치는 영향 (pending)
+- [ ] **2026-06-26**: 인프라 지분 매각 규제 승인·클로징 지연 — 향후 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -47,6 +48,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-26
+**narrative_score**: +0.34
+**key_events**: Port Arthur 파이프라인 LA 커넥터 가동(2 Bcf/d), 텍사스 그리드 수주, Port Arthur LNG 1단계 공급 진전
+**risks**: 인프라 지분 매각 규제 승인·클로징 지연, LNG 건설 비용/일정 리스크, 캘리포니아 규제·요금 환경
+
+> [!claim] (PR Newswire / Sempra, 2026-06-09) Sempra Infrastructure Announces In-Service of Port Arthur Pipeline Louisiana Connector
+> Port Arthur 파이프라인 루이지애나 커넥터 조기·예산내 가동. impact: + / category: product
+
+> [!claim] (StockTitan, 2026-06-09) Sempra Infrastructure starts 2 Bcf/d Louisiana gas line
+> 2 Bcf/d 가스라인 가동, Port Arthur LNG 1단계 공급. impact: + / category: product
+
+> [!claim] (Yahoo Finance, 2026-06-12) Sempra's New Debt, Texas Grid Wins, Port Arthur Milestone Might Change The Case For Investing In SRE
+> 텍사스 그리드 수주·Port Arthur 마일스톤으로 투자논리 변화. impact: + / category: other
+
+**경쟁사 동향**:
+- NEE: NextEra-Dominion 합병으로 세계 최대 규제 유틸리티 추진 — 규제 유틸리티 경쟁 확대, SRE의 텍사스·캘리포니아 성장 전략과 비교
+- DUK: Duke, 데이터센터 수요 대응 자본투자 확대 — 데이터센터 부하 대응 자본투자 경쟁, SRE는 LNG+유틸리티 이원 성장
+
 ### 2026-06-19
 **narrative_score**: +0.16
 **key_events**: SDG&E·SoCalGas 2028 GRC 신청 (CPUC), 포트 아서 루이지애나 커넥터 조기 가동 + ECA LNG 1단계 생산 개시, Oncor $70억+ 텍사스 송전 프로젝트 대부분 수주
