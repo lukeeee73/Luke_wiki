@@ -1,7 +1,7 @@
 ---
 title: "CEG - Constellation Energy — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-19
+updated: 2026-06-26
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-29**: Q1 EPS $3.68 대폭 상회 + Microsoft 20년 PPA — EPS 가시성 2029년까지 확인 여부 (pending)
 - [ ] **2026-06-05**: YTD -25% 조정 — 애널리스트 평균 목표가 $368 대비 수렴 시점 (pending)
 - [ ] **2026-06-19**: FERC waiver + Eddystone 760MW 용량권 이전 — Crane(TMI) 2027 하반기 재가동 일정 준수 여부 (pending)
+- [ ] **2026-06-26**: 증자에 따른 주당가치 희석 — 향후 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +50,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-26
+**narrative_score**: +0.57
+**key_events**: TMI/Crane FERC 면제 승인(2027 재가동), MS 20년 PPA 등 장기계약 확대, Calpine 인수 완료로 Q1 매출 2배
+**risks**: 증자에 따른 주당가치 희석, TMI 재가동 공정/원자력 규제(NRC) 지연 가능성, PJM 코로케이션 규정 확정 지연
+
+> [!claim] (Utility Dive, 2026-06-04) Constellation's Three Mile Island nuclear restart gets boost with FERC waiver
+> FERC 면제 승인으로 TMI(Crane) 재가동 일정 확보. impact: + / category: regulation
+
+> [!claim] (ExchangeMonitor, 2026-06-05) FERC grants Constellation's waiver to move Three Mile Island restart forward
+> Eddystone 계통권리 이전 허용, MS향 2027 재가동 청신호. impact: + / category: regulation
+
+> [!claim] (GuruFocus, 2026-06-05) Constellation Energy (CEG) Gains 2.6% Following FERC Waiver for Three Mile Island Restart
+> FERC 승인 소식에 주가 2.6% 상승. impact: + / category: regulation
+
+> [!claim] (TIKR, 2026-05-06) Constellation Energy Q1 2026 Earnings: Revenue Doubles on Calpine, EPS Guidance Affirmed
+> Calpine 인수로 매출 2배, EPS 가이던스 유지. impact: + / category: earnings
+
+**경쟁사 동향**:
+- VST: Vistra, KKR/Nvidia $10B Helix 벤처의 우선 전력공급자 선정 — IPP 데이터센터 전력공급 경쟁 가열, CEG의 원전 PPA 프리미엄 우위 부각
+- NEE: NextEra-Dominion 합병으로 세계 최대 규제 유틸리티 탄생 추진 — 무탄소 전력 공급 규모 경쟁 확대, 하이퍼스케일러 협상 환경 변화
+
 ### 2026-06-19
 **narrative_score**: +0.37
 **key_events**: FERC waiver로 Crane(TMI) 2027 하반기 재가동 추진 탄력, Eddystone 760MW 용량연계권 Crane으로 이전 승인, Microsoft·Meta·미 정부 장기 PPA가 매출 가시성 제공

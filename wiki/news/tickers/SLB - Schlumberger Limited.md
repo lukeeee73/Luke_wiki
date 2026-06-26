@@ -1,7 +1,7 @@
 ---
 title: "SLB - Schlumberger Limited — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-19
+updated: 2026-06-26
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-29**: 차기 EPS -28% YoY — Q2 결과(7/24)에서 추가 하향 여부 (pending; CEO가 6/16 Q2 운영 도전 언급해 하방 위험 시사)
 - [ ] **2026-06-05**: Tachyus AI 인수 — 디지털 저류층 솔루션 매출 기여 시점 (pending; 6/17 디지털 투자자의 날에서 디지털 전략 구체화)
 - [ ] **2026-06-19**: 6/17 디지털 투자자의 날에서 제시한 2030 디지털 야망 — 재무 목표 달성 궤도 여부 (pending)
+- [ ] **2026-06-26**: 글로벌 상류 capex 2년 연속 감소 — 향후 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -47,6 +48,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-26
+**narrative_score**: +0.10
+**key_events**: 6/17 디지털 투자자의 날 개최, Var Energi Delfi 플랫폼 확대, Q1 매출 87.2억달러(+3%)
+**risks**: 글로벌 상류 capex 2년 연속 감소, WTI ~70달러대 하락 및 유가 변동성, 중동분쟁에 따른 일부 사업 수익성 타격, HAL·BKR 디지털·신에너지 경쟁 심화
+
+> [!claim] (SLB Newsroom, 2026-06-10) SLB to Host 2026 Digital Investor Day
+> 6월17일 디지털 투자자의 날, AI·2030 디지털 야망 제시. impact: + / category: other
+
+> [!claim] (TipRanks, 2026-06-10) SLB Schedules 2026 Digital Investors Day in New York
+> ChampionX 통합효과·디지털 성장전략 부각 예고. impact: + / category: other
+
+> [!claim] (BusinessWire, 2026-05-28) SLB and Var Energi Expand Digital Collaboration to Scale Well and Integrated Field Development Planning
+> 노르웨이 대륙붕서 Delfi 플랫폼 확대, 사이클타임 단축. impact: + / category: product
+
+> [!claim] (TipRanks, 2026-04-25) SLB Earnings Call: Near-Term Hit, Long-Term Upside
+> Q1 매출 87.2억달러 +3%, 중동분쟁 단기 타격. impact: neutral / category: earnings
+
+**경쟁사 동향**:
+- HAL: 할리버튼, 가이아나 자동 시추배치 프로젝트 완료로 주목 — 디지털·자동화 경쟁 심화, SLB의 디지털 차별화 압박
+- BKR: 베이커휴즈, AI 데이터센터용 가스발전 10억달러+ 수주·CCUS 확대 — 신에너지·전력 인접영역서 경쟁사 다각화 진전
+
 ### 2026-06-19
 **narrative_score**: +0.15
 **key_events**: 6/17 2026 디지털 투자자의 날 개최 (AI 디지털 전략·2030 야망 제시), 주가 +34.1% YTD·52주 최고가 $58.01 부근, CEO Q2 운영 도전 언급

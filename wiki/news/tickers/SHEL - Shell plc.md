@@ -1,7 +1,7 @@
 ---
 title: "SHEL - Shell plc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-19
+updated: 2026-06-26
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-29**: LNG 캐나다 첫 화물 출하 (Q3 2026) — 실제 LNG 수익 기여 확인 여부 (pending)
 - [ ] **2026-06-05**: 5/7~7/24 자사주 매입 프로그램 완료 — 매입 규모 대비 주가 지지 효과 (refuted 2026-06-19) — $164억 ARC 인수 증권법 요건으로 6/12~7/14 자사주매입 일시 중단, 프로그램 무중단 완료 가설 깨짐
 - [ ] **2026-06-19**: 자사주매입 중단 기간 (6/12~7/14) 주가 지지력 약화 여부 — 재개 후 회복 탄력 검증 필요 (pending)
+- [ ] **2026-06-26**: Q1 매출 컨센 8.5% 하회 — 향후 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -47,6 +48,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-26
+**narrative_score**: +0.05
+**key_events**: 1분기 배당 지급 공지(6/15), 5월~7월 자사주 매입 프로그램 진행, Q1 EPS 2.42달러로 컨센 19.8% 상회·5% 배당 인상
+**risks**: Q1 매출 컨센 8.5% 하회, 유가 약세로 다운스트림·트레이딩 변동성, 성장 모멘텀 부족
+
+> [!claim] (London Stock Exchange, 2026-06-15) Shell plc First Quarter 2026 Euro and GBP Equivalent Dividend Payments
+> 1분기 유로·파운드 환산 배당금 지급 공지. impact: neutral / category: other
+
+> [!claim] (StockTitan, 2026-06-11) Shell plc buys back 1,986,023 shares on 11 June 2026
+> 6/11 자사주 약 199만주 소각용 매입. impact: + / category: other
+
+> [!claim] (StockTitan, 2026-06-05) Shell buys back 1.25M shares on 5 June 2026
+> 6/5 자사주 125만주 매입(LSE·Chi-X). impact: + / category: other
+
+**경쟁사 동향**:
+- XOM: 엑손, 대법원 쿠바 소송 승소·텍사스 이전 — 엑손의 법적 호재 대비 셸은 자사주·배당 중심 주주환원에 집중
+- CVX: 셰브론 MS 데이터센터 가스 공급·그리스 진출 — 셰브론의 성장 행보 대비 셸은 환원 위주로 성장 모멘텀은 상대적 약함
+
 ### 2026-06-19
 **narrative_score**: -0.06
 **key_events**: ARC 인수($164억) 관련 $30억 자사주매입 일시 중단 (6/12~7/14), 미·이란 협정발 유가 급락 → 6/15 -3.48%, Q1 배당 $0.3906/주 6/29 지급 확정

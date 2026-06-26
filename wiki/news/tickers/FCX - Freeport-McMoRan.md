@@ -1,7 +1,7 @@
 ---
 title: "FCX - Freeport-McMoRan Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-19
+updated: 2026-06-26
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-29**: Barclays OW 신규 개시 + 구리 수요 강세 — Grasberg 생산 정상화 시 목표가 도달 여부 (pending; 구리 $13,572/t 고점 유지하나 Grasberg 지연 지속)
 - [ ] **2026-06-05**: Grasberg 복구 지연 — 2026 하반기 생산 정상화 일정 발표 여부 (pending; 6/16 연결 판매 전망 ~31억 파운드로 추가 하향)
 - [ ] **2026-06-19**: 인도네시아 신규 제련소 조기 가동 — 연말 풀가동·완전 통합 생산자화 달성 여부 (pending)
+- [ ] **2026-06-26**: 그라스버그 재가동 지연 시 생산 차질(완전가동 2027말~2028 초) — 향후 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -47,6 +48,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-26
+**narrative_score**: +0.03
+**key_events**: 그라스버그 2분기 단계적 재가동 시작, 하반기 65% 가동 목표, 2026 생산 전년 수준(구리 약 10억파운드·금 90만온스), 6/10 연례주총 이사 11명 선임·보수안 승인, 구리 6달러 지지선 붕괴, 금 7개월 최저
+**risks**: 그라스버그 재가동 지연 시 생산 차질(완전가동 2027말~2028 초), 구리·금 동반 가격 조정으로 매출·마진 압박, Fed 매파 기조와 금 약세 지속 위험, 서던코퍼 등 경쟁사 증설로 중기 구리 공급 확대
+
+> [!claim] (Mining.com, 2026-06-15) Freeport plans to restore large-scale production at Grasberg in Q2 2026
+> 그라스버그 단계적 재가동, 2026 하반기 65% 가동 목표. impact: + / category: product
+
+> [!claim] (Nasdaq, 2026-06-12) Freeport Set To Restart And Ramp-up Production At Grasberg Mine In Q2 2026
+> 2026 구리 10억파운드·금 90만온스 전년 수준 전망. impact: neutral / category: product
+
+> [!claim] (TipRanks, 2026-06-10) Freeport-McMoRan Shareholders Elect Board, Back Executive Pay
+> 연례주총서 이사 11명 선임·보수안 승인, 지배구조 지지. impact: neutral / category: other
+
+> [!claim] (Simply Wall St, 2026-06-20) Freeport-McMoRan (FCX) Stock Could Be 28% Below Fair Value As Copper Supply Shifts
+> 구리 공급 재편 속 FCX 공정가 대비 28% 저평가 분석. impact: + / category: other
+
+> [!claim] (Trading Economics, 2026-06-26) Copper prices break below $6/lb support amid month-long pullback
+> 구리 6.10달러, 한달 -3.3%지만 전년比 +20%. impact: - / category: macro
+
+**경쟁사 동향**:
+- NEM: 뉴몬트 분기 FCF 31억달러·자사주 매입, 그러나 금값 7개월 최저로 주가 급락 — 금 가격 약세는 FCX 금 부문에도 역풍이나 FCX는 구리 비중이 커 상대적 노출 적음
+- SCCO: 서던코퍼 2026 생산목표 초과·구리 가이던스 91.5만톤 상향, 증설 지속 — 경쟁사 증설로 향후 구리 공급 확대 압력, 다만 FCX 그라스버그 차질로 단기 공급 타이트 유지
+
 ### 2026-06-19
 **narrative_score**: +0.13
 **key_events**: Grasberg 지연으로 2026 연결 판매 전망 ~31억 파운드로 하향(기존 34억), 구리 LME ~$13,572/t 역사적 고점 부근 (AI 데이터센터 구조적 공급부족), 인도네시아 신규 제련소 조기 가동

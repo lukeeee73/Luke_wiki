@@ -1,7 +1,7 @@
 ---
 title: "ED - Consolidated Edison — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-19
+updated: 2026-06-26
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-05-29**: Q1 EPS 상회 + NYC 그리드 현대화 $7억 투자 — 전력망 현대화 공사 진행 상황 (aged-out: 21일 경과, 후속 갱신 없음)
 - [ ] **2026-06-19**: 2026 EPS 가이던스 $6.00~$6.20 재확인 + $380억 투자계획 — 7%+ 성장 실현 여부 (pending)
+- [ ] **2026-06-26**: NY 요금 적정성/규제 압박 — 향후 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +47,21 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-26
+**narrative_score**: +0.10
+**key_events**: Q1 순이익 $924M, EPS $2.55, 2026 조정 EPS 가이던스 $6.00~6.20 재확인, 분기 배당 $3.4375(수익률 ~3.3%)
+**risks**: NY 요금 적정성/규제 압박, ATM 증자에 따른 희석, 부하성장 노출 낮아 AI 수요 수혜 제한
+
+> [!claim] (SEC / Con Edison, 2026-05-07) Consolidated Edison Q1 2026 Results (Form 8-K)
+> Q1 순이익 $924M, EPS $2.55로 전년대비 개선. impact: + / category: earnings
+
+> [!claim] (StockAnalysis, 2026-06-13) Consolidated Edison (ED) Stock Price and Overview
+> 2026 조정 EPS 가이던스 $6.00~6.20 재확인. impact: neutral / category: earnings
+
+**경쟁사 동향**:
+- EXC: Exelon, 송전 중심 자본계획 $41.7B로 상향·부하성장 스토리 — 동부 규제 유틸리티 자본성장 경쟁, ED는 NY 집중·성장 제한적
+- DUK: Duke, 데이터센터 수요 대응 투자 확대 — 타 유틸리티는 부하성장 수혜, ED는 데이터센터 노출 상대적으로 낮음
+
 ### 2026-06-19
 **narrative_score**: +0.07
 **key_events**: 6/15 $0.89 배당 지급 (52년 연속 증가), 2026 EPS 가이던스 $6.00~$6.20 재확인 (※ 기존 로그 $5.25~$5.45 대비 상이 — 출처 표기 차이 추적), $380억 청정에너지·그리드 투자계획 강조

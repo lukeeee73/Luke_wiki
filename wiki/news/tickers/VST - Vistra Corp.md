@@ -1,7 +1,7 @@
 ---
 title: "VST - Vistra Corp — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-19
+updated: 2026-06-26
 domain: finance
 type: claim
 weight: reference
@@ -32,6 +32,7 @@ sources: []
 - [ ] **2026-06-05**: 로터스 가스발전 7개 시설 인수 — 인수 완료 후 EBITDA 기여 시점 (pending)
 - [ ] **2026-06-19**: Perry 원전 가동용량 2026년 12월 인도 개시 예정 — 일정 준수 및 Meta 전력 인도 시작 여부 (pending)
 - [ ] **2026-06-19**: Cogentrix 5,500MW 가스 ~$40억 인수 추진 — 클로징 및 부채 영향 (pending)
+- [ ] **2026-06-26**: AI 데이터센터 수요 둔화 시 밸류에이션 조정 — 향후 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -48,6 +49,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-26
+**narrative_score**: +0.57
+**key_events**: $10B Helix 벤처 우선 전력공급자·앵커 투자자 선정, Cogentrix 가스자산 인수 완료, 6월 주가 약 11% 상승
+**risks**: AI 데이터센터 수요 둔화 시 밸류에이션 조정, 가스 발전 비중 따른 연료가/탄소 규제 노출, 대형 딜 실행·자본배분 리스크
+
+> [!claim] (Insider Monkey, 2026-06-12) Vistra Selected As The Preferred Power Provider For A $10 Billion KKR-Backed AI Infrastructure Venture
+> KKR·Nvidia·KIA $10B Helix 벤처 우선 전력공급자 선정. impact: + / category: product
+
+> [!claim] (TIKR, 2026-06-19) Vistra Stock Rose 11% in June on a $10 Billion AI Power Deal
+> $10B AI 전력 딜로 6월 주가 11% 상승. impact: + / category: product
+
+> [!claim] (Yahoo Finance, 2026-06-16) Vistra Reshapes Growth With Cogentrix Deal And AI Data Center Power
+> Cogentrix 가스자산 인수 완료로 발전 포트폴리오 확대. impact: + / category: m&a
+
+> [!claim] (Simply Wall St, 2026-06-15) Will Helix AI Data Center Power Deal Redefine Vistra's (VST) Narrative in the AI Era?
+> Helix 딜이 VST의 AI 시대 내러티브 재정의 평가. impact: + / category: product
+
+**경쟁사 동향**:
+- CEG: CEG, FERC 승인으로 TMI 원전 재가동(MS 20년 PPA) 진전 — 원전 무탄소 PPA 경쟁자 부각, VST는 가스+원전+AI벤처로 차별화
+- NRG: NRG, 텍사스 데이터센터 장기계약·가스 JV 추진 — ERCOT 데이터센터 전력 경쟁 심화, VST의 Helix 앵커 지위가 우위
+
 ### 2026-06-19
 **narrative_score**: +0.32
 **key_events**: 2026 adj EBITDA $68~76억 가이던스 재확인, Meta 2,600MW + AWS 1,200MW 원전 PPA·Perry 12월 가동 개시, Cogentrix 5,500MW 가스 ~$40억 인수 추진

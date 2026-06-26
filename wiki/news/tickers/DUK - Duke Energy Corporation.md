@@ -1,7 +1,7 @@
 ---
 title: "DUK - Duke Energy Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-19
+updated: 2026-06-26
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-29**: Q1 EPS 상회 + 인디애나 18% 요금 신청 — 요금 신청 승인 여부 (pending)
 - [ ] **2026-06-05**: AI 데이터센터 원전 공급 테크 기업 논의 — 계약 체결 여부 및 시점 (pending — 6/19 업데이트: CEO 부하 성장률 약 10배 전망으로 수요 서사 강화, 계약 체결은 미확인)
 - [ ] **2026-06-19**: 한파 연료비 $809M 19개월 회수 신청 + 19,000MW 증설 계획 — NCUC 승인 및 밸류에이션 영향 (pending)
+- [ ] **2026-06-26**: 요금 affordability 정치압력 — 향후 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -47,6 +48,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-26
+**narrative_score**: +0.36
+**key_events**: NC 요금인상 14.3%→9.3% 이례적 하향(6/23), 데이터센터 누적 7.6GW 계약, 플로리다 가정용 요금 25% 인하
+**risks**: 요금 affordability 정치압력, 데이터센터 수요 둔화 가능성(CEO 신중론), 대규모 자본지출 금리부담
+
+> [!claim] (WUNC, 2026-06-23) Duke Energy takes rare step of lowering a rate request in front of the N.C. Utilities Commission
+> 듀크, 요금인상 요청을 14.3%→9.3%로 이례적 하향. impact: neutral / category: regulation
+
+> [!claim] (Duke Energy News Center, 2026-06-10) Duke Energy Florida implements third rate reduction to lower residential bills ~25% in 2026
+> 플로리다 가정용 요금 약 25% 인하 시행. impact: + / category: regulation
+
+> [!claim] (Utility Dive, 2026-05-08) Duke Energy added 2.7 GW of contracted data centers in Q1
+> 1분기 데이터센터 2.7GW 추가, 누적 7.6GW 계약. impact: + / category: earnings
+
+> [!claim] (TheStreet, 2026-06-18) Duke CEO offers sobering prediction on data center electricity demand
+> CEO, 데이터센터 전력수요 전망에 신중론 제시. impact: neutral / category: macro
+
+**경쟁사 동향**:
+- SO: 서던도 데이터센터 수요로 전력판매 급증 — 동남부 시장 동반 성장, 듀크 부하 파이프라인 견조
+- D: 도미니언 NEE 합병으로 규제 불확실성 — 경쟁사 합병 진통은 듀크의 상대적 안정성 부각
+
 ### 2026-06-19
 **narrative_score**: +0.26
 **key_events**: Q1 조정 EPS $1.93(컨센 $1.86 상회)·매출 $9.18B 데이터센터 어닝 비트, CEO 부하 성장률 기존의 약 10배 급증 전망, 한파 연료비 $809M 19개월 회수 신청 + 19,000MW 증설 계획
