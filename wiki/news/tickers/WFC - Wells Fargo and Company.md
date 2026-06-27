@@ -1,7 +1,7 @@
 ---
 title: "WFC - Wells Fargo and Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-27
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,7 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-27**: 배당 11% 인상에도 연초 대비 약 12% 주가 부진 — 상대적 디스카운트 해소 여부 (pending)
 - [x] **2026-05-17**: Fed WFC 자산제한 해제 — 대출 성장 본격화 시작 (verified) ※ 2026-06-06: CEO Scharf 번스타인 컨퍼런스에서 Q2 IB/트레이딩 중반 성장 전망 공개 — 자산제한 해제 후 성장 본격화 진입 확인
 - [ ] **2026-05-17**: WFC CEO ROTCE 17-18% 중기 목표 — 실행 가능성 추적 필요 (pending) ※ 2026-06-06: Q2 IB/트레이딩 강세 전망은 긍정적이나 ROTCE 목표 달성 여부는 계속 추적
 [ ] **2026-06-13**: WFC Q2 시장 부문 중간 십대 % 성장 전망 — Q2 실적 발표(7월)에서 검증 필요 (pending)
@@ -40,6 +41,9 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (확인: Wells Fargo IR/Business Wire 2026-06-24 + CNBC 2026-06-24) 2026 스트레스테스트 통과, 배당 11% 인상($0.50) 계획·SCB 2.5%
+> 회사 공시와 Tier-1 매체가 확인. 자본 건전성 양호.
+
 <!-- FACTS_END -->
 
 ---
@@ -47,6 +51,22 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-27
+
+**narrative_score**: +0.16 (전회 +0.14, Δ +0.02)
+**key_events**: 2026 스트레스테스트 완료, 3분기 배당 11% 인상($0.45→$0.50) 계획、스트레스자본버퍼(SCB) 2.5%로 유지, 추가 자사주매입 여력 확보、소비자·자산관리·상업은행 부문 성장 가속, 신용 성과 개선、연초 대비 약 12% 하락으로 동종 대비 주가 부진
+**risks**: 과거 영업관행 관련 규제 감시 및 잠재 소송 리스크、연초 대비 주가 부진 등 상대적 모멘텀 약세
+
+> [!claim] (출처: Business Wire, 2026-06-24) Wells Fargo Completes 2026 Stress Test and Intends to Raise Dividend by 11% to $0.50
+> 스트레스테스트 완료, 배당 11% 인상($0.50) 계획, SCB 2.5% 유지. impact: + / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-06-25) Wells Fargo (WFC) Stock After Regulatory Scrutiny And Recent Pullback In 2026
+> 규제 이슈와 최근 조정 이후 주가 흐름 점검, 연초 대비 약세. impact: neutral / category: regulation
+
+**경쟁사 동향**:
+- JPM: JPMorgan pairs 10% dividend hike with $50B buyback — 동일 환경에서 JPM의 강한 자본환원 대비 WFC 11% 배당 인상은 양호하나 규모 열위
+- BAC: Bank of America raises NII guidance and dividend — 소비자금융 경쟁사인 BAC의 NII 상향으로 WFC도 대출 성장·예대마진 입증 필요
 
 ### 2026-06-13
 

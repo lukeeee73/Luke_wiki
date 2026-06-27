@@ -1,7 +1,7 @@
 ---
 title: "MA - Mastercard Incorporated — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-27
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,7 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-27**: 소비자카드 수수료 상한(1.25%) 도입이 코어 결제 성장 둔화로 이어질지 (pending)
 - [ ] **2026-05-17**: UK FCA MA·V·PayPal 디지털 지갑 조사 — 규제 결과 대기 (pending) ※ 2026-06-06: 새로운 규제 결과 뉴스 없음, 계속 모니터링
 - [x] **2026-05-17**: MA-JD닷컴 AI Agent Pay 라이브 시연 — AI 결제 선도 전략 (verified) ※ 2026-06-06: Stripe·Visa와 함께 스테이블코인 플랫폼 참여 + NY BitLicense 취득(CoinDesk) — AI/블록체인 결제 선도 전략 확장 확인
 [ ] **2026-06-13**: MA Agent Pay for Machines — AI 에이전트 결제 시장 점유율 확보 여부 하반기 추적 (pending)
@@ -40,6 +41,9 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (확인: Reuters 2026-06-09 + PYMNTS 2026-06-08) Visa·Mastercard $380억 스와이프 수수료 합의 법원 예비 승인
+> 복수 매체가 확인. 소비자카드 수수료 8년 상한 1.25% 포함.
+
 > [!fact] (확인: TipRanks 2026-06-08 + Barchart 2026-06-09) V·MA 교환수수료 합의 예비 승인
 > TipRanks·Barchart 보도. 비자와 마스터카드의 교환수수료 집단소송 합의안이 법원의 예비 승인을 받음. 수년간 법적 불확실성 해소.
 <!-- FACTS_END -->
@@ -49,6 +53,28 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-27
+
+**narrative_score**: +0.21 (전회 +0.17, Δ +0.04)
+**key_events**: $380억 스와이프 수수료 합의 6/9 예비 승인(소비자카드 8년 상한 1.25%)、최근 분기 순매출 12% 증가, 부가서비스 매출 비중 약 40%、다중 트랜치로 50억달러 채권 발행 완료(6/8)、Stripe·Coinbase·Visa와 신규 스테이블코인 플랫폼 추진
+**risks**: 스와이프 수수료 인하·상한 도입으로 핵심 수수료 수익 압박、가맹점·소매업계의 합의 반대 지속에 따른 규제 불확실성、코어 결제 성장 둔화 우려(Trefis 지적)
+
+> [!claim] (출처: Reuters, 2026-06-09) US judge OKs Visa, Mastercard $38 billion swipe fee settlement
+> $380억 스와이프 수수료 합의 예비 승인, 소비자카드 수수료 8년 상한 1.25%. impact: neutral / category: regulation
+
+> [!claim] (출처: Trefis, 2026-06-25) Has Mastercard Stock's Core Growth Engine Gone Quiet?
+> 최근 분기 순매출 12% 증가, 부가서비스가 매출의 약 40% 차지. impact: + / category: earnings
+
+> [!claim] (출처: TipRanks, 2026-06-08) Mastercard Raises $5 Billion Through Multi-Tranche Debt Offering
+> 2028~2036년 만기 다중 트랜치로 50억달러 채권 발행 완료. impact: neutral / category: other
+
+> [!claim] (출처: PYMNTS, 2026-06-08) Mastercard and Visa Back Stealth Stablecoin Platform
+> Stripe·Coinbase와 신규 스테이블코인 플랫폼 공동 추진. impact: + / category: product
+
+**경쟁사 동향**:
+- V: Visa, 스테이블코인 연환산 70억달러 처리 및 AI 정산 혁신 발표 — Visa의 공격적 스테이블코인 행보가 MA에 동등한 혁신 압박을 가하나 양사 공동 플랫폼으로 협력도 병행
+- PYPL: Mastercard vs PayPal 핀테크 경쟁 부각 — 부가서비스(매출 40%) 성장으로 MA가 PYPL 대비 마진·EPS 측면 우위 유지
 
 ### 2026-06-13
 

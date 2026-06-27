@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-06-26
+updated: 2026-06-27
 domain: finance
 type: index
 weight: reference
@@ -118,16 +118,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [JPM](tickers/JPM - JPMorgan Chase and Co.md) | 2026-06-13 | +0.06 | AI 에이전트 하반기 배포·Prometheus $120억 투자 참여 vs DOJ 디뱅킹 소환장 | 3 |
-| [BAC](tickers/BAC - Bank of America Corp.md) | 2026-06-13 | +0.04 | 크로스보더 결제 연내 출시·우선주 배당 공시 vs DOJ 소환장+AI 규제 강화 | 3 |
-| [WFC](tickers/WFC - Wells Fargo and Company.md) | 2026-06-13 | +0.14 | Q2 시장 부문 중간 십대 % 성장 전망·배당 $0.45 vs DOJ 소환장 | 3 |
-| [C](tickers/C - Citigroup Inc.md) | 2026-06-13 | +0.25 | 블록체인 토큰화 주식 거래 플랫폼 출시 (+5.6%)·CFO 강한 가이던스 | 3 |
-| [GS](tickers/GS - The Goldman Sachs Group.md) | 2026-06-13 | +0.32 | 스페이스X 미국 최대 IPO 주관·앤트로픽 공동 주관·목표가 $900 상향 | 3 |
-| [MS](tickers/MS - Morgan Stanley.md) | 2026-06-13 | +0.21 | 자산관리 $9조 달성·앤트로픽 IPO 공동 주관·어닝 리비전 상향 | 3 |
-| [V](tickers/V - Visa Inc.md) | 2026-06-13 | +0.34 | FQ2 매출 +17% 13년 최고·OpenAI 결제 통합·스테이블코인 파일럿 | 3 |
-| [MA](tickers/MA - Mastercard Incorporated.md) | 2026-06-13 | +0.17 | Agent Pay for Machines 출시·교환수수료 합의 예비 승인·CFO 교체 | 3 |
-| [AXP](tickers/AXP - American Express Company.md) | 2026-06-13 | +0.06 | CFO 수수료 전망 긍정·델타 파트너십 갱신 vs 연체율 13% 15년 최고 | 4 |
-| [BRK-B](tickers/BRK-B - Berkshire Hathaway.md) | 2026-06-13 | +0.12 | 알파벳 $80억 AI 공모 $100억 투자·시총 $1.05조·Abel CEO 안정화 | 3 |
+| [JPM](tickers/JPM - JPMorgan Chase and Co.md) | 2026-06-27 | +0.34 | 스트레스테스트 통과·$50B 자사주매입·배당 10% 인상, 공동사장 선임(다이먼 후계 정리) | 4 |
+| [BAC](tickers/BAC - Bank of America Corp.md) | 2026-06-27 | +0.31 | 스트레스테스트 통과·배당 인상·NII 가이던스 상향, Citi 목표가 $66 상향 | 3 |
+| [WFC](tickers/WFC - Wells Fargo and Company.md) | 2026-06-27 | +0.16 | 스트레스테스트 통과·배당 11% 인상($0.50)·SCB 2.5% vs 연초 대비 주가 부진 | 3 |
+| [C](tickers/C - Citigroup Inc.md) | 2026-06-27 | +0.29 | 배당 12% 인상·$30B 자사주매입·CET1 12.7%·블록체인 DDR 출시 | 4 |
+| [GS](tickers/GS - The Goldman Sachs Group.md) | 2026-06-27 | +0.27 | 배당 11% 인상하나 신규 자사주매입 미발표 vs 사상최고가 후 차익실현 조정 | 2 |
+| [MS](tickers/MS - Morgan Stanley.md) | 2026-06-27 | +0.32 | 배당 15% 인상·$20B 자사주매입 재승인·운용부문 영국 임대주택 인수 | 4 |
+| [V](tickers/V - Visa Inc.md) | 2026-06-27 | +0.17 | AI·스테이블코인 혁신·기관 정산 협력 vs $380억 수수료 합의 예비 승인 | 3 |
+| [MA](tickers/MA - Mastercard Incorporated.md) | 2026-06-27 | +0.21 | 부가서비스 매출 40%·순매출 +12% vs 수수료 상한 1.25% 규제 압박 | 3 |
+| [AXP](tickers/AXP - American Express Company.md) | 2026-06-27 | +0.20 | 배당 16% 인상·CFO 수수료 매출 호조·Truist 목표가 $375 상향 | 4 |
+| [BRK-B](tickers/BRK-B - Berkshire Hathaway.md) | 2026-06-27 | +0.21 | 아벨 신임 CEO 첫 대형 딜(알파벳 $10B)·NYT 3배·델타 신규 편입 | 3 |
 
 ### 소비재
 
@@ -163,16 +163,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [AMT](tickers/AMT - American Tower Corporation.md) | 2026-06-13 | +0.03 | 배당 $1.79 (권리락 6/12)·DISH 계약 종료 역풍·CCI 타워 경쟁 심화 | 3 |
-| [CCI](tickers/CCI - Crown Castle Inc.md) | 2026-06-13 | +0.20 | $85억 파이버·소형셀 매각 완료·AFFO 가이던스 $4.53~$4.65 상향 | 2 |
-| [PLD](tickers/PLD - Prologis, Inc.md) | 2026-06-13 | +0.12 | 52주 신고가 $147.93·RBC $148·Truist $154·Citi $145 목표주가 상향 | 2 |
-| [EQIX](tickers/EQIX - Equinix, Inc.md) | 2026-06-13 | +0.30 | Citi 포커스리스트·연매출 $101~102억 가이던스·AI Fabric 예약 +70%·연결 3배 | 2 |
-| [DLR](tickers/DLR - Digital Realty Trust.md) | 2026-06-13 | +0.12 | EPS 리비전 A+·바르셀로나 BCN1 개장·Q2 배당 $1.22 | 3 |
-| [O](tickers/O - Realty Income Corporation.md) | 2026-06-13 | +0.07 | 월 배당 $0.271 (0.2% 인상)·수익률 5.32%·방어적 안정성 유지 | 3 |
-| [SPG](tickers/SPG - Simon Property Group.md) | 2026-06-13 | +0.19 | Q1 순이익 +15.9%·FFO 가이던스 상향·Eli Simon 신임 CEO 공식 취임 | 3 |
-| [WELL](tickers/WELL - Welltower Inc.md) | 2026-06-13 | +0.15 | Q1 모든 지표 호조·+3.4% (6/9) vs say-on-pay 부결 거버넌스 리스크 | 3 |
-| [PSA](tickers/PSA - Public Storage.md) | 2026-06-13 | +0.17 | NSA 결합 제안 (자산+30%, 시너지 $1.1~1.3억)·Q1 점유율 92.2% 1위 | 3 |
-| [VICI](tickers/VICI - VICI Properties Inc.md) | 2026-06-13 | +0.17 | AFFO 가이던스 상향·One Beverly Hills $15억 메자닌·캐나다 카지노 인수 | 3 |
+| [AMT](tickers/AMT - American Tower Corporation.md) | 2026-06-27 | +0.12 | RBC·Bernstein 매수 상향·Q1 순이익 +76% vs 1년 -19% 약세 | 4 |
+| [CCI](tickers/CCI - Crown Castle Inc.md) | 2026-06-27 | 0.00 | 순수 타워 전환·배당 $1.0625 vs 1년 -18% 약세, 17% 저평가 의견 | 3 |
+| [PLD](tickers/PLD - Prologis, Inc.md) | 2026-06-27 | +0.08 | SEGRO £12.6B 인수 제안→이사회 거부, 7/22 마감 불확실성에 52주 저점 근접 | 3 |
+| [EQIX](tickers/EQIX - Equinix, Inc.md) | 2026-06-27 | +0.27 | Cisco·NVIDIA AI 협업·가이던스 상향·Citi 포커스리스트 vs 75.7배 고평가 | 3 |
+| [DLR](tickers/DLR - Digital Realty Trust.md) | 2026-06-27 | +0.27 | 캔자스시티 2GW·Teraco 77%·Columbia Capital 인수에 +3.9%·ServiceFabric MCP | 2 |
+| [O](tickers/O - Realty Income Corporation.md) | 2026-06-27 | +0.22 | 투자 가이던스 $95억 상향·AFFO +7%·135번째 월 배당 인상 | 3 |
+| [SPG](tickers/SPG - Simon Property Group.md) | 2026-06-27 | +0.31 | Q1 FFO +7.5%·점유율 96%·배당 7.1% 인상, 엘리 사이먼 신임 CEO | 2 |
+| [WELL](tickers/WELL - Welltower Inc.md) | 2026-06-27 | +0.40 | Q1 정규화 FFO +23%·SHOP NOI +22%·배당 15% 인상·$105억 투자 가속 | 2 |
+| [PSA](tickers/PSA - Public Storage.md) | 2026-06-27 | +0.22 | 캐나다 진출($1.2B)·NSA 합병 제안(자산 +30%)·신용시설 대폭 확충 | 3 |
+| [VICI](tickers/VICI - VICI Properties Inc.md) | 2026-06-27 | +0.07 | 캐나다 카지노 인수·배당 $0.45 유지 vs 52주 신저가($26.53) | 3 |
 
 ### 통신 / 미디어
 
@@ -212,6 +212,27 @@ sources: []
 | [042660.KS](tickers/042660.KS - Hanwha Ocean Co.md) | 2026-06-17 | +0.30 | KDDX ₩7.8조 수주(이지스 6척, 2030년), +7.85% 급등, 캐나다 CPSP 후보 | 2 |
 | [010140.KS](tickers/010140.KS - Samsung Heavy Industries.md) | 2026-06-17 | +0.25 | 델핀 FLNG $29억·Cedar LNG 진수(세계 최초 3기 동시)·GTT LNG 2척·베트남 ₩3,410억 | 2 |
 | [010620.KS](tickers/010620.KS - HD Hyundai Mipo Dockyard Co. Ltd..md) | 2026-06-17 | +0.05 | Q2/Q3 PCTC·MR 탱커 납기 순조, 메탄올 추진 MR 탱커 시장 선두 | 1 |
+
+## 오늘의 시그널 (2026-06-27 · 토요일 · 금융 + 부동산 (REITs))
+
+루틴은 다음 패턴을 감지하면 이 섹션에 기록한다:
+
+- **연속성**: 같은 테마가 3 일 이상 연속 등장
+- **모순**: 같은 종목 어제/오늘 narrative 가 반대 방향
+- **섹터 동기화**: 3 종목 이상이 같은 매크로 이슈로 동시 움직임
+
+**2026-06-27 감지된 시그널:**
+
+- **섹터 동기화 (Fed 스트레스테스트 자본환원 물결)**: JPM +0.34 / MS +0.32 / BAC +0.31 / C +0.29 / GS +0.27 / WFC +0.16 — 6/24 연준 CCAR을 6개 대형은행이 일제히 통과하고 배당 인상·자사주매입을 동반 발표. 금융 섹터 전반의 자본 여력과 실적 자신감 재확인. 최고는 JPM($50B 자사주매입 + 배당 10% 인상).
+- **분화 (GS 자본환원 보수성)**: GS는 배당 11% 인상에 그치고 신규 자사주매입을 발표하지 않아 JPM·MS 대비 상대적 약세. 사상최고가 후 26일 3.36% 차익실현 조정.
+- **섹터 동기화 (결제 네트워크 규제 vs 스테이블코인 혁신)**: V +0.17 / MA +0.21 — $380억 스와이프 수수료 합의 법원 예비 승인(수수료 인하 부담)과 Stripe·Coinbase 공동 스테이블코인 플랫폼·AI 정산 혁신(성장 기회)이 동시 진행. 규제 악재와 성장 호재의 균형 국면.
+- **섹터 동기화 (데이터센터 REIT AI 수요)**: EQIX +0.27 / DLR +0.27 — AI 인프라 수요가 인터커넥션(EQIX 가이던스 상향)과 하이퍼스케일(DLR 캔자스시티 2GW·Teraco 77%)로 동시 파급. 단 양사 증설 경쟁은 중장기 공급 부담 요인.
+- **섹터 동기화 (REIT M&A 물결)**: PLD(SEGRO £12.6B 인수 제안) · PSA(NSA 합병 + 캐나다 진출) · DLR(Columbia Capital) · VICI(캐나다 카지노) — REIT 섹터 전반 M&A·외형 확장 동시 가속. 단 PLD는 SEGRO 이사회 거부로 불확실성 부각.
+- **최고 시그널 (WELL +0.40)**: Q1 정규화 FFO +23% · 시니어하우징 NOI +22% · 배당 15% 인상 · $105억 투자 가속 — REIT 중 최강 성장 모멘텀. 인구통계(고령화) 구조적 수혜 서사 강화.
+- **모순 (V 하향 전환)**: 2026-06-13 +0.34 → 2026-06-27 +0.17 — 수수료 합의 예비 승인의 수익성 인하 우려가 스테이블코인 혁신 호재를 일부 상쇄.
+- **모순 (CCI 중립화)**: 2026-06-13 +0.20 → 2026-06-27 +0.00 — 순수 타워 전환 추진에도 주가 약세(1개월 -12%, 1년 -18%) 지속이 모멘텀을 중립으로 끌어내림.
+- **경고 (금리 민감 REIT 약세)**: VICI +0.07(52주 신저가 $26.53) / AMT +0.12(1년 -19%) / CCI +0.00 — 고금리 환경이 일부 REIT 주가를 신저가권으로 압박. 펀더멘털은 양호하나 매크로(금리)가 핵심 변수.
+- **주목 이벤트**: PLD-SEGRO 인수 7/22 영국 Rule 2.6 마감, AXP Q2 실적(7/24) 대손충당금, PLD Q2 실적(7/16), PSA-NSA 합병 규제 심사, WELL Q2 시니어하우징 성장 지속성, V·MA 수수료 합의 최종 승인 절차.
 
 ## 오늘의 시그널 (2026-06-26 · 금요일 · 에너지 / 원자재 + 유틸리티 / 전력)
 

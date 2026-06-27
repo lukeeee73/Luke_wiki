@@ -1,7 +1,7 @@
 ---
 title: "GS - The Goldman Sachs Group — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-27
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,7 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-27**: 신규 자사주매입 미발표가 JPM·MS 대비 자본환원 매력 약화로 이어질지 (pending)
 - [x] **2026-05-17**: GS 사모 크레딧 신중론 — 리스크 관리 신호 (verified) ※ 2026-06-06: CEO가 AI 붐 투자자 탐욕 경고(GuruFocus) — 사모 크레딧 신중론과 일관된 리스크 관리 기조 확인
 - [x] **2026-05-17**: GS 주가 12개월 +65% — 추가 상승 여력 평가 필요 (verified) ※ 2026-06-06: 1년 주가 +84%로 추가 상승 확인, 단 애널리스트 컨센서스 Hold·목표주가 현재가 대비 -13%로 상승 여력 제한적
 [ ] **2026-06-13**: GS 앤트로픽 IPO 공동 주관 — IPO 시기 및 수수료 규모 확인 필요 (pending)
@@ -40,6 +41,9 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (확인: CNBC 2026-06-24) 2026 Fed 스트레스테스트 통과 후 분기 배당 11% 인상($5.00)
+> CNBC 등이 보도. CCAR 통과 후 배당 인상하나 신규 자사주매입은 미발표.
+
 > [!fact] (확인: Reuters 2026-06-11 + CNBC 2026-06-12) GS 스페이스X IPO 주관사 선정
 > Reuters와 CNBC 양측 보도. GS가 미국 역사상 최대 규모 IPO(스페이스X)의 주관사를 맡아 주가 +2.9% 반응. 앤트로픽 IPO 공동 주관사(MS와 함께)도 동시 확인.
 <!-- FACTS_END -->
@@ -49,6 +53,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-27
+
+**narrative_score**: +0.27 (전회 +0.32, Δ -0.05)
+**key_events**: CCAR 2026 통과 후 분기 배당 $4.50→$5.00(11%) 인상、JPM·MS와 달리 신규 자사주매입 미발표、S&P500 목표 8,000, 2026 EPS 24% 성장 강세 전망 재확인、6월 22일 사상최고가 후 26일 3.36% 하락
+**risks**: 동종 IB 대비 자본환원 강도가 약해 보일 수 있음、고밸류·고점 부담에 따른 변동성 확대、딜·트레이딩 의존도로 매크로 충격 민감
+
+> [!claim] (출처: CNBC, 2026-06-24) JPMorgan unveils $50 billion buyback, Goldman Sachs raises dividend after Fed stress test
+> Fed CCAR 통과 후 분기 배당 11% 인상($4.50→$5.00), 신규 자사주매입은 미발표. impact: + / category: earnings
+
+> [!claim] (출처: TradingKey, 2026-06-26) Goldman Sachs Group Inc Stock (GS) Moved Down by 3.36% on Jun 26
+> 26일 GS 주가 3.36% 하락, 사상최고가 대비 차익실현성 조정. impact: - / category: other
+
+> [!claim] (출처: TheStreet, 2026-06-15) Goldman Sachs doubles down on stock market outlook for 2026
+> S&P500 목표 8,000 상향, 2026년 EPS 24% 성장 강세 전망. impact: + / category: macro
+
+**경쟁사 동향**:
+- JPM: JPMorgan pairs 10% dividend hike with new $50B buyback after clearing Fed stress test — JPM은 대규모 자사주매입까지 발표한 반면 GS는 배당만 올려 자본환원 적극성에서 상대적으로 보수적으로 비침
+- MS: Morgan Stanley raises dividend 15% to $1.15, reauthorizes $20B buyback — MS의 15% 배당 인상이 GS의 11% 인상을 앞서 자산관리 기반 자본환원 매력에서 경쟁 심화
 
 ### 2026-06-13
 

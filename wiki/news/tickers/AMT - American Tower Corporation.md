@@ -1,7 +1,7 @@
 ---
 title: "AMT - American Tower Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-27
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,7 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-27**: RBC·Bernstein 매수 상향 — 5G·데이터센터 수요가 1년 -19% 약세 반전시킬지 (pending)
 - [ ] **2026-05-17**: AMT 데이터센터 매출 +17% — AI·클라우드 수요 구조적 성장 (pending) — 2026-06-06: REITweek CEO 발표에서 150,000개 포트폴리오 언급, 수요 지속 확인 중 (pending)
 - [ ] **2026-05-17**: EchoStar 매출 손실로 AFFO 성장 2.7% 제한 — 개선 여부 추적 (pending) — 2026-06-06: 이번 주 뉴스에서 EchoStar 관련 업데이트 없음 (pending)
 [ ] **2026-06-13**: AMT DISH 계약 종료 영향 — 임대 수익 감소 규모 Q2 실적에서 확인 필요 (pending)
@@ -47,6 +48,28 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-27
+
+**narrative_score**: +0.12 (전회 +0.03, Δ +0.09)
+**key_events**: RBC·Bernstein 매수 상향, 목표가 205달러 제시、1분기 매출 +6.8%, 순이익 +76% 호조、분기 배당 1.79달러 선언(7월 13일 지급)、7.5억유로 채권 발행·2027년물 조기상환으로 부채 구조 개선
+**risks**: 고금리 환경에서 REIT 밸류에이션·차입비용 부담、최근 1년 주가 -19% 등 약세 추세 지속、경쟁사 순수 타워 전환에 따른 미국 임대 경쟁 심화
+
+> [!claim] (출처: Simply Wall St, 2026-06-20) American Tower upgraded to Outperform at RBC ($205 PT) and Bernstein on 5G/data center demand
+> RBC·Bernstein, 5G·데이터센터 수요로 매수 상향(목표가 205달러). impact: + / category: other
+
+> [!claim] (출처: StockTitan, 2026-06-05) American Tower Q1 2026: revenue $2,738M (+6.8%), net income $879M (+76.2%)
+> 1분기 매출 27.4억달러(+6.8%), 순이익 8.79억달러(+76%) 호조. impact: + / category: earnings
+
+> [!claim] (출처: StockTitan, 2026-06-12) American Tower declares $1.79 quarterly distribution, payable July 13
+> 분기 배당 주당 1.79달러 선언, 7월 13일 지급. impact: + / category: other
+
+> [!claim] (출처: StockTitan, 2026-06-18) American Tower prices EUR750M 4.000% senior notes due 2033; to redeem $250M of 2027 notes
+> 7.5억유로 4.0% 채권 발행·2027년물 2.5억달러 조기상환으로 부채 관리. impact: neutral / category: other
+
+**경쟁사 동향**:
+- CCI: Crown Castle, 광케이블·스몰셀 매각 완료하며 순수 미국 타워 REIT로 전환 — 경쟁사 사업 단순화는 미국 타워 임대 경쟁 심화 가능성, 단 AMT는 국제·데이터센터로 차별화
+- SBAC: SBA Communications, 강한 국제 노출과 우수한 순마진으로 성장 — 타워 REIT 전반 5G 수요 견조, AMT FFO 가이던스에도 우호적 환경
 
 ### 2026-06-13
 

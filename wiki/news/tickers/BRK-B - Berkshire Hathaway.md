@@ -1,7 +1,7 @@
 ---
 title: "BRK-B - Berkshire Hathaway — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-27
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,7 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-27**: 아벨 신임 CEO 자본배분(알파벳 $10B 투자 등) 성과 시장 검증 필요 (pending)
 - [x] **2026-05-17**: BRK Abel 체제 첫 분기 영업이익 $11.35B·현금 $397B — 경영 연속성 확인 (verified) ※ 2026-06-06: Alphabet $10B 투자(6% 할인) + 시총 $1.02조 돌파 — Abel 체제 적극적 투자 집행으로 경영 연속성 강하게 확인
 - [ ] **2026-05-17**: BRK 델타항공 $2.6B 신규 투자 — 항공 섹터 재진입 (pending) ※ 2026-06-06: 새로운 확인/반증 뉴스 없음, 계속 모니터링
 [ ] **2026-06-13**: BRK 알파벳 $100억 AI 투자 수익률 — AI 인프라 수익화 타임라인 1~2년 추적 필요 (pending)
@@ -51,6 +52,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-27
+
+**narrative_score**: +0.21 (전회 +0.12, Δ +0.09)
+**key_events**: 알파벳 800억달러 AI 인프라 증자에 100억달러 투자、버핏, 신임 CEO 아벨의 첫 대형 딜 시동 언급、NYT 지분 3배 확대, 델타항공 신규 편입、12개월 평균 목표가 520달러대
+**risks**: 주식 포트폴리오 평가손익에 따른 순이익 변동성、신임 CEO 체제 자본 배분 성과의 시장 검증 필요
+
+> [!claim] (출처: Yahoo Finance, 2026-06-01) Berkshire to invest $10B in Alphabet's $80B equity raise for AI infrastructure
+> 버크셔, 알파벳 800억달러 증자에 100억달러 투자 참여. impact: + / category: m&a
+
+> [!claim] (출처: CNBC, 2026-06-02) Buffett tells CNBC new CEO Greg Abel has 'launched' with first major deal
+> 버핏, 신임 CEO 그렉 아벨의 첫 대형 딜 본격 시동 평가. impact: + / category: other
+
+> [!claim] (출처: Yahoo Finance, 2026-06-15) Berkshire nearly triples NYT stake, adds Alphabet, initiates Delta Air Lines position
+> 아벨 체제, NYT 3배 확대·델타항공 신규 편입 등 포트폴리오 변화. impact: neutral / category: other
+
+**경쟁사 동향**:
+- V: Visa·Mastercard 360억달러 가맹점 수수료 합의 예비 승인 — 버크셔 보유 V 등 결제주 불확실성 완화는 보유 포트폴리오 평가가치에 긍정적
+- AAPL: 견조한 소비·시장 환경 지속 — 최대 보유종목 애플 등 주식 포트폴리오 평가이익이 버크셔 순이익 변동성 좌우
 
 ### 2026-06-13
 

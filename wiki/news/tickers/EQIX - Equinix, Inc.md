@@ -1,7 +1,7 @@
 ---
 title: "EQIX - Equinix, Inc — Routine News Log"
 created: 2026-06-13
-updated: 2026-06-13
+updated: 2026-06-27
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,7 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-27**: AI 협업·가이던스 상향이 75.7배 밸류에이션을 정당화할지 (pending)
 - [ ] **2026-06-13**: EQIX 2026 연간 매출 $101~102억 가이던스 달성 여부 — Q2 실적(7/29) 확인 (pending)
 - [ ] **2026-06-13**: AI Fabric 예약 +70% 지속성 — AI 에이전트 인터커넥션 수요가 구조적인지 Q3까지 추적 (pending)
 <!-- OPEN_CLAIMS_END -->
@@ -48,6 +49,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-27
+
+**narrative_score**: +0.27 (전회 +0.30, Δ -0.03)
+**key_events**: Cisco·NVIDIA와 엔터프라이즈 AI 가속 협업 발표、AI·클라우드 수요로 2026 매출 가이던스 상향、Citi 포커스리스트 편입, 목표가 1,240달러、YTD 주가 약 43% 상승
+**risks**: 75.7배의 높은 밸류에이션, 센티먼트 냉각 시 조정 위험、경쟁사 하이퍼스케일 증설로 공급 경쟁 심화、고금리 장기화 시 데이터센터 자본조달 비용 부담
+
+> [!claim] (출처: Simply Wall St, 2026-06-25) Equinix (EQIX) Stock Could Be 8.8% Undervalued After New AI Infrastructure Partnerships
+> F5·Cisco·NVIDIA·Presidio와 엔터프라이즈 AI 인프라 협업 확대. impact: + / category: product
+
+> [!claim] (출처: Yahoo Finance, 2026-06-24) How The Equinix (EQIX) Investment Story Is Shifting With New Targets And AI Demand
+> AI·클라우드 수요로 2026 매출 가이던스 상향, 투자스토리 변화. impact: + / category: earnings
+
+> [!claim] (출처: Simply Wall St, 2026-06-23) A Look At Equinix (EQIX) Valuation After Strong Year To Date Share Price Gains
+> YTD 약 43% 상승, 75.7배 밸류에이션으로 고평가 우려 제기. impact: neutral / category: other
+
+**경쟁사 동향**:
+- DLR: Digital Realty, 캔자스시티 2GW 부지·Teraco 지분 확대 등 대규모 확장 — 경쟁사의 공격적 하이퍼스케일 증설은 데이터센터 공급 경쟁 심화 신호지만, AI 수요가 전반적으로 강해 EQIX의 임대 가격결정력에도 우호적
+- AMT: 데이터센터/타워 REIT 섹터 전반 AI 수요 낙관론 확산 — AI 인프라 수요 테마 강세는 EQIX의 멀티클라우드 상호연결 프리미엄 포지션을 뒷받침
 
 ### 2026-06-13
 

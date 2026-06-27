@@ -1,7 +1,7 @@
 ---
 title: "CCI - Crown Castle Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-27
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,7 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-27**: 순수 타워 전환 — 주가 약세(1년 -18%) 반전 및 가이던스 안정화 여부 (pending)
 - [x] **2026-05-17**: CCI 파이버·소형기지국 $8.5B 매각 — 순수 타워 전략 실행력 확인 (verified) — 2026-06-06: Crown Castle IR 2026-05-31 공시로 매각 완료 공식 확인
 - [ ] **2026-05-17**: CCI 순수 타워 집중 — 5G 성장 수혜 vs 다각화 포기 트레이드오프 (pending) — 2026-06-06: CEO REITweek 발표에서 유기적 성장 전략 공식화, 트레이드오프 추적 중 (pending)
 [ ] **2026-06-13**: CCI AFFO 가이던스 $4.53~$4.65 달성 여부 — Q2 실적 발표에서 검증 (pending)
@@ -49,6 +50,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-27
+
+**narrative_score**: +0.00 (전회 +0.20, Δ -0.20)
+**key_events**: 파이버 부문 매각 통한 순수 타워 기업 전환 추진、분기 배당 주당 1.0625달러 선언 (6/30 지급)、주가 79.53달러, 1년 약 -18% 약세、애널리스트 평균 목표가 99달러, 매수 의견 우세
+**risks**: 파이버 매각 등 사업 전환 실행 리스크、고금리 환경에서 부채 비중 높은 타워 REIT 압박、주가 약세 지속에 따른 모멘텀 부재
+
+> [!claim] (출처: StockTitan, 2026-06-12) Crown Castle declares $1.0625 quarterly dividend
+> 분기 배당 주당 1.0625달러 선언, 6/30 지급 예정. impact: neutral / category: other
+
+> [!claim] (출처: GuruFocus, 2026-06-25) Crown Castle Inc (CCI) Shares Fall 3.2% -- What GF Score of 61 Tells Investors
+> 주가 3.2% 하락 79.53달러, 1개월 -12%·1년 -18% 약세 지속. impact: - / category: other
+
+> [!claim] (출처: Simply Wall St, 2026-06-24) Crown Castle (CCI) Stock Could Be 17.2% Undervalued After Its Recent Pullback
+> 최근 조정으로 GF밸류 대비 17% 저평가, 매수 의견 우세. impact: + / category: other
+
+**경쟁사 동향**:
+- AMT: American Tower, REITweek 발표·애널리스트 상향 등 타워 섹터 낙관론 — 타워 섹터 전반 센티먼트 개선은 순수 타워 기업으로 전환 중인 CCI의 재평가 가능성을 높이는 우호 요인
+- SBAC: SBA Communications, Q1 AFFO 주당 3.03달러 및 2026 가이던스 상향 — 동종 타워 사업의 견조한 AFFO·가이던스 상향은 CCI 타워 부문의 펀더멘털 안정성을 방증
 
 ### 2026-06-13
 
