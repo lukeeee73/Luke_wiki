@@ -1,7 +1,7 @@
 ---
 title: "SPG - Simon Property Group — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-27
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,7 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-27**: 엘리 사이먼 신임 CEO 체제에서 Q1 호조·가이던스 상향 지속 여부 (pending)
 - [x] **2026-05-17**: SPG 소매 매출 +11.8%/sqft — 리테일 REIT 최강 운영 지표 (verified) — 2026-06-06: SPG IR 2026-06-01 Q1 순이익 +15.9% YoY 및 FFO 가이던스 상향으로 강력한 운영 지표 추가 확인
 - [x] **2026-05-17**: SPG 배당 7.1% 인상 $2.25 — 주주환원 적극성 (verified) — 2026-06-06: TIKR.com 2026-06-03 보도로 $2.25/분기 배당 인상 및 주가 1년 +32% 재확인
 [ ] **2026-06-13**: SPG Eli Simon 신임 CEO 전략 방향 — 다음 분기 프레젠테이션에서 독자 전략 확인 필요 (pending)
@@ -49,6 +50,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-27
+
+**narrative_score**: +0.31 (전회 +0.19, Δ +0.12)
+**key_events**: Q1 2026 FFO 주당 3.17달러(+7.5%)、분기 배당 7.1% 인상, 2026 가이던스 상향、애널리스트 목표가 일제히 상향(최대 220달러)、엘리 사이먼 신임 CEO 경영 승계
+**risks**: 소비 둔화 시 임차인 매출·임대료 갱신 압박、창업자 별세 후 경영 승계 불확실성、고금리에 따른 리파이낸싱 비용
+
+> [!claim] (출처: MarketBeat, 2026-06-15) Simon Property Group analyst price targets raised (Truist $215, Scotiabank $220, JPMorgan $217)
+> 복수 애널리스트가 6월 목표가 상향, 최대 220달러. impact: + / category: other
+
+> [!claim] (출처: StockTitan, 2026-05-04) Simon Property Group Q1 2026 Results: FFO $3.17/share, occupancy 96.0%, dividend raised 7.1%
+> Q1 FFO 7.5% 증가, 점유율 96%, 배당 7.1% 인상, 가이던스 상향. impact: + / category: earnings
+
+> [!claim] (출처: StockTitan, 2026-03-23) Leadership transition: David Simon passes; Eli Simon named CEO, Larry Glasscock Non-Executive Chairman
+> 데이비드 사이먼 회장 별세, 엘리 사이먼이 신임 CEO 취임. impact: neutral / category: other
+
+**경쟁사 동향**:
+- MAC: Macerich Q1 2026 FFO $0.40/share, revenue down 6.7% YoY; prices upsized equity offering — 경쟁 몰REIT 실적 부진은 우량 몰 자산을 가진 SPG의 상대적 우위를 부각
 
 ### 2026-06-13
 

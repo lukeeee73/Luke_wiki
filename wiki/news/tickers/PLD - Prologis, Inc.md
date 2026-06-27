@@ -1,7 +1,7 @@
 ---
 title: "PLD - Prologis, Inc — Routine News Log"
 created: 2026-06-13
-updated: 2026-06-13
+updated: 2026-06-27
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,7 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-27**: SEGRO 인수 추진(7/22 Rule 2.6 마감) — 정식 제안/철회 및 FFO 희석 여부 (pending)
 - [ ] **2026-06-13**: PLD 52주 신고가 $147.93 — 밸류에이션 과열 우려 vs 펀더멘탈 지지 여부 Q3 실적에서 확인 (pending)
 - [ ] **2026-06-13**: RBC $148·Truist $154·Citi $145 목표주가 집중 — 목표주가 달성 여부 6개월 추적 (pending)
 <!-- OPEN_CLAIMS_END -->
@@ -46,6 +47,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-27
+
+**narrative_score**: +0.08 (전회 +0.12, Δ -0.04)
+**key_events**: SEGRO 126억 파운드 전액주식 인수 제안 및 이사회 거부 (6/23)、7/22 영국 Rule 2.6 마감 — 정식 제안 또는 철회 결정 필요、엔화채 450억엔 발행으로 일본 차입 리파이낸싱、분기 배당 주당 1.07달러 선언, 7/16 Q2 실적 예정
+**risks**: M&A 추진 시 주식 발행에 따른 FFO 희석·레버리지 상승、고금리 환경 지속과 물류 신규 공급에 따른 임대료 압박、인수 불확실성으로 주가 변동성 확대
+
+> [!claim] (출처: GuruFocus, 2026-06-24) Prologis (PLD) Pursues Acquisition of SEGRO with All-Stock Proposal
+> 프로로지스, 영국 SEGRO에 126억 파운드 전액주식 인수 제안 공개. impact: neutral / category: m&a
+
+> [!claim] (출처: Global Banking & Finance Review, 2026-06-23) Segro Rejects $16.6 Billion Takeover Bid from US Prologis
+> SEGRO 이사회, 프로로지스 인수안 가치·타이밍 이유로 만장일치 거부. impact: - / category: m&a
+
+> [!claim] (출처: The Motley Fool, 2026-06-24) Breakfast News: Prologis Is Shopping For Growth
+> 프로로지스, 7/22 영국 인수규정 마감 앞두고 성장 베팅 논란. impact: neutral / category: m&a
+
+> [!claim] (출처: TipRanks, 2026-06-18) Prologis Issues Multi-Tranche Yen-Denominated Bond Offering
+> 엔화채 450억엔 3개 만기 발행, 일본 차입 리파이낸싱 용도. impact: neutral / category: other
+
+> [!claim] (출처: GuruFocus, 2026-06-24) Prologis Inc (PLD) Shares Fall 3.0% -- GF Value Says Still Overvalued
+> 주가 3% 하락 140.87달러, 52주 저점 근접하며 인수 불확실성 부담. impact: - / category: other
+
+**경쟁사 동향**:
+- EGP: 산업용 REIT 섹터 신규 공급 둔화·임대료 정상화 흐름 — 물류 공급 과잉 완화는 PLD의 공실률·임대료 스프레드에 점진적 우호적이나, 대형 M&A 추진은 단기 FFO 희석·레버리지 부담 우려
 
 ### 2026-06-13
 

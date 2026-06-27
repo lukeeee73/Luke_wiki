@@ -1,7 +1,7 @@
 ---
 title: "O - Realty Income Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-27
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,7 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-27**: 투자 가이던스 $95억 상향 — AFFO 7% 성장 실현 여부 (pending)
 - [x] **2026-05-17**: O 670회 연속 월배당·134번째 인상 — 배당 신뢰성 최고 수준 (verified) — 2026-06-06: Realty Income IR 2026-06-01 공시로 671번째 연속 월배당 $0.2705 확인, 31년+ 연속 배당 기록 유지
 - [ ] **2026-05-17**: O GIC·아폴로 자본 파트너십 — 투자 규모 $9.5B로 확대 (pending) — 2026-06-06: 이번 주 뉴스에서 업데이트 없음, 추적 중 (pending)
 [ ] **2026-06-13**: O 배당 수익률 5.32% 매력도 — 금리 환경 변화 시 수익률 스프레드 추적 필요 (pending)
@@ -49,6 +50,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-27
+
+**narrative_score**: +0.22 (전회 +0.07, Δ +0.15)
+**key_events**: 2026년 투자 가이던스 95억달러로 상향、AFFO 전년比 7% 성장、135번째 월 배당 인상(0.2710달러)、임대율 약 99% 유지
+**risks**: 고금리 지속 시 자본비용 상승 및 주가 압박、애널리스트 목표가 소폭 하향(약 68달러)
+
+> [!claim] (출처: PR Newswire, 2026-06-09) 135th Common Stock Monthly Dividend Increase Declared by Realty Income
+> 월 배당을 0.2710달러로 인상, 상장 이후 135번째 증액. impact: + / category: other
+
+> [!claim] (출처: Yahoo Finance, 2026-06-18) How Raised 2026 Investment Guidance and AFFO Growth Could Shape Realty Income Investors
+> 2026년 투자 가이던스 95억달러로 상향, AFFO 7% 성장. impact: + / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-06-23) Realty Income Corp. (O) Increases Despite Market Slip
+> 시장 하락 속 +1.57% 마감, 61.53달러, 최근 한달은 -2.3%. impact: neutral / category: other
+
+**경쟁사 동향**:
+- NNN: NNN REIT exercises $200M incremental term loan, 36th consecutive dividend hike, 98.3% occupancy — 넷리스 섹터 펀더멘털 견조, O의 99% 임대율·배당 안정성 흐름과 부합
+- WPC: W.P. Carey 2026 net lease outlook sees rising sale-leaseback opportunities as M&A accelerates — 세일앤리스백 거래 증가는 O의 95억달러 투자 가이던스 달성에 우호적
 
 ### 2026-06-13
 

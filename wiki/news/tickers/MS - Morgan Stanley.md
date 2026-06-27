@@ -1,7 +1,7 @@
 ---
 title: "MS - Morgan Stanley — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-27
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,7 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-27**: 배당 15%·$20B 매입과 자산관리 확대 — 어닝 모멘텀 지속 여부 (pending)
 - [ ] **2026-05-17**: MS E*TRADE 암호화폐 거래 파일럿 — 리테일 암호화폐 수익 성장 (pending) ※ 2026-06-06: 새로운 확인/반증 뉴스 없음, 계속 모니터링
 - [ ] **2026-05-17**: FINRA MS 해외 부문 조사 — 규제 결과 대기 (pending) ※ 2026-06-06: 새로운 확인/반증 뉴스 없음, 계속 모니터링
 [ ] **2026-06-13**: MS 앤트로픽 IPO 실행 — 주관 수수료 및 IPO 시기 확인 필요 (pending)
@@ -40,6 +41,9 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (확인: Business Wire/Morgan Stanley IR 2026-06-24 + CNBC 2026-06-24) 스트레스테스트 통과, 배당 15% 인상($1.15)·$20B 자사주매입 재승인
+> 회사 공시와 Tier-1 매체가 확인. CET1 15.1%로 자본 여력 충분.
+
 > [!fact] (확인: MS IR 2026-06-01 + TradingKey 2026-06-04) Morgan Stanley Q1 2026 EPS $3.43, ROTCE 27.1% — 업계 최고 수익성
 > MS IR 공시 및 복수 매체 보도. Q1 EPS $3.43 컨센서스 대폭 상회, ROTCE 27.1% 업계 최고 수준 확인.
 <!-- FACTS_END -->
@@ -49,6 +53,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-27
+
+**narrative_score**: +0.32 (전회 +0.21, Δ +0.11)
+**key_events**: 분기 배당 $1.00→$1.15(15%) 인상, $200억 자사주매입 재승인、CCAR 2026에서 SCB 4.3% 유지, CET1 15.1%로 자본 여력 확인、운용부문, 영국 임대주택 약 10.5억 파운드 인수、연초 대비 +24%, 52주 신고가 경신
+**risks**: 노스헤이븐 사모소득펀드 환매 제한 등 사모신용 부문 압박、자산관리 수수료의 시장 변동성 의존、고점 부담에 따른 단기 조정 가능성
+
+> [!claim] (출처: Business Wire, 2026-06-24) Morgan Stanley Announces Dividend Increase to $1.15 Per Share and Reauthorization of $20 Billion Multi-Year Buyback
+> 분기 배당 $1.00→$1.15(15%) 인상, $200억 자사주매입 재승인. impact: + / category: earnings
+
+> [!claim] (출처: StockStory, 2026-06-17) Morgan Stanley (MS) Stock Trades Up, Here Is Why
+> 운용부문 영국 임대주택 약 10.5억 파운드 인수 소식에 주가 2.6% 상승. impact: + / category: m&a
+
+> [!claim] (출처: CNBC, 2026-06-24) JPMorgan unveils $50B buyback, Goldman Sachs raises dividend after Fed stress test
+> Fed CCAR에서 SCB 4.3% 유지, CET1 15.1%로 자본 여력 확인. impact: + / category: regulation
+
+**경쟁사 동향**:
+- GS: Goldman Sachs raises dividend 11% but stops short of new buyback authorization — MS는 15% 배당 인상과 $200억 자사주매입을 동시 발표해 GS보다 적극적인 자본환원 시그널
+- BLK: 자산운용 업계 경쟁 속 MS, 영국 임대주택 등 대체투자 자산 확대 — 운용·웰스 자산 확대 전략이 BLK 등 자산운용사와의 수수료 기반 경쟁에서 MS 위치 강화
 
 ### 2026-06-13
 

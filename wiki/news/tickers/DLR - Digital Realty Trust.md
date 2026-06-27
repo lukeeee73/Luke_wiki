@@ -1,7 +1,7 @@
 ---
 title: "DLR - Digital Realty Trust — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-27
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,7 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-27**: 대규모 인수(캔자스시티 2GW·Teraco 77%) — 희석 없이 FFO 성장 실현 여부 (pending)
 - [x] **2026-05-17**: DLR Q1 매출 +16.2% — AI 수요 구조적 성장 확인 (verified) — 2026-06-06: 2026 가이던스 추가 상향 + Stifel $235 목표가로 성장 지속 확인
 - [x] **2026-05-17**: DLR Core FFO 가이던스 $8.00-$8.10 상향 — 수익성 개선 (verified) — 2026-06-06: StockTitan 2026-06-04 가이던스 재상향 보도로 추가 확인
 [ ] **2026-06-13**: DLR 바르셀로나 BCN1 가동률 — 첫 스페인 데이터센터 채택 속도 Q3 실적에서 확인 필요 (pending)
@@ -49,6 +50,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-27
+
+**narrative_score**: +0.27 (전회 +0.12, Δ +0.15)
+**key_events**: 캔자스시티 1,440에이커 인수(4.75억달러), 2GW 전력 확보로 30대 메트로 진입、아프리카 Teraco 지분 77%로 확대(6.5억달러)、Columbia Capital 약 4.85억달러 인수로 사모자본 플랫폼 강화、ServiceFabric MCP 출시로 AI 네이티브 멀티클라우드 연결 지원
+**risks**: 주식 발행 비중 큰 다수 인수로 단기 희석 우려、고금리 환경에서 대규모 개발 자본조달 비용 부담、경쟁사 동반 증설로 중장기 데이터센터 공급 과잉 가능성
+
+> [!claim] (출처: TipRanks, 2026-06-22) Digital Realty Expands Growth with Major Strategic Acquisitions
+> 캔자스시티 부지·Teraco 지분·Columbia Capital 등 대규모 전략 인수 발표. impact: + / category: m&a
+
+> [!claim] (출처: StockTitan, 2026-06-22) Digital Realty buys Kansas City site, boosts Teraco stake
+> 캔자스시티 1,440에이커(4.75억달러)·2GW 전력 확보로 30대 메트로 진입. impact: + / category: m&a
+
+> [!claim] (출처: GuruFocus, 2026-06-22) Digital Realty (DLR) Ups Stake in Teraco to 77% with $650M Deal
+> 아프리카 Teraco 지분 16% 추가 매입해 77%로 확대, EMEA 강화. impact: + / category: m&a
+
+> [!claim] (출처: GuruFocus, 2026-06-22) Digital Realty Trust Inc (DLR) Shares Surge 3.9% -- What GF Score of 86 Tells Investors
+> 전략 거래 발표에 주가 3.9% 급등 195.54달러, GF점수 86 우량. impact: + / category: other
+
+> [!claim] (출처: StockTitan, 2026-06-10) Digital Realty launches ServiceFabric MCP for AI control
+> ServiceFabric MCP 출시, 멀티클라우드 AI 네이티브 연결 지원. impact: + / category: product
+
+**경쟁사 동향**:
+- EQIX: Equinix, AI 협업 확대·2026 매출 가이던스 상향으로 강세 — 데이터센터 양강의 동반 AI 수요 수혜는 DLR의 하이퍼스케일 임대·가동률에도 우호적이나 양사 증설 경쟁은 향후 공급 부담 요인
 
 ### 2026-06-13
 

@@ -1,7 +1,7 @@
 ---
 title: "PSA - Public Storage — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-27
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,7 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-27**: NSA 합병·캐나다 진출 — 통합 시너지($1.1~1.3억) 실현 여부 (pending)
 - [ ] **2026-05-17**: PSA Q1 매출 -18% 미스·동일점포 NOI +0.4% — 자가창고 수요 약세 (pending) — 2026-06-06: 투자자 업데이트에서 동일점포 점유율 92.2%, 이탈률 16.4%로 개선 부분 확인, 구조적 수요 약세 여부는 추적 중 (pending)
 - [x] **2026-05-17**: PSA NSA $5.63B 인수 — 규모 확대로 약점 보완 전략 (verified) — 2026-06-06: StockTitan 2026-06-04 보도로 NSA 인수 제안 업데이트 확인: +30% 부동산, 시너지 $110-130M, FFO +$0.10-0.20 (2027)
 [ ] **2026-06-13**: PSA·NSA 결합 딜 규제 승인 — FTC 심사 결과 6개월 내 확인 필요 (pending)
@@ -49,6 +50,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-27
+
+**narrative_score**: +0.22 (전회 +0.17, Δ +0.05)
+**key_events**: 캐나다 셀프스토리지 12억달러 인수、NSA 합병 제안(자산 +30%, 시너지 1.1~1.3억달러)、30억달러 리볼버 및 유동성 확충、YTD 주가 +24%
+**risks**: 대형 M&A 통합 실행 및 규제 승인 리스크、신규 공급 증가에 따른 임대료·점유율 압박、고금리에 따른 차입 비용 상승
+
+> [!claim] (출처: Simply Wall St, 2026-06-20) Public Storage (PSA) Is Buying Its Way Into Canada In A $1.2 Billion Deal
+> 12억달러에 캐나다 진출, 68개 셀프스토리지 자산 인수. impact: + / category: m&a
+
+> [!claim] (출처: StockTitan, 2026-06-22) Public Storage proposes NSA combination; +30% properties, $110-$130M synergies
+> NSA와 합병 제안, 자산 30% 확대·시너지 1.1~1.3억달러. impact: + / category: m&a
+
+> [!claim] (출처: StockTitan, 2026-06-25) Public Storage boosts $3B revolver, $500M term loan and $1B CP program
+> 30억달러 리볼버·5억 텀론·10억 CP로 유동성 확충. impact: + / category: other
+
+**경쟁사 동향**:
+- EXR: Extra Space prices $550M 4.900% senior notes due 2032; Q2 dividend $1.62; UBS PT raised to $158 — 경쟁사도 채권 발행으로 확장 자금 조달 중 — 셀프스토리지 M&A·공급 경쟁 심화, PSA의 NSA 통합 시너지 중요성 부각
 
 ### 2026-06-13
 

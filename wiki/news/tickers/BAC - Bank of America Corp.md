@@ -1,7 +1,7 @@
 ---
 title: "BAC - Bank of America Corp. — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-27
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,7 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-27**: NII 가이던스 상향대로 두 자릿수 이익 성장 실현 여부 (Q2 실적 확인) (pending)
 - [ ] **2026-05-17**: Fed 2026 금리 인하 부재 — 은행 NIM 회복 시나리오 후퇴 (pending) ※ 2026-06-06: 연준 은행 건전성 확인(99% 건전), 금리 환경 변화 없음, 계속 모니터링
 - [x] **2026-05-17**: BAC Q1 EPS +25% 강력 어닝 비트 — 기초 펀더멘털 견조 (verified) ※ 2026-06-06: Fed 보고서 대형은행 ROE 14%(Q1) 확인, 섹터 전반 펀더멘털 견조 재확인
 [ ] **2026-06-13**: BofA 크로스보더 실시간 결제 도구 연내 출시 — 실제 출시 및 채택률 확인 필요 (pending)
@@ -40,6 +41,9 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (확인: Reuters 2026-06-24 + CNBC 2026-06-24) 2026 Fed 스트레스테스트 통과 후 배당 인상
+> 복수 Tier-1 매체가 동일 사실 보도. 대형은행 일제히 자본환원 확대.
+
 > [!fact] (확인: Federal Reserve 2026-06-04 + Reuters 2026-06-04) 미국 대형은행 건전성 지표 — 99% 은행 우량 자본, 대형은행 Q1 ROE 14%
 > 연방준비제도 공식 발표 및 Tier-1 매체 보도. BAC 포함 섹터 전반 견조한 자본 건전성 확인.
 <!-- FACTS_END -->
@@ -49,6 +53,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-27
+
+**narrative_score**: +0.31 (전회 +0.04, Δ +0.27)
+**key_events**: 연준 스트레스테스트 통과 후 배당 인상、순이자이익(NII) 연간 가이던스 상향, 두 자릿수 이익 성장 전망、Citi, BAC 목표주가 62→66달러로 상향(매수 유지)、6월 27일 시장 약세 속 2.99% 상승
+**risks**: JPM 대비 상대적으로 작은 자본환원 규모、금리 하락 시 NII 의존도가 높아 매크로 민감도 큼
+
+> [!claim] (출처: Reuters, 2026-06-24) Bank of America lifts dividend after Fed stress test
+> 스트레스테스트 통과 후 배당 인상, 자본환원 확대. impact: + / category: earnings
+
+> [!claim] (출처: Simply Wall St, 2026-06-25) How Investors Are Reacting To Bank of America Upgraded Net Interest Income Guidance
+> 순이자이익(NII) 가이던스 상향, 두 자릿수 이익 성장 기대. impact: + / category: earnings
+
+> [!claim] (출처: GuruFocus, 2026-06-27) Bank of America posts weekly gain amid market selloff
+> 시장 약세 속에서도 주간 상승, 27일 2.99% 강세. impact: + / category: macro
+
+**경쟁사 동향**:
+- JPM: JPMorgan unveils $50B buyback and 10% dividend hike — 선두주자 대비 BAC의 자본환원 규모는 상대적으로 작아 차별화 압박 존재
+- C: Citi launches $30B buyback after improved stress test — 경쟁사 자본 효율 개선으로 BAC도 NII·금리 민감도 우위를 입증해야 함
 
 ### 2026-06-13
 

@@ -1,7 +1,7 @@
 ---
 title: "V - Visa Inc. — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-27
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,7 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-27**: $380억 스와이프 수수료 합의 예비 승인 — 수수료 인하의 실제 실적 영향 정도 (pending)
 - [ ] **2026-05-17**: UK FCA V·MA·PayPal 디지털 지갑 경쟁 조사 — 규제 결과 대기 (pending) ※ 2026-06-06: 새로운 규제 결과 뉴스 없음, 계속 모니터링
 - [x] **2026-05-17**: Visa Agentic Ready 글로벌 확장 — AI 결제 선점 전략 (verified) ※ 2026-06-06: Canton Network 스테이블코인 결제 파일럿(Blockonomi) — AI/블록체인 결제 인프라 선점 전략 확장 확인
 [ ] **2026-06-13**: V·OpenAI 결제 통합 — 실제 AI 에이전트 거래량 및 수수료 기여도 확인 필요 (pending)
@@ -40,6 +41,9 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (확인: Reuters 2026-06-09 + Fortune 2026-06-08) Visa·Mastercard $380억 스와이프 수수료 합의 법원 예비 승인
+> 복수 Tier-1 매체가 동일 사실 보도. 수수료 5년간 0.1%p 인하 포함.
+
 > [!fact] (확인: Motley Fool 2026-06-04 + Blockonomi 2026-06-04) Visa FQ2 2026 매출·EPS 컨센서스 상회, Canton Network 스테이블코인 결제 파일럿 착수
 > 복수 Tier-1 매체 보도. FQ2 실적 상회 및 블록체인 결제 인프라 확장 동시 확인.
 > [!fact] (확인: Yahoo Finance 2026-06-10 + TIKR 2026-06-11) V FQ2 2026 순매출 $112억 YoY +17%
@@ -51,6 +55,28 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-27
+
+**narrative_score**: +0.17 (전회 +0.34, Δ -0.17)
+**key_events**: $380억 스와이프 수수료 합의 6/9 예비 승인(수수료 5년간 0.1%p 인하)、Visa Payments Forum에서 AI·스테이블코인 신기술 발표(연환산 70억달러 처리)、Brale와 Canton 네트워크 기관 스테이블코인 정산 협력、Stripe·Coinbase와 신규 스테이블코인 플랫폼 추진 보도
+**risks**: 스와이프 수수료 인하·가맹점 서차지 허용에 따른 수익성 압박、전미소매연맹(NRF) 등 합의 반대로 규제 불확실성 지속、스테이블코인이 장기적으로 카드 거래량 일부 대체할 위험
+
+> [!claim] (출처: Reuters, 2026-06-09) US judge OKs Visa, Mastercard $38 billion swipe fee settlement
+> 판사가 $380억 스와이프 수수료 합의 예비 승인, 수수료 5년간 0.1%p 인하. impact: neutral / category: regulation
+
+> [!claim] (출처: Visa IR, 2026-06-10) Visa Announces New AI, Stablecoin and Token Innovations at Visa Payments Forum
+> AI·스테이블코인·토큰 신기술 발표, 스테이블코인 연환산 70억달러 처리. impact: + / category: product
+
+> [!claim] (출처: Visa IR, 2026-06-04) Visa and Brale Explore Private Stablecoin Settlement for Institutional Payments
+> Brale와 Canton 네트워크 기반 USD 스테이블코인 기관 정산 협력. impact: + / category: product
+
+> [!claim] (출처: Fortune, 2026-06-08) Visa and Mastercard are planning to shake up the stablecoin market
+> Stripe·Coinbase와 함께 신규 스테이블코인 플랫폼 추진 보도. impact: + / category: product
+
+**경쟁사 동향**:
+- MA: Mastercard도 동일한 $38B 스와이프 수수료 합의 당사자이자 스테이블코인 플랫폼 공동 추진 — 규제·소송 리스크와 스테이블코인 기회를 V·MA가 공유해 양사 간 차별화 약함
+- PYPL: 스테이블코인·핀테크 결제 경쟁 가열 — Visa의 스테이블코인 정산 확대는 PYPL 등 핀테크 대비 결제 네트워크 해자 방어에 긍정적
 
 ### 2026-06-13
 

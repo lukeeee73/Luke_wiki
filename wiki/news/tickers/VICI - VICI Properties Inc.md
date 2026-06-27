@@ -1,7 +1,7 @@
 ---
 title: "VICI - VICI Properties Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-27
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,7 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-27**: 52주 신저가 — 고금리 속 경험형 자산 다변화가 주가 방어로 이어질지 (pending)
 - [ ] **2026-05-17**: VICI 100% 입주율 유지 — 게이밍 REIT 안정성 최고 (pending) — 2026-06-06: 이번 주 뉴스에서 입주율 업데이트 없음, 추적 중 (pending)
 - [x] **2026-05-17**: VICI 골든 엔터테인먼트 $1.16B 인수 — 포트폴리오 확장 (verified) — 2026-06-06: BusinessWire 2026-06-04 보도로 골든 엔터테인먼트 카지노 7개 $1.16B 인수 완료 공식 확인
 [ ] **2026-06-13**: VICI One Beverly Hills $15억 메자닌 대출 수익률 — 비전통 부동산 투자 성과 추적 필요 (pending)
@@ -49,6 +50,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-27
+
+**narrative_score**: +0.07 (전회 +0.17, Δ -0.10)
+**key_events**: 캐나다 카지노 자산 1.444억달러 인수、분기 배당 0.45달러 유지、주가 52주 신저가(26.53달러), 수익률 6.8%
+**risks**: 금리 민감도 높아 주가 약세 지속 가능、카지노 임차인 집중도 및 경기 둔화 노출、신규 인수의 자본조달 비용 부담
+
+> [!claim] (출처: Investing.com, 2026-06-12) VICI Properties completes Canadian casino assets acquisition for USD$144.4m
+> 앨버타 카지노 자산 1.444억달러 인수, 트리플넷 리스. impact: + / category: m&a
+
+> [!claim] (출처: Business Wire, 2026-06-04) VICI Properties Declares Regular Quarterly Dividend of $0.45 per share
+> 분기 배당 0.45달러 선언, 7월 9일 지급. impact: neutral / category: other
+
+> [!claim] (출처: Investing.com, 2026-06-17) Vici Properties stock hits 52-week low at $26.53
+> 주가 52주 신저가 26.53달러, AFFO 10.7배·수익률 6.8%. impact: - / category: other
+
+**경쟁사 동향**:
+- GLPI: Gaming and Leisure Properties raises Q2 2026 dividend 5% to $0.82; shares dipped to ~$45 — 경쟁 게이밍REIT도 배당 인상 지속하나 섹터 주가 동반 약세 — 금리 민감도 높은 VICI 밸류에이션에 부담
 
 ### 2026-06-13
 

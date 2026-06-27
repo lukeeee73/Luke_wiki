@@ -1,7 +1,7 @@
 ---
 title: "C - Citigroup Inc. — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-27
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,7 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-27**: $30B 자사주매입·블록체인 DDR 출시 — Q2 EPS 33.7% 증가 전망 실현 여부 (pending)
 - [ ] **2026-05-17**: 씨티 ROTCE 14-15% 중기 목표 — 구조개혁 진척도 추적 (pending) ※ 2026-06-06: Q1 매출 $24.6B +14% YoY 강세, 주가 다년간 고점 경신 — 구조개혁 성과 가시화 중, 목표 달성 가능성 높아짐
 - [ ] **2026-05-17**: 씨티 아시아·중국 확장 승인 — 신흥시장 성장 동력 (pending) ※ 2026-06-06: 새로운 확인 뉴스 없음, 계속 모니터링
 [ ] **2026-06-13**: 씨티 블록체인 프라이빗에쿼티 플랫폼 채택률 — 주요 PE 사의 실제 사용 여부 7/14일 실적에서 확인 (pending)
@@ -40,6 +41,9 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (확인: Citigroup IR 2026-06-24 + Yahoo Finance 2026-06-24) 스트레스테스트 통과, 배당 12% 인상·$30B 자사주매입, CET1 12.7%
+> 회사 공시와 Tier-1 매체가 동일 사실 확인.
+
 > [!fact] (확인: Yahoo Finance 2026-06-01 + CNBC 2026-06-03) Citigroup Q1 2026 매출 $24.6B, +14% YoY
 > 복수 Tier-1 매체 보도. Q1 강세 펀더멘털 확인 — 구조개혁 효과 가시화.
 > [!fact] (확인: Yahoo Finance 2026-06-11 + GuruFocus 2026-06-11) 씨티, 블록체인 기반 토큰화 주식 거래 플랫폼 출시
@@ -51,6 +55,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-27
+
+**narrative_score**: +0.29 (전회 +0.25, Δ +0.04)
+**key_events**: 스트레스테스트 통과 후 배당 12% 인상($0.60→$0.67)、300억달러 다년 자사주매입 프로그램 개시, CET1 12.7%、블록체인 기반 디지털 예탁증서(DDR) 출시(6/11)로 사모시장 진출、Truist 목표주가 147→158달러 상향, Q2 EPS 33.7% 증가 전망
+**risks**: 구조조정·전환 전략의 실행 지속성 및 비용 통제 부담、금리·신용 환경 변화 시 국제·소비자 부문 변동성
+
+> [!claim] (출처: Yahoo Finance, 2026-06-24) Citigroup Lifts Dividend 12% and Unveils $30 Billion Share Buyback Plan
+> 배당 12% 인상($0.67)·300억달러 자사주매입 발표, CET1 12.7%. impact: + / category: earnings
+
+> [!claim] (출처: Citigroup IR, 2026-06-24) Citi Announces Completion of Annual Supervisory Stress Test Process
+> 스트레스테스트 통과, 단순·견조한 전략 성과로 자본 회복력 개선. impact: + / category: regulation
+
+> [!claim] (출처: Citigroup IR, 2026-06-11) Citi launches market-first Digital Depositary Receipts program using blockchain
+> 블록체인 기반 디지털 예탁증서로 사모주식 토큰화 서비스 출시. impact: + / category: product
+
+**경쟁사 동향**:
+- JPM: JPMorgan unveils $50B buyback after stress test — 업계 1위 대비 규모는 작으나 Citi의 12% 배당·$30B 매입은 자본효율 개선 입증
+- BAC: Bank of America raises dividend and NII guidance — 소비자·국제금융 경쟁 심화 속 Citi의 구조조정 성과가 차별화 포인트
 
 ### 2026-06-13
 

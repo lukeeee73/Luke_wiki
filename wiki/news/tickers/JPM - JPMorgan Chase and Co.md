@@ -1,7 +1,7 @@
 ---
 title: "JPM - JPMorgan Chase and Co. — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-27
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,7 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-27**: 스트레스테스트 통과 후 $50B 자사주매입·배당 10% 인상 발표 — 실제 집행 및 EPS 기여 검증 필요 (pending)
 - [ ] **2026-05-17**: Dimon CEO 증시 과대평가·인플레이션 경고 — 단기 하향 시그널 (pending) ※ 2026-06-06: AI 열풍으로 주가 역대 최고권 — 경고 유효하나 시장 반응 없음, 계속 모니터링
 - [x] **2026-05-17**: JPM JLTXX 토큰화 MMF 출시 — 핀테크 확장 (verified) ※ 2026-06-06: The Bridge 토큰화 예금 네트워크 참여(Reuters)로 토큰화 전략 확장 확인
 - [ ] **2026-05-17**: 체이스 지점 연간 52개 확장 — 리테일 시장점유율 성장 (pending)
@@ -41,6 +42,9 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (확인: CNBC 2026-06-24 + JPMorgan IR 2026-06-26) 2026 Fed 스트레스테스트 통과, $50B 자사주매입·배당 10% 인상
+> 복수 Tier-1 매체(CNBC·회사 IR)가 보도. 연준 CCAR 통과 후 대규모 자본환원 발표.
+
 > [!fact] (확인: Reuters 2026-06-04 + Yahoo Finance 2026-06-05) JPMorgan, BofA, Citi 토큰화 예금 네트워크 'The Bridge' 공동 구축
 > 복수 Tier-1 매체(Reuters·Yahoo Finance)가 동일 사실 보도. JPM·BAC·C 세 대형 은행이 토큰화 예금 네트워크를 공동 출시.
 <!-- FACTS_END -->
@@ -50,6 +54,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-27
+
+**narrative_score**: +0.34 (전회 +0.06, Δ +0.28)
+**key_events**: 스트레스테스트 통과 후 500억달러 자사주매입·배당 10% 인상($1.65)、Doug Petno·Troy Rohrbaugh 공동 사장 선임, 후계 경쟁 본격화、Marianne Lake 25년 근속 후 즉시 사임、2026 도드-프랭크 자체 스트레스테스트 결과 공시
+**risks**: 다이먼 이후 경영 승계 불확실성과 핵심 인력 이탈 가능성、주가가 사상 최고권($329)으로 밸류에이션 부담
+
+> [!claim] (출처: CNBC, 2026-06-24) JPMorgan Chase unveils $50 billion buyback, raises dividend 10% after Fed stress test
+> 연준 스트레스테스트 통과 후 500억달러 자사주매입·배당 10% 인상. impact: + / category: earnings
+
+> [!claim] (출처: CNBC, 2026-06-25) JPMorgan names Doug Petno and Troy Rohrbaugh co-presidents as Marianne Lake exits
+> 공동 사장 2인 선임으로 다이먼 후계 구도 명확화, 레이크 즉시 사임. impact: neutral / category: other
+
+> [!claim] (출처: JPMorgan Chase IR, 2026-06-26) JPMorganChase releases 2026 Dodd-Frank Act Stress Test results
+> 2026 도드-프랭크 자체 스트레스테스트 결과 공시, 자본 견조. impact: + / category: regulation
+
+**경쟁사 동향**:
+- C: Citi plans 12% dividend hike and $30B buyback after stress test — 경쟁사도 적극적 자본환원, 업종 전반의 자본 여력 부각으로 JPM 프리미엄은 유지
+- WFC: Wells Fargo intends to raise dividend 11% to $0.50 — 대형은행 일제히 배당 인상, 금리·신용 환경이 우호적임을 시사
 
 ### 2026-06-13
 

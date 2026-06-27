@@ -1,7 +1,7 @@
 ---
 title: "WELL - Welltower Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-27
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,7 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-27**: 시니어하우징 NOI +22% 성장 지속성 (Q2 확인) (pending)
 - [x] **2026-05-17**: WELL Q1 동일점포 NOI +16.4% — 고령화 수요 구조적 성장 확인 (verified) — 2026-06-06: AD HOC News 2026-06-01/02 보도로 동일점포 NOI +16.4%, 노인주택 점유율 88.8%, FFO +23% 추가 확인
 - [x] **2026-05-17**: WELL 목표주가 일제 상향 (최고 $255) — 프리미엄 밸류에이션 정당성 (verified) — 2026-06-06: 주가 $200 근접, 낮은 레버리지 확인으로 프리미엄 밸류에이션 정당성 지지 (verified)
 [ ] **2026-06-13**: WELL say-on-pay 부결 후 경영진 보수 구조 개혁 — 6개월 내 새 보상 체계 발표 여부 확인 (pending)
@@ -49,6 +50,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-27
+
+**narrative_score**: +0.40 (전회 +0.15, Δ +0.25)
+**key_events**: Q1 정규화 FFO 주당 1.47달러(+23%)、2026 FFO 가이던스 6.21~6.35달러로 상향、분기 배당 15% 인상(0.85달러)、105억달러 규모 투자 가속화
+**risks**: 대규모 인수에 따른 통합·자본조달 리스크、시니어하우징 인건비 및 운영 마진 변동성、헬스케어 정책·규제 변화 가능성
+
+> [!claim] (출처: StockTitan, 2026-04-28) Welltower posts strong Q1 2026 growth and lifts full-year FFO outlook
+> Q1 정규화 FFO 주당 1.47달러(+23%), SS NOI 16.4% 성장. impact: + / category: earnings
+
+> [!claim] (출처: Seeking Alpha, 2026-04-28) Welltower outlines 2026 normalized FFO of $6.21-$6.35 while accelerating $10.5B investment pace
+> 2026 FFO 가이던스 6.21~6.35달러, 105억달러 투자 가속. impact: + / category: earnings
+
+> [!claim] (출처: SEC 8-K, 2026-06-01) Welltower Board approves 15% dividend increase to $0.85 per share
+> 분기 배당 15% 인상(0.85달러), 시니어하우징 호조 반영. impact: + / category: other
+
+**경쟁사 동향**:
+- VTR: Ventas reaffirms dividend and senior housing outlook at REITweek; $4.8B SHOP acquisitions since Q4 2024 — 시니어하우징 회복 사이클이 섹터 전반 호조, WELL의 SHOP 22% 성장 내러티브를 뒷받침
 
 ### 2026-06-13
 

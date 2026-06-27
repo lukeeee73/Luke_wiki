@@ -1,7 +1,7 @@
 ---
 title: "AXP - American Express Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-13
+updated: 2026-06-27
 domain: finance
 type: claim
 weight: reference
@@ -28,6 +28,7 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-27**: 배당 16% 인상 — Q2(7/24) 결제액 성장·신용손실률 지표 확인 필요 (pending)
 - [ ] **2026-05-17**: AXP 골드 카드 ChatGPT 혜택 — AI 제휴 카드 차별화 전략 (pending) ※ 2026-06-06: 새로운 확인/반증 뉴스 없음, 계속 모니터링
 - [ ] **2026-05-17**: AXP 글로벌 비즈니스 트래블 매각 — 핵심 카드 사업 집중 (pending) ※ 2026-06-06: 새로운 확인/반증 뉴스 없음, 계속 모니터링
 [ ] **2026-06-13**: AXP 신용카드 연체율 13% 추세 — Q2 실적(7월)에서 대손충당금 증가 여부 확인 필요 (pending)
@@ -47,6 +48,28 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-27
+
+**narrative_score**: +0.20 (전회 +0.06, Δ +0.14)
+**key_events**: 분기 배당 16% 인상(주당 95센트), 7월 2일 배당락、CFO, 2분기 결제액 성장 가속·신용 양호 언급、Truist 목표가 375달러 상향, DZ Bank 매수 상향、2분기 실적 발표 7월 24일 예정
+**risks**: 인플레이션 지속 시 소비자 신용 손실률 상승 가능성、프리미엄 소비 둔화 시 결제액 성장 약화
+
+> [!claim] (출처: Yahoo Finance, 2026-06-25) American Express to raise quarterly dividend 16% to 95 cents per share
+> 분기 배당 16% 인상해 주당 95센트로, 자본환원 자신감 시그널. impact: + / category: other
+
+> [!claim] (출처: GuruFocus, 2026-06-09) American Express shares rise on CFO's optimistic fee revenue remarks
+> CFO가 2분기 결제액·수수료 매출 호조 언급, 주가 1.9% 상승. impact: + / category: earnings
+
+> [!claim] (출처: CNBC, 2026-06-18) AXP price target raised to $375 at Truist; upgraded to Buy at DZ Bank
+> Truist 목표가 375달러로 상향, DZ Bank·BofA 매수 의견. impact: + / category: other
+
+> [!claim] (출처: Yahoo Finance, 2026-06-26) American Express set to report Q2 earnings on July 24
+> 2분기 실적 발표 7월 24일 예정, 신용·소비 지표 주목. impact: neutral / category: earnings
+
+**경쟁사 동향**:
+- V: U.S. judge grants preliminary approval to Visa/Mastercard revised $38B merchant settlement — 카드 네트워크 수수료 분쟁 완화는 AXP 폐쇄망 모델에도 규제 압력 일부 경감 신호
+- MA: Visa·Mastercard, 소비지출·국경간 거래 호조로 매수 의견 우위 — 견조한 소비 트렌드는 프리미엄 고객 기반 AXP 결제액 성장에도 우호적
 
 ### 2026-06-13
 
