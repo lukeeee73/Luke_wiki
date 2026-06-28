@@ -28,4 +28,5 @@ DRAM 다이를 수직으로 쌓아(stack) 초고대역폭을 구현한 메모리
 ## 관련 페이지
 
 - [반도체·AI 칩 가치사슬 종합](../syntheses/semiconductor-ai-chip-value-chain.md)
+- [DSpark & Speculative Decoding](speculative-decoding.md) — Decode 메모리 대역폭 병목을 소프트웨어로 절약하는 접근 (HBM 수요의 반대 축)
 - [CoWoS](cowos.md) · [TSMC](../entities/tsmc.md) · [엔비디아](../entities/nvidia.md)

@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 created: 2026-04-05
-updated: 2026-06-20
+updated: 2026-06-28
 tags: [index, meta]
 sources: []
 ---
@@ -51,6 +51,7 @@ sources: []
 - [음성 기반 AI](concepts/voice-based-ai.md) — 음성 UI와 Voice Stack 기술 동향
 - [아첨(Sycophancy)](concepts/sycophancy.md) — LLM이 진실 대신 사용자가 듣기 원하는 말을 하는 경향과 대응 방법
 - [Muon Optimizer](concepts/muon-optimizer.md) — 2D 행렬 파라미터 직교화 옵티마이저 (Polar Express + NorMuon + Cautious WD)
+- [DSpark & Speculative Decoding](concepts/speculative-decoding.md) — 가중치 불변·lossless로 Decode 메모리 대역폭 병목을 가속하는 드래프트 기법 (`domain: ai, finance`)
 
 ### Finance
 - [Big Cycle (대순환)](concepts/big-cycle.md) — Ray Dalio의 거시적 역사 순환 프레임워크

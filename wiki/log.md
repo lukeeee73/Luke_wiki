@@ -1,7 +1,7 @@
 ---
 title: "Wiki Log"
 created: 2026-04-05
-updated: 2026-06-14
+updated: 2026-06-28
 tags: [log, meta]
 sources: []
 ---
@@ -10,6 +10,30 @@ sources: []
 # Wiki Log
 
 위키의 모든 작업 이력을 시간순으로 기록합니다.
+
+---
+
+## 2026-06-28
+
+### [INGEST] DSpark & Speculative Decoding
+
+- **작업**: DSpark/speculative decoding 연구 노트(Obsidian 형식)를 수집·정제하여 위키 통합
+- **원본 유형**: 개인 연구 노트 (Luke) — DeepSeek-V4-Pro-DSpark / DeepSpec 기반 추론 가속 분석 (status: seed)
+- **생성된 파일**:
+  - `wiki/concepts/speculative-decoding.md` — 정제 페이지 (`type: framework`, `domain: ai, finance`, `confidence: medium`)
+- **업데이트된 파일**:
+  - `wiki/domains/ai.md` — 프레임워크 섹션에 추가
+  - `wiki/domains/finance.md` — 반도체·AI 칩 가치사슬 섹션에 추가 (HBM 수요 연결)
+  - `wiki/entities/deepseek.md` — V4 추론 효율(DSpark) 섹션·교차참조 추가
+  - `wiki/concepts/hbm.md` — 추론 가속 ↔ 대역폭 병목 백링크 추가
+  - `wiki/index.md` — Concepts/AI 에 신규 페이지 추가
+- **주요 내용**:
+  1. V4-Pro-DSpark = 동일 가중치 + 드래프트 모듈(≈28GB), lossless 가속
+  2. Decode = memory-bound — 가중치 1회 운반으로 N토큰 검증이 이득의 원천
+  3. DSpark 두 축: ① Semi-AR 드래프트(로컬 latency) ② Confidence-scheduled 검증(프로덕션 throughput)
+  4. MoE 메모리 규칙(활성≠총량), 로컬 구동 사양표, tok/s = 대역폭/토큰당 가중치
+  5. 투자 연결: MoE 구조 → HBM 용량·대역폭 수요 비선형 폭발 → 전력 인프라 수요 함수
+- **인식론적 처리**: 메커니즘(memory-bound, rejection sampling lossless)은 `[!fact]`, V4/DSpark 성능 수치·풋프린트는 `[!claim]`, 투자 프레임은 `[!judgment]`, 수치 신뢰도 주의는 `[!opinion]` 으로 구분
 
 ---
 
