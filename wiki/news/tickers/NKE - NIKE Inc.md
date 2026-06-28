@@ -1,7 +1,7 @@
 ---
 title: "NKE - NIKE, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -47,6 +47,27 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: -0.18
+**key_events**: David Denton 신임 CFO 선임(8/17), 6/30 Q4 FY2026 실적 발표 예정, 관세 환급 일회성 이익 반영 가이던스
+**risks**: Greater China 매출 최대 20% 감소 리스크, 재고 정리·도매 채널 회복 지연, Adidas 등 경쟁 심화로 점유율 압박
+
+> [!claim] (출처: BusinessWire (Nike IR), 2026-06-23) NIKE announces planned CFO transition; David Denton to join from Pfizer effective Aug 17
+> Nike가 전 Pfizer·Lowe's·CVS CFO 출신 David Denton을 신임 CFO로 선임(8/17 발효), 턴어라운드 국면 재무 리더십 교체. impact: neutral / category: other
+
+> [!claim] (출처: Benzinga, 2026-06-26) Nike shares in focus as company names new CFO; analysts weigh in ahead of Q4 earnings
+> 6/30 Q4 실적 앞두고 CFO 교체와 관세 환급 일회성 이익 반영 소식, 매출 약 3% 감소 전망 속 저기대 국면. impact: neutral / category: earnings
+
+> [!claim] (출처: TradingKey, 2026-06-27) Nike Q4 FY2026 earnings preview: revenue seen ~$10.85B, EPS ~$0.11-0.12 amid 'Win Now' turnaround
+> 6/30 Q4 실적에서 매출 ~$10.85B·EPS ~$0.11 전망, CEO Elliott Hill의 'Win Now' 재고 정리·도매 회복이 관전 포인트. impact: neutral / category: earnings
+
+**경쟁사 동향**:
+- ADDYY: Adidas posts strong Q1 2026 with double-digit footwear growth in Running and Training → Adidas의 러닝·트레이닝 신발 두 자릿수 성장은 Nike의 핵심 카테고리 점유율 압박을 의미. Nike 'Win Now' 회복 속도 검증 부담 증가.
+- LULU: Lululemon pushes footwear/men's wear as growth, but JPMorgan/Bernstein/Stifel cut price targets → LULU의 신발 확장은 신규 경쟁 축이나, 자체 목표가 하향은 프리미엄 athleisure 수요 둔화를 시사 — Nike 라이프스타일 수요에도 혼재 신호.
+
+---
+
 ### 2026-06-07
 
 

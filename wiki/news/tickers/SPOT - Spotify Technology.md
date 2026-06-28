@@ -1,7 +1,7 @@
 ---
 title: "SPOT - Spotify Technology S.A — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -36,6 +36,27 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: +0.18
+**key_events**: 6월 18일 Reserved 티켓팅 미국 출시 (Live Nation 독점), 6월 23일 Role Model 첫 Reserved 윈도우 오픈, 7월 28일 실적 발표 예정
+**risks**: 고평가 논란 및 연초 대비 주가 부진, Reserved 독점료(수천만 달러) 부담 대비 수익화 불확실성, 거시 둔화 시 광고·구독 성장 둔화
+
+> [!claim] (출처: Music Business Worldwide, 2026-06-18) Spotify's 'Reserved' Ticketing Feature Launches in the US Under Multi-Year Live Nation Deal
+> Spotify가 Live Nation 독점 다년 계약으로 Premium 구독자용 'Reserved' 슈퍼팬 티켓팅을 미국 출시. impact: + / category: product
+
+> [!claim] (출처: Simply Wall St, 2026-06-25) Spotify Stock Could Be 30.8% Overvalued Before Earnings and Reserved Launch
+> 7월 28일 실적과 Reserved 출시를 앞두고 일부 분석은 SPOT를 고평가로 평가. impact: - / category: earnings
+
+> [!claim] (출처: Yahoo Finance/Zacks, 2026-06-26) Spotify Technology (SPOT) Is a Trending Stock - What to Know
+> Reserved 출시와 7월 28일 실적을 앞두고 투자자 관심 집중, 컨센서스는 매수. impact: neutral / category: other
+
+**경쟁사 동향**:
+- AAPL: Spotify가 Reserved 독점권 입찰에서 Apple·Amazon을 제쳤다는 보도 → Apple Music 등과의 슈퍼팬 경험 경쟁에서 Spotify가 라이브 이벤트 영역으로 차별화 우위를 확보.
+- NFLX: 넷플릭스 등 구독 서비스의 부가가치 경쟁 심화 → 구독 락인 강화 측면에서 Reserved는 Spotify의 이탈률 방어와 ARPU 상승에 기여 가능.
+
+---
+
 ### 2026-06-07
 
 

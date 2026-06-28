@@ -1,7 +1,7 @@
 ---
 title: "VZ - Verizon Communications — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -26,6 +26,8 @@ sources: []
 
 ## 미해결 가설 (Open Claims)
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-28**: 다우 퇴출에 따른 패시브 자금 유출이 주가에 의미 있는 영향을 줄지 (7일 검증 대기)
+
 - [ ] **2026-05-17**: VZ의 후불폰 순증 전환이 Q2 2026에도 유지될 것인가 (pending)
 - [ ] **2026-05-17**: VZ 조정 EPS 5~6% 성장 가이던스가 T-Mobile 경쟁 심화 속 달성 가능한가 (pending)
 
@@ -34,10 +36,37 @@ sources: []
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
+
+> [!fact] (2026-06-28) 버라이즌이 6/29 다우지수에서 알파벳으로 교체(퇴출) 및 AWS-3 경매 32억 달러 낙찰 (CNBC·Mobile World Live)
+
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: +0.03
+**key_events**: 6/29 다우지수에서 알파벳으로 교체(퇴출), AWS-3 주파수 32억 달러 낙찰, 수수료 폐지·Simplicity 요금제·로열티 프로그램 출시, 7/24 2분기 실적 발표 예정
+**risks**: 다우 퇴출에 따른 패시브 펀드 자금 유출, 요금 단순화로 인한 ARPU 하락 압박, 스타링크 등 위성 D2D 경쟁 심화
+
+> [!claim] (출처: CNBC, 2026-06-23) Alphabet to replace Verizon in Dow Jones Industrial Average, effective June 29
+> 버라이즌이 22년 만에 다우지수에서 퇴출되고 알파벳으로 교체된다(6/29 발효). 패시브 자금 유출 우려. impact: - / category: other
+
+> [!claim] (출처: Mobile World Live, 2026-06-24) Verizon wins nearly $3.2 billion in FCC AWS-3 spectrum auction
+> 버라이즌이 자회사 Cellco 통해 82개 라이선스 32억 달러 낙찰, 핵심 시장 중대역 주파수로 5G 용량 강화. impact: + / category: other
+
+> [!claim] (출처: TIKR, 2026-06-25) Verizon tears up pricing playbook: scraps activation/upgrade fees, launches loyalty program and 'Simplicity' plan
+> 버라이즌이 활성화·업그레이드 수수료를 폐지하고 첫 전사 로열티 프로그램과 'Simplicity' 요금제 출시, 이탈 방어(ARPU 압박 우려). impact: neutral / category: product
+
+> [!claim] (출처: StockTitan, 2026-06-20) Verizon completes tender offers, buying back $1.86B of notes
+> 버라이즌이 20개 채권 텐더오퍼로 18.6억 달러 상환, 6/22 현금 결제로 부채 구조 개선. impact: + / category: other
+
+**경쟁사 동향**:
+- T: AT&T, T-Mobile, Verizon form D2D satellite joint venture to counter Starlink → 3사 공동 위성 직접연결(D2D) JV로 스타링크 위협에 공동 대응, 버라이즌의 커버리지 공백 방어에 긍정적이나 자본 분담 부담.
+- TMUS: T-Mobile won 102 AWS-3 licenses for $277.8M (largest by count) → T-Mobile이 라이선스 수 기준 최다 확보로 중대역 우위 지속, 버라이즌의 경쟁 압박 요인.
+
+---
+
 ### 2026-06-07
 
 

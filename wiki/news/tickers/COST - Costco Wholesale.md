@@ -1,7 +1,7 @@
 ---
 title: "COST - Costco Wholesale — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,8 @@ sources: []
 _(루틴 첫 실행 전 — 비어 있음)_
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-28**: 높은 밸류에이션에서 주가 추가 조정 여부 (7일 검증 대기)
+
 - [ ] **2026-06-07**: COST 실적 서프라이즈에도 주가 하락 — 시장이 소비 둔화를 선반영하는가 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
@@ -40,6 +42,9 @@ _(루틴 첫 실행 전 — 비어 있음)_
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+
+> [!fact] (2026-06-28) 코스트코 FY3Q26 미국·캐나다 회원 갱신율 92.2%, 동일점매출 +9.8% (회사 실적 발표)
+
 <!-- FACTS_END -->
 
 ---
@@ -47,6 +52,20 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: +0.34
+**key_events**: FY3Q26 매출 +11.6%, 동일점 +9.8%, 갱신율 92.2%, EPS 컨센서스 부합으로 주가 약세 지속
+**risks**: P/E ~48의 높은 밸류에이션 부담, Sam's Club 회원 할인 공세로 인한 경쟁 심화, 연료 할인·자본지출 증가에 따른 마진 압박
+
+> [!claim] (출처: Motley Fool, 2026-06-24) Costco Just Posted 12% Sales Growth and 92% Membership Renewals, and the Stock Fell Anyway
+> FY3Q 매출 11.6%↑·동일점 9.8%↑·갱신율 92.2%지만 EPS 컨센서스 부합에 그쳐 주가 하락 impact: neutral / category: earnings
+
+**경쟁사 동향**:
+- WMT: Walmart Sam's Club aggressive membership discounts → Sam's Club 회원 할인 공세로 코스트코 창고 트래픽 둔화·경쟁 심화 우려
+
+---
+
 ### 2026-06-07
 
 

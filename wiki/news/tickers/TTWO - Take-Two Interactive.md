@@ -1,7 +1,7 @@
 ---
 title: "TTWO - Take-Two Interactive — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -26,6 +26,8 @@ GTA(Grand Theft Auto) 시리즈, NBA 2K, 보더랜드 등 유명 게임 시리�
 
 ## 미해결 가설 (Open Claims)
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-28**: GTA VI가 추가 연기 없이 11/19 예정대로 출시될지 (7일 검증 대기)
+
 - [ ] **2026-05-17**: GTA VI 트레일러가 2026-05-18에 실제로 공개될 것인가 (pending)
 - [ ] **2026-05-17**: GTA VI가 2026년 말 출시 창을 확정하고, Q4 FY26 실적 발표에서 공식 일정을 발표할 것인가 (pending)
 - [ ] **2026-05-17**: GTA VI 사전예약 캠페인이 5/18~21 창에 실제로 시작될 것인가 (pending)
@@ -34,11 +36,34 @@ GTA(Grand Theft Auto) 시리즈, NBA 2K, 보더랜드 등 유명 게임 시리�
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
 
+> [!fact] (2026-06-28) Rockstar, GTA VI 11월 19일 출시·6/25 사전예약 개시 확정($79.99/$99.99) (회사 IR)
+
+
 > [!fact] (Take-Two IR, 2026-05-16) GTA VI 2026년 11월 19일 PS5·Xbox Series X|S 출시 확정. Q4 FY26 넷북킹 $15.8억 확인.
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: +0.33
+**key_events**: 6월 25일 GTA VI 사전예약 개시, 11월 19일 GTA VI 출시 확정, FY26·27 record net bookings 가이던스 재확인
+**risks**: GTA VI 추가 지연 가능성(과거 반복된 연기 이력), 출시 후 판매·인게임 수익화가 높은 기대치에 못 미칠 위험, 프리미엄 가격($79.99~)에 대한 소비자 반응 불확실성
+
+> [!claim] (출처: Take-Two Interactive IR, 2026-06-24) Rockstar Games Announces Pre-Orders for Grand Theft Auto VI
+> GTA VI 사전예약 6월 25일 개시, 11월 19일 PS5·Xbox 출시, 스탠다드 $79.99·얼티밋 $99.99 확정. impact: + / category: product
+
+> [!claim] (출처: Yahoo Finance, 2026-06-24) Take-Two Gains After Confirming GTA VI Release Date and Premium Pricing
+> 출시일·프리미엄 가격 확정 소식에 TTWO 주가가 시간외 약 4.4% 상승. impact: + / category: other
+
+> [!claim] (출처: Take-Two Interactive IR, 2026-06-24) Take-Two Reiterates Expectations for Record Net Bookings in Fiscal 2026 and 2027
+> FY2026·2027 순예약(net bookings) 순차 증가 및 사상 최대 기록 전망을 재확인. impact: + / category: earnings
+
+**경쟁사 동향**:
+- EA: EA, $55B 비상장 전환 마무리 단계(CFIUS 잔존 리스크) → 최대 경쟁사가 PE 산하로 재편되는 가운데, TTWO는 GTA VI라는 초대형 단독 촉매로 시장 관심을 선점.
+
+---
+
 ### 2026-06-07
 
 

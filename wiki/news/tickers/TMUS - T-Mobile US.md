@@ -1,7 +1,7 @@
 ---
 title: "TMUS - T-Mobile US, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -26,6 +26,8 @@ T-Mobile은 미국 3위 통신사에서 출발했으나 2020년 스프린트(Spr
 
 ## 미해결 가설 (Open Claims)
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-28**: SpaceX의 T-Mobile 인수설이 실제 거래로 이어질지 (미확인 추측, 7일 검증 대기)
+
 - [ ] **2026-05-17**: SuperBroadband(5G+스타링크) 기업 인터넷 서비스가 연내 의미 있는 가입자 및 매출 기여를 달성할 것인가 (pending)
 - [ ] **2026-05-17**: Q1 마진 압박이 일시적인지, 구조적 비용 증가인지 Q2 결과로 판별 필요 (pending)
 <!-- OPEN_CLAIMS_END -->
@@ -38,6 +40,30 @@ T-Mobile은 미국 3위 통신사에서 출발했으나 2020년 스프린트(Spr
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: +0.16
+**key_events**: TD Cowen, SpaceX의 T-Mobile 인수 가능성 제기, AWS-3 경매 102개 라이선스 최다 확보, UBS 목표가 300→255달러 하향(매수 유지), 3사 위성 D2D JV 참여, 7/23 2분기 실적 발표 예정
+**risks**: SpaceX 인수설은 미확인 추측 — 무산 시 주가 되돌림, 버라이즌·AT&T 가격·융합 공세로 가입자 순증 둔화, SpaceX 기존 제휴와 3사 JV 간 이해상충 가능성
+
+> [!claim] (출처: 24/7 Wall St, 2026-06-25) SpaceX could acquire T-Mobile, TD Cowen analyst calls it 'clear choice'
+> TD Cowen이 SpaceX의 T-Mobile 인수를 '명확한 선택지'로 지목(최대 3,200억 달러 추정), 다만 애널리스트 추측. impact: + / category: m&a
+
+> [!claim] (출처: Light Reading, 2026-06-24) T-Mobile wins 102 AWS-3 licenses for $277.8M, largest haul by count
+> T-Mobile이 AWS-3 경매에서 라이선스 수 기준 최다 102개를 2.78억 달러에 확보, 자본효율적 중대역 보강. impact: + / category: other
+
+> [!claim] (출처: Yahoo Finance, 2026-06-22) UBS lowers T-Mobile price target to $255 from $300, maintains Buy
+> UBS가 목표가를 300→255달러로 하향했으나 매수 유지, 현재가는 컨센서스 대비 약 29% 하회. impact: neutral / category: other
+
+> [!claim] (출처: Yahoo Finance, 2026-06-26) AT&T, T-Mobile, Verizon form D2D satellite joint venture
+> 3대 통신사가 위성 직접연결 JV를 결성해 주파수 공동 활용, 스타링크 견제 목적이나 SpaceX 제휴와 긴장 변수. impact: neutral / category: other
+
+**경쟁사 동향**:
+- VZ: Verizon wins $3.2B in AWS-3 spectrum, scraps fees with Simplicity plan → 버라이즌의 대규모 주파수 확보와 요금 단순화 공세는 T-Mobile의 가입자 순증·가격 우위에 경쟁 압박.
+- T: AT&T reaffirms strong FCF and convergence bundle push → AT&T의 광·5G 융합 번들 확대는 T-Mobile의 광커버리지 약점을 부각시키는 경쟁 요인.
+
+---
+
 ### 2026-06-07
 
 

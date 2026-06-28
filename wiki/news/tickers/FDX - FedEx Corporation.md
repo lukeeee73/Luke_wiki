@@ -1,7 +1,7 @@
 ---
 title: "FDX - FedEx Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -37,6 +37,27 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: +0.07
+**key_events**: Q4 FY26 EPS $6.31 어닝 서프라이즈(6/23), FY27 조정 EPS 가이던스 $16.90~$18.10, FedEx Freight 6/1 분사 완료
+**risks**: 가이던스 보수성 및 분사 후 외형 축소, 아마존 내재화로 택배 물량 이탈, 매크로 둔화에 따른 물동량 감소
+
+> [!claim] (출처: CNBC, 2026-06-23) FedEx (FDX) Q4 2026 earnings
+> FedEx Q4 FY26 EPS $6.31(컨센 $6.02 상회), 매출 250.1억달러로 호조 — Freight 분사 전 마지막 분기. impact: + / category: earnings
+
+> [!claim] (출처: TheStreet, 2026-06-23) FedEx Q4 2026 Earnings Call: Updates on FDX outlook
+> FedEx, 6~12월 전환기 매출·이익 성장 지속 전망, 조정 EPS 가이던스 $16.90~$18.10 제시. impact: neutral / category: earnings
+
+> [!claim] (출처: TradingKey, 2026-06-23) FedEx shares dip ~6% after strong Q4 despite beat
+> 실적 호조에도 가이던스 보수성·Freight 분사 영향 우려로 시간외 약 6% 하락. impact: - / category: earnings
+
+**경쟁사 동향**:
+- UPS: UPS, 콜드체인 4800만달러 투자 및 분류시설 27개 폐쇄로 고수익 전환 → 양사 모두 저수익 택배에서 후퇴하는 동일 전략 — FedEx의 Network 2.0·DRIVE 비용절감 정당성 강화하나 경쟁 심화.
+- AMZN: Amazon Logistics, 미국 최대 택배사로 부상(FedEx 4위 36억개) → 아마존 내재화로 FedEx 물량 압박 지속 — B2B·고가 e커머스 집중 전략 가속 필요.
+
+---
+
 ### 2026-06-07
 
 

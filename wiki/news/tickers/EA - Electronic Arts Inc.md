@@ -1,7 +1,7 @@
 ---
 title: "EA - Electronic Arts Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -26,6 +26,8 @@ sources: []
 
 ## 미해결 가설 (Open Claims)
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-28**: EA $55B 비상장 전환이 CFIUS 승인을 거쳐 실제 클로징될지 (검증 대기)
+
 - [ ] **2026-05-17**: PIF·실버레이크·어피니티 컨소시엄의 $550억 인수가 규제 심사를 통과하여 완료될 것인가 (pending)
 - [ ] **2026-05-17**: EA Q1 CY2026 EPS 예상치 하회가 일회성인지, 비용 구조 문제인지 Q2에서 확인 필요 (pending)
 
@@ -38,6 +40,26 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: -0.03
+**key_events**: 6월 30일 인수 long-stop date, CFIUS 외부 마감일 9월 28일, EU 집행위 초기 반독점 결정 7월 22일 예정, JPMorgan $80억 인수 채권 발행
+**risks**: CFIUS 미승인 시 6월 30일 클로징 지연 또는 무산, 외국 국부펀드(PIF)의 미국 미디어 지배에 대한 정치·데이터 안보 우려, 딜 무산 시 주가 급락 위험
+
+> [!claim] (출처: Wikipedia, 2026-06-27) Electronic Arts Take-Private: $55B Deal Nears June 30 Long-Stop Date, CFIUS Remains Key Condition
+> PIF·Silver Lake·Affinity의 주당 $210 인수($55B)가 6월 30일 long-stop을 앞두고, CFIUS 승인(외부기한 9/28)이 남은 핵심 조건. impact: neutral / category: m&a
+
+> [!claim] (출처: TIKR, 2026-06-24) Electronic Arts Stock Trades $9 Below Its $210 Buyout Price - Deal Spread and Record FY26 Results
+> 주가가 인수가 $210 대비 약 $9 낮게 거래되며 deal spread가 CFIUS 마감 리스크를 반영, FY26은 기록적 실적. impact: neutral / category: m&a
+
+> [!claim] (출처: TheStreet, 2026-06-23) JPMorgan Launches $8 Billion Bond Sale for EA Buyout
+> JPMorgan이 EA 차입매수 자금 조달을 위한 $80억 채권 발행을 개시, 딜 클로징 임박 신호. impact: + / category: m&a
+
+**경쟁사 동향**:
+- TTWO: Take-Two, GTA VI를 11월 19일 출시·사전예약 개시 → 라이벌의 초대형 타이틀 출시로 게임 시장 관심이 TTWO에 집중 — 비상장 전환 중인 EA의 콘텐츠 경쟁 부담.
+
+---
+
 ### 2026-06-07
 
 

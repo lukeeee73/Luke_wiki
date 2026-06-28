@@ -1,7 +1,7 @@
 ---
 title: "RTX - RTX Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -36,6 +36,26 @@ RTX(구 레이시온 테크놀로지스)는 미국 2위 방산 기업으로, 패
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: +0.21
+**key_events**: 레이시온 AIM-9X 블록II 11억 달러 해군 계약, 연 2,500발 증산 (6/26), 분기 배당 주당 0.73달러 선언 (6/26), 블루캐니언테크놀로지스 6.2억 달러 매각 합의 (6/19)
+**risks**: 블루캐니언 매각으로 우주 부문 일부 역량 축소, 상업 항공엔진(P&W) 부문 변동성 및 GTF 관련 잔여 리스크
+
+> [!claim] (출처: PR Newswire, 2026-06-26) RTX's Raytheon Awarded $1.1 Billion U.S. Navy Contract to Produce AIM-9X Block II Missiles
+> 레이시온이 AIM-9X 블록II 미사일 생산을 위한 11억 달러 미 해군 계약을 수주, 연 2,500발 증산. impact: + / category: product
+
+> [!claim] (출처: RTX News, 2026-06-26) RTX Board of Directors Declares Quarterly Cash Dividend of $0.73
+> RTX 이사회가 주당 0.73달러 분기 배당을 선언, 9월 3일 지급. impact: neutral / category: other
+
+> [!claim] (출처: Yahoo Finance, 2026-06-19) MDA Space to Acquire RTX's Blue Canyon Technologies for $620 Million
+> RTX가 자회사 블루캐니언테크놀로지스(소형위성 제조)를 MDA 스페이스에 6.2억 달러 전액 현금으로 매각 합의. impact: neutral / category: m&a
+
+**경쟁사 동향**:
+- LMT: Lockheed wins $35B THAAD and $8.4B PrSM missile production awards → 미사일 방어·타격 수요 급증 추세는 레이시온 AIM-9X·SPY-6 등 RTX 미사일·레이더 백로그에도 우호적.
+
+---
+
 ### 2026-06-07
 
 

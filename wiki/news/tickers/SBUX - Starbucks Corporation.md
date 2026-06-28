@@ -1,7 +1,7 @@
 ---
 title: "SBUX - Starbucks Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -47,6 +47,26 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: +0.15
+**key_events**: 6/18 노조 상대 사이렌 로고 상표소송 제기, FY2026 동일점·EPS 가이던스 상향, 6/24 주가 3.3% 상승·YTD +20%
+**risks**: 노조 갈등 격화에 따른 파업·보이콧, 약 $400M 구조조정·자산손상 비용, 20% 상승 후 밸류에이션 부담
+
+> [!claim] (출처: Courthouse News, 2026-06-18) Starbucks files federal trademark lawsuit against Workers United over 'siren' logo use
+> Starbucks가 6/18 노조 Workers United의 사이렌 로고·상호 사용을 두고 연방 상표소송 제기, 노사 갈등 격화로 파업·보이콧 리스크 상승. impact: - / category: regulation
+
+> [!claim] (출처: TradingKey, 2026-06-24) Starbucks stock moved up 3.30% on June 24
+> 강한 동일점 매출 회복 기대와 가이던스 상향 모멘텀으로 6/24 주가 3.3% 상승, 연초 대비 약 20% 상승. impact: + / category: other
+
+> [!claim] (출처: Simply Wall St, 2026-06-25) Starbucks after 20% YTD gain: is there still upside?
+> 글로벌 동일점 +6.2%·매출 9% 증가와 FY2026 가이던스 상향에 힘입어 'Back to Starbucks' 전략 성과 부각, 밸류 부담은 잔존. impact: + / category: earnings
+
+**경쟁사 동향**:
+- MCD: McDonald's stock at 52-week low on QSR traffic concerns; rolls out AI drive-thru and McDonald's NEXT → MCD가 소비 둔화로 트래픽 압박을 받는 가운데 SBUX의 +6.2% 동일점 성장은 프리미엄·로열티 기반의 상대적 트래픽 방어력을 보여줌.
+
+---
+
 ### 2026-06-07
 
 

@@ -1,7 +1,7 @@
 ---
 title: "UPS - United Parcel Service — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -38,6 +38,30 @@ UPS(United Parcel Service)는 '갈색 트럭'으로 전 세계에 알려진 글�
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: +0.04
+**key_events**: 콜드체인 시설 4800만달러 투자(6/22), 2026년 27개 분류시설 추가 폐쇄(6/25), 5억달러 관세 환급 신청·고객 환원 약속(6/16)
+**risks**: 아마존 내재화로 택배 물량 지속 이탈, 매크로 둔화에 따른 물동량 감소, 영국 등 구조조정 비용 및 인력 리스크
+
+> [!claim] (출처: Yahoo Finance, 2026-06-22) UPS Invests $48M in Cold-Chain Freight Facilities
+> UPS가 27개 온도조절 화물 크로스독 시설에 4800만달러 투자, 제약·바이오 콜드체인 수요 공략. impact: + / category: product
+
+> [!claim] (출처: FreightWaves, 2026-06-25) UPS to close 27 additional parcel facilities in 2026
+> UPS, 네트워크 단순화 일환으로 2026년 27개 추가 분류시설 폐쇄 — 비용절감·B2B 집중 전략. impact: + / category: other
+
+> [!claim] (출처: Simply Wall St, 2026-06-16) UPS seeks ~$500M tariff refund, pledges to return funds to customers
+> UPS, 약 5억달러 관세 환급을 신청하고 수령 후 1~3개월 내 고객 환원 약속. impact: neutral / category: regulation
+
+> [!claim] (출처: FreightWaves, 2026-06-20) UPS explores outsourcing UK parcel delivery to third-party couriers
+> UPS, 영국 라스트마일을 제3자 택배사에 위탁 검토 — 2027년까지 3천명 이상 감원 전망. impact: neutral / category: other
+
+**경쟁사 동향**:
+- AMZN: Amazon Logistics, 2025년 67억개 배송으로 미국 최대 택배사 등극(UPS는 3위 44억개) → 아마존 내재화 가속으로 UPS의 저수익 라스트마일 물량 이탈 지속 — UPS의 B2B·콜드체인 고수익 전환 전략을 정당화하나 외형 성장은 압박.
+- FDX: FedEx Q4 FY2026 EPS $6.31로 컨센서스 상회, 그러나 시간외 6% 하락 → 택배 업황 견조하나 가이던스 보수성 — UPS 밸류에이션에도 동일한 가이던스 신중론 적용 가능.
+
+---
+
 ### 2026-06-07
 
 

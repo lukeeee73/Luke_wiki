@@ -1,7 +1,7 @@
 ---
 title: "NOC - Northrop Grumman Corp. — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -39,6 +39,26 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: +0.10
+**key_events**: B-21 증산으로 2026 CapEx 18.5억 달러로 상향, 매출 전망 재확인 (6/22), 분기 배당 주당 2.47달러로 인상, Q2 2026 실적 7월 21일 발표 예정
+**risks**: B-21 증산 관련 높은 설비투자가 단기 잉여현금흐름 압박, 높은 고객 집중도와 방산 섹터 밸류에이션 부담으로 주가 약세 지속 가능
+
+> [!claim] (출처: Seeking Alpha, 2026-06-22) Northrop Grumman Lifts 2026 CapEx to $1.85B for B-21 Production Ramp, Reaffirms $43.5B-$44B Sales
+> B-21 생산 25% 증산 합의에 따라 2026년 설비투자를 18.5억 달러로 상향하고 매출 전망(435~440억 달러)은 재확인. impact: neutral / category: earnings
+
+> [!claim] (출처: Investing.com, 2026-06-26) Jefferies Cuts Northrop Grumman Price Target to $580 from $620, Maintains Hold
+> 제프리스가 성장 전망과 높은 설비투자 부담을 이유로 목표가를 620→580달러로 하향, Hold 유지. impact: - / category: other
+
+> [!claim] (출처: Barchart, 2026-06-24) Northrop Grumman Just Hiked Its Dividend, But Its Stock Has Tanked - Time to Buy?
+> 배당 인상(주당 2.47달러)에도 방산 섹터 순환 이탈과 높은 밸류에이션으로 주가가 약세를 보이며 매수 시점 논의. impact: - / category: other
+
+**경쟁사 동향**:
+- LMT: Lockheed secures $35B THAAD and $8.4B PrSM mega-contracts → 방산 예산이 미사일·타격 분야로 집중되며 노스럽의 B-21·고체로켓모터 등 장기 프로그램 대비 단기 수주 모멘텀에서 상대적 열위.
+
+---
+
 ### 2026-06-07
 
 
