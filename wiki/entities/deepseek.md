@@ -1,7 +1,7 @@
 ---
 title: "DeepSeek"
 created: 2026-06-20
-updated: 2026-06-20
+updated: 2026-06-28
 domain: ai, finance
 type: entity
 weight: reference
@@ -23,8 +23,14 @@ aliases: [DeepSeek, 딥시크, DeepSeek V4]
 > [!judgment] 핵심 구분 — 추론 ≠ 학습
 > 화웨이 Ascend로 옮겨간 것은 **추론·사후학습**이며, "1,000개 Ascend 910C 작업"도 사후학습이다. 프런티어 **사전학습**은 여전히 [엔비디아](../entities/nvidia.md) 의존으로 보는 것이 컨센서스. 자세한 분석은 [중국 반도체 격차 — DeepSeek V4 학습 칩](../topics/china-chip-gap-deepseek-v4.md).
 
+## V4 추론 효율 — DSpark
+
+> [!fact] 사실
+> DeepSeek는 V4와 함께 **DSpark**(speculative decoding) 알고리즘과 **DeepSpec** 저장소를 공개했다. `DeepSeek-V4-Pro-DSpark`는 V4-Pro와 동일한 가중치에 드래프트 모듈만 부착한 버전으로, 출력 품질은 그대로 둔 채 Decode 단계를 가속한다. 자세한 메커니즘은 [DSpark & Speculative Decoding](../concepts/speculative-decoding.md).
+
 ## 관련 페이지
 
 - [중국 반도체 격차 — ASML EUV 의혹 · SMIC/화웨이 · DeepSeek V4](../topics/china-chip-gap-deepseek-v4.md)
+- [DSpark & Speculative Decoding](../concepts/speculative-decoding.md) — V4-Pro-DSpark, Decode 메모리 대역폭 가속
 - [엔비디아 (NVIDIA)](nvidia.md) · [TSMC](tsmc.md)
 - [반도체·AI 칩 가치사슬 종합](../syntheses/semiconductor-ai-chip-value-chain.md)
