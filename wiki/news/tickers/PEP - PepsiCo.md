@@ -1,7 +1,7 @@
 ---
 title: "PEP - PepsiCo, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,8 @@ sources: []
 _(루틴 첫 실행 전 — 비어 있음)_
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-28**: 7/9 Q2 실적에서 PFNA 스낵 부진이 가이던스 하향으로 이어질지 (검증 대기)
+
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -39,6 +41,9 @@ _(루틴 첫 실행 전 — 비어 있음)_
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+
+> [!fact] (2026-06-28) 다수 IB(BofA 164, TD Cowen 150, 도이체방크 168 등)가 6월 펩시 목표가 하향(복수 보도)
+
 <!-- FACTS_END -->
 
 ---
@@ -46,6 +51,26 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: -0.27
+**key_events**: BofA·Citi·Jefferies·도이체방크·TD Cowen 목표가 연이은 하향, PFNA 북미 스낵 매출 둔화(2Q -1.0%), 스낵 포트폴리오 가격 인상 계획
+**risks**: 북미 스낵(PFNA) 회복 지연, 가격 인상에 따른 추가 물량 감소 위험, 투입비용·SNAP 면제 등 매크로 역풍
+
+> [!claim] (출처: Yahoo Finance, 2026-06-26) PepsiCo Q2 earnings expected to reflect weakness in North American snack business, delayed recovery
+> PFNA 스낵 부진 지속, BofA 등 7/9 Q2 실적 앞두고 전망 하향 impact: - / category: earnings
+
+> [!claim] (출처: ad-hoc-news, 2026-06-24) PepsiCo cautious ahead of Q2 earnings, Deutsche Bank trims price target on shares
+> 도이체방크, 목표가 173→168달러 하향(매수 유지) impact: - / category: earnings
+
+> [!claim] (출처: TradingKey, 2026-06-17) PepsiCo Inc Stock (PEP) Moved Down by 3.08% on Jun 17: Facts Behind the Movement
+> 스낵 가격 인상 계획·수요 둔화 우려로 주가 3.08% 하락 impact: - / category: other
+
+**경쟁사 동향**:
+- KO: Coca-Cola remains Morgan Stanley top pick with North America leadership reshuffle → 코카콜라가 음료 모멘텀·애널 선호에서 우위, 펩시의 상대적 약세 부각
+
+---
+
 ### 2026-06-07
 
 

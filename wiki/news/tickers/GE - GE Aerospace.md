@@ -1,7 +1,7 @@
 ---
 title: "GE - GE Aerospace — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -39,6 +39,26 @@ GE Aerospace는 민항기 엔진 세계 1위 기업이다. 과거 제너럴 일�
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: +0.46
+**key_events**: 주가 1주간 +12%, 사상 최고가 경신, $0.47 분기 배당 선언(6월 25일), 상용엔진 주문 Q1 93% 증가, 엔진 인도 43% 증가, 총 백로그 $210B (상용 서비스 $170B)
+**risks**: 주가가 월가 평균 목표가($350.95)를 상회, 7월 16일 실적 발표 앞둔 기대치 부담, 공급망 제약에 따른 인도 차질 가능성
+
+> [!claim] (출처: TIKR, 2026-06-25) GE Aerospace Is Up 12% in a Week and at a Record High
+> 6거래일간 약 12% 급등해 사상 최고가 경신, 주가가 월가 평균 목표가($350.95)를 상회. impact: + / category: other
+
+> [!claim] (출처: TradingKey, 2026-06-25) General Electric Co Stock (GE) Moved Up by 3.13% on Jun 25
+> $0.47 분기 배당 선언 및 서비스 백로그($170B) 기대로 6월 25일 3.13% 상승. impact: + / category: other
+
+> [!claim] (출처: Trefis, 2026-06-22) GE Aerospace Stock Rockets 12% With 6-Day Winning Streak
+> LEAP·GEnx·GE9X 수요 급증과 상용엔진 주문 93% 증가가 6일 연속 랠리를 견인. impact: + / category: product
+
+**경쟁사 동향**:
+- RTX: RTX's Raytheon awarded $1.1 billion U.S. Navy contract for AIM-9X Block II missiles (Jun 26) → 방산 예산 확대 기조가 GE Aerospace 군용엔진(차세대 USAF 엔진 개발 계약 포함) 수요에도 우호적 — 방산 사이클 동반 강세.
+
+---
+
 ### 2026-06-07
 
 

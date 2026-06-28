@@ -1,7 +1,7 @@
 ---
 title: "CAT - Caterpillar Inc. — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -26,6 +26,8 @@ sources: []
 
 ## 미해결 가설 (Open Claims)
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-28**: AI 데이터센터 전력 수요가 발전 부문 고성장을 지속 견인할지 (7일 검증 대기)
+
 - [ ] **2026-05-17**: 관세 비용 22~26억 달러가 2026년 하반기 마진을 실질적으로 압박할 것인가 (pending)
 - [ ] **2026-05-17**: 임원 내부자 매도($1,144만)가 단순 자산 관리인지 경영 불확실 신호인지 (pending)
 - [ ] **2026-05-17**: AI 데이터센터 발전 수요가 2026년 연간 발전 부문 성장률 40%+ 유지 가능할지 (pending)
@@ -34,11 +36,37 @@ sources: []
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
 
+> [!fact] (2026-06-28) CAT 주문 백로그 $63B로 전년비 79% 증가 (복수 보도)
+
+
 > [!fact] (Evercore ISI + StockAnalysis, 2026-06-06) CAT Q1 2026 매출 +22% — 에버코어 목표가 $1,103 상향. 사상 최대 수주잔고 확인.
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: +0.39
+**key_events**: 주문 백로그 $63B, 전년比 79% 증가, 러셀 톱50 편입, 발전 용량 3배 증설 및 2030 목표 상향, 분기 배당 8% 인상($1.63), Wells Fargo 목표가 $1,155로 상향
+**risks**: 트레일링 P/E 약 52배의 고밸류에이션, 2026년 관세 비용 가이던스 $2.2~2.4B, AI 데이터센터 capex 둔화 시 백로그 리스크
+
+> [!claim] (출처: Yahoo Finance, 2026-06-26) Caterpillar (CAT) Joins Russell Top 50 As AI Power Backlog Draws Investor Focus
+> AI 데이터센터 전력 수요로 $63B 백로그를 등에 업고 러셀 톱50에 편입, 투자자 관심 집중. impact: + / category: other
+
+> [!claim] (출처: TradingKey, 2026-06-26) Caterpillar Inc Stock (CAT) Moved Down by 4.31% on Jun 26: Facts Behind the Movement
+> 급등 후 밸류에이션 부담(트레일링 P/E 약 52배)으로 6월 26일 4.31% 하락. impact: - / category: other
+
+> [!claim] (출처: Manufacturing Dive, 2026-06-25) Caterpillar to triple power generation capacity, raises 2030 targets
+> 하이퍼스케일러 수요로 발전 부문 호황, 발전 용량 3배 증설 및 2030 목표 상향. impact: + / category: product
+
+> [!claim] (출처: The Motley Fool, 2026-06-24) Why Has Caterpillar Stock Soared 184% in the Last 12 Months?
+> AI 인프라 플레이로 재평가되며 12개월간 184% 상승, 핵심 동력은 전력·에너지 백로그. impact: + / category: other
+
+**경쟁사 동향**:
+- DE: Deere sees ag cycle bottoming in 2026 with gradual recovery thereafter → 농기계 사이클 저점 통과 신호는 CAT 건설장비 부문에도 점진적 수요 회복 기대를 시사.
+
+---
+
 ### 2026-06-07
 
 

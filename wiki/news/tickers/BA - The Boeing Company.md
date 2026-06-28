@@ -1,7 +1,7 @@
 ---
 title: "BA - The Boeing Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -39,6 +39,26 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: +0.23
+**key_events**: 우주군 MUOS 군통신위성 2기 최대 20억 달러 수주 (6/24), 리야드에어 첫 787-9 2기 인도, 최대 72대 주문의 시작 (6/5)
+**risks**: 787 인도 가속에도 생산·품질 정상화 지속 여부 불확실, MUOS 위성 발사가 2031~2032년으로 수익 기여 시점이 먼 장기 프로그램
+
+> [!claim] (출처: SpaceNews, 2026-06-24) Space Force Awards Boeing $2 Billion MUOS Service Life Extension Contract
+> 보잉이 록히드마틴을 제치고 미 우주군의 차세대 MUOS 군통신 위성 2기 제작 계약(최대 20억 달러)을 수주. impact: + / category: product
+
+> [!claim] (출처: Boeing Investors, 2026-06-05) Boeing Delivers Riyadh Air's First Two 787 Dreamliner Jets
+> 리야드에어의 첫 787-9 2기를 인도, 최대 72대 787 주문의 시작으로 인도 정상화 신호. impact: + / category: product
+
+> [!claim] (출처: Simply Wall St, 2026-06-26) Boeing (BA) Stock Lifted by U.S.-Iran Peace Deal Sentiment, Defense Unit Growth
+> 리야드에어 인도 마일스톤과 방산·우주 부문 성장으로 투자심리 개선. impact: + / category: other
+
+**경쟁사 동향**:
+- LMT: Lockheed loses MUOS competition to Boeing on $2B Space Force narrowband satellite award → 보잉이 우주 통신위성 분야에서 록히드 대비 경쟁우위를 확보, 방산·우주 수주 모멘텀에 긍정적.
+
+---
+
 ### 2026-06-07
 
 

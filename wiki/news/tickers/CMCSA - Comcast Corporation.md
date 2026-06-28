@@ -1,7 +1,7 @@
 ---
 title: "CMCSA - Comcast Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -36,6 +36,30 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: +0.03
+**key_events**: Q1 2026 광대역 손실 6.5만으로 축소, 무선 43.5만 순증, 와이파이 라우터 당일 배송 도입, 41억 달러 채권 텐더오퍼 완료, 0.33달러 분기 배당 선언
+**risks**: 차터-콕스 합병으로 케이블 경쟁 심화, T-Mobile·버라이즌 FWA로 광대역 가입자 이탈 지속, 광대역 ARPU 압박
+
+> [!claim] (출처: Light Reading, 2026-06-26) Comcast narrows broadband losses to 65K, posts record 435K wireless adds (Q1 2026)
+> 컴캐스트가 광대역 손실을 6.5만으로 축소(전년 18.3만 대비 개선)하고 무선 회선 43.5만 순증 기록. impact: + / category: earnings
+
+> [!claim] (출처: Robinhood, 2026-06-24) Comcast launches same-day delivery for WiFi routers
+> 컴캐스트가 와이파이 라우터 당일 배송 서비스 도입, 고객 경험 개선으로 광대역 이탈 방어. impact: neutral / category: product
+
+> [!claim] (출처: SEC, 2026-06-05) Comcast completes tender offers, repurchasing $4.1B+ of senior debt
+> 컴캐스트가 41억 달러+ 선순위 채권을 텐더오퍼로 매입, 부채 부담 완화. impact: + / category: other
+
+> [!claim] (출처: CNBC, 2026-06-10) Comcast declares quarterly dividend of $0.33/share, ~5.5% yield
+> 컴캐스트가 주당 0.33달러 분기 배당(7/22 지급) 선언, 약 5.5% 배당수익률로 방어적 매력. impact: + / category: other
+
+**경쟁사 동향**:
+- CHTR: Charter-Cox $34.5B merger expected to close by June 30, 2026 → 차터-콕스 합병으로 광대역·무선 결합 거대 경쟁자 탄생, 컴캐스트의 케이블 시장 점유·번들 경쟁 압박.
+- TMUS: T-Mobile fixed wireless and AWS-3 spectrum expansion → T-Mobile의 고정무선접속(FWA) 확대가 컴캐스트 광대역 가입자 손실의 핵심 원인으로 지속.
+
+---
+
 ### 2026-06-07
 
 

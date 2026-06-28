@@ -1,7 +1,7 @@
 ---
 title: "CHTR - Charter Communications — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -26,6 +26,8 @@ sources: []
 
 ## 미해결 가설 (Open Claims)
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-28**: 차터-콕스 345억 달러 합병이 6/30까지 실제 종결될지 (7일 검증 대기)
+
 - [ ] **2026-05-17**: Spectrum Mobile 2회선 서비스($10/월)가 ARPU 개선 및 고객 이탈 방지에 기여할 것인가 (pending)
 - [ ] **2026-05-17**: AT&T 루멘 인수 완료가 CHTR 커버리지 지역에서 직접 경쟁으로 전환되는 시점과 강도 (pending)
 <!-- OPEN_CLAIMS_END -->
@@ -36,6 +38,27 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: +0.09
+**key_events**: 차터-콕스 345억 달러 합병 6/30 종결 전망, 합병 후 사명 Cox 변경 예정, 주가 133.64달러, 깊은 저평가 평가, Spectrum Reach AI 광고 강화, 7/24 2분기 실적 발표 예정
+**risks**: 합병 종결 지연 또는 주(州) 규제 승인 리스크, T-Mobile·버라이즌 FWA 및 컴캐스트 경쟁으로 광대역 이탈, 합병 통합 실행 및 부채 부담
+
+> [!claim] (출처: Light Reading, 2026-06-26) Charter-Cox $34.5B merger expected to close by June 30, 2026
+> 차터-콕스 345억 달러 합병이 6/30까지 종결 전망, 합병 후 사명을 Cox로 변경(Spectrum 브랜드 유지). impact: + / category: m&a
+
+> [!claim] (출처: GuruFocus, 2026-06-26) Charter stock up 3.1% to $133.64, seen as deeply undervalued after 66% one-year decline
+> 차터 주가가 3.1% 상승한 133.64달러, 1년간 66% 급락 후 깊은 저평가 평가, 목표가 243달러. impact: + / category: other
+
+> [!claim] (출처: Timothy Sykes, 2026-06-23) Charter's Spectrum Reach leans into AI-powered advertising
+> 차터의 Spectrum Reach가 AI 기반 광고로 전환을 강화, 광고 사업 차별화 시도. impact: neutral / category: product
+
+**경쟁사 동향**:
+- CMCSA: Comcast narrows broadband losses, record wireless adds, launches router same-day delivery → 컴캐스트의 광대역 손실 축소·무선 순증·서비스 개선은 차터의 동일 시장 가입자 경쟁에 직접 압박.
+- TMUS: T-Mobile fixed wireless expansion with AWS-3 spectrum → T-Mobile FWA 확대가 차터-콕스 합병 후 광대역 가입자 기반의 구조적 위협으로 지속.
+
+---
+
 ### 2026-06-07
 
 

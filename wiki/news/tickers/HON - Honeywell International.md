@@ -1,7 +1,7 @@
 ---
 title: "HON - Honeywell International — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -26,6 +26,8 @@ sources: []
 
 ## 미해결 가설 (Open Claims)
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-28**: 분사 후 두 상장사 합산 가치가 분사 전 대비 재평가될지 (검증 대기)
+
 - [ ] **2026-05-17**: HON Aerospace 분사 이후 모기업 HON의 P/E 재평가(리레이팅)가 상방으로 진행될 것인가 (pending)
 - [ ] **2026-05-17**: Quantinuum IPO가 2026년 내 성공적으로 완료되어 HON 장부가치에 긍정적 영향을 줄 것인가 (pending)
 - [ ] **2026-05-17**: 이란 지정학 긴장이 HON 방산 제품 수요를 2분기에도 지속 견인할 것인가 (pending)
@@ -36,11 +38,34 @@ sources: []
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
 
+> [!fact] (2026-06-28) Honeywell Aerospace 분사 6/29 완료, HONA 나스닥 거래 개시 + 잔존사 1-for-2 역병합 (회사 공시)
+
+
 > [!fact] (PR Newswire, 2026-06-01) Honeywell Aerospace 분사 기준일 6/15, 완료 6/29 확정. 주주 2주당 HONA 1주, 1:2 역분할 동시 실행.
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: +0.28
+**key_events**: 6월 29일 항공우주 분사 완료 및 HONA 정규 거래 개시, 배당 비율 HON 2주당 HONA 1주 (기준일 6월 15일), 잔존사 1-for-2 역병합 동시 시행, 잔존사 Honeywell Technologies로 자동화 순수기업화
+**risks**: 분사 직후 거래 변동성 및 역병합에 따른 주가 표기 혼선, 두 회사 분리 후 비용 중복·시너지 상실 가능성, 인덱스 리밸런싱 관련 단기 수급 변동
+
+> [!claim] (출처: Honeywell IR, 2026-06-15) Honeywell Board of Directors Approves Spin-Off of Honeywell Aerospace
+> 이사회가 Honeywell Aerospace 분사를 승인, 6월 29일 배당(주 2주당 1주) 및 1-for-2 역병합 확정. impact: + / category: m&a
+
+> [!claim] (출처: StockTitan, 2026-06-15) Honeywell (HON) board approves Aerospace spin-off, sets June 29 distribution and reverse split
+> 6월 29일 HONA가 나스닥 정규 거래 개시, 잔존사는 Honeywell Technologies로 자동화 순수기업화. impact: + / category: m&a
+
+> [!claim] (출처: TheStreet, 2026-06-16) Honeywell approves aerospace spinoff to launch two public companies
+> 두 개의 상장사(항공우주 HONA, 자동화 HON)로 분리되는 구조적 가치 실현 이벤트. impact: + / category: m&a
+
+**경쟁사 동향**:
+- RTX: RTX's Raytheon awarded $1.1B U.S. Navy AIM-9X contract; $515M SPY-6 radar contract (June) → 방산 예산 확대는 분사 직후 독립 상장하는 Honeywell Aerospace(HONA)의 방산·항공 수주 환경에 우호적, 순수 항공우주 기업으로의 재평가 잠재력.
+
+---
+
 ### 2026-06-07
 
 

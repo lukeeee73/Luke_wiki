@@ -1,7 +1,7 @@
 ---
 title: "T - AT&T Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -36,6 +36,30 @@ AT&T는 미국 2위 통신사로, 과거 워너미디어(HBO, CNN 등 미디어 
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: +0.08
+**key_events**: 2분기 FCF 40~45억 달러 가이던스 재확인, 2026~2028 주주환원 450억+, 5G·광·커넥티드카 융합 번들 발표, 오펜하이머 투자의견 하향, CFO 승계 발표
+**risks**: 위성(스타링크)·광 경쟁에 따른 장기 성장 둔화, 수수료 인상에 따른 churn 상승, 무선 가격 경쟁 심화로 ARPU 압박
+
+> [!claim] (출처: Timothy Sykes, 2026-06-23) AT&T steadies as cash flow guidance and convergence story gain traction
+> AT&T가 2분기 FCF 40~45억 달러 가이던스 재확인, 2026~2028년 450억 달러+ 주주환원 목표 유지. impact: + / category: earnings
+
+> [!claim] (출처: Simply Wall St, 2026-06-22) AT&T links 5G and fiber to connected cars and home internet bundles
+> AT&T가 5G·광네트워크를 커넥티드카·홈인터넷 번들로 연계하는 융합 전략 발표. impact: + / category: product
+
+> [!claim] (출처: Timothy Sykes, 2026-06-17) Oppenheimer cuts AT&T to Perform on long-term growth, satellite/fiber risk
+> 오펜하이머가 위성 위협·광 리스크를 이유로 AT&T를 Outperform에서 Perform으로 하향. impact: - / category: other
+
+> [!claim] (출처: Light Reading, 2026-06-24) AT&T wins 10 AWS-3 licenses for $120.8M in FCC auction
+> AT&T가 AWS-3 경매에서 10개 라이선스 1.21억 달러 확보, 경쟁사 대비 소규모 투자. impact: neutral / category: other
+
+**경쟁사 동향**:
+- TMUS: SpaceX could acquire T-Mobile, TD Cowen floats $320B scenario → SpaceX-T-Mobile 결합 시 위성+지상망 융합 경쟁자 부상, AT&T의 D2D JV·융합 전략 가치 부각이나 장기 위협.
+- VZ: Verizon scraps fees and launches Simplicity plan → 버라이즌의 요금 단순화 공세로 무선 가격 경쟁 심화, AT&T의 churn·ARPU에 부정적 압박.
+
+---
+
 ### 2026-06-07
 
 

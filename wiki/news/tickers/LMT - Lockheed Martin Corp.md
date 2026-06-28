@@ -1,7 +1,7 @@
 ---
 title: "LMT - Lockheed Martin Corp. — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -26,6 +26,8 @@ sources: []
 
 ## 미해결 가설 (Open Claims)
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-28**: 대형 미사일 수주가 LMT 매출 성장 둔화 우려를 실제로 반전시킬지 (검증 대기)
+
 - [ ] **2026-05-17**: FMS 승인 주기 장기화가 2026년 매출 성장률을 1~2%p 실질 감소시킬 것인가 (pending)
 - [ ] **2026-05-17**: Nokia 5G 협력이 LMT 통신 방산 시스템에 의미 있는 매출로 이어질 것인가 (pending)
 - [ ] **2026-05-17**: NATO 동맹국 방산비 20% 증가가 F-35 추가 발주로 구체화될 것인가 (pending)
@@ -33,10 +35,36 @@ sources: []
 
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
+
+> [!fact] (2026-06-28) LMT, THAAD 요격탄 최대 350억 달러 7년 계약 + PrSM 84억 달러 계약 변경 수주 (회사·Defense Daily)
+
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: +0.27
+**key_events**: THAAD 요격탄 4배 증산 최대 350억 달러 7년 계약 (6/24), PrSM 84억 달러 계약 변경, 총 약 133억 달러로 2032년까지 (6/23), GM 디펜스와 생산 가속 협력 MOU (6/16)
+**risks**: THAAD 계약이 미확정계약(UCA)으로 상한선일 뿐 의회 예산에 따라 축소·미집행 가능, 프로그램 납기 지연 지속과 Q2 실적 추정 하향 압력
+
+> [!claim] (출처: Lockheed Martin News, 2026-06-24) $35 Billion THAAD Seven-Year Procurement Award Propels Acceleration of Interceptor Production
+> 미사일방어청이 THAAD 요격탄 생산을 4배로 늘리는 최대 350억 달러 7년 계약을 부여, 초기 8.4억 달러 집행. impact: + / category: product
+
+> [!claim] (출처: Defense Daily, 2026-06-23) U.S. Army Awards Lockheed Martin $8.4 Billion PrSM Production Modification Through 2032
+> 미 육군이 정밀타격미사일(PrSM) 생산 확대를 위해 84억 달러 계약 변경을 부여, 총액 약 133억 달러로 2032회계연도까지 연장. impact: + / category: product
+
+> [!claim] (출처: CNBC, 2026-06-16) Lockheed Martin, GM Defense Collaborate to Strengthen Defense Industrial Base
+> 록히드와 GM 디펜스가 MOU를 맺고 GM의 고속 제조역량을 활용해 무기 생산 가속을 모색. impact: neutral / category: other
+
+> [!claim] (출처: Investing.com, 2026-06-25) Jefferies Lowers Lockheed Martin Price Target to $575 from $595
+> 제프리스가 Q2 실적을 앞두고 LMT 목표가를 595→575달러로 하향, 매출·이익 추정에 신중한 시각. impact: - / category: other
+
+**경쟁사 동향**:
+- BA: Boeing beats Lockheed for $2B Space Force MUOS satellite contract → 록히드가 군 위성 경쟁에서 패배, 우주 부문 경쟁지위에 소폭 부정적이나 미사일방어·타격 수주가 이를 상쇄.
+
+---
+
 ### 2026-06-07
 
 

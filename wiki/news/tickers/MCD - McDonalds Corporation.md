@@ -1,7 +1,7 @@
 ---
 title: "MCD - McDonald's Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -46,6 +46,26 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: -0.09
+**key_events**: 구글 AI 드라이브스루 ArchIQ 5개 매장 시범, McDonald's NEXT 시스템 전개, 6/25 주가 3.3% 하락·52주 신저가
+**risks**: 가계 소비 둔화로 동일점 매출 감속, 2026 EPS 컨센서스 하향(-2.1%), 구조조정 비용·세율 상승(22%)
+
+> [!claim] (출처: Seeking Alpha, 2026-06-26) McDonald's tests new Google-backed AI drive-thru system 'ArchIQ' (Archy) at five US locations
+> 구글과 개발한 AI 드라이브스루 'ArchIQ'를 미국 5개 매장에서 시범, 약 90% 주문을 직원 개입 없이 처리. impact: + / category: product
+
+> [!claim] (출처: TradingKey, 2026-06-25) McDonald's stock closes down 3.31% on June 25 as QSR traffic concerns mount
+> 가계 예산 압박이 패스트푸드 트래픽을 짓누른다는 우려로 주가 3.3% 하락, 52주 신저가 부근. impact: - / category: macro
+
+> [!claim] (출처: Yahoo Finance, 2026-06-24) McDonald's NEXT modernization program reshapes franchise economics and cash-flow story
+> 음식 품질·자동화·디지털 강화를 담은 'McDonald's NEXT' 시스템 전개, 프랜차이즈 경제성 개선 목표. impact: + / category: product
+
+**경쟁사 동향**:
+- SBUX: Starbucks raises FY2026 guidance on +6.2% global comps and 30%+ delivery growth → SBUX의 트래픽·동일점 매출 회복은 소비 둔화 국면에서도 차별화 가능함을 시사. MCD의 가치 메뉴·트래픽 방어 압박이 상대적으로 부각.
+
+---
+
 ### 2026-06-07
 
 

@@ -1,7 +1,7 @@
 ---
 title: "NFLX - Netflix, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -38,6 +38,30 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: +0.24
+**key_events**: 6월 22일 Omnicom Media AI 광고 제휴 발표 (Cannes Lions), 7월 16일 2분기 실적 발표 예정, 6월 4일 Reed Hastings 이사회 의장 퇴임
+**risks**: 광고 사업의 실질 매출 기여가 기대에 못 미칠 위험, 디즈니 등 경쟁사의 광고 시장 동시 진입, 연초 대비 주가 부진 지속
+
+> [!claim] (출처: PR Newswire, 2026-06-22) Omnicom Media Becomes Netflix's First Data Collaboration Partner for AI-Powered Ad Creatives
+> 넷플릭스가 Cannes Lions에서 Omnicom Media/Acxiom과 AI 광고 데이터 제휴 발표, 광고 요금제 강화. impact: + / category: product
+
+> [!claim] (출처: StockStory/FinancialContent, 2026-06-26) Why Netflix (NFLX) Stock Is Trading Up Today
+> Omnicom AI 광고 제휴 호재로 6월 26일 주가가 약 4.9% 상승. impact: + / category: other
+
+> [!claim] (출처: Quiver Quantitative, 2026-06-26) Netflix Shares Rise as Investors Reassess Growth Outlook Ahead of Q2 Results
+> 7월 16일 2분기 실적 발표를 앞두고 성장 전망 재평가로 매수세 유입. impact: + / category: earnings
+
+> [!claim] (출처: CNN Markets, 2026-06-04) Reed Hastings Steps Down as Board Chair; Jay Hoag Named Successor
+> 공동창업자 Reed Hastings가 6월 4일 주총에서 이사회 의장 재선에 불출마, Jay Hoag가 후임. impact: neutral / category: other
+
+**경쟁사 동향**:
+- DIS: Disney도 Omnicom과 CTV 광고 솔루션 협업 발표 → 디즈니가 같은 광고 파트너(Omnicom)와 손잡으며 스트리밍 광고 시장 경쟁 심화 — 넷플릭스의 광고 차별화 우위가 일부 희석될 수 있음.
+- SPOT: Spotify, Live Nation과 독점 Reserved 티켓팅 출시 → 구독 서비스들의 부가 가치 경쟁 격화 — 넷플릭스도 라이브/팬 경험 등 차별화 압박을 받을 수 있음.
+
+---
+
 ### 2026-06-07
 
 

@@ -1,7 +1,7 @@
 ---
 title: "DE - Deere & Company — Routine News Log"
 created: 2026-05-17
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -37,6 +37,26 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: +0.11
+**key_events**: 2026 농업 사이클 저점 가이던스, Q2 EPS $6.55, 컨센서스 $5.70 상회, RBC Outperform·목표가 $752 유지, 대형정밀농업 매출 FY26 -15~20% 전망
+**risks**: 농가 순소득 15% 감소 및 농업 부채 증가, 낮은 글로벌 곡물 가격 지속, 관세 및 무역 환경 불확실성
+
+> [!claim] (출처: ad-hoc-news, 2026-06-26) Deere & Co. sees ag cycle bottom in 2026, analysts reassess the stock
+> 경영진이 2026년을 농업 사이클 저점으로 제시, RBC는 Outperform·목표가 $752 유지. impact: + / category: other
+
+> [!claim] (출처: TradingKey, 2026-06-25) Deere & Co Stock (DE) Moved Up by 3.55% on Jun 25
+> 사이클 저점 통과 기대와 관세 전망 안정화로 6월 25일 주가 3.55% 상승. impact: + / category: other
+
+> [!claim] (출처: Investing.com, 2026-06-24) Deere & Company Q2 2026 beats expectations, stock dips
+> Q2 EPS $6.55로 컨센서스 $5.70 상회했으나 대형 농기계 부문 침체 우려로 주가 약세. impact: neutral / category: earnings
+
+**경쟁사 동향**:
+- CNH: CNH Industrial reports 'historically low' ag equipment demand in Q1 2026 → CNH도 동일한 북미 농기계 수요 부진을 보고 — 업황 저점이 DE만의 문제가 아닌 섹터 전반임을 확인, 회복 시 DE의 점유율·마진 레버리지 우위 부각.
+
+---
+
 
 ### 2026-06-07
 

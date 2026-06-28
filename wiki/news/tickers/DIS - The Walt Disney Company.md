@@ -1,7 +1,7 @@
 ---
 title: "DIS - The Walt Disney Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -26,6 +26,8 @@ sources: []
 
 ## 미해결 가설 (Open Claims)
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-28**: 박스오피스 호조가 스튜디오·테마파크 실적 모멘텀으로 이어질지 (검증 대기)
+
 - [ ] **2026-05-17**: 디즈니+ 두 자릿수 스트리밍 마진이 FY2027에도 유지·확대될 것인가 (pending)
 - [ ] **2026-05-17**: 국내 테마파크 방문객 -1%가 소비자 지출 둔화의 선행 신호인가, 일시적 현상인가 (pending)
 <!-- OPEN_CLAIMS_END -->
@@ -33,11 +35,37 @@ sources: []
 ## 사실 누적 (Verified Facts)
 <!-- FACTS_START -->
 
+> [!fact] (2026-06-28) 토이스토리5 개봉 주말 북미 $160M·글로벌 $312M로 프랜차이즈 최대 개봉 기록 (Variety)
+
+
 > [!fact] (Disney IR + Yahoo Finance, 2026-06-05) Q2 FY26 스트리밍 영업이익 +88%, SVOD 마진 11% 흑자 정착 확인.
 <!-- FACTS_END -->
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: +0.20
+**key_events**: 6월 20-22일 토이스토리5 개봉 $160M(북미)/$312M(글로벌), Annecy 2026 신규 애니메이션 발표, 6월 30일 배당락
+**risks**: $50M 집단소송 합의 등 규제·소송 리스크, 스트리밍 광고 경쟁 심화, 박스오피스 호조 이후 하반기 라인업 의존도
+
+> [!claim] (출처: Variety, 2026-06-22) Box Office: 'Toy Story 5' Scores Year's Biggest Debut With $160 Million, Shattering Franchise Record
+> 토이스토리5가 6월 20-22일 북미 $160M·글로벌 $312M으로 올해 최대·프랜차이즈 최대 개봉 기록. impact: + / category: product
+
+> [!claim] (출처: The Walt Disney Company, 2026-06-15) Disney Unveils New Animation Projects and First Looks at Annecy 2026
+> Annecy 애니메이션 페스티벌에서 신규 애니메이션 프로젝트와 첫 공개 영상 발표, 콘텐츠 파이프라인 강화. impact: + / category: product
+
+> [!claim] (출처: WDW News Today, 2026-06-25) Disney to Pay $50 Million Class Action Settlement Over YouTube TV & DirecTV Subscriptions
+> 디즈니가 YouTube TV·DirecTV 구독자 대상 집단소송에 $50M 합의금 지급. impact: - / category: regulation
+
+> [!claim] (출처: CNN Markets, 2026-06-26) DIS Quarterly Dividend $0.75 (Ex-Date June 30, 2026)
+> 주당 $0.75 분기 배당, 배당락일 6월 30일. impact: neutral / category: other
+
+**경쟁사 동향**:
+- NFLX: 넷플릭스가 Omnicom과 AI 광고 데이터 제휴 → 넷플릭스가 광고 타겟팅을 고도화하면 디즈니의 스트리밍 광고 시장 점유 경쟁이 더 치열해짐.
+
+---
+
 ### 2026-06-07
 
 

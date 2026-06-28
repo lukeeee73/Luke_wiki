@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-06-27
+updated: 2026-06-28
 domain: finance
 type: index
 weight: reference
@@ -133,31 +133,35 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [WMT](tickers/WMT - Walmart Inc.md) | 2026-06-07 | +0.11 | Q1 FY27 이커머스 +26%, 동일점포 +4.1%, Q2 가이던스 제시 — 강한 실적에도 주가 조정 | 1 |
-| [COST](tickers/COST - Costco Wholesale.md) | 2026-06-07 | +0.17 | Q3 FY26 매출 +11.6% (2022년 이후 최고) — 강한 실적에도 주가 하락, 소비 경기 고점 논쟁 | 1 |
-| [KO](tickers/KO - The Coca-Cola Company.md) | 2026-06-07 | 0.00 | 금일 의미 있는 신규 뉴스 없음 — 배당귀족 60년 연속 방어적 특성 유지 | 0 |
-| [PEP](tickers/PEP - PepsiCo.md) | 2026-06-07 | 0.00 | 금일 의미 있는 신규 뉴스 없음 — 음료+스낵 결합 모델 견조 | 0 |
-| [PG](tickers/PG - Procter and Gamble.md) | 2026-06-07 | +0.11 | 소비자 수요 서프라이즈 주가 +5%, Native 클린뷰티·Secret 젠Z 마케팅 호응 | 0 |
-| [MO](tickers/MO - Altria Group.md) | 2026-06-07 | -0.02 | 금일 신규 뉴스 없음 — 담배 볼륨 감소 구조적 헤드윈드, 배당수익률 7%대 인컴주 | 0 |
-| [MCD](tickers/MCD - McDonalds Corporation.md) | 2026-06-07 | +0.03 | 수제 치킨 메뉴 테스트 (치킨 전쟁 대응), 내부자 거래 신고 (6/1) | 0 |
-| [HD](tickers/HD - The Home Depot.md) | 2026-06-07 | -0.02 | 금일 신규 뉴스 없음 — 금리 인하 기대감이 중기 촉매, 주가 $310.78 | 0 |
-| [NKE](tickers/NKE - NIKE Inc.md) | 2026-06-07 | -0.12 | 월드컵 중심 턴어라운드 전략에 애널리스트 회의적, 주가 $42.98 약세 지속 | 1 |
-| [SBUX](tickers/SBUX - Starbucks Corporation.md) | 2026-06-07 | -0.15 | AI 재고관리 폐기·기관 41.9% 매도·1개월 -9% — 턴어라운드 신뢰도 급락 | 1 |
+| [WMT](tickers/WMT - Walmart Inc.md) | 2026-06-28 | +0.32 | Vibe.co CTV 광고 플랫폼 인수 발표(6/23)·Utz 제조 감자칩 68.4만봉 살모넬라 FDA … | 2 |
+| [COST](tickers/COST - Costco Wholesale.md) | 2026-06-28 | +0.34 | FY3Q26 매출 +11.6%, 동일점 +9.8%, 갱신율 92.2%·EPS 컨센서스 부합으로 주가 약세… | 2 |
+| [KO](tickers/KO - The Coca-Cola Company.md) | 2026-06-28 | +0.15 | 북미사업 대표 교체, CFO 임시 겸임(8/1 발효)·IRS 200억달러 이전가격 분쟁 11순회법원 구두… | 1 |
+| [PEP](tickers/PEP - PepsiCo.md) | 2026-06-28 | -0.27 | BofA·Citi·Jefferies·도이체방크·TD Cowen 목표가 연이은 하향·PFNA 북미 스낵 매… | 1 |
+| [PG](tickers/PG - Procter and Gamble.md) | 2026-06-28 | +0.20 | Gillette 그루밍 사업부 신임 CEO 임명·Native·Secret 브랜드의 대형 유통 한정판 드롭 | 1 |
+| [MO](tickers/MO - Altria Group.md) | 2026-06-28 | -0.08 | 무연 제품 전환 가속 보도·FDA 규제 스크루티니 지속 | 0 |
+| [MCD](tickers/MCD - McDonalds Corporation.md) | 2026-06-28 | -0.09 | 구글 AI 드라이브스루 ArchIQ 5개 매장 시범·McDonald's NEXT 시스템 전개 | 0 |
+| [HD](tickers/HD - The Home Depot.md) | 2026-06-28 | -0.14 | Wolfe Research 6/23 강등(Peer Perform)·목표주가 약 $370로 하향 | 0 |
+| [NKE](tickers/NKE - NIKE Inc.md) | 2026-06-28 | -0.18 | David Denton 신임 CFO 선임(8/17)·6/30 Q4 FY2026 실적 발표 예정 | 1 |
+| [SBUX](tickers/SBUX - Starbucks Corporation.md) | 2026-06-28 | +0.15 | 6/18 노조 상대 사이렌 로고 상표소송 제기·FY2026 동일점·EPS 가이던스 상향 | 1 |
 
 ### 산업재 / 방산
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [CAT](tickers/CAT - Caterpillar Inc.md) | 2026-06-07 | +0.23 | Q1 매출 +22%·사상 최대 수주잔고·가이던스 상향, 에버코어 목표가 $1,103 상향 | 0 |
-| [DE](tickers/DE - Deere & Company.md) | 2026-06-07 | +0.03 | 인디애나·NC 신규 시설 미국 제조 확장 — 대형 촉매 부재 | 3 |
-| [BA](tickers/BA - The Boeing Company.md) | 2026-06-07 | +0.11 | CEO 787 월 10대 목표·4번째 737 라인 계획, Q1 실적 컨센서스 상회 | 0 |
-| [LMT](tickers/LMT - Lockheed Martin Corp.md) | 2026-06-07 | +0.04 | 스컹크웍스 GM 교체 (4년간 3번째), FY26 방위예산 $8,950억 우호 환경 | 0 |
-| [RTX](tickers/RTX - RTX Corporation.md) | 2026-06-07 | +0.16 | Q1 조정 EPS +21%, 신규 방산 계약·P&W 생산 확대, 목표가 $215~$240 | 0 |
-| [NOC](tickers/NOC - Northrop Grumman Corp.md) | 2026-06-07 | +0.11 | 해군 $1억 계약, 아르테미스 III 발송, 배당 +6.93% 인상 — 3중 긍정 | 0 |
-| [HON](tickers/HON - Honeywell International.md) | 2026-06-07 | -0.02 | Honeywell Aerospace 분사 기준일 6/15·완료 6/29 (HONA 상장), 1:2 역분할 | 1 |
-| [GE](tickers/GE - GE Aerospace.md) | 2026-06-07 | +0.23 | Q1 주문 +87%·EPS +15.5% 서프라이즈, 수주잔고 $2,100억 역대 최대 | 0 |
-| [UPS](tickers/UPS - United Parcel Service.md) | 2026-06-07 | -0.10 | 아마존 물량 50%+ 감축 가속·화물기 사고 조사, 배당수익률 6.66% | 1 |
-| [FDX](tickers/FDX - FedEx Corporation.md) | 2026-06-07 | +0.11 | 연간 가이던스 상향·분사 계획 발표 — UPS 대비 상대적 강세 | 0 |
+| [CAT](tickers/CAT - Caterpillar Inc.md) | 2026-06-28 | +0.39 | 주문 백로그 $63B, 전년比 79% 증가·러셀 톱50 편입 | 4 |
+| [DE](tickers/DE - Deere & Company.md) | 2026-06-28 | +0.11 | 2026 농업 사이클 저점 가이던스·Q2 EPS $6.55, 컨센서스 $5.70 상회 | 3 |
+| [BA](tickers/BA - The Boeing Company.md) | 2026-06-28 | +0.23 | 우주군 MUOS 군통신위성 2기 최대 20억 달러 수주 (6/24)·리야드에어 첫 787-9 2기 인도,… | 3 |
+| [LMT](tickers/LMT - Lockheed Martin Corp.md) | 2026-06-28 | +0.27 | THAAD 요격탄 4배 증산 최대 350억 달러 7년 계약 (6/24)·PrSM 84억 달러 계약 변경,… | 4 |
+| [RTX](tickers/RTX - RTX Corporation.md) | 2026-06-28 | +0.21 | 레이시온 AIM-9X 블록II 11억 달러 해군 계약, 연 2,500발 증산 (6/26)·분기 배당 주당… | 2 |
+| [NOC](tickers/NOC - Northrop Grumman Corp.md) | 2026-06-28 | +0.10 | B-21 증산으로 2026 CapEx 18.5억 달러로 상향, 매출 전망 재확인 (6/22)·분기 배당 … | 3 |
+| [HON](tickers/HON - Honeywell International.md) | 2026-06-28 | +0.28 | 6월 29일 항공우주 분사 완료 및 HONA 정규 거래 개시·배당 비율 HON 2주당 HONA 1주 (기… | 5 |
+| [GE](tickers/GE - GE Aerospace.md) | 2026-06-28 | +0.46 | 주가 1주간 +12%, 사상 최고가 경신·$0.47 분기 배당 선언(6월 25일) | 3 |
+| [UPS](tickers/UPS - United Parcel Service.md) | 2026-06-28 | +0.04 | 콜드체인 시설 4800만달러 투자(6/22)·2026년 27개 분류시설 추가 폐쇄(6/25) | 3 |
+| [FDX](tickers/FDX - FedEx Corporation.md) | 2026-06-28 | +0.07 | Q4 FY26 EPS $6.31 어닝 서프라이즈(6/23)·FY27 조정 EPS 가이던스 $16.90~$… | 3 |
+| [079550.KS](tickers/079550.KS - LIG Nex1.md) | 2026-06-28 | +0.18 | 미국 현지법인 LIG Defense U.S. 설립·SAS 2026 참가(6/22)·천궁-II 중동 수출 … | 1 |
+| [012450.KS](tickers/012450.KS - Hanwha Aerospace.md) | 2026-06-28 | +0.16 | 캐나다 잠수함 연계 잠수함 배터리 수출 추진(6/26~28)·6/17 장중 126만원 사상 최고가 경신 | 1 |
+| [KTOS](tickers/KTOS - Kratos Defense.md) | 2026-06-28 | +0.12 | UAV 제어 특허 확보(6/19)·자율 트랙터-트레일러 배치 완료(6/17) | 0 |
+| [AVAV](tickers/AVAV - AeroVironment Inc.md) | 2026-06-28 | -0.08 | 윌리엄 린 이사회 선임(6/24~25)·SCAR 취소 관련 증권집단소송(6/23) | 1 |
 
 ### 부동산 (REITs)
 
@@ -178,16 +182,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [VZ](tickers/VZ - Verizon Communications.md) | 2026-06-07 | -0.09 | 대법원 FCC 과징금 판결 → 주가 -4%, T-Mobile 경쟁 심화 | 1 |
-| [T](tickers/T - AT&T Inc.md) | 2026-06-07 | -0.09 | 대법원 FCC 과징금 판결 → -4% 동반 하락, 광케이블 확장 장기 긍정 | 0 |
-| [TMUS](tickers/TMUS - T-Mobile US.md) | 2026-06-07 | +0.16 | Charter·Comcast MVNO 독점 계약, Q1 강세·애널리스트 30%+ 상승 전망 | 0 |
-| [CMCSA](tickers/CMCSA - Comcast Corporation.md) | 2026-06-07 | +0.03 | T-Mobile MVNO 비즈니스 계약 — 케이블 가입자 감소 속 B2B 다각화 | 0 |
-| [CHTR](tickers/CHTR - Charter Communications.md) | 2026-06-07 | +0.03 | T-Mobile MVNO 계약, Q1 Spectrum Mobile +36.8만 (누계 12.1M) | 0 |
-| [NFLX](tickers/NFLX - Netflix Inc.md) | 2026-06-07 | +0.20 | 광고 고객사 +70% YoY·매출 $30억 경로, 가입자 3.25억+, SPOT $1억 계약 | 0 |
-| [DIS](tickers/DIS - The Walt Disney Company.md) | 2026-06-07 | +0.07 | Q2 스트리밍 영업이익 +88%·마진 11%, 반기 배당 $0.75 (기준일 6/30) | 0 |
-| [SPOT](tickers/SPOT - Spotify Technology.md) | 2026-06-07 | +0.09 | Netflix와 $1억 독점 팟캐스트 영상 계약 — 콘텐츠 수익화 강화 | 0 |
-| [EA](tickers/EA - Electronic Arts Inc.md) | 2026-06-07 | +0.10 | FY26 사상 최대 실적, $550억 비공개 인수 CFIUS 심사 최종 단계 | 1 |
-| [TTWO](tickers/TTWO - Take-Two Interactive.md) | 2026-06-07 | +0.22 | GTA VI 2026년 11월 19일 확정, Q4 어닝 비트, 목표가 $280~$320 | 0 |
+| [VZ](tickers/VZ - Verizon Communications.md) | 2026-06-28 | +0.03 | 6/29 다우지수에서 알파벳으로 교체(퇴출)·AWS-3 주파수 32억 달러 낙찰 | 4 |
+| [T](tickers/T - AT&T Inc.md) | 2026-06-28 | +0.08 | 2분기 FCF 40~45억 달러 가이던스 재확인, 2026~2028 주주환원 450억+·5G·광·커넥티드… | 2 |
+| [TMUS](tickers/TMUS - T-Mobile US.md) | 2026-06-28 | +0.16 | TD Cowen, SpaceX의 T-Mobile 인수 가능성 제기·AWS-3 경매 102개 라이선스 최다… | 3 |
+| [CMCSA](tickers/CMCSA - Comcast Corporation.md) | 2026-06-28 | +0.03 | Q1 2026 광대역 손실 6.5만으로 축소, 무선 43.5만 순증·와이파이 라우터 당일 배송 도입 | 2 |
+| [CHTR](tickers/CHTR - Charter Communications.md) | 2026-06-28 | +0.09 | 차터-콕스 345억 달러 합병 6/30 종결 전망, 합병 후 사명 Cox 변경 예정·주가 133.64달러… | 3 |
+| [NFLX](tickers/NFLX - Netflix Inc.md) | 2026-06-28 | +0.24 | 6월 22일 Omnicom Media AI 광고 제휴 발표 (Cannes Lions)·7월 16일 2분기… | 2 |
+| [DIS](tickers/DIS - The Walt Disney Company.md) | 2026-06-28 | +0.20 | 6월 20-22일 토이스토리5 개봉 $160M(북미)/$312M(글로벌)·Annecy 2026 신규 애니… | 3 |
+| [SPOT](tickers/SPOT - Spotify Technology.md) | 2026-06-28 | +0.18 | 6월 18일 Reserved 티켓팅 미국 출시 (Live Nation 독점)·6월 23일 Role Mod… | 2 |
+| [EA](tickers/EA - Electronic Arts Inc.md) | 2026-06-28 | -0.03 | 6월 30일 인수 long-stop date·CFIUS 외부 마감일 9월 28일 | 4 |
+| [TTWO](tickers/TTWO - Take-Two Interactive.md) | 2026-06-28 | +0.33 | 6월 25일 GTA VI 사전예약 개시·11월 19일 GTA VI 출시 확정 | 4 |
 
 ### 유틸리티 / 전력
 

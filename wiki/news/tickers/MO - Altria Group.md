@@ -1,7 +1,7 @@
 ---
 title: "MO - Altria Group, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -46,6 +46,23 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: -0.08
+**key_events**: 무연 제품 전환 가속 보도, FDA 규제 스크루티니 지속, 5%대 배당·자사주 환원 유지
+**risks**: FDA 멘톨/무연 규제 강화, 전통 담배 물량 구조적 감소, PM(ZYN/IQOS)과의 무연 경쟁 열위
+
+> [!claim] (출처: MarketBeat, 2026-06-26) Altria accelerates push into smoke-free products as cigarette volumes face pressure
+> 담배 물량 감소·규제 강화 속에 무연 제품(NJOY 등) 전환을 가속, 배당·자사주로 주주환원 지속. impact: neutral / category: product
+
+> [!claim] (출처: ad-hoc-news, 2026-06-25) Altria (MO) stock analysis: navigating shift to smoke-free amid FDA scrutiny and 5.7% dividend appeal
+> FDA 규제 리스크에도 안정적 현금흐름과 5%대 배당 매력 부각, 무연 전환이 핵심 변수. impact: neutral / category: regulation
+
+**경쟁사 동향**:
+- PM: Philip Morris lifts IQOS and ZYN; smoke-free now 43% of Q1 net revenues, EU tax/marketing scrutiny rises → PM의 ZYN·IQOS 고성장은 무연 시장 경쟁 심화를 의미. Altria의 NJOY가 미국에서 점유율 방어에 더 큰 압박을 받음.
+
+---
+
 ### 2026-06-07
 
 

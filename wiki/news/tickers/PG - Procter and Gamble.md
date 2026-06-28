@@ -1,7 +1,7 @@
 ---
 title: "PG - Procter & Gamble Co — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,8 @@ sources: []
 _(루틴 첫 실행 전 — 비어 있음)_
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-28**: Native·Secret 브랜드 모멘텀이 차기 실적에서 유의미한 매출 기여로 확인될지 (검증 대기)
+
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -46,6 +48,23 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: +0.20
+**key_events**: Gillette 그루밍 사업부 신임 CEO 임명, Native·Secret 브랜드의 대형 유통 한정판 드롭
+**risks**: 관세·원자재 등 투입비용 상승에 따른 마진 압박, 가격 민감 소비자의 저가 브랜드 전환(trade-down), FX 역풍
+
+> [!claim] (출처: ad-hoc-news, 2026-06-25) Procter & Gamble refreshes Gillette leadership, consumer brands stock stays in focus
+> P&G, Gillette 그루밍 사업부 신임 CEO 임명·프리미엄 브랜드 강조 impact: neutral / category: other
+
+> [!claim] (출처: Timothy Sykes, 2026-06-24) PG Stock Holds Up As P&G Pushes Native, Secret, And Tech Story
+> Native·Secret의 Target·Walmart 한정판 드롭으로 성장 스토리 유지 impact: + / category: product
+
+**경쟁사 동향**:
+- KMB: Kimberly-Clark estimates ~$200M incremental input costs for rest of 2026, uses 'good-better-best' to offset tariffs → 동종 KMB의 관세·투입비용 부담은 P&G에도 마진 압박 공통 리스크 시사하나, P&G의 프리미엄 믹스가 방어력 제공
+
+---
+
 ### 2026-06-07
 
 

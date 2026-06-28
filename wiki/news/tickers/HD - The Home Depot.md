@@ -1,7 +1,7 @@
 ---
 title: "HD - The Home Depot, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-07
+updated: 2026-06-28
 domain: finance
 type: claim
 weight: reference
@@ -46,6 +46,26 @@ _(루틴 첫 실행 전 — 비어 있음)_
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-28
+
+**narrative_score**: -0.14
+**key_events**: Wolfe Research 6/23 강등(Peer Perform), 목표주가 약 $370로 하향, FY2026 가이던스 재확인, 6/25 주가 5.62% 반등
+**risks**: 주택 거래량 historic low·고금리, 프로 전환 인수에 따른 ROIC 희석, 3분기 연속 동일점 매출 미스
+
+> [!claim] (출처: Sahm Capital, 2026-06-23) Wolfe Research downgrades Home Depot to Peer Perform on Pro-focus and housing risks
+> Wolfe가 6/23 HD를 Outperform→Peer Perform 강등, 프로 고객 전략의 실행 리스크·주택시장 lock-in·인수 ROIC 희석을 지적. impact: - / category: other
+
+> [!claim] (출처: Simply Wall St, 2026-06-24) How investors are reacting to Home Depot downgrade amid housing headwinds and Pro-focus questions
+> 주택 거래 침체와 프로 전략 불확실성 속 목표주가 하향(약 $408→$370), 밸류에이션 부담 부각. impact: - / category: other
+
+> [!claim] (출처: TradingKey, 2026-06-25) Home Depot stock moved up 5.62% on June 25
+> 강등 직후 반등하며 6/25 주가 5.62% 상승, 저가 매수와 금리 기대가 작용. impact: + / category: macro
+
+**경쟁사 동향**:
+- LOW: Lowe's maintains FY2026 guidance amid muted housing demand; Q1 comps +0.6%, flags cost pressures (Reuters) → 동종 LOW의 약한 DIY 동일점 매출과 주택시장 침체 진단은 HD에도 동일한 매크로 역풍을 시사. 다만 HD의 프로 전환이 차별화 변수.
+
+---
+
 ### 2026-06-07
 
 
