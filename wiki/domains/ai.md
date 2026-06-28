@@ -1,7 +1,7 @@
 ---
 title: "AI Domain Index"
 created: 2026-05-02
-updated: 2026-06-20
+updated: 2026-06-28
 domain: ai
 type: index
 weight: foundational
@@ -32,6 +32,7 @@ AI/LLM, 에이전트, 프롬프트 엔지니어링, AI 제품 관련 모든 페�
 - [Claude Code](../concepts/claude-code.md) — Anthropic의 CLI 코딩 에이전트 개요
 - [음성 기반 AI](../concepts/voice-based-ai.md) — Voice-first AI 트렌드와 기술 스택
 - [Muon Optimizer](../concepts/muon-optimizer.md) — 행렬 파라미터 직교화 기반 옵티마이저 (Polar Express + NorMuon)
+- [DSpark & Speculative Decoding](../concepts/speculative-decoding.md) — 가중치 불변·lossless로 Decode 메모리 대역폭 병목을 가속하는 드래프트 기법 (`domain: ai, finance`)
 
 ---
 
