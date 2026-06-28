@@ -1,7 +1,7 @@
 ---
 title: "AI Domain Index"
 created: 2026-05-02
-updated: 2026-06-20
+updated: 2026-06-28
 domain: ai
 type: index
 weight: foundational
@@ -60,6 +60,15 @@ AI 칩 가치사슬 — 모델이 실제로 돌아가는 하드웨어 공급단.
 - **개념**: [CUDA](../concepts/cuda.md) — 엔비디아 소프트웨어 해자 · [CoWoS](../concepts/cowos.md) · [HBM](../concepts/hbm.md) · [SerDes](../concepts/serdes.md) · [EUV 노광](../concepts/euv-lithography.md)
 - **기업**: [엔비디아](../entities/nvidia.md) · [TSMC](../entities/tsmc.md) · [브로드컴](../entities/broadcom.md) · [마벨](../entities/marvell.md) · [DeepSeek](../entities/deepseek.md)
 - **미·중 격차**: [중국 반도체 격차 — DeepSeek V4 학습 칩](../topics/china-chip-gap-deepseek-v4.md) — 추론(화웨이) vs 사전학습(엔비디아 의존) 구분 (2026-06)
+
+---
+
+## AI 데이터센터 전력 인프라 (`domain: finance, ai`)
+
+칩이 컴퓨팅의 공급이라면, 전력은 그 칩을 돌리는 에너지의 공급. 진입점은 [AI 데이터센터 전력 인프라 종합](../syntheses/ai-datacenter-power-infrastructure.md).
+
+- **발전**: [GE Vernova](../entities/ge-vernova.md) · [두산에너빌리티](../entities/doosan-enerbility.md) · [Bloom Energy](../entities/bloom-energy.md)
+- **송·배전 전력기기**: [LS일렉트릭](../entities/ls-electric.md)
 
 ---
 

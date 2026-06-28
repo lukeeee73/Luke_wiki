@@ -1,7 +1,7 @@
 ---
 title: "Finance Domain Index"
 created: 2026-05-02
-updated: 2026-06-20
+updated: 2026-06-28
 domain: finance
 type: index
 weight: foundational
@@ -49,6 +49,7 @@ sources: []
 
 - [개인 투자자용 All Weather 변형](../syntheses/personal-all-weather-variant.md) — 레버리지 없이 4분면을 커버하는 개인용 포트폴리오
 - [반도체·AI 칩 가치사슬 종합](../syntheses/semiconductor-ai-chip-value-chain.md) — 모래에서 AI 칩까지, 어디에 협상력·마진·해자가 집중되는가 (`domain: finance, ai`)
+- [AI 데이터센터 전력 인프라 종합](../syntheses/ai-datacenter-power-infrastructure.md) — 발전(가스터빈·연료전지)~송배전(전력기기)의 병목 = 가격 결정력, 효율이 아니라 속도 (`domain: finance, ai`)
 
 ---
 
@@ -60,6 +61,16 @@ AI 반도체 투자 판단을 위한 가치사슬 지도. 진입점은 위 [종�
 - **기술/개념**: [EUV 노광(ASML)](../concepts/euv-lithography.md) · [CoWoS](../concepts/cowos.md) · [HBM](../concepts/hbm.md) · [CUDA](../concepts/cuda.md) · [SerDes](../concepts/serdes.md)
 - **소재 시장**: [폴리실리콘 — 태양광 vs 반도체 분기](../topics/polysilicon.md)
 - **미·중 격차**: [중국 반도체 격차 — ASML EUV 의혹·SMIC/화웨이·DeepSeek V4 학습 칩](../topics/china-chip-gap-deepseek-v4.md) — 추론은 화웨이로, 사전학습은 엔비디아 의존 (2026-06)
+
+---
+
+## AI 데이터센터 전력 인프라 (`domain: finance, ai`)
+
+AI 데이터센터의 전력 확보 경쟁을 발전→송배전→부하 가치사슬로 본 투자 지도. 진입점은 위 [종합 페이지](../syntheses/ai-datacenter-power-infrastructure.md).
+
+- **발전 (가스터빈)**: [GE Vernova](../entities/ge-vernova.md)(빅3 1위) · [두산에너빌리티](../entities/doosan-enerbility.md)(납기 추격자)
+- **발전 (연료전지)**: [Bloom Energy](../entities/bloom-energy.md)(SOFC, 변압기 우회)
+- **송·배전 (전력기기)**: [LS일렉트릭](../entities/ls-electric.md)(K전력기기 빅3, 국내 DC ~70%)
 
 ---
 

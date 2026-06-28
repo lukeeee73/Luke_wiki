@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 created: 2026-04-05
-updated: 2026-06-20
+updated: 2026-06-28
 tags: [index, meta]
 sources: []
 ---
@@ -89,6 +89,12 @@ sources: []
 - [마벨 (MRVL)](entities/marvell.md) — 커스텀 ASIC 설계 2위(~20~25%), 인터커넥트·광 강점
 - [DeepSeek](entities/deepseek.md) — 중국 프런티어 LLM 개발사, V4 학습 칩(H800+Ascend) 논쟁의 중심
 
+### AI 데이터센터 전력 인프라 (`domain: finance, ai`)
+- [GE Vernova](entities/ge-vernova.md) — 가스터빈 빅3 美 1위, 백로그 100GW, "진짜 병목은 터빈이 아니다"
+- [두산에너빌리티](entities/doosan-enerbility.md) — H급 가스터빈 자체개발 5번째 국가, 납기 1~2년 추격자
+- [Bloom Energy](entities/bloom-energy.md) — SOFC 연료전지, 변압기 우회로 침투
+- [LS일렉트릭](entities/ls-electric.md) — 송·배전 전력기기, 국내 DC ~70% 1위, K전력기기 빅3
+
 ---
 
 ## Topics — 주제별 요약 (`type: fact-set | claim`)
@@ -126,6 +132,7 @@ sources: []
 
 - [개인 투자자용 All Weather 변형 포트폴리오](syntheses/personal-all-weather-variant.md) — 4분면 커버리지 유지 + 레버리지 포기 + 성장↑ 약한 가중치 (2026-04)
 - [반도체·AI 칩 가치사슬 종합](syntheses/semiconductor-ai-chip-value-chain.md) — 모래에서 AI 칩까지, 협상력·마진·해자의 집중 지점 6원리 (`domain: finance, ai`) (2026-06)
+- [AI 데이터센터 전력 인프라 종합](syntheses/ai-datacenter-power-infrastructure.md) — 발전(가스터빈·연료전지)~송배전(전력기기) 병목 지도, 효율이 아니라 속도 (`domain: finance, ai`) (2026-06)
 
 ---
 
