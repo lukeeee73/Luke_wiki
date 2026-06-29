@@ -15,6 +15,30 @@ sources: []
 
 ## 2026-06-28
 
+### [INGEST] AI 데이터센터 전력 인프라 — 가스터빈·연료전지·전력기기
+
+- **작업**: AI 데이터센터 전력 인프라 연구 노트(Obsidian 형식)를 수집·정제하여 위키 통합
+- **원본 유형**: 개인 연구 노트 (Luke) — 2026-06 시점 뉴스·리서치 기반 분석
+- **생성된 파일**:
+  - `sources/ai-datacenter-power-infrastructure.md` — 원본 노트 (불변 보존, frontmatter 정규화)
+  - `wiki/syntheses/ai-datacenter-power-infrastructure.md` — 정제 종합 페이지 (`type: synthesis`, `domain: finance, ai`, `confidence: medium`)
+  - `wiki/entities/ge-vernova.md` — 가스터빈 빅3 美 1위 (`type: entity`)
+  - `wiki/entities/doosan-enerbility.md` — H급 가스터빈 납기 추격자 (`type: entity`)
+  - `wiki/entities/bloom-energy.md` — SOFC 연료전지, 변압기 우회 (`type: entity`)
+  - `wiki/entities/ls-electric.md` — 송·배전 전력기기, K전력기기 빅3 (`type: entity`)
+- **업데이트된 파일**:
+  - `wiki/index.md` — Syntheses + Entities(신규 "AI 데이터센터 전력 인프라" 클러스터) 링크 추가
+  - `wiki/domains/finance.md` — Syntheses + 신규 전력 인프라 엔티티 클러스터 추가
+  - `wiki/domains/ai.md` — AI 데이터센터 전력 인프라 섹션 추가
+- **주요 내용**:
+  1. **관통 원리**: 리드타임 = 최강 병목 = 차익거래 원천. DC는 MW당 연 $10~12M 매출 → "효율이 아니라 속도(speed to power)". 비효율적 대안(왕복엔진, Boom Supersonic 발주)까지 동원.
+  2. **가스터빈**: 빅3(GE Vernova·Siemens·Mitsubishi) ~2/3 과점, 슬롯 2030년대 초까지 매진. 진짜 병목은 OEM이 아니라 단결정 블레이드 정밀주조(PCC·Howmet, 인증 18~30개월) + 전기 설비. 두산이 납기 1~2년으로 추격.
+  3. **연료전지(SOFC)**: 무회전·무연소, 효율 50~65%. 핵심 = **변압기 우회**(DC 직접 출력 → HV/MV 변압기 불필요) = 미국 DC 율속 병목을 건너뜀. Bloom 90일 $7.65B 수주.
+  4. **전력기기**: LS일렉트릭 등 K빅3가 미국 변압기 공급부족(자급률 20%, 납기 143주) 공략. 같은 호황도 제품 믹스가 마진을 가름(HD현대 OPM 24.9% vs LS 9.2%).
+- **인식론 처리**: 작동 원리·구조적 공급부족은 `[!fact]`, 용량·점유율·수주 수치는 `[!claim]`(업계 추정·기업 발표 명시), 병목 진단·분업 판단·LS 평가는 `[!judgment]`, 수치 신뢰도 주의는 `[!opinion]`로 구분
+- **핵심 프레임**: "효율이 아니라 속도", "병목의 위치 = 가격 결정력"을 모든 전력 종목 뉴스의 1차 체크리스트로 명시 — 반도체 종합의 "곡괭이와 삽" 6원리와 자매 관계로 연결
+- **후속 추적 (Open threads)**: BTM 발표 용량 ~101GW 실현율(92%가 2025 이후 발표), 가스↔연료전지 LCOE 역전 지점, 수소 혼소 상용화, K빅3 vs 글로벌 메이저 증설 공급과잉 타이밍
+
 ### [INGEST] DSpark & Speculative Decoding
 
 - **작업**: DSpark/speculative decoding 연구 노트(Obsidian 형식)를 수집·정제하여 위키 통합

@@ -64,6 +64,15 @@ AI 칩 가치사슬 — 모델이 실제로 돌아가는 하드웨어 공급단.
 
 ---
 
+## AI 데이터센터 전력 인프라 (`domain: finance, ai`)
+
+칩이 컴퓨팅의 공급이라면, 전력은 그 칩을 돌리는 에너지의 공급. 진입점은 [AI 데이터센터 전력 인프라 종합](../syntheses/ai-datacenter-power-infrastructure.md).
+
+- **발전**: [GE Vernova](../entities/ge-vernova.md) · [두산에너빌리티](../entities/doosan-enerbility.md) · [Bloom Energy](../entities/bloom-energy.md)
+- **송·배전 전력기기**: [LS일렉트릭](../entities/ls-electric.md)
+
+---
+
 ## 관련 인물 / 조직
 
 - [Anthropic](../entities/anthropic.md)
