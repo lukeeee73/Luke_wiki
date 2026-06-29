@@ -1,7 +1,7 @@
 ---
 title: "ADBE - Adobe Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-22
+updated: 2026-06-29
 domain: finance
 type: claim
 weight: reference
@@ -28,10 +28,12 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-06-15**: CFO 공백 상태에서 신임 CFO 선임이 90일 이내 완료되어 경영 안정성 회복될 것 (pending — Steve Day 임시 CFO 선임, 정규 CFO 미확정)
+- [ ] **2026-06-15**: CFO 공백 상태에서 신임 CFO 선임이 90일 이내 완료되어 경영 안정성 회복될 것 (pending — Steve Day 임시 CFO 선임, 정규 CFO 미확정) (pending 2026-06-29: 정규 CFO 선임 소식 없음 — 경영진 교체 불확실성 리스크로 지속 언급)
 - [x] **2026-06-15**: A.J. 버튼 매수 상향 + 가이던스가 주가 반등 지속의 근거가 될 것 (**partially refuted** 2026-06-22: Citi 목표가 $228 하향 등 다운그레이드 지속으로 반등 지속 근거 약화 — 단 Firefly 제품 확장은 긍정)
-- [ ] **2026-06-22**: Firefly 크리에이티브 에이전트 확장이 AI ARR 성장 가속·구독 이탈 방지로 이어질지 (7일 검증 대기)
-- [ ] **2026-06-22**: CEO·CFO 동시 리더십 공백이 실행 리스크로 주가에 추가 부담을 줄지 (7일 검증 대기)
+- [ ] **2026-06-22**: Firefly 크리에이티브 에이전트 확장이 AI ARR 성장 가속·구독 이탈 방지로 이어질지 (7일 검증 대기) (pending 2026-06-29: 6/18 크리에이티브 에이전트 추가 확대·6/16 디즈니 Firefly Foundry 협업으로 제품 모멘텀 지속 — ARR 영향 데이터는 미확정)
+- [ ] **2026-06-22**: CEO·CFO 동시 리더십 공백이 실행 리스크로 주가에 추가 부담을 줄지 (7일 검증 대기) (pending 2026-06-29: 강한 Q2 실적에도 디레이팅 지속·약세 옵션 활동 증가로 부담 신호 — 인과 단정 어려움)
+- [ ] **2026-06-29**: Topaz Labs 인수가 연말 마감 후 Firefly의 AI 업스케일·복원 경쟁력을 강화할지 (7일 검증 대기)
+- [ ] **2026-06-29**: 생성형 AI(MSFT Copilot·Canva) 잠식 우려에 따른 구조적 디레이팅이 펀더멘털 견조에도 지속될지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -57,6 +59,33 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-29
+
+**narrative_score**: +0.15
+**key_events**: Topaz Labs 인수 합의(6/25, AI 업스케일·복원 기술 확보) · Firefly·Creative Cloud 크리에이티브 에이전트 대폭 확대(6/18) · 디즈니 이매지니어링과 Firefly Foundry 협업(6/16) · Q2 매출 $66.2억(+13% YoY)·EPS $5.96 상회 및 연간 가이던스 상향
+**risks**: 생성형 AI(MSFT Designer/Copilot, OpenAI, Canva)의 Creative Cloud 핵심 잠식 우려 · CFO(Dan Durn) 이탈 및 CEO 승계 등 경영진 교체 불확실성 · 강한 실적에도 주가 하락 — 구조적 디레이팅 지속 리스크
+
+> [!claim] (출처: TechCrunch, 2026-06-25) Adobe to Acquire Topaz Labs to Boost AI Image/Video Enhancement
+> 어도비, AI 이미지·영상 향상 기업 Topaz Labs 인수 합의 (연말 마감 예정). impact: + / category: m&a
+
+> [!claim] (출처: Adobe Newsroom, 2026-06-18) Adobe Unveils Major Expansion of Creative Agent Across Firefly and Creative Cloud
+> Firefly·Creative Cloud 전반에 대화형 AI 크리에이티브 에이전트 대폭 확대. impact: + / category: product
+
+> [!claim] (출처: Adobe Newsroom, 2026-06-16) Adobe and Disney Imagineering Collaborate on Firefly Foundry
+> 디즈니 이매지니어링과 협업, Firefly Foundry로 테마파크 설계 파이프라인 지원. impact: + / category: product
+
+> [!claim] (출처: Yahoo Finance, 2026-06-26) Adobe Stock Poised for 35% Rebound Despite Recent Selloff
+> Q2 기록적 매출에도 AI 잠식 우려로 디레이팅, 애널리스트는 35% 반등 여지 제시. impact: neutral / category: earnings
+
+> [!claim] (출처: GuruFocus, 2026-06-26) Adobe (ADBE) Sees Increased Bearish Options Activity
+> 생성형 AI 경쟁 우려 속 ADBE 약세 옵션 활동 증가. impact: - / category: other
+
+**경쟁사 동향**:
+- MSFT: Microsoft Designer 확대 및 Copilot-Canva 통합으로 AI 디자인 진입 강화 (2026-06) — Copilot이 Canva·Adobe를 오케스트레이션하는 허브로 자리잡아 보급형 크리에이티브 시장에서 어도비 압박 가능
+- CRM: Salesforce Summer '26, Agentforce 마케팅 에이전트·Brand Center GA로 콘텐츠 자동화 확대 — 마케팅 콘텐츠 제작 자동화 경쟁 심화로 어도비 Express/마케팅 클라우드 영역과 일부 중첩
+
+---
 
 ### 2026-06-22
 

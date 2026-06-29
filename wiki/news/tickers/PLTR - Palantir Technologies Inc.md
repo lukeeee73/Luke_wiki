@@ -1,7 +1,7 @@
 ---
 title: "PLTR - Palantir Technologies Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-22
+updated: 2026-06-29
 domain: finance
 type: claim
 weight: reference
@@ -28,10 +28,12 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-05-18**: 초고 선행 PER(약 88배) → 밸류에이션 압박 (pending — 주가 -4.32%, YTD -24%로 부분 조정됐으나 고밸류 지속)
+- [ ] **2026-05-18**: 초고 선행 PER(약 88배) → 밸류에이션 압박 (pending — 주가 -4.32%, YTD -24%로 부분 조정됐으나 고밸류 지속) (verified 2026-06-29: 'SaaSpocalypse' 고밸류 소프트웨어 매도세로 YTD -40% 급락, 52주 최고가 대비 ~44%↓ — 밸류에이션 압박 현실화)
 - [x] **2026-06-15**: 6/15 +5.2% 반등이 추세 전환점인지 단기 기술적 반등인지 (**refuted** 2026-06-22: 6/22 -4.32%, YTD -24% — 추세 전환 아닌 기술적 반등으로 확인)
-- [ ] **2026-06-15**: 구글 클라우드·GNP·McCarthy 파트너십이 민간 AIP 확산 가속 신호인지 (pending — 6/22까지 신규 민간 수주 데이터 없음)
-- [ ] **2026-06-22**: 영국 NHS FDP·Met Police 등 공공계약 역풍이 정부 매출 성장에 실질 제약을 가할지 (7일 검증 대기)
+- [ ] **2026-06-15**: 구글 클라우드·GNP·McCarthy 파트너십이 민간 AIP 확산 가속 신호인지 (pending — 6/22까지 신규 민간 수주 데이터 없음) (pending 2026-06-29: Surf Air SurfOS 상용화 확대·엔비디아 주권 AI 엔진 발표로 파트너십 모멘텀 지속되나 재무 조건 비공개로 매출 기여 미확인)
+- [ ] **2026-06-22**: 영국 NHS FDP·Met Police 등 공공계약 역풍이 정부 매출 성장에 실질 제약을 가할지 (7일 검증 대기) (pending 2026-06-29: 6/29 뉴스에 영국 공공계약 후속 보도 없음 — 검증 미완)
+- [ ] **2026-06-29**: 엔비디아 Nemotron 기반 정부용 주권 AI 엔진이 PLTR 연방 매출 모멘텀을 오라클·IBM 경쟁 진입에도 방어할지 (7일 검증 대기)
+- [ ] **2026-06-29**: 'SaaSpocalypse' 매크로 매도세가 일시적 조정인지 고밸류 소프트웨어의 구조적 디레이팅인지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -55,6 +57,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-29
+
+**narrative_score**: +0.27
+**key_events**: 6/29 엔비디아 Nemotron 오픈모델 기반 정부용 주권 AI 엔진 출시(AIP·Ontology·Foundry·Apollo 결합) · 6/29 Surf Air Mobility와 SurfOS(OperatorOS·OwnerOS·Enterprise) 상용화 가속 협력 확대 · Q1 2026 매출 16.3억 달러(+85% YoY), 미국 상업 +133%, GAAP 영업이익률 46% · 두 AI 계약 발표로 주가 3.1% 반등했으나 6월은 사상 최악의 월
+**risks**: 고밸류에이션 소프트웨어 전반의 'SaaSpocalypse' 매도세로 주가 변동성 극심(연초 대비 -40%) · 오라클·IBM 등 경쟁사의 연방 AI 데이터 플랫폼 진입으로 정부 매출 경쟁 심화 · 52주 최고가($207) 대비 ~44% 하락, $100 지지선 이탈 우려 · 신규 AI 계약 다수가 재무 조건 비공개로 매출 기여 불확실
+
+> [!claim] (출처: NVIDIA Blog, 2026-06-29) Palantir Launches Engine for Deploying NVIDIA Nemotron Open Models in Sovereign Environments
+> 엔비디아와 협력해 미 정부용 주권 AI 엔진 출시, AIP·Foundry 결합. impact: + / category: product
+
+> [!claim] (출처: BusinessWire, 2026-06-29) Palantir and Surf Air Mobility Expand Partnership to Accelerate Commercialization of OperatorOS, OwnerOS, and Enterprise Products
+> Surf Air과 협력 확대, SurfOS 항공 소프트웨어 상용화 가속. impact: + / category: product
+
+> [!claim] (출처: StockStory, 2026-06-29) Why Palantir Technologies (PLTR) Stock Is Trading Up Today
+> 두 건의 AI 계약 발표로 주가 3.1% 반등, 그러나 6월은 최악의 월. impact: + / category: other
+
+> [!claim] (출처: Yahoo Finance, 2026-06-26) Palantir Is Down 6% Today and 40% in 2026. Will It Break Below $100 Next?
+> 소프트웨어·AI 매도세('SaaSpocalypse') 속 연초 대비 40% 급락. impact: - / category: macro
+
+**경쟁사 동향**:
+- ORCL: Oracle Unveils AI Data Platform for US Federal Government — 정부 AI 데이터 플랫폼 경쟁 심화, PLTR Foundry/AIP의 연방 시장 입지에 압박 요인
+- IBM: IBM, 정부 계약 입찰 분쟁(bid protest) 제기 후 철회 — 연방 IT 현대화 수주 경쟁 지속, PLTR의 정부 매출 우위는 당분간 유지 전망
+
+---
 
 ### 2026-06-22
 

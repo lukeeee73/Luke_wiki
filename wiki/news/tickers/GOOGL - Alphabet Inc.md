@@ -1,7 +1,7 @@
 ---
 title: "GOOGL - Alphabet Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-22
+updated: 2026-06-29
 domain: finance
 type: claim
 weight: reference
@@ -29,9 +29,11 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-06-15**: 6/15 +3.19% 급등이 AI 모멘텀 재평가인지 배당 기술적 반등인지 (**refuted** 2026-06-22: 이후 주가 약세·연속 하락 지속으로 추세 전환 아님 — 기술적 반등 쪽 확인)
-- [ ] **2026-06-15**: $80B 유상증자 희석이 주주 환원 지속성에 실질 영향을 줄 것 (pending — 약 $85B AI 인프라 자본조달 진행 중)
-- [ ] **2026-06-22**: 청소년 SNS 중독 소송 재심 기각이 추가 손해배상·유사 소송 확산으로 이어질지 (7일 검증 대기)
-- [ ] **2026-06-22**: HSBC-Google Cloud Gemini 제휴가 GCP 금융 엔터프라이즈 수주 확대의 신호인지 (7일 검증 대기)
+- [ ] **2026-06-15**: $80B 유상증자 희석이 주주 환원 지속성에 실질 영향을 줄 것 (pending 2026-06-29: Alphabet IR가 ~$80B 규모 주식 발행을 AI 컴퓨트 인프라 목적으로 재확인 — 희석 영향은 미확정, 계속 추적)
+- [ ] **2026-06-22**: 청소년 SNS 중독 소송 재심 기각이 추가 손해배상·유사 소송 확산으로 이어질지 (pending 2026-06-29: 오늘 뉴스에 신규 전개 없음 — 검증 대기 지속)
+- [ ] **2026-06-22**: HSBC-Google Cloud Gemini 제휴가 GCP 금융 엔터프라이즈 수주 확대의 신호인지 (pending 2026-06-29: 오늘 뉴스에 후속 수주 보도 없음 — 검증 대기 지속)
+- [ ] **2026-06-29**: 다우 편입·러셀 100% 성장주 재분류 발 상승이 수급성 일회성이 아니라 추세 전환으로 이어질지 (7일 검증 대기)
+- [ ] **2026-06-29**: Shazeer·Jumper 등 핵심 AI 연구자 이탈이 제미나이 로드맵·경쟁력에 실질 차질을 줄지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -53,6 +55,9 @@ sources: []
 
 > [!fact] (HSBC IR + 다수 매체, 2026-06-17) HSBC-Google Cloud, Gemini 기반 멀티이어 AI 뱅킹 제휴
 > 200+ 사용사례·$100M+ 기대효과. GCP 금융 엔터프라이즈 입지 강화.
+
+> [!fact] (Alphabet IR + Yahoo Finance, 2026-06-29) Alphabet 다우 편입 + 약 $80B 주식 발행
+> 알파벳, 버라이즌 대체해 다우존스 산업평균지수 편입(첫날 약 +3.7%). Alphabet IR 공시로 AI 컴퓨트 인프라 자금 조달용 약 $80B 규모 주식 발행 확정.
 <!-- FACTS_END -->
 
 ---
@@ -60,6 +65,33 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-29
+
+**narrative_score**: +0.07
+**key_events**: 6/29 다우존스 산업평균지수 편입 첫날 약 3.7% 상승 · 6/29(장후) FTSE 러셀 100% 성장주 재분류 · 6/23경 Shazeer·Jumper 등 핵심 AI 연구자 OpenAI·Anthropic 이탈 · 6월 말 EU DMA 기반 제미나이·안드로이드 경쟁사 개방 명령 · AI 컴퓨트 인프라 위한 약 800억 달러 주식 발행 발표
+**risks**: EU(DMA)·UK 등 규제 강화로 제미나이·검색 사업 모델 제약 가능성 · 핵심 AI 인재 이탈에 따른 제미나이 경쟁력·로드맵 차질 우려 · 연 1750~1850억 달러 캐펙스의 단기 현금흐름·수익성 부담 · 인덱스 편입 발 상승은 수급성 일회성 요인일 수 있음
+
+> [!claim] (출처: Yahoo Finance, 2026-06-29) Alphabet joins Dow Jones Industrial Average, shares rise ~3.7%
+> 알파벳, 버라이즌 대체해 다우 편입 첫날 약 3.7% 상승. impact: + / category: other
+
+> [!claim] (출처: LSEG, 2026-06-29) FTSE Russell reclassifies Alphabet as 100% pure growth stock (June 2026 reconstitution)
+> 러셀 리밸런싱서 가치주→100% 성장주 분류, 기관 매수세 유입. impact: + / category: other
+
+> [!claim] (출처: Fortune, 2026-06-23) Google loses two top AI researchers (Shazeer, Jumper) to OpenAI & Anthropic
+> 제미나이·알파폴드 핵심 연구자 이탈, 인재 유출 우려. impact: - / category: other
+
+> [!claim] (출처: RTTNews, 2026-06-25) EU tells Google to open Gemini, Android features to AI rivals under DMA
+> EU, DMA 근거로 제미나이·안드로이드 기능을 경쟁사에 개방 요구. impact: - / category: regulation
+
+> [!claim] (출처: Alphabet IR, 2026-06-23) Alphabet announces ~$80B equity offering to fund AI compute infrastructure
+> AI 인프라 투자 위해 약 800억 달러 규모 주식 발행 추진. impact: neutral / category: other
+
+**경쟁사 동향**:
+- META: Meta weighs tens-of-billions equity offering, triggering Big Tech stock-sale chain reaction — 대규모 AI 자본조달 경쟁 심화 — 알파벳의 800억 증자도 같은 맥락, 캐펙스 부담 공통
+- MSFT: Big Tech 2026 capex swells to ~$725B; Microsoft ~$190B, Amazon ~$200B, Alphabet ~$175-185B — 전방위 AI 투자 경쟁으로 단기 현금흐름 압박은 공통이나 클라우드·광고 수익화 입증이 차별화 관건
+
+---
 
 ### 2026-06-22
 

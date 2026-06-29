@@ -37,16 +37,16 @@ sources: []
 
 | Ticker                                          | as_of      | score  | 핵심 한 줄                                         | open claims |
 | ----------------------------------------------- | ---------- | ------ | ----------------------------------------------- | ----------- |
-| [AAPL](tickers/AAPL - Apple Inc.md)                     | 2026-06-22 | -0.14  | 쿡 "메모리 비용發 가격 인상 불가피", 애플-인텔 미국 칩 생산 협력 (마진 우려) | 4           |
-| [MSFT](tickers/MSFT - Microsoft Corporation.md)         | 2026-06-22 | -0.23  | Copilot 성과 과장 증권 집단소송 + EU DMA 클라우드 압박, Cowork 과금 출시 | 2           |
-| [GOOGL](tickers/GOOGL - Alphabet Inc.md)                | 2026-06-22 | +0.00  | 청소년 SNS 중독 소송 재심 기각(책임 확정), HSBC Gemini 제휴, $85B 자본조달   | 3           |
-| [AMZN](tickers/AMZN - Amazon.com Inc.md)                | 2026-06-22 | +0.06  | FTC 광고 소송 초안 + EU DMA 압박, Trainium 외부 판매, 프라임데이 6/23~26   | 3           |
-| [META](tickers/META - Meta Platforms Inc.md)            | 2026-06-22 | +0.23  | Crusoe 1.6GW AI 전력 계약, AI 임원 사임, 애널리스트 강세 유지(저평가)   | 3           |
-| [ORCL](tickers/ORCL - Oracle Corporation.md)            | 2026-06-22 | +0.17  | RPO $638B(+363%) 기록, $40B 자금조달·마이너스 FCF 우려, MS 계약 결렬 보도 | 3           |
-| [CRM](tickers/CRM - Salesforce, Inc.md)                 | 2026-06-22 | +0.09  | Fin $36억 인수 본계약, Q1 EPS +50%, 'SaaS 종말론'에 사상 최장 연속 하락 | 3           |
-| [ADBE](tickers/ADBE - Adobe Inc.md)                     | 2026-06-22 | +0.19  | Firefly 에이전트 확장, Q2 비트+가이던스 상향, Citi $228 하향, CFO 공백 | 3           |
-| [IBM](tickers/IBM - International Business Machines.md) | 2026-06-22 | +0.10  | 美 첫 양자 파운드리($10억 CHIPS) 공식화, ServiceNow 협력, ACN發 IT서비스 급락 | 1           |
-| [PLTR](tickers/PLTR - Palantir Technologies Inc.md)     | 2026-06-22 | +0.12  | Wolfe 상향(Peer Perform), 英 NHS·경찰 계약 역풍, -4.32%·YTD -24% (고밸류) | 3           |
+| [AAPL](tickers/AAPL - Apple Inc.md)                     | 2026-06-29 | -0.23  | 메모리 부족發 맥·아이패드 가격 인상에 1년래 최악 급락, 中 sell-in -19%, Counterpoint 점유율 사상최고 전망 | 3           |
+| [MSFT](tickers/MSFT - Microsoft Corporation.md)         | 2026-06-29 | +0.14  | 셰브론 20년 AI 전력계약(2.67GW), 버리 강세 베팅에 +5.7%, FTC Azure·Copilot 반독점 조사 | 4           |
+| [GOOGL](tickers/GOOGL - Alphabet Inc.md)                | 2026-06-29 | +0.07  | 다우 편입·러셀 100% 성장주 재분류로 +3.7%, 핵심 AI 연구자 이탈, EU DMA 제미나이 개방 명령   | 5           |
+| [AMZN](tickers/AMZN - Amazon.com Inc.md)                | 2026-06-29 | +0.31  | AWS GPU 가격 +20%(연 3회), 프라임데이 美온라인 +9.3%($26.4B), 시총 3조달러 기대   | 4           |
+| [META](tickers/META - Meta Platforms Inc.md)            | 2026-06-29 | +0.14  | 칸 라이언즈 AI 광고툴·Brand Memory, CRED 9억달러 투자, 구글 Gemini 접근 제한   | 4           |
+| [ORCL](tickers/ORCL - Oracle Corporation.md)            | 2026-06-29 | +0.13  | RPO $638B·OCI +93%에도 부채 1300억·FCF 우려로 2001년래 최악 주간(-19%), AI 감원 2.1만명 | 4           |
+| [CRM](tickers/CRM - Salesforce, Inc.md)                 | 2026-06-29 | +0.20  | Agentforce ARR 12억달러(+205%)·Fin 36억달러 인수, 실적 후 -15%·3차 감원 | 5           |
+| [ADBE](tickers/ADBE - Adobe Inc.md)                     | 2026-06-29 | +0.15  | Topaz Labs 인수·Firefly 에이전트 확대, Q2 비트에도 AI 잠식 우려로 디레이팅 | 5           |
+| [IBM](tickers/IBM - International Business Machines.md) | 2026-06-29 | +0.20  | 세계 첫 0.7nm 나노스택 칩 공개(성능+50%), ServiceNow·OpenAI 협력, +4.91% | 3           |
+| [PLTR](tickers/PLTR - Palantir Technologies Inc.md)     | 2026-06-29 | +0.27  | 엔비디아 Nemotron 주권 AI 엔진·Surf Air 확대, 'SaaSpocalypse'에 YTD -40% | 4           |
 
 ### 반도체
 
