@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 created: 2026-04-05
-updated: 2026-06-28
+updated: 2026-06-29
 tags: [index, meta]
 sources: []
 ---
@@ -62,6 +62,7 @@ sources: []
 - [CoWoS](concepts/cowos.md) — TSMC 2.5D 첨단 패키징, AI 칩 공급의 실질 병목
 - [HBM](concepts/hbm.md) — 고대역폭 적층 메모리, '곡괭이와 삽'의 메모리 축
 - [CUDA](concepts/cuda.md) — 엔비디아의 소프트웨어 해자, GPU/ASIC 분업의 경계선
+- [LLM 서빙 스택 — 계층 구조](concepts/llm-serving-stack.md) — 하드웨어→플랫폼(CUDA/ROCm)→커널→서빙엔진 6계층, NVIDIA 해자 vs AMD 추격
 - [SerDes](concepts/serdes.md) — 초고속 인터커넥트 IP, ASIC 설계 시장의 진입 장벽
 
 ### Design

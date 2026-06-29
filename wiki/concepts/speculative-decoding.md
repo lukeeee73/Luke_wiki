@@ -176,7 +176,7 @@ flowchart TB
 
 ## 8. 관련 노트
 
-**개념 / 하드웨어**: [HBM](hbm.md) · [CoWoS](cowos.md) · [CUDA](cuda.md) · [Muon Optimizer](muon-optimizer.md)
+**개념 / 하드웨어**: [HBM](hbm.md) · [CoWoS](cowos.md) · [CUDA](cuda.md) · [LLM 서빙 스택 — 계층 구조](llm-serving-stack.md) · [Muon Optimizer](muon-optimizer.md)
 
 **엔티티**: [DeepSeek](../entities/deepseek.md) · [엔비디아 (NVIDIA)](../entities/nvidia.md)
 

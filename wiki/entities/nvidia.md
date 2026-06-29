@@ -36,4 +36,5 @@ AI 가속기(GPU) 시장의 지배적 팹리스. GPU를 **설계**만 하고 제
 
 - [반도체·AI 칩 가치사슬 종합](../syntheses/semiconductor-ai-chip-value-chain.md) §3
 - [CUDA](../concepts/cuda.md) — 소프트웨어 해자
+- [LLM 서빙 스택 — 계층 구조](../concepts/llm-serving-stack.md) — CUDA vs ROCm, 스택 성숙도가 가르는 NVIDIA 해자 vs AMD 추격
 - [TSMC](tsmc.md) · [브로드컴](broadcom.md) · [마벨](marvell.md)
