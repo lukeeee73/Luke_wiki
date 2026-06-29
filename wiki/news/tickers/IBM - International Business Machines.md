@@ -1,7 +1,7 @@
 ---
 title: "IBM - International Business Machines — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-22
+updated: 2026-06-29
 domain: finance
 type: claim
 weight: reference
@@ -30,7 +30,9 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-06-15**: ATH $329 대비 -17% 조정이 재진입 기회인지 추가 하락 예고인지 (**partially verified** 2026-06-22: ACN 가이던스 충격·Fed 매파로 추가 조정(고점 대비 ~22%) — 단기 추가 하락 쪽 확인)
 - [x] **2026-06-15**: Anderon 양자칩 파운드리($10억 공동출자)가 IBM-미국 정부 AI 인프라 협력으로 이어질 것 (**verified** 2026-06-22: 美 상무부 공동 '첫 목적형 양자 파운드리'($10억 CHIPS) 공식 발표 확인)
-- [ ] **2026-06-22**: Accenture 가이던스 하향(IT서비스 수요 둔화)이 IBM 컨설팅 부문 실적 약화로 전이될지 (7일 검증 대기)
+- [ ] **2026-06-22**: Accenture 가이던스 하향(IT서비스 수요 둔화)이 IBM 컨설팅 부문 실적 약화로 전이될지 (7일 검증 대기) (pending 2026-06-29: ACN Q3 FY26 매출 +6%이나 신규 수주 감소(193억$) — IT 컨설팅 둔화 신호 지속, IBM 전이 여부는 IBM 자체 실적 미확인으로 계속 대기)
+- [ ] **2026-06-29**: 세계 최초 0.7nm 나노스택 칩 공개가 단기 주가 모멘텀을 넘어 실질 실적·제조 파트너 확보로 이어질지 (상용화 5년 전망) (7일 검증 대기)
+- [ ] **2026-06-29**: ServiceNow·OpenAI(Daybreak) AI 파트너십 확대와 JPMorgan 목표가 상향이 하반기 Red Hat·OpenShift 소프트웨어 가속 실적으로 확인될지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -52,6 +54,9 @@ sources: []
 
 > [!fact] (IBM Newsroom + 美 상무부, 2026-05-21 발표·6월 진행) 美 첫 목적형 양자 파운드리(뉴욕 알바니) 설립 — 약 $10억 CHIPS 지원
 > IBM-미국 정부 양자/AI 인프라 협력 공식화.
+
+> [!fact] (IBM Newsroom + TechTimes, 2026-06-25) IBM 세계 최초 sub-1nm(0.7nm 나노스택) 칩 기술 공개
+> 2nm 대비 성능 50%·효율 70% 향상, 손톱 크기에 트랜지스터 약 1000억개. 상용화는 약 5년 후 전망으로 단기 실적 기여는 제한적.
 <!-- FACTS_END -->
 
 ---
@@ -59,6 +64,33 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-29
+
+**narrative_score**: +0.20
+**key_events**: 6/25 세계 최초 0.7nm 나노스택 칩 기술 공개 (2nm 대비 성능 50%/효율 70% 향상) · ServiceNow 협업 확대 및 OpenAI Daybreak 사이버 파트너 프로그램 참여 · JPMorgan, 하반기 Red Hat·OpenShift 가속 근거 목표가 상향 · 6/26 주가 4.91% 상승
+**risks**: 0.7nm 칩 상용화 5년 소요·제조 파트너 미확보로 단기 실적 무관 · 6월 초 고점 대비 20% 이상 조정(양자 파운드리 낙관론 후퇴) · Oracle OCI 급성장·Accenture 수주 둔화 등 컨설팅·클라우드 경쟁 압력
+
+> [!claim] (출처: IBM Newsroom, 2026-06-25) IBM debuts world's first sub-1 nanometer chip technology (0.7nm nanostack)
+> 0.7nm 나노스택 칩 공개, 2nm 대비 성능 50%·효율 70% 향상. impact: + / category: product
+
+> [!claim] (출처: TechTimes, 2026-06-25) IBM Unveils the World's First Sub-1-Nanometer Chip Technology
+> 손톱 크기에 트랜지스터 약 1000억개, 상용화는 5년 후 전망. impact: neutral / category: product
+
+> [!claim] (출처: TradingKey, 2026-06-26) IBM stock moved up 4.91% on Jun 26 amid AI partnership momentum
+> 6월 26일 주가 4.91% 상승, AI 파트너십 기대 반영. impact: + / category: other
+
+> [!claim] (출처: StocksToTrade, 2026-06-23) IBM extends AI partnerships (ServiceNow, OpenAI) as stock holds key support
+> ServiceNow 협업 확대·OpenAI Daybreak 보안 프로그램 참여. impact: + / category: product
+
+> [!claim] (출처: TheStreet, 2026-06-24) IBM stock gets new price target from Wall Street
+> JPMorgan, 하반기 Red Hat·OpenShift 소프트웨어 가속 기대로 목표가 상향. impact: + / category: earnings
+
+**경쟁사 동향**:
+- ACN: Accenture Q3 FY26 매출 6% 성장했으나 신규 수주는 감소(193억$), AI 수요는 견조 — IT 컨설팅 수주 둔화는 IBM 컨설팅에도 동일한 역풍 신호
+- ORCL: Oracle Q3 FY26 클라우드 인프라 매출 84% 급증, OpenAI 등 AI 인프라 수주 확대 — ORCL의 OCI 공세로 IBM 하이브리드 클라우드 경쟁 압력 가중
+
+---
 
 ### 2026-06-22
 

@@ -1,7 +1,7 @@
 ---
 title: "CRM - Salesforce, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-22
+updated: 2026-06-29
 domain: finance
 type: claim
 weight: reference
@@ -28,9 +28,11 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-06-15**: $36억 Fin 인수가 AI 고객 서비스 CRM 시장 점유율 5%p 이상 확대할 것 (pending — Fin 본계약 체결 확정, 점유율 영향은 미확인)
-- [ ] **2026-06-15**: Contentful·Fin·M3ter 3건 동시 인수 통합 리스크가 FY27 마진에 가시적 영향을 줄 것 (pending — 6/22까지 마진 데이터 없음)
-- [ ] **2026-06-22**: 'SaaS 종말론'(AI 에이전트의 구독모델 잠식 공포)이 CRM 펀더멘털 둔화로 실증될지, 과도한 공포인지 (7일 검증 대기)
+- [ ] **2026-06-15**: $36억 Fin 인수가 AI 고객 서비스 CRM 시장 점유율 5%p 이상 확대할 것 (pending — Fin 본계약 체결 확정, 점유율 영향은 미확인) (pending 2026-06-29: Summer '26 멀티에이전트·Tableau MCP로 제품 라인 강화 확인됐으나 점유율 데이터 여전히 부재)
+- [ ] **2026-06-15**: Contentful·Fin·M3ter 3건 동시 인수 통합 리스크가 FY27 마진에 가시적 영향을 줄 것 (pending — 6/22까지 마진 데이터 없음) (pending 2026-06-29: 3차 감원 단행으로 구조조정 압박 시사되나 마진 수치 직접 확인 안 됨)
+- [ ] **2026-06-22**: 'SaaS 종말론'(AI 에이전트의 구독모델 잠식 공포)이 CRM 펀더멘털 둔화로 실증될지, 과도한 공포인지 (7일 검증 대기) (pending 2026-06-29: 주가 실적 후 약 15% 하락하나 Agentforce ARR +205% 성장은 펀더멘털 견조 — 공포/실증 판별 아직 미완)
+- [ ] **2026-06-29**: 실적 후 약 15% 하락에도 골든크로스 발생 — 단기 반등(기술적 매수신호)이 실현될 것 (7일 검증 대기)
+- [ ] **2026-06-29**: MSFT Copilot·SAP Joule 연합의 에이전트 공세가 Agentforce ARR 성장률 둔화로 이어질 것 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -59,6 +61,33 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-29
+
+**narrative_score**: +0.2
+**key_events**: Fin 약 36억달러 인수 합의(6/15) · Summer '26 릴리스: Agentforce 멀티에이전트·Tableau MCP(6/15) · Agentforce ARR 12억달러 돌파(+205% YoY), 동시 감원 · 애널 Buy 컨센서스 유지·목표가 약 260달러
+**risks**: 실적 후 주가 약 15% 하락 등 모멘텀 약세 · MSFT Copilot·SAP Joule 등 엔터프라이즈 AI 에이전트 경쟁 심화 · Fin 인수 규제 승인 및 통합 리스크 · 반복되는 감원이 시사하는 성장 둔화·구조조정 압박
+
+> [!claim] (출처: StockTitan, 2026-06-15) Salesforce signs definitive agreement to acquire Fin for ~$3.6B
+> AI 고객지원사 Fin 약 36억달러 인수, FY27 4분기 종료 예상. impact: + / category: m&a
+
+> [!claim] (출처: ACTGSYS, 2026-06-15) Salesforce Summer '26 release: Agentforce goes multi-agent, Tableau MCP
+> 멀티에이전트 오케스트레이션·Help Agent·Tableau MCP 공개. impact: + / category: product
+
+> [!claim] (출처: Enterprise DNA, 2026-06-24) Agentforce hits $1.2B ARR (+205% YoY); Salesforce cuts jobs again
+> Agentforce ARR 12억달러 돌파, 동시에 3차 감원 단행. impact: neutral / category: product
+
+> [!claim] (출처: Yahoo Finance, 2026-06-25) CRM holds Buy consensus (~$260 PT) but stock down ~15% post-earnings
+> 애널 33인 Buy·목표 약 260달러, 주가는 158달러로 약세. impact: neutral / category: other
+
+> [!claim] (출처: MarketBeat, 2026-06-26) Salesforce stock flashes bullish moving-average crossover buy signal
+> 기술적 골든크로스 발생, 단기 반등 기대 부각. impact: + / category: other
+
+**경쟁사 동향**:
+- MSFT: Microsoft pushes Copilot/Azure as enterprise AI 'control plane' for agents — 코파일럿 에이전트 통합 가속, CRM의 Agentforce 점유 경쟁 심화
+- SAP: SAP Joule + Microsoft Copilot agentic interoperability (Sapphire 2026) — SAP·MS 연합으로 엔터프라이즈 에이전트 진영 압박, CRM 차별화 부담
+
+---
 
 ### 2026-06-22
 

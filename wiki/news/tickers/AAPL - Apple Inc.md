@@ -1,7 +1,7 @@
 ---
 title: "AAPL - Apple Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-22
+updated: 2026-06-29
 domain: finance
 type: claim
 weight: reference
@@ -29,9 +29,11 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [ ] **2026-06-01**: 존 테르누스 CEO 교체로 제품 전략 연속성 유지 여부 (**aged-out** 2026-06-22: 21일 내 신임 CEO 공식 발표 미확인)
-- [ ] **2026-06-15**: 시리 AI 베타 미국 한정 출시 — EU·중국 확대 일정 및 실제 AI 수익화 시점 (pending — 6/22까지 EU·중국 출시 일정 추가 발표 없음)
-- [ ] **2026-06-22**: 메모리(DRAM) 가격 급등이 애플 기기 가격 인상·하드웨어 마진 압박으로 실증될지 (7일 검증 대기)
-- [ ] **2026-06-22**: 애플-인텔 미국 칩 생산 협력이 실제 공급망 다변화·관세 리스크 완화로 구체화될지 (7일 검증 대기)
+- [ ] **2026-06-15**: 시리 AI 베타 미국 한정 출시 — EU·중국 확대 일정 및 실제 AI 수익화 시점 (pending — 6/22까지 EU·중국 출시 일정 추가 발표 없음) (**aged-out** 2026-06-29: 14일 경과, EU·중국 출시 일정 미확인. 6/27 Gemini 기반 새 Siri 보도뿐 지역 확대 무소식)
+- [ ] **2026-06-22**: 메모리(DRAM) 가격 급등이 애플 기기 가격 인상·하드웨어 마진 압박으로 실증될지 (7일 검증 대기) (**verified** 2026-06-29: 6/25 맥·아이패드 가격 인상 단행, 주가 6% 급락 — CNBC·Bloomberg 동시 보도로 마진 우려 실증)
+- [ ] **2026-06-22**: 애플-인텔 미국 칩 생산 협력이 실제 공급망 다변화·관세 리스크 완화로 구체화될지 (7일 검증 대기) (pending — 6/29까지 협력 구체화·후속 발표 없음)
+- [ ] **2026-06-29**: 중국 아이폰 sell-in 19% YoY 급감이 다음 분기 실적·중국 매출 둔화로 확인될지 (7일 검증 대기)
+- [ ] **2026-06-29**: 메모리 원가 상승發 가격 인상이 하반기 판매량 둔화로 이어질지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -50,6 +52,9 @@ sources: []
 
 > [!fact] (MacRumors + Dataconomy, 2026-06-17~22) Tim Cook, 메모리 비용發 기기 가격 인상 '불가피' 공식 발언
 > AI 수요發 DRAM 부족을 '100년 만의 홍수'로 표현. 하드웨어 마진 압박 신호.
+
+> [!fact] (CNBC + Bloomberg, 2026-06-25) 메모리칩 부족發 맥·아이패드 가격 인상 단행, 주가 6% 급락
+> AI 데이터센터발 DRAM 수요 급증에 따른 원가를 가격에 전가. 1년여 만에 최악의 하루 하락으로 마진 우려 현실화.
 <!-- FACTS_END -->
 
 ---
@@ -57,6 +62,33 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-29
+
+**narrative_score**: -0.23
+**key_events**: 6/25 맥·아이패드·비전프로 가격 인상, 주가 6% 급락 · 메모리칩 부족 — AI 데이터센터 수요 급증이 원인 · 5월 중국 아이폰 sell-in 19% YoY 감소(UBS) · Counterpoint 2026 점유율 사상최고 전망(스마트폰 25%) · Gemini 기반 새 Siri 등 Apple Intelligence 본격화
+**risks**: 메모리 원가 상승에 따른 마진 압박 및 추가 가격 인상 가능성 · 중국 수요 부진과 화웨이의 프리미엄 점유율 잠식 · AI 핵심 역량을 구글 Gemini에 의존하는 자립도 리스크 · 가격 인상이 하반기 판매량 둔화로 이어질 위험
+
+> [!claim] (출처: CNBC, 2026-06-25) Apple posts worst day in over a year after MacBook and iPad price hikes
+> 메모리칩 부족으로 맥·아이패드 가격 인상, 주가 6% 급락. impact: - / category: product
+
+> [!claim] (출처: Bloomberg, 2026-06-25) Apple Hikes Mac, iPad Prices on Memory Shortage; Shares Fall
+> AI 데이터센터발 메모리 수요 급증으로 비용 전가, 마진 우려. impact: - / category: macro
+
+> [!claim] (출처: Seeking Alpha, 2026-06-24) iPhone 'sell-in' to China declines 19% year over year: UBS
+> 5월 중국 아이폰 출하 19% 급감, 화웨이에 점유율 잠식. impact: - / category: earnings
+
+> [!claim] (출처: Seeking Alpha, 2026-06-26) Apple to hit record market share in smartphones, laptops, tablets in 2026: Counterpoint
+> 카운터포인트, 2026년 스마트폰·노트북·태블릿 점유율 사상최고 전망. impact: + / category: other
+
+> [!claim] (출처: The Motley Fool, 2026-06-27) Is Apple Intelligence the Catalyst Apple Stock Needs?
+> Gemini 기반 새 Siri·AI가 교체주기 자극할지 주목. impact: neutral / category: product
+
+**경쟁사 동향**:
+- GOOGL: Apple licenses 1.2T-param Gemini to power new Siri (~$1B/yr) — 애플이 자체 AI 대신 구글 모델 의존 — 단기 제품 경쟁력 보완이나 AI 자립도 약점 노출
+- AMZN: Big Tech 2026 AI capex swells to ~$725B (AMZN $200B, GOOGL/MSFT 대규모) — 경쟁사 AI 인프라 투자 폭증이 메모리 부족·원가 상승 유발해 애플 비용 압박
+
+---
 
 ### 2026-06-22
 

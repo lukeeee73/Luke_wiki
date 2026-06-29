@@ -1,7 +1,7 @@
 ---
 title: "MSFT - Microsoft Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-22
+updated: 2026-06-29
 domain: finance
 type: claim
 weight: reference
@@ -30,8 +30,10 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-06-15**: Xbox 대규모 감원이 게임 경쟁력 약화인지 비용 효율화인지 (pending — 6/22까지 후속 게임 사업 데이터 없음)
 - [x] **2026-06-15**: YTD -17% 주가 부진이 저평가 매수 기회인지 구조적 언더퍼폼 신호인지 (**partially verified** 2026-06-22: Copilot 증권 집단소송·EU DMA 클라우드 예비 판단으로 구조적 규제·성장 우려 쪽 부각)
-- [ ] **2026-06-22**: Copilot 성과 과장 증권 사기 집단소송(8/11 마감)이 실질적 책임·합의로 이어질지 (7일 검증 대기)
-- [ ] **2026-06-22**: EU DMA의 Azure 게이트키퍼 지정 예비판단이 실질 규제로 구체화될지 (7일 검증 대기)
+- [ ] **2026-06-22**: Copilot 성과 과장 증권 사기 집단소송(8/11 마감)이 실질적 책임·합의로 이어질지 (7일 검증 대기) (pending 2026-06-29: FTC가 Azure·Copilot 끼워팔기·OpenAI 독점을 별도 반독점 조사로 확대 — 규제 전선 확대되나 집단소송 자체 진전 미보고)
+- [ ] **2026-06-22**: EU DMA의 Azure 게이트키퍼 지정 예비판단이 실질 규제로 구체화될지 (7일 검증 대기) (pending 2026-06-29: EU 진전 없으나 미 FTC가 Azure·Copilot 끼워팔기 반독점 조사 개시 — 다중 규제 전선 지속)
+- [ ] **2026-06-29**: 셰브론 20년 2.67GW 전력계약 등 AI 데이터센터 capex 확대가 Azure 성장으로 회수될지, 아니면 ROI 부담으로 남을지 (7일 검증 대기)
+- [ ] **2026-06-29**: OpenAI의 멀티클라우드 분산(오라클 $300B·AWS $38B·MS $250B)이 Azure AI 매출 성장 둔화로 실제 가시화될지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -58,6 +60,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-29
+
+**narrative_score**: +0.14
+**key_events**: 셰브론과 20년 텍사스 AI 데이터센터 전력계약 체결 (2.67GW, 2028년 가동, 6/22) · 마이클 버리 2028 LEAP 콜옵션 공개 후 MSFT 6/26 하루 5.7% 급등 · FTC, Azure·Copilot 끼워팔기 및 OpenAI 독점 라이선스 반독점 조사 진행 · OpenAI 클라우드 지출을 오라클·AWS로 분산하며 Azure 독점성 완화
+**risks**: FTC 반독점 조사 결과 끼워팔기 분리·라이선스 변경 강제 가능성 · OpenAI의 멀티클라우드 전환으로 Azure AI 매출 성장 둔화 위험 · AI 인프라 capex(연 $190B 규모) 부담과 금리 상승에 따른 밸류에이션 압박 · 연초 대비 큰 폭 하락 등 AI 관련주 변동성 확대
+
+> [!claim] (출처: CNBC, 2026-06-22) Chevron, Microsoft sign 20-year power deal for West Texas AI data center (Project Kilby, ~2.67GW)
+> MS, 셰브론과 20년 전력계약…텍사스 2.67GW AI 데이터센터 확보. impact: + / category: product
+
+> [!claim] (출처: TheStreet, 2026-06-26) Microsoft jumps 5.7% after Michael Burry discloses long-dated 2028 LEAP call options
+> 마이클 버리 2028 콜옵션 매수 공개로 MSFT 하루 5.7% 급등. impact: + / category: other
+
+> [!claim] (출처: 24/7 Wall St., 2026-06-29) "Big Short" legend Michael Burry makes bullish bet on Microsoft amid AI software rotation
+> AI 칩서 소프트웨어로 자금 이동…버리 베팅에 MSFT 매수론 부상. impact: + / category: other
+
+> [!claim] (출처: Windows News, 2026-06-24) FTC antitrust probe scrutinizes Azure, Copilot bundling and OpenAI exclusivity
+> FTC, Azure·Copilot 끼워팔기·OpenAI 독점 조사…규제 압력 지속. impact: - / category: regulation
+
+**경쟁사 동향**:
+- ORCL: OpenAI spreads $600B+ cloud spend across Oracle ($300B), AWS ($38B), Microsoft ($250B) — OpenAI 멀티클라우드 분산으로 Azure 독점 지위 약화, MSFT 성장 일부 잠식 위험
+- AMZN: AWS becomes exclusive third-party cloud for OpenAI's enterprise 'Frontier' platform — AWS의 OpenAI 협력 확대는 MSFT 클라우드 독점성에 직접적 경쟁 위협
+
+---
 
 ### 2026-06-22
 

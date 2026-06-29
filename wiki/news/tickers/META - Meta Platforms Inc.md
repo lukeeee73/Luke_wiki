@@ -1,7 +1,7 @@
 ---
 title: "META - Meta Platforms Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-22
+updated: 2026-06-29
 domain: finance
 type: claim
 weight: reference
@@ -28,9 +28,11 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-06-15**: Business Agent 글로벌 출시 이후 WhatsApp 대화량 확대·엔터프라이즈 ARPU 상승이 Q2 가이던스를 견인할 것 (pending — 6/22까지 ARPU 정량 데이터 없음, 애널리스트 강세 유지)
-- [ ] **2026-06-22**: Crusoe 1.6GW 등 공격적 AI capex가 FCF 압박으로 주가 변동성을 키울지 (7일 검증 대기)
-- [ ] **2026-06-22**: AI 조직 핵심 임원(Emily Dalton Smith) 이탈이 AI 실행력에 실질 타격을 줄지 (7일 검증 대기)
+- [ ] **2026-06-15**: Business Agent 글로벌 출시 이후 WhatsApp 대화량 확대·엔터프라이즈 ARPU 상승이 Q2 가이던스를 견인할 것 (pending — 6/22까지 ARPU 정량 데이터 없음, 애널리스트 강세 유지) (aged-out 2026-06-29: 14일 경과, ARPU 정량 데이터 여전히 부재 — Q2 실적 발표 전까지 검증 보류)
+- [ ] **2026-06-22**: Crusoe 1.6GW 등 공격적 AI capex가 FCF 압박으로 주가 변동성을 키울지 (7일 검증 대기) (pending 2026-06-29: 2026 capex 가이던스 $125B~$145B 상향 확인되나 구글 Gemini 제한 등으로 주가는 오히려 강세 — FCF 압박-변동성 인과 미확정)
+- [ ] **2026-06-22**: AI 조직 핵심 임원(Emily Dalton Smith) 이탈이 AI 실행력에 실질 타격을 줄지 (7일 검증 대기) (pending 2026-06-29: 추가 이탈·실행 차질 보도 없음, 칸 라이언즈 AI 솔루션·신규 AI 기능 출시는 정상 진행)
+- [ ] **2026-06-29**: 구글의 Gemini 접근 제한이 메타의 자체모델 전환·내부 AI 프로젝트 지연으로 실질 비용·실행 리스크가 될지 (7일 검증 대기)
+- [ ] **2026-06-29**: CRED 9억달러 투자·Kunal Shah의 WhatsApp 수장 선임이 핀테크/결제 기반 신규 수익원으로 가시화될지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -59,6 +61,33 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-29
+
+**narrative_score**: +0.14
+**key_events**: 구글, 메타의 Gemini AI 모델 사용 제한 (FT 보도, 6/28) · 메타, CRED에 9억달러 투자·창업자 Kunal Shah WhatsApp 수장 선임 (6/22) · 칸 라이언즈 2026 AI 광고 솔루션·Brand Memory 공개 (6/23) · 2026 연간 capex 가이던스 $125B~$145B로 상향
+**risks**: 외부 AI(구글 Gemini) 의존 제한으로 내부 프로젝트 지연·자체모델 투자비 증가 · 아동 안전 관련 캘리포니아 규제·책임 한정 로비 등 규제 리스크 · $145B 규모 AI capex의 ROI 불확실성과 투자자 우려 · Fed 금리 동결·할인율 상승에 따른 광고주 지출 둔화 매크로 민감도
+
+> [!claim] (출처: Business Standard, 2026-06-28) Google limits Meta's access to Gemini AI models amid capacity constraints
+> 구글이 메타의 Gemini 사용을 제한, 내부 AI 프로젝트 지연·자체모델 전환 압박. impact: - / category: product
+
+> [!claim] (출처: TechCrunch, 2026-06-22) Meta invests $900M in India's CRED; founder Kunal Shah to lead WhatsApp
+> 메타, CRED에 9억달러 투자·약 20% 지분, 창업자가 WhatsApp 글로벌 수장으로. impact: + / category: m&a
+
+> [!claim] (출처: MediaNews4u, 2026-06-23) Meta unveils AI-powered creative and creator tools at Cannes Lions 2026 (Brand Memory)
+> 칸 라이언즈서 엔드투엔드 AI 광고 솔루션·Brand Memory 공개, 광고 효율 강화. impact: + / category: product
+
+> [!claim] (출처: Yahoo Finance, 2026-06-27) Meta Platforms (META) one of the top trending US stocks, shares rise
+> 메타, 인기 매수 종목으로 거론되며 주가 강세, 애널리스트 강세 의견. impact: + / category: other
+
+> [!claim] (출처: Yahoo Finance, 2026-06-24) Meta rolls out new AI features on Facebook for content creators
+> 메타, 페이스북에 정보검색·이미지/영상 생성 등 신규 AI 기능 출시. impact: + / category: product
+
+**경쟁사 동향**:
+- GOOGL: Google limits Meta's Gemini capacity and showcases new Google Ads Insights at Cannes — 메타의 외부 AI 의존 리스크 부각·자체모델 비용 증가 압박
+- SNAP: Snap rolls out new AI ad tools but issues cautious guidance after Perplexity deal end — 경쟁사 광고 약세는 메타로의 광고예산 집중에 상대적 유리
+
+---
 
 ### 2026-06-22
 

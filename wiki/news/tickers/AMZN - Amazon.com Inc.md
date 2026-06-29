@@ -1,7 +1,7 @@
 ---
 title: "AMZN - Amazon.com Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-22
+updated: 2026-06-29
 domain: finance
 type: claim
 weight: reference
@@ -28,10 +28,12 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] **2026-06-15**: 프라임데이 2026(6/23~26)이 전년 대비 매출 초과로 Q2 가이던스 상향 재료가 될 것 (pending — 6/23~26 일정 확정, 행사 종료 후 검증)
+- [x] **2026-06-15**: 프라임데이 2026(6/23~26)이 전년 대비 매출 초과로 Q2 가이던스 상향 재료가 될 것 (pending — 6/23~26 일정 확정, 행사 종료 후 검증) (**verified** 2026-06-29: 프라임데이 종료, 美 온라인 매출 9.3% 증가·26.4B 달러로 호조 — 다만 가이던스 상향은 미확정이며 저가품 비중 상승은 주의)
 - [x] **2026-06-15**: EU 클라우드 조달 + FTC 반독점 소송이 AWS 정부 계약에 실질 제약을 가할 것 (**partially verified** 2026-06-22: FTC 광고 소송 초안 작성·EU DMA 클라우드 예비 판단으로 규제 압박 실질화 진행)
-- [ ] **2026-06-22**: FTC 광고사업 소송 초안이 실제 제소·대규모 벌금으로 이어질지 (7일 검증 대기)
-- [ ] **2026-06-22**: Trainium 외부 판매가 엔비디아 의존 완화·AI 칩 신규 매출원으로 구체화될지 (7일 검증 대기)
+- [ ] **2026-06-22**: FTC 광고사업 소송 초안이 실제 제소·대규모 벌금으로 이어질지 (7일 검증 대기) (pending 2026-06-29: 오늘 뉴스에 진전 없음, FTC 프라임 합의(2.5B) 환불 잔여만 언급)
+- [ ] **2026-06-22**: Trainium 외부 판매가 엔비디아 의존 완화·AI 칩 신규 매출원으로 구체화될지 (7일 검증 대기) (pending 2026-06-29: 오늘 뉴스에 진전 없음)
+- [ ] **2026-06-29**: AWS의 연내 세 번째 GPU 가격 인상(~20%)이 고객 이탈 없이 AWS 가격 결정력·마진 개선으로 이어질지 (7일 검증 대기)
+- [ ] **2026-06-29**: AWS AI 모멘텀+프라임데이 호조가 시총 3조 달러 달성 재료로 굳어질지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -60,6 +62,33 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-29
+
+**narrative_score**: +0.31
+**key_events**: AWS EC2 GPU 예약 가격 7월 1일부 약 20% 인상 (연내 세 번째) · 프라임데이 2026 (6/23-26) 미 온라인 매출 9.3% 증가, 26.4B 달러 · AWS AI 모멘텀으로 시총 3조 달러 기대, 주가 약 4% 상승
+**risks**: GPU 가격 인상이 고객 이탈·경쟁사(Azure/GCP) 이동을 부를 가능성 · 프라임데이 저가품 비중 상승 — 소비 둔화 신호 · FTC 프라임 합의(2.5B) 환불 잔여 및 지속적 규제 감시 · 대규모 AI 인프라 capex 부담
+
+> [!claim] (출처: Converge Digest, 2026-06-26) AWS raising GPU instance prices ~20% on July 1, third hike this year
+> AWS, EC2 GPU 예약 용량 가격 20% 인상 — AI 수요로 가격 결정력 입증. impact: + / category: product
+
+> [!claim] (출처: Retail Dive, 2026-06-27) Amazon Prime Day 2026 (June 23-26) drives US online sales up 9.3% to $26.4B
+> 프라임데이 4일간 美 온라인 매출 9.3% 증가, 첫날 기록 경신. impact: + / category: product
+
+> [!claim] (출처: Quiver Quantitative, 2026-06-29) Amazon shares rise as investors weigh AWS AI momentum and Prime Day read-through
+> AWS AI 모멘텀·프라임데이 호조로 주가 약 4% 상승. impact: + / category: other
+
+> [!claim] (출처: TheStreet, 2026-06-24) Amazon's $8.3B Prime Day day-one sends a cautious-consumer warning
+> 첫날 8.3B 기록이나 저가품 비중 높아 소비자 신중함 신호. impact: neutral / category: macro
+
+> [!claim] (출처: Yahoo Finance, 2026-06-25) Amazon eyes $3 trillion valuation as AI and AWS drive 2026 growth
+> AWS·AI 성장 동력으로 시총 3조 달러 기대감 부각. impact: + / category: other
+
+**경쟁사 동향**:
+- MSFT: Azure H100 GPU on-demand pricing remains high (~$12/hr) vs AWS/GCP — AWS의 GPU 가격 인상에도 Azure 대비 가격 경쟁력 유지 시 AMZN 클라우드 점유 방어에 우호적
+- WMT: Walmart confronts Amazon with record rival sales and AI tools (Sparky) during Prime Day week — 월마트의 경쟁 세일·AI 강화로 소매 경쟁 심화, AMZN 마진 압박 요인
+
+---
 
 ### 2026-06-22
 

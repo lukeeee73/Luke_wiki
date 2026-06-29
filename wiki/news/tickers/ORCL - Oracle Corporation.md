@@ -1,7 +1,7 @@
 ---
 title: "ORCL - Oracle Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-22
+updated: 2026-06-29
 domain: finance
 type: claim
 weight: reference
@@ -29,9 +29,11 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-06-15**: $20B 유상증자 희석이 FY27 EPS 성장률을 훼손할 것 (**partially verified** 2026-06-22: 약 $40B 자금조달(부채+주식)·마이너스 FCF 보도로 희석·레버리지 우려 구체화)
-- [ ] **2026-06-15**: Q4 후 주가 $180~184 급락이 단기 과매도로 4~6주 내 $200 회복될 것 (pending — 6/22까지 회복 미확인, 약세 지속)
-- [ ] **2026-06-22**: MS와의 클라우드 계약 결렬 보도(FedRAMP)가 공공부문 수주에 실질 타격인지, 오라클 반박대로 무근거인지 (7일 검증 대기)
-- [ ] **2026-06-22**: RPO $638B 폭증이 실제 매출 실현으로 이어져 마진·capex 우려를 상쇄할지 (7일 검증 대기)
+- [ ] **2026-06-15**: Q4 후 주가 $180~184 급락이 단기 과매도로 4~6주 내 $200 회복될 것 (**refuted** 2026-06-29: 회복은커녕 6/26 주간 19% 추가 급락, 고점比 53% 하락 — 4~6주 윈도 내 회복 실패)
+- [ ] **2026-06-22**: MS와의 클라우드 계약 결렬 보도(FedRAMP)가 공공부문 수주에 실질 타격인지, 오라클 반박대로 무근거인지 (pending 2026-06-29: 오늘 뉴스에 추가 진전 없음, 자금조달 이슈에 묻힘)
+- [ ] **2026-06-22**: RPO $638B 폭증이 실제 매출 실현으로 이어져 마진·capex 우려를 상쇄할지 (pending 2026-06-29: RPO $638B·OCI +93% 재확인됐으나 자금조달 우려가 여전히 투자심리 지배, 상쇄 미확인)
+- [ ] **2026-06-29**: 1300억 달러 부채·마이너스 FCF·FY27 400억 달러 추가 조달 우려가 펀더멘털(RPO/OCI) 강세를 가리며 주가 약세가 추가 지속될 것 (7일 검증 대기)
+- [ ] **2026-06-29**: AI 기반 21,000명(13%) 감축이 단기 비용절감으로 마진 개선에 기여할지 vs 성장 둔화 신호일지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -53,6 +55,9 @@ sources: []
 
 > [!fact] (Oracle IR + CNBC, 2026-06-10) Q4/FY2026 기록적 실적 — 매출 +21%, RPO $638B(+363% YoY)
 > AI 클라우드(OCI/IaaS +93%) 견인. 단 마진·capex 우려로 주가는 11%+ 급락.
+
+> [!fact] (SEC 공시 + CNBC, 2026-06-29) Oracle, 지난 1년간 인력 약 21,000명(13%) 감축 — SEC 공시로 확정
+> AI 도입에 따른 대규모 감원. 같은 기간 주가는 6/26 주간 19% 급락하며 2001년 닷컴버블 이후 최악의 한 주 기록.
 <!-- FACTS_END -->
 
 ---
@@ -60,6 +65,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-06-29
+
+**narrative_score**: +0.13
+**key_events**: 주가 주간 약 19% 급락, 2001년 이후 최악 (6/26) · 1년간 인력 13%(2.1만명) AI 기반 감축 SEC 공시 (6/22~23) · FY26 RPO $638B(전년비 +363%), OCI 매출 93% 성장 · FY27 부채·주식 통한 400억 달러 추가 조달 계획
+**risks**: 1300억 달러 부채와 마이너스 FCF(-240억 달러) 등 자금조달·레버리지 리스크 · 대규모 capex(FY26 +162%)가 현금흐름 압박 지속 · AI 모델이 소프트웨어 제품을 대체할 수 있다는 우려로 SW주 동반 약세 · MSFT 등 경쟁사의 자체 모델·멀티클라우드 확장에 따른 OCI 경쟁 심화
+
+> [!claim] (출처: CNBC, 2026-06-26) Oracle stock has worst week since 2001 dot-com bust as AI financing concerns escalate
+> AI 투자 부채·현금소진 우려로 주가 주간 19% 급락, 2001년 이후 최악의 한 주. impact: - / category: macro
+
+> [!claim] (출처: CNBC, 2026-06-23) Oracle sheds 21,000 roles over the past year amid wave of AI layoffs
+> AI 도입으로 1년간 인력 13%(2.1만명) 감축, SEC 공시로 확인. impact: neutral / category: other
+
+> [!claim] (출처: Traders Union, 2026-06-25) Oracle shares slide as debt, cash burn cloud AI infrastructure push
+> 부채 1300억 달러·FY27 400억 달러 추가 조달 계획에 투자심리 악화. impact: - / category: macro
+
+> [!claim] (출처: Trefis, 2026-06-26) Why Is Oracle's Stock Dropping Amid Record-Breaking AI Growth?
+> $638B RPO·OCI 93% 성장에도 자금조달 부담으로 주가는 고점比 53% 하락. impact: neutral / category: earnings
+
+**경쟁사 동향**:
+- MSFT: Microsoft Build 2026서 자체 AI 모델(MAI-Code-1-Flash) 공개, OpenAI 의존도 축소 — MS의 자체 모델·멀티클라우드 전략은 클라우드 AI 인프라 경쟁 심화로 ORCL OCI 수요에 잠재적 부담
+- MSFT: MS 클라우드 수주잔고 $625B로 두 배, 45%가 OpenAI Azure 약정 — 초대형 AI 클라우드 수주에서 MS와 직접 경쟁하나 ORCL도 OpenAI Stargate로 동반 수혜 구조
+
+---
 
 ### 2026-06-22
 
