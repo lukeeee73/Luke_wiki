@@ -27,5 +27,6 @@ aliases: [CUDA, 쿠다]
 
 ## 관련 페이지
 
+- [LLM 서빙 스택 — 계층 구조](llm-serving-stack.md) — CUDA는 플랫폼(②) 계층. ROCm·커널·서빙엔진과의 위치 관계
 - [반도체·AI 칩 가치사슬 종합](../syntheses/semiconductor-ai-chip-value-chain.md) §3.1
 - [엔비디아](../entities/nvidia.md)

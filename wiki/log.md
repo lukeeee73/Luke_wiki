@@ -1,7 +1,7 @@
 ---
 title: "Wiki Log"
 created: 2026-04-05
-updated: 2026-06-28
+updated: 2026-06-29
 tags: [log, meta]
 sources: []
 ---
@@ -10,6 +10,25 @@ sources: []
 # Wiki Log
 
 위키의 모든 작업 이력을 시간순으로 기록합니다.
+
+---
+
+## 2026-06-29
+
+### [INGEST] LLM 서빙 스택 — 계층 구조 & 개념 교정
+
+- **작업**: LLM 추론/서빙 스택 복습 노트(✅/⚠️/❌ 자가 점검 형식)를 수집·정제하여 위키 통합. 핵심은 "CUDA·ROCm·Triton·AITER·ATOM·vLLM·SGLang 은 경쟁 프레임워크가 아니라 서로 다른 계층" 이라는 교정.
+- **원본 유형**: 개인 학습 노트 (Luke) — 2026-06 시점 추론 스택/GPU 라인업 정리
+- **생성된 파일**:
+  - `sources/llm-serving-stack-layers.md` — 원본 노트 (불변 보존, frontmatter 정규화)
+  - `wiki/concepts/llm-serving-stack.md` — 정제 프레임워크 페이지 (`type: framework`, `domain: ai, finance`, `confidence: medium`). 6계층 표 + Triton 크로스플랫폼 + GPU 라인업 세대 구분 + MLA→전용커널 + CUDA 해자 뉘앙스
+- **업데이트된 파일**:
+  - `wiki/concepts/cuda.md` — 관련 페이지에 서빙 스택 링크 추가 (CUDA = 플랫폼② 위치)
+  - `wiki/concepts/speculative-decoding.md` — 관련 노트에 서빙 스택 링크 추가 (decode 병목 연결)
+  - `wiki/entities/deepseek.md` — MLA 새 어텐션 → 전용 커널 맥락 링크 추가
+  - `wiki/entities/nvidia.md` — CUDA vs ROCm 스택 성숙도 링크 추가
+  - `wiki/domains/ai.md` · `wiki/index.md` — 반도체/AI 하드웨어 클러스터에 신규 개념 링크 추가
+- **교차 참조**: [CUDA](concepts/cuda.md) · [HBM](concepts/hbm.md) · [Speculative Decoding](concepts/speculative-decoding.md) · [DeepSeek](entities/deepseek.md) · [엔비디아](entities/nvidia.md) · [가치사슬 종합](syntheses/semiconductor-ai-chip-value-chain.md)
 
 ---
 

@@ -32,5 +32,6 @@ aliases: [DeepSeek, 딥시크, DeepSeek V4]
 
 - [중국 반도체 격차 — ASML EUV 의혹 · SMIC/화웨이 · DeepSeek V4](../topics/china-chip-gap-deepseek-v4.md)
 - [DSpark & Speculative Decoding](../concepts/speculative-decoding.md) — V4-Pro-DSpark, Decode 메모리 대역폭 가속
+- [LLM 서빙 스택 — 계층 구조](../concepts/llm-serving-stack.md) — MLA 같은 새 어텐션 구조가 벤더별 전용 커널을 요구하는 이유
 - [엔비디아 (NVIDIA)](nvidia.md) · [TSMC](tsmc.md)
 - [반도체·AI 칩 가치사슬 종합](../syntheses/semiconductor-ai-chip-value-chain.md)
