@@ -1,7 +1,7 @@
 ---
 title: "TSM - Taiwan Semiconductor Mfg. — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-23
+updated: 2026-06-30
 domain: finance
 type: claim
 weight: reference
@@ -20,6 +20,7 @@ sources: []
 
 > [!info] 자동 수집 노트
 > 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 직접 편집해도 되지만, HTML 마커(`<!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-30**: ITC 수입금지 시 북미 매출 타격 현실화 여부 (7일 검증 대기)
 - [x] **2026-05-19**: A13/A12/N2U 공정 로드맵 — 경쟁사 대비 선단공정 격차 유지 → **on-track** (5월 매출 +30.1%, 3nm 가격 인상으로 수요 과열 확인, 2026-06-10)
 - [x] **2026-05-19**: AI/HPC 매출 비중 61% — 분기별 추가 확대 가능성 → **on-track** (2026 가이던스 30%+로 상향 — AI 수요 비중 확대 지속, 2026-06-10)
 - [x] **2026-06-02**: 3nm 공정 가격 15% 인상 — 고객사 반발 없이 실행 여부 → **confirmed** (5월 매출 +30.1% 발표로 고객사 이탈 없이 수요 과열 재확인, 2026-06-10)
@@ -59,6 +60,32 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-30
+
+**narrative_score**: +0.29 (강한 긍정 모멘텀)
+**key_events**: Winbond DRAM 협력, 첨단 노드 5~10% 가격 인상, ITC 특허 예비판정 임박
+**risks**: ITC 수입금지 시 북미 매출 타격, Intel 18A-P·Samsung 추격, 고객사 자체 칩 설계 확대
+
+> [!claim] (출처: TradingKey, 2026-06-29) TSM stock up 3.4% on June 29 amid AI chip demand
+> TSM +3.4% 상승, Winbond DRAM 협력·AI 공급망 최적화 부각. impact: + / category: macro
+
+> [!claim] (출처: Crypto Briefing, 2026-06-28) TSMC accelerates local DRAM supply chain with Winbond collaboration
+> Winbond와 AI용 DRAM 공급망 협력, 메모리 수급 다원화. impact: + / category: product
+
+> [!claim] (출처: Tom's Hardware, 2026-06-24) TSMC hikes prices for all advanced nodes; 74% of wafer business affected
+> 7nm 이하 전 노드 5~10% 인상 — 마진 확대이나 고객 원가 부담. impact: + / category: macro
+
+> [!claim] (출처: Tom's Hardware, 2026-06-23) Republican lawmakers urge ITC to block imports of infringing TSMC chips
+> 특허 침해 ITC 조사, 6월 말 예비판정 — 수입금지 리스크. impact: - / category: regulation
+
+> [!claim] (출처: Yahoo Finance, 2026-06-25) Why TSM may be the smartest AI infrastructure buy right now
+> Q1 매출 +40% YoY, 첨단 노드 90% 점유 — AI 인프라 수혜. impact: + / category: earnings
+
+**경쟁사 동향**:
+- INTC: Intel 18A-P 리스크 생산 진입, 파운드리 재기 시도 — 첨단 공정 독점 약화 압력, 북미 고객 분산 우려
+- AVGO: Broadcom OpenAI 협력 등 AI 칩 파트너십 확대 — 팹리스 고객 제조 파트너 다변화 추세
+
+
 ### 2026-06-23
 
 **narrative_score**: +0.12 (약한 긍정)

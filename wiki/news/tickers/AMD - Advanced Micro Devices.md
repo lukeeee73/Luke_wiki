@@ -1,7 +1,7 @@
 ---
 title: "AMD - Advanced Micro Devices — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-23
+updated: 2026-06-30
 domain: finance
 type: claim
 weight: reference
@@ -20,6 +20,7 @@ CPU(컴퓨터 두뇌)와 GPU(그래픽 처리 장치) 모두를 만드는 반도
 
 > [!info] 자동 수집 노트
 > 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 직접 편집해도 되지만, HTML 마커(`<!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-30**: 중국 수출 규제(매출 ~20%) 현실화 여부 (7일 검증 대기)
 - [x] **2026-05-19**: Q1 데이터센터 $5.8B (+57%) 성장 — Q2도 유지 가능한지 → **on-track** (Q2 가이던스 $11.2B +45% YoY로 컨센서스 초과, 2026-06-10 확인)
 - [x] **2026-06-02**: NVDA RTX Spark AI PC 공세 — AMD GPU 시장 점유율 영향 → **partial-verified** (MI350 MSFT·Meta·OpenAI 확보로 AI GPU 2위 입지 유지, 2026-06-10 확인)
 - [ ] **2026-05-19**: MI450 AI 칩 H2 2026 출시 — NVDA Blackwell 대비 경쟁력 검증 (pending — H2 2026 출시 전 검증 불가)
@@ -47,6 +48,33 @@ CPU(컴퓨터 두뇌)와 GPU(그래픽 처리 장치) 모두를 만드는 반도
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-30
+
+**narrative_score**: +0.52 (강한 긍정 모멘텀)
+**key_events**: 데이터센터 매출 +57% YoY, Gartner AI 서버 CPU 최강자 선정, MEXT 인수, Rackspace 30MW 계약
+**risks**: 중국 수출 규제(매출 ~20%), NVDA RTX Spark PC 진입, TSMC 공급 차질
+
+> [!claim] (출처: Yahoo Finance, 2026-06-30) AMD down 3.3% on the week despite Buy consensus from 36 analysts ($700 PT)
+> AMD 주간 -3.3%이나 분석가 36명 매수 합의, 목표가 $700. impact: neutral / category: macro
+
+> [!claim] (출처: AMD Blog / Gartner, 2026-06-10) Gartner names AMD company to beat for enterprise AI server CPUs
+> Gartner, AMD를 엔터프라이즈 AI 서버 CPU 최강자로 평가. impact: + / category: other
+
+> [!claim] (출처: HPCWire / Yahoo Finance, 2026-06-15) AMD acquires MEXT for AI memory optimization technology
+> NAND를 DRAM처럼 쓰는 메모리 최적화 스타트업 MEXT 인수, 주가 +6%. impact: + / category: m&a
+
+> [!claim] (출처: AMD Newsroom, 2026-06-16) AMD and Rackspace sign 30 MW AI compute deployment agreement
+> Rackspace와 30MW 규모 EPYC/Instinct 데이터센터 배포 계약. impact: + / category: product
+
+> [!claim] (출처: DataCenterDynamics, 2026-05-05) AMD Q1 2026: $10.3B revenue, data center +57% YoY to $5.8B
+> Q1 매출 $10.3B, 데이터센터 +57% $5.8B, Q2 가이던스 $11.2B. impact: + / category: earnings
+
+**경쟁사 동향**:
+- NVDA: NVIDIA RTX Spark 슈퍼칩으로 Windows PC CPU 시장 진입 — AMD/Intel PC CPU 시장에 NVDA 침투 — 경쟁 압박
+- INTC: Intel Q2 가이던스 $13.8~14.8B, 파운드리 여전히 적자 — AMD 서버 CPU 우위 유지되나 Intel 회복 시 경쟁 심화
+- TSM: TSMC AI 칩 공급 부족 지속, 2026 capex $52~56B 상단 — AMD 주요 제조 파트너 — 공급 제약 리스크
+
+
 ### 2026-06-23
 
 **narrative_score**: +0.03 (중립)

@@ -1,7 +1,7 @@
 ---
 title: "AVGO - Broadcom Inc. — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-23
+updated: 2026-06-30
 domain: finance
 type: claim
 weight: reference
@@ -20,6 +20,7 @@ sources: []
 
 > [!info] 자동 수집 노트
 > 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 직접 편집해도 되지만, HTML 마커(`<!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-30**: AI 매출 $100B 목표 달성 불확실 현실화 여부 (7일 검증 대기)
 - [x] **2026-05-19**: AI 맞춤형 칩 2027년 $1000억 매출 — 달성 경로 검증 필요 → **at-risk** (Q2 AI $108억(2배) 달성했으나 FY 목표 미상향 → 주가 -15%, 2026-06-10)
 - [x] **2026-06-02**: Q2 FY2026 실적 (6/3 발표) — AI 가이던스 달성 여부 → **partial-miss** (EPS $2.44 소폭 상회, 매출 $22.19B 기록적, FY AI $1,000억 목표 미상향 → -15%, 2026-06-10)
 - [x] **2026-05-19**: Meta 2nm AI 칩 파트너십 — 구체 수주 규모·일정 미정 → **confirmed-customer** (Hock Tan 어닝콜에서 Meta를 6개 핵심 AI 고객 중 하나로 공식 확인, 2026-06-10)
@@ -53,6 +54,29 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-30
+
+**narrative_score**: +0.22 (강한 긍정 모멘텀)
+**key_events**: OpenAI Jalapeño 추론칩 공개, Q2 AI 매출 $10.8B vs 가이던스 실망, CFO 교체, 월간 ~20% 조정
+**risks**: AI 매출 $100B 목표 달성 불확실, AMD·QCOM 커스텀 칩 경쟁, 하이퍼스케일러 capex 둔화
+
+> [!claim] (출처: OpenAI / TechCrunch, 2026-06-24) OpenAI and Broadcom unveil 'Jalapeño' LLM-optimized inference chip
+> OpenAI와 커스텀 추론칩 Jalapeño 공개, 9개월 단기 개발·연내 배포. impact: + / category: product
+
+> [!claim] (출처: PR Newswire / CNBC, 2026-06-03) Broadcom Q2 FY2026: record results but guidance disappoints market
+> AI 반도체 매출 $10.8B(+143%)이나 목표 미상향으로 주가 급락. impact: neutral / category: earnings
+
+> [!claim] (출처: StockTitan, 2026-06-12) Broadcom appoints Amie Thuener as CFO effective June 12, 2026
+> 前 Alphabet 임원 Amie Thuener 신임 CFO 선임. impact: neutral / category: other
+
+> [!claim] (출처: Yahoo Finance, 2026-06-30) Broadcom stock down ~20% from June highs, trades ~$372 on June 30
+> AVGO 6월 고점 대비 ~20% 하락, 6/30 약 $372 거래. impact: - / category: macro
+
+**경쟁사 동향**:
+- QCOM: Qualcomm, Dragonfly 데이터센터 CPU 공개·Meta 첫 고객 확보 — Broadcom 네트워킹/커스텀 칩 고객 구도에 경쟁 위협
+- AMD: AMD 다수 분석가 목표가 상향($670) — AI 칩 시장 AMD 위협 증가
+
+
 ### 2026-06-23
 
 **narrative_score**: +0.05 (약한 긍정)

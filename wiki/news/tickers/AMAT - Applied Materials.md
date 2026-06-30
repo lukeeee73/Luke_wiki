@@ -1,7 +1,7 @@
 ---
 title: "AMAT - Applied Materials — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-23
+updated: 2026-06-30
 domain: finance
 type: claim
 weight: reference
@@ -20,6 +20,7 @@ sources: []
 
 > [!info] 자동 수집 노트
 > 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 직접 편집해도 되지만, HTML 마커(`<!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-30**: LRCX·KLAC 경쟁 격화 현실화 여부 (7일 검증 대기)
 - [x] **2026-05-19**: Q2 총마진 50% 25년 최고 — Q3도 유지 가능한지 → **exceeded** (연간 WFE 30%+로 상향, Q2 사상 최대 매출·25년 최고 마진 기록, 2026-06-10)
 - [x] **2026-05-19**: Q3 가이던스 $8.95B — 실제 달성 및 첨단 패키징 +50% 성장 검증 → **on-track** (Q3 가이던스 $8.45~$9.45B, WFE 30%+ 상향으로 달성 경로 명확, 2026-06-10)
 - [x] **2026-06-02**: ASMPT NEXX $120M 인수 — 어드밴스드 패키징 시장 점유율 확대 여부 → **on-track** (싱가포르 $5억 시설 오픈 + 아시아 역량 25% 확대로 패키징 전략 강화 확인, 2026-06-10)
@@ -55,6 +56,29 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-30
+
+**narrative_score**: +0.29 (강한 긍정 모멘텀)
+**key_events**: 신규 6개 AI 칩 제조 시스템 공개, KeyBanc 목표가 $750·주가 +10%, Q2 기록 매출 $7.91B
+**risks**: LRCX·KLAC 경쟁 격화, 메모리 공급 과잉 우려, 밸류에이션 부담
+
+> [!claim] (출처: GlobeNewswire, 2026-06-25) Applied Materials introduces six new AI chipmaking systems for DRAM and advanced packaging
+> HBM·3D 스택·DRAM용 신규 6개 AI 칩 제조 시스템 공개. impact: + / category: product
+
+> [!claim] (출처: GuruFocus, 2026-06-29) KeyBanc raises AMAT price target to $750 from $550
+> KeyBanc 목표가 $550→$750 상향, Overweight 유지. impact: + / category: macro
+
+> [!claim] (출처: Benzinga, 2026-06-29) Applied Materials stock surges ~10% as tech rally gains momentum
+> 6/29 약 10% 급등 — Q3 가이던스 강세·목표가 인상 주도. impact: + / category: macro
+
+> [!claim] (출처: Applied Materials IR, 2026-05-14) AMAT Q2 2026: record revenue $7.91B, equipment growth guidance >30%
+> Q2 기록 매출 $7.91B, 반도체 장비 2026 +30%·패키징 +50%. impact: + / category: earnings
+
+**경쟁사 동향**:
+- LRCX: BofA Lam Research 목표가 $480로 상향, 장비 지출 ~$250B 전망 — AI 메모리 수요로 동반 수혜, etch/depo 경합 심화
+- KLAC: Cantor KLA 목표가 $325로 상향 — 검사/측정 장비 차별화, AMAT eBeam 메트롤로지와 경합
+
+
 ### 2026-06-23
 
 **narrative_score**: +0.18 (약한 긍정)

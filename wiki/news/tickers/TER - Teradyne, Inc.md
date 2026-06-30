@@ -1,7 +1,7 @@
 ---
 title: "TER - Teradyne, Inc. — Routine News Log"
 created: 2026-06-16
-updated: 2026-06-23
+updated: 2026-06-30
 domain: finance, ai
 type: claim
 weight: reference
@@ -24,6 +24,7 @@ sources: []
 ## 미해결 가설 (Open Claims)
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-30**: YTD +140% 밸류에이션 현실화 여부 (7일 검증 대기)
 - [x] **2026-06-16**: Nasdaq-100 편입 6/22 — 패시브 펀드 매수 유입으로 주가 기술적 상승 여부 → **refuted** (6/22 편입 발효됐으나 6/23 HBM 셀오프로 ~-8% 하락, 패시브 유입 효과가 섹터 약세에 압도됨, 2026-06-23)
 - [ ] **2026-06-16**: 공군 $1.4억 다년 계약 — 방산 매출 안정화가 이익률에 미치는 영향 (분기 검증)
 - [ ] **2026-06-16**: Automate 2026 (6/22-25) 피지컬 AI 쇼케이스 — 신규 로보틱스 수주 촉매 여부 (30일)
@@ -52,6 +53,32 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-30
+
+**narrative_score**: +0.44 (강한 긍정 모멘텀)
+**key_events**: Cantor $550·BofA $525 상향, 나스닥-100 편입, 공군 $139.9M 계약, 도쿄일렉트론 칩렛 테스트셀
+**risks**: YTD +140% 밸류에이션, SK하이닉스 고급칩 감산, AI capex 둔화 우려
+
+> [!claim] (출처: TradingKey, 2026-06-29) Teradyne stock surges 6% on Cantor $550 price target and analyst upgrades
+> 테라다인 +6%, Cantor $550·BofA $525 목표가 상향. impact: + / category: macro
+
+> [!claim] (출처: Yahoo Finance, 2026-06-22) Teradyne joins Nasdaq-100 index; mechanical buying from passive funds
+> 나스닥-100 편입(6/22)으로 인덱스 펀드 자동 매수 유입. impact: + / category: other
+
+> [!claim] (출처: GuruFocus, 2026-06-10) Teradyne secures $139.9M U.S. Air Force defense contract for test equipment
+> 미 공군 $139.9M 테스트 장비 계약(2031년까지) 확보. impact: + / category: earnings
+
+> [!claim] (출처: BusinessWire, 2026-06-08) Teradyne-Tokyo Electron integrated test cell for AI chiplet screening
+> 도쿄일렉트론과 AI 칩렛 KGD 스크리닝 통합 테스트셀 출시. impact: + / category: product
+
+> [!claim] (출처: Robotics & Automation News, 2026-06-11) Teradyne Robotics demonstrates physical AI at Automate 2026 Chicago
+> Automate 2026서 UR AI Trainer·MiR 물리 AI 시연. impact: + / category: product
+
+**경쟁사 동향**:
+- AMAT: AMAT 마이크론 호실적에 급등, AI 메모리 수요 검증 — AI 메모리 선적 급증이 테라다인 테스트 플랫폼 수요 증대
+- LRCX: LRCX 마이크론 후 +7%, Russell Top 50 편입 — SK하이닉스 감산은 테스트 장비 수요 억제 신호
+
+
 
 ### 2026-06-23
 

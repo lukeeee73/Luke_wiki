@@ -1,7 +1,7 @@
 ---
 title: "MP - MP Materials Corp. — Routine News Log"
 created: 2026-06-16
-updated: 2026-06-23
+updated: 2026-06-30
 domain: finance
 type: claim
 weight: reference
@@ -24,6 +24,7 @@ sources: []
 ## 미해결 가설 (Open Claims)
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-30**: 중국 수출통제 장기화 현실화 여부 (7일 검증 대기)
 - [x] **2026-06-16**: 미중 희토류 협정 진전 — 지정학 프리미엄 추가 해소 vs 재부각 여부 (3개월) → **refuted** (6/22 중국이 MP를 수출통제 리스트에 편입 — 협정 진전이 아니라 디커플링 재격화로 전환, 지정학 프리미엄 재부각, 2026-06-23)
 - [ ] **2026-06-16**: CEO Litinsky 대규모 매도($2,600만) — 내부 고점 신호 vs 계획 매도 (30일 주가 추이)
 - [ ] **2026-06-16**: 애플·DoD 장기 공급 계약 — 실제 매출 반영 시점 및 규모 (분기 검증)
@@ -50,6 +51,32 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-30
+
+**narrative_score**: +0.18 (약한 긍정)
+**key_events**: 중국 수출통제 명단 추가, Q1 NdPr 917톤 기록·흑전, Needham 매수 개시($81), Independence 상용 자석 생산
+**risks**: 중국 수출통제 장기화, CEO 대규모 매도 신호, 10X 시설 가동 지연
+
+> [!claim] (출처: Al Jazeera, 2026-06-22) China adds MP Materials to export control blacklist
+> 중국, 미국 10개사 수출통제 명단에 MP 포함 — 공급망 보복. impact: - / category: regulation
+
+> [!claim] (출처: GuruFocus, 2026-05-15) MP Materials Q1 2026: record NdPr production 917 MT (+63% YoY)
+> Q1 매출 $90.6M(+49%), NdPr 917톤 기록 생산, EBITDA 흑전. impact: + / category: earnings
+
+> [!claim] (출처: Seeking Alpha, 2026-06-01) Needham initiates MP Materials coverage with Buy rating, $81 PT
+> Needham 매수 개시 목표가 $81, 다년 희토류 사이클 주도. impact: + / category: macro
+
+> [!claim] (출처: IndexBox, 2026-06-10) MP Materials COO buys 10,000 shares amid sector weakness
+> COO 1만주 매입($54.30)으로 신뢰 신호, CEO는 대규모 매도. impact: neutral / category: other
+
+> [!claim] (출처: MP Materials, 2026-05-31) Independence facility producing commercial NdFeB magnets; 10X groundbreaking
+> Independence 상용 NdFeB 자석 생산 개시, 10X 시설 기공. impact: + / category: product
+
+**경쟁사 동향**:
+- LYC.AX: Lynas CEO 교체·말레이시아 규제 지연 — 경쟁사 경영 공백으로 MP의 미국 내 입지 강화
+- FCX: Freeport 구리 중심, 희토류 무관 — MP가 희토류·자석 전문성으로 차별화
+
+
 
 ### 2026-06-23
 

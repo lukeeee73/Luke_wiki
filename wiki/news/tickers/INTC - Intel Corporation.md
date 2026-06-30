@@ -1,7 +1,7 @@
 ---
 title: "INTC - Intel Corporation — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-23
+updated: 2026-06-30
 domain: finance
 type: claim
 weight: reference
@@ -20,6 +20,7 @@ x86 CPU(컴퓨터 연산 핵심 칩)의 전통적 절대강자였던 미국 반�
 
 > [!info] 자동 수집 노트
 > 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 직접 편집해도 되지만, HTML 마커(`<!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-30**: 18A-P 양산 불확실성 현실화 여부 (7일 검증 대기)
 - [x] **2026-05-19**: 서버 CPU 점유율 하락 추세 — 분기별 -370bps QoQ 지속 여부 → **confirmed** (COMPUTEX 2026에서도 시장 반응 부진, 주가 4.67% 추가 하락, 2026-06-02)
 - [x] **2026-05-19**: 애플 파운드리 계약 레거시 공정 집중 — 18A 첨단공정 수주 가능성 → **breakthrough** (구글 TPU 300만+ 2028년 생산 18A 파운드리 수주, 2026-06-09 확인)
 - [x] **2026-06-02**: Xeon 6+ 및 AI 인프라 계획 — 시장 신뢰 회복 여부 → **verified** (구글·NVIDIA 18A 평가로 주가 +11%, 웰스파고·바클레이즈 동시 상향, 2026-06-09 확인)
@@ -54,6 +55,32 @@ x86 CPU(컴퓨터 연산 핵심 칩)의 전통적 절대강자였던 미국 반�
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-30
+
+**narrative_score**: +0.43 (강한 긍정 모멘텀)
+**key_events**: Cantor 목표가 $150(+67%), 18A-P 리스크 생산 진입, TSMC 인상 반사이익, Q1 호실적·강한 Q2 가이던스
+**risks**: 18A-P 양산 불확실성, TSMC 기술 선도 지속, AMD 서버 점유율 잠식
+
+> [!claim] (출처: Investing.com, 2026-06-29) Cantor Fitzgerald raises Intel PT to $150 on strong AI compute demand
+> Cantor, 인텔 목표가 $90→$150 상향, 주가 +7.2% 견인. impact: + / category: macro
+
+> [!claim] (출처: CNBC, 2026-06-16) Intel 18A-P process enters risk production with ~9% performance gain
+> 18A-P 리스크 생산 진입(성능 +9%/전력 -18%), 파운드리 재개. impact: + / category: product
+
+> [!claim] (출처: StockStory, 2026-06-28) Wells Fargo: AI inference shifting from GPU to CPU benefits Intel
+> AI 추론의 GPU→CPU 이동 추세로 x86 강점 부각. impact: + / category: other
+
+> [!claim] (출처: Intel Newsroom, 2026-04-23) Intel exceeds Q1 2026 guidance; Q2 revenue outlook $13.8-14.8B
+> Q1 EPS $0.29 컨센 상회, Q2 가이던스 $13.8~14.8B. impact: + / category: earnings
+
+> [!claim] (출처: Tom's Hardware, 2026-06-24) TSMC announces 5-10% price hikes across advanced nodes for H2 2026
+> TSMC 전 노드 5~10% 인상 — 인텔 자체 파운드리 상대적 경쟁력. impact: + / category: macro
+
+**경쟁사 동향**:
+- AMD: AMD 목표가 상향, 웰스파고 CPU AI 시프트 긍정 — GPU→CPU 전환은 인텔 x86 직접 수혜, TSMC 인상은 AMD 원가 압박
+- TSM: TSMC H2 가격 5~10% 인상(3nm 최대 15%) — 인텔 18A-P 자체 파운드리 상대 경쟁력 개선
+
+
 ### 2026-06-23
 
 **narrative_score**: +0.15 (약한 긍정)
