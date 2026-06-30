@@ -52,23 +52,23 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [NVDA](tickers/NVDA - NVIDIA Corporation.md) | 2026-06-23 | -0.12 | HBM4 둔화·B200 렌탈가 -31% 셀오프로 -3.2%, 단기 심리 압박 | 6 |
-| [AMD](tickers/AMD - Advanced Micro Devices.md) | 2026-06-23 | +0.03 | 6/22 사상최고가 $563 vs M Science 2Q GPU 악화 경고로 변동성 | 8 |
-| [TSM](tickers/TSM - Taiwan Semiconductor Mfg.md) | 2026-06-23 | +0.12 | Susquehanna $575 상향에도 셀오프 -5.2%·ITC 수입금지 리스크 | 5 |
-| [AVGO](tickers/AVGO - Broadcom Inc.md) | 2026-06-23 | +0.05 | AI 셀오프 -8.6%, $100B 목표 미상향이 트리거로 지목 | 7 |
-| [INTC](tickers/INTC - Intel Corporation.md) | 2026-06-23 | +0.15 | 트럼프發 애플 파트너십(미확인) +10.6%, 이석희 영입 | 7 |
-| [QCOM](tickers/QCOM - QUALCOMM Incorporated.md) | 2026-06-23 | +0.17 | Modular ~$4B 인수 협상으로 데이터센터 SW 수직통합 | 6 |
-| [ASML](tickers/ASML - ASML Holding NV.md) | 2026-06-23 | +0.01 | 美 中EUV 유출 우려+장비주 -7% 셀오프, 중립 | 4 |
-| [AMAT](tickers/AMAT - Applied Materials.md) | 2026-06-23 | +0.18 | WF $715 상향·AR 협업, 셀오프·내부자매도가 상쇄 | 5 |
-| [LRCX](tickers/LRCX - Lam Research Corp.md) | 2026-06-23 | +0.17 | WF $450·BofA $480 US1 편입, 셀오프 약세 | 4 |
-| [MU](tickers/MU - Micron Technology.md) | 2026-06-23 | +0.05 | HBM4 둔화發 -11.4% 급락, Anthropic 전략계약·6/24 실적 임박 | 9 |
+| [NVDA](tickers/NVDA - NVIDIA Corporation.md) | 2026-06-30 | +0.38 | Palantir 정부 AI·RTX Spark·Vera Rubin 풀생산, 단 5월 고점 대비 -23% | 7 |
+| [AMD](tickers/AMD - Advanced Micro Devices.md) | 2026-06-30 | +0.52 | 데이터센터 +57%·Gartner 최강자·Rackspace 30MW, 중국 규제 리스크 | 9 |
+| [TSM](tickers/TSM - Taiwan Semiconductor Mfg.md) | 2026-06-30 | +0.29 | 첨단노드 90% 점유·5~10% 인상·Winbond 협력, ITC 예비판정 리스크 | 6 |
+| [AVGO](tickers/AVGO - Broadcom Inc.md) | 2026-06-30 | +0.22 | OpenAI Jalapeño 칩·Q2 AI $10.8B이나 목표 미상향에 월 ~-20% | 8 |
+| [INTC](tickers/INTC - Intel Corporation.md) | 2026-06-30 | +0.43 | Cantor $150(+67%)·18A-P 리스크생산·TSMC 인상 반사이익, +7.2% | 8 |
+| [QCOM](tickers/QCOM - QUALCOMM Incorporated.md) | 2026-06-30 | +0.41 | Investor Day 목표 상향·Dragonfly CPU·Modular $3.92B 인수 | 7 |
+| [ASML](tickers/ASML - ASML Holding NV.md) | 2026-06-30 | +0.42 | 삼성·SK 한국 팹 투자로 +6.8% 신고가, MATCH법 DUV ~20% 리스크 | 6 |
+| [AMAT](tickers/AMAT - Applied Materials.md) | 2026-06-30 | +0.29 | 신규 6개 AI 칩장비·KeyBanc $750로 6/29 ~+10% 급등 | 6 |
+| [LRCX](tickers/LRCX - Lam Research Corp.md) | 2026-06-30 | +0.34 | Cantor $500·Russell Top50 편입·삼성 1.4nm 재개, YTD +114% | 6 |
+| [MU](tickers/MU - Micron Technology.md) | 2026-06-30 | +0.26 | Q3 기록 $41.46B·Q4 $50B·$100B 다년계약, SK하이닉스 HBM 경쟁 | 10 |
 ### 로보틱스 / 피지컬 AI
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [TER](tickers/TER - Teradyne, Inc.md) | 2026-06-23 | +0.14 | HBM 둔화로 ~-8% 하락, 나스닥100 편입 효과 셀오프에 압도 | 5 |
-| [HSAI](tickers/HSAI - Hesai Group.md) | 2026-06-23 | +0.26 | 6/26 주총 8:1 액면분할 추진, 중국 ADR 위험회피로 월 -7% | 5 |
-| [MP](tickers/MP - MP Materials Corp.md) | 2026-06-23 | +0.31 | 중국 수출통제 편입에도 텍사스 $1.25B 캠퍼스·Strong Buy | 6 |
+| [TER](tickers/TER - Teradyne, Inc.md) | 2026-06-30 | +0.44 | Cantor $550·나스닥100 편입·공군 $139.9M, YTD +140% 부담 | 6 |
+| [HSAI](tickers/HSAI - Hesai Group.md) | 2026-06-30 | +0.30 | Q2 +20~27% 가이던스·로보틱스 확대·8:1 분할, 마진 하락 우려 | 6 |
+| [MP](tickers/MP - MP Materials Corp.md) | 2026-06-30 | +0.18 | Q1 NdPr 917톤 기록·Needham 매수·상용 자석생산, 중국 수출통제 리스크 | 7 |
 ### 자동차 / 모빌리티
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |

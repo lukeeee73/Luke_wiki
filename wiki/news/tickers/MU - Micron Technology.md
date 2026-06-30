@@ -1,7 +1,7 @@
 ---
 title: "MU - Micron Technology — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-23
+updated: 2026-06-30
 domain: finance
 type: claim
 weight: reference
@@ -20,6 +20,7 @@ sources: []
 
 > [!info] 자동 수집 노트
 > 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 직접 편집해도 되지만, HTML 마커(`<!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-30**: SK하이닉스 HBM 가격 경쟁 현실화 여부 (7일 검증 대기)
 - [x] **2026-05-19**: HBM 2026년 전량 매진 — 2027년 공급 계획 및 가격 협상 동향 → **confirmed** (HBM 2026 전량 장기계약 완료·$2,000억 증설 계획 발표, 2026-06-10)
 - [x] **2026-05-19**: Q2 매출 +196% YoY — 성장률 지속 가능성 vs 기저효과 → **aged-out** (6/24 Q3 실적으로 검증 예정, 별도 6/24 클레임으로 이관, 2026-06-23)
 - [x] **2026-06-02**: 6월 24일 Q3 FY2026 실적 — 매출 $33.5B(+263% YoY)·EPS 달성 여부 → **on-track** (6/24 발표 임박, 역대급 마진·HBM4 가속 기대 유지, 2026-06-23)
@@ -66,6 +67,32 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-30
+
+**narrative_score**: +0.26 (강한 긍정 모멘텀)
+**key_events**: Q3 기록 실적·Q4 가이던스 $50B, $100B+ 다년 고객 계약, Anthropic 전략 계약, 뉴욕 메가팹 착공
+**risks**: SK하이닉스 HBM 가격 경쟁, 반도체주 조정·매크로 약세, 고객 계약 추정 리스크
+
+> [!claim] (출처: Micron IR, 2026-06-24) Micron reports record Q3 FY2026: $41.46B revenue, $25.11 EPS beat, $50B Q4 guidance
+> 역대 최고 분기 매출 $41.46B, EPS $25.11 상회, Q4 가이던스 $50B. impact: + / category: earnings
+
+> [!claim] (출처: TechTimes, 2026-06-24) Micron secures $100B+ in multi-year customer contracts across DRAM/NAND
+> 16개 고객사와 $100B+ 다년 계약, DRAM·NAND 수급 보장. impact: + / category: product
+
+> [!claim] (출처: GlobeNewswire, 2026-06-22) Micron and Anthropic announce strategic memory supply & investment agreement
+> Anthropic과 메모리 공급·투자 전략 계약, AI 인프라 확장. impact: + / category: product
+
+> [!claim] (출처: GlobeNewswire, 2026-06-10) Micron selects Bechtel as construction partner for $100B New York megafab
+> 뉴욕 Clay 메가팹($100B) 건설 파트너 Bechtel 선정. impact: + / category: product
+
+> [!claim] (출처: Counterpoint Research, 2026-06-25) Memory market: SK Hynix HBM leadership, DRAM/NAND shortages persist into 2027
+> SK하이닉스 HBM 58% 점유, 마이크론 21% 추격 — 가격 경쟁. impact: - / category: macro
+
+**경쟁사 동향**:
+- SK Hynix: SK하이닉스 HBM 58% 점유로 HBM3E 주도 — 마이크론 HBM 가격/마진 경쟁 압박, 물량은 선약으로 우위
+- AVGO: Broadcom Q2 AI 매출 $10.8B이나 가이던스 경고로 셀오프 — 인프라 투자 심리 악화, 마이크론 강한 수요는 차별화
+
+
 ### 2026-06-23
 
 **narrative_score**: +0.05 (약한 긍정)

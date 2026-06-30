@@ -1,7 +1,7 @@
 ---
 title: "ASML - ASML Holding NV — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-23
+updated: 2026-06-30
 domain: finance
 type: claim
 weight: reference
@@ -20,6 +20,7 @@ sources: []
 
 > [!info] 자동 수집 노트
 > 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 직접 편집해도 되지만, HTML 마커(`<!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-30**: MATCH법 통과 시 DUV 매출 ~20% 손실 현실화 여부 (7일 검증 대기)
 - [x] **2026-05-19**: 2026 가이던스 +16% YoY 380억 유로 — 분기 진행 상황 검증 필요 → **exceeded** (가이던스 €36~40B로 상향, Q1 €88억 매출·마진 53%, 2026-06-10 확인)
 - [x] **2026-06-02**: UBS 목표가 €1,900 vs Morningstar 매도 — 밸류에이션 합리성 검증 → **bull-case-confirmed** (BofA €1,921·JPM €1,900·바클레이즈 €1,900·MS €1,660 4사 동시 상향, 2026-06-10)
 - [x] **2026-06-09**: 일론 머스크 Terafab JV ($550억 텍사스 팹) — 실제 ASML 장비 수주로 이어질지 → **progressing** (CEO 직접 협상 중, '매우 진지'하다고 공개 확인, 2026-06-10)
@@ -56,6 +57,32 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-30
+
+**narrative_score**: +0.42 (강한 긍정 모멘텀)
+**key_events**: 삼성·SK 한국 팹 투자 → EUV 주문 신호, 중국 EUV 유출 의혹 부인, 美·네덜란드 수출규제 협상
+**risks**: MATCH법 통과 시 DUV 매출 ~20% 손실, 중국 수출통제 강화, 중국 매출 비중 하락
+
+> [!claim] (출처: Bloomberg, 2026-06-30) Chip-tool stocks surge as Samsung, SK Hynix unveil major Korea fab investment
+> 삼성·SK 한국 대규모 팹 투자 발표로 ASML +6.8% 신고가. impact: + / category: macro
+
+> [!claim] (출처: Investing.com, 2026-06-30) Chip tool stocks surge up to 9% on Samsung, SK's Korea bet
+> 삼성·SK 장기 투자 commitment에 장비주 최대 +9%. impact: + / category: macro
+
+> [!claim] (출처: GuruFocus, 2026-06-30) ASML set to benefit from increased semiconductor investments
+> 팹 증설 capex 확대로 EUV 독점 수요 강화, Q2~Q3 전망 호조. impact: + / category: other
+
+> [!claim] (출처: Igor's Lab, 2026-06-19) ASML denies US allegations over EUV tool delivery to China
+> 美 상무부의 중국 EUV 유출 의혹 전면 부인, 규제 정밀조사 지속. impact: - / category: regulation
+
+> [!claim] (출처: NL Times, 2026-06-24) Dutch government irritated by US plans for new ASML export restrictions
+> 美 MATCH법 수출규제 확대 — DUV 매출 ~20% 위협. impact: - / category: regulation
+
+**경쟁사 동향**:
+- AMAT: Applied Materials AI 칩 신규 장비 출시, 목표가 상향 — 공정 다각화 수요 확대이나 ASML EUV 독점 지위는 견고
+- LRCX: Lam Research BofA 목표가 $480로 상향, WFE 전망 상향 — 삼성·SK 투자는 EUV+후속 공정 모두 필요 — 시장 확대 국면
+
+
 ### 2026-06-23
 
 **narrative_score**: +0.01 (중립)

@@ -1,7 +1,7 @@
 ---
 title: "HSAI - Hesai Group — Routine News Log"
 created: 2026-06-16
-updated: 2026-06-23
+updated: 2026-06-30
 domain: finance, ai
 type: claim
 weight: reference
@@ -24,6 +24,7 @@ sources: []
 ## 미해결 가설 (Open Claims)
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-30**: 저가 제품 믹스로 마진 하락 현실화 여부 (7일 검증 대기)
 - [ ] **2026-06-16**: 8:1 주식 분할 AGM 6/26 — 주주 승인 후 주가 단기 반응 및 유동성 개선 여부 (14일)
 - [ ] **2026-06-16**: 2026 가이던스 RMB 42-46억 + 순익 5-7억 — 흑자 유지 여부 (분기 실적 검증)
 - [ ] **2026-06-16**: Kosmo 3D 이미징 센서 — 자동차 외 로봇·카메라 시장 매출 비중 확대 여부 (6개월)
@@ -46,6 +47,29 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-30
+
+**narrative_score**: +0.30 (강한 긍정 모멘텀)
+**key_events**: 8대1 주식분할 승인, Innok 실외 자율로봇 협력, Q2 +20~27% 가이던스
+**risks**: 저가 제품 믹스로 마진 하락, Ouster Rev8 경쟁 확대, Mobileye 로보택시 진입
+
+> [!claim] (출처: GlobeNewswire, 2026-06-26) Hesai Group shareholders approve 8-for-1 share split at AGM
+> 6/26 주총서 8대1 주식분할 등 전 안건 승인. impact: neutral / category: other
+
+> [!claim] (출처: Hesai Group, 2026-06-17) Hesai XT32 lidar powers Innok Robotics outdoor autonomy
+> XT32 라이다, Innok 실외 자율로봇에 360도 시야 제공. impact: + / category: product
+
+> [!claim] (출처: Hesai IR, 2026-05-19) Hesai Q2 2026 revenue guidance: RMB 850M-900M (+20% to +27% YoY)
+> Q2 순매출 RMB850~900M(+20~27% YoY) 가이던스. impact: + / category: earnings
+
+> [!claim] (출처: Simply Wall St, 2026-06-25) Hesai valuation debate: gross margin pressure vs 27% EPS growth
+> 저가 제품 믹스로 마진 하락 우려 vs EPS +27% 성장 전망. impact: neutral / category: other
+
+**경쟁사 동향**:
+- OUST: Ouster, Benchmark와 Rev8 생산 확대(연 10만대+) — 소프트웨어 결합형 라이다 경쟁 심화 — 기술 격차 유지 필요
+- MBLY: Mobileye 수직통합 로보택시(2027) 발표 — 로보택시 라이다 수요 창출이나 ADAS 경쟁 심화 리스크
+
+
 
 ### 2026-06-23
 

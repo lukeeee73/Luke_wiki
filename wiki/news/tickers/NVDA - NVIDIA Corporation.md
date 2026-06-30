@@ -1,7 +1,7 @@
 ---
 title: "NVDA - NVIDIA Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-23
+updated: 2026-06-30
 domain: finance
 type: claim
 weight: reference
@@ -20,6 +20,7 @@ AI(인공지능) 열풍의 최대 수혜 기업으로, GPU(그래픽 처리 장�
 
 > [!info] 자동 수집 노트
 > 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 직접 편집해도 되지만, HTML 마커(`<!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-30**: TSMC 가격 인상 → 하반기 마진 압박 현실화 여부 (7일 검증 대기)
 - [x] **2026-05-19**: Q1 FY2027 어닝 5/20 발표 — EPS $1.78 (+120% YoY) 달성 여부 → **verified** (실제 EPS $1.87, 매출 $81.6B — 컨센서스 상회, 2026-06-02 확인)
 - [x] **2026-05-19**: 중국 H200 칩 판매 재개 — $500억 시장 규모 현실화 여부 → **refuted** (젠슨 황: "중국 AI 칩 시장을 화웨이에 양보", H200 판매 재개 불투명, 2026-06-02 확인)
 - [x] **2026-06-02**: COMPUTEX RTX Spark 슈퍼칩 — AI PC 시장 점유율 확보 여부 → **on-track** (애플 Google Cloud/NVIDIA 파트너십으로 AI 생태계 장악 강화, 2026-06-10 확인)
@@ -58,6 +59,30 @@ AI(인공지능) 열풍의 최대 수혜 기업으로, GPU(그래픽 처리 장�
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-30
+
+**narrative_score**: +0.38 (강한 긍정 모멘텀)
+**key_events**: Palantir 정부 소버린 AI 협력, RTX Spark PC CPU 진입, Vera Rubin 풀 프로덕션
+**risks**: TSMC 가격 인상 → 하반기 마진 압박, AI 규제 강화 압박, 섹터 셀오프 여진
+
+> [!claim] (출처: NVIDIA Newsroom, 2026-06-29) NVIDIA partners with Palantir on sovereign AI platform for U.S. government
+> NVDA·Palantir, 정부용 소버린 AI 플랫폼 공동개발 — 엔터프라이즈/정부 확장. impact: + / category: product
+
+> [!claim] (출처: Yahoo Finance, 2026-06-29) NVIDIA shares up 1.3% on June 29 amid semiconductor sector recovery
+> NVDA 주가 +1.3% 반등하나 5월 고점 대비 약 23% 하락 상태. impact: + / category: macro
+
+> [!claim] (출처: Tom's Hardware, 2026-06-01) NVIDIA RTX Spark superchip enters production for fall 2026 launch
+> Arm CPU+Blackwell GPU 통합 RTX Spark 양산 — PC CPU 시장 진입. impact: + / category: product
+
+> [!claim] (출처: NVIDIA Newsroom, 2026-05-31) Vera Rubin AI platform ramps into full production
+> 차세대 Vera Rubin 플랫폼 풀 생산 진입, 하반기 파트너 제품 출시. impact: + / category: product
+
+**경쟁사 동향**:
+- AVGO: Broadcom FY26 AI 매출 가이던스 $56B로 상향했으나 기대 미달로 셀오프 — AI 칩 수요 신뢰 일부 회복, 단 가이던스 실망이 섹터 변동성 키움
+- INTC: Intel 18A-P 리스크 생산 진입, 파운드리 로드맵 진전 — NVDA의 대체 파운드리 옵션 다양화 — TSM 의존도 분산 잠재
+- TSM: TSMC 첨단 노드 5~10% 가격 인상 통지 — Blackwell 원가 구조 직접 영향 — 하반기 마진 압박 요인
+
+
 ### 2026-06-23
 
 **narrative_score**: -0.12 (약한 부정)

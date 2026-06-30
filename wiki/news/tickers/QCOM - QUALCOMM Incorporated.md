@@ -1,7 +1,7 @@
 ---
 title: "QCOM - QUALCOMM Incorporated — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-23
+updated: 2026-06-30
 domain: finance
 type: claim
 weight: reference
@@ -20,6 +20,7 @@ sources: []
 
 > [!info] 자동 수집 노트
 > 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 직접 편집해도 되지만, HTML 마커(`<!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-30**: 모바일 핸드셋 수요 침체 현실화 여부 (7일 검증 대기)
 - [x] **2026-05-19**: Q3 가이던스 하회 — 스마트폰 수요 회복 시점 불확실 → **partially resolved** (Dragonfly 데이터센터 전략으로 스마트폰 의존도 탈피 중, 2026-06-10)
 - [x] **2026-06-02**: NVDA RTX Spark AI PC 공세 — Snapdragon X Elite 점유율 방어 가능 여부 → **challenged** (QCOM 주가 6/5 -9.52% 급락, Dragonfly 데이터센터 전략으로 일부 방어, 2026-06-10)
 - [x] **2026-05-19**: 경영진 자사주 매입 — 저평가 판단 신호 vs 구조적 약세 (pending — 직접 증거 미확인) → **aged-out** (2026-06-23)
@@ -45,6 +46,29 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-30
+
+**narrative_score**: +0.41 (강한 긍정 모멘텀)
+**key_events**: 비핸드셋 목표 $40B로 상향, Dragonfly C1000 CPU·Meta 고객, Modular $3.92B 인수, 자동차 목표 $10B
+**risks**: 모바일 핸드셋 수요 침체, 애플 자체 모뎀 개발, 데이터센터 INTC·AMD 경쟁
+
+> [!claim] (출처: CNBC, 2026-06-24) Qualcomm nearly doubles 2029 non-handset revenue target to $40B at Investor Day
+> 2029 비핸드셋 매출 목표 $22B→$40B 상향(데이터센터 $15B). impact: + / category: earnings
+
+> [!claim] (출처: CNBC, 2026-06-24) Qualcomm acquires AI software startup Modular for $3.92B
+> AI 소프트웨어 기업 Modular $3.92B 인수 — CUDA 대항. impact: + / category: m&a
+
+> [!claim] (출처: Data Center Dynamics, 2026-06-24) Qualcomm unveils Dragonfly C1000 data center CPU, Meta as first customer
+> 250코어 Dragonfly C1000 CPU 공개, Meta 2028 배포. impact: + / category: product
+
+> [!claim] (출처: Investing.com, 2026-06-24) Qualcomm raises automotive revenue target to $10B by FY2029
+> 자동차 매출 목표 $8B→$10B, $65B 파이프라인. impact: + / category: earnings
+
+**경쟁사 동향**:
+- AVGO: Broadcom Q2 AI 매출 $10.8B이나 Q3 가이던스 기대 미달 — QCOM 데이터센터 접근법 상대 부각, AI 수요 포화 신호 주의
+- INTC: Intel 18A-P 리스크 생산, 데이터센터 CPU 경쟁 — QCOM Dragonfly 진입으로 INTC와 직접 경쟁 심화
+
+
 ### 2026-06-23
 
 **narrative_score**: +0.17 (약한 긍정)

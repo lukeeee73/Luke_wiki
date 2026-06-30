@@ -1,7 +1,7 @@
 ---
 title: "LRCX - Lam Research Corp. — Routine News Log"
 created: 2026-05-19
-updated: 2026-06-23
+updated: 2026-06-30
 domain: finance
 type: claim
 weight: reference
@@ -20,6 +20,7 @@ sources: []
 
 > [!info] 자동 수집 노트
 > 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 직접 편집해도 되지만, HTML 마커(`<!-- OPEN_CLAIMS_START -->
+- [ ] **2026-06-30**: SK하이닉스 HBM 감속 현실화 여부 (7일 검증 대기)
 - [x] **2026-05-19**: Q1 매출 $5.84B 역대 최고 — Q2 가이던스 $6.6B 달성 가능성 → **on-track** (Q3 FY2026도 강세, 어드밴스드 패키징 50%+ 성장, 2026-06-10)
 - [x] **2026-05-19**: 삼성전자 5/21 파업 — 발주 지연 및 공급망 영향 규모 파악 필요 → **resolved** (COMPUTEX 후 LRCX 급등·52주 신고가 — 파업 영향 제한적, 2026-06-02)
 - [x] **2026-06-02**: WFE 전망 ~$1,400억 상향 — 실제 수주 증가 여부 → **verified** (미즈호 $380·MS Overweight·B.Riley $385 동시 상향, 2026-06-10)
@@ -49,6 +50,32 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-06-30
+
+**narrative_score**: +0.34 (강한 긍정 모멘텀)
+**key_events**: Cantor 목표가 $500, Russell Top 50 편입, 삼성 1.4nm 로드맵, 마이크론 호실적 동반 랠리
+**risks**: SK하이닉스 HBM 감속, 중국 규제 강화, YTD +114% 밸류에이션 부담
+
+> [!claim] (출처: Investing.com, 2026-06-29) Cantor Fitzgerald raises LRCX price target to $500 on AI capex momentum
+> Cantor 목표가 $425→$500 상향, 주가 +6.6%. impact: + / category: macro
+
+> [!claim] (출처: Yahoo Finance, 2026-06-27) LRCX joins Russell Top 50; record Q3 fiscal results drive 114% YTD gains
+> Russell Top 50 편입, FY26 Q3 기록 매출 $5.84B(+24%). impact: + / category: earnings
+
+> [!claim] (출처: TrendForce, 2026-06-30) Samsung resumes 1.4nm process development, targets 2029 mass production
+> 삼성 1.4nm(SF1.4) 재개, 장비 수요 장기 지지. impact: + / category: other
+
+> [!claim] (출처: TechPowerUp, 2026-06-23) SK Hynix slows HBM/advanced NAND ramp, shifts to commodity DRAM
+> SK하이닉스 HBM4·고급 NAND 감속 → 장비 집약도 하락. impact: - / category: macro
+
+> [!claim] (출처: ts2.tech, 2026-06-29) Micron Q3 blowout drives memory equipment capex rally across sector
+> 마이크론 호실적에 LRCX·AMAT·KLAC·ASML 4~6% 동반 랠리. impact: + / category: macro
+
+**경쟁사 동향**:
+- AMAT: AMAT 2026 장비 성장 가이던스 >30%로 상향 — 동급 경쟁사 동반 수혜, LRCX etch 독점성으로 고마진
+- ASML: ASML FY26 매출 가이던스 상향, EUV 수요 강세 — 삼성 1.4nm 등 미래 노드는 LRCX etch 필수 — 보완 수요
+
+
 ### 2026-06-23
 
 **narrative_score**: +0.17 (약한 긍정)
