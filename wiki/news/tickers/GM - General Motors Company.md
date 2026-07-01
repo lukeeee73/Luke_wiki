@@ -1,7 +1,7 @@
 ---
 title: "GM - General Motors Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-17
+updated: 2026-07-01
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [ ] 임원 내부자 매도 추가 발생 여부 (30일 모니터링, 등록: 2026-06-03)
+- [ ] 마이크론 장기 메모리 공급계약의 원가·SDV 로드맵 효과 (90일 검증 대기, 등록: 2026-07-01)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -44,6 +45,8 @@ sources: []
 > [!fact] 배당 $0.18/주, 권리락일 2026-06-05 (GM IR, 2026-06-02)
 
 > [!fact] 관세 대법원 판결로 2026년 EBIT 가이던스 상향 (~$0.5B 효과) (GM IR, 2026-05-30)
+> [!fact] Q2 미국 판매 -4.2%, EV -40.7%(점유율 약 3.8%) (Automotive News/CNBC, 2026-07-01)
+
 <!-- FACTS_END -->
 
 ---
@@ -51,6 +54,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-01 (수) — narrative_score: -0.06
+
+> [!claim] 핵심 시그널
+> 마이크론과 장기 메모리 공급 계약(LPDRAM·NOR·UFS NAND) — SDV·ADAS 대비 (출처: Yahoo Finance, 2026-07-01)
+
+> [!claim] 매크로
+> Q2 미국 판매 -4.2%(약 71.5만대), EV 물량 감소·트럭/SUV 방어 (출처: CNBC, 2026-07-01)
+
+> [!claim] 매크로
+> Q2 미국 EV 2.74만대(-40.7%), EV 점유율 약 3.8%로 하락 (출처: Automotive News, 2026-07-01)
+
+**narrative_score**: -0.06 (earnings_outlook: -0.10, competitive_position: +0.05, regulatory_risk: +0.00, macro_sensitivity: -0.20)
+
+**key_events**: 마이크론 장기 메모리 공급 계약, Q2 미국 판매 -4.2%, 미국 EV -40.7%(점유율 3.8%)
+
+**risks**: EV 수요 둔화 지속, 토요타에 미국 1위 추월 가능성, 소비 심리 약화
+
+---
 ### 2026-06-17 (수) — narrative_score: +0.07
 
 > [!claim] 핵심 시그널

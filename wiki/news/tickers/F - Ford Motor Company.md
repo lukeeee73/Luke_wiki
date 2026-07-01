@@ -1,7 +1,7 @@
 ---
 title: "F - Ford Motor Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-17
+updated: 2026-07-01
 domain: finance
 type: claim
 weight: reference
@@ -29,8 +29,9 @@ sources: []
 
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] 5월 미국 판매 회복 여부 (30일 검증 대기, 등록: 2026-06-03)
+- [x] 5월 미국 판매 회복 → **미회복 (2026-07-01)**: 콕스, Q2 미국 판매 -12%·점유율 12.6% 전망으로 회복 신호 없음
 - [ ] CMO 공석에 따른 마케팅 전략 변화 (30일 검증 대기)
+- [ ] 74.1만대 파크시스템 리콜 비용·수리 범위 (30일 검증 대기, 등록: 2026-07-01)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -43,6 +44,8 @@ sources: []
 > [!fact] Q1 2026 EPS $0.64 (전년 $0.12), 순이익 $2.55B (+441%) (SEC Form 8-K, 2026-04-29)
 
 > [!fact] 4월 미국 판매 178,667대 (-14.4% YoY); EV 판매 -31.1% (포드 공시, 2026-06-01)
+> [!fact] 파크시스템 SW 결함으로 741,195대 리콜(롤어웨이 위험) (NHTSA/NBC News, 2026-06-30)
+
 <!-- FACTS_END -->
 
 ---
@@ -50,6 +53,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-01 (수) — narrative_score: -0.29
+
+> [!claim] 핵심 시그널
+> 변속 SW 결함으로 74.1만대 리콜(익스페디션·내비게이터·익스플로러·F-150) — 롤어웨이 위험 (출처: NBC News, 2026-06-30)
+
+> [!claim] 규제 리스크
+> 브롱코 3.6만대 별도 리콜 — 펜더 플레어 이탈 도로 위험 (출처: Yahoo Autos, 2026-06-30)
+
+> [!claim] 매크로
+> 콕스, 포드 Q2 미국 판매 약 -12%·점유율 12.6%로 하락 전망 (출처: Automotive News, 2026-06-26)
+
+**narrative_score**: -0.29 (earnings_outlook: -0.25, competitive_position: -0.30, regulatory_risk: -0.40, macro_sensitivity: -0.20)
+
+**key_events**: 74.1만대 파크시스템 리콜, 브롱코 3.6만대 리콜, Q2 미국 판매 -12% 전망
+
+**risks**: 대형 리콜 비용·브랜드 신뢰 훼손, EV(Model e) 수요 둔화, 관세·가격 부담에 점유율 하락
+
+---
 ### 2026-06-17 (수) — narrative_score: -0.20
 
 > [!claim] 핵심 시그널

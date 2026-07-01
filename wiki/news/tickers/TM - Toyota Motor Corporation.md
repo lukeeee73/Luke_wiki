@@ -1,7 +1,7 @@
 ---
 title: "TM - Toyota Motor Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-17
+updated: 2026-07-01
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] 인증 위반 추가 차종 확산 여부 (30일 검증 대기, 등록: 2026-06-03)
 - [ ] 규제기관 제재 수위 (행정처분 vs 형사 조사) (30일 검증 대기)
+- [ ] 조비(Joby) eVTOL 제조 합작사 상용 생산 진척 (180일 검증 대기, 등록: 2026-07-01)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -43,6 +44,8 @@ sources: []
 > [!fact] FY2026 매출 50.7조엔, 순이익 3.85조엔 공시 (Toyota IR/SEC 6-K, 2026-06-01)
 
 > [!fact] 인증 위반으로 코롤라 필더·코롤라 악시오·야리스 크로스 일본 내 출하·판매 정지 (2026-06-03, 복수 매체 보도)
+> [!fact] 6월 미국 판매 +10.1%(212,793대), 전동화 비중 57.4%·Q2 +1.1% (Toyota USA Newsroom, 2026-07-01)
+
 <!-- FACTS_END -->
 
 ---
@@ -50,6 +53,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-01 (수) — narrative_score: +0.21
+
+> [!claim] 핵심 시그널
+> 6월 미국 판매 +10.1%(21.28만대), 전동화 +35%(비중 57.4%), Q2 +1.1% (출처: Toyota USA Newsroom, 2026-07-01)
+
+> [!claim] 전략/제휴
+> 조비와 전동수직이착륙(eVTOL) 제조 합작사 설립(토요타 51%) (출처: Joby Aviation / Toyota, 2026-06-30)
+
+> [!claim] 실적/판매
+> 하이브리드 주도 성장으로 상반기 GM과의 미국 판매 격차 10만대 미만(2021년 이후 최소) (출처: Automotive News, 2026-07-01)
+
+**narrative_score**: +0.21 (earnings_outlook: +0.30, competitive_position: +0.30, regulatory_risk: +0.00, macro_sensitivity: +0.10)
+
+**key_events**: 6월 미국 판매 +10.1%(전동화 +35%), 조비 eVTOL 제조 합작사(51%), GM과 미국 판매 격차 10만대 미만
+
+**risks**: 일본산 수입 관세 불확실성, RAV4·렉서스 ES 재고 부족, 엔/달러 환율 변동
+
+---
 ### 2026-06-17 (수) — narrative_score: -0.12
 
 > [!claim] 핵심 시그널
