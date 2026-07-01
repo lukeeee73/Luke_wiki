@@ -1,7 +1,7 @@
 ---
 title: "STLA - Stellantis N.V — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-17
+updated: 2026-07-01
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [ ] 증권사기 집단소송 법원 수리 여부 및 규모 (60일 검증 대기, 등록: 2026-06-03)
 - [ ] 뮐루즈 €1B 투자 확정 및 착공 일정 (2028년 검증 대기)
+- [ ] 2019년 이후 첫 미국 점유율 확대의 지속성 (분기별 모니터링, 등록: 2026-07-01)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -41,6 +42,8 @@ sources: []
 
 <!-- FACTS_START -->
 > [!fact] 2026-02-06 STLA 주가 $2.26(-23.7%) 하락, 복수 법무법인 집단소송 착수 (GlobeNewswire/복수 확인, 2026-06-01)
+> [!fact] 상반기 미국 판매 634,187대(+5%), 2019년 이후 첫 점유율 확대 (Stellantis PR Newswire, 2026-07-01)
+
 <!-- FACTS_END -->
 
 ---
@@ -48,6 +51,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-01 (수) — narrative_score: +0.19
+
+> [!claim] 핵심 시그널
+> 상반기 미국 판매 63.4만대(+5%), Q2 +6%·6월 +10%, 그랜드왜고니어 +43%·램1500 +9% (출처: PR Newswire, 2026-07-01)
+
+> [!claim] 제품/전략
+> 둥펑과 中 생산 대형 지프 SUV 공동개발, 2030년 유럽 판매(모델 2→6종) (출처: Bloomberg, 2026-06-29)
+
+> [!claim] 실적/판매
+> 램·닷지 강세로 Q2 미국 판매 +6%, 지프는 소폭 감소 (출처: Automotive News, 2026-07-01)
+
+**narrative_score**: +0.19 (earnings_outlook: +0.25, competitive_position: +0.30, regulatory_risk: +0.00, macro_sensitivity: +0.10)
+
+**key_events**: 상반기 미국 판매 +5%(2019년 이후 첫 점유율 확대), Q2 미국 판매 +6%, 中 생산 지프 유럽 판매(2030)
+
+**risks**: 지프 브랜드 판매 둔화, 中 생산 지프의 유럽 관세·정치 리스크, EV 전환 지연
+
+---
 ### 2026-06-17 (수) — narrative_score: -0.09
 
 > [!claim] 핵심 시그널

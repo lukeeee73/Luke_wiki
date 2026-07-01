@@ -1,7 +1,7 @@
 ---
 title: "NIO - NIO Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-17
+updated: 2026-07-01
 domain: finance
 type: claim
 weight: reference
@@ -29,8 +29,8 @@ sources: []
 
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] 6월 인도량 42,939~47,939대 달성 여부 (30일 검증 대기, 등록: 2026-06-03)
-- [ ] Q2 전체 가이던스 110k~115k 달성 여부 (60일 검증 대기)
+- [x] 6월 인도량 42,939~47,939대 달성 여부 → **미달 (2026-07-01)**: 실제 40,597대(+62.9%)로 대기 범위 하단 하회
+- [x] Q2 전체 가이던스 110k~115k 달성 여부 → **미달 (2026-07-01)**: 실제 107,658대로 가이던스 하회, 주가 야간 하락
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -43,6 +43,8 @@ sources: []
 > [!fact] 5월 2026 인도 37,705대 (+62.3% YoY); 누적 1,148,118대 (NIO IR 공식 발표, 2026-06-01)
 
 > [!fact] ONVO L80 2026-05-15 출시 및 즉시 인도 시작 (NIO IR, 2026-05-15)
+> [!fact] 6월 인도 40,597대(+62.9%), Q2 107,658대(+49.4%), 누적 1,188,715대 (NIO IR/GlobeNewswire, 2026-07-01)
+
 <!-- FACTS_END -->
 
 ---
@@ -50,6 +52,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-01 (수) — narrative_score: -0.02
+
+> [!claim] 핵심 시그널
+> 6월 인도 40,597대(+62.9%), Q2 107,658대(+49.4%), 누적 118.9만대 (출처: GlobeNewswire, 2026-07-01)
+
+> [!claim] 실적/판매
+> 6월 사상 최대에도 Q2 인도가 가이던스(11.0만~11.5만) 하회로 주가 하락 (출처: Yahoo Finance / Benzinga, 2026-07-01)
+
+> [!claim] 제품/전략
+> NIO 21,908·ONVO 11,743·FIREFLY 6,946로 연중 최고, 다만 Q2 가이던스 미달 (출처: CnEVPost, 2026-07-01)
+
+**narrative_score**: -0.02 (earnings_outlook: -0.10, competitive_position: +0.10, regulatory_risk: +0.00, macro_sensitivity: +0.00)
+
+**key_events**: 6월 인도 40,597대(연중 최고), Q2 인도 가이던스 하회, ES9 30일 내 1만대 돌파
+
+**risks**: Q2 가이던스 미달로 신뢰도 훼손, 중국 프리미엄 EV 수요 둔화, 가격 경쟁·마진 압박
+
+---
 ### 2026-06-17 (수) — narrative_score: +0.21
 
 > [!claim] 핵심 시그널

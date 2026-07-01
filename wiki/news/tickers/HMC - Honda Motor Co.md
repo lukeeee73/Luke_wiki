@@ -1,7 +1,7 @@
 ---
 title: "HMC - Honda Motor Co., Ltd — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-17
+updated: 2026-07-01
 domain: finance
 type: claim
 weight: reference
@@ -30,6 +30,7 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [ ] Q4 FY2026 손실 원인 공식 설명 (2026-06-26 주총에서 확인 예정)
+- [ ] 약 25억달러 유로본드 발행 조건·시점 확정 (60일 검증 대기, 등록: 2026-07-01)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -40,6 +41,8 @@ sources: []
 
 <!-- FACTS_START -->
 > [!fact] 5월 미국 판매 148,903대 (+9.9% YoY) (American Honda Motor 공시, 2026-06-02)
+> [!fact] 6월 미국 판매 +17%(133,781대)로 5년 만 최고, CR-V 사상 최대 (American Honda, 2026-07-01)
+
 <!-- FACTS_END -->
 
 ---
@@ -47,6 +50,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-01 (수) — narrative_score: +0.12
+
+> [!claim] 핵심 시그널
+> 6월 미국 판매 +17%(13.38만대) 5년 만 최고, CR-V 사상 최대 (출처: Honda News, 2026-07-01)
+
+> [!claim] 기타 동향
+> EV 계획 축소 후 부품사 보상·하이브리드 재원 위해 약 25억달러 유로본드 검토 (출처: Nikkei Asia, 2026-06-30)
+
+> [!claim] 실적/판매
+> CR-V·시빅 수요로 5년 만의 최고 6월 미국 실적 (출처: Investing.com, 2026-07-01)
+
+**narrative_score**: +0.12 (earnings_outlook: +0.20, competitive_position: +0.15, regulatory_risk: +0.00, macro_sensitivity: +0.00)
+
+**key_events**: 6월 미국 판매 +17%(5년 만 최고), CR-V 사상 최대 판매, 약 25억달러 유로본드 검토
+
+**risks**: EV 전환 축소에 따른 중장기 경쟁력 의문, 부품사 보상·구조조정 비용, 닛산·토요타와 미국 SUV 경쟁
+
+---
 ### 2026-06-17 (수) — narrative_score: -0.19
 
 > [!claim] 핵심 시그널

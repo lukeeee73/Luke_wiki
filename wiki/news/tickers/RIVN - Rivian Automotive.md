@@ -1,7 +1,7 @@
 ---
 title: "RIVN - Rivian Automotive, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-17
+updated: 2026-07-01
 domain: finance
 type: claim
 weight: reference
@@ -29,7 +29,7 @@ sources: []
 
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] R2 실제 인도량 (6월 9일 이후, 30일 검증 대기, 등록: 2026-06-03)
+- [x] R2 실제 인도량 (6월 9일 이후) → **램프업 확인 (2026-07-01)**: Q2 R2 1,100대+ 인도 전망(7/2 발표), 노멀 공장 첫 인도 개시
 - [ ] 추가 플랫폼 라이선싱 계약 파트너 공개 (60일 검증 대기)
 - [ ] 2026년 연간 인도 가이던스 62,000–67,000대 달성 여부 (연말 검증)
 <!-- OPEN_CLAIMS_END -->
@@ -53,6 +53,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-01 (수) — narrative_score: +0.08
+
+> [!claim] 핵심 시그널
+> R2 SUV 인도 램프업 기대에 주가 +8.89%($16.54) (출처: Traders Union, 2026-06-30)
+
+> [!claim] 기타 동향
+> 노멀 공장 첫 R2 인도 + 2% 미만 감원으로 마진 규율 신호, 현금소진은 부담 (출처: StocksToTrade, 2026-06-30)
+
+> [!claim] 제품/전략
+> VIN·인도 데이터상 Q2 R2 1,100대+ 인도 전망(7/2 발표) (출처: Electric-Vehicles.com, 2026-06-29)
+
+**narrative_score**: +0.08 (earnings_outlook: +0.10, competitive_position: +0.20, regulatory_risk: +0.00, macro_sensitivity: -0.10)
+
+**key_events**: R2 인도 램프업에 주가 +8.89%, Q2 R2 1,100대+ 인도 전망, 2% 미만 감원(비용 규율)
+
+**risks**: 현금소진 지속, EV 수요 전반 둔화, 경쟁사 대비 규모 열위
+
+---
 ### 2026-06-17 (수) — narrative_score: +0.01
 
 > [!claim] 핵심 시그널

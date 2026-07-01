@@ -1,7 +1,7 @@
 ---
 title: "TSLA - Tesla Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-17
+updated: 2026-07-01
 domain: finance
 type: claim
 weight: reference
@@ -29,8 +29,9 @@ sources: []
 
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] 스페이스X-테슬라 합병 논의 공식화 여부 (7일 검증 대기, 등록: 2026-06-03)
+- [x] 스페이스X-테슬라 합병 논의 공식화 → **aged-out (2026-07-01)**: 약 4주간 공식화 없음, 투기 단계 종료로 판단
 - [ ] 텍사스 SB 2807 최종 통과 시 로보택시 출시 지연 범위 (30일 검증 대기)
+- [ ] Q2 인도 컨센서스(~40.6만대) 대비 실제치 (2026-07-02 발표 예정, 등록: 2026-07-01)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -50,6 +51,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-01 (수) — narrative_score: -0.21
+
+> [!claim] 핵심 시그널
+> 월가 컨센서스 Q2 인도 ~40.6만대(7/2 발표), 블룸버그 저점 39.65만대 (출처: TechTimes, 2026-06-29)
+
+> [!claim] 매크로
+> 미국 Q2 판매 약 -13%, EV 수요 둔화·점유율 상실 (출처: Automotive News, 2026-07-01)
+
+> [!claim] 실적/판매
+> 자체 집계 셀사이드 컨센서스 40.6만대·에너지저장 13.8GWh (출처: Electrek, 2026-06-26)
+
+**narrative_score**: -0.21 (earnings_outlook: -0.20, competitive_position: -0.40, regulatory_risk: +0.00, macro_sensitivity: -0.20)
+
+**key_events**: Q2 인도 컨센서스 ~40.6만대(7/2 발표), 미국 Q2 판매 -13%, BYD BEV 글로벌 1위 탈환
+
+**risks**: BYD 대비 BEV 점유율 열위 고착, 미국 EV 수요 둔화 지속, 7/2 인도 실적 컨센서스 하회 가능성
+
+---
 ### 2026-06-17 (수) — narrative_score: +0.06
 
 > [!claim] 핵심 시그널
