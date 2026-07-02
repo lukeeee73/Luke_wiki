@@ -1,7 +1,7 @@
 ---
 title: "UNH - UnitedHealth Group — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-25
+updated: 2026-07-02
 domain: finance
 type: claim
 weight: reference
@@ -33,6 +33,8 @@ sources: []
 - [ ] 버크셔 UNH 지분 완전 매각이 기관 투자자 신뢰 감소로 이어질 것인가? (기한: 2026-09-30)
 - [ ] DOJ 메디케어 어드밴티지 청구 형사 조사가 실적·밸류에이션에 충격을 줄 것인가? (Q2 실적 7/16 확인)
 - [ ] Optum Rx 투명 정액 PBM 모델이 시장 점유율 확대로 이어질 것인가? (기한: 2026-12-31)
+- [ ] 모건스탠리의 우호적 이용률 근거 Q2 컨센서스 상회 전망이 7/16 실적에서 확인될 것인가? (Q2 실적 7/16 확인)
+- [ ] Guardant Shield 등 신규 진단 커버리지 확대가 Optum 상품 리더십·가입자 방어로 이어질 것인가? (기한: 2026-12-31)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -61,6 +63,9 @@ sources: []
 
 > [!fact] CMS 2027 메디케어 어드밴티지 요율 +2.48% 확정 (다수 매체·CMS 2026-06)
 > 출처: CMS / Yahoo Finance·TS2 (2026-06) — 이전 '2027 동결' 우려 무효화
+
+> [!fact] UNH, Guardant Health Shield 혈액 대장암 검사 커버리지 개시 — 대형 상업보험사 최초 (Business Wire, Yahoo Finance 2건 확인)
+> 출처: Business Wire, Yahoo Finance (2026-07-01) — 45세 이상 평균위험군 대상, 약 4,000만 UHG 가입자 접근 가능
 <!-- FACTS_END -->
 
 ---
@@ -69,7 +74,21 @@ sources: []
 
 <!-- DAILY_START -->
 
-### 2026-06-25 (목) — narrative_score: +0.30
+### 2026-07-02 (목) — narrative_score: +0.17
+
+**핵심 이벤트:** UNH, Guardant Shield 혈액 대장암 검사 커버리지 개시(대형 상업보험 최초) · 모건스탠리 목표가 $468 상향·'Top Pick', 우호적 이용률로 Q2 컨센서스 상회 전망 · Q2 실적 7/16 발표 예정 · DOJ 메디케어 청구 형사·민사 조사 지속  
+**리스크:** DOJ 메디케어 어드밴티지 청구 조사 확대(Optum Rx 포함) · 2026년 300만명+ 가입자 감소 가이던스 · 매사추세츠 메디케이드 소송 · 하반기 의료비 추세 우호성 지속 여부 불확실
+
+> [!claim] 모건스탠리, 목표가 $453→$468 상향·'Top Pick' 지정 (TipRanks, 2026-06-30)
+> Erin Wright 애널리스트. 우호적 의료 이용률·Optum Health 실행 근거로 Q2 EPS를 컨센서스 대비 10센트 상회 전망.
+> ※ DOJ 규제 오버행이 밸류에이션 상단 제약 요인으로 상존.
+
+> [!claim] UNH, Guardant Shield 혈액 대장암 검사 커버리지 개시 (Business Wire, 2026-07-01)
+> 45세 이상 평균위험군 대상 대형 상업보험사 최초 커버. 약 4,000만 가입자 접근 — Optum 상품 리더십 강화.
+
+> [!claim] DOJ 메디케어 어드밴티지 청구 형사·민사 조사 지속 (Yahoo Finance, 2026-06-30)
+> 위험점수 부풀리기·미확인 진단 추가 의혹, Optum Rx·의사 보상까지 확대. 7/16 실적 컨퍼런스콜에서 언급 예상.
+> ※ 규제 오버행 해소 시점 불확실 — 밸류에이션 최대 제약 요인.
 
 **핵심 이벤트:** CMS 2027 MA 요율 +2.48% 확정 · Optum Rx 투명 정액 PBM 모델 출시 · 2주간 애널리스트 목표가 6회 상향(최고 $492) · DOJ 메디케어 청구 형사·민사 조사 지속  
 

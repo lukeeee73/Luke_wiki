@@ -1,7 +1,7 @@
 ---
 title: "AZN - AstraZeneca PLC — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-25
+updated: 2026-07-02
 domain: finance
 type: claim
 weight: reference
@@ -29,8 +29,10 @@ sources: []
 
 <!-- OPEN_CLAIMS_START -->
 - [ ] FDA가 카미제스트란트 재심에서 최종 승인할 것인가? — 심사기한 연장·자문위 부정표로 불확실성 확대 (기한 미정, 결정 후 판정)
-- [ ] 안셀라미맙 CARES 실패가 AZN 항암 파이프라인 밸류에이션에 얼마나 영향을 주는가? (차기 실적 발표 시 확인)
+- [ ] 안셀라미맙 CARES 실패가 AZN 항암 파이프라인 밸류에이션에 얼마나 영향을 주는가? (차기 실적 7/27 발표 시 확인)
 - [ ] 경구 GLP-1 엘레코글리프론 Phase 3 완료 후 LLY·NVO와 차별화될 것인가? (기한: 2028-12-31)
+- [ ] 엔허투 종양불문 EU 승인이 미국·글로벌 ADC 프랜차이즈 매출 확대로 이어질 것인가? (기한: 2026-12-31)
+- [ ] FY26 EPS 컨센서스 하향($10.29→$9.39)이 7/27 실적에서 확인·심화될 것인가? (Q2 실적 7/27 확인)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -58,6 +60,11 @@ sources: []
 > [!fact] 일레코글리프론(elecoglipron) Phase IIb 긍정 결과 — 체중 감소 통계적 유의성 확인 (AstraZeneca IR, 2026-06-16)
 > 출처: AstraZeneca IR (2026-06-16)
 
+> [!fact] 엔허투(Enhertu), EU 최초 종양불문(tumour-agnostic) HER2 표적치료로 승인 — 6번째 EU 적응증 (AZN IR, BioSpace 2건 확인)
+> 출처: AstraZeneca IR, BioSpace / TradingView(Zacks) (2026-06-29) — 이전 치료받은 HER2+ 전이성 고형암 대상, Daiichi Sankyo에 $25M 마일스톤 지급
+
+> [!fact] 텍사스 AG, AstraZeneca와 메디케이드 리베이트 혐의 약 $34M($33.998M) 합의 (Texas AG, STAT News 2건 확인)
+> 출처: Texas Attorney General, STAT News (2026-06-29) — 무료 간호서비스 유인으로 처방 유도 혐의
 <!-- FACTS_END -->
 
 ---
@@ -65,6 +72,23 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-07-02 (목) — narrative_score: +0.16
+
+**핵심 이벤트:** 엔허투 EU 최초 종양불문 HER2 표적치료 승인(6번째 적응증) · Abbisko와 경구 PD-L1 루미포들린+타그리소 NSCLC 병용 임상 협력 · 텍사스 AG 메디케이드 리베이트 약 $34M 합의 · 애널리스트 FY26 EPS 컨센서스 $10.29→$9.39 하향  
+**리스크:** 약가 규제·정부 가격통제 노출 및 R&D 비용 증가로 마진 압박 · 카미제스트란트 FDA 재심 불확실 · 경구 GLP-1 LLY/NVO 대비 후발 · 법적·규제 리스크 반복
+
+> [!claim] 엔허투, EU 최초 종양불문 HER2 표적치료로 승인 (AstraZeneca IR, 2026-06-29)
+> 이전 치료받은 HER2+ 전이성 고형암 대상 6번째 EU 적응증. DESTINY-PanTumor02에서 ORR 52.3% — ADC 프랜차이즈 확장 촉매.
+
+> [!claim] Abbisko와 경구 PD-L1 억제제 루미포들린+타그리소 NSCLC 병용 임상 협력 (PR Newswire, 2026-07-01)
+> EGFR변이·PD-L1 양성 NSCLC 대상 Phase II. 종양학 병용 파이프라인 확장 — IO-TKI 조합 차별화 시도.
+
+> [!claim] 텍사스 AG, 메디케이드 리베이트 혐의 약 $34M 합의 (STAT News, 2026-06-29)
+> 무료 간호서비스 유인으로 처방 유도 혐의. 금액은 작으나 법적·규제 리스크 반복을 시사.
+
+> [!claim] 애널리스트 FY26 EPS 컨센서스 하향, 주가 3% 약세 (GuruFocus, 2026-07-01)
+> FY26 EPS 컨센서스 $10.29→$9.39. 약가 통제·R&D 비용 증가 우려 반영, 7/2엔 승인 소식에 반등.
 
 ### 2026-06-25 (목) — narrative_score: +0.16
 

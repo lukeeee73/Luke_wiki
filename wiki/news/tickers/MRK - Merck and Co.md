@@ -1,7 +1,7 @@
 ---
 title: "MRK - Merck & Co., Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-25
+updated: 2026-07-02
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,9 @@ sources: []
 - [ ] Terns 파마슈티컬스 $6.7B 인수가 2026 EPS에 미치는 희석 효과는 얼마인가? (2026 연간 실적 시 확인)
 - [ ] 가다실 HPV 소송 추가 합의가 이어질 것인가? (기한: 2026-09-04)
 - [ ] 툴리소키바트(anti-TL1A)·트로델비 병용 등 키트루다 외 파이프라인이 2028 특허절벽을 상쇄할 성장축이 될 것인가? (기한: 2026-12-31)
+- [ ] 경구 PCSK9 엔리시타이드(enlicitide) FDA 승인·상업화가 키트루다 절벽을 상쇄할 신성장축이 될 것인가? (기한: 2026-12-31)
+- [ ] 애널리스트 목표가 상향(Scotiabank $155, BofA $141)이 8/4 Q2 실적·가이던스로 확인될 것인가? (기한: 2026-08-04)
+- [ ] MK-1167 실패 후 남은 알츠하이머 자산(tau 표적 MK-2214)이 유효한 신경질환 옵션으로 남을 것인가? (기한: 2027-06-30)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -65,6 +68,9 @@ sources: []
 
 > [!fact] 툴리소키바트(tulisokibart) Phase 3 ATLAS-UC 궤양성대장염 1차·핵심 2차 평가지표 충족 — 최초 anti-TL1A 생물제제 (Businesswire/Merck 2026-06-22)
 > 출처: Businesswire / Merck.com (2026-06-22)
+
+> [!fact] Merck, MK-1167(alpha-7 nAChR 조절제) 알츠하이머 Phase 2 유효성 미달로 개발 중단 — 안전성 이슈 아님 (Fierce Biotech/BioSpace/Endpoints 2026-07-01)
+> 출처: Fierce Biotech, BioSpace, Endpoints News, GuruFocus (2026-07-01) — 복수 매체 확인
 <!-- FACTS_END -->
 
 ---
@@ -72,6 +78,20 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-07-02 (목) — narrative_score: +0.28
+
+**핵심 이벤트:** MK-1167 알츠하이머 Phase 2 유효성 미달로 중단(7/1, MRK·NEUP 하락) · 경구 PCSK9 엔리시타이드 FDA 결정 임박 등 키트루다 외 파이프라인 확장 · 스코샤뱅크 목표가 $155(↑$136)·BofA $141(↑$130) 상향 · Q2 실적 8/4 예정  
+**리스크:** 2028 키트루다 특허절벽 · MK-1167 실패로 알츠하이머 파이프라인 tau MK-2214(2029 종료)만 잔존 · 7/31 발효 제약 관세 및 MFN 약가 압박
+
+> [!claim] MK-1167 알츠하이머 Phase 2 유효성 미달로 개발 중단 (Fierce Biotech/BioSpace, 2026-07-02)
+> alpha-7 nAChR 조절제가 표준 아세틸콜린분해효소 억제제 병용에서 효능 기준 미달. 안전성 문제는 아니나 신경질환 파이프라인 위축, 파트너 Neuphoria에도 타격.
+
+> [!claim] 경구 PCSK9 엔리시타이드 FDA 결정 임박 — 키트루다 외 성장축 확장 (Yahoo Finance, 2026-07-02)
+> CORALreef 3상 양성·CNPV 우선심사 바우처 확보. 최초 경구 PCSK9 억제제로 심혈관 대사 프랜차이즈 신설 기대.
+
+> [!claim] 애널리스트 목표가 상향 — Scotiabank $155, BofA $141 (CNBC, 2026-07-02)
+> 6월 파이프라인 호재 누적·저평가 평가로 목표가 잇단 상향. 7/1 장중 +2.23%.
 
 ### 2026-06-25 (목) — narrative_score: +0.43
 
