@@ -1,7 +1,7 @@
 ---
 title: "TMO - Thermo Fisher Scientific — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-25
+updated: 2026-07-02
 domain: finance
 type: claim
 weight: reference
@@ -28,9 +28,11 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] 바이오파마 capex 둔화가 2026 하반기까지 지속될 것인가? — HSBC 보유 하향(성장둔화 우려) (Q3 TMO 실적에서 최종 확인)
+- [ ] 바이오파마 capex 둔화가 2026 하반기까지 지속될 것인가? — HSBC 보유 하향(성장둔화 우려) (7/23 Q2 TMO 실적에서 최종 확인)
 - [x] 미생물학 사업부 매각 완료 시점과 자본 배분 방향은? ~~(이전 가설)~~ → **verified(부분)**: Astorg에 10.8억달러 매각 계약 체결, 2H26 완료 예정. 자본 배분 방향은 추가 확인 필요.
 - [ ] ASMS 2026 오비트랩 신형 질량분석기가 실질적 매출 기여를 할 것인가? (기한: 2026-12-31)
+- [ ] 7/23 Q2 2026 실적이 컨센서스를 상회하고 FY 가이던스를 유지·상향할 것인가? (기한: 2026-07-24)
+- [ ] Clario 인수(3/24 완료)가 바이오파마 서비스 매출에 의미 있게 기여할 것인가? (기한: 2026-12-31)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -56,6 +58,12 @@ sources: []
 
 > [!fact] Thermo Fisher, 미생물학 사업부를 Astorg에 약 10.8억달러 매각 계약 체결 (2H26 완료 예정) (Thermo Fisher IR/BusinessWire)
 > 출처: Thermo Fisher IR / BusinessWire (2026-04-27 발표)
+
+> [!fact] Thermo Fisher, Clario Holdings 인수 $88.75억에 2026-03-24 완료 — Laboratory Products & Biopharma Services 부문 편입 (Thermo Fisher IR, 8-K/StockTitan 확인)
+> 출처: Thermo Fisher IR, SEC 8-K / StockTitan (2026-03-24 완료)
+
+> [!fact] Thermo Fisher, Q2 2026 실적 2026-07-23 개장 전 발표·컨콜 예정 공지 (BusinessWire/BioSpace 확인)
+> 출처: BusinessWire, BioSpace (2026-07-01)
 <!-- FACTS_END -->
 
 ---
@@ -63,6 +71,18 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-07-02 (목) — narrative_score: +0.07
+
+**핵심 이벤트:** Q2 2026 실적 7월23일 개장 전 발표·컨콜 예정 공지(BusinessWire, 7/1) · 주가 약 $521, 애널리스트 컨센서스 목표가 $593~631(상승여력 17%+) · Clario 인수 3/24 완료·NVIDIA AI 제휴(1월) 등 포트폴리오 확장 지속  
+**리스크:** 미·중 관세로 2025 매출 -$4억 추정 등 중국 노출·기기 주문 경기민감성 · 바이오파마 capex/NIH 연구예산 둔화로 CRO·CDMO 사이클 약세 · ILMN·DHR 경쟁 심화
+
+> [!claim] Q2 2026 실적 7월23일 개장 전 발표·컨콜 예정 (BusinessWire, 2026-07-02)
+> 신규 촉매가 적은 대기 국면으로 7/23 실적이 다음 방향타. 컨센서스 상회·가이던스 유지 여부가 관건.
+
+> [!claim] 주가 약 $521·애널리스트 다수 매수, 상승여력 17%+ (Yahoo Finance, 2026-07-02)
+> YTD 약세에도 29~37명 애널리스트 중 다수 Strong Buy, 목표가 중앙값 $593~620.
+> ※ HSBC는 6/3 PT $540로 보수적 — 바이오파마 수요 둔화 우려가 상단을 제한.
 
 ### 2026-06-25 (목) — narrative_score: +0.11
 

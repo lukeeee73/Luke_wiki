@@ -88,16 +88,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [LLY](tickers/LLY - Eli Lilly and Company.md) | 2026-06-25 | +0.45 | 센테사 인수 완료(신경과학)·트럼프 35억달러 공장 부각·경구 GLP-1 우위 지속 | 4 |
-| [NVO](tickers/NVO - Novo Nordisk AS.md) | 2026-06-25 | +0.02 | DKK 150억 자사주매입·영국 경구 위고비 승인에도 1.3TB 데이터 유출로 중립 | 4 |
-| [JNJ](tickers/JNJ - Johnson and Johnson.md) | 2026-06-25 | +0.11 | FTC Stelara 반독점 개입(악재)·탈크 평결 46.9억→21.1억 감액·TALVEY 3상 호조 | 4 |
-| [PFE](tickers/PFE - Pfizer Inc.md) | 2026-06-25 | -0.03 | 시그보타투그 폐암 3상 OS 미달(-3%)·입랜스 HER2+ FDA 승인·FY26 가이던스 재확인 | 4 |
-| [MRK](tickers/MRK - Merck and Co.md) | 2026-06-25 | +0.43 | 키트루다+트로델비 1차 TNBC 승인·툴리소키바트 첫 anti-TL1A 3상 성공·+4.04% | 3 |
-| [ABBV](tickers/ABBV - AbbVie Inc.md) | 2026-06-25 | +0.31 | Apogee $10.9B 인수(IL-13)·SKYRIZI 소아 건선 EC 승인·애널 목표가 엇갈림 | 3 |
-| [AZN](tickers/AZN - AstraZeneca PLC.md) | 2026-06-25 | +0.16 | IB 목표가 상향(후기 파이프라인)·카미제스트란트 FDA 심사 연기·월간 -5% 약세 | 3 |
-| [UNH](tickers/UNH - UnitedHealth Group.md) | 2026-06-25 | +0.30 | CMS 2027 MA 요율 +2.48% 확정·Optum Rx 투명 PBM·목표가 6회 상향(최고 $492) | 4 |
-| [TMO](tickers/TMO - Thermo Fisher Scientific.md) | 2026-06-25 | +0.11 | 미생물학 사업부 Astorg $10.8억 매각·BIO/ASMS 통합역량·HSBC 보유 하향($540) | 2 |
-| [ABT](tickers/ABT - Abbott Laboratories.md) | 2026-06-25 | +0.23 | ALZpath 혈액 알츠하이머 진단 라이선스·Citi SOTP $99-104·Q2 7/16·PFA 경쟁 | 4 |
+| [LLY](tickers/LLY - Eli Lilly and Company.md) | 2026-07-02 | +0.53 | 메디케어 GLP-1 브릿지 7/1 개시로 Zepbound·경구 Foundayo 신시장 개방, 주가 +3%·목표가 상향 | 6 |
+| [NVO](tickers/NVO - Novo Nordisk AS.md) | 2026-07-02 | +0.05 | 메디케어 개시로 Wegovy 시니어 시장 개방·주가 소폭 반등, 경구 처방 300만 돌파했으나 LLY 열위 지속 | 6 |
+| [JNJ](tickers/JNJ - Johnson and Johnson.md) | 2026-07-02 | +0.19 | 7/15 Q2 실적 앞두고 가이던스 유지·종양학 확장; 비만·중국 조사 비켜서 방어 우위 | 6 |
+| [PFE](tickers/PFE - Pfizer Inc.md) | 2026-07-02 | -0.14 | 美 하원 중국 임상 조사·GLP-1 약가 인하로 압박; 월1회 비만약·6.8% 배당이 방어 | 6 |
+| [MRK](tickers/MRK - Merck and Co.md) | 2026-07-02 | +0.28 | 키트루다 확장·목표가 상향 vs 알츠하이머 MK-1167 2상 중단, 특허절벽·관세 상존 | 6 |
+| [ABBV](tickers/ABBV - AbbVie Inc.md) | 2026-07-02 | +0.25 | 아포지 서사로 7/2 +3.44%·RBC $260 vs 미 하원 중국특위 임상 조사(7/17) | 5 |
+| [AZN](tickers/AZN - AstraZeneca PLC.md) | 2026-07-02 | +0.16 | 엔허투 EU 종양불문 최초 승인·Abbisko 병용 협력 호재 vs 텍사스 $34M 합의·EPS 하향 | 5 |
+| [UNH](tickers/UNH - UnitedHealth Group.md) | 2026-07-02 | +0.17 | 모건스탠리 'Top Pick' $468·Guardant 커버리지 호재, DOJ 조사 오버행 상존 | 6 |
+| [TMO](tickers/TMO - Thermo Fisher Scientific.md) | 2026-07-02 | +0.07 | 신규 촉매 적은 대기 국면 — 7/23 Q2 실적 앞두고 애널리스트 다수 매수 유지 | 5 |
+| [ABT](tickers/ABT - Abbott Laboratories.md) | 2026-07-02 | +0.08 | Baird Outperform($121) 커버리지 개시 — 7/16 Q2 실적 대기, Libre FDA 오버행 잔존 | 6 |
 
 ### 에너지 / 원자재
 
@@ -216,6 +216,27 @@ sources: []
 | [042660.KS](tickers/042660.KS - Hanwha Ocean Co.md) | 2026-07-01 | +0.06 | 캐나다 CPSP 60조원 잠수함 우선협상자 발표 임박(vs 獨 TKMS), 인력양성·MRO 강점 부각 | 3 |
 | [010140.KS](tickers/010140.KS - Samsung Heavy Industries.md) | 2026-07-01 | +0.15 | 상반기 수주 연간목표 69%·FLNG 글로벌 64% 점유, 6월 주가 -19.5%·임원 자사주 매입 | 3 |
 | [010620.KS](tickers/010620.KS - HD Hyundai Mipo Dockyard Co. Ltd..md) | 2026-06-17 | +0.05 | Q2/Q3 PCTC·MR 탱커 납기 순조, 메탄올 추진 MR 탱커 시장 선두 | 1 |
+
+## 오늘의 시그널 (2026-07-02 · 목요일 · 바이오 / 제약 / 헬스케어)
+
+루틴은 다음 패턴을 감지하면 이 섹션에 기록한다:
+
+- **연속성**: 같은 테마가 3 일 이상 연속 등장
+- **모순**: 같은 종목 어제/오늘 narrative 가 반대 방향
+- **섹터 동기화**: 3 종목 이상이 같은 매크로 이슈로 동시 움직임
+
+**2026-07-02 감지된 시그널:**
+
+- **최고 시그널 (LLY +0.53)**: 7/1 개시된 메디케어 GLP-1 '브릿지' 데모 프로그램(Zepbound·경구 Foundayo·Wegovy 월 $50 본인부담, 1500만~2000만명 대상)으로 시니어 대규모 신시장이 열림. LLY는 약 60% GLP-1 점유율과 경구 우위로 최대 수혜, 7/2 주가 +3%·목표가 상향($1,232).
+- **섹터 동기화 (메디케어 GLP-1 커버리지 개시)**: LLY(+0.53)·NVO(+0.05) 동시 수혜지만 강도 차이 뚜렷. NVO는 Wegovy 경구 300만 처방·65% 신규점유에도 임상·점유율 열위와 역성장 가이던스(-4~-12%)로 상승폭 제한. 메디케어 개시가 곧 '동일 수혜'가 아니라 점유율·데이터 우위에 따라 차등 반영됨을 보여줌.
+- **섹터 동기화 (美 하원 중국특위 임상 조사 — 새 규제 축)**: PFE(-0.14)·MRK(+0.28)·ABBV(+0.25)·LLY 등 5개사에 6/29 서한으로 중국 임상 사이트(군병원·신장) 조사 착수(답변 기한 7/17). JNJ는 명단에서 빠져 상대적 방어 우위. 규제 리스크가 종목별로 갈리는 첫 신호.
+- **모순/역방향 (MRK +0.28 ← 전주 +0.43)**: 키트루다 확장·목표가 상향(Scotiabank $155·BofA $141)·경구 PCSK9 엔리시타이드 FDA 임박은 호재이나, 7/1 알츠하이머 MK-1167 2상 중단(유효성 미달)이 신경질환 파이프라인 기대를 위축시키며 점수 완화.
+- **역방향 (PFE -0.14)**: 월1회 비만약·6.8% 배당 방어에도 중국 임상 조사(7/17)와 GLP-1 약가 인하가 겹쳐 유일한 마이너스. 비만 후발주자로서 규제·성장 부담이 동시 심화.
+- **규제 오버행 (UNH +0.17)**: 모건스탠리 'Top Pick' $468·Guardant Shield 커버리지 확대 호재에도 DOJ 메디케어 청구 형사·민사 조사가 7/16 Q2 실적을 앞두고 상단을 제약.
+- **개별 촉매 (AZN +0.16)**: 엔허투 EU 종양불문 최초 승인(6/29)·Abbisko 경구 PD-L1 병용 협력(7/1)로 종양학 모멘텀 강화, 텍사스 $34M 합의·FY26 EPS 컨센서스 하향($10.29→$9.39)이 상쇄.
+- **대기 국면 (TMO +0.07 / ABT +0.08)**: 툴/진단 양사 모두 신규 촉매 적은 실적 대기 국면. TMO 7/23·ABT 7/16 Q2 실적, ABT는 Baird Outperform($121) 개시 호재 vs FreeStyle Libre FDA 경고서한 오버행.
+- **공통 매크로 (관세·약가)**: 7/31 발효 예정 제약 100% 관세와 MFN 최혜국 약가 인하 압박이 섹터 전반의 macro_sensitivity 를 눌러 대형 제약 다수의 매크로 축이 마이너스.
+- **주목 이벤트**: 중국 임상 조사 답변 기한(7/17), JNJ Q2(7/15)·UNH·ABT Q2(7/16)·TMO Q2(7/23) 실적, MRK 엔리시타이드 FDA 결정, 메디케어 브릿지 후 Zepbound vs Wegovy 처방비율, 7/31 제약 관세 발효.
 
 ## 오늘의 시그널 (2026-07-01 · 수요일 · 자동차 / 모빌리티 + 조선 (한국))
 

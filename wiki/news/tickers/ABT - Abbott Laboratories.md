@@ -1,7 +1,7 @@
 ---
 title: "ABT - Abbott Laboratories — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-25
+updated: 2026-07-02
 domain: finance
 type: claim
 weight: reference
@@ -28,10 +28,12 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
-- [ ] Exact Sciences 인수 시너지(Cologuard + Freestyle Libre)가 2026 매출에 의미 있게 기여할 것인가? — 인수 완료 확인 (H2 2026 실적 확인)
+- [ ] Exact Sciences 인수 시너지(Cologuard + Freestyle Libre)가 2026 매출에 의미 있게 기여할 것인가? — 인수 완료 확인 (7/16 Q2 실적 확인)
 - [ ] 이중 포도당·케톤 CGM이 미국 FDA 승인을 받을 것인가? — EU CE 마크 획득으로 진전 (기한: 2026-12-31)
 - [ ] 영양 사업 부진이 2026 전체 성장률 발목을 잡을 것인가? (연간 실적 시 확인)
 - [ ] ALZpath 제휴 혈액 알츠하이머 검사가 진단 부문 신성장축이 될 것인가? (기한: 2027-06-25)
+- [ ] 하반기 당뇨·전기생리·진단 회복이 Baird 제시 6~8% 성장 전망을 뒷받침할 것인가? (기한: 2026-10-31)
+- [ ] FreeStyle Libre FDA 경고서한 관련 규제 오버행이 해소(추가 조치 없이 종결)될 것인가? (기한: 2026-12-31)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -50,6 +52,9 @@ sources: []
 
 > [!fact] ALZpath, Abbott와 글로벌 라이선스 계약 — pTau217 기반 혈액 알츠하이머 진단을 Alinity 플랫폼에 적용 (PR Newswire/StockTitan 2026-06-24)
 > 출처: PR Newswire / StockTitan (2026-06-24)
+
+> [!fact] Abbott, Q2 2026 실적 2026-07-16 개장 전 발표 예정 — 조정 EPS 컨센서스 $1.28(+1.6% YoY) (Yahoo Finance, MarketBeat 확인)
+> 출처: Yahoo Finance, MarketBeat (2026-07-01)
 <!-- FACTS_END -->
 
 ---
@@ -57,6 +62,21 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-07-02 (목) — narrative_score: +0.08
+
+**핵심 이벤트:** Baird, Abbott 커버리지 Outperform·목표가 $121(약 33% 상승여력) 개시(7/1) — 하반기 당뇨·전기생리·진단 회복과 Exact Sciences 기여로 6~8% 성장 전망 · Q2 2026 실적 7/16 개장 전 발표 예정(조정 EPS $1.28 컨센서스)  
+**리스크:** FreeStyle Libre CGM 정확도 관련 FDA 경고서한(1월)·Libre 3 센서 약 300만개 리콜 규제 오버행 · Dexcom CONNECT 등 비인슐린·예방 CGM 경쟁 심화 · 관세·헬스케어 섹터 매크로 민감도
+
+> [!claim] Baird, Abbott 커버리지 Outperform·목표가 $121 개시 (Investing.com/Seeking Alpha, 2026-07-01)
+> 제품 파이프라인 기반 6~8% 매출·EPS 성장 전망. 2027 EPS 20배로 $121 산정, 동종 대비 우위 성장 논거.
+> ※ 목표가 근거는 하반기 회복 가정에 의존 — 실현 여부는 7/16 Q2 실적에서 1차 검증.
+
+> [!claim] Q2 2026 실적 7/16 개장 전 발표 예정, 조정 EPS $1.28 컨센서스 (Yahoo Finance, 2026-07-01)
+> 전년 동기 $1.26 대비 +1.6% 전망. 당뇨·진단 회복 속도가 관전 포인트.
+
+> [!claim] ALZpath pTau217 혈액 알츠하이머 진단 라이선스로 파이프라인 확장 지속 (PR Newswire/StockTitan, 2026-06-24)
+> Alinity 플랫폼 기반 혈액 알츠하이머 진단 진출 — 진단 부문 신성장축 후보.
 
 ### 2026-06-25 (목) — narrative_score: +0.23
 
