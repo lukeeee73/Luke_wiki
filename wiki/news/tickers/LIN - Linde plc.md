@@ -1,7 +1,7 @@
 ---
 title: "LIN - Linde plc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-26
+updated: 2026-07-03
 domain: finance
 type: claim
 weight: reference
@@ -32,6 +32,7 @@ sources: []
 - [ ] **2026-06-05**: 삼성 반도체 팹 계약 — 착공 및 가스 공급 개시 일정 (pending)
 - [ ] **2026-06-19**: 반도체 팹·수소·헬스케어 가스 수요로 사상 최고가 $523.57 — 추가 신고가 모멘텀 지속 여부 (pending)
 - [ ] **2026-06-26**: 글로벌 산업생산 둔화 시 가스 물량 수요 위축 — 향후 7일 내 검증 (pending)
+- [ ] **2026-07-03**: AI·반도체 가스 수요가 전기료 상승 압박을 상회하는지 — Q2 실적(7/31)서 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -48,6 +49,23 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-03
+**narrative_score**: +0.17
+**key_events**: 7/1 +3.49%(AI·반도체 가스), Q2 실적 7/31, 33년 연속 배당인상
+**risks**: 전기료 opex 25~30% 노출, Woodside 블루암모니아 2027 연기, 볼륨 성장 둔화(+1%)
+
+> [!claim] (TradingKey, 2026-07-01) Linde Stock Rises 3.5% on July 1 Amid AI and Semiconductor Gas Demand
+> 7/1 +3.49%, 반도체·AI 가스 수요 부각. 시총 $2,527억. impact: + / category: other
+
+> [!claim] (Seeking Alpha, 2026-07-01) Linde to Report Q2 2026 Results July 31; Q1 Delivered 10% EPS Growth
+> 7/31 Q2 실적. Q1 EPS +10%·30% 마진·$15억 환원(볼륨 +1%). 33년 연속 배당인상. impact: + / category: earnings
+
+> [!claim] (Simply Wall St, 2026-06-25) Linde Flags Power-Cost Exposure; Woodside Blue Ammonia Slips to 2027
+> 전기료 opex 25~30%(42.5TWh)·지정학 전력價 리스크, Woodside 블루암모니아 2027로 연기. impact: - / category: other
+
+**경쟁사 동향**:
+- APD: Air Products 루이지애나 청정에너지 프로젝트 철수로 +8% 급등·가이던스 상향 — APD의 저수익 프로젝트 정리가 산업가스 규율 경쟁 부각, LIN은 안정 성장·환원 우위
+
 ### 2026-06-26
 **narrative_score**: +0.45
 **key_events**: 씨티·UBS 목표주가 600달러로 상향(매수 유지), 반도체 팹·청정에너지 수요로 주가 사상 최고가, Q1 2026 EPS 13%↑·매출 8%↑·분기배당 인상, AI 칩용 초고순도 가스 공급 수혜

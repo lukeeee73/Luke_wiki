@@ -1,7 +1,7 @@
 ---
 title: "APD - Air Products & Chemicals — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-26
+updated: 2026-07-03
 domain: finance
 type: claim
 weight: reference
@@ -32,6 +32,7 @@ sources: []
 - [ ] **2026-06-05**: 웰스파고 Overweight 상향 — $325 목표가 도달 시점 (pending; RBC도 6/13 $355 목표가로 Outperform 개시)
 - [ ] **2026-06-19**: NEOM 그린수소 프로젝트 진전 — 연 120만톤 그린암모니아 수출 일정 준수 여부 (pending)
 - [ ] **2026-06-26**: 대형 수소·암모니아 프로젝트 비용 초과 및 지연 리스크 — 향후 7일 내 검증 (pending)
+- [ ] **2026-07-03**: 저수익 프로젝트 철수가 FCF·ROI 개선으로 실제 연결되는지 — 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -48,6 +49,23 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-03
+**narrative_score**: +0.17
+**key_events**: 루이지애나 청정에너지 프로젝트 철수·+8%, FY26 EPS 8~10% 가이던스 상향, $1.81 배당·미주리 $70M 증설
+**risks**: $2.9B 세전 charge 반영, 대형 수소 프로젝트 실행·수요 불확실성, 고밸류에이션(일부 34% 고평가 지적)
+
+> [!claim] (tikr, 2026-07-01) Air Products Jumps 8% After Exiting $2.9B Louisiana Clean Energy Complex
+> 루이지애나·Casa Grande 녹색수소 철수($29억 charge)에 $293.18로 +8%. Yara 파트너십. impact: + / category: other
+
+> [!claim] (Yahoo Finance, 2026-07-01) Air Products Raises FY26 Adjusted EPS Guidance to 8-10% Growth
+> 4월 EPS $3.20(+4.5% 서프라이즈)·FY26 8~10% 성장 가이던스 상향. Q3 EPS $3.35 전망. impact: + / category: earnings
+
+> [!claim] (StockTitan, 2026-07-01) Air Products Declares $1.81 Dividend, Completes $70M Missouri Expansion
+> 배당 $1.81(ex-date 7/1)·미주리 $70M 증설 완료(바이오LNG 분리막). impact: + / category: other
+
+**경쟁사 동향**:
+- LIN: Linde AI·반도체 가스 수요로 +3.5% — 산업가스 수요 우호적, APD는 저수익 수소 프로젝트 정리로 자본 규율 부각
+
 ### 2026-06-26
 **narrative_score**: +0.29
 **key_events**: FY26 Q2 실적 호조 및 가이던스 상향($13.00~13.25), 미주리 멤브레인 공장 7천만달러 증설, 2026 지속가능성 보고서 발간

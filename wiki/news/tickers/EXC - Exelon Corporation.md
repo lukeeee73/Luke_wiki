@@ -1,7 +1,7 @@
 ---
 title: "EXC - Exelon Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-26
+updated: 2026-07-03
 domain: finance
 type: claim
 weight: reference
@@ -32,6 +32,7 @@ sources: []
 - [ ] **2026-06-05**: PECO 요금 신청 철회 — 재신청 시점 및 규제 당국과 협의 결과 (pending)
 - [ ] **2026-06-19**: 순수 T&D 모델 — 데이터센터발 성장 포착 폭이 발전 보유 동종 대비 충분한지 검증 (pending)
 - [ ] **2026-06-26**: NY/IL 요금 적정성 규제 압박 — 향후 7일 내 검증 (pending)
+- [ ] **2026-07-03**: 19GW 파이프라인 중 45% 확보분의 계약 전환 진척 — 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -48,6 +49,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-03
+**narrative_score**: +0.18
+**key_events**: 자본계획 $41.7B 상향, 19GW 부하 파이프라인(45% 확보), 2026 EPS $2.81-2.91 재확인
+**risks**: 송전 투자 규제 승인, 금리 환경, 데이터센터 계약 실현 시점
+
+> [!claim] (tikr, 2026-07-01) Exelon Raises Four-Year Capital Plan to $41.7B on Data Center Load Growth
+> 4년 자본계획 $417억(2029까지)로 상향, 7.9% rate base 성장·2026 $10B 집행. impact: + / category: other
+
+> [!claim] (247wallst, 2026-07-01) Exelon Reports 19GW Load Pipeline, 45% Secured via Transmission Agreements
+> 19GW 부하 파이프라인·45% 확보, 北일리노이 데이터센터 부하 26% CAGR. impact: + / category: other
+
+> [!claim] (Yahoo Finance, 2026-06-30) Exelon Reaffirms 2026 EPS Guidance $2.81-$2.91 After Q1 Beat
+> Q1 EPS $0.91(컨센 $0.887 상회)·매출 $72.4억, 2026 가이던스 재확인. impact: + / category: earnings
+
+**경쟁사 동향**:
+- AEP: AEP 63GW 부하·$78B capex — PJM 부하성장 경쟁, 엑셀론은 송배전 순수(T&D)로 발전 리스크 낮음
+- ED: 콘에드 데이터센터 노출 낮아 성장 제한·Mizuho 강등 — 규제 T&D 중 엑셀론은 일리노이 데이터센터 부하로 성장 차별화
+
 ### 2026-06-26
 **narrative_score**: +0.31
 **key_events**: 자본계획 $41.7B로 상향(송전 중심), 데이터센터 파이프라인 ~18GW, Q1 EPS $0.91로 컨센서스 상회

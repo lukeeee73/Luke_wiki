@@ -1,7 +1,7 @@
 ---
 title: "VST - Vistra Corp — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-26
+updated: 2026-07-03
 domain: finance
 type: claim
 weight: reference
@@ -33,6 +33,7 @@ sources: []
 - [ ] **2026-06-19**: Perry 원전 가동용량 2026년 12월 인도 개시 예정 — 일정 준수 및 Meta 전력 인도 시작 여부 (pending)
 - [ ] **2026-06-19**: Cogentrix 5,500MW 가스 ~$40억 인수 추진 — 클로징 및 부채 영향 (pending)
 - [ ] **2026-06-26**: AI 데이터센터 수요 둔화 시 밸류에이션 조정 — 향후 7일 내 검증 (pending)
+- [ ] **2026-07-03**: PJM 가격상한·내부자 매도가 추세적 하락으로 이어지는지 — 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +50,23 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-03
+**narrative_score**: +0.18
+**key_events**: PJM 가격상한·내부자 매도로 6일 -12%, 2026 EBITDA $6.8-7.6B 재확인·Fitch IG, Meta·AWS 3,800MW PPA·Cogentrix 인수
+**risks**: PJM 전력 가격상한 규제, 내부자 매도 신호, 머천트 전력價 변동성
+
+> [!claim] (Quiver, 2026-07-02) Vistra Slides ~12% Over Six Days on PJM Price Cap Proposals, Insider Selling
+> PJM 가격상한 제안·내부자 매도($1.6M)로 6거래일 -12%(시총 $66억 증발). impact: - / category: regulation
+
+> [!claim] (Seeking Alpha, 2026-07-01) Vistra Reaffirms 2026 EBITDA $6.8-$7.6B; Fitch Upgrades to Investment Grade
+> Q1 매출 +43% YoY·2026 EBITDA $6.8-7.6B 재확인, Fitch IG 상향. $220 목표가. impact: + / category: earnings
+
+> [!claim] (Yahoo Finance, 2026-07-01) Vistra Secures 3,800MW Meta and AWS PPAs, Advances Perry Nuclear Restart
+> Meta·AWS와 3,800MW 20년 PPA·Perry 원전 재가동·Cogentrix 5,500MW($40억) 인수. impact: + / category: other
+
+**경쟁사 동향**:
+- CEG: 콘스텔레이션도 PJM 가격상한 우려로 YTD -20% — 머천트 원전·발전사 공통 규제 오버행, 데이터센터 PPA·원전 재가동은 성장 동력
+
 ### 2026-06-26
 **narrative_score**: +0.57
 **key_events**: $10B Helix 벤처 우선 전력공급자·앵커 투자자 선정, Cogentrix 가스자산 인수 완료, 6월 주가 약 11% 상승

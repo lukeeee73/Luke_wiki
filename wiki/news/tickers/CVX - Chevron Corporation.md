@@ -1,7 +1,7 @@
 ---
 title: "CVX - Chevron Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-26
+updated: 2026-07-03
 domain: finance
 type: claim
 weight: reference
@@ -33,6 +33,7 @@ sources: []
 - [ ] **2026-06-05**: CVX는 피어 대비 원유 레버리지가 높아 호르무즈 재개 시 하락 위험 더 큼 (verified 2026-06-19) — 미·이란 협정 임박발 유가 급락에 6/15 -3.6%로 직격, 가설 입증
 - [ ] **2026-06-19**: Zacks 강력매수→보유 강등 후 추가 매도측 등급 하향 이어지는지 (pending)
 - [ ] **2026-06-26**: 유가 70달러 하회 — 향후 7일 내 검증 (pending)
+- [ ] **2026-07-03**: MS 데이터센터 가스딜·프로젝트 성장이 유가 약세를 상쇄하는지 — Q2 실적(7/24)서 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +50,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-03
+**narrative_score**: +0.09
+**key_events**: Q2 실적 7/24 예정(EPS $5.43), MS 20년 데이터센터 가스 계약, 애널리스트 상향 지속
+**risks**: 유가 $70 하회 시 실적 상단 제약, 이란 공급 정상화, 다운스트림 마진 변동
+
+> [!claim] (MarketBeat, 2026-07-02) Chevron to Report Q2 2026 Earnings July 24, EPS Estimate $5.43
+> 7/24 2분기 실적 발표 예정, EPS 컨센 $5.43. Q1 $1.41로 47% 서프라이즈. impact: + / category: earnings
+
+> [!claim] (Yahoo Finance, 2026-07-01) Chevron Momentum Builds on Analyst Upgrades and Major Project Expectations
+> 애널리스트 상향·대형 프로젝트 기대로 에너지 섹터 상대 선방. 공정가치 평가. impact: + / category: other
+
+> [!claim] (Yahoo Finance, 2026-06-22) Chevron-Microsoft 20-Year Natural Gas Deal Powers West Texas Data Center
+> MS 서부 텍사스 데이터센터에 20년 가스화력 전력 공급 계약(6/22) 지속 부각. impact: + / category: other
+
+> [!claim] (Forbes, 2026-07-02) Oil Weakness Near $70 Weighs on Integrated Energy Sentiment
+> WTI $68·Brent $71로 유가 약세가 통합 에너지 심리에 부담. impact: - / category: macro
+
+**경쟁사 동향**:
+- XOM: 엑손 텍사스 재법인화 완료·TD Cowen 목표가 하향 — 동일 유가 하방 공유하나 CVX는 데이터센터 가스 딜로 성장 내러티브 우위
+- OXY: OXY 고베타로 유가 하락 직격·버핏 26.6% 보유 — CVX는 통합·다운스트림으로 순수 상류 대비 유가 민감도 완충
+
 ### 2026-06-26
 **narrative_score**: +0.17
 **key_events**: MS 데이터센터 20년 가스 공급 계약, 그리스 블록10 지분70% 운영권 확보, 베네수엘라 지진 후 운영 정상

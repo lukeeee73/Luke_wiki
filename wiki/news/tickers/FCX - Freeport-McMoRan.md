@@ -1,7 +1,7 @@
 ---
 title: "FCX - Freeport-McMoRan Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-26
+updated: 2026-07-03
 domain: finance
 type: claim
 weight: reference
@@ -32,6 +32,7 @@ sources: []
 - [ ] **2026-06-05**: Grasberg 복구 지연 — 2026 하반기 생산 정상화 일정 발표 여부 (pending; 6/16 연결 판매 전망 ~31억 파운드로 추가 하향)
 - [ ] **2026-06-19**: 인도네시아 신규 제련소 조기 가동 — 연말 풀가동·완전 통합 생산자화 달성 여부 (pending)
 - [ ] **2026-06-26**: 그라스버그 재가동 지연 시 생산 차질(완전가동 2027말~2028 초) — 향후 7일 내 검증 (pending)
+- [ ] **2026-07-03**: 그라스버그 램프업 지연·MS 강등이 추가 하향으로 이어지는지 — 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -48,6 +49,23 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-03
+**narrative_score**: -0.06
+**key_events**: MS Equal Weight 강등·PT $66, 6/17 ATH $72.28서 -16% 조정, 2026 판매 3.1B lbs로 하향
+**risks**: 그라스버그 램프업 2028초까지 지연, 구리 가격 되돌림, MS 등 애널 센티먼트 악화
+
+> [!claim] (Yahoo Finance, 2026-07-02) Morgan Stanley Downgrades Freeport to Equal Weight, Cuts PT to $66
+> MS Overweight→Equal Weight 강등, 목표가 $70→$66. 그라스버그 램프업 지연 지목. impact: - / category: other
+
+> [!claim] (Robinhood, 2026-07-02) FCX Pulls Back to ~$60 from June 17 All-Time High of $72.28
+> 6/17 사상최고 $72.28서 $60.70로 조정. 구리 가격 되돌림. impact: - / category: macro
+
+> [!claim] (Yahoo Finance, 2026-07-01) Freeport Remains Central to Copper Supply Story Despite Grasberg Delays
+> 그라스버그 완전 회복 2028초로 지연·2026 판매 3.1B lbs로 하향에도 구리 공급 핵심. impact: neutral / category: earnings
+
+**경쟁사 동향**:
+- NEM: Newmont 금값 8개월 최저서 $4,000 회복·Q2 EPS +54% 전망 — 금은 반등, 구리는 되돌림 — FCX는 그라스버그 지연 특수 요인이 추가 부담
+
 ### 2026-06-26
 **narrative_score**: +0.03
 **key_events**: 그라스버그 2분기 단계적 재가동 시작, 하반기 65% 가동 목표, 2026 생산 전년 수준(구리 약 10억파운드·금 90만온스), 6/10 연례주총 이사 11명 선임·보수안 승인, 구리 6달러 지지선 붕괴, 금 7개월 최저

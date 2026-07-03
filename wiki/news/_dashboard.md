@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-07-01
+updated: 2026-07-03
 domain: finance
 type: index
 weight: reference
@@ -103,16 +103,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [XOM](tickers/XOM - Exxon Mobil Corporation.md) | 2026-06-26 | +0.02 | 대법원 쿠바 10억달러 소송 승소·BofA 매수 상향 vs WTI 70달러 붕괴(호르무즈 긴장 완화) | 4 |
-| [CVX](tickers/CVX - Chevron Corporation.md) | 2026-06-26 | +0.17 | MS 데이터센터 20년 가스공급·그리스 블록10 진출 성장 스토리 vs 유가 약세 (에너지 상대적 선방) | 5 |
-| [COP](tickers/COP - ConocoPhillips.md) | 2026-06-26 | -0.20 | 2026 생산 가이던스 하향에 주가 -3% (섹터 최약세), RBC 베스트 아이디어·LNG 저평가는 방어 | 4 |
-| [SHEL](tickers/SHEL - Shell plc.md) | 2026-06-26 | +0.05 | 지속 자사주매입·5% 배당인상 주주환원 견조하나 유가 약세로 실적 상단 제약 | 4 |
-| [OXY](tickers/OXY - Occidental Petroleum.md) | 2026-06-26 | -0.01 | 미·이란發 유가 하락에 고베타 직격이나 Q1 호실적·부채감축·버핏 지지로 방어 | 4 |
-| [SLB](tickers/SLB - Schlumberger Limited.md) | 2026-06-26 | +0.10 | 6/17 디지털 투자자의 날·CNOOC 심해 EPC 수주 vs 상류 capex 감소·유가 약세 | 4 |
-| [FCX](tickers/FCX - Freeport-McMoRan.md) | 2026-06-26 | +0.03 | 그라스버그 2분기 단계적 재가동 vs 구리 6달러 지지선·금 7개월 최저 동반 조정 | 4 |
-| [NEM](tickers/NEM - Newmont Corporation.md) | 2026-06-26 | +0.25 | 사상 최대 실적·Red Chris 허가 승인 vs 금값 7개월 최저로 주가 한주 -10% | 4 |
-| [LIN](tickers/LIN - Linde plc.md) | 2026-06-26 | +0.45 | 씨티·UBS 목표가 600달러 상향·반도체·AI 가스 수요로 사상 최고가 (섹터 최고) | 4 |
-| [APD](tickers/APD - Air Products and Chemicals.md) | 2026-06-26 | +0.29 | FY26 가이던스 상향($13.00~13.25)·미주리 증설 vs 대형 수소 프로젝트 실행 리스크 | 4 |
+| [XOM](tickers/XOM - Exxon Mobil Corporation.md) | 2026-07-03 | -0.02 | 텍사스 재법인화 완료·통합모델 방어 vs WTI 70달러 붕괴·TD Cowen 목표가 $155 하향 | 5 |
+| [CVX](tickers/CVX - Chevron Corporation.md) | 2026-07-03 | +0.09 | Q1 47% 서프라이즈·MS 데이터센터 20년 가스딜·애널 상향 vs 유가 약세 | 6 |
+| [COP](tickers/COP - ConocoPhillips.md) | 2026-07-03 | -0.14 | 러셀 디펜시브 편입 vs 카타르 Q2 가이던스 제외·$700M 세금분쟁·25% 감원설로 섹터 최약세 | 5 |
+| [SHEL](tickers/SHEL - Shell plc.md) | 2026-07-03 | +0.04 | $3B 자사주매입·5% 배당인상 주주환원 견조하나 유가 약세로 실적 상단 제약 | 5 |
+| [OXY](tickers/OXY - Occidental Petroleum.md) | 2026-07-03 | +0.00 | OxyChem 매각發 $5.8B 부채감축·버핏 26.6% 지지 vs 고베타 유가 하락 직격 | 5 |
+| [SLB](tickers/SLB - Schlumberger Limited.md) | 2026-07-03 | +0.05 | 쿠웨이트 7년·CNOOC EPC 국제 수주 vs 유가 약세發 상류 capex 둔화 | 5 |
+| [FCX](tickers/FCX - Freeport-McMoRan.md) | 2026-07-03 | -0.06 | 구리 공급 핵심 지위 vs MS 강등(PT $66)·ATH $72서 $60 조정·그라스버그 2028초 지연 | 5 |
+| [NEM](tickers/NEM - Newmont Corporation.md) | 2026-07-03 | +0.12 | 금값 $4,000 재돌파 반등·Q2 EPS +54% 전망·Red Chris 허가 vs 2026 생산 저점 | 5 |
+| [LIN](tickers/LIN - Linde plc.md) | 2026-07-03 | +0.17 | 반도체·AI 가스 수요로 +3.5%·Q1 EPS +10%·33년 연속 배당인상 vs 전기료 노출·Woodside 지연 | 5 |
+| [APD](tickers/APD - Air Products and Chemicals.md) | 2026-07-03 | +0.17 | 루이지애나 저수익 수소 철수로 +8%·FY26 8~10% 가이던스 상향 vs $2.9B charge | 5 |
 
 ### 금융
 
@@ -197,16 +197,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [NEE](tickers/NEE - NextEra Energy.md) | 2026-06-26 | +0.26 | 도미니언 670억달러 인수로 세계 최대 유틸리티 추진 vs 버지니아 SCC·의회 규제 검토 | 4 |
-| [SO](tickers/SO - The Southern Company.md) | 2026-06-26 | +0.45 | 데이터센터 42% 성장·보글 원전·810억달러 자본계획으로 실적 모멘텀 강세 (섹터 공동 최고) | 4 |
-| [DUK](tickers/DUK - Duke Energy Corporation.md) | 2026-06-26 | +0.36 | 데이터센터 누적 7.6GW 부하성장 vs NC 요금인상 9.3%로 이례적 하향(affordability 대응) | 4 |
-| [AEP](tickers/AEP - American Electric Power.md) | 2026-06-26 | +0.32 | 780억달러 데이터센터 자본계획·56GW 부하 파이프라인·OVEC 구조조정 vs 오하이오 축소 보도 | 4 |
-| [EXC](tickers/EXC - Exelon Corporation.md) | 2026-06-26 | +0.31 | 자본계획 417억달러 상향·18GW 데이터센터 파이프라인으로 부하성장 스토리 전환 | 4 |
-| [CEG](tickers/CEG - Constellation Energy.md) | 2026-06-26 | +0.57 | FERC waiver로 TMI(Crane) 2027 재가동 가시성↑·MS 20년 PPA·Calpine 통합 (섹터 공동 최고) | 4 |
-| [VST](tickers/VST - Vistra Corp.md) | 2026-06-26 | +0.57 | KKR·Nvidia $10B Helix 벤처 우선 전력공급자 선정·6월 +11%·Cogentrix 인수 완료 | 5 |
-| [SRE](tickers/SRE - Sempra.md) | 2026-06-26 | +0.34 | Port Arthur 파이프라인 조기 가동·인프라 지분 매각으로 텍사스·캘리포니아 유틸리티 성장 집중 | 4 |
-| [ED](tickers/ED - Consolidated Edison.md) | 2026-06-26 | +0.10 | Q1 EPS $2.55·2026 가이던스 재확인 방어주이나 데이터센터 노출 낮아 성장 제한 | 3 |
-| [D](tickers/D - Dominion Energy.md) | 2026-06-26 | +0.15 | NEE 670억달러 피인수, 18억달러 VA 요금 크레딧 vs 의회·SCC 180일 검토기간 논쟁 | 4 |
+| [NEE](tickers/NEE - NextEra Energy.md) | 2026-07-03 | +0.15 | $67B 도미니언 인수로 세계 최대 규제 유틸리티·130GW AI 파이프라인 vs 버지니아 SCC·의회 검토 | 5 |
+| [SO](tickers/SO - The Southern Company.md) | 2026-07-03 | +0.25 | 75GW 데이터센터 파이프라인·10GW 계약·$81B capex·보글 원전으로 섹터 최강 (규제 유틸리티) | 5 |
+| [DUK](tickers/DUK - Duke Energy Corporation.md) | 2026-07-03 | +0.19 | $102.2B 자본계획(단일 최대)·7.6GW 데이터센터 계약·DOE 대출 vs 요금 affordability | 5 |
+| [AEP](tickers/AEP - American Electric Power.md) | 2026-07-03 | +0.19 | 증분 부하 2030 63GW·$78B 자본계획·오하이오 관세 vs 대규모 송전 capex | 5 |
+| [EXC](tickers/EXC - Exelon Corporation.md) | 2026-07-03 | +0.18 | 자본계획 $41.7B 상향·19GW 부하 파이프라인·北일리노이 26% CAGR로 순수 T&D 성장 | 5 |
+| [CEG](tickers/CEG - Constellation Energy.md) | 2026-07-03 | +0.19 | 원전 증설·MS 스리마일 PPA·Calpine Q1 비트 vs PJM 가격상한 오버행으로 YTD -20% | 5 |
+| [VST](tickers/VST - Vistra Corp.md) | 2026-07-03 | +0.18 | Q1 +43%·Fitch IG·Meta/AWS 3,800MW PPA vs PJM 가격상한·내부자 매도로 6일 -12% | 6 |
+| [SRE](tickers/SRE - Sempra.md) | 2026-07-03 | +0.14 | Port Arthur 파이프라인 조기 가동·LNG 1·2단계 순항·멕시코 ECA 첫 생산 | 5 |
+| [ED](tickers/ED - Consolidated Edison.md) | 2026-07-03 | +0.02 | 스팀 요금 인상 지지 vs Mizuho 강등·데이터센터 노출 낮아 성장 제한 | 4 |
+| [D](tickers/D - Dominion Energy.md) | 2026-07-03 | +0.09 | NEE에 $67B 피인수·버지니아 데이터센터 프리미엄 vs SCC·의회 180일 검토 | 5 |
 
 ### 조선 (한국)
 

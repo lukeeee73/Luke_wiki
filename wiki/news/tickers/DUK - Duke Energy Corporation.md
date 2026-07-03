@@ -1,7 +1,7 @@
 ---
 title: "DUK - Duke Energy Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-26
+updated: 2026-07-03
 domain: finance
 type: claim
 weight: reference
@@ -32,6 +32,7 @@ sources: []
 - [ ] **2026-06-05**: AI 데이터센터 원전 공급 테크 기업 논의 — 계약 체결 여부 및 시점 (pending — 6/19 업데이트: CEO 부하 성장률 약 10배 전망으로 수요 서사 강화, 계약 체결은 미확인)
 - [ ] **2026-06-19**: 한파 연료비 $809M 19개월 회수 신청 + 19,000MW 증설 계획 — NCUC 승인 및 밸류에이션 영향 (pending)
 - [ ] **2026-06-26**: 요금 affordability 정치압력 — 향후 7일 내 검증 (pending)
+- [ ] **2026-07-03**: 요금 affordability 규제가 $102B capex 실행을 제약하는지 — 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -48,6 +49,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-03
+**narrative_score**: +0.19
+**key_events**: $102.2B 자본계획(2030까지), 7.6GW 데이터센터 계약, DOE 그리드 대출 신청
+**risks**: 요금 인상 affordability 규제, 대규모 capex 자금조달, 금리 환경
+
+> [!claim] (Yahoo Finance, 2026-07-01) Duke Energy's $102.2B Plan Through 2030 Is Largest Single-Utility Commitment
+> 6개 주 데이터센터 성장 겨냥 $1,022억 계획(2030까지), 단일 유틸리티 최대. impact: + / category: other
+
+> [!claim] (Power Engineering, 2026-07-01) Duke Signs Agreements Supporting 7.6GW of Future Data Center Demand
+> 7.6GW 데이터센터 전력공급 계약·DOE 대출 신청으로 그리드 증설. impact: + / category: other
+
+> [!claim] (Yahoo Finance, 2026-06-30) Duke Energy Trades Near $126, Up 7% YTD on Load Growth
+> 부하 성장 기대로 $125.67 부근, YTD +7%. impact: + / category: other
+
+**경쟁사 동향**:
+- SO: 서던 75GW 파이프라인·보글 원전 — 동남부 경쟁서 서던이 원전·계약 규모 앞서나 듀크도 $102B 계획으로 대응
+- AEP: AEP 63GW 부하·$78B capex — 규제 유틸리티 데이터센터 자본 사이클 동조, 요금 affordability가 공통 변수
+
 ### 2026-06-26
 **narrative_score**: +0.36
 **key_events**: NC 요금인상 14.3%→9.3% 이례적 하향(6/23), 데이터센터 누적 7.6GW 계약, 플로리다 가정용 요금 25% 인하

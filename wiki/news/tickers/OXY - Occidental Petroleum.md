@@ -1,7 +1,7 @@
 ---
 title: "OXY - Occidental Petroleum — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-26
+updated: 2026-07-03
 domain: finance
 type: claim
 weight: reference
@@ -32,6 +32,7 @@ sources: []
 - [ ] **2026-06-05**: 멕시코만 Bandit 광구 석유 발견 — 생산 가능 추정량 및 개발 일정 발표 여부 (aged-out)
 - [ ] **2026-06-19**: OXY 고원유 레버리지 — 미·이란 협정으로 전쟁 종료 시 추가 하락 (크레이머 경고) vs 부채감소·버핏지지 방어력 (pending)
 - [ ] **2026-06-26**: 유가에 대한 높은 민감도(고베타) — 향후 7일 내 검증 (pending)
+- [ ] **2026-07-03**: 고베타 특성상 유가 추가 하락 시 낙폭 vs 부채감축 방어력 — 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -48,6 +49,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-03
+**narrative_score**: +0.00
+**key_events**: 유가 $68로 고베타 압박, OxyChem 매각·$5.8B 부채감축, 버핏 26.6% 보유 유지
+**risks**: 유가 하락 시 고베타 손실 확대, 2026 생산 flat 성장 정체, 버핏 오버행 잔존
+
+> [!claim] (Yahoo Finance, 2026-07-02) Occidental High Oil Beta Pressured as Crude Slides Toward $68
+> 고베타 특성상 유가 하락 직격. WTI $68로 상류 순수 노출 부담. impact: - / category: macro
+
+> [!claim] (ts2.tech, 2026-07-01) OxyChem Sale Proceeds Fund $5.8B Debt Reduction, Sharpen E&P Focus
+> OxyChem 매각 대금으로 원금 $58억 감축, E&P·DAC 집중. impact: + / category: other
+
+> [!claim] (GuruFocus, 2026-07-01) Berkshire Holds 26.6% of Occidental; Buffett Signals 'Own Forever'
+> 버크셔 26.6%(2.65억주·$172억) 보유, 버핏 장기 보유 시사. 2026 생산 flat~+2%. impact: + / category: other
+
+**경쟁사 동향**:
+- CVX: 셰브론 통합모델로 유가 민감도 완충 — OXY는 상류 집중·고베타로 유가 하락에 상대적으로 더 노출
+- COP: 코노코 카타르 제외·감원설 — 상류 섹터 공통 압박, OXY는 부채감축·버핏 지지가 차별적 방어
+
 ### 2026-06-26
 **narrative_score**: -0.01
 **key_events**: CEO 교체(홀럽 은퇴→잭슨 취임, 6/1), Q1 순이익 32억달러·EPS 3.13달러, 유가 하락으로 주가 약세(연초 대비 +31%)

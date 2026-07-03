@@ -1,7 +1,7 @@
 ---
 title: "COP - ConocoPhillips — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-26
+updated: 2026-07-03
 domain: finance
 type: claim
 weight: reference
@@ -32,6 +32,7 @@ sources: []
 - [ ] **2026-06-05**: 포트아서 LNG 첫 생산 임박 — 2026 하반기 LNG 매출 기여 시점 (pending)
 - [ ] **2026-06-19**: 가이던스 하향·내부자 매도·유가 하락 3중 악재로 한 달 -9% — Willow·포트아서 LNG가 모멘텀 반전시킬지 (pending)
 - [ ] **2026-06-26**: 생산 가이던스 하향 추세 — 향후 7일 내 검증 (pending)
+- [ ] **2026-07-03**: 카타르 Q2 가이던스 제외·최대 25% 감원설의 실체와 생산 영향 — 7/30 실적서 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -50,6 +51,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-03
+**narrative_score**: -0.14
+**key_events**: 러셀 디펜시브 지수 편입, 카타르 Q2 가이던스 제외, $700M 루이지애나 세금 분쟁, 최대 25% 감원설
+**risks**: Q1 이익 -21% YoY 지속, 유가 하락에 상류 순수 노출, 감원·구조조정 실행 리스크
+
+> [!claim] (Simply Wall St, 2026-07-01) ConocoPhillips Added to Russell 1000 Defensive and Value-Defensive Indexes
+> 러셀 1000 디펜시브·밸류디펜시브 지수 편입, 셸프 등록 제출. impact: + / category: other
+
+> [!claim] (Yahoo Finance, 2026-07-02) ConocoPhillips Excludes Qatar from Q2 2026 Production Guidance Amid Mideast Conflict
+> 중동 분쟁으로 Q2 가이던스서 카타르 제외, Surmont 로열티 상승·볼륨 압박. impact: - / category: other
+
+> [!claim] (Seeking Alpha, 2026-07-01) ConocoPhillips Faces $700M Louisiana Tax Dispute, Reports of Up to 25% Workforce Cuts
+> 루이지애나 $7억+ 세금 분쟁·최대 25% 감원설. Q1 이익 -21% YoY. impact: - / category: regulation
+
+> [!claim] (TradingKey, 2026-07-02) COP Stock Down 13% Over Month as Oil Slides; Earnings Due July 30
+> 유가 약세로 주가 월 -13%, $104 부근. 7/30 실적 예정, 18개사 Buy. impact: - / category: macro
+
+**경쟁사 동향**:
+- XOM: 엑손 가이아나·퍼미안 기록 생산으로 볼륨 강점 — 순수 상류 COP는 가이던스 하향·유가 약세에 상대적으로 더 취약
+- OXY: OXY 부채감축·버핏 지지로 방어 — COP는 방어 지수 편입은 긍정이나 카타르 제외·감원설이 성장 훼손
+
 ### 2026-06-26
 **narrative_score**: -0.20
 **key_events**: 2026 생산 가이던스 하향(2.295~2.325 MMBOED), 주가 3.1% 급락, 시리아 가스전 개발 협약(약 20년 만에 복귀), RBC 베스트 아이디어 선정

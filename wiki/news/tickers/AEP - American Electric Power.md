@@ -1,7 +1,7 @@
 ---
 title: "AEP - American Electric Power — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-26
+updated: 2026-07-03
 domain: finance
 type: claim
 weight: reference
@@ -32,6 +32,7 @@ sources: []
 - [ ] **2026-06-05**: $417억 4년 자본투자 계획 — 요금기반 7.9% 성장 달성 여부 검증 (pending — 6/19 업데이트: 5개년 자본계획 $78B로 확대, 장기 EPS 성장률 9%+ 상향)
 - [ ] **2026-06-19**: 2030년까지 증분 부하 63GW(약 90% 데이터센터) — 계약 전환 및 OVEC 재편 후 수익 기여 검증 (pending)
 - [ ] **2026-06-26**: 오하이오 데이터센터 파이프라인 축소 — 향후 7일 내 검증 (pending)
+- [ ] **2026-07-03**: 오하이오 데이터센터 관세가 63GW 부하 파이프라인 실현을 담보하는지 — 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -48,6 +49,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-03
+**narrative_score**: +0.19
+**key_events**: 증분 부하 2030 63GW 전망, 5년 자본계획 $780억 상향, 오하이오 데이터센터 관세
+**risks**: 대규모 송전 capex 집행, 요금 규제·affordability, 금리 환경
+
+> [!claim] (SEC 8-K, 2026-07-01) AEP Incremental Load Set to Reach 63GW by 2030 After 7GW Q1 Agreements
+> Q1 7GW 신규 부하계약(오하이오·텍사스), 2030 증분 부하 63GW 전망. impact: + / category: other
+
+> [!claim] (tech-insider, 2026-07-01) AEP Raises Five-Year Capital Plan to $78B on PJM, SPP Transmission
+> 5년 자본계획 $720억→$780억, PJM·SPP 송전 투자 승인 반영. impact: + / category: other
+
+> [!claim] (tech-insider, 2026-06-30) AEP's Ohio Data Center Tariff Requires Developer Financial Commitments
+> 오하이오 데이터센터 관세로 개발자 재무 약정 요구, 부하 계약 리스크 관리. impact: + / category: regulation
+
+**경쟁사 동향**:
+- DUK: 듀크 $102.2B 계획·7.6GW 계약 — 규제 유틸리티 데이터센터 자본 사이클 동조, AEP는 송전망 1위 강점
+- EXC: 엑셀론 $41.7B 자본계획·19GW 파이프라인 — PJM 권역 부하성장 경쟁, AEP는 63GW 파이프라인으로 규모 우위
+
 ### 2026-06-26
 **narrative_score**: +0.32
 **key_events**: 5년 자본계획 780억달러 확대, 6/1 OVEC 구조조정 완료, 부하 파이프라인 56GW(6개월새 100%↑)

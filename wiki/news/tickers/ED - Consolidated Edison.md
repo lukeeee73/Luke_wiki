@@ -1,7 +1,7 @@
 ---
 title: "ED - Consolidated Edison — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-26
+updated: 2026-07-03
 domain: finance
 type: claim
 weight: reference
@@ -31,6 +31,7 @@ sources: []
 - [ ] **2026-05-29**: Q1 EPS 상회 + NYC 그리드 현대화 $7억 투자 — 전력망 현대화 공사 진행 상황 (aged-out: 21일 경과, 후속 갱신 없음)
 - [ ] **2026-06-19**: 2026 EPS 가이던스 $6.00~$6.20 재확인 + $380억 투자계획 — 7%+ 성장 실현 여부 (pending)
 - [ ] **2026-06-26**: NY 요금 적정성/규제 압박 — 향후 7일 내 검증 (pending)
+- [ ] **2026-07-03**: 데이터센터 노출 부족이 성장 디레이팅으로 굳어지는지 — 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -47,6 +48,23 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-03
+**narrative_score**: +0.02
+**key_events**: 스팀 요금 $18M 인상 지지($9.3% ROE), Mizuho Neutral 강등($105), 전기·가스 요금제 2028까지 확정
+**risks**: 데이터센터 노출 낮아 성장 제한, 애널 강등·밸류 우려, 금리 대비 배당 매력 변동
+
+> [!claim] (SEC 8-K, 2026-07-01) Con Edison Steam Rate Case: NY DPS Backs $18M Increase, 9.3% ROE
+> NY DPS 스팀 요금 $18M 인상·9.3% ROE 지지 증언. 전기·가스 요금제 2028까지. impact: + / category: regulation
+
+> [!claim] (CNBC, 2026-07-02) Mizuho Downgrades Con Edison to Neutral, Cites Constrained Growth
+> Mizuho Outperform→Neutral 강등($105), 성장 궤적·밸류 우려. Argus $112로 하향(Buy). impact: - / category: other
+
+> [!claim] (stockanalysis, 2026-07-01) Con Edison Trades at $111 Near ATH; Low Data Center Exposure Limits Growth
+> $110.95(ATH $114.50 근접) 방어주이나 데이터센터 노출 낮아 성장 제한. impact: neutral / category: other
+
+**경쟁사 동향**:
+- EXC: 엑셀론 19GW 데이터센터 파이프라인·자본계획 상향 — 동일 T&D 유틸리티 중 콘에드는 데이터센터 부하 노출이 낮아 성장 상대 열위
+
 ### 2026-06-26
 **narrative_score**: +0.10
 **key_events**: Q1 순이익 $924M, EPS $2.55, 2026 조정 EPS 가이던스 $6.00~6.20 재확인, 분기 배당 $3.4375(수익률 ~3.3%)

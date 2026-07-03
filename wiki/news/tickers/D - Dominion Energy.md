@@ -1,7 +1,7 @@
 ---
 title: "D - Dominion Energy, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-26
+updated: 2026-07-03
 domain: finance
 type: claim
 weight: reference
@@ -32,6 +32,7 @@ sources: []
 - [ ] **2026-06-05**: NEE 주가 하락 (-13.7%) — 교환 가치 감소 시 D 주가 추가 조정 여부 (pending)
 - [ ] **2026-06-19**: 7월 버지니아 SCC 신청 예정 (180일 심사) — 규제 통과/지연/무산 경로 (pending)
 - [ ] **2026-06-26**: VA SCC 180일 검토 시간압박 및 정치적 반대 — 향후 7일 내 검증 (pending)
+- [ ] **2026-07-03**: 도미니언-NEE 병합 SCC·의회 180일 검토 통과 여부 — 검토기간 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -50,6 +51,23 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-03
+**narrative_score**: +0.09
+**key_events**: NEE에 $67B 전액 주식 피인수, 0.8138 NEE 고정 교환비율, 버지니아 SCC·의회 180일 검토
+**risks**: 버지니아 SCC·의회 병합 검토, 딜 무산 시 밸류 되돌림, NEE 주가 연동 변동성
+
+> [!claim] (247wallst, 2026-07-01) Dominion to Be Acquired by NextEra for $67B; Virginia Data Center Grid the Prize
+> NEE에 $670억 전액 주식 피인수(0.8138 NEE/주+$3.6억 현금), 버지니아 데이터센터 그리드가 핵심. impact: + / category: m&a
+
+> [!claim] (eciks, 2026-07-01) Dominion Shareholders Weigh Fixed 0.8138 NEE Exchange Ratio
+> 주당 0.8138 NEE 고정 교환비율로 D 주가 NEE에 연동, 버지니아 세계 최대 데이터센터 시장. impact: + / category: other
+
+> [!claim] (Simply Wall St, 2026-07-02) Dominion-NextEra Merger Faces Virginia SCC and Congressional Review
+> 버지니아 SCC·의회 검토(180일)가 병합 승인 리스크로 부상. impact: - / category: regulation
+
+**경쟁사 동향**:
+- NEE: NEE 도미니언 인수로 세계 최대 규제 유틸리티·130GW 파이프라인 — D 주가는 고정 교환비율로 NEE에 연동, 규제 검토가 양사 공통 변수
+
 ### 2026-06-26
 **narrative_score**: +0.15
 **key_events**: 5/18 NEE와 합병 발표(교환비율 0.8138), 버지니아 18억달러·전체 22.5억달러 요금 크레딧, 3분기 SCC 합병 신청 예정, 검토기간 연장 논쟁

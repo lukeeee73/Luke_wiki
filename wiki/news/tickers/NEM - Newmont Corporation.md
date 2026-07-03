@@ -1,7 +1,7 @@
 ---
 title: "NEM - Newmont Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-26
+updated: 2026-07-03
 domain: finance
 type: claim
 weight: reference
@@ -32,6 +32,7 @@ sources: []
 - [ ] **2026-06-05**: $60억 자사주매입 프로그램 — 매입 속도 및 주가 지지 효과 (pending; 한 달 -15% 약세로 지지 효과 제한적)
 - [ ] **2026-06-19**: 7/1 발효 CFO·COO·CTO 경영진 쇄신 — 운영성과·비용통제 실행 개선 여부 (pending)
 - [ ] **2026-06-26**: 금 가격 급락(Fed 매파·지정학 리스크 완화)에 따른 실적 레버리지 — 향후 7일 내 검증 (pending)
+- [ ] **2026-07-03**: 금값 $4,000 회복 지속이 2026 생산 저점 우려를 상쇄하는지 — Q2 실적(7/23)서 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -53,6 +54,23 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-03
+**narrative_score**: +0.12
+**key_events**: 금값 $4,000 재돌파·NEM 반등, Q2 실적 7/23(EPS +54% 전망), Red Chris 허가 승인
+**risks**: 2026 광산 시퀀싱상 생산 저점, 금값 변동성(Q2 -15% 경험), 대규모 capex 부담
+
+> [!claim] (Investing.com, 2026-07-02) Gold Reclaims $4,000 After 15% Q2 Drop; Newmont Rebounds to $97
+> 금값 Q2 -15% 후 $4,000 재돌파, 8개월 최저서 반등. NEM $97(전일 $93.30). impact: + / category: macro
+
+> [!claim] (Yahoo Finance, 2026-07-01) Newmont Q2 2026 Earnings Due July 23, EPS Seen +53.9% YoY at $2.20
+> 7/23 Q2 실적, EPS $2.20(+53.9% YoY) 전망. 22개사 Buy·목표가 $139.04. impact: + / category: earnings
+
+> [!claim] (Seeking Alpha, 2026-07-01) Red Chris Block Cave Permit Approval Boosts Newmont Production Outlook
+> Red Chris 블록케이브 허가 승인. 단 2026은 광산 시퀀싱상 생산 저점. impact: + / category: other
+
+**경쟁사 동향**:
+- FCX: 프리포트 MS 강등·구리 되돌림 — 금(NEM)은 $4,000 회복 반등, 구리(FCX)는 약세 — 귀금속이 산업금속 대비 우위
+
 ### 2026-06-26
 **narrative_score**: +0.25
 **key_events**: 금값 7개월 최저로 6/24 주가 4.17% 급락, Red Chris 블록케이브 채굴 허가 승인(2040년대 연장), 7/1자 신임 CFO·COO·CTO 선임, 1Q 사상 최대 실적·FCF, 자사주 매입 한도 확대
