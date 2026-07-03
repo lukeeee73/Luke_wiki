@@ -1,7 +1,7 @@
 ---
 title: "XOM - Exxon Mobil Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-26
+updated: 2026-07-03
 domain: finance
 type: claim
 weight: reference
@@ -32,6 +32,7 @@ sources: []
 - [ ] **2026-06-05**: OPEC+ 6/7 추가 증산 결정 — 유가 추가 하락 시 XOM 가이아나·퍼미안 FCF 영향 여부 (verified 2026-06-19) — 미·이란 협정발 유가 급락으로 한 달 -15% 조정, 매크로 하방 현실화
 - [ ] **2026-06-19**: 가이아나·퍼미안 기록 생산이 유가 하락 충격을 구조적으로 상쇄하는지 — 저평가 분석 vs 유가 민감도 검증 필요 (pending)
 - [ ] **2026-06-26**: 유가 70달러 하회로 현금흐름 압박 — 향후 7일 내 검증 (pending)
+- [ ] **2026-07-03**: 유가 70달러 하회 지속이 XOM FCF·배당 커버리지에 미치는 영향 — 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -48,6 +49,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-03
+**narrative_score**: -0.02
+**key_events**: 텍사스 재법인화 완료(7/1), TD Cowen 목표가 $155 하향, WTI 70달러 부근 약세
+**risks**: 유가 추가 하락 시 상류 FCF 압박, 이란 수출 정상화·공급 과잉, 정제마진 둔화
+
+> [!claim] (Bloomberg, 2026-07-01) ExxonMobil Completes Texas Redomiciliation, Trades as ExxonMobil Holdings
+> 7/1 텍사스 지주사 전환 완료, 1대1 주식교환·기존 XOM 티커 유지. 25년래 첫 사명 변경. impact: neutral / category: other
+
+> [!claim] (Yahoo Finance, 2026-07-02) TD Cowen Lowers Exxon Mobil Price Target to $155 from $172
+> TD Cowen 목표주가 $172→$155 하향. 22개사 평균 Buy·목표가 $169.26. impact: - / category: other
+
+> [!claim] (FXLeaders, 2026-07-02) Exxon Mobil Stock Tests Key Support as Soft Oil, Texas Move Take Focus
+> WTI 70달러 부근 약세로 주가 $136.28서 핵심 지지선 시험. impact: - / category: macro
+
+> [!claim] (Fortune, 2026-07-01) Oil Prices Slide as Iran Exports Surge, Strait of Hormuz Reopens
+> 美 해군 봉쇄 해제로 이란 수출 급증·러 기록적 선적에 유가 한 달 -26%. impact: - / category: macro
+
+**경쟁사 동향**:
+- CVX: Chevron Q1 EPS $1.41 beat, MS 데이터센터 20년 가스공급 계약 진행 — CVX의 AI 전력·프로젝트 성장 스토리가 XOM 가스·저탄소 사업에 상대적 압박
+- COP: ConocoPhillips 카타르 Q2 가이던스 제외·감원설로 주가 월 -13% — 상류 섹터 센티먼트 악화, XOM 통합모델·볼륨 강점이 상대 우위
+
 ### 2026-06-26
 **narrative_score**: +0.02
 **key_events**: 7월 텍사스 본사 이전, 대법원 쿠바 10억달러 청구 부활 승소, BofA 매수 상향(6/15), WTI 70달러 붕괴

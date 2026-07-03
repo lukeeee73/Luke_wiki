@@ -1,7 +1,7 @@
 ---
 title: "CEG - Constellation Energy — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-26
+updated: 2026-07-03
 domain: finance
 type: claim
 weight: reference
@@ -32,6 +32,7 @@ sources: []
 - [ ] **2026-06-05**: YTD -25% 조정 — 애널리스트 평균 목표가 $368 대비 수렴 시점 (pending)
 - [ ] **2026-06-19**: FERC waiver + Eddystone 760MW 용량권 이전 — Crane(TMI) 2027 하반기 재가동 일정 준수 여부 (pending)
 - [ ] **2026-06-26**: 증자에 따른 주당가치 희석 — 향후 7일 내 검증 (pending)
+- [ ] **2026-07-03**: PJM 가격상한 제안이 실제 규칙화되어 머천트 마진을 훼손하는지 — 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -50,6 +51,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-03
+**narrative_score**: +0.19
+**key_events**: PJM 가격상한 제안 우려·YTD -20%, 1GW 원전 증설·$3.9B capex, MS 스리마일 20년 PPA·Calpine 통합
+**risks**: PJM 전력 가격상한 규제, 머천트 전력價 변동성, ATH 대비 -30% 밸류 리레이팅
+
+> [!claim] (Seeking Alpha, 2026-07-02) Constellation Down ~20% YTD as PJM Price Cap Proposals Pressure Merchant Power
+> PJM 전력 가격상한 제안 우려로 YTD -20%, ATH $412 대비 -30%. $239.25. impact: - / category: regulation
+
+> [!claim] (Yahoo Finance, 2026-07-01) Constellation Plans 1GW Nuclear Uprates and $3.9B Capex for Clean Power Demand
+> 1GW 원전 증설·$39억 capex·5,650MW 장기 청정에너지 계약. MS 스리마일 20년 PPA. impact: + / category: other
+
+> [!claim] (Simply Wall St, 2026-06-30) Constellation Reaffirms 2026 EPS $11-$12 After Q1 Beat Boosted by Calpine
+> Q1 EPS $2.74(컨센 $2.53)·매출 $111억(Calpine 효과). 2026 EPS $11-12 재확인. impact: + / category: earnings
+
+**경쟁사 동향**:
+- VST: 비스트라도 PJM 가격상한 우려로 6일 -12% — 머천트 원전·발전사 공통 규제 오버행, 데이터센터 PPA는 양사 성장 동력
+- SO: 서던 등 규제 유틸리티는 머천트 리스크서 자유 — CEG는 원전 희소성 프리미엄 vs PJM 가격상한 리스크의 상충
+
 ### 2026-06-26
 **narrative_score**: +0.57
 **key_events**: TMI/Crane FERC 면제 승인(2027 재가동), MS 20년 PPA 등 장기계약 확대, Calpine 인수 완료로 Q1 매출 2배

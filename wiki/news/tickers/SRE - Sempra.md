@@ -1,7 +1,7 @@
 ---
 title: "SRE - Sempra — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-26
+updated: 2026-07-03
 domain: finance
 type: claim
 weight: reference
@@ -32,6 +32,7 @@ sources: []
 - [ ] **2026-06-05**: Voss Capital Oncor 분리 촉구 — 경영진 대응 및 분리 실현 가능성 (pending)
 - [ ] **2026-06-19**: SDG&E·SoCalGas 2028 GRC 신청 — CPUC 결정이 향후 캘리포니아 규제 수익에 미치는 영향 (pending)
 - [ ] **2026-06-26**: 인프라 지분 매각 규제 승인·클로징 지연 — 향후 7일 내 검증 (pending)
+- [ ] **2026-07-03**: Port Arthur LNG 1단계 상업운전 일정 준수 여부 — 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -48,6 +49,23 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-03
+**narrative_score**: +0.14
+**key_events**: Port Arthur Louisiana Connector 조기 가동, Port Arthur LNG Ph1·2 순항(13.5 mtpa), ECA LNG 멕시코 첫 생산
+**risks**: 대규모 LNG 건설 자금·실행, 금리 환경, 캘리포니아 규제 환경
+
+> [!claim] (Investing.com, 2026-07-01) Sempra Places Port Arthur Louisiana Connector Pipeline Into Service Early, Under Budget
+> 72마일 파이프라인 조기·예산 이내 가동(<$10억, 2 Bcf/d), Port Arthur LNG Ph1 공급. impact: + / category: other
+
+> [!claim] (ad-hoc-news, 2026-07-01) Sempra Progresses Port Arthur LNG Phases 1 & 2 On Schedule (13.5 mtpa)
+> Port Arthur LNG 1·2단계 일정·예산 내 진행, 1단계 13.5 mtpa 수출 목표. impact: + / category: other
+
+> [!claim] (TradingView, 2026-06-30) Sempra Reports First LNG Production at ECA Phase 1 in Mexico
+> 멕시코 ECA LNG 1단계 첫 생산, 향후 수개월 내 상업운전 목표. impact: + / category: other
+
+**경쟁사 동향**:
+- D: 도미니언 NEE 피인수·버지니아 데이터센터 프리미엄 — Sempra는 인프라 매각·LNG 집중으로 텍사스·캘리포니아 유틸리티 성장 차별화
+
 ### 2026-06-26
 **narrative_score**: +0.34
 **key_events**: Port Arthur 파이프라인 LA 커넥터 가동(2 Bcf/d), 텍사스 그리드 수주, Port Arthur LNG 1단계 공급 진전

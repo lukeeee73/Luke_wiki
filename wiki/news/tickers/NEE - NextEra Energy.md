@@ -1,7 +1,7 @@
 ---
 title: "NEE - NextEra Energy, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-26
+updated: 2026-07-03
 domain: finance
 type: claim
 weight: reference
@@ -32,6 +32,7 @@ sources: []
 - [ ] **2026-06-05**: 고금리 환경 주가 압박 — 규제 승인 후 합병 완료 시 주가 반등 여부 (pending)
 - [ ] **2026-06-19**: 버지니아 입법부 압축 심사 일정 우려 — 규제 안전장치 입법 전 승인 강요 여부 및 딜 일정 영향 (pending)
 - [ ] **2026-06-26**: VA SCC·NRC·FERC 다중 승인 지연/거부 리스크 — 향후 7일 내 검증 (pending)
+- [ ] **2026-07-03**: 버지니아 SCC·의회의 도미니언 병합 검토 진전 — 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -50,6 +51,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-03
+**narrative_score**: +0.15
+**key_events**: $67B 도미니언 인수 진행, 130GW+ 대용량 파이프라인, YTD +10.4%
+**risks**: 버지니아 SCC·의회 병합 검토, 전액 주식 딜 희석, 금리 환경·통합 실행 리스크
+
+> [!claim] (Yahoo Finance, 2026-07-01) NextEra's $67B Dominion Acquisition Advances Toward World's Largest Regulated Utility
+> $670억 전액 주식 도미니언 인수(0.8138 NEE/주+$3.6억) 진행, 세계 최대 규제 유틸리티. impact: + / category: m&a
+
+> [!claim] (247wallst, 2026-07-01) NextEra-Dominion Deal Positions It at Center of AI Power Race with 130GW+ Pipeline
+> 버지니아 최대 데이터센터 클러스터 확보, 130GW+ 대용량 파이프라인. YTD +10.4%. impact: + / category: other
+
+> [!claim] (Simply Wall St, 2026-07-02) NEE Deal Faces Regulatory Review from Virginia SCC and Congress
+> 버지니아 SCC·의회 규제 검토가 병합 리스크. Moderate Buy 컨센. impact: - / category: regulation
+
+**경쟁사 동향**:
+- D: 도미니언, NEE에 $670억 피인수·버지니아 데이터센터 프리미엄 — D 주가는 고정 교환비율로 NEE에 연동, 규제 검토가 양사 공통 변수
+- SO: 서던 75GW 데이터센터 파이프라인·$81B capex — 데이터센터 전력 경쟁 심화, NEE는 도미니언 인수로 규모 우위 추구
+
 ### 2026-06-26
 **narrative_score**: +0.26
 **key_events**: 5/18 도미니언 670억달러 합병 발표, 22.5억달러 요금 크레딧 제안, 버지니아 의회 청문회 및 SCC 검토기간 논쟁

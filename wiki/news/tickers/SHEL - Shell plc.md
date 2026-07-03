@@ -1,7 +1,7 @@
 ---
 title: "SHEL - Shell plc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-26
+updated: 2026-07-03
 domain: finance
 type: claim
 weight: reference
@@ -32,6 +32,7 @@ sources: []
 - [ ] **2026-06-05**: 5/7~7/24 자사주 매입 프로그램 완료 — 매입 규모 대비 주가 지지 효과 (refuted 2026-06-19) — $164억 ARC 인수 증권법 요건으로 6/12~7/14 자사주매입 일시 중단, 프로그램 무중단 완료 가설 깨짐
 - [ ] **2026-06-19**: 자사주매입 중단 기간 (6/12~7/14) 주가 지지력 약화 여부 — 재개 후 회복 탄력 검증 필요 (pending)
 - [ ] **2026-06-26**: Q1 매출 컨센 8.5% 하회 — 향후 7일 내 검증 (pending)
+- [ ] **2026-07-03**: 유가 약세 하에서 $3B 자사주매입 완주(7/24) 여부 — 7일 내 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -48,6 +49,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-03
+**narrative_score**: +0.04
+**key_events**: $3B 자사주매입 7/24까지 지속, Q1 배당 +5% 인상, LNG 글로벌 1위 거래
+**risks**: 유가 약세로 실적 상단 제약, 정제·화학 마진 변동, 환율·거래 손익 변동성
+
+> [!claim] (StockTitan, 2026-07-01) Shell Continues $3 Billion Buyback Programme Through July 24
+> $30억 자사주매입(5/7~7/24) 지속 집행, 소각으로 자본금 축소. impact: + / category: other
+
+> [!claim] (StockTitan, 2026-06-30) Shell Declares Q1 2026 Dividend of $0.3906, a 5% Increase
+> Q1 배당 주당 $0.3906(+5%), 연 ~4% 성장 지향. 배당수익률 3.86%. impact: + / category: earnings
+
+> [!claim] (Yahoo Finance, 2026-07-02) Oil Price Weakness Caps Shell Earnings Upside
+> WTI $68·Brent $71 약세로 실적 상단 제약. LNG 거래는 완충. impact: - / category: macro
+
+**경쟁사 동향**:
+- XOM: 엑손 유가 약세·목표가 하향 — Shell은 지속적 자사주매입·5% 배당인상으로 주주환원 차별화
+- CVX: 셰브론 데이터센터 가스딜·애널 상향 — 성장 딜은 CVX 우위이나 Shell은 LNG 글로벌 1위·환원 안정성 강점
+
 ### 2026-06-26
 **narrative_score**: +0.05
 **key_events**: 1분기 배당 지급 공지(6/15), 5월~7월 자사주 매입 프로그램 진행, Q1 EPS 2.42달러로 컨센 19.8% 상회·5% 배당 인상

@@ -1,7 +1,7 @@
 ---
 title: "SO - The Southern Company — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-26
+updated: 2026-07-03
 domain: finance
 type: claim
 weight: reference
@@ -32,6 +32,7 @@ sources: []
 - [ ] **2026-06-05**: 조지아 파워 요금 인하 명령 — 매출 감소 규모 및 다음 요금 신청 시점 (pending)
 - [ ] **2026-06-19**: $26.5B DOE 저리 대출 + 75GW 파이프라인 — 2026-30 $81B capex 집행 및 데이터센터 계약 전환율 검증 (pending)
 - [ ] **2026-06-26**: 대규모 자본지출에 따른 금리 민감도 — 향후 7일 내 검증 (pending)
+- [ ] **2026-07-03**: 75GW 파이프라인 중 추가 데이터센터 계약 전환 속도 — 7/30 실적서 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -48,6 +49,24 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-03
+**narrative_score**: +0.25
+**key_events**: 월 +9%·7/30 실적, 75GW 데이터센터 파이프라인·10GW 계약, 2026-30 capex $810억 상향
+**risks**: 대규모 capex 자금조달, 보글 이후 신규 원전 지연 가능성, 금리 환경
+
+> [!claim] (Yahoo Finance, 2026-07-01) Southern Company Stock Up 9% on Month as Data Center Demand Drives Capex Cycle
+> 강한 수요·투자 사이클로 월 +9%. 7/30 실적, 2026 EPS 6.5% 성장 전망. impact: + / category: other
+
+> [!claim] (Utility Dive, 2026-07-01) Southern Reports 75GW Data Center Pipeline, 10GW Already Contracted
+> 75GW 데이터센터 파이프라인·10GW 계약 완료. 2026-2030 capex $810억으로 상향. impact: + / category: other
+
+> [!claim] (Motley Fool, 2026-06-30) Vogtle 3&4 Give Southern Largest U.S. Nuclear Station for AI Power Demand
+> 보글 3·4호기로 미국 최대 원전 보유, 무탄소 상시전력이 빅테크 수요와 부합. impact: + / category: other
+
+**경쟁사 동향**:
+- DUK: 듀크 $102.2B 계획·7.6GW 데이터센터 계약 — 동남부 데이터센터 부하 경쟁, 서던은 보글 원전·75GW 파이프라인으로 우위
+- CEG: 콘스텔레이션 PJM 가격상한 제안 우려 — 규제 유틸리티 SO는 머천트 전력 리스크서 상대적으로 자유로움
+
 ### 2026-06-26
 **narrative_score**: +0.45
 **key_events**: 데이터센터 42% 성장, 전력판매 기록, 자본계획 810억달러로 확대, 2026 EPS $4.50~4.60 가이던스

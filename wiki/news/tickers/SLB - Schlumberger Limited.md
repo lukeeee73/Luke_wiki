@@ -1,7 +1,7 @@
 ---
 title: "SLB - Schlumberger Limited — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-26
+updated: 2026-07-03
 domain: finance
 type: claim
 weight: reference
@@ -32,6 +32,7 @@ sources: []
 - [ ] **2026-06-05**: Tachyus AI 인수 — 디지털 저류층 솔루션 매출 기여 시점 (pending; 6/17 디지털 투자자의 날에서 디지털 전략 구체화)
 - [ ] **2026-06-19**: 6/17 디지털 투자자의 날에서 제시한 2030 디지털 야망 — 재무 목표 달성 궤도 여부 (pending)
 - [ ] **2026-06-26**: 글로벌 상류 capex 2년 연속 감소 — 향후 7일 내 검증 (pending)
+- [ ] **2026-07-03**: 유가 약세發 고객 상류 capex 둔화가 SLB 수주에 반영되는지 — Q2 콜(7/24)서 검증 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -48,6 +49,26 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-03
+**narrative_score**: +0.05
+**key_events**: 쿠웨이트 국영석유 7년 계약, CNOOC 다정 EPC 수주, Q2 실적 7/24
+**risks**: 유가 약세로 상류 capex 감소, 중동 지정학 disruption, 북미 시추 활동 둔화
+
+> [!claim] (Yahoo Finance, 2026-07-01) SLB Wins Seven-Year Kuwait Oil Company Contract for Digital Operations
+> 쿠웨이트 국영석유와 7년 계약, 중동 디지털 기술 사업 강화. impact: + / category: other
+
+> [!claim] (Yahoo Finance, 2026-06-30) SLB Secures Multi-Well EPC Contract with CNOOC
+> CNOOC 다정(多井) EPC 수주로 아시아 심해 파이프라인 확대. impact: + / category: other
+
+> [!claim] (Seeking Alpha, 2026-07-01) SLB Holds Buy Consensus Ahead of July 24 Q2 Call
+> 19개사 Buy 컨센(7/1), 7/24 Q2 실적 콜. 유가 약세로 상류 capex 둔화 우려. impact: neutral / category: earnings
+
+> [!claim] (Yahoo Finance, 2026-07-02) Oil Weakness and Upstream Capex Cuts Cloud Oilfield Services Outlook
+> 유가 약세로 고객 상류 capex 축소 우려, 중동 disruption 단기 부담. impact: - / category: macro
+
+**경쟁사 동향**:
+- XOM: 엑손 등 메이저 유가 약세 — E&P 고객 capex 둔화 시 SLB 서비스 수요 파급, 단 국제·디지털 수주로 완충
+
 ### 2026-06-26
 **narrative_score**: +0.10
 **key_events**: 6/17 디지털 투자자의 날 개최, Var Energi Delfi 플랫폼 확대, Q1 매출 87.2억달러(+3%)
