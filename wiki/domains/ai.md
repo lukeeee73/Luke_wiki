@@ -1,7 +1,7 @@
 ---
 title: "AI Domain Index"
 created: 2026-05-02
-updated: 2026-06-29
+updated: 2026-07-04
 domain: ai
 type: index
 weight: foundational
@@ -66,7 +66,7 @@ AI 칩 가치사슬 — 모델이 실제로 돌아가는 하드웨어 공급단.
 
 ## AI 데이터센터 전력 인프라 (`domain: finance, ai`)
 
-칩이 컴퓨팅의 공급이라면, 전력은 그 칩을 돌리는 에너지의 공급. 진입점은 [AI 데이터센터 전력 인프라 종합](../syntheses/ai-datacenter-power-infrastructure.md).
+칩이 컴퓨팅의 공급이라면, 전력은 그 칩을 돌리는 에너지의 공급. 진입점은 [AI 데이터센터 전력 인프라 종합](../syntheses/ai-datacenter-power-infrastructure.md). 2026-07-04에 SemiAnalysis grid headroom/ELCC 자료로 BTM 전환 근거를 보강했다.
 
 - **발전**: [GE Vernova](../entities/ge-vernova.md) · [두산에너빌리티](../entities/doosan-enerbility.md) · [Bloom Energy](../entities/bloom-energy.md)
 - **송·배전 전력기기**: [LS일렉트릭](../entities/ls-electric.md)

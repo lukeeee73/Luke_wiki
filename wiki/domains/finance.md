@@ -1,7 +1,7 @@
 ---
 title: "Finance Domain Index"
 created: 2026-05-02
-updated: 2026-06-28
+updated: 2026-07-04
 domain: finance
 type: index
 weight: foundational
@@ -49,7 +49,7 @@ sources: []
 
 - [개인 투자자용 All Weather 변형](../syntheses/personal-all-weather-variant.md) — 레버리지 없이 4분면을 커버하는 개인용 포트폴리오
 - [반도체·AI 칩 가치사슬 종합](../syntheses/semiconductor-ai-chip-value-chain.md) — 모래에서 AI 칩까지, 어디에 협상력·마진·해자가 집중되는가 (`domain: finance, ai`)
-- [AI 데이터센터 전력 인프라 종합](../syntheses/ai-datacenter-power-infrastructure.md) — 발전(가스터빈·연료전지)~송배전(전력기기)의 병목 = 가격 결정력, 효율이 아니라 속도 (`domain: finance, ai`)
+- [AI 데이터센터 전력 인프라 종합](../syntheses/ai-datacenter-power-infrastructure.md) — 발전~송배전 병목 + SemiAnalysis grid headroom/ELCC 보강; 병목 = 가격 결정력, 효율이 아니라 속도 (`domain: finance, ai`)
 
 ---
 

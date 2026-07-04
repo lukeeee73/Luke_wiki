@@ -1,7 +1,7 @@
 ---
 title: "Wiki Log"
 created: 2026-04-05
-updated: 2026-06-29
+updated: 2026-07-04
 tags: [log, meta]
 sources: []
 ---
@@ -10,6 +10,26 @@ sources: []
 # Wiki Log
 
 위키의 모든 작업 이력을 시간순으로 기록합니다.
+
+---
+
+## 2026-07-04
+
+### [INGEST] SemiAnalysis — US Grid Constraints / BTM Datacenter
+
+- **작업**: SemiAnalysis 2026-06-25 글 `US Grid Constraints: Towards 40GW+ of Behind-The-Meter Datacenter by 2028?` 공개 구간을 수집·정리하고 기존 AI 데이터센터 전력 인프라 종합 페이지에 반영.
+- **원본 유형**: SemiAnalysis 유료 뉴스레터/리서치 공개 미리보기 — grid headroom, ELCC, BTM 데이터센터 전망.
+- **생성된 파일**:
+  - `sources/semianalysis-us-grid-constraints-btm-datacenter-2026.md` — 원문 메타데이터와 핵심 주장 정리.
+- **업데이트된 파일**:
+  - `wiki/syntheses/ai-datacenter-power-infrastructure.md` — §1.1 추가. BTM 전환을 계통 headroom/ELCC/required reserve margin 관점으로 보강.
+  - `wiki/index.md` · `wiki/domains/finance.md` · `wiki/domains/ai.md` — 전력 인프라 종합 설명 갱신.
+- **주요 내용**:
+  1. SemiAnalysis는 미국 데이터센터 gross power demand가 2026년 +21GW에서 2030년 +84GW로 증가한다고 주장.
+  2. 미국 계통의 net-new ELCC 용량은 연 약 15GW 수준이라 firm load 증가 속도를 따라가지 못한다는 모델.
+  3. Grid headroom은 `accredited supply - peak demand - required reserves`이며, 주요 subregion에서 2027년부터 reserve margin target 아래로 내려가는 지역이 늘어난다는 주장.
+  4. BTM은 전력 가격 최적화보다 2027~2028년 energization을 직접 통제하는 일정 리스크 헤지로 해석.
+- **인식론 처리**: SemiAnalysis 모델 전망은 `[!claim]`, ELCC/headroom 정의는 `[!fact]`, 투자·운영 해석은 `[!judgment]`로 구분.
 
 ---
 
