@@ -1,13 +1,13 @@
 ---
 title: "AI 데이터센터 전력 인프라 종합 — 가스터빈·연료전지·전력기기"
 created: 2026-06-28
-updated: 2026-06-28
+updated: 2026-07-04
 domain: finance, ai
 type: synthesis
 weight: important
 confidence: medium
 tags: [전력인프라, 데이터센터, 가스터빈, 연료전지, 전력기기, 변압기, BTM, LS일렉트릭, 두산에너빌리티, 전력투자]
-sources: [sources/ai-datacenter-power-infrastructure.md]
+sources: [sources/ai-datacenter-power-infrastructure.md, sources/semianalysis-us-grid-constraints-btm-datacenter-2026.md]
 aliases: [데이터센터 전력, 가스터빈 연료전지, K전력기기 빅3, speed to power]
 ---
 
@@ -55,6 +55,23 @@ AI 데이터센터의 전력 확보 경쟁을 **발전(가스터빈·연료전�
 > 하이퍼스케일러는 100% 재생에너지 목표를 내걸면서도 실제로는 속도를 우선한다. 그래서 수소 혼소 대응(hydrogen-ready) 가스터빈을 깔며 "미래에 전환 가능한" 과도기 플랫폼으로 설계한다 — ESG 명분과 실물 제약 사이의 타협. 이 모순을 읽으면 "재생에너지 선언"을 가스터빈 발주의 반대 신호로 오해하지 않게 된다.
 
 ---
+
+
+## 1.1 SemiAnalysis 보강 — grid headroom이 BTM을 강제한다 (2026-06-25)
+
+[SemiAnalysis의 2026-06-25 리서치](../../sources/semianalysis-us-grid-constraints-btm-datacenter-2026.md)는 이 페이지의 BTM 논지를 **계통 headroom 모델**로 보강한다. 핵심은 데이터센터 전력 수요가 빠르게 늘어도 계통이 인정할 수 있는 accredited capacity가 같은 속도로 늘지 않는다는 점이다.
+
+> [!claim] 수요 vs 계통 공급의 속도 차이
+> SemiAnalysis는 미국 데이터센터 gross power demand가 2026년 **+21GW**에서 2030년 **+84GW**로 커지는 반면, 미국 계통이 추가하는 net-new **ELCC** 용량은 연 **약 15GW** 수준에 그친다고 주장한다. 그 결과 2028년 이후 신규 미국 데이터센터의 **절반 이상**이 BTM으로 이동하고, 2029년 DC BTM 장비 TAM이 **연 50GW+**를 넘을 수 있다는 전망을 제시한다.
+
+> [!fact] ELCC/headroom 프레임
+> 데이터센터가 계통에 붙을 수 있는지는 nameplate 발전량이 아니라 `accredited supply - peak demand - required reserves`로 계산되는 **grid headroom**에 달려 있다. 태양광·풍력·BESS는 nameplate 증설이 커도 출력 상관관계와 duration 한계 때문에 incremental ELCC가 낮아질 수 있다.
+
+> [!claim] 2027년부터 headroom이 빨간색으로 바뀐다
+> SemiAnalysis는 주요 미국 subregion의 headroom이 이미 0에 접근했고 2027년부터 reserve margin target 아래로 내려가는 지역이 늘어난다고 본다. PJM 2027/2028 BRA 예시에서는 약 **134,478MW UCAP**이 clearing되었지만 target 20% 대비 reserve margin 14.4%, 약 **6,517MW UCAP** deficit으로 설명된다.
+
+> [!judgment] 내 판단 — BTM은 선택지가 아니라 일정 리스크 헤지
+> 이 보강 자료를 넣으면 BTM의 의미가 더 선명해진다. BTM은 단순히 전기를 싸게 사는 방법이 아니라, **utility interconnection 일정이 2030년으로 밀릴 리스크를 데이터센터 운영자가 직접 통제하는 헤지**다. AI workload의 power value가 매우 크고 일부 workload가 five nines uptime을 요구하지 않는다면, 계통 신뢰도 프리미엄보다 2027~2028년 energization 확실성이 더 큰 가치가 된다.
 
 ## 2. 가스터빈 — 작동 원리부터 병목까지
 
