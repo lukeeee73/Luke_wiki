@@ -1,0 +1,55 @@
+# GitHub Actions 저장소 간 자동화 — 토큰과 트리거
+
+## 핵심 질문: 방향이 다른 두 가지 토큰
+
+가장 헷갈리는 지점은 **"누가 누구에게 무엇을 하는가"**입니다. 같은 "토큰"이라는 이름이어도 방향과 권한이 다르면 완전히 다른 물건입니다.
+
+|  | A가 B를 읽기만 함 | A가 B를 깨움(실행 트리거) |
+|---|---|---|
+| 토큰을 발급하는 대상 저장소 | B (읽히는 쪽) | B (깨워지는 쪽) |
+| 필요한 권한 | Contents: Read-only | Contents: Read and write |
+| 토큰을 **저장(Secret)**하는 위치 | A (읽는 쪽의 Settings → Secrets) | A (깨우는 쪽의 Settings → Secrets) |
+| 이번 사례 이름 | WIKI_REPO_TOKEN | DASHBOARD_DISPATCH_TOKEN |
+
+기억하는 요령: 토큰은 항상 "권한을 넘겨주는 저장소"에서 발급되고, "그 권한을 쓸 저장소"에 시크릿으로 저장됩니다.
+
+## GitHub Actions 트리거 4종
+
+```yaml
+on:
+  schedule:
+    - cron: "0 9 * * 1"      # 정기 폴링 — 느슨하지만 언젠가는 반영됨
+  workflow_dispatch:          # Actions 탭에서 사람이 수동 실행
+  push:
+    branches: ["**"]          # 이 저장소에 푸시되면 (같은 저장소 안에서만 작동)
+  repository_dispatch:        # 다른 저장소가 API로 "지금 실행해" 라고 찌를 때
+    types: [wiki-updated]
+```
+
+push는 저장소 경계를 못 넘습니다. 그 경계를 넘는 것이 repository_dispatch입니다.
+
+## 저장소 간 트리거의 실제 흐름
+
+```
+[luke_wiki 에 git push]
+        ↓
+[luke_wiki: notify-dashboard.yml 실행]
+   curl -X POST .../repos/{dashboard}/dispatches
+   Authorization: Bearer $DASHBOARD_DISPATCH_TOKEN
+        ↓
+[Indicator_dashboard: wiki-sync.yml 이 repository_dispatch 로 깨어남]
+   Checkout luke_wiki (WIKI_REPO_TOKEN 또는 공개면 기본 토큰)
+   build_wiki_graph.py 실행
+        ↓
+[data/wiki/graph.json 갱신 → 커밋 → 대시보드 배포]
+```
+
+두 토큰이 정반대 방향으로 움직인다는 게 핵심입니다. 같은 이름·같은 권한으로 아무 저장소에나 등록하면 "권한은 있는데 저장소가 틀려서" 조용히 실패하고, 이때 GitHub API는 대개 404를 돌려줘서 "권한 없음"이 아니라 "그런 저장소 없음"처럼 보입니다 — 토큰을 발급한 저장소와 시크릿을 등록한 저장소가 서로 반대인지 표로 짚어보면 대부분 여기서 걸립니다.
+
+## 보안 원칙 (최소 권한)
+
+- Repository access는 항상 "Only select repositories" — 대상 저장소 하나만
+- 권한은 실제로 쓰는 최소치만 (읽기면 Read-only)
+- 만료일을 짧게 설정
+- Secrets는 로그에 자동 마스킹되지만, echo $TOKEN 같은 코드는 작성하지 않기
+- 시크릿이 없어도 죽지 않게 — continue-on-error: true로 감싸면 토큰 설정 전/후 어느 쪽이든 안전
