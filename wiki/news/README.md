@@ -1,7 +1,7 @@
 ---
 title: "News — Routine Log Folder"
 created: 2026-05-16
-updated: 2026-06-09
+updated: 2026-07-05
 domain: finance
 type: index
 weight: reference
@@ -13,6 +13,12 @@ sources: []
 # News — 루틴 자동 수집 폴더
 
 이 폴더는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 자동으로 누적하는 watchlist 종목 뉴스 로그를 담는다.
+
+> [!info] 대시보드 시장 지도 연결
+> 이 로그는 대시보드 **시장 지도**(주식 탭)에도 노출된다 — 시장/기업 상세 패널의
+> "옵시디언 위키 노트" 섹션이 지도 플레이어의 티커를 `tickers/{TICKER} - *.md` 와
+> 자동 매칭해서, 지도에서 바로 종목 뉴스 로그 전문을 읽을 수 있다.
+> 파일명 규칙(`{TICKER} - {COMPANY}.md`)이 이 매칭의 계약이므로 형식을 바꾸지 않는다.
 
 ## 사람이 작성한 위키와 분리되는 이유
 
