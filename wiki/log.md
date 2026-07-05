@@ -1,7 +1,7 @@
 ---
 title: "Wiki Log"
 created: 2026-04-05
-updated: 2026-07-04
+updated: 2026-07-05
 tags: [log, meta]
 sources: []
 ---
@@ -557,3 +557,22 @@ sources: []
   3. Google Lyria 3 출시 (텍스트/이미지 → 음악, 잠재 확산 기반)
   4. World Labs Marble + Chisel 공개 (영구적 편집 가능 3D 세계 생성)
   5. Andrew Ng의 음성 UI 부상 전망
+
+---
+
+## 2026-07-05
+
+### [INGEST] GitHub Actions 저장소 간 자동화 — 토큰과 트리거
+
+- **작업**: luke_wiki ↔ Indicator_dashboard 간 GitHub Actions 자동화 설명 자료 수집 및 위키 통합
+- **생성된 파일**:
+  - `sources/github-actions-cross-repo-tokens.md` - 원본 자료
+  - `wiki/concepts/github-actions-cross-repo-tokens.md` - 프레임워크 정리 (토큰 방향 구분, 트리거 4종, 저장소 간 흐름, 최소 권한 원칙)
+- **업데이트된 파일**:
+  - `wiki/domains/ai.md` - 프레임워크 섹션에 신규 페이지 링크 추가
+  - `wiki/index.md` - Concepts > AI 섹션에 신규 페이지 링크 추가
+- **주요 내용**:
+  1. `WIKI_REPO_TOKEN`(읽기용, luke_wiki에서 발급 → Indicator_dashboard에 저장)과 `DASHBOARD_DISPATCH_TOKEN`(깨우기용, Indicator_dashboard에서 발급 → luke_wiki에 저장)의 방향이 반대
+  2. `push`는 저장소 경계를 못 넘고, `repository_dispatch`가 그 경계를 넘는 트리거
+  3. 토큰/시크릿 위치가 뒤바뀌면 GitHub API가 403이 아닌 404를 반환해 "저장소 없음"처럼 보이는 실패 패턴
+  4. 최소 권한 원칙: Only select repositories, Read-only, 짧은 만료일, `continue-on-error: true`로 시크릿 부재 시 안전망
