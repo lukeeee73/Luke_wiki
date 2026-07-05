@@ -1,0 +1,32 @@
+name: Notify dashboard
+
+# 위키에 푸시가 일어나면 Indicator_dashboard 의 'Sync Wiki Graph' 워크플로를
+# repository_dispatch 로 깨워, 대시보드 위키 탭을 푸시 직후(~1분) 갱신한다.
+#
+# 필요한 설정 (없으면 이 워크플로는 아무것도 하지 않고 성공 종료):
+#   이 저장소 Settings → Secrets and variables → Actions 에
+#   DASHBOARD_DISPATCH_TOKEN 시크릿 추가
+#   — lukeeee73/Indicator_dashboard 에 Contents: Read and write 권한이 있는
+#     fine-grained Personal Access Token.
+on:
+  push:
+    branches: ["**"]
+
+jobs:
+  notify:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Send repository_dispatch to Indicator_dashboard
+        env:
+          TOKEN: ${{ secrets.DASHBOARD_DISPATCH_TOKEN }}
+        run: |
+          if [ -z "$TOKEN" ]; then
+            echo "DASHBOARD_DISPATCH_TOKEN 시크릿이 없어 알림을 건너뜁니다."
+            echo "(추가하면 옵시디언 git 동기화 직후 대시보드가 자동 갱신됩니다 — 그동안은 매시간 폴링으로 반영)"
+            exit 0
+          fi
+          curl -sS -f -X POST \
+            -H "Authorization: Bearer $TOKEN" \
+            -H "Accept: application/vnd.github+json" \
+            https://api.github.com/repos/lukeeee73/Indicator_dashboard/dispatches \
+            -d '{"event_type":"wiki-updated"}'
