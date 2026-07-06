@@ -576,3 +576,10 @@ sources: []
   2. `push`는 저장소 경계를 못 넘고, `repository_dispatch`가 그 경계를 넘는 트리거
   3. 토큰/시크릿 위치가 뒤바뀌면 GitHub API가 403이 아닌 404를 반환해 "저장소 없음"처럼 보이는 실패 패턴
   4. 최소 권한 원칙: Only select repositories, Read-only, 짧은 만료일, `continue-on-error: true`로 시크릿 부재 시 안전망
+
+### [META] 대시보드 시장 지도 ↔ 위키 연결
+
+- **작업**: Indicator_dashboard 의 AI·반도체 시장 지도에 "옵시디언 위키 노트" 섹션이 추가됨 (대시보드 쪽 구현). 시장 JSON 이 vault 상대 경로로 concepts/entities/syntheses/topics 노트를 큐레이션하고, 플레이어 티커는 `wiki/news/tickers/{TICKER} - *.md` 뉴스 로그와 자동 매칭된다.
+- **업데이트된 파일**:
+  - `wiki/news/README.md` - 시장 지도 연결 안내 callout 추가. 파일명 규칙(`{TICKER} - {COMPANY}.md`)이 대시보드 자동 매칭의 계약임을 명시.
+- **영향**: 이 vault 의 노트 경로·뉴스 로그 파일명이 대시보드 시장 지도에서 참조되므로, 해당 파일들을 옮기거나 이름을 바꿀 때는 `Indicator_dashboard/data/markets/ai-semiconductor.json` 의 `wiki` 경로도 함께 갱신해야 한다.
