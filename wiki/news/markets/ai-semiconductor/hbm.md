@@ -1,0 +1,68 @@
+---
+title: "HBM (고대역폭 메모리) — 시장 종합"
+created: 2026-07-06
+updated: 2026-07-06
+domain: finance
+type: claim
+weight: reference
+confidence: low
+tags: [routine-news, market-summary, ai-semiconductor, hbm]
+map: ai-semiconductor
+market_id: hbm
+sources: ["https://counterpointresearch.com/en/insights/global-dram-and-hbm-market-share", "https://www.nextplatform.com/2025/12/19/hbm-supply-curve-gets-steeper-but-still-cant-meet-demand/"]
+---
+
+# HBM (고대역폭 메모리) — 시장 종합
+
+**High Bandwidth Memory** · ④ 핵심 부품 (병목) · 규모 $34–35B(’25) → $54–56B(’26) → $100B(’28) · 성장 ~40% CAGR
+
+> [!info] 자동 종합 노트
+> 이 파일은 시장지도 노드 `hbm` 의 종합 페이지다. `indicator_dashboard` 루틴이 관리한다 —
+> **daily-market-analysis** 루틴이 담당 요일에 [소속 기업 동향]을, **market-research** 루틴이 주 1회
+> [시장 정의]·[병목 상태]·[시장 상황 종합]·[시장 뉴스 로그]를 갱신한다. HTML 마커는 루틴의 앵커이므로 지우지 않는다.
+> 사람은 굳어진 사실을 `wiki/topics/` 로 승격(promote)만 한다.
+
+## 시장 정의
+
+GPU/가속기에 적층·동봉되어 연산에 데이터를 공급하는 초광대역 적층 DRAM.
+
+**수요 동인** — Blackwell/Rubin·MI 시리즈·ASIC마다 HBM 탑재량 증가(Rubin은 HBM4 16단). ’25 DRAM 매출의 >30%.
+
+## 병목 상태 — 🔴 급성 병목 (`acute`)
+
+> [!claim] (출처: 시장지도 as_of 2026-06)
+> 전 3사 2026까지 매진(LTA 할당). 8→12→16단 적층 시 워피지 비선형 증가(3~4배)로 전환 구간 수율 15–20% 손실. 삼성 1c HBM4 샘플수율 ~50%(양산 ≥70% 필요). 12다이 스택 20–30°C 열구배. = 현재 1순위 병목.
+
+## 시장 상황 종합
+
+<!-- SYNTHESIS_START -->
+> [!claim] (as_of 2026-06 · market-research 루틴)
+> 전 3사 ’26까지 매진, 삼성 HBM4 Rubin 인증으로 3강 경쟁 재점화. 적층 수율이 증설을 제약.
+<!-- SYNTHESIS_END -->
+
+## 소속 기업 동향
+
+<!-- PLAYERS_START -->
+| 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
+|---|---|---|---|---|
+| SK Hynix | ~62% (HBM4 NVIDIA 최초 인증) · 점유 62% | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | [000660.KS](../../tickers/000660.KS - SK Hynix.md) |
+| Micron | ~21% (’26 완판) · 점유 21% | +0.26 (2026-06-30) | Q3 기록 $41.46B·Q4 $50B·$100B 다년계약, SK하이닉스 HBM 경쟁 | [MU](../../tickers/MU - Micron Technology.md) |
+| Samsung | ~17% (HBM4 Rubin 인증, 컴백중) · 점유 17% | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
+<!-- PLAYERS_END -->
+
+## 시장 뉴스 로그 (최신순)
+
+<!-- MARKET_NEWS_START -->
+- **2026-01** ＋ **삼성 HBM4, NVIDIA Rubin 퀄 통과 — 1c DRAM 2월 양산** — 삼성이 HBM4 Rubin 인증을 통과하며 SK하이닉스·마이크론과 3강 경쟁 재점화. (SemiEngineering) [↗](https://semiengineering.com/hbm4-sticks-with-microbumps-postponing-hybrid-bonding/)
+- **2025-12** － **HBM 공급곡선 가팔라져도 수요 못 따라가 — 2026까지 매진** — 전 3사 2026까지 HBM 매진, 12/16단 적층 수율이 증설 속도를 제약. (The Next Platform) [↗](https://www.nextplatform.com/2025/12/19/hbm-supply-curve-gets-steeper-but-still-cant-meet-demand/)
+<!-- MARKET_NEWS_END -->
+
+## 사실 누적 (Verified Facts)
+
+<!-- FACTS_START -->
+<!-- FACTS_END -->
+
+## 관련 위키
+
+- [HBM — 구조·공정·병목](../../../concepts/hbm.md)
+- [반도체·AI 칩 가치사슬 종합 — 내 판단](../../../syntheses/semiconductor-ai-chip-value-chain.md)

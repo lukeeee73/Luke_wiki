@@ -1,7 +1,7 @@
 ---
 title: "Wiki Log"
 created: 2026-04-05
-updated: 2026-07-05
+updated: 2026-07-06
 tags: [log, meta]
 sources: []
 ---
@@ -10,6 +10,24 @@ sources: []
 # Wiki Log
 
 위키의 모든 작업 이력을 시간순으로 기록합니다.
+
+---
+
+## 2026-07-06
+
+### [STRUCTURE] 반도체 시장지도 ↔ watchlist 정합 + 시장 노드 종합 레이어 신설
+
+- **작업**: `indicator_dashboard` 의 watchlist 재편(155종목·18섹터, 반도체 4개 그룹 분리 + AI 인프라 신설)에 맞춰 루틴-수집 영역을 갱신하고, 시장지도 노드별 종합 페이지 레이어를 신설.
+- **생성된 파일**:
+  - `wiki/news/markets/README.md` — 시장 노드 종합 레이어 규칙 (경로 계약: `markets/{map_id}/{market_id}.md`).
+  - `wiki/news/markets/ai-semiconductor/*.md` — AI·반도체 시장지도 30개 노드 종합 페이지 (시장 정의·병목·시장 상황 종합·소속 기업 동향·시장 뉴스 로그·사실 누적). 지도 JSON·시장 뉴스 스토어·티커 로그를 종합해 시딩.
+  - `wiki/news/tickers/` 신규 24종목 스켈레톤 (삼성전자·SK하이닉스·Marvell·MediaTek·Mobileye·Synopsys·Cadence·Arm·Amkor·Ibiden·Tokyo Electron·KLA·한미반도체·Advantest·DISCO·BESI·Shin-Etsu·Arista·Coherent·Monolithic Power·CoreWeave·Nebius·FANUC·Harmonic Drive).
+- **업데이트된 파일**:
+  - `wiki/news/README.md` — 폴더 구조에 `markets/` 추가, 섹터 그룹 18개로 갱신, 스켈레톤 허용 규칙.
+  - `wiki/news/_dashboard.md` — 요일별 일정 갱신, 반도체 섹션을 4개 그룹으로 분리, AI 인프라 섹션 신설, 신규 종목 `—` 행 추가.
+  - `CLAUDE.md` — 루틴-수집 영역에 `markets/` 하위 레이어 문서화.
+  - `scripts/validate_vault.py` — `markets/{map_id}/{market_id}.md` 경로·태그 검증 추가, 회사 소개 있는 스켈레톤 허용.
+- **정리**: `tickers/` 의 EQIX·PLD 중복 파일 각 2개 → 1개로 병합 (기록 손실 없음).
 
 ---
 

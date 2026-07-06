@@ -1,0 +1,71 @@
+---
+title: "맞춤형 AI ASIC·XPU — 시장 종합"
+created: 2026-07-06
+updated: 2026-07-06
+domain: finance
+type: claim
+weight: reference
+confidence: low
+tags: [routine-news, market-summary, ai-semiconductor, custom-asic]
+map: ai-semiconductor
+market_id: custom-asic
+sources: ["https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-asics-examined-from-broadcom-to-mtia"]
+---
+
+# 맞춤형 AI ASIC·XPU — 시장 종합
+
+**Custom AI ASIC / XPU** · ③ AI 컴퓨팅 · 규모 ~$25–30B (’25) · 성장 +44% CAGR (가장 빠름)
+
+> [!info] 자동 종합 노트
+> 이 파일은 시장지도 노드 `custom-asic` 의 종합 페이지다. `indicator_dashboard` 루틴이 관리한다 —
+> **daily-market-analysis** 루틴이 담당 요일에 [소속 기업 동향]을, **market-research** 루틴이 주 1회
+> [시장 정의]·[병목 상태]·[시장 상황 종합]·[시장 뉴스 로그]를 갱신한다. HTML 마커는 루틴의 앵커이므로 지우지 않는다.
+> 사람은 굳어진 사실을 `wiki/topics/` 로 승격(promote)만 한다.
+
+## 시장 정의
+
+하이퍼스케일러가 자사 워크로드(특히 추론) 토큰당 비용을 낮추려 설계하는 수직통합 가속기.
+
+**수요 동인** — NVIDIA 마진 회피 + 공급 다변화. 추론(연산의 2/3)이 고정기능 ASIC에 적합. OpenAI·Anthropic 대형 약정이 수요 고정.
+
+## 병목 상태 — 🟠 병목 완화중 (`easing`)
+
+> [!claim] (출처: 시장지도 as_of 2026-06)
+> GPU와 동일한 CoWoS·HBM 상류 제약 공유. CUDA 생태계 락인으로 외부 판매성 제한 — 대부분 자가 소비용. 설계 사이클 길어 하이퍼스케일러 물량에서만 성립.
+
+## 시장 상황 종합
+
+<!-- SYNTHESIS_START -->
+> [!claim] (as_of 2026-06 · market-research 루틴)
+> OpenAI·Anthropic 대형 약정으로 Broadcom AI 매출 +106% YoY. 추론 이동이 ASIC에 유리.
+<!-- SYNTHESIS_END -->
+
+## 소속 기업 동향
+
+<!-- PLAYERS_START -->
+| 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
+|---|---|---|---|---|
+| Broadcom | 코디자인 ~60% (Google·Meta·OpenAI) · 점유 60% | +0.22 (2026-06-30) | OpenAI Jalapeño 칩·Q2 AI $10.8B이나 목표 미상향에 월 ~-20% | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
+| Marvell | ~25% (Amazon·Microsoft) · 점유 25% | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | [MRVL](../../tickers/MRVL - Marvell Technology, Inc.md) |
+| Google TPU | 최대 내부 XPU (v7 Ironwood) | +0.07 (2026-06-29) | 다우 편입·러셀 100% 성장주 재분류로 +3.7%, 핵심 AI 연구자 이탈, EU DMA 제미나이 개방 명령 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
+| Amazon Trainium | Trainium3 (3nm) | +0.31 (2026-06-29) | AWS GPU 가격 +20%(연 3회), 프라임데이 美온라인 +9.3%($26.4B), 시총 3조달러 기대 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
+| Microsoft Maia | 내부용 자체 실리콘 | +0.14 (2026-06-29) | 셰브론 20년 AI 전력계약(2.67GW), 버리 강세 베팅에 +5.7%, FTC Azure·Copilot 반독점 조사 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
+| Meta MTIA | 추론·랭킹용 자체 칩 | +0.14 (2026-06-29) | 칸 라이언즈 AI 광고툴·Brand Memory, CRED 9억달러 투자, 구글 Gemini 접근 제한 | [META](../../tickers/META - Meta Platforms Inc.md) |
+<!-- PLAYERS_END -->
+
+## 시장 뉴스 로그 (최신순)
+
+<!-- MARKET_NEWS_START -->
+_아직 수집된 시장 단위 뉴스가 없다 — market-research 루틴이 채운다._
+<!-- MARKET_NEWS_END -->
+
+## 사실 누적 (Verified Facts)
+
+<!-- FACTS_START -->
+<!-- FACTS_END -->
+
+## 관련 위키
+
+- [Broadcom](../../../entities/broadcom.md)
+- [Marvell](../../../entities/marvell.md)
+- [SerDes — ASIC 경쟁력의 핵심 IP](../../../concepts/serdes.md)

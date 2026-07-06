@@ -1,7 +1,7 @@
 ---
 title: "News — Routine Log Folder"
 created: 2026-05-16
-updated: 2026-07-05
+updated: 2026-07-06
 domain: finance
 type: index
 weight: reference
@@ -32,12 +32,17 @@ sources: []
 wiki/news/
 ├── README.md           # 이 파일
 ├── _dashboard.md       # 모든 종목의 가장 최근 narrative_score / 핵심 이슈 한눈에 보기 (섹터별)
-└── tickers/            # 자동 생성된 종목별 원본 로그 격리 폴더
-    └── {TICKER} - {COMPANY}.md
-                         # 종목별 누적 로그 (역순). 한국 종목은 {NUMBER}.KS - {COMPANY}.md
+├── tickers/            # 자동 생성된 종목별 원본 로그 격리 폴더
+│   └── {TICKER} - {COMPANY}.md
+│                        # 종목별 누적 로그 (역순). 한국 종목은 {NUMBER}.KS - {COMPANY}.md
+└── markets/            # 시장지도 노드별 종합 페이지 — 기업 동향 + 시장 구조·병목·뉴스
+    └── {map_id}/{market_id}.md
+                         # 예: ai-semiconductor/hbm.md — 규칙은 markets/README.md
 ```
 
-루틴은 종목 파일을 반드시 `wiki/news/tickers/` 아래에만 만든다. 최상위 `news/`, 루트의 임시 `.md` 파일, 사람-작성 `wiki/topics/` 로 직접 쓰지 않는다.
+루틴은 종목 파일을 반드시 `wiki/news/tickers/` 아래에만, 시장 종합 파일을 반드시
+`wiki/news/markets/{map_id}/` 아래에만 만든다. 최상위 `news/`, 루트의 임시 `.md` 파일,
+사람-작성 `wiki/topics/` 로 직접 쓰지 않는다.
 
 `_dashboard.md` 와 종목별 로그 파일의 watchlist 는 `indicator_dashboard` 의
 `scripts/fetch_fred.py` 의 `STOCKS` 딕셔너리를 단일 진실 공급원으로 사용한다.
@@ -49,19 +54,27 @@ wiki/news/
 `_dashboard.md` 에서 종목 행을 다음 섹터 헤더 아래에 묶는다 (순서 고정):
 
 1. 빅테크 / 소프트웨어 (10 종목)
-2. 반도체 (10 종목)
-3. 자동차 / 모빌리티 (10 종목)
-4. 바이오 / 제약 / 헬스케어 (10 종목)
-5. 에너지 / 원자재 (10 종목)
-6. 금융 (10 종목)
-7. 소비재 (10 종목)
-8. 산업재 / 방산 (10 종목)
-9. 부동산 (REITs) (10 종목)
-10. 통신 / 미디어 (10 종목)
-11. 유틸리티 / 전력 (10 종목)
-12. 조선 (한국) (4 종목)
+2. 반도체 — AI 칩 · 설계 (11 종목)
+3. 반도체 — 메모리 (HBM·DRAM) (3 종목)
+4. 반도체 — 파운드리 · 패키징 · 기판 (3 종목)
+5. 반도체 — 장비 · 소재 (10 종목)
+6. AI 인프라 — 네트워킹 · 광 · 네오클라우드 (5 종목)
+7. 로보틱스 / 피지컬 AI (5 종목)
+8. 자동차 / 모빌리티 (10 종목)
+9. 바이오 / 제약 / 헬스케어 (10 종목)
+10. 에너지 / 원자재 (10 종목)
+11. 금융 (10 종목)
+12. 소비재 (10 종목)
+13. 산업재 / 방산 (14 종목)
+14. 부동산 (REITs) (10 종목)
+15. 통신 / 미디어 (10 종목)
+16. 유틸리티 / 전력 (10 종목)
+17. 전력 인프라 (AI) (10 종목)
+18. 조선 (한국) (4 종목)
 
 이 순서는 `indicator_dashboard` 의 `app.js` `STOCK_GROUPS` 및 `scripts/watchlist_data.py` `GROUPS` 와 일치한다.
+반도체 4개 그룹 + AI 인프라 그룹의 종목 구성은 **AI·반도체 시장지도 노드의 플레이어와 1:1 동기화**가
+원칙이다 (2026-07-06 정합 작업 — 시장지도에서 봐야 하는 기업은 전부 watchlist 에 있다).
 
 
 ## 각 종목 파일의 구조
@@ -111,9 +124,12 @@ tags: [routine-news, watchlist, {TICKER}]
 
 - `wiki/news/` 최상위에는 `_dashboard.md` 와 `README.md` 만 둔다.
 - 종목별 자동 로그는 반드시 `wiki/news/tickers/{TICKER} - {Company}.md` 로 생성한다.
-- 실제 일자별 기록이 없는 종목은 파일을 만들지 않는다. 대시보드에도 링크 대신 대기 항목으로만 남긴다.
+- watchlist 에 **신규 편입된 종목은 회사 소개를 포함한 스켈레톤 파일을 미리 만들어 둔다**
+  (대시보드 시장 지도의 플레이어 클릭이 티커 파일명 매칭으로 이 파일에 연결되기 때문).
+  `_dashboard.md` 에는 score `—` (수집 전) 행으로 표시하고, 해당 섹터의 첫 루틴 실행 때 채운다.
 - 같은 티커의 회사명이 달라져도 새 파일을 만들지 말고 기존 티커 파일을 갱신한다. 예: `DE - Deere & Company.md` 하나만 유지한다.
-- 루틴 마커(`<!-- OPEN_CLAIMS_START -->`, `<!-- FACTS_START -->`, `<!-- DAILY_START -->`)만 있고 본문 기록이 없는 스캐폴드는 삭제한다.
+  **같은 티커의 파일이 2개 생기면 즉시 병합한다** (2026-07-06 EQIX·PLD 중복 병합 사례).
+- 회사 소개조차 없는 빈 스캐폴드(마커만 있는 파일)는 삭제한다.
 
 ## 옵시디언에서 보는 법
 

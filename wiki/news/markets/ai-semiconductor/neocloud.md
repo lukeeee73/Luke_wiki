@@ -1,0 +1,68 @@
+---
+title: "네오클라우드 · GPU 클라우드 — 시장 종합"
+created: 2026-07-06
+updated: 2026-07-06
+domain: finance
+type: claim
+weight: reference
+confidence: low
+tags: [routine-news, market-summary, ai-semiconductor, neocloud]
+map: ai-semiconductor
+market_id: neocloud
+sources: ["https://www.srgresearch.com/articles/neoclouds-currently-growing-by-over-200-per-year-will-reach-180-billion-in-revenues-by-2030", "https://www.cnbc.com/2026/05/07/coreweave-crwv-q1-earnings-report-2026.html", "https://www.datacenterknowledge.com/cloud/earnings-roundup-neoclouds-shift-from-gpu-race-to-power-wars"]
+---
+
+# 네오클라우드 · GPU 클라우드 — 시장 종합
+
+**Neocloud / GPU Cloud** · ② 자본 엔진 · 규모 ’26 매출 ~$20–35B → ’30 ~$180B · 잔고는 수십 배(CRWV $99.4B) · 성장 +200% YoY(’25) · ~69% CAGR(→’30)
+
+> [!info] 자동 종합 노트
+> 이 파일은 시장지도 노드 `neocloud` 의 종합 페이지다. `indicator_dashboard` 루틴이 관리한다 —
+> **daily-market-analysis** 루틴이 담당 요일에 [소속 기업 동향]을, **market-research** 루틴이 주 1회
+> [시장 정의]·[병목 상태]·[시장 상황 종합]·[시장 뉴스 로그]를 갱신한다. HTML 마커는 루틴의 앵커이므로 지우지 않는다.
+> 사람은 굳어진 사실을 `wiki/topics/` 로 승격(promote)만 한다.
+
+## 시장 정의
+
+하이퍼스케일러 외부에서 AI 학습·추론용 GPU 컴퓨트를 전문 임대하는 신흥 클라우드 계층.
+
+**수요 동인** — 프런티어 모델사의 만성적 컴퓨트 부족 + 하이퍼스케일러의 외부 용량 오프테이크(MS→IREN $9.7B, Meta→Nebius $27B)가 초대형 선계약으로 성장 견인.
+
+## 병목 상태 — 🟡 부상하는 병목 (`emerging`)
+
+> [!claim] (출처: 시장지도 as_of 2026-06)
+> 경쟁축이 GPU 확보전에서 '전력 전쟁'(GW급 부지·인도 속도)으로 이동. GPU 담보 6–9% 고금리 부채로 증설을 조달하고 NVIDIA 투자가 칩 구매로 환류하는 순환금융 구조 — GPU 잔존가치 3년 내 40–60% 하락 vs 장기부채 만기 불일치가 신용경색 시 시스템 리스크.
+
+## 시장 상황 종합
+
+<!-- SYNTHESIS_START -->
+> [!claim] (as_of 2026-06 · market-research 루틴)
+> 실적 시즌 화두는 'GPU 확보전 → 전력 전쟁' 이동. 증설 자금이 VC에서 채권시장(전환사채·GPU 담보부채)으로 — 순환금융 리스크 주시.
+<!-- SYNTHESIS_END -->
+
+## 소속 기업 동향
+
+<!-- PLAYERS_START -->
+| 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
+|---|---|---|---|---|
+| CoreWeave | 최대 독립 네오클라우드 — Q1’26 매출 $2.08B(+112%), 잔고 $99.4B | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | [CRWV](../../tickers/CRWV - CoreWeave, Inc.md) |
+| Nebius | 2위권 급성장 — 잔고 ~$50B(Meta·MS), 계약전력 3GW+ | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | [NBIS](../../tickers/NBIS - Nebius Group N.V.md) |
+| Oracle OCI | 준네오클라우드 — OpenAI Stargate $300B, capex/매출 76% | +0.13 (2026-06-29) | RPO $638B·OCI +93%에도 부채 1300억·FCF 우려로 2001년래 최악 주간(-19%), AI 감원 2.1만명 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
+| NVIDIA | 공급자 겸 앵커 투자자 — $110B+ 순환금융의 중심 | +0.38 (2026-06-30) | Palantir 정부 AI·RTX Spark·Vera Rubin 풀생산, 단 5월 고점 대비 -23% | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
+| Crusoe · Lambda · Together | 비상장 — 에너지 연계·MS 계약·추론 특화 | — | — | 비상장 |
+| IREN · Cipher · Core Scientific | 채굴사→AI 전환 — 전력자산 재평가 (MS $9.7B 등) | watchlist 외 | — | `IREN` |
+<!-- PLAYERS_END -->
+
+## 시장 뉴스 로그 (최신순)
+
+<!-- MARKET_NEWS_START -->
+- **2026-05-15** · **네오클라우드 실적 총괄: 'GPU 확보전'에서 '전력 전쟁'으로** — 경쟁축이 칩에서 전력·부지·자금조달로 이동 (Data Center Knowledge) [↗](https://www.datacenterknowledge.com/cloud/earnings-roundup-neoclouds-shift-from-gpu-race-to-power-wars)
+- **2026-03-20** · **네비우스 $4.3B 전환사채 발행 — 네오클라우드 공모 부채조달 본격화** — 증설 자금이 VC에서 채권시장으로 — GPU 담보 레버리지 확대 (Nebius) [↗](https://nebius.com/newsroom/nebius-group-announces-closing-of-private-offering-of-convertible-senior-notes-with-aggregate-gross-proceeds-of-approximately-4-3-billion)
+- **2025-11-03** ＋ **마이크로소프트, IREN과 $9.7B GPU 클라우드 계약 — 채굴사 AI 전환 가속** — GB300 5년 계약 — 비트코인 채굴사 전력자산 재평가 촉발 (GlobeNewswire (IREN)) [↗](https://www.globenewswire.com/news-release/2025/11/03/3178993/0/en/IREN-Secures-9-7bn-AI-Cloud-Contract-with-Microsoft.html)
+- **2025-10-13** ＋ **네오클라우드 매출 연 200%+ 성장 — 2030년 $180B 전망** — 분기 매출 $5B 돌파 — 독립 클라우드 계층으로 격상 (Synergy Research) [↗](https://www.srgresearch.com/articles/neoclouds-currently-growing-by-over-200-per-year-will-reach-180-billion-in-revenues-by-2030)
+<!-- MARKET_NEWS_END -->
+
+## 사실 누적 (Verified Facts)
+
+<!-- FACTS_START -->
+<!-- FACTS_END -->
