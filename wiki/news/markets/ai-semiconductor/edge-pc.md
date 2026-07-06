@@ -46,7 +46,7 @@ sources: ["https://counterpointresearch.com/en/reports/ai-advanced-pcs-to-surpas
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
 | Intel | ~45–56% (Core Ultra) · 점유 50% | +0.43 (2026-06-30) | Cantor $150(+67%)·18A-P 리스크생산·TSMC 인상 반사이익, +7.2% | [INTC](../../tickers/INTC - Intel Corporation.md) |
-| Apple | ~20–24% 자체 M시리즈 · 점유 22% | -0.23 (2026-06-29) | 메모리 부족發 맥·아이패드 가격 인상에 1년래 최악 급락, 中 sell-in -19%, Counterpoint 점유율 사상최고 전망 | [AAPL](../../tickers/AAPL - Apple Inc.md) |
+| Apple | ~20–24% 자체 M시리즈 · 점유 22% | +0.20 (2026-07-06) | 아이폰 5종·접이식 '울트라' 1000만대 생산 확대 계획, 中 메모리 조달 다변화 소식에 $300 재돌파 | [AAPL](../../tickers/AAPL - Apple Inc.md) |
 | AMD | #3 (Ryzen AI) · 점유 18% | +0.52 (2026-06-30) | 데이터센터 +57%·Gartner 최강자·Rackspace 30MW, 중국 규제 리스크 | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
 | Qualcomm | Snapdragon X (Arm, 최고속 성장) · 점유 5% | +0.41 (2026-06-30) | Investor Day 목표 상향·Dragonfly CPU·Modular $3.92B 인수 | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
 <!-- PLAYERS_END -->

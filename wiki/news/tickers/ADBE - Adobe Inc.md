@@ -1,7 +1,7 @@
 ---
 title: "ADBE - Adobe Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-29
+updated: 2026-07-06
 domain: finance
 type: claim
 weight: reference
@@ -32,8 +32,10 @@ sources: []
 - [x] **2026-06-15**: A.J. 버튼 매수 상향 + 가이던스가 주가 반등 지속의 근거가 될 것 (**partially refuted** 2026-06-22: Citi 목표가 $228 하향 등 다운그레이드 지속으로 반등 지속 근거 약화 — 단 Firefly 제품 확장은 긍정)
 - [ ] **2026-06-22**: Firefly 크리에이티브 에이전트 확장이 AI ARR 성장 가속·구독 이탈 방지로 이어질지 (7일 검증 대기) (pending 2026-06-29: 6/18 크리에이티브 에이전트 추가 확대·6/16 디즈니 Firefly Foundry 협업으로 제품 모멘텀 지속 — ARR 영향 데이터는 미확정)
 - [ ] **2026-06-22**: CEO·CFO 동시 리더십 공백이 실행 리스크로 주가에 추가 부담을 줄지 (7일 검증 대기) (pending 2026-06-29: 강한 Q2 실적에도 디레이팅 지속·약세 옵션 활동 증가로 부담 신호 — 인과 단정 어려움)
-- [ ] **2026-06-29**: Topaz Labs 인수가 연말 마감 후 Firefly의 AI 업스케일·복원 경쟁력을 강화할지 (7일 검증 대기)
-- [ ] **2026-06-29**: 생성형 AI(MSFT Copilot·Canva) 잠식 우려에 따른 구조적 디레이팅이 펀더멘털 견조에도 지속될지 (7일 검증 대기)
+- [ ] **2026-06-29**: Topaz Labs 인수가 연말 마감 후 Firefly의 AI 업스케일·복원 경쟁력을 강화할지 (7일 검증 대기) (pending 2026-07-06: 인수 계약 체결 단계, 거래 종결·제품 통합 데이터는 아직 없음 — 검증 대기 지속)
+- [ ] **2026-06-29**: 생성형 AI(MSFT Copilot·Canva) 잠식 우려에 따른 구조적 디레이팅이 펀더멘털 견조에도 지속될지 (7일 검증 대기) (partially refuted 2026-07-06: HSBC 매수 상향 + 주가 4% 상승(7/2)으로 디레이팅 압력 일부 완화 신호 — 다만 ColdFusion CVSS 10.0 취약점 실제 악용 확인으로 신규 리스크 부상)
+- [ ] **2026-07-06**: ColdFusion CVSS 10.0 취약점의 실제 악용 확산이 기업 고객 이탈·평판 손상으로 이어질지 (7일 검증 대기)
+- [ ] **2026-07-06**: HSBC 매수 상향(목표가 308달러)을 계기로 다른 하우스들도 AI 잠식 우려를 완화하며 커버리지를 상향할지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -59,6 +61,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-07-06
+
+**narrative_score**: 0.06
+**key_events**: 2분기 매출 66.2억달러 사상 최대(AI ARR 3배 성장) · CFO 댄 더른 전격 사임 발표(6/15부로 퇴임) · Topaz Labs 인수 계약 체결로 AI 화질보정 역량 확보 · ColdFusion CVSS 10.0 취약점 실제 악용 확인 · HSBC 투자의견 매수 상향, 목표가 308달러
+**risks**: CEO·CFO 리더십 공백 장기화 우려 · ColdFusion 등 보안취약점으로 인한 평판·컴플라이언스 리스크 · 생성형 AI발 저작도구 경쟁 심화(오픈AI, MS 등)로 인한 Creative Cloud 성장 둔화 가능성
+
+> [!claim] (출처: GuruFocus, 2026-07-02) Adobe (ADBE) Stock Rises 4% Following HSBC Upgrade
+> HSBC, 투자의견 매수로 상향하고 목표가 308달러로 인상, 주가 4% 상승. impact: + / category: other
+
+> [!claim] (출처: Tech Times, 2026-06-12) Adobe Q2 2026 Earnings: Record $6.62B Revenue, AI ARR Triples, CFO Exits in Days
+> 2분기 매출 66.2억달러 사상 최대, AI 매출 3배 성장했으나 CFO 전격 사임 발표. impact: neutral / category: earnings
+
+> [!claim] (출처: TechCrunch, 2026-06-25) Adobe acquires image and video enhancement tool maker Topaz Labs
+> AI 화질개선 기업 Topaz Labs 인수 계약, Firefly 생성형 AI와 화질보정 결합 목표. impact: + / category: m&a
+
+> [!claim] (출처: The Hacker News, 2026-07-01) Adobe Patches 7 CVSS 10.0 Flaws in ColdFusion and Campaign Classic
+> ColdFusion 등에서 CVSS 10.0 심각도 취약점 다수 발견, 공개 직후 실제 악용 정황 포착. impact: - / category: other
+
+**경쟁사 동향**:
+- MSFT: Microsoft 365 Copilot의 이미지·문서 생성 기능 확대 및 정식 유료화(7/1) — MS의 생산성 제품 내 생성형 AI 기본 탑재가 Adobe Creative Cloud의 AI 차별화 요소를 잠식할 위험
+- CRM: Salesforce의 Contentful 인수로 콘텐츠 오케스트레이션 강화 — Salesforce가 콘텐츠관리 영역까지 확장하며 Adobe Experience Cloud/AEM과의 경쟁 구도 확대
+
+---
 
 ### 2026-06-29
 

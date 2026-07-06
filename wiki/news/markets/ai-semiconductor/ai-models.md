@@ -47,9 +47,9 @@ sources: ["https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-th
 |---|---|---|---|---|
 | OpenAI | 프런티어 랩 (비상장, ~$852B 평가) | — | — | 비상장 |
 | Anthropic | 프런티어 랩 (비상장) | — | — | 비상장 |
-| Google DeepMind | Gemini | +0.07 (2026-06-29) | 다우 편입·러셀 100% 성장주 재분류로 +3.7%, 핵심 AI 연구자 이탈, EU DMA 제미나이 개방 명령 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
-| Microsoft | OpenAI 제휴 + 자체 | +0.14 (2026-06-29) | 셰브론 20년 AI 전력계약(2.67GW), 버리 강세 베팅에 +5.7%, FTC Azure·Copilot 반독점 조사 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
-| Meta | Llama (오픈웨이트) | +0.14 (2026-06-29) | 칸 라이언즈 AI 광고툴·Brand Memory, CRED 9억달러 투자, 구글 Gemini 접근 제한 | [META](../../tickers/META - Meta Platforms Inc.md) |
+| Google DeepMind | Gemini | -0.12 (2026-07-06) | EU 41억유로 과징금 최종 확정·DOJ 검색 반독점 항소·딥마인드 핵심 연구자 이탈 3중고 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
+| Microsoft | OpenAI 제휴 + 자체 | +0.12 (2026-07-06) | 6월 25년래 최악 월간낙폭(-$5700억)에도 Azure 기업 클라우드 점유율 55%로 확대, $2.5B 프론티어 컴퍼니 신설 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
+| Meta | Llama (오픈웨이트) | -0.05 (2026-07-06) | 잉여 AI컴퓨팅 판매 'Meta Compute' 클라우드 진출에 +9%, 저커버그 AI에이전트 지연 인정, 印 아동안전 경고 | [META](../../tickers/META - Meta Platforms Inc.md) |
 | xAI | Grok (비상장) | — | — | 비상장 |
 <!-- PLAYERS_END -->
 

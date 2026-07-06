@@ -26,6 +26,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-07-06**: 메타의 자체 AI 클라우드(Meta Compute) 사업 검토가 실제로 하이퍼스케일러 광트랜시버 수요 둔화로 이어질지 (7일 검증 대기)
+- [ ] **2026-07-06**: 미 상무부 CHIPS 지원(최대 5000만달러)이 텍사스 셔먼 공장의 InP 생산능력 확대로 실제 가시화될지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -35,6 +37,8 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (美 상무부/NIST 공식 발표, 2026-06-17) CHIPS 프로그램, 코히런트에 최대 5000만달러 지원 의향서(LOI) 체결
+> 텍사스 셔먼 소재 인화인듐(InP) 생산공장 확장 목적.
 <!-- FACTS_END -->
 
 ---
@@ -42,4 +46,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-07-06
+
+**narrative_score**: 0.27
+**key_events**: 7/1~7/2 메타 클라우드 사업 보도로 포토닉스(광학부품)주 전반 급락, 코히런트 약 6.5~10% 하락 · 미 상무부 CHIPS 프로그램과 텍사스 셔먼 공장 InP 생산 확대 위한 최대 5000만달러 지원 의향서 체결
+**risks**: 매출 대비(P/S 9.9x) 업계 평균 대비 프리미엄 밸류에이션 · 브로드컴의 co-packaged optics 전략 등 트랜시버 시장 경쟁 심화 · 메타 등 하이퍼스케일러의 컴퓨트 내재화 시 광학부품 수요 둔화 우려
+
+> [!claim] (출처: GuruFocus, 2026-07-01) Coherent Corp (COHR) Shares Fall 6.5% -- GF Value Says Still Overvalued
+> 메타의 자체 AI 클라우드 사업 검토 보도로 AI 인프라·광학부품주 전반이 하락하며 코히런트 주가 6.5% 하락. impact: - / category: macro
+
+> [!claim] (출처: 24/7 Wall St., 2026-07-02) Applied Optoelectronics Plunges 17%, Coherent and Lumentum Sink 10% as Photonics Stocks Reset
+> 메타 클라우드 우려 여파가 지속되며 포토닉스(광학부품) 관련주 전반이 추가 급락, 코히런트도 약 10% 하락. impact: - / category: macro
+
+> [!claim] (출처: NIST (U.S. Dept. of Commerce), 2026-06-17) The Department of Commerce's CHIPS Program Announces a Letter of Intent with Coherent for up to $50 Million to Expand Indium Phosphide Production
+> 미 상무부 CHIPS 프로그램이 코히런트의 텍사스 셔먼 인화인듐(InP) 공장 확장에 최대 5000만달러 직접 지원 의향서 체결. impact: + / category: regulation
+
+**경쟁사 동향**:
+- LITE: Applied Optoelectronics, Coherent, Lumentum all fell together (10~17%) after the Meta cloud report — 루멘텀 등 경쟁 트랜시버 업체들도 동반 하락, 메타의 자체 컴퓨트 판매 계획이 업계 전체 수요 우려로 확산됨을 시사
+- AVGO: Broadcom pushing co-packaged optics integration alongside its 102.4Tbps switch silicon at OFC 2026 — 브로드컴이 스위치-광통신 통합(co-packaged optics) 전략을 강화하면 코히런트 등 독립형 트랜시버 업체의 장기 사업모델에 위협 요인
+
+---
 <!-- DAILY_END -->

@@ -39,16 +39,16 @@ sources: []
 
 | Ticker                                          | as_of      | score  | 핵심 한 줄                                         | open claims |
 | ----------------------------------------------- | ---------- | ------ | ----------------------------------------------- | ----------- |
-| [AAPL](tickers/AAPL - Apple Inc.md)                     | 2026-06-29 | -0.23  | 메모리 부족發 맥·아이패드 가격 인상에 1년래 최악 급락, 中 sell-in -19%, Counterpoint 점유율 사상최고 전망 | 3           |
-| [MSFT](tickers/MSFT - Microsoft Corporation.md)         | 2026-06-29 | +0.14  | 셰브론 20년 AI 전력계약(2.67GW), 버리 강세 베팅에 +5.7%, FTC Azure·Copilot 반독점 조사 | 4           |
-| [GOOGL](tickers/GOOGL - Alphabet Inc.md)                | 2026-06-29 | +0.07  | 다우 편입·러셀 100% 성장주 재분류로 +3.7%, 핵심 AI 연구자 이탈, EU DMA 제미나이 개방 명령   | 5           |
-| [AMZN](tickers/AMZN - Amazon.com Inc.md)                | 2026-06-29 | +0.31  | AWS GPU 가격 +20%(연 3회), 프라임데이 美온라인 +9.3%($26.4B), 시총 3조달러 기대   | 4           |
-| [META](tickers/META - Meta Platforms Inc.md)            | 2026-06-29 | +0.14  | 칸 라이언즈 AI 광고툴·Brand Memory, CRED 9억달러 투자, 구글 Gemini 접근 제한   | 4           |
-| [ORCL](tickers/ORCL - Oracle Corporation.md)            | 2026-06-29 | +0.13  | RPO $638B·OCI +93%에도 부채 1300억·FCF 우려로 2001년래 최악 주간(-19%), AI 감원 2.1만명 | 4           |
-| [CRM](tickers/CRM - Salesforce, Inc.md)                 | 2026-06-29 | +0.20  | Agentforce ARR 12억달러(+205%)·Fin 36억달러 인수, 실적 후 -15%·3차 감원 | 5           |
-| [ADBE](tickers/ADBE - Adobe Inc.md)                     | 2026-06-29 | +0.15  | Topaz Labs 인수·Firefly 에이전트 확대, Q2 비트에도 AI 잠식 우려로 디레이팅 | 5           |
-| [IBM](tickers/IBM - International Business Machines.md) | 2026-06-29 | +0.20  | 세계 첫 0.7nm 나노스택 칩 공개(성능+50%), ServiceNow·OpenAI 협력, +4.91% | 3           |
-| [PLTR](tickers/PLTR - Palantir Technologies Inc.md)     | 2026-06-29 | +0.27  | 엔비디아 Nemotron 주권 AI 엔진·Surf Air 확대, 'SaaSpocalypse'에 YTD -40% | 4           |
+| [AAPL](tickers/AAPL - Apple Inc.md)                     | 2026-07-06 | +0.20  | 아이폰 5종·접이식 '울트라' 1000만대 생산 확대 계획, 中 메모리 조달 다변화 소식에 $300 재돌파 | 5           |
+| [MSFT](tickers/MSFT - Microsoft Corporation.md)         | 2026-07-06 | +0.12  | 6월 25년래 최악 월간낙폭(-$5700억)에도 Azure 기업 클라우드 점유율 55%로 확대, $2.5B 프론티어 컴퍼니 신설 | 8           |
+| [GOOGL](tickers/GOOGL - Alphabet Inc.md)                | 2026-07-06 | -0.12  | EU 41억유로 과징금 최종 확정·DOJ 검색 반독점 항소·딥마인드 핵심 연구자 이탈 3중고 | 7           |
+| [AMZN](tickers/AMZN - Amazon.com Inc.md)                | 2026-07-06 | +0.24  | 프라임데이 264억달러(+9.3%) 최대 매출, AWS 기밀등급 클라우드 출시, FTC FCRA 225만달러 합의 | 7           |
+| [META](tickers/META - Meta Platforms Inc.md)            | 2026-07-06 | -0.05  | 잉여 AI컴퓨팅 판매 'Meta Compute' 클라우드 진출에 +9%, 저커버그 AI에이전트 지연 인정, 印 아동안전 경고 | 2           |
+| [ORCL](tickers/ORCL - Oracle Corporation.md)            | 2026-07-06 | +0.16  | FY26 클라우드 매출 +39%·RPO 사상최대나 FY27 capex $700억 전망에 AI 2.1만명 감원 지속 부각 | 7           |
+| [CRM](tickers/CRM - Salesforce, Inc.md)                 | 2026-07-06 | +0.22  | Guggenheim 매수 상향($228)·Agentforce ARR 10억달러 돌파(+205%), Contentful 인수 | 7           |
+| [ADBE](tickers/ADBE - Adobe Inc.md)                     | 2026-07-06 | +0.06  | HSBC 매수 상향(+4%)이나 ColdFusion CVSS 10.0 취약점 실제 악용 확인, Topaz Labs 인수 | 8           |
+| [IBM](tickers/IBM - International Business Machines.md) | 2026-07-06 | +0.22  | BofA 목표가 330달러 상향('퀀텀 리더'), 액센츄어發 컨설팅 수요둔화 경고 업종 전반 부각 | 6           |
+| [PLTR](tickers/PLTR - Palantir Technologies Inc.md)     | 2026-07-06 | +0.49  | 엔비디아 소버린 AI 파트너십 발표에 +9%, 美 육군 NGC2가 파운드리를 데이터레이어로 채택 | 7           |
 
 ### 반도체 — AI 칩 · 설계
 
@@ -101,11 +101,11 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [ANET](tickers/ANET - Arista Networks, Inc.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
-| [COHR](tickers/COHR - Coherent Corp.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
-| [MPWR](tickers/MPWR - Monolithic Power Systems.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
-| [CRWV](tickers/CRWV - CoreWeave, Inc.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
-| [NBIS](tickers/NBIS - Nebius Group N.V.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+| [ANET](tickers/ANET - Arista Networks, Inc.md) | 2026-07-06 | +0.46 | 1.6T AI 패브릭 스위치 메타·MS·오라클 검증, KeyBanc·BofA·모건스탠리 목표가 190~200달러 상향, +8% | 2 |
+| [COHR](tickers/COHR - Coherent Corp.md) | 2026-07-06 | +0.27 | CHIPS 최대 5000만달러 지원 확보, 단 메타 클라우드 우려발 포토닉스주 동반 급락(-6.5~10%) | 2 |
+| [MPWR](tickers/MPWR - Monolithic Power Systems.md) | 2026-07-06 | +0.20 | 러셀 성장지수 신규 편입·배당 유지, AI 서버 전력관리 수요 지속되나 개별 속보는 제한적 | 2 |
+| [CRWV](tickers/CRWV - CoreWeave, Inc.md) | 2026-07-06 | -0.11 | 메타 자체 AI클라우드 검토 보도로 -14% 급락, CEO 3770만달러 자사주 매도·집단소송 부담 | 2 |
+| [NBIS](tickers/NBIS - Nebius Group N.V.md) | 2026-07-06 | +0.04 | 메타 클라우드 이슈로 동반 -17% 급락, AI Cloud 3.6·'Echo' 에이전트 출시로 제품력은 강화 | 2 |
 
 ### 로보틱스 / 피지컬 AI
 

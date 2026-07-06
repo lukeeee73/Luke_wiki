@@ -47,7 +47,7 @@ GPU를 잇는 스위치 패브릭 — 스케일업(NVLink)과 스케일아웃(In
 |---|---|---|---|---|
 | NVIDIA | NVLink 스케일업 준독점 + Spectrum-X · 점유 40% | +0.38 (2026-06-30) | Palantir 정부 AI·RTX Spark·Vera Rubin 풀생산, 단 5월 고점 대비 -23% | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
 | Broadcom | 머천트 스위치 실리콘(Tomahawk) | +0.22 (2026-06-30) | OpenAI Jalapeño 칩·Q2 AI $10.8B이나 목표 미상향에 월 ~-20% | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
-| Arista | DC 이더넷 ~19% · 점유 20% | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | [ANET](../../tickers/ANET - Arista Networks, Inc.md) |
+| Arista | DC 이더넷 ~19% · 점유 20% | +0.46 (2026-07-06) | 1.6T AI 패브릭 스위치 메타·MS·오라클 검증, KeyBanc·BofA·모건스탠리 목표가 190~200달러 상향, +8% | [ANET](../../tickers/ANET - Arista Networks, Inc.md) |
 | Cisco | 기존 강자, AI 점유율 하락 · 점유 15% | watchlist 외 | — | `CSCO` |
 | Marvell | DPU·커스텀 실리콘 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | [MRVL](../../tickers/MRVL - Marvell Technology, Inc.md) |
 <!-- PLAYERS_END -->

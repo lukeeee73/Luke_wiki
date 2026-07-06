@@ -46,7 +46,7 @@ sources: ["https://www.lightcounting.com/newsletter/en/july-2025-cloud-data-cent
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
 | InnoLight | 모듈 1위 (비상장/중국) · 점유 25% | — | — | 비상장 |
-| Coherent | 수직통합 · NVIDIA CPO 파트너 · 점유 15% | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | [COHR](../../tickers/COHR - Coherent Corp.md) |
+| Coherent | 수직통합 · NVIDIA CPO 파트너 · 점유 15% | +0.27 (2026-07-06) | CHIPS 최대 5000만달러 지원 확보, 단 메타 클라우드 우려발 포토닉스주 동반 급락(-6.5~10%) | [COHR](../../tickers/COHR - Coherent Corp.md) |
 | Lumentum | 레이저/CPO · 점유 10% | watchlist 외 | — | `LITE` |
 | Marvell · Broadcom | 실리콘 포토닉스/DSP | +0.22 (2026-06-30) | OpenAI Jalapeño 칩·Q2 AI $10.8B이나 목표 미상향에 월 ~-20% | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
 | Eoptolink | 트랜시버 (비상장/중국) · 점유 12% | — | — | 비상장 |

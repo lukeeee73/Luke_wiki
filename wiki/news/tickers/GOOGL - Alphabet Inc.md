@@ -1,7 +1,7 @@
 ---
 title: "GOOGL - Alphabet Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-29
+updated: 2026-07-06
 domain: finance
 type: claim
 weight: reference
@@ -32,8 +32,10 @@ sources: []
 - [ ] **2026-06-15**: $80B 유상증자 희석이 주주 환원 지속성에 실질 영향을 줄 것 (pending 2026-06-29: Alphabet IR가 ~$80B 규모 주식 발행을 AI 컴퓨트 인프라 목적으로 재확인 — 희석 영향은 미확정, 계속 추적)
 - [ ] **2026-06-22**: 청소년 SNS 중독 소송 재심 기각이 추가 손해배상·유사 소송 확산으로 이어질지 (pending 2026-06-29: 오늘 뉴스에 신규 전개 없음 — 검증 대기 지속)
 - [ ] **2026-06-22**: HSBC-Google Cloud Gemini 제휴가 GCP 금융 엔터프라이즈 수주 확대의 신호인지 (pending 2026-06-29: 오늘 뉴스에 후속 수주 보도 없음 — 검증 대기 지속)
-- [ ] **2026-06-29**: 다우 편입·러셀 100% 성장주 재분류 발 상승이 수급성 일회성이 아니라 추세 전환으로 이어질지 (7일 검증 대기)
-- [ ] **2026-06-29**: Shazeer·Jumper 등 핵심 AI 연구자 이탈이 제미나이 로드맵·경쟁력에 실질 차질을 줄지 (7일 검증 대기)
+- [ ] **2026-06-29**: 다우 편입·러셀 100% 성장주 재분류 발 상승이 수급성 일회성이 아니라 추세 전환으로 이어질지 (7일 검증 대기) (partially refuted 2026-07-06: EU 41억유로 과징금 항소 최종 기각·美 DOJ 항소·딥마인드 인재 이탈 등 악재가 동시에 부각되며 narrative_score -0.12로 재차 악화 — 지수 편입발 수급 모멘텀이 추세 전환으로 이어지지 못함)
+- [ ] **2026-06-29**: Shazeer·Jumper 등 핵심 AI 연구자 이탈이 제미나이 로드맵·경쟁력에 실질 차질을 줄지 (7일 검증 대기) (pending 2026-07-06: 오늘 Fortune 보도로 이탈 인력 규모·행선지가 추가 확인됐으나(오픈AI·앤트로픽), 로드맵 지연을 보여주는 제품 데이터는 아직 없음 — 검증 대기 지속)
+- [ ] **2026-07-06**: EU 41억유로 과징금 확정 + 美 DOJ 검색 반독점 항소가 이중 규제 리스크로 밸류에이션에 실질 디스카운트를 가할지 (7일 검증 대기)
+- [ ] **2026-07-06**: 딥마인드 핵심 연구자(셰이저·점퍼 등) 연쇄 이탈이 제미나이 차기 모델 개발 지연으로 구체화될지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -58,6 +60,8 @@ sources: []
 
 > [!fact] (Alphabet IR + Yahoo Finance, 2026-06-29) Alphabet 다우 편입 + 약 $80B 주식 발행
 > 알파벳, 버라이즌 대체해 다우존스 산업평균지수 편입(첫날 약 +3.7%). Alphabet IR 공시로 AI 컴퓨트 인프라 자금 조달용 약 $80B 규모 주식 발행 확정.
+> [!fact] (CNBC, 2026-07-02) EU 최고법원, 구글 안드로이드 반독점 41억유로 과징금 항소 최종 기각
+> 2018년 EU 결정이 최종 확정. 별도로 美 DOJ와 35개 주도 구글 검색 반독점 판결(크롬 매각 면제)에 항소하기로 결정 (2026-07-01, PYMNTS).
 <!-- FACTS_END -->
 
 ---
@@ -65,6 +69,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-07-06
+
+**narrative_score**: -0.12
+**key_events**: EU 최고법원, 구글 안드로이드 반독점 41억유로 과징금 항소 최종 기각 (7/2) · 美 DOJ, 구글 검색 반독점 사건 관련 판결에 항소 결정 · 알파벳, 6월29일 다우존스산업평균지수 편입(버라이즌 대체) · 제미나이·알파폴드 핵심 연구자 다수가 오픈AI·앤트로픽으로 이탈
+**risks**: EU·美 양쪽에서 반독점 규제 리스크가 동시에 진행 중 · 핵심 AI 인재 유출이 장기적 기술 경쟁력에 미칠 영향
+
+> [!claim] (출처: CNBC, 2026-07-02) Google loses EU court appeal over €4.1 billion Android antitrust fine
+> EU 최고법원, 구글의 안드로이드 반독점 41억유로 과징금 항소를 기각하며 최종 확정. impact: - / category: regulation
+
+> [!claim] (출처: PYMNTS, 2026-07-01) Justice Department to appeal ruling in Google search antitrust case
+> 美 법무부와 35개 주가 구글의 크롬 매각을 면제한 2025년 9월 판결에 항소하기로 결정. impact: - / category: regulation
+
+> [!claim] (출처: CNBC, 2026-06-23) Alphabet set to join Dow Jones Industrial Average, replacing Verizon
+> S&P다우존스지수, 알파벳을 6월29일자로 다우지수에 편입 결정, 버라이즌은 퇴출. impact: + / category: other
+
+> [!claim] (출처: Fortune, 2026-06-23) As top talent leaves Google DeepMind, some question if the lab can remain at the forefront of AI
+> 제미나이 공동리더 노암 셰이저(오픈AI행), 알파폴드 주역 존 점퍼(앤트로픽행) 등 핵심 AI 연구자 대거 이탈. impact: - / category: other
+
+**경쟁사 동향**:
+- MSFT: Azure now primary cloud for 55% of US CIOs, widening lead over AWS in Jefferies survey — 구글 클라우드가 3위 사업자로 밀리는 구도가 굳어지며 클라우드 부문 경쟁력 우려가 커짐
+- AMZN: Amazon commits up to $25B to Anthropic with $100B+ AWS compute commitment — 아마존-앤스로픽 동맹 강화는 구글의 제미나이 생태계 확장 전략과 직접 경쟁 관계
+
+---
 
 ### 2026-06-29
 

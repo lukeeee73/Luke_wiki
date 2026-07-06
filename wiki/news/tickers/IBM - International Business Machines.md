@@ -1,7 +1,7 @@
 ---
 title: "IBM - International Business Machines — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-29
+updated: 2026-07-06
 domain: finance
 type: claim
 weight: reference
@@ -30,9 +30,11 @@ sources: []
 <!-- OPEN_CLAIMS_START -->
 - [x] **2026-06-15**: ATH $329 대비 -17% 조정이 재진입 기회인지 추가 하락 예고인지 (**partially verified** 2026-06-22: ACN 가이던스 충격·Fed 매파로 추가 조정(고점 대비 ~22%) — 단기 추가 하락 쪽 확인)
 - [x] **2026-06-15**: Anderon 양자칩 파운드리($10억 공동출자)가 IBM-미국 정부 AI 인프라 협력으로 이어질 것 (**verified** 2026-06-22: 美 상무부 공동 '첫 목적형 양자 파운드리'($10억 CHIPS) 공식 발표 확인)
-- [ ] **2026-06-22**: Accenture 가이던스 하향(IT서비스 수요 둔화)이 IBM 컨설팅 부문 실적 약화로 전이될지 (7일 검증 대기) (pending 2026-06-29: ACN Q3 FY26 매출 +6%이나 신규 수주 감소(193억$) — IT 컨설팅 둔화 신호 지속, IBM 전이 여부는 IBM 자체 실적 미확인으로 계속 대기)
+- [ ] **2026-06-22**: Accenture 가이던스 하향(IT서비스 수요 둔화)이 IBM 컨설팅 부문 실적 약화로 전이될지 (7일 검증 대기) (pending 2026-07-06: 액센츄어 주가 하루 만에 17~20% 폭락 등 업종 전반 부담이 재확인됐으나, IBM 자체 컨설팅 실적 데이터는 7/22 실적 발표 전까지 미확인 — 검증 대기 지속) (pending 2026-06-29: ACN Q3 FY26 매출 +6%이나 신규 수주 감소(193억$) — IT 컨설팅 둔화 신호 지속, IBM 전이 여부는 IBM 자체 실적 미확인으로 계속 대기)
 - [ ] **2026-06-29**: 세계 최초 0.7nm 나노스택 칩 공개가 단기 주가 모멘텀을 넘어 실질 실적·제조 파트너 확보로 이어질지 (상용화 5년 전망) (7일 검증 대기)
-- [ ] **2026-06-29**: ServiceNow·OpenAI(Daybreak) AI 파트너십 확대와 JPMorgan 목표가 상향이 하반기 Red Hat·OpenShift 소프트웨어 가속 실적으로 확인될지 (7일 검증 대기)
+- [ ] **2026-06-29**: ServiceNow·OpenAI(Daybreak) AI 파트너십 확대와 JPMorgan 목표가 상향이 하반기 Red Hat·OpenShift 소프트웨어 가속 실적으로 확인될지 (7일 검증 대기) (pending 2026-07-06: 오늘은 BofA가 목표가를 315→330달러로 추가 상향(양자컴퓨팅 근거) — 긍정 모멘텀 지속되나 Red Hat·OpenShift 실적 데이터는 여전히 미확인)
+- [ ] **2026-07-06**: BofA의 목표가 상향(330달러)·'퀀텀 리더' 평가가 7/22 2분기 실적에서 실제 가이던스 상향으로 확인될지 (7일 검증 대기)
+- [ ] **2026-07-06**: 액센츄어發 컨설팅 수요 둔화 경고가 IBM 컨설팅 부문 실적에도 실제로 전이될지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -64,6 +66,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-07-06
+
+**narrative_score**: 0.22
+**key_events**: BofA, IBM 목표주가 315→330달러로 상향하며 2분기 실적·가이던스 상향 기대 언급 · 양자컴퓨팅에 5년간 100억달러 투자 계획이 새로운 촉매로 재조명 · 2분기 실적발표 7월22일 예정, 컨센서스 EPS 약 2.95~3.03달러, 매출 약 178~180억달러 · 경쟁사 액센츄어의 컨설팅 수요 둔화 경고로 IT서비스 업종 전반 주가 하락 파급
+**risks**: AI로 인한 전통 컨설팅 수요 disruption이 IBM 컨설팅 부문에도 위험 요인 · 환율 및 거시경제 둔화가 소프트웨어·인프라 매출 성장에 부담 가능 · 오라클·마이크로소프트 대비 클라우드 인프라 성장률이 상대적으로 낮음
+
+> [!claim] (출처: Benzinga, 2026-07-06) IBM Stock Jumps as BofA Securities Flags Strong Q2, Potential 2026 Guidance Hike
+> 뱅크오브아메리카, IBM 목표주가 315→330달러로 상향, 2분기 실적 호조 전망. impact: + / category: earnings
+
+> [!claim] (출처: CoinCentral, 2026-07-06) IBM Stock: BofA Calls It the 'Quantum Leader' and Raises Target to $330
+> BofA, IBM을 양자컴퓨팅 선도기업으로 평가하며 목표주가 상향 조정. impact: + / category: product
+
+> [!claim] (출처: TradingKey, 2026-07-06) International Business Machines Corp Stock (IBM) Moved Up by 3.64% on Jul 6: What Investors Need To Know
+> IBM 주가 7월6일 3.64% 상승, 애널리스트 목표주가 상향이 견인. impact: + / category: earnings
+
+> [!claim] (출처: Barchart, 2026-07-05) IBM Stock's $10 Billion Quantum Catalyst Is Here
+> IBM의 100억달러 규모 양자컴퓨팅 투자가 새로운 주가 촉매로 부각. impact: + / category: product
+
+**경쟁사 동향**:
+- ACN: 액센츄어, AI發 컨설팅 수요 둔화로 2026 회계연도 매출 가이던스 하향, 주가 하루 만에 약 17~20% 폭락 — AI가 전통 컨설팅 인력 기반 모델을 잠식하고 있음을 보여주며, IBM 컨설팅 부문에도 유사한 압력이 존재하나 소프트웨어 교차판매로 일부 상쇄될 가능성
+- MSFT: IBM 컨설팅 어드밴티지가 마이크로소프트 코파일럿(Microsoft 365)에 통합, 연간 25만 시간 이상 절감 — 현재는 상호보완적 협력 관계이나, 코파일럿이 향후 컨설팅 기능을 자체 내재화할 경우 IBM 컨설팅 사업 잠식 우려 존재
+
+---
 
 ### 2026-06-29
 

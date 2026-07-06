@@ -45,11 +45,11 @@ sources: ["https://www.tomshardware.com/tech-industry/big-tech/big-techs-ai-spen
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Amazon | ~$200B (’26) · 점유 28% | +0.31 (2026-06-29) | AWS GPU 가격 +20%(연 3회), 프라임데이 美온라인 +9.3%($26.4B), 시총 3조달러 기대 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
-| Microsoft | ~$190B (’26) · 점유 26% | +0.14 (2026-06-29) | 셰브론 20년 AI 전력계약(2.67GW), 버리 강세 베팅에 +5.7%, FTC Azure·Copilot 반독점 조사 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
-| Alphabet | $180–190B (’26) · 점유 26% | +0.07 (2026-06-29) | 다우 편입·러셀 100% 성장주 재분류로 +3.7%, 핵심 AI 연구자 이탈, EU DMA 제미나이 개방 명령 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
-| Meta | $125–145B (’26) · 점유 19% | +0.14 (2026-06-29) | 칸 라이언즈 AI 광고툴·Brand Memory, CRED 9억달러 투자, 구글 Gemini 접근 제한 | [META](../../tickers/META - Meta Platforms Inc.md) |
-| Oracle | Stargate 연계 | +0.13 (2026-06-29) | RPO $638B·OCI +93%에도 부채 1300억·FCF 우려로 2001년래 최악 주간(-19%), AI 감원 2.1만명 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
+| Amazon | ~$200B (’26) · 점유 28% | +0.24 (2026-07-06) | 프라임데이 264억달러(+9.3%) 최대 매출, AWS 기밀등급 클라우드 출시, FTC FCRA 225만달러 합의 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
+| Microsoft | ~$190B (’26) · 점유 26% | +0.12 (2026-07-06) | 6월 25년래 최악 월간낙폭(-$5700억)에도 Azure 기업 클라우드 점유율 55%로 확대, $2.5B 프론티어 컴퍼니 신설 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
+| Alphabet | $180–190B (’26) · 점유 26% | -0.12 (2026-07-06) | EU 41억유로 과징금 최종 확정·DOJ 검색 반독점 항소·딥마인드 핵심 연구자 이탈 3중고 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
+| Meta | $125–145B (’26) · 점유 19% | -0.05 (2026-07-06) | 잉여 AI컴퓨팅 판매 'Meta Compute' 클라우드 진출에 +9%, 저커버그 AI에이전트 지연 인정, 印 아동안전 경고 | [META](../../tickers/META - Meta Platforms Inc.md) |
+| Oracle | Stargate 연계 | +0.16 (2026-07-06) | FY26 클라우드 매출 +39%·RPO 사상최대나 FY27 capex $700억 전망에 AI 2.1만명 감원 지속 부각 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
 | OpenAI | 26GW 약정 (비상장) | — | — | 비상장 |
 <!-- PLAYERS_END -->
 

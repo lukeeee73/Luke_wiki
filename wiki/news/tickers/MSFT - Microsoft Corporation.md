@@ -1,7 +1,7 @@
 ---
 title: "MSFT - Microsoft Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-29
+updated: 2026-07-06
 domain: finance
 type: claim
 weight: reference
@@ -32,8 +32,10 @@ sources: []
 - [x] **2026-06-15**: YTD -17% 주가 부진이 저평가 매수 기회인지 구조적 언더퍼폼 신호인지 (**partially verified** 2026-06-22: Copilot 증권 집단소송·EU DMA 클라우드 예비 판단으로 구조적 규제·성장 우려 쪽 부각)
 - [ ] **2026-06-22**: Copilot 성과 과장 증권 사기 집단소송(8/11 마감)이 실질적 책임·합의로 이어질지 (7일 검증 대기) (pending 2026-06-29: FTC가 Azure·Copilot 끼워팔기·OpenAI 독점을 별도 반독점 조사로 확대 — 규제 전선 확대되나 집단소송 자체 진전 미보고)
 - [ ] **2026-06-22**: EU DMA의 Azure 게이트키퍼 지정 예비판단이 실질 규제로 구체화될지 (7일 검증 대기) (pending 2026-06-29: EU 진전 없으나 미 FTC가 Azure·Copilot 끼워팔기 반독점 조사 개시 — 다중 규제 전선 지속)
-- [ ] **2026-06-29**: 셰브론 20년 2.67GW 전력계약 등 AI 데이터센터 capex 확대가 Azure 성장으로 회수될지, 아니면 ROI 부담으로 남을지 (7일 검증 대기)
-- [ ] **2026-06-29**: OpenAI의 멀티클라우드 분산(오라클 $300B·AWS $38B·MS $250B)이 Azure AI 매출 성장 둔화로 실제 가시화될지 (7일 검증 대기)
+- [ ] **2026-06-29**: 셰브론 20년 2.67GW 전력계약 등 AI 데이터센터 capex 확대가 Azure 성장으로 회수될지, 아니면 ROI 부담으로 남을지 (7일 검증 대기) (pending 2026-07-06: 제프리스 CIO 설문에서 애저 주력 클라우드 비중 55%로 AWS(28%) 대비 격차 확대 — capex 회수 방향 긍정 신호이나 ROI 직접 지표는 미확인. 단 6월 한달 시총 5700억달러 증발로 시장은 여전히 회의적)
+- [ ] **2026-06-29**: OpenAI의 멀티클라우드 분산(오라클 $300B·AWS $38B·MS $250B)이 Azure AI 매출 성장 둔화로 실제 가시화될지 (7일 검증 대기) (pending 2026-07-06: 오늘 뉴스에 관련 후속 데이터 없음 — 검증 대기 지속)
+- [ ] **2026-07-06**: 6월 한 달 시가총액 5700억달러 증발(25년래 최악 월간 낙폭)이 AI capex 우려의 구조적 디레이팅 신호로 굳어질지 (7일 검증 대기)
+- [ ] **2026-07-06**: 헬레온 5년 AI 계약·'프론티어 컴퍼니'(25억달러·6000명) 신설이 엔터프라이즈 AI 수익화 가속으로 이어질지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -60,6 +62,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-07-06
+
+**narrative_score**: 0.13
+**key_events**: 6월 한 달간 시가총액 5700억달러 증발, 2000년 이후 최악의 월간 낙폭 · 헬레온과 5년 AI 도입 계약 체결, 25억달러 규모 '프론티어 컴퍼니' 신설 · 제프리스 조사에서 애저가 미국 기업 주력 클라우드의 55%를 차지, AWS와 격차 확대
+**risks**: 2026년 1900억달러로 전망되는 AI 설비투자 대비 수익화 속도에 대한 시장 우려 · 부품 가격 상승에 따른 약 250억달러 규모의 추가 원가 부담
+
+> [!claim] (출처: The Motley Fool, 2026-07-03) Microsoft had its worst month in more than 25 years
+> 마이크로소프트, 6월 한 달간 시가총액 5700억달러 증발, 2000년 이후 최악의 월간 하락률 기록. impact: - / category: other
+
+> [!claim] (출처: Benzinga, 2026-07-01) Haleon locks in five-year Microsoft AI deal to deploy Copilot, agents, and Azure at scale
+> 헬스케어 기업 헬레온, 5년간 M365 코파일럿·애저·에이전트 AI 도입 계약 체결, MS 주가 4% 상승. impact: + / category: product
+
+> [!claim] (출처: CNBC, 2026-07-02) Microsoft commits $2.5 billion and 6,000 employees to new AI implementation unit
+> MS, 기업 AI 도입 가속화 위한 '프론티어 컴퍼니' 설립에 25억달러와 엔지니어 6000명 투입. impact: + / category: product
+
+> [!claim] (출처: TipRanks, 2026-07-01) Microsoft (MSFT) Azure widens lead over AWS in Jefferies CIO survey
+> 제프리스 CIO 설문조사, 애저를 주력 클라우드로 선택한 비중 55%로 AWS(28%) 대비 격차 확대. impact: + / category: other
+
+**경쟁사 동향**:
+- ORCL: Oracle announces record Q4/FY2026 results driven by cloud infrastructure, RPO backlog reaches $638B (+363% YoY) — 오라클의 AI 클라우드 고속 성장은 규모는 작지만 기업 AI 인프라 수주 경쟁이 격화되고 있음을 시사
+- AMZN: AWS commits $1B to its own Forward Deployed Engineering AI unit, days before Microsoft Frontier launch — 아마존도 유사한 AI 도입 지원 조직을 신설하며 MS 프론티어 컴퍼니와 직접 경쟁 구도 형성
+
+---
 
 ### 2026-06-29
 

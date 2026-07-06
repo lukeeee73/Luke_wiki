@@ -1,7 +1,7 @@
 ---
 title: "AAPL - Apple Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-29
+updated: 2026-07-06
 domain: finance
 type: claim
 weight: reference
@@ -32,8 +32,10 @@ sources: []
 - [ ] **2026-06-15**: 시리 AI 베타 미국 한정 출시 — EU·중국 확대 일정 및 실제 AI 수익화 시점 (pending — 6/22까지 EU·중국 출시 일정 추가 발표 없음) (**aged-out** 2026-06-29: 14일 경과, EU·중국 출시 일정 미확인. 6/27 Gemini 기반 새 Siri 보도뿐 지역 확대 무소식)
 - [ ] **2026-06-22**: 메모리(DRAM) 가격 급등이 애플 기기 가격 인상·하드웨어 마진 압박으로 실증될지 (7일 검증 대기) (**verified** 2026-06-29: 6/25 맥·아이패드 가격 인상 단행, 주가 6% 급락 — CNBC·Bloomberg 동시 보도로 마진 우려 실증)
 - [ ] **2026-06-22**: 애플-인텔 미국 칩 생산 협력이 실제 공급망 다변화·관세 리스크 완화로 구체화될지 (7일 검증 대기) (pending — 6/29까지 협력 구체화·후속 발표 없음)
-- [ ] **2026-06-29**: 중국 아이폰 sell-in 19% YoY 급감이 다음 분기 실적·중국 매출 둔화로 확인될지 (7일 검증 대기)
-- [ ] **2026-06-29**: 메모리 원가 상승發 가격 인상이 하반기 판매량 둔화로 이어질지 (7일 검증 대기)
+- [ ] **2026-06-29**: 중국 아이폰 sell-in 19% YoY 급감이 다음 분기 실적·중국 매출 둔화로 확인될지 (7일 검증 대기) (pending 2026-07-06: 7/30 Q3 실적발표 전까지 검증 불가 — 대기 연장, 단 CXMT·YMTC 메모리 조달 논의 소식에 주가는 $300 재돌파)
+- [ ] **2026-06-29**: 메모리 원가 상승發 가격 인상이 하반기 판매량 둔화로 이어질지 (7일 검증 대기) (pending 2026-07-06: 접이식 아이폰 '울트라' 생산 1000만대 확대 계획 등 수요 강세 신호가 오히려 우세, 판매량 둔화 정량 데이터는 아직 없음 — 7/30 실적발표까지 대기 연장)
+- [ ] **2026-07-06**: 중국 CXMT·YMTC 메모리 조달 다변화가 원가 압박을 완화하고 마진 우려를 실질적으로 해소할지 (7일 검증 대기)
+- [ ] **2026-07-06**: 7/30 팀 쿡의 마지막 실적발표에서 중국 sell-in 둔화·메모리發 가격인상 여파가 매출·마진에 실제로 반영될지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -62,6 +64,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-07-06
+
+**narrative_score**: 0.2
+**key_events**: 애플, 2027년 상반기까지 아이폰 5종 출시 및 접이식 '울트라' 생산 1000만대로 확대 계획 (니케이 보도) · 메모리·스토리지 칩 가격 급등으로 아이패드·맥북 가격 인상 (아이폰은 아직 제외) · 7월30일 3분기 실적 발표 예정, 팀 쿡의 마지막 컨퍼런스콜이자 후임 존 터너스로의 전환점
+**risks**: AI발 메모리 반도체 가격 급등이 아이폰까지 확산될 경우 추가 마진 압박 우려 · 팀 쿡 퇴임에 따른 리더십 전환 불확실성
+
+> [!claim] (출처: CNBC (citing Nikkei Asia), 2026-07-02) Apple plans five new iPhones through 2027, ramps foldable 'Ultra' production to 10 million units
+> 니케이 보도, 애플이 2027년 상반기까지 신형 아이폰 5종과 접이식 '울트라' 모델 생산을 1000만대로 확대 계획. impact: + / category: product
+
+> [!claim] (출처: Reuters (via Investing.com), 2026-06-25) Apple raises prices of MacBooks, iPads as memory costs skyrocket
+> AI발 메모리·스토리지 칩 가격 급등으로 아이패드·맥북 가격 인상, 아이폰은 아직 미포함. impact: - / category: macro
+
+> [!claim] (출처: 9to5Mac, 2026-07-02) Apple sets July 30 for fiscal Q3 2026 earnings — Tim Cook's final call as CEO
+> 애플, 7월30일 3분기 실적 발표 예정. 팀 쿡의 CEO로서 마지막 컨퍼런스콜, 후임은 존 터너스. impact: neutral / category: earnings
+
+> [!claim] (출처: TradingKey, 2026-07-04) Apple (AAPL) stock price forecast: Chinese memory chip talks drove $300 return
+> 중국 CXMT·YMTC와 메모리 조달 논의 소식에 애플 주가 300달러 재돌파, 4.6% 급등. impact: + / category: product
+
+**경쟁사 동향**:
+- MSFT: Microsoft launches $2.5B 'Frontier Company' with 6,000 engineers for enterprise AI deployment — MSFT의 엔터프라이즈 AI 확장은 애플의 소비자 중심 AI 전략과 다른 축에서 빅테크 AI 경쟁을 심화시킴
+- GOOGL: Apple's Siri to run on Google Gemini under a multi-year, ~$1B/year deal; 'Full Conversational Siri' arriving with iOS 27 — 애플이 자체 AI 대신 구글 제미나이에 의존하게 되면서 AI 경쟁력 측면에서 구글에 대한 종속 우려가 제기됨
+
+---
 
 ### 2026-06-29
 

@@ -26,6 +26,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-07-06**: 나비타스 등 GaN/SiC 경쟁사의 AI 데이터센터 전력시장 공세가 MPWR의 실리콘 기반 전력관리 IC 점유율을 잠식할지 (7일 검증 대기)
+- [ ] **2026-07-06**: 엔터프라이즈 데이터센터 세그먼트 성장률 가이던스 상향(약 85% YoY)이 다음 분기 실적으로 실제 확인될지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,4 +44,22 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-07-06
+
+**narrative_score**: 0.185
+**key_events**: 러셀 Top 200/Top 200 Growth 지수 신규 편입 (미드캡 지수에서 제외) · 2분기 배당금 주당 2달러 선언 (기준일 6/30, 지급일 7/15)
+**risks**: 업계 평균 대비 프리미엄 밸류에이션 · 나비타스 등 GaN/SiC 기반 경쟁사의 AI 전력시장 진입 심화 · 최근 주가 변동성 확대
+
+> [!claim] (출처: MarketScreener, 2026-06-26) Monolithic Power Systems, Inc. Added to Russell Top 200 Growth Benchmark
+> 러셀 지수 반기 재편에서 Russell Top 200/Top 200 Growth 지수에 신규 편입, 미드캡 지수에서는 제외. impact: + / category: other
+
+> [!claim] (출처: StockTitan / GlobeNewswire, 2026-06-12) Monolithic Power Systems Declares Second Quarter Dividend of $2.00 per Share
+> 모놀리식파워시스템즈, 2분기 배당금 주당 2달러 선언 (기준일 6/30, 지급일 7/15). impact: neutral / category: earnings
+
+**경쟁사 동향**:
+- NVTS: Navitas Semiconductor pivots to AI data center/grid power under 'Navitas 2.0' strategy; Q1 2026 revenue +18% QoQ to $8.6M on high-power demand — 나비타스가 GaN/SiC 기반으로 AI 데이터센터 전력시장에 공격적으로 진입하며 MPWR의 실리콘 기반 전력관리 IC 포지션에 장기 경쟁 압박
+- TXN: Navitas names Texas Instruments and ON Semiconductor as larger, deeper-resourced rivals in the same high-power AI/grid segments — TI 등 대형 아날로그 반도체 업체들의 자원력이 MPWR과의 경쟁에서 부담 요인이 될 수 있음
+
+---
 <!-- DAILY_END -->

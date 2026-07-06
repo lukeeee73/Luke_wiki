@@ -26,6 +26,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-07-06**: 메타의 자체 AI 클라우드(Meta Compute) 사업 추진이 네비우스의 최대 고객(메타 $27B 계약) 매출 집중 리스크로 실제 현실화될지 (7일 검증 대기)
+- [ ] **2026-07-06**: AI Cloud 3.6·'Echo' AI 에이전트 출시가 실적 대비 고평가 우려를 상쇄할 만한 신규 수주로 이어질지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,4 +44,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-07-06
+
+**narrative_score**: 0.04
+**key_events**: 블룸버그, 메타의 자체 AI 클라우드 사업(Meta Compute) 추진 보도 (7/1) · 네비우스 주가 7/1 하루 만에 17% 급락, 코어위브와 동반 하락 · AI Cloud 3.6 및 자연어 제어 AI 에이전트 'Echo' 출시 (6/24)
+**risks**: 최대 고객 메타의 잠재적 경쟁자 전환 리스크 (매출 집중도 높음) · 실적 대비 고평가 밸류에이션 우려 · IREN 등 신흥 니오클라우드와의 밸류에이션·수주 경쟁
+
+> [!claim] (출처: Investing.com, 2026-07-01) CoreWeave and Nebius shares fall on Meta cloud report
+> 메타의 자체 AI 클라우드 사업 검토 보도로 네비우스 주가 17% 급락, 최대 고객 메타 의존 리스크 부각. impact: - / category: other
+
+> [!claim] (출처: Insider Monkey / Nebius newsroom, 2026-06-24) Nebius (NBIS) AI Cloud 3.6 Launches With AI-Powered Agent Nebius Echo
+> 네비우스, 자연어로 클라우드 인프라를 제어하는 AI 에이전트 'Echo'를 탑재한 AI Cloud 3.6 출시. impact: + / category: product
+
+> [!claim] (출처: Simply Wall St / Yahoo Finance, 2026-07-03) Nebius Group (NBIS) Stock Looks Overvalued On Earnings While AI Growth Stays Strong
+> 네비우스 실적 발표 후 AI 매출 성장세는 견조하나 현재 밸류에이션은 고평가 상태라는 평가. impact: neutral / category: earnings
+
+**경쟁사 동향**:
+- CRWV: CoreWeave also plunged ~14% the same day (2026-07-01) on the identical Meta cloud report — 코어위브와 함께 메타 의존도가 높은 니오클라우드로 묶여 동반 매도, 개별 리스크라기보다 섹터 전체 리스크로 시장에서 인식됨
+- ORCL: Oracle FY2026 RPO surged to $638B (+363% YoY) on large-scale AI contracts — 오라클의 공격적 자체 AI 인프라 확장은 네비우스와 같은 니오클라우드의 장기 고객·점유율 경쟁 압박 요인
+
+---
 <!-- DAILY_END -->
