@@ -45,7 +45,7 @@ AI 기반 지휘통제(C2)·표적인식·군집 오케스트레이션 소프트
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Palantir | Maven Smart System — DoD AI C2 사실상 표준 (한도 $1.3B) | +0.27 (2026-06-29) | 엔비디아 Nemotron 주권 AI 엔진·Surf Air 확대, 'SaaSpocalypse'에 YTD -40% | [PLTR](../../tickers/PLTR - Palantir Technologies Inc.md) |
+| Palantir | Maven Smart System — DoD AI C2 사실상 표준 (한도 $1.3B) | +0.49 (2026-07-06) | 엔비디아 소버린 AI 파트너십 발표에 +9%, 美 육군 NGC2가 파운드리를 데이터레이어로 채택 | [PLTR](../../tickers/PLTR - Palantir Technologies Inc.md) |
 | Anduril | Lattice OS — 자율체계 통합 SW (비상장, $61B) | — | — | 비상장 |
 | Lockheed · RTX · Northrop | 전통 프라임 — AI 통합 미사일·C2·CCA | +0.27 (2026-06-28) | THAAD 요격탄 4배 증산 최대 350억 달러 7년 계약 (6/24)·PrSM 84억 달러 계약 변경,… | [LMT](../../tickers/LMT - Lockheed Martin Corp.md) |
 <!-- PLAYERS_END -->

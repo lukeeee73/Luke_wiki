@@ -45,9 +45,9 @@ sources: ["https://www.srgresearch.com/articles/neoclouds-currently-growing-by-o
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| CoreWeave | 최대 독립 네오클라우드 — Q1’26 매출 $2.08B(+112%), 잔고 $99.4B | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | [CRWV](../../tickers/CRWV - CoreWeave, Inc.md) |
-| Nebius | 2위권 급성장 — 잔고 ~$50B(Meta·MS), 계약전력 3GW+ | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | [NBIS](../../tickers/NBIS - Nebius Group N.V.md) |
-| Oracle OCI | 준네오클라우드 — OpenAI Stargate $300B, capex/매출 76% | +0.13 (2026-06-29) | RPO $638B·OCI +93%에도 부채 1300억·FCF 우려로 2001년래 최악 주간(-19%), AI 감원 2.1만명 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
+| CoreWeave | 최대 독립 네오클라우드 — Q1’26 매출 $2.08B(+112%), 잔고 $99.4B | -0.11 (2026-07-06) | 메타 자체 AI클라우드 검토 보도로 -14% 급락, CEO 3770만달러 자사주 매도·집단소송 부담 | [CRWV](../../tickers/CRWV - CoreWeave, Inc.md) |
+| Nebius | 2위권 급성장 — 잔고 ~$50B(Meta·MS), 계약전력 3GW+ | +0.04 (2026-07-06) | 메타 클라우드 이슈로 동반 -17% 급락, AI Cloud 3.6·'Echo' 에이전트 출시로 제품력은 강화 | [NBIS](../../tickers/NBIS - Nebius Group N.V.md) |
+| Oracle OCI | 준네오클라우드 — OpenAI Stargate $300B, capex/매출 76% | +0.16 (2026-07-06) | FY26 클라우드 매출 +39%·RPO 사상최대나 FY27 capex $700억 전망에 AI 2.1만명 감원 지속 부각 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
 | NVIDIA | 공급자 겸 앵커 투자자 — $110B+ 순환금융의 중심 | +0.38 (2026-06-30) | Palantir 정부 AI·RTX Spark·Vera Rubin 풀생산, 단 5월 고점 대비 -23% | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
 | Crusoe · Lambda · Together | 비상장 — 에너지 연계·MS 계약·추론 특화 | — | — | 비상장 |
 | IREN · Cipher · Core Scientific | 채굴사→AI 전환 — 전력자산 재평가 (MS $9.7B 등) | watchlist 외 | — | `IREN` |

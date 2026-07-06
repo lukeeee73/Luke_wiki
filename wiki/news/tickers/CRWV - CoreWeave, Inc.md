@@ -26,6 +26,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-07-06**: 메타의 자체 AI 클라우드(Meta Compute) 사업 추진이 코어위브의 최대 고객 매출 집중 리스크로 실제 현실화될지 (7일 검증 대기)
+- [ ] **2026-07-06**: CEO의 대규모 자사주 매도(3770만달러)와 증권집단소송이 추가 투자심리 악화로 이어질지, 아니면 로젠블랫 등의 매수 기회론이 우세할지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,4 +44,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-07-06
+
+**narrative_score**: -0.11
+**key_events**: 블룸버그, 메타의 자체 AI 컴퓨트 판매 클라우드 사업(Meta Compute) 추진 보도 (7/1) · 코어위브 주가 7/1 하루 만에 약 14% 급락, 네비우스도 동반 급락 · CEO 마이클 인트레이터, 6월 말 약 3770만달러 규모 자사주 매도
+**risks**: 최대 고객 메타가 잠재적 경쟁자로 전환될 가능성 (매출 집중 리스크) · 높은 부채 수준과 자본지출 부담 · 단일 데이터센터 공급업체 의존 리스크 관련 증권집단소송 진행 중 · 소프트뱅크의 SB Neo 등 신규 니오클라우드 경쟁자 진입
+
+> [!claim] (출처: The Motley Fool, 2026-07-01) Stock Market Today, July 1: CoreWeave Stock Tumbles as Meta Cloud Report Raises Customer Concerns
+> 블룸버그의 메타 자체 AI 클라우드 사업 추진 보도로 코어위브 주가 13.9% 급락, 최대 고객 메타 의존 리스크 부각. impact: - / category: other
+
+> [!claim] (출처: Investing.com, 2026-07-01) Rosenblatt reiterates CoreWeave stock rating amid Meta cloud reports
+> 로젠블랫, 메타발 매도는 매수 기회라며 매수의견·목표주가 250달러 유지, GPU 공급부족은 여전히 업계 표준이라고 진단. impact: + / category: earnings
+
+> [!claim] (출처: Investing.com, 2026-06-30) CoreWeave CEO Michael N. Intrator sells $37.7m in shares
+> 코어위브 CEO 마이클 인트레이터가 10b5-1 계획에 따라 약 3770만달러 규모 자사주 매도. impact: neutral / category: other
+
+**경쟁사 동향**:
+- NBIS: Nebius shares also plunged ~17% the same day (2026-07-01) on the identical Meta cloud report — 경쟁사 네비우스도 동반 급락, 메타 리스크가 코어위브만의 개별 리스크가 아닌 니오클라우드 섹터 전체의 구조적 리스크로 확인됨
+- ORCL: Oracle FY2026 RPO surged 363% YoY to $638B on large AI/GPU contracts, with 97.5% GPU utilization — 오라클 등 대형 클라우드의 AI 인프라 투자 지속은 GPU 수요 기반이 여전함을 시사하나, 오라클의 자체 확장은 장기적으로 니오클라우드 시장 점유 경쟁 요인
+
+---
 <!-- DAILY_END -->

@@ -47,7 +47,7 @@ sources: ["https://pv-magazine-usa.com/2026/05/11/u-s-transformer-market-faces-s
 |---|---|---|---|---|
 | Vertiv | 전력+액침냉각 (NVIDIA GB200 레퍼런스) · 점유 22% | watchlist 외 | — | `VRT` |
 | Eaton | 변압기·스위치기어·PDU · 점유 12% | watchlist 외 | — | `ETN` |
-| Monolithic Power | 고밀도 GPU 전력전달 'last inch' | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | [MPWR](../../tickers/MPWR - Monolithic Power Systems.md) |
+| Monolithic Power | 고밀도 GPU 전력전달 'last inch' | +0.20 (2026-07-06) | 러셀 성장지수 신규 편입·배당 유지, AI 서버 전력관리 수요 지속되나 개별 속보는 제한적 | [MPWR](../../tickers/MPWR - Monolithic Power Systems.md) |
 | Navitas · Infineon · ON | GaN/SiC 800VDC | watchlist 외 | — | `NVTS` |
 | Schneider Electric | 변압기·스위치기어 (해외) · 점유 12% | — | — | 비상장 |
 <!-- PLAYERS_END -->

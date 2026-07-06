@@ -1,7 +1,7 @@
 ---
 title: "CRM - Salesforce, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-29
+updated: 2026-07-06
 domain: finance
 type: claim
 weight: reference
@@ -31,8 +31,10 @@ sources: []
 - [ ] **2026-06-15**: $36억 Fin 인수가 AI 고객 서비스 CRM 시장 점유율 5%p 이상 확대할 것 (pending — Fin 본계약 체결 확정, 점유율 영향은 미확인) (pending 2026-06-29: Summer '26 멀티에이전트·Tableau MCP로 제품 라인 강화 확인됐으나 점유율 데이터 여전히 부재)
 - [ ] **2026-06-15**: Contentful·Fin·M3ter 3건 동시 인수 통합 리스크가 FY27 마진에 가시적 영향을 줄 것 (pending — 6/22까지 마진 데이터 없음) (pending 2026-06-29: 3차 감원 단행으로 구조조정 압박 시사되나 마진 수치 직접 확인 안 됨)
 - [ ] **2026-06-22**: 'SaaS 종말론'(AI 에이전트의 구독모델 잠식 공포)이 CRM 펀더멘털 둔화로 실증될지, 과도한 공포인지 (7일 검증 대기) (pending 2026-06-29: 주가 실적 후 약 15% 하락하나 Agentforce ARR +205% 성장은 펀더멘털 견조 — 공포/실증 판별 아직 미완)
-- [ ] **2026-06-29**: 실적 후 약 15% 하락에도 골든크로스 발생 — 단기 반등(기술적 매수신호)이 실현될 것 (7일 검증 대기)
-- [ ] **2026-06-29**: MSFT Copilot·SAP Joule 연합의 에이전트 공세가 Agentforce ARR 성장률 둔화로 이어질 것 (7일 검증 대기)
+- [ ] **2026-06-29**: 실적 후 약 15% 하락에도 골든크로스 발생 — 단기 반등(기술적 매수신호)이 실현될 것 (7일 검증 대기) (partially verified 2026-07-06: Guggenheim이 AI 비관론을 '착각'이라며 매수 상향·목표가 228달러 제시(7/1) — 반등 신호 일부 확인되나 완전한 기술적 반등 여부는 추가 관찰 필요)
+- [ ] **2026-06-29**: MSFT Copilot·SAP Joule 연합의 에이전트 공세가 Agentforce ARR 성장률 둔화로 이어질 것 (7일 검증 대기) (pending 2026-07-06: Agentforce ARR 오히려 10억달러 돌파(+205% YoY)로 둔화 조짐 없음 — 계속 관찰)
+- [ ] **2026-07-06**: Guggenheim 매수 상향(목표가 228달러)이 다른 대형 하우스로 확산되며 밸류에이션 재평가를 이끌지 (7일 검증 대기)
+- [ ] **2026-07-06**: Contentful 인수가 Agentforce 콘텐츠 오케스트레이션 매출로 실제 연결될지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -61,6 +63,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-07-06
+
+**narrative_score**: 0.22
+**key_events**: Guggenheim, 투자의견 매수 상향(목표가 228달러) · Contentful 인수 계약 체결로 Agentforce 콘텐츠 계층 강화 · Agentforce ARR 10억달러 돌파(+205% YoY) · MuleSoft·마케팅클라우드 일부 인력 감축
+**risks**: 연초 대비 35% 이상 주가 하락에 따른 투자심리 위축 지속 가능성 · AI 소프트웨어 비관론이 밸류에이션에 계속 부담 · MSFT·ORCL 등 경쟁사의 AI 에이전트 공세 심화
+
+> [!claim] (출처: GuruFocus, 2026-07-01) Salesforce (CRM) Stock Upgraded to Buy with $228 Target Amid AI Concerns
+> Guggenheim, AI 비관론을 '착각'이라 평가하며 목표가 228달러로 상향, 투자의견 매수 전환. impact: + / category: other
+
+> [!claim] (출처: Salesforce Newsroom, 2026-06-01) Salesforce Signs Definitive Agreement to Acquire Contentful
+> 헤드리스 CMS 기업 Contentful 인수 계약 체결, Agentforce에 동적 콘텐츠 오케스트레이션 결합. impact: + / category: m&a
+
+> [!claim] (출처: Quartz, 2026-06-10) Salesforce layoffs hit Agentforce, MuleSoft, Marketing Cloud teams
+> MuleSoft·마케팅클라우드 등에서 인력 감축, 핵심 Agentforce 조직은 영향 제한적. impact: - / category: other
+
+> [!claim] (출처: TechHQ, 2026-06-18) Salesforce's Agentforce enterprise bet is paying off and the numbers prove it
+> Agentforce 연간반복매출(ARR) 전년比 205% 성장, 10억달러 돌파. impact: + / category: product
+
+**경쟁사 동향**:
+- MSFT: Microsoft 365 Copilot이 정식 유료 SKU로 전환, Anthropic·OpenAI 모델 선택 기능 추가 — MS Copilot의 기업용 AI 에이전트 확산이 Salesforce Agentforce와 직접 경쟁 구도 형성
+- ORCL: 오라클 FY2026 클라우드 애플리케이션 매출 +11%, AI 수주잔고 대폭 확대 — 오라클 Fusion 애플리케이션의 성장이 CRM 시장에서 Salesforce의 SaaS 입지에 경쟁 압력
+
+---
 
 ### 2026-06-29
 

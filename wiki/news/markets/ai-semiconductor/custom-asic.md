@@ -47,10 +47,10 @@ sources: ["https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-a
 |---|---|---|---|---|
 | Broadcom | 코디자인 ~60% (Google·Meta·OpenAI) · 점유 60% | +0.22 (2026-06-30) | OpenAI Jalapeño 칩·Q2 AI $10.8B이나 목표 미상향에 월 ~-20% | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
 | Marvell | ~25% (Amazon·Microsoft) · 점유 25% | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | [MRVL](../../tickers/MRVL - Marvell Technology, Inc.md) |
-| Google TPU | 최대 내부 XPU (v7 Ironwood) | +0.07 (2026-06-29) | 다우 편입·러셀 100% 성장주 재분류로 +3.7%, 핵심 AI 연구자 이탈, EU DMA 제미나이 개방 명령 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
-| Amazon Trainium | Trainium3 (3nm) | +0.31 (2026-06-29) | AWS GPU 가격 +20%(연 3회), 프라임데이 美온라인 +9.3%($26.4B), 시총 3조달러 기대 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
-| Microsoft Maia | 내부용 자체 실리콘 | +0.14 (2026-06-29) | 셰브론 20년 AI 전력계약(2.67GW), 버리 강세 베팅에 +5.7%, FTC Azure·Copilot 반독점 조사 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
-| Meta MTIA | 추론·랭킹용 자체 칩 | +0.14 (2026-06-29) | 칸 라이언즈 AI 광고툴·Brand Memory, CRED 9억달러 투자, 구글 Gemini 접근 제한 | [META](../../tickers/META - Meta Platforms Inc.md) |
+| Google TPU | 최대 내부 XPU (v7 Ironwood) | -0.12 (2026-07-06) | EU 41억유로 과징금 최종 확정·DOJ 검색 반독점 항소·딥마인드 핵심 연구자 이탈 3중고 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
+| Amazon Trainium | Trainium3 (3nm) | +0.24 (2026-07-06) | 프라임데이 264억달러(+9.3%) 최대 매출, AWS 기밀등급 클라우드 출시, FTC FCRA 225만달러 합의 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
+| Microsoft Maia | 내부용 자체 실리콘 | +0.12 (2026-07-06) | 6월 25년래 최악 월간낙폭(-$5700억)에도 Azure 기업 클라우드 점유율 55%로 확대, $2.5B 프론티어 컴퍼니 신설 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
+| Meta MTIA | 추론·랭킹용 자체 칩 | -0.05 (2026-07-06) | 잉여 AI컴퓨팅 판매 'Meta Compute' 클라우드 진출에 +9%, 저커버그 AI에이전트 지연 인정, 印 아동안전 경고 | [META](../../tickers/META - Meta Platforms Inc.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)

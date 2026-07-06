@@ -1,7 +1,7 @@
 ---
 title: "PLTR - Palantir Technologies Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-29
+updated: 2026-07-06
 domain: finance
 type: claim
 weight: reference
@@ -32,8 +32,10 @@ sources: []
 - [x] **2026-06-15**: 6/15 +5.2% 반등이 추세 전환점인지 단기 기술적 반등인지 (**refuted** 2026-06-22: 6/22 -4.32%, YTD -24% — 추세 전환 아닌 기술적 반등으로 확인)
 - [ ] **2026-06-15**: 구글 클라우드·GNP·McCarthy 파트너십이 민간 AIP 확산 가속 신호인지 (pending — 6/22까지 신규 민간 수주 데이터 없음) (pending 2026-06-29: Surf Air SurfOS 상용화 확대·엔비디아 주권 AI 엔진 발표로 파트너십 모멘텀 지속되나 재무 조건 비공개로 매출 기여 미확인)
 - [ ] **2026-06-22**: 영국 NHS FDP·Met Police 등 공공계약 역풍이 정부 매출 성장에 실질 제약을 가할지 (7일 검증 대기) (pending 2026-06-29: 6/29 뉴스에 영국 공공계약 후속 보도 없음 — 검증 미완)
-- [ ] **2026-06-29**: 엔비디아 Nemotron 기반 정부용 주권 AI 엔진이 PLTR 연방 매출 모멘텀을 오라클·IBM 경쟁 진입에도 방어할지 (7일 검증 대기)
-- [ ] **2026-06-29**: 'SaaSpocalypse' 매크로 매도세가 일시적 조정인지 고밸류 소프트웨어의 구조적 디레이팅인지 (7일 검증 대기)
+- [ ] **2026-06-29**: 엔비디아 Nemotron 기반 정부용 주권 AI 엔진이 PLTR 연방 매출 모멘텀을 오라클·IBM 경쟁 진입에도 방어할지 (7일 검증 대기) (verified 2026-07-06: 엔비디아와 소버린 AI 파트너십 공식 발표(7/1)로 주가 9% 급등, 美 육군 NGC2 프로그램이 파운드리를 핵심 클라우드 데이터 레이어로 채택 — 연방 매출 모멘텀 방어 확인)
+- [ ] **2026-06-29**: 'SaaSpocalypse' 매크로 매도세가 일시적 조정인지 고밸류 소프트웨어의 구조적 디레이팅인지 (7일 검증 대기) (partially verified 2026-07-06: 엔비디아 파트너십이라는 종목 특정 호재로 강한 반등 — 매크로 디레이팅보다 개별 촉매가 우세함을 시사하나, 섹터 전반 데이터는 여전히 부족)
+- [ ] **2026-07-06**: 엔비디아 소버린 AI 파트너십·美 육군 NGC2 채택이 실제 신규 연방 계약 매출로 정량 확인될지 (7일 검증 대기)
+- [ ] **2026-07-06**: 트럼프 대통령의 팔란티어 지분 보유 공개가 이해상충 논란·정부 계약 심사로 확대될지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,7 +51,8 @@ sources: []
 > Q1 adj EPS $0.33 (컨센서스 $0.27 대비 22% 초과). FY2026 매출 가이던스 $7.65~7.66B, +71% YoY. 미국 세 자릿수 성장.
 > [!fact] (GuruFocus + Yahoo Finance, 2026-06-15) PLTR +5.2% ($134.71), 목표가 $225 상향, YTD -24.2%
 > 구글 클라우드 딜·GNP Seguros·McCarthy Building 파트너십 다수 발표. GF Value $134.53 대비 현재가 균형점.
-
+> [!fact] (Palantir IR + NVIDIA Blog, 2026-07-01) 팔란티어-엔비디아 소버린 AI 운영체제 레퍼런스 아키텍처 파트너십 공식 발표
+> 정부·핵심시설용 보안 AI 환경에 엔비디아 Nemotron 개방형 모델 통합. 발표 당일 주가 약 9% 급등, 시가총액 약 220억달러 증가.
 <!-- FACTS_END -->
 
 ---
@@ -57,6 +60,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-07-06
+
+**narrative_score**: 0.49
+**key_events**: 엔비디아와 소버린 AI 파트너십 체결, 발표 당일 주가 약 9% 급등 · 미 육군 NGC2 프로그램에서 파운드리가 핵심 클라우드 데이터 레이어로 채택 · 제타 글로벌 등 상업 부문 계약 확대 · 2026년 매출 가이던스 76.5억달러 내외로 상향(전년比 약 71% 성장)
+**risks**: 고밸류에이션으로 인한 주가 변동성 위험(단기간 수백억달러 시가총액 등락 사례 존재) · 트럼프 대통령의 지분 보유 공개에 따른 이해상충 논란 가능성 · 정부·국방 계약 의존도 심화에 따른 정책·예산 리스크
+
+> [!claim] (출처: Palantir Investor Relations, 2026-07-01) Palantir and NVIDIA Team to Deliver Sovereign AI Operating System Reference Architecture
+> 팔란티어-엔비디아, 정부·핵심시설용 소버린 AI 파트너십 발표. impact: + / category: product
+
+> [!claim] (출처: NVIDIA Blog, 2026-06-29) Open Models, Closed Environments: Palantir Brings Secure AI to US Agencies With NVIDIA Nemotron
+> 엔비디아 네모트론 개방형 모델을 팔란티어 보안 환경에 통합, 정부기관 AI 배치 지원. impact: + / category: product
+
+> [!claim] (출처: 24/7 Wall St., 2026-07-01) Palantir Jumps 9% on NVIDIA Sovereign-AI Deal, Palo Alto Networks Climbs 4%
+> 엔비디아 파트너십 발표 후 팔란티어 주가 9% 급등, 시가총액 약 220억달러 증가. impact: + / category: product
+
+> [!claim] (출처: StocksToTrade, 2026-07-01) PLTR Stock Jumps As Nvidia AI Deal And Army Win Fuel Bullish Targets
+> 미 육군 NGC2 프로그램이 파운드리를 핵심 클라우드 데이터 레이어로 채택, 목표주가 상향 확산. impact: + / category: product
+
+**경쟁사 동향**:
+- ORCL: Oracle FY2027 가이던스: 매출 900억달러, 클라우드 매출 58~64% 성장 전망 발표 — 오라클의 공격적 AI 클라우드 인프라 확장은 정부·기업 AI 예산을 두고 팔란티어와 간접 경쟁을 심화시킬 수 있음
+- SNOW: 스노우플레이크 2027 회계연도 1분기 매출 +33.5%, Cortex AI 에이전트가 성장 견인 — 엔터프라이즈 AI 데이터 플랫폼 수요 확대를 보여주며, 팔란티어 파운드리와 고객사 확보 경쟁 가능성 시사
+
+---
 
 ### 2026-06-29
 

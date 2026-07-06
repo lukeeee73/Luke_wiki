@@ -1,7 +1,7 @@
 ---
 title: "ORCL - Oracle Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-29
+updated: 2026-07-06
 domain: finance
 type: claim
 weight: reference
@@ -32,8 +32,10 @@ sources: []
 - [ ] **2026-06-15**: Q4 후 주가 $180~184 급락이 단기 과매도로 4~6주 내 $200 회복될 것 (**refuted** 2026-06-29: 회복은커녕 6/26 주간 19% 추가 급락, 고점比 53% 하락 — 4~6주 윈도 내 회복 실패)
 - [ ] **2026-06-22**: MS와의 클라우드 계약 결렬 보도(FedRAMP)가 공공부문 수주에 실질 타격인지, 오라클 반박대로 무근거인지 (pending 2026-06-29: 오늘 뉴스에 추가 진전 없음, 자금조달 이슈에 묻힘)
 - [ ] **2026-06-22**: RPO $638B 폭증이 실제 매출 실현으로 이어져 마진·capex 우려를 상쇄할지 (pending 2026-06-29: RPO $638B·OCI +93% 재확인됐으나 자금조달 우려가 여전히 투자심리 지배, 상쇄 미확인)
-- [ ] **2026-06-29**: 1300억 달러 부채·마이너스 FCF·FY27 400억 달러 추가 조달 우려가 펀더멘털(RPO/OCI) 강세를 가리며 주가 약세가 추가 지속될 것 (7일 검증 대기)
-- [ ] **2026-06-29**: AI 기반 21,000명(13%) 감축이 단기 비용절감으로 마진 개선에 기여할지 vs 성장 둔화 신호일지 (7일 검증 대기)
+- [ ] **2026-06-29**: 1300억 달러 부채·마이너스 FCF·FY27 400억 달러 추가 조달 우려가 펀더멘털(RPO/OCI) 강세를 가리며 주가 약세가 추가 지속될 것 (7일 검증 대기) (pending 2026-07-06: 오늘 뉴스에 신규 주가·재무 데이터 없음 — 검증 대기 지속)
+- [ ] **2026-06-29**: AI 기반 21,000명(13%) 감축이 단기 비용절감으로 마진 개선에 기여할지 vs 성장 둔화 신호일지 (7일 검증 대기) (pending 2026-07-06: 오늘 뉴스에 마진 데이터 없음 — 검증 대기 지속)
+- [ ] **2026-07-06**: SAP-IBM의 클라우드 ERP 공동전선(Power VS 연계)이 오라클 Fusion/NetSuite 고객 이탈로 이어질지 (7일 검증 대기)
+- [ ] **2026-07-06**: MS Build 2026 자체 AI 모델 공개가 OCI의 AI 워크로드 수주 경쟁력을 잠식할지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -65,6 +67,27 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-07-06
+
+**narrative_score**: 0.16
+**key_events**: FY2026 매출·클라우드 매출 사상 최대치 경신 · FY27 설비투자 약 700억달러 가이던스에 주가 급락(현금 우려) · AI 도입 여파로 인력 2만1000명(13%) 감축 · 부채·지분 조달 40억~430억달러 규모로 자금 조달 지속
+**risks**: 공격적 설비투자로 인한 잉여현금흐름 적자 심화 · 부채 의존 확대에 따른 금리 민감도 상승 · SAP·IBM 등 경쟁사의 클라우드 ERP 공동전선 강화
+
+> [!claim] (출처: Oracle Investor Relations, 2026-06-10) Oracle Announces Record Q4 and FY2026 Results Driven by Cloud Infrastructure & Cloud Applications
+> FY26 매출 674억달러(+17%), 클라우드 매출 340억달러(+39%), OCI 매출 +77% 사상 최대 실적. impact: + / category: earnings
+
+> [!claim] (출처: Bloomberg, 2026-06-10) Oracle Reports Higher-Than-Expected Data Center Spending
+> FY27 설비투자 약 700억달러 전망에 주가 급락, AI 투자 대비 현금흐름 우려 부각. impact: - / category: earnings
+
+> [!claim] (출처: Bloomberg, 2026-06-22) Oracle Layoffs Fueled by AI, Reduces Workforce by 21,000
+> AI 도입 등으로 지난 1년간 인력 약 2만1000명(13%) 감축, 구조조정 비용 18.4억달러. impact: - / category: other
+
+**경쟁사 동향**:
+- SAP: SAP-IBM, 대기업 대상 SAP Cloud ERP Private on IBM Power Virtual Server 공동 도입 확대 발표 (7/2) — SAP·IBM 연합이 클라우드 ERP 시장에서 오라클의 Fusion/NetSuite 애플리케이션 사업과 직접 경쟁
+- MSFT: 마이크로소프트 Build 2026 에서 에이전트 중심 AI 전략과 자체 모델(MAI-Code-1-Flash 등) 공개 — MS Azure의 AI 인프라 자립 시도가 OCI를 포함한 하이퍼스케일러 간 AI 워크로드 경쟁을 심화
+
+---
 
 ### 2026-06-29
 

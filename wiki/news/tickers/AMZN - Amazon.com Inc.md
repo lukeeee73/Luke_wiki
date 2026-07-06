@@ -1,7 +1,7 @@
 ---
 title: "AMZN - Amazon.com Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-29
+updated: 2026-07-06
 domain: finance
 type: claim
 weight: reference
@@ -32,8 +32,10 @@ sources: []
 - [x] **2026-06-15**: EU 클라우드 조달 + FTC 반독점 소송이 AWS 정부 계약에 실질 제약을 가할 것 (**partially verified** 2026-06-22: FTC 광고 소송 초안 작성·EU DMA 클라우드 예비 판단으로 규제 압박 실질화 진행)
 - [ ] **2026-06-22**: FTC 광고사업 소송 초안이 실제 제소·대규모 벌금으로 이어질지 (7일 검증 대기) (pending 2026-06-29: 오늘 뉴스에 진전 없음, FTC 프라임 합의(2.5B) 환불 잔여만 언급)
 - [ ] **2026-06-22**: Trainium 외부 판매가 엔비디아 의존 완화·AI 칩 신규 매출원으로 구체화될지 (7일 검증 대기) (pending 2026-06-29: 오늘 뉴스에 진전 없음)
-- [ ] **2026-06-29**: AWS의 연내 세 번째 GPU 가격 인상(~20%)이 고객 이탈 없이 AWS 가격 결정력·마진 개선으로 이어질지 (7일 검증 대기)
-- [ ] **2026-06-29**: AWS AI 모멘텀+프라임데이 호조가 시총 3조 달러 달성 재료로 굳어질지 (7일 검증 대기)
+- [ ] **2026-06-29**: AWS의 연내 세 번째 GPU 가격 인상(~20%)이 고객 이탈 없이 AWS 가격 결정력·마진 개선으로 이어질지 (7일 검증 대기) (pending 2026-07-06: 오늘 뉴스에 고객 이탈·마진 관련 후속 데이터 없음 — 검증 대기 지속)
+- [ ] **2026-06-29**: AWS AI 모멘텀+프라임데이 호조가 시총 3조 달러 달성 재료로 굳어질지 (7일 검증 대기) (partially verified 2026-07-06: 프라임데이 미국 온라인 매출 264억달러(+9.3%)로 Fortune이 재확인, 다만 시총 3조달러 달성 여부는 미확인 — 검증 지속)
+- [ ] **2026-07-06**: AWS 기밀등급 클라우드(ASCI)·노스롭그루먼 파트너십이 정부·국방 부문 신규 매출원으로 확대될지 (7일 검증 대기)
+- [ ] **2026-07-06**: FTC 반독점 재판이 2027년 3월로 재연기된 것이 규제 리스크 완화 신호인지, 불확실성 장기화인지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -55,6 +57,8 @@ sources: []
 
 > [!fact] (About Amazon + AWS 공식, 2026-06-17~18) 프라임데이 2026 6/23~26 확정 + AWS NY 서밋 Bedrock AgentCore 정식출시
 > 4일간 프라임데이 + 에이전트 AI 대거 발표로 리테일·클라우드 양축 모멘텀.
+> [!fact] (FTC 공식 보도자료, 2026-06-30) Amazon, FCRA(공정신용보고법) 위반 관련 225만달러 벌금 합의
+> 신원도용 피해자에게 관련 기록을 제공하지 않은 혐의로 FTC와 합의. 별도로 FTC-Amazon 반독점 재판은 2027년 3월로 재연기(MLex, 2026-07-02).
 <!-- FACTS_END -->
 
 ---
@@ -62,6 +66,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-07-06
+
+**narrative_score**: 0.24
+**key_events**: 프라임데이 2026 미국 온라인 매출 264억달러(+9.3%) 기록 · AWS 기밀등급 클라우드(ASCI) 출시, 노스롭그루먼 첫 파트너 · FTC와 FCRA 위반 관련 225만달러 벌금 합의 · FTC 반독점 재판 2027년 3월로 재연기
+**risks**: FTC 반독점 소송이 장기화되며 사업 관행에 대한 불확실성 지속 · 월마트 등 경쟁사의 구글 AI 제휴로 리테일 AI 경쟁 심화 · AI 인프라 투자 확대에 따른 자본지출 부담
+
+> [!claim] (출처: Fortune, 2026-06-27) Amazon Prime Day total online spending surpasses Adobe estimate
+> 6/23~26 프라임데이 미국 이커머스 매출 264억달러, 전년比 9.3% 증가. impact: + / category: earnings
+
+> [!claim] (출처: Federal Trade Commission, 2026-06-30) FTC Requires Amazon to Pay $2.25 Million to Resolve Charges It Knowingly Violated the Fair Credit Reporting Act
+> 아마존, 신원도용 피해자 기록 미제공 관련 FCRA 위반으로 225만달러 벌금 합의. impact: - / category: regulation
+
+> [!claim] (출처: About Amazon (AWS), 2026-06-24) AWS Secret Cloud for Industry gives defense contractors a faster, more secure path to classified innovation
+> AWS, 노스롭그루먼 등 방산업체 대상 기밀 등급 클라우드 신규 서비스 출시, 최대 2천만달러 지원. impact: + / category: product
+
+> [!claim] (출처: MLex, 2026-07-02) US FTC-Amazon antitrust trial pushed back to March 2027
+> FTC 반독점 소송 재판일이 2027년 3월로 추가 연기, 정부 셧다운 여파. impact: neutral / category: regulation
+
+**경쟁사 동향**:
+- MSFT: Microsoft 365 Business Standard/Premium with Copilot이 2026년 7월 1일부터 정식 SKU로 전환 — MS가 Copilot을 정규 유료 상품화하며 기업용 AI 생산성 시장에서 AWS의 엔터프라이즈 AI 입지에 압박 요인
+- WMT: 월마트, 재고·결제 시스템을 구글 Gemini AI와 통합하고 광고 매출이 Snap·Pinterest를 추월 (7/6) — 소매 AI 에이전트 경쟁에서 월마트가 구글과 밀착, 아마존의 리테일 미디어·AI 쇼핑 주도권에 견제 요인
+
+---
 
 ### 2026-06-29
 

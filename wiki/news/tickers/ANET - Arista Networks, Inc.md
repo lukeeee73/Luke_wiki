@@ -26,6 +26,8 @@ sources: []
 루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
 
 <!-- OPEN_CLAIMS_START -->
+- [ ] **2026-07-06**: 1.6Tbps 7060XE7 스위치의 메타·MS·오라클 채택 검증이 실제 대형 수주·매출 성장으로 이어질지 (7일 검증 대기)
+- [ ] **2026-07-06**: 브로드컴·마벨의 신규 스위치 실리콘(Tomahawk 6, Teralynx T100) 공세가 아리스타의 이더넷 스위치 점유율을 잠식할지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -35,6 +37,8 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (Arista Networks 공식 보도자료, 2026-06-09) 1.6Tbps 7060XE7 스위치 시리즈 출시, 메타·MS·오라클 검증 완료
+> 브로드컴 Tomahawk 6 실리콘 기반 차세대 AI 패브릭 포트폴리오. 이후 KeyBanc·BofA·모건스탠리가 목표주가를 190~200달러로 상향(2026-07-06).
 <!-- FACTS_END -->
 
 ---
@@ -42,4 +46,25 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-07-06
+
+**narrative_score**: 0.46
+**key_events**: 1.6Tbps 7060XE7 스위치 시리즈 출시, 메타·마이크로소프트·오라클이 채택 검증 · KeyBanc·BofA·모건스탠리가 목표주가를 190~200달러로 상향 · 7월 6일 주가 8%대 급등, 애널리스트 컨센서스 Buy 유지(17개사)
+**risks**: DCF 대비 프리미엄 밸류에이션 부담 · 브로드컴·마벨·시스코의 AI 스위치 실리콘 경쟁 심화 (co-packaged optics, NVLink Fusion 등 신기술 경쟁)
+
+> [!claim] (출처: StocksToTrade, 2026-07-06) Arista Networks Stock Rallies As Wall Street Chases AI Switch Boom
+> AI 스위치 수요와 애널리스트 목표주가 상향에 힘입어 아리스타 주가가 8% 이상 급등. impact: + / category: other
+
+> [!claim] (출처: Timothy Sykes, 2026-07-06) Arista Networks (ANET) Draws Fresh AI Price Target Upgrades
+> KeyBanc·BofA·모건스탠리가 AI 네트워킹 수요를 근거로 목표주가를 190~200달러로 상향. impact: + / category: earnings
+
+> [!claim] (출처: Arista Networks (company IR), 2026-06-09) Arista Introduces Next-Generation 1.6 Terabit Portfolio for AI Fabrics
+> 메타·MS·오라클이 검증한 1.6Tbps 7060XE7 스위치 시리즈 출시, 브로드컴 Tomahawk 6 실리콘 기반. impact: + / category: product
+
+**경쟁사 동향**:
+- MRVL: Marvell enters AI network fray with 102.4 Tbps Teralynx T100 switch silicon; NVIDIA also invested $2B in Marvell for NVLink Fusion scale-up partnership — 마벨의 저전력 102.4Tbps 스위치와 엔비디아와의 스케일업 네트워킹 제휴가 아리스타의 이더넷 스위치 포지션에 경쟁 압박으로 작용할 수 있음
+- AVGO: Broadcom shipping 102.4 Tbps switch in volume and leading a new Optical Scale-up Consortium with Arista, Cisco, Meta, Microsoft, NVIDIA, Oracle at OFC 2026 — 아리스타도 컨소시엄 참여사이나 핵심 스위치 실리콘을 브로드컴에 의존하는 구조라 공급망 집중 리스크가 부각됨
+
+---
 <!-- DAILY_END -->

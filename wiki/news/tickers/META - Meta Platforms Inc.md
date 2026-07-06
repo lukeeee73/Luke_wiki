@@ -1,7 +1,7 @@
 ---
 title: "META - Meta Platforms Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-29
+updated: 2026-07-06
 domain: finance
 type: claim
 weight: reference
@@ -33,6 +33,8 @@ sources: []
 - [ ] **2026-06-22**: AI 조직 핵심 임원(Emily Dalton Smith) 이탈이 AI 실행력에 실질 타격을 줄지 (7일 검증 대기) (pending 2026-06-29: 추가 이탈·실행 차질 보도 없음, 칸 라이언즈 AI 솔루션·신규 AI 기능 출시는 정상 진행)
 - [ ] **2026-06-29**: 구글의 Gemini 접근 제한이 메타의 자체모델 전환·내부 AI 프로젝트 지연으로 실질 비용·실행 리스크가 될지 (7일 검증 대기)
 - [ ] **2026-06-29**: CRED 9억달러 투자·Kunal Shah의 WhatsApp 수장 선임이 핀테크/결제 기반 신규 수익원으로 가시화될지 (7일 검증 대기)
+- [ ] **2026-07-06**: 잉여 AI 컴퓨팅 판매 'Meta Compute' 클라우드 사업이 실제 신규 매출원으로 구체화될지, 마진 희석으로 끝날지 (7일 검증 대기)
+- [ ] **2026-07-06**: 인도 정부의 인스타그램 아동안전 경고(7일 시한)가 실제 제재·서비스 제한으로 확대될지 (7일 검증 대기)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -61,6 +63,30 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-07-06
+
+**narrative_score**: -0.05
+**key_events**: 잉여 AI 컴퓨팅을 판매하는 'Meta Compute' 클라우드 사업 검토 보도, 주가 9% 급등 (7/1) · 저커버그, AI 에이전트 개발 속도가 기대에 못 미친다고 사내 타운홀에서 인정 (7/2) · 인도 정부, 인스타그램 아동 성착취물 광고 관련 메타에 7일 시한 경고 통지 (7/6)
+**risks**: 1450억달러 규모 AI 투자 대비 성과 지연에 따른 ROI 우려 · 인도발 아동안전 규제 리스크가 확대될 가능성 · 클라우드 사업 전환에 따른 마진 희석 우려
+
+> [!claim] (출처: CNBC, 2026-07-01) Meta pops 9% as company makes cloud push to sell excess AI compute power capacity
+> 메타, 잉여 AI 컴퓨팅 자원을 외부에 판매하는 'Meta Compute' 클라우드 사업 검토 소식에 주가 9% 급등. impact: + / category: product
+
+> [!claim] (출처: CNBC, 2026-07-02) Meta's push into cloud excites Wall Street despite lower margins
+> 월가는 메타의 클라우드 진출을 반기면서도 향후 마진 하락 가능성에 대한 우려를 제기. impact: neutral / category: other
+
+> [!claim] (출처: PYMNTS (citing Reuters), 2026-07-02) Zuckerberg tells Meta employees AI agents are advancing slower than expected
+> 저커버그, 사내 타운홀에서 AI 에이전트 개발 속도가 기대에 못 미친다고 인정, 1450억달러 투자·8000명 감원의 정당성에 의문. impact: - / category: earnings
+
+> [!claim] (출처: CNBC, 2026-07-06) Meta's woes deepen in India as child abuse ads on Instagram draw government ire
+> 인도 정부, 인스타그램의 아동 성착취물 광고 방치 관련 메타에 7일 내 해명을 요구하는 경고 통지 발송. impact: - / category: regulation
+
+**경쟁사 동향**:
+- GOOGL: Google's AI Overviews surpass 2 billion monthly users across 200+ countries — 구글의 AI 검색 지배력 확대는 메타의 디지털 광고 점유율 경쟁에 위협 요인으로 작용
+- SNAP: Snap down 41% YTD, issues cautious Q2 guidance, ends Perplexity deal, cuts 16% of workforce — 스냅의 부진은 광고주 예산이 메타로 이동할 가능성을 시사하며 메타에 상대적으로 긍정적
+
+---
 
 ### 2026-06-29
 

@@ -47,7 +47,7 @@ NPU 탑재 SoC로 생성형 AI를 단말에서 직접 구동하는 스마트폰.
 |---|---|---|---|---|
 | MediaTek | AP-SoC ~40% (물량 1위) · 점유 40% | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | [2454.TW](../../tickers/2454.TW - MediaTek Inc.md) |
 | Qualcomm | ~24% 프리미엄 Android · 점유 24% | +0.41 (2026-06-30) | Investor Day 목표 상향·Dragonfly CPU·Modular $3.92B 인수 | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
-| Apple | ~17% 자체 A시리즈 · 점유 17% | -0.23 (2026-06-29) | 메모리 부족發 맥·아이패드 가격 인상에 1년래 최악 급락, 中 sell-in -19%, Counterpoint 점유율 사상최고 전망 | [AAPL](../../tickers/AAPL - Apple Inc.md) |
+| Apple | ~17% 자체 A시리즈 · 점유 17% | +0.20 (2026-07-06) | 아이폰 5종·접이식 '울트라' 1000만대 생산 확대 계획, 中 메모리 조달 다변화 소식에 $300 재돌파 | [AAPL](../../tickers/AAPL - Apple Inc.md) |
 | Samsung LSI | ~5% Exynos · 점유 5% | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
 | UNISOC | 저가형 (비상장/중국) · 점유 13% | — | — | 비상장 |
 <!-- PLAYERS_END -->
