@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-07-03
+updated: 2026-07-06
 domain: finance
 type: index
 weight: reference
@@ -21,15 +21,17 @@ sources: []
 
 | 요일 | 처리 섹터 | 종목 수 |
 |---|---|---|
-| 월요일 | 빅테크 / 소프트웨어 | 10 종목 |
-| 화요일 | 반도체 | 10 종목 |
-| 수요일 | 자동차 / 모빌리티 + 조선 (한국) | 14 종목 |
+| 월요일 | 빅테크 / 소프트웨어 + AI 인프라 (네트워킹·광·네오클라우드) | 15 종목 |
+| 화요일 | 반도체 4개 그룹 (AI 칩·설계 / 메모리 / 파운드리·패키징 / 장비·소재) | 27 종목 |
+| 수요일 | 로보틱스 / 피지컬 AI + 자동차 / 모빌리티 + 조선 (한국) | 19 종목 |
 | 목요일 | 바이오 / 제약 / 헬스케어 | 10 종목 |
-| 금요일 | 에너지 / 원자재 + 유틸리티 / 전력 | 20 종목 |
+| 금요일 | 에너지 / 원자재 + 유틸리티 / 전력 + 전력 인프라 (AI) | 30 종목 |
 | 토요일 | 금융 + 부동산 (REITs) | 20 종목 |
-| 일요일 | 소비재 + 산업재 / 방산 + 통신 / 미디어 | 30 종목 |
+| 일요일 | 소비재 + 산업재 / 방산 + 통신 / 미디어 | 34 종목 |
 
 > 루틴은 실행되는 요일을 자동 감지해 그날 처리할 섹터만 뉴스 수집 → narrative_score → wiki/news 업데이트를 수행한다.
+> 담당 섹터 처리 후에는 그 종목들이 속한 **시장 노드 종합 파일** (`markets/ai-semiconductor/{market_id}.md`) 의
+> [소속 기업 동향] 섹션도 함께 갱신한다 (2026-07-06 신설 — 규칙은 [markets/README.md](markets/README.md)).
 
 ## 최신 스냅샷 (섹터별)
 
@@ -48,20 +50,63 @@ sources: []
 | [IBM](tickers/IBM - International Business Machines.md) | 2026-06-29 | +0.20  | 세계 첫 0.7nm 나노스택 칩 공개(성능+50%), ServiceNow·OpenAI 협력, +4.91% | 3           |
 | [PLTR](tickers/PLTR - Palantir Technologies Inc.md)     | 2026-06-29 | +0.27  | 엔비디아 Nemotron 주권 AI 엔진·Surf Air 확대, 'SaaSpocalypse'에 YTD -40% | 4           |
 
-### 반도체
+### 반도체 — AI 칩 · 설계
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
 | [NVDA](tickers/NVDA - NVIDIA Corporation.md) | 2026-06-30 | +0.38 | Palantir 정부 AI·RTX Spark·Vera Rubin 풀생산, 단 5월 고점 대비 -23% | 7 |
 | [AMD](tickers/AMD - Advanced Micro Devices.md) | 2026-06-30 | +0.52 | 데이터센터 +57%·Gartner 최강자·Rackspace 30MW, 중국 규제 리스크 | 9 |
-| [TSM](tickers/TSM - Taiwan Semiconductor Mfg.md) | 2026-06-30 | +0.29 | 첨단노드 90% 점유·5~10% 인상·Winbond 협력, ITC 예비판정 리스크 | 6 |
-| [AVGO](tickers/AVGO - Broadcom Inc.md) | 2026-06-30 | +0.22 | OpenAI Jalapeño 칩·Q2 AI $10.8B이나 목표 미상향에 월 ~-20% | 8 |
 | [INTC](tickers/INTC - Intel Corporation.md) | 2026-06-30 | +0.43 | Cantor $150(+67%)·18A-P 리스크생산·TSMC 인상 반사이익, +7.2% | 8 |
 | [QCOM](tickers/QCOM - QUALCOMM Incorporated.md) | 2026-06-30 | +0.41 | Investor Day 목표 상향·Dragonfly CPU·Modular $3.92B 인수 | 7 |
+| [AVGO](tickers/AVGO - Broadcom Inc.md) | 2026-06-30 | +0.22 | OpenAI Jalapeño 칩·Q2 AI $10.8B이나 목표 미상향에 월 ~-20% | 8 |
+| [MRVL](tickers/MRVL - Marvell Technology, Inc.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+| [2454.TW](tickers/2454.TW - MediaTek Inc.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+| [MBLY](tickers/MBLY - Mobileye Global Inc.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+| [SNPS](tickers/SNPS - Synopsys, Inc.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+| [CDNS](tickers/CDNS - Cadence Design Systems.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+| [ARM](tickers/ARM - Arm Holdings plc.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+
+### 반도체 — 메모리 (HBM·DRAM)
+
+| Ticker | as_of | score | 핵심 한 줄 | open claims |
+|---|---|---|---|---|
+| [005930.KS](tickers/005930.KS - Samsung Electronics.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+| [000660.KS](tickers/000660.KS - SK Hynix.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+| [MU](tickers/MU - Micron Technology.md) | 2026-06-30 | +0.26 | Q3 기록 $41.46B·Q4 $50B·$100B 다년계약, SK하이닉스 HBM 경쟁 | 10 |
+
+### 반도체 — 파운드리 · 패키징 · 기판
+
+| Ticker | as_of | score | 핵심 한 줄 | open claims |
+|---|---|---|---|---|
+| [TSM](tickers/TSM - Taiwan Semiconductor Mfg.md) | 2026-06-30 | +0.29 | 첨단노드 90% 점유·5~10% 인상·Winbond 협력, ITC 예비판정 리스크 | 6 |
+| [AMKR](tickers/AMKR - Amkor Technology, Inc.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+| [4062.T](tickers/4062.T - Ibiden Co., Ltd.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+
+### 반도체 — 장비 · 소재
+
+| Ticker | as_of | score | 핵심 한 줄 | open claims |
+|---|---|---|---|---|
 | [ASML](tickers/ASML - ASML Holding NV.md) | 2026-06-30 | +0.42 | 삼성·SK 한국 팹 투자로 +6.8% 신고가, MATCH법 DUV ~20% 리스크 | 6 |
 | [AMAT](tickers/AMAT - Applied Materials.md) | 2026-06-30 | +0.29 | 신규 6개 AI 칩장비·KeyBanc $750로 6/29 ~+10% 급등 | 6 |
 | [LRCX](tickers/LRCX - Lam Research Corp.md) | 2026-06-30 | +0.34 | Cantor $500·Russell Top50 편입·삼성 1.4nm 재개, YTD +114% | 6 |
-| [MU](tickers/MU - Micron Technology.md) | 2026-06-30 | +0.26 | Q3 기록 $41.46B·Q4 $50B·$100B 다년계약, SK하이닉스 HBM 경쟁 | 10 |
+| [TOELY](tickers/TOELY - Tokyo Electron Limited.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+| [KLAC](tickers/KLAC - KLA Corporation.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+| [042700.KS](tickers/042700.KS - Hanmi Semiconductor.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+| [6857.T](tickers/6857.T - Advantest Corporation.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+| [6146.T](tickers/6146.T - DISCO Corporation.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+| [BESI.AS](tickers/BESI.AS - BE Semiconductor Industries.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+| [4063.T](tickers/4063.T - Shin-Etsu Chemical.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+
+### AI 인프라 — 네트워킹 · 광 · 네오클라우드
+
+| Ticker | as_of | score | 핵심 한 줄 | open claims |
+|---|---|---|---|---|
+| [ANET](tickers/ANET - Arista Networks, Inc.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+| [COHR](tickers/COHR - Coherent Corp.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+| [MPWR](tickers/MPWR - Monolithic Power Systems.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+| [CRWV](tickers/CRWV - CoreWeave, Inc.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+| [NBIS](tickers/NBIS - Nebius Group N.V.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+
 ### 로보틱스 / 피지컬 AI
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
@@ -69,6 +114,8 @@ sources: []
 | [TER](tickers/TER - Teradyne, Inc.md) | 2026-06-30 | +0.44 | Cantor $550·나스닥100 편입·공군 $139.9M, YTD +140% 부담 | 6 |
 | [HSAI](tickers/HSAI - Hesai Group.md) | 2026-06-30 | +0.30 | Q2 +20~27% 가이던스·로보틱스 확대·8:1 분할, 마진 하락 우려 | 6 |
 | [MP](tickers/MP - MP Materials Corp.md) | 2026-06-30 | +0.18 | Q1 NdPr 917톤 기록·Needham 매수·상용 자석생산, 중국 수출통제 리스크 | 7 |
+| [6954.T](tickers/6954.T - FANUC Corporation.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+| [6324.T](tickers/6324.T - Harmonic Drive Systems.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
 ### 자동차 / 모빌리티
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |

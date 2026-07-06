@@ -1,0 +1,70 @@
+---
+title: "첨단 파운드리 (≤3nm) — 시장 종합"
+created: 2026-07-06
+updated: 2026-07-06
+domain: finance
+type: claim
+weight: reference
+confidence: low
+tags: [routine-news, market-summary, ai-semiconductor, foundry]
+map: ai-semiconductor
+market_id: foundry
+sources: ["https://www.trendforce.com/presscenter/news/20260312-12965.html"]
+---
+
+# 첨단 파운드리 (≤3nm) — 시장 종합
+
+**Leading-Edge Foundry** · ⑤ 제조 기반 · 규모 파운드리 총 ~$169.5B (’25, +26% YoY) · 성장 선단(≤3nm)이 최고속
+
+> [!info] 자동 종합 노트
+> 이 파일은 시장지도 노드 `foundry` 의 종합 페이지다. `indicator_dashboard` 루틴이 관리한다 —
+> **daily-market-analysis** 루틴이 담당 요일에 [소속 기업 동향]을, **market-research** 루틴이 주 1회
+> [시장 정의]·[병목 상태]·[시장 상황 종합]·[시장 뉴스 로그]를 갱신한다. HTML 마커는 루틴의 앵커이므로 지우지 않는다.
+> 사람은 굳어진 사실을 `wiki/topics/` 로 승격(promote)만 한다.
+
+## 시장 정의
+
+AI 가속기·모바일 AP·HPC를 만드는 최첨단 로직(3nm/2nm GAA) 위탁생산.
+
+**수요 동인** — AI 가속기·HPC·프리미엄 모바일 AP. Apple이 N2 초기물량 >50% 선점, NVIDIA/AMD/QCOM이 잔여 경쟁.
+
+## 병목 상태 — 🔴 급성 병목 (`acute`)
+
+> [!claim] (출처: 시장지도 as_of 2026-06)
+> 선단 웨이퍼 용량 ~2028까지 예약. GAA 나노시트 수율 램프 + EUV 멀티패터닝 복잡도. N2 웨이퍼 ASP ~$30,000(무할인). 대만에 ≤5nm 집중 = 시스템 단일 장애점.
+
+## 시장 상황 종합
+
+<!-- SYNTHESIS_START -->
+> [!claim] (as_of 2026-06 · market-research 루틴)
+> N2 양산 개시, 선단 용량 ’28까지 예약. 대만 집중 리스크에 미·일 증설 진행.
+<!-- SYNTHESIS_END -->
+
+## 소속 기업 동향
+
+<!-- PLAYERS_START -->
+| 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
+|---|---|---|---|---|
+| TSMC | 총 ~70% · 선단 ≤5nm 90%+ · 점유 70% | +0.29 (2026-06-30) | 첨단노드 90% 점유·5~10% 인상·Winbond 협력, ITC 예비판정 리스크 | [TSM](../../tickers/TSM - Taiwan Semiconductor Mfg.md) |
+| Samsung Foundry | ~7% (2nm GAA) · 점유 7% | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
+| Intel Foundry | ~6% (18A, 외부고객 1곳) · 점유 6% | +0.43 (2026-06-30) | Cantor $150(+67%)·18A-P 리스크생산·TSMC 인상 반사이익, +7.2% | [INTC](../../tickers/INTC - Intel Corporation.md) |
+| GlobalFoundries | 성숙·특수공정 | watchlist 외 | — | `GFS` |
+| SMIC | 중국 최대 (DUV 7nm) | watchlist 외 | — | `0981.HK` |
+<!-- PLAYERS_END -->
+
+## 시장 뉴스 로그 (최신순)
+
+<!-- MARKET_NEWS_START -->
+_아직 수집된 시장 단위 뉴스가 없다 — market-research 루틴이 채운다._
+<!-- MARKET_NEWS_END -->
+
+## 사실 누적 (Verified Facts)
+
+<!-- FACTS_START -->
+<!-- FACTS_END -->
+
+## 관련 위키
+
+- [TSMC](../../../entities/tsmc.md)
+- [중국 반도체 격차 — SMIC 의 한계](../../../topics/china-chip-gap-deepseek-v4.md)
+- [반도체·AI 칩 가치사슬 종합 — 내 판단](../../../syntheses/semiconductor-ai-chip-value-chain.md)

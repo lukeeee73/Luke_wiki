@@ -31,6 +31,8 @@ sources: []
 - [ ] **2026-06-27**: SEGRO 인수 추진(7/22 Rule 2.6 마감) — 정식 제안/철회 및 FFO 희석 여부 (pending)
 - [ ] **2026-06-13**: PLD 52주 신고가 $147.93 — 밸류에이션 과열 우려 vs 펀더멘탈 지지 여부 Q3 실적에서 확인 (pending)
 - [ ] **2026-06-13**: RBC $148·Truist $154·Citi $145 목표주가 집중 — 목표주가 달성 여부 6개월 추적 (pending)
+- [x] **2026-05-17**: PLD 데이터센터 개발 착공 $4.5-5.5B — AI 수요 포착 전략 (verified) — 2026-06-06: Q1 데이터센터 BTS $1.3B 확인, FY 가이던스 상향으로 전략 실행 확인
+- [x] **2026-05-17**: PLD Q1 순이익 +66% YoY — 포트폴리오 리밸런싱 효과 (verified) — 2026-06-06: 2026-06-02 StockTitan 보도로 역대 최대 임대 64M sqft 및 가이던스 상향 추가 확인
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -40,6 +42,8 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] (확인: StockTitan 2026-06-02 + GuruFocus 2026-06-04) PLD Q1 2026 역대 최대 임대 및 가이던스 상향
+> Q1 임대 64M sqft 역대 최대, 데이터센터 BTS $1.3B, FY EPS 가이던스 $3.80-4.05 상향. P/E 34.9배로 업종 평균(15배) 대비 고평가 논란 병존.
 <!-- FACTS_END -->
 
 ---
@@ -94,4 +98,45 @@ sources: []
 - PSA: NSA 전략적 결합 제안 (자산 +30%) — 산업 부동산 M&A 물결
 - EQIX: AI Fabric 예약 +70% — 데이터센터 REIT 강세, PLD의 BTS 데이터센터 사업 경쟁 시장
 
+
+### 2026-06-06
+
+**narrative_score**: +0.12 (전회 +0.18, Δ -0.06)
+**key_events**: Q1 역대 최대 임대 64M sqft、데이터센터 BTS $1.3B、연간 EPS 가이던스 상향
+**risks**: P/E 34.9배(업종 평균의 2배) 고평가 우려、금리 환경 압박
+
+> [!claim] (출처: StockTitan, 2026-06-02) PLD Q1: record 64M sqft leasing, $1.3B data center BTS, raises FY EPS guidance to $3.80-4.05
+> 역대 최대 임대 및 가이던스 상향. impact: + / category: earnings
+
+> [!claim] (출처: StockTitan, 2026-06-02) PLD CEO Letter, CFO Arndt at REITweek 2026
+> 물류·데이터센터 전략 공유. impact: neutral / category: other
+
+> [!claim] (출처: GuruFocus, 2026-06-04) PLD shares fall 3.1%-4.7%; P/E 34.9x vs 15x industry
+> 고평가 우려 주가 조정. impact: - / category: other
+
+**경쟁사 동향**:
+- EQIX: AI 수요 $10B 가이던스
+- PSA: NSA 인수로 물류 자산 통합 가능성
+
+### 2026-05-17
+
+**narrative_score**: +0.18 (전회 —, Δ —)
+**key_events**: Q1 EPS +29.6% 대폭 상회·순이익 +66%、데이터센터 개발 착공 $4.5-5.5B、BMO 아웃퍼폼 업그레이드·$162 목표
+**risks**: 데이터센터 공급 과잉 리스크 중기 주시、금리 유지 시 REIT 배당 매력 상대 약화
+
+> [!claim] (출처: CNBC, 2026-04-16) Prologis Q1 2026: EPS $1.05 beats by 29.6%; net income +66%
+> PLD Q1 EPS $1.05(예상 +29.6%), 순이익 +66% YoY. impact: + / category: earnings
+
+> [!claim] (출처: Yahoo Finance, 2026-04-16) Prologis raises 2026 guidance; development starts $4.5B-$5.5B
+> PLD 2026 가이던스 $3.80-4.05, 데이터센터 개발 착공 $4.5-5.5B. impact: + / category: product
+
+> [!claim] (출처: BMO Capital, 2026-05-08) BMO upgrades PLD to Outperform; target $162
+> BMO PLD 아웃퍼폼 업그레이드·목표주가 $162 — 데이터센터 강조. impact: + / category: other
+
+> [!claim] (출처: Simply Wall St, 2026-05-13) PLD 30-day return +6.8%; 1-year +39.6%
+> PLD 30일 +6.8%, 1년 +39.6% 강력 모멘텀. impact: + / category: other
+
+**경쟁사 동향**:
+- EQIX: Q1 매출 +8%·AI 데이터센터 $50B 붐 — PLD 산업용 공간 간접 수혜 (impact for PLD: +)
+- AMT: 데이터센터 매출 +17% — AI 수요 섹터 동기화 확인 (impact for PLD: +)
 <!-- DAILY_END -->

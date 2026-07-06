@@ -59,9 +59,16 @@ def frontmatter_tags(fm: str) -> list[str]:
 
 def ticker_tag(fm: str) -> str | None:
     for tag in frontmatter_tags(fm):
-        if tag not in {"routine-news", "watchlist", "dashboard", "meta"}:
+        if tag not in {"routine-news", "watchlist", "dashboard", "meta", "market-summary"}:
             return tag
     return None
+
+
+def has_company_intro(path: Path) -> bool:
+    """신규 편입 스켈레톤 허용 조건 — 회사 소개 섹션에 본문이 있으면 유효."""
+    text = path.read_text(encoding="utf-8")
+    match = re.search(r"^## 회사 소개\n+(.+?)(?=\n>|\n##|\Z)", text, re.DOTALL | re.MULTILINE)
+    return bool(match and match.group(1).strip())
 
 
 def marked_section(text: str, start: str, end: str) -> str:
@@ -109,9 +116,23 @@ def main() -> int:
             errors.append(f"routine-news frontmatter tag outside wiki/news: {relative}")
 
         if relative.startswith("wiki/news/") and path.name not in {"README.md", "_dashboard.md"}:
+            if relative.startswith("wiki/news/markets/"):
+                # 시장 노드 종합: wiki/news/markets/{map_id}/{market_id}.md (+ README)
+                parts = Path(relative).parts
+                if len(parts) != 5:
+                    errors.append(
+                        f"Market summary must live at wiki/news/markets/{{map_id}}/{{market_id}}.md: {relative}"
+                    )
+                if "market-summary" not in frontmatter_tags(fm):
+                    errors.append(f"Market summary missing 'market-summary' tag: {relative}")
+                continue
             if not relative.startswith("wiki/news/tickers/"):
                 errors.append(f"Ticker news log must live under wiki/news/tickers/: {relative}")
-            if "routine-news" in fm and is_empty_routine_scaffold(path):
+            if (
+                "routine-news" in fm
+                and is_empty_routine_scaffold(path)
+                and not has_company_intro(path)
+            ):
                 errors.append(f"Empty routine-news scaffold should be deleted: {relative}")
             ticker = ticker_tag(fm)
             if ticker:

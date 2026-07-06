@@ -31,6 +31,8 @@ sources: []
 - [ ] **2026-06-27**: AI 협업·가이던스 상향이 75.7배 밸류에이션을 정당화할지 (pending)
 - [ ] **2026-06-13**: EQIX 2026 연간 매출 $101~102억 가이던스 달성 여부 — Q2 실적(7/29) 확인 (pending)
 - [ ] **2026-06-13**: AI Fabric 예약 +70% 지속성 — AI 에이전트 인터커넥션 수요가 구조적인지 Q3까지 추적 (pending)
+- [x] **2026-05-17**: AI 데이터센터 건설투자 $50B 사상 최고 — EQIX 수요 구조적 성장 (verified) — 2026-06-06: Q1 매출 $2.44B +10%, AI Fabric 예약 +70%, $10B 가이던스로 구조적 성장 추가 확인
+- [ ] **2026-05-17**: EQIX P/E 84배 — 고성장 프리미엄 지속 여부 (pending) — 2026-06-06: Citi 포커스리스트 추가 + $10B 가이던스로 프리미엄 정당성 지지 강화, 하이퍼스케일러 자체투자 리스크는 잔존 (pending)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,6 +44,8 @@ sources: []
 <!-- FACTS_START -->
 > [!fact] (확인: Yahoo Finance 2026-06-11 + Yahoo Finance Q1 리포트 2026-06-09) EQIX Q1 2026 AI Fabric 연결 YoY 3배 성장
 > 두 독립 소스가 동일 지표 확인. EQIX의 AI Fabric 연결이 전년 대비 3배 증가, Fabric 매출 +26% YoY, 예약 +70% — AI 데이터센터 수요의 구조적 성장 확인.
+> [!fact] (확인: Yahoo Finance 2026-06-01 + CNBC 2026-06-03) EQIX Q1 2026 실적 및 $10B 가이던스
+> Q1 매출 $2.44B +10% YoY, AI Fabric 예약 +70%, AI 커넥션 3배 성장. Citi 포커스리스트 추가, FY 매출 가이던스 >$10B(+10%) 제시.
 <!-- FACTS_END -->
 
 ---
@@ -88,4 +92,42 @@ sources: []
 - DLR: BCN1 바르셀로나 개장 + EPS 리비전 A+ — 유럽 데이터센터 경쟁 심화
 - AMT: DISH 계약 종료 역풍 — 타워 vs 데이터센터 REIT 성장 격차 확대
 
+
+### 2026-06-06
+
+**narrative_score**: +0.20 (전회 +0.13, Δ +0.07)
+**key_events**: Q1 매출 $2.44B +10%、AI Fabric 예약 +70%、Citi 포커스리스트 추가、$10B 매출 가이던스
+**risks**: 하이퍼스케일러 자체 데이터센터 투자 증가
+
+> [!claim] (출처: Yahoo Finance, 2026-06-01) EQIX Q1 revenue $2.44B +10% YoY; AI Fabric bookings +70%; AI connections triple
+> AI 수요 폭발적 성장. impact: + / category: earnings
+
+> [!claim] (출처: CNBC, 2026-06-03) Citi adds EQIX to Focus List; FY revenue guidance >$10B (+10%)
+> Citi 포커스리스트 추가. impact: + / category: earnings
+
+> [!claim] (출처: EQIX IR, 2026-06-04) Annual shareholder meeting June 15; 250 data centers 70+ metros
+> 주주총회 6/15 예정. impact: neutral / category: other
+
+**경쟁사 동향**:
+- DLR: 가이던스 상향+Stifel $235
+- PLD: 데이터센터 BTS $1.3B
+
+### 2026-05-17
+
+**narrative_score**: +0.13 (전회 —, Δ —)
+**key_events**: Q1 매출 +8%·EBITDA +13%·마진 51%、AI 데이터센터 건설 $50B 사상 최고、복수 애널리스트 목표주가 상향
+**risks**: P/E 84배 고평가 — 금리 상승 시 디레이팅 위험、경쟁 데이터센터 공급 급증
+
+> [!claim] (출처: ad-hoc-news, 2026-04-29) Equinix Q1 2026: revenue +8% to $2.4B, EBITDA +13%; margin 51%
+> EQIX Q1 매출 +8% $2.4B, EBITDA +13%, 마진 51%. impact: + / category: earnings
+
+> [!claim] (출처: Benzinga, 2026-05-14) AI data center construction hits record $50B, surpasses offices
+> AI 붐으로 데이터센터 건설 $50B 사상 최고 — 오피스 투자 추월. impact: + / category: macro
+
+> [!claim] (출처: Truist/Cantor Fitzgerald, 2026-05-12) Multiple analysts raise EQIX targets; 18.7% upside consensus
+> 복수 애널리스트 EQIX 목표주가 상향, 18.7% 상승여력. impact: + / category: other
+
+**경쟁사 동향**:
+- DLR: Q1 매출 +16.2%·Core FFO 가이던스 상향 — 데이터센터 동반 성장 확인 (impact for EQIX: +)
+- AMT: 데이터센터 매출 +17% — AI 수요 섹터 동기화 (impact for EQIX: +)
 <!-- DAILY_END -->

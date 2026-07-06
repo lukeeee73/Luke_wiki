@@ -39,14 +39,14 @@ Luke_wiki/
 - **Capture Layer** (`inbox/`): 모바일/데스크톱에서 급히 적은 생각을 임시로 둔다. 장기 보존 금지. 일주일 안에 삭제·병합·승격한다.
 - **Raw Sources Layer** (`sources/`): 원문 보존 레이어. 가능하면 내용과 메타데이터를 그대로 보존하고, 해석은 `wiki/`에서 한다.
 - **Wiki Layer** (`wiki/`): 공부한 것을 장기 저장하는 정제 레이어. 모든 페이지는 frontmatter와 인식론 callout을 갖는다.
-- **Routine Layer** (`wiki/news/`): 자동 뉴스 수집이 쓰는 격리 레이어. `wiki/` 안에 있지만 사람-작성 지식과 섞지 않는다.
+- **Routine Layer** (`wiki/news/`): 자동 뉴스 수집이 쓰는 격리 레이어. `wiki/` 안에 있지만 사람-작성 지식과 섞지 않는다. 종목별 로그(`tickers/`)와 시장지도 노드별 종합(`markets/{map_id}/{market_id}.md`) 두 하위 레이어로 구성된다.
 
 ### 사람-작성 영역 vs 루틴-수집 영역
 
 `wiki/` 하위 폴더는 두 부류로 나뉜다:
 
 - **사람-작성 영역** (`principles/`, `concepts/`, `topics/`, `comparisons/`, `syntheses/`, `entities/`, `domains/`): 사용자가 직접 또는 ingest 작업을 통해 출처에서 정제한 콘텐츠. `confidence: high|medium` 가 많다.
-- **루틴-수집 영역** (`news/`): `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 자동으로 누적하는 watchlist 뉴스. 모든 신규 항목은 `type: claim`, `confidence: low`, `tags: [routine-news, ...]` 로 들어와 사람-작성 영역과 명확히 구분된다. 자세한 규칙은 [wiki/news/README.md](wiki/news/README.md). 루틴 산출물을 최상위 `news/` 또는 루트 노트로 만들지 않는다.
+- **루틴-수집 영역** (`news/`): `indicator_dashboard` 의 루틴들이 자동으로 누적하는 영역. `tickers/` 는 `daily-market-analysis` 루틴의 watchlist 종목 뉴스 로그, `markets/` 는 시장지도 노드별 종합 페이지(daily 루틴이 기업 동향을, `market-research` 루틴이 시장 구조·병목·뉴스를 갱신)다. 모든 신규 항목은 `type: claim`, `confidence: low`, `tags: [routine-news, ...]` 로 들어와 사람-작성 영역과 명확히 구분된다. 자세한 규칙은 [wiki/news/README.md](wiki/news/README.md) 와 [wiki/news/markets/README.md](wiki/news/markets/README.md). 루틴 산출물을 최상위 `news/` 또는 루트 노트로 만들지 않는다.
 
 루틴이 만든 항목은 사람의 확인 후 `wiki/topics/` 등으로 승격될 수 있지만, 그 전까지는 항상 `news/` 안에서만 살아있다.
 
@@ -59,7 +59,7 @@ Luke_wiki/
 | `syntheses/` | 내가 원칙+사실+의견을 종합해 내린 **나 자신의 판단** |
 | `topics/` | 특정 주제에 대한 요약. 출처 기반, 내 판단보다는 정리 |
 | `domains/` | 도메인별 진입점. 직접적 지식 내용 없이 링크만 모음 |
-| `news/` | 루틴이 매일 자동 수집하는 watchlist 종목 뉴스 로그. **루틴 전용 격리 영역** — 사람은 promote/검증만 한다 |
+| `news/` | 루틴이 자동 수집하는 watchlist 종목 뉴스 로그(`tickers/`)와 시장 노드 종합(`markets/`). **루틴 전용 격리 영역** — 사람은 promote/검증만 한다 |
 
 ### 공부 노트 저장 흐름
 
@@ -218,7 +218,7 @@ callout 우선순위 (적용 기준):
 
 ## Promotion: news/ → topics/ (사람의 작업)
 
-루틴이 누적한 `news/{TICKER}.md` 의 **[사실 누적]** 섹션 항목이 의미 있게 굳어지면, 사람이 다음 절차로 사람-작성 영역에 승격(promote)할 수 있다:
+루틴이 누적한 `news/tickers/{TICKER} - {COMPANY}.md` 또는 `news/markets/{map_id}/{market_id}.md` 의 **[사실 누적]** 섹션 항목이 의미 있게 굳어지면, 사람이 다음 절차로 사람-작성 영역에 승격(promote)할 수 있다:
 
 1. `news/{TICKER}.md` 의 해당 `[!fact]` 블록 선택
 2. 새 페이지 `wiki/topics/{slug}.md` 생성 — frontmatter 의 `confidence` 는 `medium` 이상, `tags` 에서 `routine-news` 를 빼고 정상 태그로

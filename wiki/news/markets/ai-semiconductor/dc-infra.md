@@ -1,0 +1,70 @@
+---
+title: "AI 데이터센터 인프라 · 코로케이션 — 시장 종합"
+created: 2026-07-06
+updated: 2026-07-06
+domain: finance
+type: claim
+weight: reference
+confidence: low
+tags: [routine-news, market-summary, ai-semiconductor, dc-infra]
+map: ai-semiconductor
+market_id: dc-infra
+sources: ["https://www.cbre.com/insights/books/north-america-data-center-trends-h2-2025", "https://www.jll.com/en-us/newsroom/jll-north-america-data-center-report-year-end-2025", "https://www.bloomberg.com/news/articles/2026-06-01/us-construction-spending-on-data-centers-eclipses-50-billion"]
+---
+
+# AI 데이터센터 인프라 · 코로케이션 — 시장 종합
+
+**AI Data Center Infrastructure / Colocation** · ⑥ 장비·소재·전력 · 규모 美 DC 건설 $51B SAAR(’26.4, 첫 $50B 돌파) · 공실률 1.0–1.4% 사상최저 · 성장 건설지출 +28% YoY · 임대료 +9%/년
+
+> [!info] 자동 종합 노트
+> 이 파일은 시장지도 노드 `dc-infra` 의 종합 페이지다. `indicator_dashboard` 루틴이 관리한다 —
+> **daily-market-analysis** 루틴이 담당 요일에 [소속 기업 동향]을, **market-research** 루틴이 주 1회
+> [시장 정의]·[병목 상태]·[시장 상황 종합]·[시장 뉴스 로그]를 갱신한다. HTML 마커는 루틴의 앵커이므로 지우지 않는다.
+> 사람은 굳어진 사실을 `wiki/topics/` 로 승격(promote)만 한다.
+
+## 시장 정의
+
+AI 서버를 수용하는 데이터센터 부동산·코로케이션·건설 — 부지·쉘·전력인입·냉각 포함.
+
+**수요 동인** — 하이퍼스케일러 ’26 capex $700B±가 글로벌 35GW 신규 파이프라인을 발주(~60% 리스). 500MW+급 AI 캠퍼스(Stargate ~7GW 등)로 단위 규모가 산업단지급으로 확대.
+
+## 병목 상태 — 🔴 급성 병목 (`acute`)
+
+> [!claim] (출처: 시장지도 as_of 2026-06)
+> 북미 공실률 1.0–1.4% 사상최저, 신규 공급 프리리스 74–92%로 짓기 전에 소진. ’26 예정 12GW 중 ~1/3만 실제 착공 — 변압기 리드타임 4년, 계통접속 대기 4–7년. 칩이 아닌 '전력 붙은 쉘'이 현재 AI 빌드아웃의 가장 타이트한 물리적 제약.
+
+## 시장 상황 종합
+
+<!-- SYNTHESIS_START -->
+> [!claim] (as_of 2026-06 · market-research 루틴)
+> 美 DC 건설지출 첫 $50B 돌파에도 공실률 1% 사상최저 — 수요가 공급을 압도. 변압기·계통접속이 착공의 절반을 막는 중.
+<!-- SYNTHESIS_END -->
+
+## 소속 기업 동향
+
+<!-- PLAYERS_START -->
+| 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
+|---|---|---|---|---|
+| Equinix | 글로벌 1위 리테일 코로케이션·상호접속 (260+ IBX) | +0.27 (2026-06-27) | Cisco·NVIDIA AI 협업·가이던스 상향·Citi 포커스리스트 vs 75.7배 고평가 | [EQIX](../../tickers/EQIX - Equinix, Inc.md) |
+| Digital Realty | 글로벌 2위 — 하이퍼스케일+코로케이션 혼합 REIT | +0.27 (2026-06-27) | 캔자스시티 2GW·Teraco 77%·Columbia Capital 인수에 +3.9%·ServiceFabric MCP | [DLR](../../tickers/DLR - Digital Realty Trust.md) |
+| Vantage | $25B 텍사스 Frontier 1.4GW (Stargate 연계) 건설 중 (비상장) | — | — | 비상장 |
+| QTS · CyrusOne · Switch | 사모(BX·KKR·DigitalBridge) 하이퍼스케일 개발 (비상장) | — | — | 비상장 |
+<!-- PLAYERS_END -->
+
+## 시장 뉴스 로그 (최신순)
+
+<!-- MARKET_NEWS_START -->
+- **2026-06-01** ＋ **美 데이터센터 건설지출 연율 $50B 첫 돌파** — 4월 SAAR $50.7B, +28% YoY — 일반 오피스 건설 추월 (Bloomberg) [↗](https://www.bloomberg.com/news/articles/2026-06-01/us-construction-spending-on-data-centers-eclipses-50-billion)
+- **2026-05-11** － **美 변압기 리드타임 최대 4년으로 확대** — 전력기기 공급난이 DC 준공 일정의 핵심 제약으로 (PV Magazine USA) [↗](https://pv-magazine-usa.com/2026/05/11/u-s-transformer-market-faces-severe-supply-constraints-as-lead-times-extend-to-four-years/)
+- **2026-04-03** － **올해 예정 美 DC 신축 절반이 지연·취소** — 12GW 중 ~5GW만 착공 — 전력·中부품 부족이 원인 (Tom's Hardware) [↗](https://www.tomshardware.com/tech-industry/artificial-intelligence/half-of-planned-us-data-center-builds-have-been-delayed-or-canceled-growth-limited-by-shortages-of-power-infrastructure-and-parts-from-china-the-ai-build-out-flips-the-breakers)
+- **2026-02-17** ＋ **JLL: 북미 공실률 1% 사상최저, 텍사스가 버지니아 추월 전망** — 35GW 파이프라인 — 신규 92% 프리리스, 임대료 +9% (JLL) [↗](https://www.jll.com/en-us/newsroom/jll-north-america-data-center-report-year-end-2025)
+<!-- MARKET_NEWS_END -->
+
+## 사실 누적 (Verified Facts)
+
+<!-- FACTS_START -->
+<!-- FACTS_END -->
+
+## 관련 위키
+
+- [AI 데이터센터 전력 인프라 — 내 판단](../../../syntheses/ai-datacenter-power-infrastructure.md)

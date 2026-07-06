@@ -1,0 +1,67 @@
+---
+title: "로봇 인지 센서 (라이다·비전·촉각) — 시장 종합"
+created: 2026-07-06
+updated: 2026-07-06
+domain: finance
+type: claim
+weight: reference
+confidence: low
+tags: [routine-news, market-summary, ai-semiconductor, robot-sensors]
+map: ai-semiconductor
+market_id: robot-sensors
+sources: ["https://www.stocktitan.net/news/HSAI/hesai-group-reports-first-quarter-2026-unaudited-financial-wgvrptc5slt8.html", "https://www.prnewswire.com/news-releases/robosense-asserts-global-dominance-in-lidar-for-robotics-with-1-458-8-yoy-shipment-surge-in-q1-2026--302783148.html", "https://www.intelmarketresearch.com/torque-sensor-for-humanoid-robot-market-2830"]
+---
+
+# 로봇 인지 센서 (라이다·비전·촉각) — 시장 종합
+
+**Robot Perception Sensors** · ④ 핵심 부품 (병목) · 규모 ~$8–15B (로봇 라이다 ~$1B · 촉각 ~$4B · 토크센서 $1.3B→$7.9B(’32)) · 성장 로봇 라이다 출하 +138~1,459% YoY · 토크센서 ~48% CAGR
+
+> [!info] 자동 종합 노트
+> 이 파일은 시장지도 노드 `robot-sensors` 의 종합 페이지다. `indicator_dashboard` 루틴이 관리한다 —
+> **daily-market-analysis** 루틴이 담당 요일에 [소속 기업 동향]을, **market-research** 루틴이 주 1회
+> [시장 정의]·[병목 상태]·[시장 상황 종합]·[시장 뉴스 로그]를 갱신한다. HTML 마커는 루틴의 앵커이므로 지우지 않는다.
+> 사람은 굳어진 사실을 `wiki/topics/` 로 승격(promote)만 한다.
+
+## 시장 정의
+
+로봇의 '눈과 피부' — 라이다·3D 비전·힘토크/촉각 센서·IMU.
+
+**수요 동인** — 휴머노이드·이동로봇·자율주행 L3 확산으로 라이다 단가 하락과 물량 폭증 동시 진행. 휴머노이드 BOM에서 손(핸드)이 31% — 센서가 최대 원가 항목.
+
+## 병목 상태 — 🟡 부상하는 병목 (`emerging`)
+
+> [!claim] (출처: 시장지도 as_of 2026-06)
+> 라이다·카메라는 공급 충분(가격경쟁 심화)하나, 6축 힘토크·촉각 센서는 대량생산·내구성·캘리브레이션이 미성숙해 휴머노이드 양산의 부상 병목. 손가락용 초소형 다축 센서는 검증된 공급사가 소수.
+
+## 시장 상황 종합
+
+<!-- SYNTHESIS_START -->
+> [!claim] (as_of 2026-06 · market-research 루틴)
+> 라이다 양사(Hesai·RoboSense) 모두 로봇향 폭증으로 흑자 전환 — '로봇의 눈'은 이미 돈이 되는 시장. 다음 병목은 촉각·힘토크.
+<!-- SYNTHESIS_END -->
+
+## 소속 기업 동향
+
+<!-- PLAYERS_START -->
+| 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
+|---|---|---|---|---|
+| Hesai | 라이다 출하 1위 (’25 162만개, 첫 연간 흑자) — 로봇향 +138% | +0.30 (2026-06-30) | Q2 +20~27% 가이던스·로보틱스 확대·8:1 분할, 마진 하락 우려 | [HSAI](../../tickers/HSAI - Hesai Group.md) |
+| RoboSense | 로보틱스 라이다 출하 1위 주장 — Q1’26 +1,459% | watchlist 외 | — | `2498.HK` |
+| Keyence | 머신비전·3D 카메라 강자 | watchlist 외 | — | `6861.T` |
+| Orbbec | 3D 깊이카메라 (휴머노이드 채택) | watchlist 외 | — | `688322.SS` |
+| Novanta (ATI) | 산업용 6축 힘토크 센서 | watchlist 외 | — | `NOVT` |
+| XELA · PaXini | 촉각센서·전자피부 (비상장) | — | — | 비상장 |
+<!-- PLAYERS_END -->
+
+## 시장 뉴스 로그 (최신순)
+
+<!-- MARKET_NEWS_START -->
+- **2026-05-19** ＋ **Hesai 1분기 라이다 출하 47만대(+141%) — 흑자 지속** — 로보틱스 라이다 11.8만대 +138%, 매출 +29.6% (Hesai IR) [↗](https://www.stocktitan.net/news/HSAI/hesai-group-reports-first-quarter-2026-unaudited-financial-wgvrptc5slt8.html)
+- **2026-04-09** ＋ **RoboSense 로보틱스 라이다 1분기 +1,459% 폭증** — 로봇용 18.5만개 출하 — 로보틱스 라이다 1위 굳히기 (PR Newswire) [↗](https://www.prnewswire.com/news-releases/robosense-asserts-global-dominance-in-lidar-for-robotics-with-1-458-8-yoy-shipment-surge-in-q1-2026--302783148.html)
+- **2026-03-25** ＋ **RoboSense 사상 첫 분기 흑자 달성** — Q4’25 순익 1.04억위안 — 연 출하 91.2만개 +68% (PR Newswire) [↗](https://www.prnewswire.com/news-releases/robosense-beat-expectations-achieved-first-ever-quarterly-profit-on-strong-robotics-growth-302724994.html)
+<!-- MARKET_NEWS_END -->
+
+## 사실 누적 (Verified Facts)
+
+<!-- FACTS_START -->
+<!-- FACTS_END -->
