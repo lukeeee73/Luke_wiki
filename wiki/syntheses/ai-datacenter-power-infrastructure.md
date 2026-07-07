@@ -1,7 +1,7 @@
 ---
 title: "AI 데이터센터 전력 인프라 종합 — 가스터빈·연료전지·전력기기"
 created: 2026-06-28
-updated: 2026-07-04
+updated: 2026-07-06
 domain: finance, ai
 type: synthesis
 weight: important
@@ -315,5 +315,7 @@ flowchart LR
 **도메인**: [Finance](../domains/finance.md) · [AI](../domains/ai.md)
 
 **Watchlist 뉴스 (루틴, `confidence: low`)**: [GE](../news/tickers/GE%20-%20GE%20Aerospace.md) · [VST](../news/tickers/VST%20-%20Vistra%20Corp.md) · [CEG](../news/tickers/CEG%20-%20Constellation%20Energy.md) · [CAT](../news/tickers/CAT%20-%20Caterpillar%20Inc.md)
+
+**시장 노드 종합 (루틴, `confidence: low`)** — 전력·AI 시장지도 `power-ai` 14개 노드별 페이지: [AI DC 전력 수요](../news/markets/power-ai/ai-dc-demand.md) · [BTM 조달](../news/markets/power-ai/btm.md) · [그리드/FTM](../news/markets/power-ai/grid-ftm.md) · [가스 발전](../news/markets/power-ai/gas-power.md) · [기존 원전](../news/markets/power-ai/nuclear-existing.md) · [SMR](../news/markets/power-ai/smr.md) · [재생+ESS](../news/markets/power-ai/renewables-storage.md) · [연료전지](../news/markets/power-ai/fuel-cells.md) · [송전망 EPC](../news/markets/power-ai/transmission.md) · [가스터빈](../news/markets/power-ai/turbines.md) · [변압기·전력기기](../news/markets/power-ai/transformers.md) · [배터리 ESS](../news/markets/power-ai/bess.md) · [천연가스](../news/markets/power-ai/natgas.md) · [우라늄·농축](../news/markets/power-ai/uranium.md)
 
 **원본**: [sources/ai-datacenter-power-infrastructure.md](../../sources/ai-datacenter-power-infrastructure.md)

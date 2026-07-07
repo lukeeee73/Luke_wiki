@@ -1,0 +1,73 @@
+---
+title: "우라늄 · 농축 (HALEU) — 시장 종합"
+created: 2026-07-06
+updated: 2026-07-06
+domain: finance
+type: claim
+weight: reference
+confidence: low
+tags: [routine-news, market-summary, power-ai, uranium]
+map: power-ai
+market_id: uranium
+sources: ["https://www.powermag.com/doe-issues-2-7b-orders-to-scale-domestic-nuclear-leu-and-haleu-enrichment/", "https://www.realclearenergy.org/articles/2026/06/15/fueling_the_coming_nuclear_renaissance_1187984.html"]
+---
+
+# 우라늄 · 농축 (HALEU) — 시장 종합
+
+**Uranium & Enrichment** · ⑥ 연료·자원 · 규모 SWU $40→$200 · U3O8 ~$120/lb 모델링 · DOE 국내 농축 $2.7B 발주 · 성장 구조적 공급부족 (Cameco)
+
+> [!info] 자동 종합 노트
+> 이 파일은 시장지도 노드 `uranium` 의 종합 페이지다. `indicator_dashboard` 루틴이 관리한다 —
+> **daily-market-analysis** 루틴이 담당 요일(금 — 유틸리티/전력 · 전력 인프라(AI) 그룹)에 [소속 기업 동향]을,
+> **market-research** 루틴이 주 1회 [시장 정의]·[병목 상태]·[시장 상황 종합]·[시장 뉴스 로그]를 갱신한다.
+> HTML 마커는 루틴의 앵커이므로 지우지 않는다. 사람은 굳어진 사실을 `wiki/topics/` 로 승격(promote)만 한다.
+
+## 시장 정의
+
+원자력 르네상스의 연료 관문 — U3O8 채굴, 전환·농축(LEU), SMR용 고농축 HALEU.
+
+**수요 동인** — 재가동·업레이트·SMR 파이프라인 + 러시아 LEU 금수(’28 전면 발효) — 서방 연료 사이클 재무장.
+
+## 병목 상태 — ⚫ 구조적 독점 (`structural`)
+
+> [!claim] (출처: 시장지도 as_of 2026-07)
+> 농축은 Urenco·Orano·(Rosatom) 소수 과점 — 러시아 제외 시 서방 캐파 부족이 구조적. HALEU 는 Centrus 신규 캐스케이드(’29)까지 사실상 공급 공백. 신규 광산 리드타임 10년+.
+
+## 시장 상황 종합
+
+<!-- SYNTHESIS_START -->
+> [!claim] (as_of 2026-07 · market-research 루틴)
+> 러 금수 ’28 을 앞두고 서방 농축 재무장 — DOE $2.7B 발주. SWU 5배 상승이 구조적 부족의 증거.
+<!-- SYNTHESIS_END -->
+
+## 소속 기업 동향
+
+<!-- PLAYERS_START -->
+| 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
+|---|---|---|---|---|
+| Cameco | 서방 최대 우라늄 + Westinghouse 지분 | watchlist 외 | — | `CCJ` |
+| Centrus Energy | 美 유일 HALEU — DOE $900M 태스크오더 | watchlist 외 | — | `LEU` |
+| Urenco · Orano | 서방 농축 과점 (비상장) | — | — | 비상장 |
+| Uranium Energy | 미국 신규 채굴 | watchlist 외 | — | `UEC` |
+<!-- PLAYERS_END -->
+
+## 시장 뉴스 로그 (최신순)
+
+<!-- MARKET_NEWS_START -->
+- **2026-06** － **Cameco: 우라늄 구조적 공급부족 — SWU $40→$200, U3O8 ~$120/lb** — 농축 가격 5배 — 러 금수 ’28 전면 발효 앞두고 재고 확보전 (RealClearEnergy) [↗](https://www.realclearenergy.org/articles/2026/06/15/fueling_the_coming_nuclear_renaissance_1187984.html)
+- **2026-01** ＋ **DOE, 국내 농축에 $2.7B 발주 — Centrus·General Matter·Orano 각 $900M** — 러시아 의존 탈피 — Centrus HALEU 12t/yr, ’29 신규 캐스케이드 (POWER Magazine / NucNet) [↗](https://www.powermag.com/doe-issues-2-7b-orders-to-scale-domestic-nuclear-leu-and-haleu-enrichment/)
+<!-- MARKET_NEWS_END -->
+
+## 사실 누적 (Verified Facts)
+
+<!-- FACTS_START -->
+<!-- FACTS_END -->
+
+## 인접 시장 (지도 링크)
+
+- ⬅ 수요측 [기존 원전 (재가동·업레이트·PPA)](nuclear-existing.md) — 핵연료 (LEU)
+- ⬅ 수요측 [SMR · 차세대 원자로](smr.md) — HALEU — 공급 공백
+
+## 관련 위키
+
+- [AI 데이터센터 전력 인프라 — 내 판단](../../../syntheses/ai-datacenter-power-infrastructure.md)
