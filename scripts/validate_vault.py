@@ -115,7 +115,12 @@ def main() -> int:
         if "routine-news" in fm and not relative.startswith("wiki/news/"):
             errors.append(f"routine-news frontmatter tag outside wiki/news: {relative}")
 
-        if relative.startswith("wiki/news/") and path.name not in {"README.md", "_dashboard.md"}:
+        if relative.startswith("wiki/news/") and path.name not in {
+            "README.md",
+            "_dashboard.md",
+            "FORMAT.md",
+            "glossary.md",
+        }:
             if relative.startswith("wiki/news/markets/"):
                 # 시장 노드 종합: wiki/news/markets/{map_id}/{market_id}.md (+ README)
                 parts = Path(relative).parts

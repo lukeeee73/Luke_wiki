@@ -46,7 +46,7 @@ Luke_wiki/
 `wiki/` 하위 폴더는 두 부류로 나뉜다:
 
 - **사람-작성 영역** (`principles/`, `concepts/`, `topics/`, `comparisons/`, `syntheses/`, `entities/`, `domains/`): 사용자가 직접 또는 ingest 작업을 통해 출처에서 정제한 콘텐츠. `confidence: high|medium` 가 많다.
-- **루틴-수집 영역** (`news/`): `indicator_dashboard` 의 루틴들이 자동으로 누적하는 영역. `tickers/` 는 `daily-market-analysis` 루틴의 watchlist 종목 뉴스 로그, `markets/` 는 시장지도 노드별 종합 페이지(daily 루틴이 기업 동향을, `market-research` 루틴이 시장 구조·병목·뉴스를 갱신)다. 모든 신규 항목은 `type: claim`, `confidence: low`, `tags: [routine-news, ...]` 로 들어와 사람-작성 영역과 명확히 구분된다. 자세한 규칙은 [wiki/news/README.md](wiki/news/README.md) 와 [wiki/news/markets/README.md](wiki/news/markets/README.md). 루틴 산출물을 최상위 `news/` 또는 루트 노트로 만들지 않는다.
+- **루틴-수집 영역** (`news/`): `indicator_dashboard` 의 루틴들이 자동으로 누적하는 영역. `tickers/` 는 `daily-market-analysis` 루틴의 watchlist 종목 뉴스 로그, `markets/` 는 시장지도 노드별 종합 페이지(daily 루틴이 기업 동향을, `market-research` 루틴이 시장 구조·병목·뉴스를 갱신)다. 모든 신규 항목은 `type: claim`, `confidence: low`, `tags: [routine-news, ...]` 로 들어와 사람-작성 영역과 명확히 구분된다. 자세한 규칙은 [wiki/news/README.md](wiki/news/README.md) 와 [wiki/news/markets/README.md](wiki/news/markets/README.md). **신규 항목의 글쓰기 형식은 [wiki/news/FORMAT.md](wiki/news/FORMAT.md) (투자 브리핑 v2, 2026-07-07~)** — 쉬운 한국어, "무슨 일→왜 중요→주가에 의미" 3단 구조, 신호등(🟢⚪🔴) 표기, 용어는 [wiki/news/glossary.md](wiki/news/glossary.md) 괄호 풀이. 2026-07-06 이전 항목은 옛 형식 그대로 보존(재작성 금지). 루틴 산출물을 최상위 `news/` 또는 루트 노트로 만들지 않는다.
 
 루틴이 만든 항목은 사람의 확인 후 `wiki/topics/` 등으로 승격될 수 있지만, 그 전까지는 항상 `news/` 안에서만 살아있다.
 

@@ -48,6 +48,9 @@ wiki/news/markets/
 
 ## 규칙
 
+- **문체 (2026-07-07~)**: 신규 갱신분은 [../FORMAT.md](../FORMAT.md) 의 투자 브리핑 v2 를 따른다.
+  [시장 상황 종합]은 "**지금 상황 → 왜 중요 → 투자자 관점**" 3문장 구조, 뉴스 로그 요약은
+  번역된 한국어 제목 + 전문용어 괄호 풀이([용어집](../glossary.md)). 기존 내용은 재작성하지 않는다.
 - 모든 파일은 `type: claim`, `confidence: low`, `tags: [routine-news, market-summary, {map_id}, {market_id}]`
   frontmatter 를 유지한다 — 사람-작성 위키와 명확히 구분되는 루틴 격리 영역이다.
 - **정확성 우선**: 출처(URL) 없는 내용을 쓰지 않는다. 시장 구조·수치는

@@ -1,7 +1,7 @@
 ---
 title: "Wiki Log"
 created: 2026-04-05
-updated: 2026-07-06
+updated: 2026-07-07
 tags: [log, meta]
 sources: []
 ---
@@ -10,6 +10,23 @@ sources: []
 # Wiki Log
 
 위키의 모든 작업 이력을 시간순으로 기록합니다.
+
+---
+
+## 2026-07-07
+
+### [STRUCTURE] 루틴 뉴스 글쓰기 형식 개편 — 투자 브리핑 v2
+
+- **배경**: 기존 루틴 뉴스가 기계용 태그(`impact:+`, `category:`, 점수 나열)와 영문 헤드라인, 풀이 없는 전문용어로 가독성이 낮고 "그래서 투자에 무슨 의미인가"에 답하지 않는다는 사용자 피드백. 셀사이드 모닝 노트(What happened→Why it matters→What to watch)·Bloomberg Five Things 형식을 참고해 신규 항목의 문체를 개편.
+- **생성된 파일**:
+  - `wiki/news/FORMAT.md` — 투자 브리핑 v2 명세 (3원칙: 쉬운 한국어 / So-What 3단 구조 / "앞으로 지켜볼 것" 필수. 신호등 🟢⚪🔴 매핑, 티커·시장 파일 템플릿, 금지 목록, 불변 계약).
+  - `wiki/news/glossary.md` — 용어집 (실적·밸류에이션·반도체·규제 등 ~35개 용어 한 줄 풀이. 루틴이 새 용어 사용 시 추가).
+- **업데이트된 파일**:
+  - `wiki/news/README.md` — v2 개편 공지 callout, 폴더 구조, 일자별 엔트리 예시를 v2 로 교체.
+  - `wiki/news/markets/README.md` — [시장 상황 종합] 3문장 구조(지금 상황→왜 중요→투자자 관점) 문체 규칙.
+  - `CLAUDE.md` — 루틴-수집 영역 설명에 FORMAT.md 포인터.
+  - `scripts/validate_vault.py` — `wiki/news/` 최상위 허용 파일에 `FORMAT.md`·`glossary.md` 추가.
+- **원칙**: 2026-07-06 이전 항목은 재작성하지 않는다 (legacy 보존). 파일 경로·마커·frontmatter 격리·JSON 파이프라인은 불변. `indicator_dashboard` 루틴 프롬프트(§6, §2.35)도 같은 날 함께 v2 로 갱신.
 
 ---
 
