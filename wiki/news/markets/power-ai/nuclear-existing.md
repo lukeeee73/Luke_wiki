@@ -1,0 +1,74 @@
+---
+title: "기존 원전 (재가동·업레이트·PPA) — 시장 종합"
+created: 2026-07-06
+updated: 2026-07-06
+domain: finance
+type: claim
+weight: reference
+confidence: low
+tags: [routine-news, market-summary, power-ai, nuclear-existing]
+map: power-ai
+market_id: nuclear-existing
+sources: ["https://www.datacenterfrontier.com/energy/article/55239739/data-center-nuclear-power-update-microsoft-constellation-aws-talen-meta", "https://smrintel.com/nuclear-data-center-deals/"]
+---
+
+# 기존 원전 (재가동·업레이트·PPA) — 시장 종합
+
+**Existing Nuclear (Restarts · Uprates · PPAs)** · ③ 발전원 · 규모 하이퍼스케일러 원자력 계약 13건 ~9.8GW+ (’26.5 기준) · 성장 재가동 후보 소진 — 공급 유한
+
+> [!info] 자동 종합 노트
+> 이 파일은 시장지도 노드 `nuclear-existing` 의 종합 페이지다. `indicator_dashboard` 루틴이 관리한다 —
+> **daily-market-analysis** 루틴이 담당 요일(금 — 유틸리티/전력 · 전력 인프라(AI) 그룹)에 [소속 기업 동향]을,
+> **market-research** 루틴이 주 1회 [시장 정의]·[병목 상태]·[시장 상황 종합]·[시장 뉴스 로그]를 갱신한다.
+> HTML 마커는 루틴의 앵커이므로 지우지 않는다. 사람은 굳어진 사실을 `wiki/topics/` 로 승격(promote)만 한다.
+
+## 시장 정의
+
+이미 지어진 원전의 출력을 사들이는 게임 — 폐로 재가동(TMI·Palisades)·출력 업레이트·20년 장기 PPA.
+
+**수요 동인** — 24/7 무탄소 + 기존 자산이라 최속 원자력 경로. MSFT-CEG TMI 835MW($16B·’27 첫 전력), AWS-Talen 1,920MW, Meta-Vistra 2.6GW 업레이트.
+
+## 병목 상태 — ⚫ 구조적 독점 (`structural`)
+
+> [!claim] (출처: 시장지도 as_of 2026-07)
+> 재고가 유한한 자산 — 미국 가동 원전 ~97GW 에서 늘릴 수 없고, 재가동 후보(TMI·Palisades·Duane Arnold)는 소진 단계. 대체 불가한 24/7 무탄소 전원이라 프리미엄 PPA 구조가 굳어짐. 신규는 SMR·대형 신설의 몫.
+
+## 시장 상황 종합
+
+<!-- SYNTHESIS_START -->
+> [!claim] (as_of 2026-07 · market-research 루틴)
+> Meta-Vistra 업레이트까지 선점되며 '지어진 원전'은 사실상 완판 — 다음 전선은 SMR 과 대형 신설로 이동.
+<!-- SYNTHESIS_END -->
+
+## 소속 기업 동향
+
+<!-- PLAYERS_START -->
+| 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
+|---|---|---|---|---|
+| Constellation | 미국 최대 원전 운영 — MSFT TMI 재가동 · 점유 22% | +0.19 (2026-07-03) | 1GW 원전 증설·MS 스리마일 20년 PPA·Calpine 통합 vs PJM 가격상한 오버행 YTD -20% | [CEG](../../tickers/CEG - Constellation Energy.md) |
+| Vistra | Meta 2.6GW — 사상 최대 기업 업레이트 · 점유 7% | +0.18 (2026-07-03) | Meta·AWS 3,800MW PPA·Fitch IG vs PJM 가격상한·내부자 매도로 6일 -12% | [VST](../../tickers/VST - Vistra Corp.md) |
+| Talen Energy | AWS 17년 1,920MW (Susquehanna) · 점유 3% | watchlist 외 | — | `TLN` |
+| Holtec | Palisades 재가동 — 미국 첫 폐로 부활 (비상장) | — | — | 비상장 |
+| PSEG | 뉴저지 원전 — DC PPA 협상 | watchlist 외 | — | `PEG` |
+<!-- PLAYERS_END -->
+
+## 시장 뉴스 로그 (최신순)
+
+<!-- MARKET_NEWS_START -->
+- **2026-05** ＋ **하이퍼스케일러 원자력 계약 13건 ~9.8GW — 4사 전원 참전** — MSFT·AWS·Meta·Google 모두 원자력 확보 — 기존 원전 완판 임박 (SMR Intel) [↗](https://smrintel.com/nuclear-data-center-deals/)
+- **2026-01** ＋ **Meta-Vistra 2.6GW 계약 — 사상 최대 기업 지원 원전 업레이트** — 재가동 소진 후 업레이트까지 선점 — 프리미엄 PPA 구조 고착 (Data Center Frontier) [↗](https://www.datacenterfrontier.com/energy/article/55239739/data-center-nuclear-power-update-microsoft-constellation-aws-talen-meta)
+<!-- MARKET_NEWS_END -->
+
+## 사실 누적 (Verified Facts)
+
+<!-- FACTS_START -->
+<!-- FACTS_END -->
+
+## 인접 시장 (지도 링크)
+
+- ⬅ 수요측 [그리드 접속 · 유틸리티 조달 (FTM)](grid-ftm.md) — 24/7 무탄소 장기 PPA
+- ➡ 공급측 [우라늄 · 농축 (HALEU)](uranium.md) — 핵연료 (LEU)
+
+## 관련 위키
+
+- [AI 데이터센터 전력 인프라 — 내 판단](../../../syntheses/ai-datacenter-power-infrastructure.md)

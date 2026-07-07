@@ -28,13 +28,15 @@ sources: []
 ```
 wiki/news/markets/
 ├── README.md               # 이 파일
-└── ai-semiconductor/       # AI·반도체 시장지도 (map_id) — 노드당 1파일
-    ├── hbm.md              # 예: HBM 시장 종합
+├── ai-semiconductor/       # AI·반도체 시장지도 (map_id) — 노드당 1파일 (30개)
+│   ├── hbm.md              # 예: HBM 시장 종합
+│   └── {market_id}.md
+└── power-ai/               # 전력·AI 인프라 시장지도 — 노드당 1파일 (14개)
+    ├── turbines.md         # 예: 가스터빈 제조 시장 종합
     └── {market_id}.md
 ```
 
-새 시장지도(예: power-ai)를 이 레이어에 붙일 때는 같은 규칙으로
-`{map_id}/` 폴더를 만든다.
+새 시장지도를 이 레이어에 붙일 때는 같은 규칙으로 `{map_id}/` 폴더를 만든다.
 
 ## 파일 내부 계약 (섹션 앵커)
 

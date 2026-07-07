@@ -15,6 +15,15 @@ sources: []
 
 ## 2026-07-06
 
+### [STRUCTURE] 전력·AI 시장지도(power-ai) 노드 종합 레이어 신설 — 반도체 지도와 동일 규칙
+
+- **작업**: `indicator_dashboard/data/markets/power-ai.json` (SSOT) 의 14개 시장 노드에 대해, ai-semiconductor 와 동일한 형식의 옵시디언 노드 종합 페이지를 시딩하고 사람-작성 위키와 상호 연결.
+- **생성된 파일**: `wiki/news/markets/power-ai/*.md` — 14개 노드 (ai-dc-demand · btm · grid-ftm · gas-power · nuclear-existing · smr · renewables-storage · fuel-cells · transmission · turbines · transformers · bess · natgas · uranium). 각 파일은 지도 JSON 의 정의·병목·weekly_note 와, 뉴스 스토어(`data/markets/news/power-ai.json`)의 시장 뉴스, 티커 로그(`tickers/`)의 최신 시그널을 종합해 시딩. **[인접 시장]** 섹션이 지도 `links` 를 미러링해 노드 간 옵시디언 그래프를 밸류체인대로 연결.
+- **업데이트된 파일**:
+  - `wiki/news/markets/README.md` — 폴더 구조에 `power-ai/` 추가.
+  - `wiki/syntheses/ai-datacenter-power-infrastructure.md` — §8 관련 노트에 14개 노드 링크 추가 (사람-작성 ↔ 루틴 레이어 양방향 연결).
+- **연동**: `indicator_dashboard` 의 `.claude/routines/market-research/power-ai.md` 에 옵시디언 동기화 절차(§2.35)를 추가 — 이후 루틴이 이 페이지들을 자동 유지.
+
 ### [STRUCTURE] 반도체 시장지도 ↔ watchlist 정합 + 시장 노드 종합 레이어 신설
 
 - **작업**: `indicator_dashboard` 의 watchlist 재편(155종목·18섹터, 반도체 4개 그룹 분리 + AI 인프라 신설)에 맞춰 루틴-수집 영역을 갱신하고, 시장지도 노드별 종합 페이지 레이어를 신설.
