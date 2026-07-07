@@ -1,0 +1,75 @@
+---
+title: "가스 발전 (신설 CCGT·온사이트) — 시장 종합"
+created: 2026-07-06
+updated: 2026-07-06
+domain: finance
+type: claim
+weight: reference
+confidence: low
+tags: [routine-news, market-summary, power-ai, gas-power]
+map: power-ai
+market_id: gas-power
+sources: ["https://www.utilitydive.com/news/ge-vernova-gas-turbine-investor/807662/", "https://www.naturalgasintel.com/news/data-centers-going-off-grid-with-natural-gas-to-find-any-way-to-get-power/"]
+---
+
+# 가스 발전 (신설 CCGT·온사이트) — 시장 종합
+
+**Gas-Fired Generation (New Build)** · ③ 발전원 · 규모 美 가스 신설 파이프라인 수십 GW · BTM 가스 ~18개월 배치 · 성장 발전용 가스터빈 수요 사상 최대
+
+> [!info] 자동 종합 노트
+> 이 파일은 시장지도 노드 `gas-power` 의 종합 페이지다. `indicator_dashboard` 루틴이 관리한다 —
+> **daily-market-analysis** 루틴이 담당 요일(금 — 유틸리티/전력 · 전력 인프라(AI) 그룹)에 [소속 기업 동향]을,
+> **market-research** 루틴이 주 1회 [시장 정의]·[병목 상태]·[시장 상황 종합]·[시장 뉴스 로그]를 갱신한다.
+> HTML 마커는 루틴의 앵커이므로 지우지 않는다. 사람은 굳어진 사실을 `wiki/topics/` 로 승격(promote)만 한다.
+
+## 시장 정의
+
+AI 전력의 주력 증분 전원 — 계통용 CCGT 신설과 BTM 온사이트 가스발전을 포괄.
+
+**수요 동인** — 24/7 베이스로드 가능 + 현존 최속 대규모 배치 경로. 재생 간헐성과 원자력 리드타임 사이의 현실적 절충.
+
+## 병목 상태 — 🔴 급성 병목 (`acute`)
+
+> [!claim] (출처: 시장지도 as_of 2026-07)
+> 상류 터빈이 제약 — 3사 모두 ’28~29 매진(’30~31 예약 진행). 신설 CCGT 건설단가 급등 + EPC 인력 부족. 장기적으로 가스 가격·탄소 규제가 변수.
+
+## 시장 상황 종합
+
+<!-- SYNTHESIS_START -->
+> [!claim] (as_of 2026-07 · market-research 루틴)
+> '전력 부족 = 가스 붐' — 신설 속도가 터빈 슬롯 배정에 좌우되고, IPP 밸류에이션은 전력 희소성 프리미엄을 반영 중.
+<!-- SYNTHESIS_END -->
+
+## 소속 기업 동향
+
+<!-- PLAYERS_START -->
+| 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
+|---|---|---|---|---|
+| Vistra | 텍사스 가스+원자력 플릿 — Meta 계약 | +0.18 (2026-07-03) | Meta·AWS 3,800MW PPA·Fitch IG vs PJM 가격상한·내부자 매도로 6일 -12% | [VST](../../tickers/VST - Vistra Corp.md) |
+| Constellation | Calpine 인수로 가스 플릿 최대급 | +0.19 (2026-07-03) | 1GW 원전 증설·MS 스리마일 20년 PPA·Calpine 통합 vs PJM 가격상한 오버행 YTD -20% | [CEG](../../tickers/CEG - Constellation Energy.md) |
+| NRG Energy | 텍사스 신설 — GEV 터빈 슬롯 선확보 | watchlist 외 | — | `NRG` |
+| Talen Energy | PJM IPP — 가스+원자력 | watchlist 외 | — | `TLN` |
+<!-- PLAYERS_END -->
+
+## 시장 뉴스 로그 (최신순)
+
+<!-- MARKET_NEWS_START -->
+- **2026-06** ＋ **'전력 부족 = 가스 붐' — 신설 CCGT·BTM 가스 발주 사상 최대** — 가스가 AI 전력의 주력 증분 전원으로 — 착공은 터빈 슬롯에 종속 (NGI) [↗](https://www.naturalgasintel.com/news/natural-gas-turbines-arent-gating-data-center-buildouts-ge-vernova-says/)
+<!-- MARKET_NEWS_END -->
+
+## 사실 누적 (Verified Facts)
+
+<!-- FACTS_START -->
+<!-- FACTS_END -->
+
+## 인접 시장 (지도 링크)
+
+- ⬅ 수요측 [BTM 구내·전용 발전 조달](btm.md) — 온사이트 가스 (~18개월)
+- ⬅ 수요측 [그리드 접속 · 유틸리티 조달 (FTM)](grid-ftm.md) — 계통용 CCGT 신설
+- ➡ 공급측 [가스터빈 제조](turbines.md) — 터빈 슬롯 배정 (병목)
+- ➡ 공급측 [천연가스 공급 · 미드스트림](natgas.md) — 연료 공급 계약
+
+## 관련 위키
+
+- [AI 데이터센터 전력 인프라 — 내 판단](../../../syntheses/ai-datacenter-power-infrastructure.md)
+- [GE Vernova](../../../entities/ge-vernova.md)
