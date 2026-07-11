@@ -136,6 +136,7 @@ sources: []
 - [개인 투자자용 All Weather 변형 포트폴리오](syntheses/personal-all-weather-variant.md) — 4분면 커버리지 유지 + 레버리지 포기 + 성장↑ 약한 가중치 (2026-04)
 - [반도체·AI 칩 가치사슬 종합](syntheses/semiconductor-ai-chip-value-chain.md) — 모래에서 AI 칩까지, 협상력·마진·해자의 집중 지점 6원리 (`domain: finance, ai`) (2026-06)
 - [AI 데이터센터 전력 인프라 종합](syntheses/ai-datacenter-power-infrastructure.md) — 발전~송배전 병목 지도 + SemiAnalysis grid headroom/ELCC 보강, 효율이 아니라 속도 (`domain: finance, ai`) (2026-07)
+- [ECTC 2026 AI 반도체 시스템 공동설계 전환](syntheses/ai-semiconductor-system-codesign-ectc-2026.md) — GPU 단품 경쟁에서 패키징·HBM·전력·냉각·네트워크 생태계 경쟁으로 이동 (`domain: finance, ai`) (2026-07)
 
 ---
 
