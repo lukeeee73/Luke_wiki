@@ -1,7 +1,7 @@
 ---
 title: "Finance Domain Index"
 created: 2026-05-02
-updated: 2026-07-04
+updated: 2026-07-11
 domain: finance
 type: index
 weight: foundational
@@ -50,6 +50,7 @@ sources: []
 - [개인 투자자용 All Weather 변형](../syntheses/personal-all-weather-variant.md) — 레버리지 없이 4분면을 커버하는 개인용 포트폴리오
 - [반도체·AI 칩 가치사슬 종합](../syntheses/semiconductor-ai-chip-value-chain.md) — 모래에서 AI 칩까지, 어디에 협상력·마진·해자가 집중되는가 (`domain: finance, ai`)
 - [AI 데이터센터 전력 인프라 종합](../syntheses/ai-datacenter-power-infrastructure.md) — 발전~송배전 병목 + SemiAnalysis grid headroom/ELCC 보강; 병목 = 가격 결정력, 효율이 아니라 속도 (`domain: finance, ai`)
+- [ECTC 2026 AI 반도체 시스템 공동설계 전환](../syntheses/ai-semiconductor-system-codesign-ectc-2026.md) — GPU 단품 성능에서 패키징·HBM·전력·냉각·네트워크 공동 최적화 경쟁으로 이동 (`domain: finance, ai`)
 
 ---
 
@@ -61,6 +62,7 @@ AI 반도체 투자 판단을 위한 가치사슬 지도. 진입점은 위 [종�
 - **기술/개념**: [EUV 노광(ASML)](../concepts/euv-lithography.md) · [CoWoS](../concepts/cowos.md) · [HBM](../concepts/hbm.md) · [CUDA](../concepts/cuda.md) · [SerDes](../concepts/serdes.md)
 - **추론 효율 → HBM 수요**: [DSpark & Speculative Decoding](../concepts/speculative-decoding.md) — Decode 메모리 대역폭 병목과 HBM 수요 함수의 연결 (2026-06)
 - **소재 시장**: [폴리실리콘 — 태양광 vs 반도체 분기](../topics/polysilicon.md)
+- **시스템 공동설계**: [ECTC 2026 AI 반도체 시스템 공동설계 전환](../syntheses/ai-semiconductor-system-codesign-ectc-2026.md) — ECTC 2026/SemiAnalysis 기반 첨단 패키징·Custom HBM·직접 실리콘 냉각·광 인터커넥트 병목 정리
 - **미·중 격차**: [중국 반도체 격차 — ASML EUV 의혹·SMIC/화웨이·DeepSeek V4 학습 칩](../topics/china-chip-gap-deepseek-v4.md) — 추론은 화웨이로, 사전학습은 엔비디아 의존 (2026-06)
 
 ---

@@ -1,7 +1,7 @@
 ---
 title: "AI Domain Index"
 created: 2026-05-02
-updated: 2026-07-05
+updated: 2026-07-11
 domain: ai
 type: index
 weight: foundational
@@ -57,10 +57,11 @@ AI/LLM, 에이전트, 프롬프트 엔지니어링, AI 제품 관련 모든 페�
 
 ## AI 하드웨어 / 반도체 (`domain: finance, ai`)
 
-AI 칩 가치사슬 — 모델이 실제로 돌아가는 하드웨어 공급단. 진입점은 [반도체·AI 칩 가치사슬 종합](../syntheses/semiconductor-ai-chip-value-chain.md).
+AI 칩 가치사슬 — 모델이 실제로 돌아가는 하드웨어 공급단. 진입점은 [반도체·AI 칩 가치사슬 종합](../syntheses/semiconductor-ai-chip-value-chain.md)과 [ECTC 2026 AI 반도체 시스템 공동설계 전환](../syntheses/ai-semiconductor-system-codesign-ectc-2026.md).
 
 - **개념**: [LLM 서빙 스택 — 계층 구조](../concepts/llm-serving-stack.md) — 하드웨어→플랫폼(CUDA/ROCm)→커널→서빙엔진 계층 · [CUDA](../concepts/cuda.md) — 엔비디아 소프트웨어 해자 · [CoWoS](../concepts/cowos.md) · [HBM](../concepts/hbm.md) · [SerDes](../concepts/serdes.md) · [EUV 노광](../concepts/euv-lithography.md)
 - **기업**: [엔비디아](../entities/nvidia.md) · [TSMC](../entities/tsmc.md) · [브로드컴](../entities/broadcom.md) · [마벨](../entities/marvell.md) · [DeepSeek](../entities/deepseek.md)
+- **시스템 공동설계**: [ECTC 2026 AI 반도체 시스템 공동설계 전환](../syntheses/ai-semiconductor-system-codesign-ectc-2026.md) — 패키징·HBM·전력·냉각·광 인터커넥트가 AI 반도체 경쟁의 핵심 병목으로 이동
 - **미·중 격차**: [중국 반도체 격차 — DeepSeek V4 학습 칩](../topics/china-chip-gap-deepseek-v4.md) — 추론(화웨이) vs 사전학습(엔비디아 의존) 구분 (2026-06)
 
 ---

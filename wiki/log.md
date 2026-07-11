@@ -627,3 +627,22 @@ sources: []
 - **업데이트된 파일**:
   - `wiki/news/README.md` - 시장 지도 연결 안내 callout 추가. 파일명 규칙(`{TICKER} - {COMPANY}.md`)이 대시보드 자동 매칭의 계약임을 명시.
 - **영향**: 이 vault 의 노트 경로·뉴스 로그 파일명이 대시보드 시장 지도에서 참조되므로, 해당 파일들을 옮기거나 이름을 바꿀 때는 `Indicator_dashboard/data/markets/ai-semiconductor.json` 의 `wiki` 경로도 함께 갱신해야 한다.
+
+---
+
+## 2026-07-11
+
+### [INGEST] SemiAnalysis ECTC 2026 — AI 반도체 시스템 공동설계 전환
+
+- **작업**: 사용자가 제공한 SemiAnalysis ECTC 2026 분석 메모를 원본 자료로 보존하고, AI 반도체 경쟁 구도의 종합 판단 페이지로 승격
+- **생성된 파일**:
+  - `sources/semianalysis-ectc-2026-ai-semiconductor-system-codesign.md` - 원본 메모
+  - `wiki/syntheses/ai-semiconductor-system-codesign-ectc-2026.md` - 시스템 공동설계 전환 종합
+- **업데이트된 파일**:
+  - `wiki/domains/ai.md` - AI 하드웨어 섹션에 신규 종합 링크 추가
+  - `wiki/domains/finance.md` - 반도체·AI 칩 가치사슬 및 내 판단 섹션에 신규 종합 링크 추가
+  - `wiki/index.md` - Syntheses 섹션에 신규 페이지 링크 추가
+- **주요 내용**:
+  1. AI 반도체 경쟁이 GPU 연산 성능 중심에서 연산·메모리·패키징·전력 전달·냉각·네트워크 공동설계로 이동
+  2. EMIB-T, Custom HBM, 직접 실리콘 냉각, 광 인터커넥트를 핵심 병목 기술로 정리
+  3. 기존 강자의 인접 영역 확장과 전문기업의 병목 보완 역할을 투자/산업 분석 관점에서 구분
