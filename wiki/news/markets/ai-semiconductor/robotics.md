@@ -1,7 +1,7 @@
 ---
 title: "휴머노이드 로봇 · 피지컬 AI — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-15
 domain: finance
 type: claim
 weight: reference
@@ -45,7 +45,7 @@ AI 파운데이션 모델(VLA)을 탑재해 실세계 범용 작업을 수행하
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Tesla (Optimus) | Optimus V3 ’26 양산 목표 — 핸드 설계·희토류 이슈로 지연 | -0.21 (2026-07-01) | BYD Q2 BEV 1위 탈환(55.7만 vs 39.6만), 미국 Q2 판매 -13%, Q2 인도 발표 대기(7/2, 컨센 ~40.6만) | [TSLA](../../tickers/TSLA - Tesla Inc.md) |
+| Tesla (Optimus) | Optimus V3 ’26 양산 목표 — 핸드 설계·희토류 이슈로 지연 | +0.11 (2026-07-15) | 2분기 인도 48만대로 컨센서스 상회했지만 주가는 -8%, 마이애미 무감독 로보택시 개시·NHTSA FSD 조사 격상 | [TSLA](../../tickers/TSLA - Tesla Inc.md) |
 | NVIDIA | Jetson Thor + Isaac GR00T — 로보틱스의 '안드로이드' 전략 (무기상) | +0.38 (2026-06-30) | Palantir 정부 AI·RTX Spark·Vera Rubin 풀생산, 단 5월 고점 대비 -23% | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
 | Figure AI | Figure 03 + Helix VLA, BotQ 자체 양산 (비상장, ~$39B) | — | — | 비상장 |
 | Unitree | 저가 휴머노이드(G1 $16K) 출하 1위권, 상하이 IPO 추진 | — | — | 비상장 |

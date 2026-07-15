@@ -1,7 +1,7 @@
 ---
 title: "로봇 구동부품 (감속기·액추에이터·자석) — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-15
 domain: finance
 type: claim
 weight: reference
@@ -45,11 +45,11 @@ sources: ["https://www.intelmarketresearch.com/robot-harmonic-drive-reduction-ge
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Harmonic Drive Systems | 스트레인 웨이브 감속기 글로벌 1위 — 휴머노이드 관절용 신제품 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | [6324.T](../../tickers/6324.T - Harmonic Drive Systems.md) |
+| Harmonic Drive Systems | 스트레인 웨이브 감속기 글로벌 1위 — 휴머노이드 관절용 신제품 | +0.27 (2026-07-15) | 순이익 54%↓에도 휴머노이드 수주 기대감에 주가 8.2%↑, 출처 신뢰도 낮아 후속 확인 필요 | [6324.T](../../tickers/6324.T - Harmonic Drive Systems.md) |
 | Nabtesco | RV 감속기 세계 1위 — 대관절·고하중용 | watchlist 외 | — | `6268.T` |
 | Leaderdrive | 중국 하모닉 감속기 1위 (중국 30–40%, JPM) · 점유 35% | watchlist 외 | — | `688017.SS` |
 | Sanhua · Tuopu | 테슬라 Optimus 액추에이터 모듈 체인 | watchlist 외 | — | `002050.SZ` |
-| MP Materials | 비중국 희토류 채굴→자석 수직계열화 — DoD 우선주 $4억 + 10년 구매보증 | +0.18 (2026-06-30) | Q1 NdPr 917톤 기록·Needham 매수·상용 자석생산, 중국 수출통제 리스크 | [MP](../../tickers/MP - MP Materials Corp.md) |
+| MP Materials | 비중국 희토류 채굴→자석 수직계열화 — DoD 우선주 $4억 + 10년 구매보증 | +0.26 (2026-07-15) | 애플·美국방부 대형 자석계약 확보했으나 中 수출통제 등재·경쟁사와 영업비밀 소송 병행 | [MP](../../tickers/MP - MP Materials Corp.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)
