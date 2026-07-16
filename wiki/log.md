@@ -15,6 +15,29 @@ sources: []
 
 ## 2026-07-16
 
+### [INGEST] SemiAnalysis — The Future of Meta Superintelligence (1년 진행 업데이트)
+
+- **작업**: 사용자가 공유한 SemiAnalysis 뉴스레터 링크(`the-future-of-meta-superintelligence`)를 원본으로 삼아 처리. **접근 제약**: 이 세션에서 `WebFetch`가 해당 URL을 포함해 모든 외부 사이트(Wikipedia 등 페이월 없는 사이트 포함)에서 403을 반환 — 세션 단위 정책 차단으로 원문 직접 확보 불가. `WebSearch`로 얻은 2차 인용·요약(X 게시글, Yahoo Finance, Techmeme, Dealroom, Fortune, Bisnow, ZeroHedge 등)을 짜깁기해 `confidence: low`로 정리.
+- **생성된 파일**:
+  - `sources/semianalysis-meta-superintelligence-1yr-progress.md` — 2차 출처 재구성 원본 캡처, 접근 제약 명시
+  - `wiki/entities/meta.md` — 메타/MSL 엔티티 프로필 (`domain: finance, ai`, `type: entity`)
+  - `wiki/topics/meta-superintelligence-1yr-progress.md` — 리포트 내용 정리 (`type: claim`, `confidence: low`)
+- **업데이트된 파일**:
+  - `wiki/domains/ai.md` — 사례/분석·관련 인물 섹션에 신규 링크 추가
+  - `wiki/domains/finance.md` — 반도체·AI 칩 가치사슬 섹션에 신규 링크 추가
+  - `wiki/index.md` — Entities>AI·Topics>AI 섹션에 신규 링크 추가
+  - `wiki/syntheses/ai-datacenter-power-infrastructure.md` — 관련 노트에 Titan 클러스터 사례 링크 추가
+- **주요 내용**:
+  1. MSL이 엔지니어 ~3,000명을 RL 환경 구축으로 재배치("RL 환경 팩토리")
+  2. 5개 1GW+ Titan 클러스터 동시 건설(Prometheus/Ohio, Hyperion/Louisiana, El Paso·Iowa·Indiana 미공개 3곳), 2,000km+ scale-across(AI-Backbone)
+  3. 인재 전쟁 — Scale AI $14.3B, Alexandr Wang/SEAL 팀 영입, $1B+ 보상 패키지
+  4. Llama 4 Behemoth 실패 사후분석 — chunked attention 선택, 크롤러 전환 데이터 정제 실패
+  5. Hyperion SPV — $27B 부채+$2.5B 지분, Blue Owl 80%/메타 20%, 오프밸런스시트 "AI 인프라 담보부 증권"
+  6. SemiAnalysis 평가: 메타가 6개월 내 구글 추월, Anthropic/OpenAI 따라잡을 "가장 좋은 기회" — 단일 애널리스트 낙관론, `confidence: low` 유지
+- **미해결 (원문 확보 시 보강)**: Google DeepMind에 대한 구체적 조언, Yann LeCun 등 FAIR 리더십 최신 거취, 재무 수치 원문 검증
+
+---
+
 ### [INGEST] Lilian Weng — Scaling Laws, Carefully
 
 - **작업**: Lilian Weng의 "Scaling Laws, Carefully"(2026-06-24, Lil'Log) 한국어 주석 인쇄용 HTML 클리핑을 원본으로 보존하고, 스케일링 법칙 프레임워크 개념 페이지로 정제

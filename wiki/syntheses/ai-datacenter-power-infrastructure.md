@@ -310,6 +310,8 @@ flowchart LR
 
 **자매 종합**: [반도체·AI 칩 가치사슬 종합](semiconductor-ai-chip-value-chain.md) — 컴퓨팅 공급 vs 전력 공급
 
+**사례**: [Meta Superintelligence — 1년 진행 업데이트](../topics/meta-superintelligence-1yr-progress.md) — Titan 클러스터(Prometheus·Hyperion)의 전력 조달·오프밸런스시트 파이낸싱이 이 종합의 "speed to power" 원리를 보여주는 구체적 사례 (`confidence: low`, 2026-07)
+
 **원칙/프레임**: [2×2 경제 환경 프레임](../principles/economic-quadrants.md)
 
 **도메인**: [Finance](../domains/finance.md) · [AI](../domains/ai.md)

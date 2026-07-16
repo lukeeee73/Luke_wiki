@@ -83,6 +83,7 @@ sources: []
 - [OpenAI](entities/openai.md) — ChatGPT, Sora, Codex 개발사
 - [Google DeepMind](entities/google-deepmind.md) — Gemini, Lyria 3 개발사
 - [World Labs](entities/world-labs.md) — Marble 생성 월드 모델 개발사
+- [메타 (Meta Platforms) / MSL](entities/meta.md) — Meta Superintelligence Labs, Titan 클러스터 컴퓨트 램프 (`domain: finance, ai`)
 
 ### Finance
 - [Ray Dalio](entities/ray-dalio.md) — Bridgewater Associates 창립자, Big Cycle·Risk Parity·All Weather 제안자
@@ -113,6 +114,7 @@ sources: []
 - [Karpathy Autoresearch](topics/karpathy-autoresearch.md) — AI 에이전트의 단일 GPU 자율 ML 실험 루프, 630줄 train.py 분석 (2026-05)
 - [AI 신약 개발 — 발굴은 압축, 임상은 불변](topics/ai-drug-discovery.md) — AlphaFold3/IsoDDE/GPT-Rosalind, 임상 1상 80~90% vs 2상 40%, 50:1 바이오벅스 (`domain: ai, finance`) (2026-06)
 - [The Batch Issue 347](topics/the-batch-issue-347.md) — AI 뉴스 스냅샷 (2026-04)
+- [Meta Superintelligence — 1년 진행 업데이트](topics/meta-superintelligence-1yr-progress.md) — SemiAnalysis: RL 환경 팩토리, Titan 클러스터, 인재 전쟁, Behemoth 실패 사후분석 (`domain: finance, ai`, `confidence: low`, 2026-07)
 
 ### Finance
 - [Ray Dalio All Weather Portfolio](topics/all-weather-portfolio.md) — 상관관계·Risk Parity·4분면 프레임 기반 전략 (2026-04)

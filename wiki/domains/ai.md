@@ -47,6 +47,7 @@ AI/LLM, 에이전트, 프롬프트 엔지니어링, AI 제품 관련 모든 페�
 - [Karpathy Autoresearch](../topics/karpathy-autoresearch.md) — AI 에이전트가 단일 GPU에서 자율 ML 실험 (630줄, 2026-05)
 - [AI 신약 개발 — 발굴은 압축, 임상은 불변](../topics/ai-drug-discovery.md) — AI는 발굴(1상 80~90%)을 압축하나 임상(2상 ~40%)의 벽에서 멈춘다 (`domain: ai, finance`, 2026-06)
 - [The Batch Issue 347 요약](../topics/the-batch-issue-347.md) — 2026년 AI 뉴스 스냅샷
+- [Meta Superintelligence — 1년 진행 업데이트](../topics/meta-superintelligence-1yr-progress.md) — SemiAnalysis 분석: RL 환경 팩토리, Titan 클러스터 컴퓨트 램프, 인재 전쟁, Behemoth 실패 사후분석 (`domain: finance, ai`, `confidence: low` — 2차 출처 재구성, 2026-07)
 
 ---
 
@@ -85,3 +86,4 @@ AI 칩 가치사슬 — 모델이 실제로 돌아가는 하드웨어 공급단.
 - [OpenAI](../entities/openai.md)
 - [Google DeepMind](../entities/google-deepmind.md)
 - [World Labs](../entities/world-labs.md)
+- [메타 (Meta Platforms) / Meta Superintelligence Labs](../entities/meta.md) — MSL 조직 구조·인재 전쟁·컴퓨트 램프 (`domain: finance, ai`)

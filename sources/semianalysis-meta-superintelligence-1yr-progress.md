@@ -1,0 +1,94 @@
+---
+title: "SemiAnalysis — The Future of Meta Superintelligence: A 1 Year Progress Update"
+created: 2026-07-16
+updated: 2026-07-16
+domain: finance, ai
+type: source
+weight: reference
+confidence: low
+tags: [source, SemiAnalysis, Meta, MSL, 메타, 슈퍼인텔리전스, 컴퓨트, 데이터센터, 파이낸싱, 인재전쟁]
+url: "https://newsletter.semianalysis.com/p/the-future-of-meta-superintelligence"
+author: "SemiAnalysis (Dylan Patel 외 — 바이라인 미검증, 아래 '접근 제약' 참조)"
+published: "2026-07-09"
+---
+
+# SemiAnalysis — The Future of Meta Superintelligence: A 1 Year Progress Update
+
+## 원문 정보
+
+- URL: https://newsletter.semianalysis.com/p/the-future-of-meta-superintelligence
+- 저자/기관: SemiAnalysis. 2차 출처(X 게시글)에서 확인된 바이라인 후보는 Max Kan, Julien Martin-Prin, Jeremie Eliahou Ontiveros, Dylan Patel — **철자·전체 명단 미검증**.
+- 발행일: 2026-07-09 (2차 출처 기준. Techmeme 색인은 2026-07-10)
+- 접근일: 2026-07-16
+- 전편: 2025-07 발행된 "Meta Superintelligence – Leadership, Compute, Talent, and Data"의 **1년 후 진행 상황 업데이트**.
+- 원문 성격: 유료 뉴스레터/리서치 (SemiAnalysis Advanced+급 유료 구독 전제로 추정).
+
+> [!danger] 접근 제약 — 원문을 직접 읽지 못했음
+> 이 세션에서 `WebFetch` 도구가 이 URL을 포함해 **모든 외부 사이트에서 403 Forbidden**을 반환했다(Wikipedia 등 페이월 없는 사이트도 동일하게 차단됨 — 세션 단위 정책 차단으로 추정, SemiAnalysis 페이월 문제가 아님). 원문 전체를 확보할 수 없어 **WebSearch로 얻은 2차 인용·요약(트윗, Yahoo Finance, Techmeme, Dealroom, Fortune, Bisnow, ZeroHedge, Built In, Rohan Paul 트윗 등)을 짜깁기**해 이 파일을 작성했다. 따라서:
+> - 아래 내용은 **원문의 직접 인용이 아니라 2차 출처의 재구성**이다.
+> - 수치·인용문의 정확한 문맥, 원문에만 있는 세부 논증, 차트/표는 반영되지 못했다.
+> - `confidence: low`로 표시하고, 어떤 2차 출처에서 나온 조각인지 각 항목에 표시한다.
+> - 나중에 원문 접근이 가능해지면 이 파일과 하위 위키 페이지를 원문 기준으로 재검증할 것.
+
+## 읽은 이유
+
+메타의 AI 전략(컴퓨트 램프, 인재 전쟁, 파이낸싱 구조, 모델 전략)을 다루는 SemiAnalysis의 대표적 심층 리포트로, 사용자가 직접 링크를 공유해 위키에 편입을 요청함. AI 도메인에 Meta 엔티티 페이지가 아직 없었던 공백을 메운다.
+
+## 원문 요약 (2차 출처 재구성)
+
+> [!summary] 한 줄 요약
+> 지난 1년간 메타는 조직을 급진적으로 재편하고 사상 최대 규모의 컴퓨트·인재 투자를 감행했으며, SemiAnalysis는 "데이터·인재·컴퓨트 세 축 모두에서 프런티어급이 될 가능성이 있는 유일한 하이퍼스케일러"로 메타를 평가한다 — 다만 이는 SemiAnalysis 한 곳의 낙관적 평가이며 검증된 사실이 아니다.
+
+### 컴퓨트 / 데이터센터 (Titan 클러스터)
+
+> [!claim] 출처: X(@SemiAnalysis_) 게시글 요약, Global Data Center Hub, Fortune, Bisnow
+> 메타는 동시에 5개의 1GW+ "타이탄" 클러스터를 건설 중: Ohio의 **Prometheus**, Louisiana의 **Hyperion**, 그리고 El Paso·Iowa·Indiana의 이름 미공개 3개 캠퍼스.
+
+> [!claim] Prometheus (Ohio) — 출처: WebSearch 요약(2차)
+> 이미 부분 가동 중. 초기 ~1GW에서 2년 내 **3GW+**로 확장. 50만 개 GPU, 1,020MW 전력. 집계 피크 성능은 약 **3.17 ExaFLOPS**(500,000 GPU × 개별 GPU 피크 약 6.34 PFLOPS로 역산 가능한 수치 — 원문의 정확한 산출 방식은 미확인).
+
+> [!claim] Hyperion (Louisiana) — 출처: WebSearch 요약(2차)
+> 2027년 말까지 세계 최대 단일 캠퍼스가 될 예정. 1단계 IT 전력 1.5GW+. 세계 최대 단일 건물(400MW급) 3동 + 표준 100MW급 건물 3동, 총 1.5GW 규모로 건설 중.
+
+> [!claim] Scale-across / AI-Backbone — 출처: WebSearch 요약(2차)
+> Prometheus 이외의 타이탄들은 최대 **2,000km 이상 떨어진 캠퍼스를 연결**하는 "scale-across" 전략을 쓴다. 메타는 기존 "10X Backbone"을 AI용으로 진화시킨 **AI-Backbone(AIBB)**을 도입 — 여러 L3 Superspine이 다수의 scale-out 리전을 상호 연결하는 구조.
+
+> [!claim] 컴퓨트 총량 전망 — 출처: WebSearch 요약(2차, SemiAnalysis Tokenomics Model 인용)
+> SemiAnalysis의 Tokenomics Model은 2026년 말까지 메타가 OpenAI와 Anthropic을 합친 것보다 많은 AI 컴퓨트를 보유할 것으로 전망한다. 근거로 하이퍼스케일러 대차대조표의 여력과, 저커버그가 잉여현금흐름(FCF) 마이너스를 감수할 의지를 든다.
+
+### RL 환경 팩토리 / 데이터 전략
+
+> [!claim] 출처: WebSearch 요약(2차)
+> 메타는 약 **3,000명의 엔지니어**를 RL(강화학습) 태스크·환경 구축 전담으로 재배치했다. 사내 직원 워크플로우를 추적해 대규모 자체 RL 환경 "팩토리"를 구축 — 차세대 에이전트 훈련을 위한 독자적 데이터 파이프라인이라는 평가. SemiAnalysis는 이를 "허공에서 생겨난 최상위급 RL 환경 스타트업"에 비유했다(사내 조직이 실질적으로 외부 스타트업 수준의 역량을 갖췄다는 뜻).
+
+### 인재 전쟁
+
+> [!claim] 출처: WebSearch 요약(2차)
+> Alexandr Wang과 그의 Scale AI 산하 SEAL(Safety, Evaluations, and Alignment Labs) 팀 핵심 인력을 영입하기 위한 **$14.3B 규모의 Scale AI "투자"**. 최상위 AI 연구자·엔지니어에게 수억 달러, 일부는 **$1B+** 규모의 보상 패키지 제시.
+
+### 조직 구조 (전편 기준, 진행 업데이트에서도 참조되는 것으로 추정)
+
+> [!claim] 출처: X(@SemiAnalysis_) 게시글, Built In — 2025-07 전편 및 2026-07 업데이트 혼합 재구성, 시점 구분 불완전
+> Meta Superintelligence Labs(MSL)는 4개 팀으로 조직: **TBD Lab**(최대 모델 훈련·스케일링), **FAIR**(메타의 장기 연구 조직, Rob Fergus·Yann LeCun 리드로 보고됨 — 얀 르쿤의 이후 거취는 별도 확인 필요), **Products and Applied Research**(전 GitHub CEO Nat Friedman 총괄), **MSL Infrastructure**(전 VP Eng Aparna Ramani, 전 AGI Foundations 리드 Amir Frenkel 공동 리드).
+
+### 모델 전략 — Llama 4 Behemoth 실패 사후 분석
+
+> [!claim] 출처: WebSearch 요약(2차)
+> Behemoth에 chunked attention을 채택한 것이 실수였을 수 있다는 평가. Llama 3 405B 대비 훨씬 많은 토큰이 필요했고, 훈련 중간에 자체 구축한 웹 크롤러로 전환했다가 역효과 — 대규모로 스트레스 테스트되지 않은 프로세스로 새 데이터 스트림을 정제·중복제거하는 데 어려움을 겪었다.
+
+### 파이낸싱 구조 (Hyperion SPV, 2025-10 체결 배경)
+
+> [!claim] 출처: Global Data Center Hub, Fortune, Bisnow, ZeroHedge(2차)
+> Hyperion은 Morgan Stanley가 주선한 SPV를 통해 **$27B A+ 등급 부채 + $2.5B 지분**을 조달(PIMCO $18B, BlackRock $3B 앵커). Blue Owl이 SPV 지분 80%, 메타 20% — 메타는 장기 운영리스로 시설을 임차해 자본지출(CapEx)을 운영비용(OpEx)으로 전환. 오프밸런스시트 처리 + 투자등급 신용 + 잔존가치보증(RVG)을 결합한 최초의 하이퍼스케일 프로젝트로 평가되며, "AI 인프라 담보부 증권"이라는 새로운 자산군의 시초로 묘사됨.
+> ※ 참고: UBS는 AI 관련 부채가 분기당 ~$100B씩 증가 중이라 추정하고, Morgan Stanley는 2028년까지 테크 기업들의 오프밸런스시트 신용 의존이 최대 $800B에 이를 수 있다고 전망(더 넓은 업계 트렌드 — 메타 한정 수치 아님).
+
+### 경쟁 포지셔닝
+
+> [!claim] 출처: WebSearch 요약(2차, Yahoo Finance/Investing.com 인용 "Meta set to overtake Google's frontier AI models in six months")
+> SemiAnalysis는 지난 1년의 급진적 재편과 공격적 자본 투입 이후, 메타 슈퍼인텔리전스가 향후 6개월 내 구글을 프런티어 AI 서열에서 추월할 위치에 있다고 평가하며 "구글이 극적으로 퇴색했다(faded dramatically)"고 표현한다. 종합적으로 메타가 Anthropic/OpenAI를 따라잡을 "가장 좋은 기회"를 가진 것으로 평가하고, 데이터·인재·컴퓨트 세 축 모두에서 세계적 수준에 도달할 궤도에 있는 유일한 하이퍼스케일러라고 주장한다. 원문에는 Google DeepMind를 향한 조언도 포함된 것으로 보이나, 구체적 내용은 2차 출처에서 확인 못함.
+
+## 위키로 승격할 후보
+
+- [x] `wiki/entities/meta.md` — Meta / MSL 엔티티 프로필 (신규)
+- [x] `wiki/topics/meta-superintelligence-1yr-progress.md` — 이 리포트의 주장 정리 (신규)
+- [ ] 원문 직접 확보 후: 조직 구조 최신 인물 변동(얀 르쿤 거취 등), 재무 수치, Google DeepMind에 대한 구체적 조언 내용 보강
