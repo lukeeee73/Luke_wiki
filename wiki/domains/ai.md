@@ -1,7 +1,7 @@
 ---
 title: "AI Domain Index"
 created: 2026-05-02
-updated: 2026-07-11
+updated: 2026-07-16
 domain: ai
 type: index
 weight: foundational
@@ -32,6 +32,7 @@ AI/LLM, 에이전트, 프롬프트 엔지니어링, AI 제품 관련 모든 페�
 - [Claude Code](../concepts/claude-code.md) — Anthropic의 CLI 코딩 에이전트 개요
 - [음성 기반 AI](../concepts/voice-based-ai.md) — Voice-first AI 트렌드와 기술 스택
 - [Muon Optimizer](../concepts/muon-optimizer.md) — 행렬 파라미터 직교화 기반 옵티마이저 (Polar Express + NorMuon)
+- [스케일링 법칙 (Neural Scaling Laws)](../concepts/scaling-laws.md) — 거듭제곱 법칙, Kaplan(C^0.73) vs Chinchilla(C^0.5) 자원 배분 논쟁, C≈6ND, 데이터 제약 스케일링, 피팅의 함정
 - [DSpark & Speculative Decoding](../concepts/speculative-decoding.md) — 가중치 불변·lossless로 Decode 메모리 대역폭 병목을 가속하는 드래프트 기법 (`domain: ai, finance`)
 - [GitHub Actions 저장소 간 자동화 — 토큰과 트리거](../concepts/github-actions-cross-repo-tokens.md) — repository_dispatch로 저장소 경계를 넘는 트리거, 방향이 반대인 두 토큰(WIKI_REPO_TOKEN vs DASHBOARD_DISPATCH_TOKEN) 구분
 
@@ -80,6 +81,7 @@ AI 칩 가치사슬 — 모델이 실제로 돌아가는 하드웨어 공급단.
 - [Anthropic](../entities/anthropic.md)
 - [Andrej Karpathy](../entities/andrej-karpathy.md)
 - [Andrew Ng](../entities/andrew-ng.md)
+- [Lilian Weng](../entities/lilian-weng.md) — Lil'Log 저자, 스케일링 법칙 정리 글
 - [OpenAI](../entities/openai.md)
 - [Google DeepMind](../entities/google-deepmind.md)
 - [World Labs](../entities/world-labs.md)

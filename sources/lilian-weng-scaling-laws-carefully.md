@@ -1,0 +1,110 @@
+---
+title: "Scaling Laws, Carefully"
+created: 2026-07-16
+updated: 2026-07-16
+domain: ai
+type: source
+weight: reference
+confidence: medium
+tags: [source, scaling-laws, llm, kaplan, chinchilla]
+url: "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/"
+author: "Lilian Weng"
+published: "2026-06-24"
+---
+
+# Scaling Laws, Carefully
+
+## 원문 정보
+
+- URL: https://lilianweng.github.io/posts/2026-06-24-scaling-laws/
+- 저자/기관: Lilian Weng (Lil'Log)
+- 발행일: 2026-06-24 (원문 예상 읽기 시간 25분)
+- 수집일: 2026-07-16 (한국어 주석·유도 포함 인쇄용 HTML 클리핑에서 추출)
+
+## 읽은 이유
+
+딥러닝의 가장 중요한 경험적 발견인 스케일링 법칙을 처음부터(1990년대 이론) Kaplan·Chinchilla 논쟁, 데이터 제약 상황, 실제 피팅의 함정까지 한 흐름으로 정리한 글. LLM 사전학습의 자원 배분(모델 크기 N vs 데이터 D)을 판단하는 프레임워크로 유용.
+
+## 원문 요약
+
+### 큰 틀
+
+스케일링 법칙은 모델 크기 N, 데이터 크기 D, 연산량 C 를 키우면 손실 L 이 **거듭제곱 법칙(power law)** 으로 예측 가능하게 줄어든다는 관계다. 로그-로그 그래프에서 직선으로 나타나며, 그 기울기가 지수다. 실무 흐름: 작고 값싼 모델로 법칙을 피팅한 뒤 훨씬 큰 모델의 토큰·연산 소요치를 외삽(extrapolate)한다. 본질은 "정해진 연산 예산을 N 과 D 에 어떻게 나눌 것인가"라는 자원 배분 문제.
+
+이 글의 모든 손실 함수는 하나의 틀을 반복 변주한다: **"모델이 작아서 생기는 오차 + 데이터가 적어서 생기는 오차 + 어쩔 수 없는 바닥 오차(E)"**.
+
+기호: N=파라미터 수, D=학습 토큰 수, C=연산량(FLOPs, C≈6ND), E=줄지 않는 바닥 손실.
+
+### 초기 연구 (거듭제곱 법칙의 뿌리)
+
+- **Amari 외 (1992)**: 베이즈/어닐드 근사로 네 가지 학습 곡선 유도. ε ~ c·D^α + E 하나로 묶임 (α = -2, -1, -1/2).
+- **Hestness 외 (2017)**: 신경망 번역·이미지분류·언어모델링·음성인식 4개 분야에서 공통 패턴 실증. **아키텍처를 바꾸면 오프셋(바닥 오차 E)은 바뀌지만 지수(α)는 거의 안 바뀐다** — 지수는 모델 구조보다 문제 자체의 성질에 가깝다. 학습 곡선 3구간(초반 랜덤 추측 → 거듭제곱 구간 → 바닥 오차 구간).
+- **Rosenfeld 외 (2020)**: 오차를 N, D 둘 다의 함수로. 결합형 L̂(D,N) ≈ A/N^α + B/D^β + E. "총 오차 = 모델 병목 + 데이터 병목 + 바닥 오차"의 덧셈 구조 → 한쪽 병목만 풀면 다른 쪽이 여전히 오차를 떠받친다. θ=⟨A,B,E,α,β⟩ 5개 파라미터로 외삽.
+- 고전적 VC 차원보다 경험적 거듭제곱 법칙이 더 실용적이라는 것이 드러남.
+
+### 데이터 무한 가정 하의 스케일링 법칙
+
+**Kaplan 외 (2020)** — 트랜스포머 언어모델에 스케일링 법칙을 널리 알린 연구. 비임베딩 파라미터 7.68억~15억, 데이터 2200만~230억 토큰.
+- 주요 발견: L 은 N, D, C 각각에 개별적으로 거듭제곱; 큰 모델일수록 표본 효율 높음; 아키텍처 세부(폭·종횡비)는 순수 규모보다 덜 중요.
+- 결합형: L̂(N,D) = [(a/N)^(α/β) + b/D]^β. 과적합 정도가 N^(α/β)/D 라는 비율 하나로 결정 → 데이터가 모델 성장에 맞춰 특정 비율로 커져야 함.
+- **핵심 결론(후에 논쟁적): N_opt ∝ C^0.73** — 모델을 데이터보다 빨리 키워라. 연산 10배 시 모델 ~5.5배, 토큰 ~1.8배. "큰 모델을 수렴 전에 멈춰라."
+- **C≈6ND 유도**: 표준 설정(d_attn=d_model=d_ff/4, 임베딩 제외)에서 N=12·n_layer·d_model². 순전파 C_fwd≈2N, 역전파는 순전파의 2배 → 토큰당 6N → C≈6ND. (GPT-2 small: n_layer=12, d_model=768 → N≈8490만, 임베딩 포함 실제 ~1.24억과 부합.)
+
+**Chinchilla (Hoffmann 외 2022)** — 같은 질문을 더 꼼꼼한 설계로 재검토. 파라미터 7000만~160억+, 토큰 50억~5000억, 400+ 모델. 데이터 무한(모든 토큰 유일) 가정.
+- 세 가지 독립 방법이 모두 **N_opt ∝ C^0.5** 로 수렴:
+  1. 모델 크기 고정, 토큰 예산 변경 (학습 곡선)
+  2. IsoFLOP 프로파일 (예산 고정, 손실 vs N 포물선의 최솟값)
+  3. 파라메트릭 피팅 L̂ = A/N^α + B/D^β + E (Rosenfeld와 동일 형태), Huber 손실(δ=1e-3)+L-BFGS
+- 제약 C≈6ND 하에서 미분해 닫힌 형태: N_opt=(αA/βB)^(1/(α+β))·(C/6)^(β/(α+β)), D_opt 대칭. **α≈β 이면 N 과 D 를 같은 비율로 키워라.**
+- 유명한 시연: Gopher(2800억 파라미터, 3000억 토큰)와 같은 예산으로 Chinchilla(700억 파라미터, 1조4000억 토큰) 학습 → 모델 1/4 크기지만 토큰 ~4배, 모든 벤치마크에서 Gopher 앞섬. → **당시 대형 모델 대부분이 "덜 학습됨(undertrained)".**
+
+**Kaplan vs Chinchilla 화해 (Pearce & Song 2024)**:
+- 차이 1: Kaplan 은 주로 작은 모델로 실험 → 로그-로그 외삽에서 작은 오차가 증폭.
+- 차이 2: **임베딩 파라미터 포함 여부**. 작은 모델에서 임베딩 비중이 큼. Kaplan 은 임베딩 제외 기준(N_\E ∝ C_\E^0.73), Chinchilla 는 전체 기준(N ∝ C^0.50).
+- 다리 식: N = N_\E + ω·N_\E^(1/3) (모델이 커질수록 임베딩 비중이 세제곱근으로 감소). 대입하면 깔끔한 거듭제곱이 아니라 **국소 지수 g = dlogC/dlogN** 로만 근사됨. g 는 큰 C 에서 0.5(Chinchilla)로 수렴, 작은 모델 영역에서 0.73(Kaplan)에 가까움. → **둘은 틀린 게 아니라 같은 곡선의 다른 지점을 본 것.**
+
+### 거듭제곱 법칙이 왜 나오는가 (가설, 미증명)
+
+- 거듭제곱 법칙은 지프의 법칙·스케일프리 네트워크·도시 스케일링 등 복잡계 전반에서 관찰.
+- **매니폴드 가설 (Sharma & Kaplan 2020)**: 언어모델링 = 저차원 데이터 매니폴드 위 회귀. 유효 크기 N 모델이 d차원 매니폴드를 O(N)개 영역으로 분할 → 영역 크기 ~N^(-1/d) → 거듭제곱. 내재적 차원 추정이 어렵다는 한계.
+- **양자화 가설 (Michaud 외 2023, Brill 2024)**: 지식·기술이 이산적 "양자화된" 단위로 학습되고 그 빈도 분포가 거듭제곱을 따름. 흔한 기술 먼저, 희귀한 기술 나중 → 매끄러운 거듭제곱 감쇠.
+
+### 데이터 제약 스케일링 법칙 (데이터 벽)
+
+전제: D 는 이미 정제된 데이터(중복 제거·품질 필터·안전성·오염 제거 등). 같은 토큰 수라도 고품질 vs "슬롭"은 결과가 다름.
+
+- **Hernandez 외 (2022)**: 90% 유일 + 10% 반복 혼합, 1000억 토큰. 반복 비중에 따라 **이중 하강(double descent)** — 테스트 손실이 나빠졌다 다시 좋아짐(반복 암기 추정). OOD·다운스트림 파인튜닝에도 악영향.
+- **Muennighoff 외 (2023)**: 데이터 제약 하 연산 배분. D = U_D(1+R_D) (고유 토큰 × 반복). 유효 데이터 D' = U_D + U_D·r_D·(1 - exp(-R_D/r_D)) — 반복 토큰 가치는 지수적으로 감소, 천장에 수렴(r_D=반감기). 초과 모델 크기 N' 도 대칭 형태. 경험적으로 **r_N < r_D (초과 파라미터가 반복 데이터보다 더 빨리 가치 상실) → 모델 키우기보다 에폭 늘리기에 자원 배분.** 약점: 학습 실패(44 에폭 등) 모델의 손실을 과소평가.
+- **Lovelace 외 (2026)**: 유효 크기 체감 대신 모델 크기×반복 상호작용을 명시적 모델링. 파라미터 1500만~10억, 고유 토큰 5000만~60억, ~300 모델. **명시적 과적합 벌점항**: L̂ = E + A/N^α + B/(U_D(1+R_D))^β + P·R_D^δ·(N/U_D)^κ. 용량 비율 N/U_D 와 반복 R_D 가 클수록 벌점↑ → **모델이 클수록 반복에 더 민감**. 강한 weight decay 가 반복 과적합 벌점을 줄임.
+- 두 접근 모두 경험적 곡선 피팅이라 "왜 이 형태여야 하는가"는 여전히 불명확.
+
+### 실제 피팅의 함정
+
+- 스케일링 법칙은 작은 모델에만 피팅되고 몇 자릿수 큰 모델로 외삽되므로 **반올림 오차처럼 보이는 사소한 선택이 큰 차이로 증폭**된다. 전제: "변하는 것은 규모뿐"(아키텍처·옵티마이저·LR·배치·데이터 혼합·토크나이저 동일, 이미 잘 튜닝됨).
+- 사례 1: Kaplan vs Chinchilla 불일치 자체.
+- 사례 2 (**Besiroglu 외 2024, Chinchilla 복제 시도**): Hoffmann 그림4 데이터 재추출. (a) Huber 손실을 합산이 아니라 예제 수로 평균 내 손실 스케일이 커져 L-BFGS-B 조기 종료 → 일관성 없는 추정·비정상적으로 좁은 신뢰구간. (b) α,β 를 소수 둘째 자리까지만 반올림 → 유도된 A,B 가 크게 어긋나 보임. 재추정치: L̂ = 482.01·N^(-0.3478) + 2085.43·D^(-0.3658) + 1.8172 → N_opt ∝ C^0.5126, D_opt ∝ C^0.4874 (합=1, 둘 다 ≈0.5로 Chinchilla와 일치).
+- 토이 시뮬레이션: 손실 정밀도(반올림 자릿수), 손실 노이즈(밀리로스 흔들림), 피팅 범위(작은/중간/전체 모델)에 따라 추정 결과가 크게 달라짐을 슬라이더로 확인.
+
+## 참고문헌 (원문)
+
+1. Amari, Fujita, Shinomoto. "Four Types of Learning Curves." Neural Computation 4(4), 1992.
+2. Hestness 외. "Deep Learning Scaling is Predictable, Empirically." arXiv:1712.00409, 2017.
+3. Rosenfeld 외. "A Constructive Prediction of the Generalization Error Across Scales." ICLR 2020. arXiv:1909.12673
+4. Kaplan 외. "Scaling Laws for Neural Language Models." arXiv:2001.08361, 2020.
+5. Hoffmann 외. "Training Compute-Optimal Large Language Models." NeurIPS 2022. arXiv:2203.15556
+6. Pearce, Song. "Reconciling Kaplan and Chinchilla Scaling Laws." TMLR 2024. arXiv:2406.12907
+7. Bahri 외. "Explaining Neural Scaling Laws." arXiv:2102.06701, 2021.
+8. Sharma, Kaplan. "A Neural Scaling Law from the Dimension of the Data Manifold." arXiv:2004.10802, 2020.
+9. Hernandez 외. "Scaling Laws and Interpretability of Learning from Repeated Data." arXiv:2205.10487, 2022.
+10. Muennighoff 외. "Scaling Data-Constrained Language Models." NeurIPS 2023. arXiv:2305.16264
+11. Lovelace 외. "Prescriptive Scaling Laws for Data Constrained Training." arXiv:2605.01640, 2026.
+12. Besiroglu 외. "Chinchilla Scaling: A Replication Attempt." arXiv:2404.10102, 2024.
+13. Michaud 외. "The Quantization Model of Neural Scaling." NeurIPS 2023. arXiv:2303.13506
+14. Brill. "Neural Scaling Laws Rooted in the Data Distribution." arXiv:2412.07942, 2024.
+15. Rae 외. "Scaling Language Models: ... Gopher." arXiv:2112.11446, 2021.
+
+## 위키로 승격할 후보
+
+- [x] `wiki/concepts/`: scaling-laws.md (거듭제곱 법칙 프레임 + Kaplan/Chinchilla + 데이터 제약 + 피팅 함정)
+- [x] `wiki/entities/`: lilian-weng.md (저자)
+- [ ] `wiki/comparisons/`: Kaplan vs Chinchilla 별도 비교 페이지 (필요 시)

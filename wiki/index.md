@@ -1,7 +1,7 @@
 ---
 title: "Wiki Index"
 created: 2026-04-05
-updated: 2026-07-05
+updated: 2026-07-16
 tags: [index, meta]
 sources: []
 ---
@@ -51,6 +51,7 @@ sources: []
 - [음성 기반 AI](concepts/voice-based-ai.md) — 음성 UI와 Voice Stack 기술 동향
 - [아첨(Sycophancy)](concepts/sycophancy.md) — LLM이 진실 대신 사용자가 듣기 원하는 말을 하는 경향과 대응 방법
 - [Muon Optimizer](concepts/muon-optimizer.md) — 2D 행렬 파라미터 직교화 옵티마이저 (Polar Express + NorMuon + Cautious WD)
+- [스케일링 법칙 (Neural Scaling Laws)](concepts/scaling-laws.md) — 거듭제곱 법칙 오차 분해, Kaplan(C^0.73) vs Chinchilla(C^0.5) 논쟁과 화해, 데이터 제약 스케일링, 피팅의 함정
 - [DSpark & Speculative Decoding](concepts/speculative-decoding.md) — 가중치 불변·lossless로 Decode 메모리 대역폭 병목을 가속하는 드래프트 기법 (`domain: ai, finance`)
 - [GitHub Actions 저장소 간 자동화 — 토큰과 트리거](concepts/github-actions-cross-repo-tokens.md) — repository_dispatch로 저장소 경계를 넘는 트리거, 방향이 반대인 두 토큰 구분
 
@@ -78,6 +79,7 @@ sources: []
 - [Anthropic](entities/anthropic.md) — Claude, Claude Code 개발사
 - [Andrej Karpathy](entities/andrej-karpathy.md) — AI 연구자, LLM Wiki 패턴 제안자
 - [Andrew Ng](entities/andrew-ng.md) — DeepLearning.AI 창립자, The Batch 저자
+- [Lilian Weng](entities/lilian-weng.md) — Lil'Log 저자, LLM·스케일링 법칙 심층 정리 블로거
 - [OpenAI](entities/openai.md) — ChatGPT, Sora, Codex 개발사
 - [Google DeepMind](entities/google-deepmind.md) — Gemini, Lyria 3 개발사
 - [World Labs](entities/world-labs.md) — Marble 생성 월드 모델 개발사

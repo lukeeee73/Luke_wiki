@@ -1,7 +1,7 @@
 ---
 title: "Wiki Log"
 created: 2026-04-05
-updated: 2026-07-07
+updated: 2026-07-16
 tags: [log, meta]
 sources: []
 ---
@@ -10,6 +10,27 @@ sources: []
 # Wiki Log
 
 위키의 모든 작업 이력을 시간순으로 기록합니다.
+
+---
+
+## 2026-07-16
+
+### [INGEST] Lilian Weng — Scaling Laws, Carefully
+
+- **작업**: Lilian Weng의 "Scaling Laws, Carefully"(2026-06-24, Lil'Log) 한국어 주석 인쇄용 HTML 클리핑을 원본으로 보존하고, 스케일링 법칙 프레임워크 개념 페이지로 정제
+- **생성된 파일**:
+  - `sources/lilian-weng-scaling-laws-carefully.md` — 원문 추출(요약·유도·참고문헌 15편)
+  - `wiki/concepts/scaling-laws.md` — 거듭제곱 법칙 프레임워크 정리 (`type: framework`, `domain: ai`)
+  - `wiki/entities/lilian-weng.md` — 저자 엔티티
+- **업데이트된 파일**:
+  - `wiki/domains/ai.md` — 프레임워크/개념·관련 인물 섹션에 신규 링크 추가
+  - `wiki/index.md` — Concepts>AI·Entities>AI 섹션에 신규 링크 추가
+- **주요 내용**:
+  1. 모든 손실식이 "모델 부족 오차 + 데이터 부족 오차 + 바닥 오차(E)"라는 단일 틀의 변주 (Amari 1992 → Hestness 2017 → Rosenfeld 2020)
+  2. `C ≈ 6ND` 유도 (`N = 12·n_layer·d_model²`, 순전파 2N + 역전파 4N)
+  3. Kaplan(`N_opt ∝ C^0.73`) vs Chinchilla(`N_opt ∝ C^0.5`, 3방법 수렴 + Gopher 시연) 논쟁과 Pearce&Song(2024) 화해 — 임베딩 파라미터·국소 지수 g
+  4. 데이터 제약 스케일링 — 이중 하강(Hernandez 2022), 유효 데이터 할인(Muennighoff 2023), 명시적 과적합 벌점(Lovelace 2026)
+  5. 실제 피팅의 함정 — Besiroglu(2024) Chinchilla 복제 시도가 드러낸 손실 정규화·반올림 민감도
 
 ---
 
