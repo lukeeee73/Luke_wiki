@@ -1,7 +1,7 @@
 ---
 title: "SRE - Sempra — Routine News Log"
 created: 2026-05-16
-updated: 2026-07-03
+updated: 2026-07-17
 domain: finance
 type: claim
 weight: reference
@@ -31,8 +31,9 @@ sources: []
 - [ ] **2026-05-29**: Q1 EPS 컨센서스 하회 + LNG 수출 용량 확대 승인 — 하반기 LNG 매출 기여 여부 (pending → ECA LNG 1단계 생산 개시로 진전, 매출 기여 시점 계속 추적)
 - [ ] **2026-06-05**: Voss Capital Oncor 분리 촉구 — 경영진 대응 및 분리 실현 가능성 (pending)
 - [ ] **2026-06-19**: SDG&E·SoCalGas 2028 GRC 신청 — CPUC 결정이 향후 캘리포니아 규제 수익에 미치는 영향 (pending)
-- [ ] **2026-06-26**: 인프라 지분 매각 규제 승인·클로징 지연 — 향후 7일 내 검증 (pending)
+- [ ] **2026-06-26**: 인프라 지분 매각 규제 승인·클로징 지연 — 향후 7일 내 검증 (aged-out 2026-07-17) — 3주 경과, CEO/CFO 리더십 재편 발표로 3분기 마감 목표 유지 중인 것으로 보임
 - [ ] **2026-07-03**: Port Arthur LNG 1단계 상업운전 일정 준수 여부 — 7일 내 검증 (pending)
+- [ ] **2026-07-17**: KKR向 100억달러 인프라 지분매각 3분기 마감 목표 진행상황 추적 (시한 9/30)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +50,40 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-17 (금) — 신호등: 🟢🟢 강한 순풍 (+0.21)
+
+**세 줄 요약**
+1. KKR 거래 마감 앞두고 CEO/CFO 경영진 재편 발표
+2. 최근 SRE 고유의 큰 뉴스는 없었으나, KKR向 100억달러 인프라 지분 매각이 3분기 마감을 앞두고 경영진 재편과 함께 순조롭게 진행 중인 점이 핵심 신호이며, 애널리스트 반응은 엇갈리고 있다.
+3. 다만 CPUC의 요금 인상 요구 삭감 이력에 따른 규제 리스크은(는) 지켜봐야 할 위험 요인이다.
+
+**뉴스 브리핑**
+
+**① KKR 거래 마감 앞두고 CEO/CFO 경영진 재편 발표** ⚪
+- **무슨 일**: KKR 거래 마감 앞두고 CEO/CFO 경영진 재편 발표
+- **왜 중요**: 인수합병·대형 계약은 회사의 사업 구조와 장기 성장 경로를 바꾼다.
+- **주가에 의미**: 직접적 주가 영향은 제한적이나 참고할 신호다.
+- 출처: [Sempra Newsroom](https://www.sempra.com/newsroom/press-releases/sempra-advances-strategic-priorities-key-leadership-appointments) · 2026-07-09
+
+**② TD코웬, KKR 인프라 매각 마무리 기대로 Strong-Buy 상향** 🟢
+- **무슨 일**: TD코웬, KKR 인프라 매각 마무리 기대로 Strong-Buy 상향
+- **왜 중요**: 실적·가이던스 변화는 이 회사의 이익 추정치와 밸류에이션을 직접 좌우한다.
+- **주가에 의미**: 단기 호재로 해석된다.
+- 출처: [Daily Political](https://www.dailypolitical.com/2026/07/09/sempra-energy-nysesre-upgraded-to-strong-buy-at-td-cowen.html) · 2026-07-09
+
+**③ Barclays 목표주가 소폭 하향, Overweight 유지** ⚪
+- **무슨 일**: Barclays 목표주가 소폭 하향, Overweight 유지
+- **왜 중요**: 실적·가이던스 변화는 이 회사의 이익 추정치와 밸류에이션을 직접 좌우한다.
+- **주가에 의미**: 직접적 주가 영향은 제한적이나 참고할 신호다.
+- 출처: [GuruFocus](https://www.gurufocus.com/news/8951677/sre-maintained-by-barclays-price-target-lowered-to-10300) · 2026-07-09
+
+**경쟁 구도 한눈에**
+- AEP, 데이터센터 파이프라인 56GW로 급증, 780억달러 자본계획 → SRE는 텍사스/캘리포니아 규제자산 비중이 커 상대적으로 노출도 낮음.
+- NEE, 데이터센터 허브 전략 확대 → SRE의 Oncor(텍사스 송전) 지분이 텍사스 데이터센터 성장 수혜 간접 노출로 재조명될 여지.
+
+**앞으로 지켜볼 것**
+- [ ] 9/30 KKR 인프라 매각 마감 목표 — 확인할 것: 3분기 내 클로징 여부
+
 ### 2026-07-03
 **narrative_score**: +0.14
 **key_events**: Port Arthur Louisiana Connector 조기 가동, Port Arthur LNG Ph1·2 순항(13.5 mtpa), ECA LNG 멕시코 첫 생산

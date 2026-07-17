@@ -1,7 +1,7 @@
 ---
 title: "NEE - NextEra Energy, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-07-03
+updated: 2026-07-17
 domain: finance
 type: claim
 weight: reference
@@ -31,8 +31,9 @@ sources: []
 - [ ] **2026-05-29**: Dominion과 $670억 합병 — 규제 승인 결과 (pending — 6/19 업데이트: Dominion 7월 규제 신청 예정, 버지니아 위원회 1월 결정 목표; 버지니아 입법부 정밀 검토 착수)
 - [ ] **2026-06-05**: 고금리 환경 주가 압박 — 규제 승인 후 합병 완료 시 주가 반등 여부 (pending)
 - [ ] **2026-06-19**: 버지니아 입법부 압축 심사 일정 우려 — 규제 안전장치 입법 전 승인 강요 여부 및 딜 일정 영향 (pending)
-- [ ] **2026-06-26**: VA SCC·NRC·FERC 다중 승인 지연/거부 리스크 — 향후 7일 내 검증 (pending)
-- [ ] **2026-07-03**: 버지니아 SCC·의회의 도미니언 병합 검토 진전 — 7일 내 검증 (pending)
+- [ ] **2026-06-26**: VA SCC·NRC·FERC 다중 승인 지연/거부 리스크 — 향후 7일 내 검증 (aged-out 2026-07-17) — 하위 07-03/07-17 항목으로 대체
+- [ ] **2026-07-03**: 버지니아 SCC·의회의 도미니언 병합 검토 진전 — 7일 내 검증 (verified 2026-07-17) — 5개 규제기관(버지니아 SCC 포함)에 665억달러 합병 정식 신청 완료(7/15), 심사 시계 개시
+- [ ] **2026-07-17**: SCC 등 5개 규제기관 승인까지 6개월+ 소요 — 승인/지연/무산 여부 추적 (시한 2027년 상반기 예상)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,6 +43,9 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] 도미니언 665억달러 합병, 버지니아 SCC 등 5개 규제기관에 정식 신청 (NextEra/Dominion 공동 보도자료, 2026-07-15)
+> 4개 주에 걸친 결합, 세계 최대 규제 유틸리티 지향. 왜 중요: 규제 승인 심사 시계가 공식적으로 시작됐다는 의미.
+
 > [!fact] (2026-05-18 발표, 복수 Tier-1 보도로 확정 2026-06-19) NextEra의 Dominion Energy 약 $67B 전액 주식교환 인수
 > NextEra Energy가 Dominion Energy를 약 $66.8~67B 전액 주식교환으로 인수해 세계 최대 규제 전력회사(약 1,000만 고객) 창출에 합의. FERC·NRC·버지니아/노스캐롤라이나/사우스캐롤라이나 주 규제 승인 필요, 완료 목표 12-18개월. 양사 이사회 만장일치 승인. (출처: CNBC, Reuters/Yahoo Finance, Connection Newspapers, SEC Form 425)
 <!-- FACTS_END -->
@@ -51,6 +55,40 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-17 (금) — 신호등: 🟢 순풍 (+0.15)
+
+**세 줄 요약**
+1. 버지니아 등 5개 규제기관에 665억달러 합병 승인 신청
+2. 도미니언 합병 규제 신청이 핵심 이슈로, 성사 시 세계 최대 규제 유틸리티가 되지만 5개 기관 승인이 필요해 2027~2028년까지 규제 불확실성이 이어진다.
+3. 다만 다중 규제기관 승인 지연 가능성은(는) 지켜봐야 할 위험 요인이다.
+
+**뉴스 브리핑**
+
+**① 버지니아 등 5개 규제기관에 665억달러 합병 승인 신청** ⚪
+- **무슨 일**: 버지니아 등 5개 규제기관에 665억달러 합병 승인 신청
+- **왜 중요**: 인수합병·대형 계약은 회사의 사업 구조와 장기 성장 경로를 바꾼다.
+- **주가에 의미**: 직접적 주가 영향은 제한적이나 참고할 신호다.
+- 출처: [PR Newswire](https://www.prnewswire.com/news-releases/nextera-energy-and-dominion-energy-file-to-combine-building-a-stronger-company-to-meet-growing-power-demand-across-four-of-americas-fastest-growing-states-while-keeping-energy-affordable-and-reliable-302826890.html) · 2026-07-15
+
+**② 주가 시장수익률 상회, 7월24일 실적 발표 예정** 🟢
+- **무슨 일**: 주가 시장수익률 상회, 7월24일 실적 발표 예정
+- **왜 중요**: 시장의 평가 변화(투자의견·자사주 등)는 단기 수급과 심리에 영향을 준다.
+- **주가에 의미**: 단기 호재로 해석된다.
+- 출처: [Zacks/Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/nextera-energy-nee-laps-stock-214505967.html) · 2026-07-16
+
+**③ BofA, 밸류에이션 부담으로 목표주가 93달러로 하향** 🔴
+- **무슨 일**: BofA, 밸류에이션 부담으로 목표주가 93달러로 하향
+- **왜 중요**: 실적·가이던스 변화는 이 회사의 이익 추정치와 밸류에이션을 직접 좌우한다.
+- **주가에 의미**: 단기 악재로 해석된다.
+- 출처: [Investing.com](https://www.investing.com/news/analyst-ratings/bofa-cuts-nextera-energy-stock-price-target-on-valuation-multiples-93CH-4787831) · 2026-07-09
+
+**경쟁 구도 한눈에**
+- 서던컴퍼니, 데이터센터發 전력수요 1분기 42% 급증 → 남동부 데이터센터 특수가 경쟁사 실적에도 반영, 넥스테라 플로리다 사업 성장 압박.
+- AEP, 2030년까지 63GW 데이터센터向 부하 확보 → AEP·DOE 정책금융 수혜 대비 넥스테라는 규제 승인 지연 리스크 상대적으로 부각.
+
+**앞으로 지켜볼 것**
+- [ ] 7/24 실적 발표 — 확인할 것: 도미니언 합병 규제심사 진행상황 코멘트
+
 ### 2026-07-03
 **narrative_score**: +0.15
 **key_events**: $67B 도미니언 인수 진행, 130GW+ 대용량 파이프라인, YTD +10.4%
