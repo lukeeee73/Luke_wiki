@@ -1,0 +1,87 @@
+---
+title: "BE - Bloom Energy Corporation — Routine News Log"
+created: 2026-07-17
+updated: 2026-07-17
+domain: finance
+type: claim
+weight: reference
+confidence: low
+tags: [routine-news, watchlist, BE]
+sources: []
+---
+
+# BE - Bloom Energy Corporation — Routine News Log
+
+**Bloom Energy Corporation** · Industrials · 전력 인프라 (AI) · 경쟁사: FCEL, GEV
+
+## 회사 소개
+
+Bloom Energy는 고체산화물 연료전지(SOFC, 화학반응으로 전기를 직접 만드는 장치) 발전시스템 제조사로, 그리드 연결 지연을 우회해 데이터센터에 온사이트 전력을 공급하는 핵심 공급업체다.
+
+> [!info] 자동 수집 노트
+> 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 신규 항목은 모두 `[!claim]` (confidence: low) 로 들어오고, 후속 일자에 [사실 누적] 또는 [반증] 으로 분류된다. 폴더 규칙: [news/README.md](../README.md).
+
+---
+
+## 미해결 가설 (Open Claims)
+
+루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
+
+<!-- OPEN_CLAIMS_START -->
+- [ ] **2026-07-17**: 7/28 실적 발표 — 확인할 것: 공매도 의혹(스칸듐 공급망) 해소 및 감사된 재무제표 공개 여부
+<!-- OPEN_CLAIMS_END -->
+
+---
+
+## 사실 누적 (Verified Facts)
+
+독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
+
+<!-- FACTS_START -->
+<!-- FACTS_END -->
+
+---
+
+## 일자별 기록 (역순)
+
+<!-- DAILY_START -->
+### 2026-07-17 (금) — 신호등: ⚪ 잔잔함 (+0.02)
+
+**세 줄 요약**
+1. IDF·오크트리, 연료전지 배치 확대 위해 17억달러 신규 투자
+2. 블룸에너지는 IDF·오크트리의 17억달러 신규 투자로 자금조달 스토리는 이어가지만, 헌터브룩 공매도 리포트發 스칸듐 공급망·회계 신뢰성 의혹과 인허가 지연이 겹치며 변동성이 커졌고, 7/28 실적발표가 핵심 분수령이다.
+3. 다만 공매도 리포트發 회계 신뢰성 의혹은(는) 지켜봐야 할 위험 요인이다.
+
+**뉴스 브리핑**
+
+**① IDF·오크트리, 연료전지 배치 확대 위해 17억달러 신규 투자** 🟢
+- **무슨 일**: IDF·오크트리, 연료전지 배치 확대 위해 17억달러 신규 투자
+- **왜 중요**: 인수합병·대형 계약은 회사의 사업 구조와 장기 성장 경로를 바꾼다.
+- **주가에 의미**: 단기 호재로 해석된다.
+- 출처: [TradingKey](https://www.tradingkey.com/analysis/stocks/us-stocks/262022941-bloom-energy-be-stock-forecast-july-2026-hunterbrook-short-brookfield-tradingkey) · 2026-07-16
+
+**② AI관련주 조정·인허가 지연·주민반대 겹쳐 주가 부진** 🔴
+- **무슨 일**: AI관련주 조정·인허가 지연·주민반대 겹쳐 주가 부진
+- **왜 중요**: 시장의 평가 변화(투자의견·자사주 등)는 단기 수급과 심리에 영향을 준다.
+- **주가에 의미**: 단기 악재로 해석된다.
+- 출처: [GuruFocus](https://www.gurufocus.com/news/8963264/bloom-energy-be-sees-temporary-stock-price-struggles) · 2026-07-16
+
+**③ 헌터브룩 발 회계·공급망 의혹에 반박** 🔴
+- **무슨 일**: 헌터브룩 발 회계·공급망 의혹에 반박
+- **왜 중요**: 규제·인허가 결과는 사업의 법적 리스크와 성장 속도를 결정한다.
+- **주가에 의미**: 단기 악재로 해석된다.
+- 출처: [TradingView/Seeking Alpha](https://www.tradingview.com/news/tradingview:182c46c3cc8f3:0-bloom-energy-rebuts-short-seller-report-defends-scandium-supply-and-financials/) · 2026-07-08
+
+**④ 공매도 의혹 해소할 첫 실적발표 7/28 예정** ⚪
+- **무슨 일**: 공매도 의혹 해소할 첫 실적발표 7/28 예정
+- **왜 중요**: 실적·가이던스 변화는 이 회사의 이익 추정치와 밸류에이션을 직접 좌우한다.
+- **주가에 의미**: 직접적 주가 영향은 제한적이나 참고할 신호다.
+- 출처: [Businesswire](https://www.businesswire.com/news/home/20260706169350/en/Bloom-Energy-to-Announce-Second-Quarter-2026-Financial-Results-on-July-28-2026) · 2026-07-06
+
+**경쟁 구도 한눈에**
+- 퓨얼셀에너지, 2.25억달러 유상증자 21달러 확정, 주가 급락 → 연료전지 섹터 전반 밸류에이션 조정, 블룸에너지도 동반 하락 압력.
+- GE버노바 가스터빈 수주 강세 지속 → 가스터빈 대비 연료전지의 비용경쟁력 이슈가 부각될 소지.
+
+**앞으로 지켜볼 것**
+- [ ] 7/28 실적 발표 — 확인할 것: 공매도 의혹(스칸듐 공급망) 해소 및 감사된 재무제표 공개 여부
+<!-- DAILY_END -->

@@ -1,7 +1,7 @@
 ---
 title: "전력공급·냉각 장비 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-17
 domain: finance
 type: claim
 weight: reference
@@ -45,8 +45,8 @@ sources: ["https://pv-magazine-usa.com/2026/05/11/u-s-transformer-market-faces-s
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Vertiv | 전력+액침냉각 (NVIDIA GB200 레퍼런스) · 점유 22% | watchlist 외 | — | `VRT` |
-| Eaton | 변압기·스위치기어·PDU · 점유 12% | watchlist 외 | — | `ETN` |
+| Vertiv | 전력+액침냉각 (NVIDIA GB200 레퍼런스) · 점유 22% | 🟢🟢 +0.34 (2026-07-17) | Baird 신규 매수의견(목표가 $370)·NVIDIA 800VDC 정렬 부각되나 RBC는 목표가 하향(418달러), 밸류에이션 부담 상존 | [VRT](../../tickers/VRT - Vertiv Holdings Co.md) |
+| Eaton | 변압기·스위치기어·PDU · 점유 12% | 🟢🟢 +0.32 (2026-07-17) | 데이터센터向 전력관리 수요 기대에 산업재 섹터 대비 초과 상승, 7/31 실적 발표 예정 | [ETN](../../tickers/ETN - Eaton Corporation plc.md) |
 | Monolithic Power | 고밀도 GPU 전력전달 'last inch' | +0.20 (2026-07-06) | 러셀 성장지수 신규 편입·배당 유지, AI 서버 전력관리 수요 지속되나 개별 속보는 제한적 | [MPWR](../../tickers/MPWR - Monolithic Power Systems.md) |
 | Navitas · Infineon · ON | GaN/SiC 800VDC | watchlist 외 | — | `NVTS` |
 | Schneider Electric | 변압기·스위치기어 (해외) · 점유 12% | — | — | 비상장 |

@@ -1,7 +1,7 @@
 ---
 title: "VST - Vistra Corp — Routine News Log"
 created: 2026-05-16
-updated: 2026-07-03
+updated: 2026-07-17
 domain: finance
 type: claim
 weight: reference
@@ -32,8 +32,9 @@ sources: []
 - [ ] **2026-06-05**: 로터스 가스발전 7개 시설 인수 — 인수 완료 후 EBITDA 기여 시점 (pending)
 - [ ] **2026-06-19**: Perry 원전 가동용량 2026년 12월 인도 개시 예정 — 일정 준수 및 Meta 전력 인도 시작 여부 (pending)
 - [ ] **2026-06-19**: Cogentrix 5,500MW 가스 ~$40억 인수 추진 — 클로징 및 부채 영향 (pending)
-- [ ] **2026-06-26**: AI 데이터센터 수요 둔화 시 밸류에이션 조정 — 향후 7일 내 검증 (pending)
-- [ ] **2026-07-03**: PJM 가격상한·내부자 매도가 추세적 하락으로 이어지는지 — 7일 내 검증 (pending)
+- [ ] **2026-06-26**: AI 데이터센터 수요 둔화 시 밸류에이션 조정 — 향후 7일 내 검증 (refuted 2026-07-17) — CNBC가 메타向 전력계약을 재조명, 수요 둔화와 반대 흐름
+- [ ] **2026-07-03**: PJM 가격상한·내부자 매도가 추세적 하락으로 이어지는지 — 7일 내 검증 (refuted 2026-07-17) — Scotiabank 목표가 298달러로 상향, PJM 가격상한이 오히려 발전자산 수혜 프레이밍으로 전환
+- [ ] **2026-07-17**: 메타 등 추가 PPA 계약이 다음 분기 가이던스에 반영되는지 추적
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -50,6 +51,40 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-17 (금) — 신호등: 🟢🟢 강한 순풍 (+0.45)
+
+**세 줄 요약**
+1. Scotiabank Sector Outperform 유지, 목표가 298달러로 상향
+2. PJM 용량경매 가격상한 도달과 Scotiabank의 목표주가 상향(298달러)이 겹치며, 텍사스·PJM 전역에 가스·원자력 설비를 보유한 Vistra의 데이터센터向 전력판매 스토리가 재확인되고 있다.
+3. 다만 금리 인상 우려에 따른 밸류에이션 압박은(는) 지켜봐야 할 위험 요인이다.
+
+**뉴스 브리핑**
+
+**① Scotiabank Sector Outperform 유지, 목표가 298달러로 상향** 🟢
+- **무슨 일**: Scotiabank Sector Outperform 유지, 목표가 298달러로 상향
+- **왜 중요**: 실적·가이던스 변화는 이 회사의 이익 추정치와 밸류에이션을 직접 좌우한다.
+- **주가에 의미**: 단기 호재로 해석된다.
+- 출처: [MarketBeat](https://www.marketbeat.com/instant-alerts/vistra-nysevst-given-new-29800-price-target-at-scotiabank-2026-07-15/) · 2026-07-15
+
+**② 가스·원자력·석탄 보유 VST에 우호적인 용량가격 상한 도달** 🟢
+- **무슨 일**: 가스·원자력·석탄 보유 VST에 우호적인 용량가격 상한 도달
+- **왜 중요**: 규제·인허가 결과는 사업의 법적 리스크와 성장 속도를 결정한다.
+- **주가에 의미**: 단기 호재로 해석된다.
+- 출처: [Utility Dive](https://www.utilitydive.com/news/pjm-capacity-auction-price-cap-reserve-shortfall/825282/) · 2026-07-15
+
+**③ CNBC, 메타 데이터센터向 전력계약 부각하며 주목 종목으로 언급** 🟢
+- **무슨 일**: CNBC, 메타 데이터센터向 전력계약 부각하며 주목 종목으로 언급
+- **왜 중요**: 시장의 평가 변화(투자의견·자사주 등)는 단기 수급과 심리에 영향을 준다.
+- **주가에 의미**: 단기 호재로 해석된다.
+- 출처: [Benzinga](https://www.benzinga.com/trading-ideas/long-ideas/26/07/60494530/meta-vistra-t-rowe-price-and-a-health-care-stock-on-cnbcs-final-trades) · 2026-07-16
+
+**경쟁 구도 한눈에**
+- CEG, PJM 용량경매 전량 낙찰 → 같은 PJM 발전사인 VST도 동일한 가격상한 수혜 예상.
+- NEE, 데이터센터 허브 전략으로 목표주가 상향 → 전력수요 확대 테마가 VST의 원자력 업레이트 전략을 뒷받침.
+
+**앞으로 지켜볼 것**
+- [ ] 8월초 실적 발표(추정) — 확인할 것: 메타/AWS PPA 후속 계약 여부
+
 ### 2026-07-03
 **narrative_score**: +0.18
 **key_events**: PJM 가격상한·내부자 매도로 6일 -12%, 2026 EBITDA $6.8-7.6B 재확인·Fitch IG, Meta·AWS 3,800MW PPA·Cogentrix 인수

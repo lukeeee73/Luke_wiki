@@ -1,7 +1,7 @@
 ---
 title: "APD - Air Products & Chemicals — Routine News Log"
 created: 2026-05-16
-updated: 2026-07-03
+updated: 2026-07-17
 domain: finance
 type: claim
 weight: reference
@@ -31,8 +31,9 @@ sources: []
 - [ ] **2026-05-29**: 미국 3개 프로젝트 철수 ($31억 손상) 후 포트폴리오 재편 효과 — Q2 이후 마진 개선 여부 (pending)
 - [ ] **2026-06-05**: 웰스파고 Overweight 상향 — $325 목표가 도달 시점 (pending; RBC도 6/13 $355 목표가로 Outperform 개시)
 - [ ] **2026-06-19**: NEOM 그린수소 프로젝트 진전 — 연 120만톤 그린암모니아 수출 일정 준수 여부 (pending)
-- [ ] **2026-06-26**: 대형 수소·암모니아 프로젝트 비용 초과 및 지연 리스크 — 향후 7일 내 검증 (pending)
+- [ ] **2026-06-26**: 대형 수소·암모니아 프로젝트 비용 초과 및 지연 리스크 — 향후 7일 내 검증 (aged-out 2026-07-17) — 3주 경과, 3분기 실적(7/30)서 재검증
 - [ ] **2026-07-03**: 저수익 프로젝트 철수가 FCF·ROI 개선으로 실제 연결되는지 — 7일 내 검증 (pending)
+- [ ] **2026-07-17**: 현재 주가 34% 고평가 주장(DCF 분석)이 3분기 실적(7/30)서 반박되는지 — 확인 기준: 실적 발표 (시한 7/30)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -49,6 +50,39 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-17 (금) — 신호등: 🟢 순풍 (+0.07)
+
+**세 줄 요약**
+1. 에버코어ISI 목표주가 342달러로 상향
+2. 에어프로덕츠는 루이지애나 블루수소 프로젝트 철수(29억달러 손상차손)로 저수익 사업을 정리하며 자본배분 규율을 강화, 애널리스트 목표주가도 상향됐지만, 일각에서는 현재 주가가 34% 고평가됐다는 지적이 나온다.
+3. 다만 대규모 프로젝트 철수에 따른 전략 신뢰도 이슈은(는) 지켜봐야 할 위험 요인이다.
+
+**뉴스 브리핑**
+
+**① 에버코어ISI 목표주가 342달러로 상향** 🟢
+- **무슨 일**: 에버코어ISI 목표주가 342달러로 상향
+- **왜 중요**: 실적·가이던스 변화는 이 회사의 이익 추정치와 밸류에이션을 직접 좌우한다.
+- **주가에 의미**: 단기 호재로 해석된다.
+- 출처: [The Globe and Mail](https://www.theglobeandmail.com/investing/markets/stocks/APD-N/pressreleases/3238691/analysts-offer-insights-on-materials-companies-air-products-and-chemicals-apd-and-first-majestic-silver-ag/) · 2026-07-10
+
+**② 루이지애나 프로젝트 철수 이후 밸류에이션 재평가** ⚪
+- **무슨 일**: 루이지애나 프로젝트 철수 이후 밸류에이션 재평가
+- **왜 중요**: 시장의 평가 변화(투자의견·자사주 등)는 단기 수급과 심리에 영향을 준다.
+- **주가에 의미**: 직접적 주가 영향은 제한적이나 참고할 신호다.
+- 출처: [Simply Wall St](https://simplywall.st/stocks/us/materials/nyse-apd/air-products-and-chemicals/news/is-air-products-and-chemicals-apd-undervalued-after-dropping) · 2026-07-11
+
+**③ DCF 분석 결과 현재 주가 34% 고평가 가능성 제기** 🔴
+- **무슨 일**: DCF 분석 결과 현재 주가 34% 고평가 가능성 제기
+- **왜 중요**: 시장의 평가 변화(투자의견·자사주 등)는 단기 수급과 심리에 영향을 준다.
+- **주가에 의미**: 단기 악재로 해석된다.
+- 출처: [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/air-products-apd-stock-could-091613821.html) · 2026-07-13
+
+**경쟁 구도 한눈에**
+- 린데, 헬륨 공급망 위기 속 반사이익 부각 및 목표주가 상향 → 업계 대장주 긍정 센티먼트는 우호적 참고지표, 헬륨가 상승은 고객산업 원가 부담.
+
+**앞으로 지켜볼 것**
+- [ ] 7/30 실적 발표(FY26 3Q) — 확인할 것: 밸류에이션 고평가 논란 해소 여부
+
 ### 2026-07-03
 **narrative_score**: +0.17
 **key_events**: 루이지애나 청정에너지 프로젝트 철수·+8%, FY26 EPS 8~10% 가이던스 상향, $1.81 배당·미주리 $70M 증설

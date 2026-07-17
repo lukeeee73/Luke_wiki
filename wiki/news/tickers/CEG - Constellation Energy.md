@@ -1,7 +1,7 @@
 ---
 title: "CEG - Constellation Energy — Routine News Log"
 created: 2026-05-16
-updated: 2026-07-03
+updated: 2026-07-17
 domain: finance
 type: claim
 weight: reference
@@ -31,8 +31,9 @@ sources: []
 - [ ] **2026-05-29**: Q1 EPS $3.68 대폭 상회 + Microsoft 20년 PPA — EPS 가시성 2029년까지 확인 여부 (pending)
 - [ ] **2026-06-05**: YTD -25% 조정 — 애널리스트 평균 목표가 $368 대비 수렴 시점 (pending)
 - [ ] **2026-06-19**: FERC waiver + Eddystone 760MW 용량권 이전 — Crane(TMI) 2027 하반기 재가동 일정 준수 여부 (pending)
-- [ ] **2026-06-26**: 증자에 따른 주당가치 희석 — 향후 7일 내 검증 (pending)
-- [ ] **2026-07-03**: PJM 가격상한 제안이 실제 규칙화되어 머천트 마진을 훼손하는지 — 7일 내 검증 (pending)
+- [ ] **2026-06-26**: 증자에 따른 주당가치 희석 — 향후 7일 내 검증 (aged-out 2026-07-17) — 3주 경과, 추가 증자 확인 안 됨
+- [ ] **2026-07-03**: PJM 가격상한 제안이 실제 규칙화되어 머천트 마진을 훼손하는지 — 7일 내 검증 (verified-반전 2026-07-17) — PJM 용량경매서 가격상한(325달러/MW-day)이 실제 적용되어 CEG 전 발전설비(18,875MW)가 낙찰, 우려와 달리 용량수익에는 긍정적으로 작용
+- [ ] **2026-07-17**: PJM 가격상한 반복 도달에 따른 정치적 반발(소비자단체·의회)이 실제 규제 개입으로 이어지는지 추적 (시한 9/17)
 <!-- OPEN_CLAIMS_END -->
 
 ---
@@ -42,6 +43,9 @@ sources: []
 독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
 
 <!-- FACTS_START -->
+> [!fact] PJM 용량경매서 CEG 전 발전설비(18,875MW) 가격상한(325달러/MW-day)에 낙찰 (Utility Dive, 2026-07-15)
+> 3연속 가격상한 도달, 예비율 부족 심화. 왜 중요: PJM 관할 원자력·가스 발전사의 용량수익이 구조적으로 개선됨을 시사.
+
 > [!fact] Crane(구 Three Mile Island) 원전 재가동 진척 (FERC 승인)
 > FERC가 Crane 유닛에 대해 면제(waiver)를 승인했고, 은퇴 화력 Eddystone의 760MW 용량연계권을 Crane으로 이전하는 것도 승인됐다. Microsoft 20년 PPA를 뒷받침하며 목표 재가동 시점은 2027년 하반기. (Utility Dive 2026-06-15, GuruFocus/FERC 2026-06-02)
 <!-- FACTS_END -->
@@ -51,6 +55,40 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+### 2026-07-17 (금) — 신호등: 🟢🟢 강한 순풍 (+0.47)
+
+**세 줄 요약**
+1. 18,875MW 전 발전설비 낙찰, 원자력 비중 최대
+2. PJM 2028/29 용량경매에서 CEG 전 발전설비가 가격상한(325달러/MW-day)에 낙찰되며 향후 용량수익 개선이 확실시되고, 이는 애널리스트들의 목표주가 상향과 맞물려 강한 상승 모멘텀을 시사한다.
+3. 다만 PJM 가격상한 반복 도달에 따른 정치적·소비자 반발 가능성은(는) 지켜봐야 할 위험 요인이다.
+
+**뉴스 브리핑**
+
+**① 18,875MW 전 발전설비 낙찰, 원자력 비중 최대** 🟢
+- **무슨 일**: 18,875MW 전 발전설비 낙찰, 원자력 비중 최대
+- **왜 중요**: 규제·인허가 결과는 사업의 법적 리스크와 성장 속도를 결정한다.
+- **주가에 의미**: 단기 호재로 해석된다.
+- 출처: [TipRanks](https://www.tipranks.com/news/company-announcements/constellation-energy-clears-pjm-capacity-auction-boosting-outlook) · 2026-07-14
+
+**② 325달러/MW-day 상한 도달, 3연속 상한 도달** 🟢
+- **무슨 일**: 325달러/MW-day 상한 도달, 3연속 상한 도달
+- **왜 중요**: 규제·인허가 결과는 사업의 법적 리스크와 성장 속도를 결정한다.
+- **주가에 의미**: 단기 호재로 해석된다.
+- 출처: [Utility Dive](https://www.utilitydive.com/news/pjm-capacity-auction-price-cap-reserve-shortfall/825282/) · 2026-07-15
+
+**③ Calpine 인수 통합 및 실적 서프라이즈 반영, 목표가 유지** 🟢
+- **무슨 일**: Calpine 인수 통합 및 실적 서프라이즈 반영, 목표가 유지
+- **왜 중요**: 실적·가이던스 변화는 이 회사의 이익 추정치와 밸류에이션을 직접 좌우한다.
+- **주가에 의미**: 단기 호재로 해석된다.
+- 출처: [TIKR.com](https://www.tikr.com/blog/constellation-energy-stock-at-259-why-wall-street-still-backs-a-360-target) · 2026-07-16
+
+**경쟁 구도 한눈에**
+- Scotiabank, Vistra 목표주가 298달러로 상향 → PJM 발전사 전반의 재평가 흐름이 CEG에도 우호적.
+- NEE, 데이터센터 허브 전략에 Jefferies 목표주가 상향 → 빅테크向 전력계약 테마가 섹터 전반 밸류에이션 지지.
+
+**앞으로 지켜볼 것**
+- [ ] 8월초 실적 발표(추정) — 확인할 것: PJM 가격상한 관련 정치적 반발 여부
+
 ### 2026-07-03
 **narrative_score**: +0.19
 **key_events**: PJM 가격상한 제안 우려·YTD -20%, 1GW 원전 증설·$3.9B capex, MS 스리마일 20년 PPA·Calpine 통합

@@ -1,0 +1,81 @@
+---
+title: "OKLO - Oklo Inc. — Routine News Log"
+created: 2026-07-17
+updated: 2026-07-17
+domain: finance
+type: claim
+weight: reference
+confidence: low
+tags: [routine-news, watchlist, OKLO]
+sources: []
+---
+
+# OKLO - Oklo Inc. — Routine News Log
+
+**Oklo Inc.** · Utilities · 전력 인프라 (AI) · 경쟁사: SMR, CEG
+
+## 회사 소개
+
+Oklo는 소형모듈원자로(SMR, 공장에서 조립해 옮기는 작은 원자로)를 개발하는 회사로, 아직 상업 매출이 없는 선행투자 단계에서 AI 데이터센터向 전력공급계약(PPA)을 다수 확보한 차세대 원자력 스타트업이다.
+
+> [!info] 자동 수집 노트
+> 이 페이지는 `indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적한다. 신규 항목은 모두 `[!claim]` (confidence: low) 로 들어오고, 후속 일자에 [사실 누적] 또는 [반증] 으로 분류된다. 폴더 규칙: [news/README.md](../README.md).
+
+---
+
+## 미해결 가설 (Open Claims)
+
+루틴이 매일 이 목록을 읽고, 오늘 뉴스가 가설을 (verified / refuted / pending / aged-out) 중 어디에 해당하는지 판정한다.
+
+<!-- OPEN_CLAIMS_START -->
+- [ ] **2026-07-17**: 7월 중 Groves 시험로 임계도달 목표 — 확인할 것: 실제 임계 도달 여부 및 NRC 설계인증 진행상황
+<!-- OPEN_CLAIMS_END -->
+
+---
+
+## 사실 누적 (Verified Facts)
+
+독립 Tier-1 매체 2 곳 이상이 보고하거나, 회사 IR / 공시로 확정된 사실만 모음.
+
+<!-- FACTS_START -->
+<!-- FACTS_END -->
+
+---
+
+## 일자별 기록 (역순)
+
+<!-- DAILY_START -->
+### 2026-07-17 (금) — 신호등: 🔴🔴 강한 역풍 (-0.23)
+
+**세 줄 요약**
+1. 규제·운영 지연 우려로 연초 대비 주가 41% 하락
+2. Oklo는 Switch(12GW), Equinix 등 대규모 비구속 전력공급계약을 다수 확보해 장기 성장 스토리는 유효하지만, NRC 설계인증 미완료 등 규제·수급 이슈가 겹치며 연초 대비 41% 급락했고, Groves 시험로 임계도달 여부가 단기 반등의 핵심 트리거다.
+3. 다만 NRC 원자로 설계 인증 미완료은(는) 지켜봐야 할 위험 요인이다.
+
+**뉴스 브리핑**
+
+**① 규제·운영 지연 우려로 연초 대비 주가 41% 하락** 🔴
+- **무슨 일**: 규제·운영 지연 우려로 연초 대비 주가 41% 하락
+- **왜 중요**: 규제·인허가 결과는 사업의 법적 리스크와 성장 속도를 결정한다.
+- **주가에 의미**: 단기 악재로 해석된다.
+- 출처: [The Motley Fool](https://www.fool.com/investing/2026/07/15/oklo-stock-is-sliding-what-investors-need-to-under/) · 2026-07-15
+
+**② 선행투자형 원자력·우라늄주 전반 동반 조정** 🔴
+- **무슨 일**: 선행투자형 원자력·우라늄주 전반 동반 조정
+- **왜 중요**: 매크로 환경(유가·금리·환율 등) 변화는 이 회사의 매출·마진에 구조적으로 영향을 준다.
+- **주가에 의미**: 단기 악재로 해석된다.
+- 출처: [24/7 Wall St.](https://247wallst.com/investing/2026/07/16/oklo-just-dropped-28-in-a-month-is-it-time-to-abandon-nuclear-stocks-like-oklo-nuscale-and-uranium-energy-corp/) · 2026-07-16
+
+**③ DOE, Groves 동위원소 시험로 최종 안전성분석 승인** 🟢
+- **무슨 일**: DOE, Groves 동위원소 시험로 최종 안전성분석 승인
+- **왜 중요**: 규제·인허가 결과는 사업의 법적 리스크와 성장 속도를 결정한다.
+- **주가에 의미**: 단기 호재로 해석된다.
+- 출처: [Businesswire/Oklo IR](https://www.businesswire.com/news/home/20260701843499/en/U.S.-Department-of-Energy-Approves-Final-Safety-Analysis-for-Oklos-Groves-Isotope-Test-Reactor-Advancing-the-Project-Toward-Operational-Authorization) · 2026-07-01
+
+**경쟁 구도 한눈에**
+- 뉴스케일파워, 52주 신저가, 6개월간 54% 하락 → SMR 업체 전반의 선행투자 리스크가 부각되어 Oklo 조정과 동일 맥락.
+- 컨스텔레이션에너지, PJM 용량경매 전량 낙찰 → 대형 기존 원전 운영사가 AI 전력수요를 흡수하며 신생 SMR과 경쟁구도 형성.
+
+**앞으로 지켜볼 것**
+- [ ] 7월 중 Groves 시험로 임계도달 목표 — 확인할 것: 실제 임계 도달 여부 및 NRC 설계인증 진행상황
+<!-- DAILY_END -->
