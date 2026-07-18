@@ -1,7 +1,7 @@
 ---
 title: "BAC - Bank of America Corp. — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-27
+updated: 2026-07-18
 domain: finance
 type: claim
 weight: reference
