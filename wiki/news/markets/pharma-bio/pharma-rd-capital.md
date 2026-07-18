@@ -1,0 +1,80 @@
+---
+title: "빅파마 R&D·M&A 자본 — 시장 종합"
+created: 2026-07-18
+updated: 2026-07-18
+domain: finance
+type: claim
+weight: reference
+confidence: low
+tags: [routine-news, market-summary, pharma-bio, pharma-rd-capital]
+map: pharma-bio
+market_id: pharma-rd-capital
+sources: ["https://www.statnews.com/2026/06/22/pharma-biotech-ma-boom-2026-deals-total-123-billion/"]
+---
+
+# 빅파마 R&D·M&A 자본 — 시장 종합
+
+**Big Pharma R&D · M&A Capital** · ③ R&D 자본 엔진 · 규모 R&D ~$300B/년 + M&A $228B(’25) · ’26 상반기에만 $106B · 성장 M&A ’26 코로나 전 이후 최대 페이스
+
+> [!info] 자동 종합 노트
+> 이 파일은 시장지도 노드 `pharma-rd-capital` 의 종합 페이지다. `indicator_dashboard` 루틴이 관리한다 —
+> **daily-market-analysis** 루틴이 담당 요일에 [소속 기업 동향]을, **market-research** 루틴이 주 1회
+> [시장 정의]·[병목 상태]·[시장 상황 종합]·[시장 뉴스 로그]를 갱신한다. HTML 마커는 루틴의 앵커이므로 지우지 않는다.
+> 사람은 굳어진 사실을 `wiki/topics/` 로 승격(promote)만 한다.
+
+## 시장 정의
+
+블록버스터 현금흐름으로 파이프라인을 사들이는 산업의 자본 엔진 — 사내 R&D + M&A + 라이선싱 업프런트.
+
+**수요 동인** — $400B 특허절벽(’26–30, 약 200개 만료 — 키트루다·엘리퀴스·다잘렉스)이 강제하는 파이프라인 보충. 빅파마 현금 + 차입 여력 ~$1T 이상이 자산을 쫓는다.
+
+## 병목 상태 — 🔴 급성 압박 (`acute`)
+
+> [!claim] (출처: 시장지도 as_of 2026-07)
+> 돈은 넘치는데 살 만한 검증된 자산이 부족 — 산업 전체의 진짜 병목. 후기 자산 인수 경쟁으로 딜 프리미엄 급등(중국 자산 업프런트 ’22 대비 +230%). BMS 성장 갭 $38B 등 절벽 노출 기업은 ’30년까지 매출 -60% 시나리오 — 자산 확보 실패가 곧 생존 문제.
+
+## 시장 상황 종합
+
+<!-- SYNTHESIS_START -->
+> [!claim] (as_of 2026-07 · market-research 루틴)
+> **지금 상황**: '26 상반기 M&A가 이미 '25년 전체 페이스를 상회 — 릴리 홀로 10건 이상 $25B+를 투입하며 최다 인수자로 등극했다. 절벽 대응 빅딜(버텍스·머크·길리어드·노바티스)이 매주 이어지는 국면.
+> **왜 중요**: 특허절벽 시계가 돌수록 딜이 커지고 비싸진다는 이 시장의 핵심 동력이 숫자로 확인되고 있다.
+> **투자자 관점**: 현금이 두둑한 대형 제약사가 절벽 방어를 위해 계속 매수자로 나서는 구조가 당분간 지속될 가능성이 높다.
+<!-- SYNTHESIS_END -->
+
+## 소속 기업 동향
+
+<!-- PLAYERS_START -->
+| 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
+|---|---|---|---|---|
+| Eli Lilly | '26 상반기 10건 이상, $25B+ 인수로 최다 인수자 등극 — 매출 상위 12개사 합산 M&A의 절반 이상 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `LLY` |
+| Merck | 키트루다 절벽 대응 — 후기 자산 3배 확충 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `MRK` |
+| Pfizer | 시젠 $43B 등 — 절벽 노출 최대급 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `PFE` |
+| AbbVie | 면역 후속 + 신경·미용 BD | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `ABBV` |
+| J&J | 제약 1위급 R&D ~$17B/년 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `JNJ` |
+| AstraZeneca · Novartis · BMS · Roche | 유럽계 빅파마 — 중국 라이선싱 큰손 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `AZN` |
+<!-- PLAYERS_END -->
+
+## 시장 뉴스 로그 (최신순)
+
+<!-- MARKET_NEWS_START -->
+- **2026-06-22** ＋ **'26 상반기 M&A, 이미 '25년 전체 규모 상회** — 특허절벽 압박 속 딜메이킹이 가속, 딜 프리미엄도 동반 상승. (STAT News) [↗](https://www.statnews.com/2026/06/22/pharma-biotech-ma-boom-2026-deals-total-123-billion/)
+<!-- MARKET_NEWS_END -->
+
+## 사실 누적 (Verified Facts)
+
+<!-- FACTS_START -->
+<!-- FACTS_END -->
+
+## 인접 시장 (지도 링크)
+
+- ⬅ 수요측 [비만·대사 (GLP-1)](obesity-glp1.md) — GLP-1 현금흐름 재투자
+- ⬅ 수요측 [항암제 (ADC·면역항암)](oncology.md) — 키트루다 등 블록버스터 재투자
+- ⬅ 수요측 [면역질환 (자가면역)](immunology.md) — 절벽 방어용 후속 BD
+- ➡ 공급측 [중국 파이프라인 라이선싱](china-licensing.md) — 특허절벽 대응 자산 인수 (업프런트 +230%)
+- ➡ 공급측 [바이오텍 벤처·자본시장](biotech-funding.md) — M&A $228B 가 VC 엑시트로 환류
+- ➡ 공급측 [임상시험 CRO](cro.md) — 임상 외주 (R&D 예산 50%+)
+- ➡ 공급측 [AI 신약개발 (테크바이오)](ai-drug-discovery.md) — AI 신약 메가딜 (Lilly·Novo·Bayer)
+- ➡ 공급측 [빅테크 AI 플랫폼 · 인프라](ai-pharma-infra.md) — 전사 AI 도입 (BMS×Anthropic·Novo×OpenAI)
+- ➡ 공급측 [바이오 CDMO (위탁개발생산)](cdmo-biologics.md) — 상업 생산 위탁
+- ➡ 공급측 [연구 도구 · 시퀀싱](life-science-tools.md) — 연구 장비·시약 구매

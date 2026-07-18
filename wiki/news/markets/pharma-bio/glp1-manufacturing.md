@@ -1,0 +1,70 @@
+---
+title: "GLP-1·펩타이드 생산 CAPEX — 시장 종합"
+created: 2026-07-18
+updated: 2026-07-18
+domain: finance
+type: claim
+weight: reference
+confidence: low
+tags: [routine-news, market-summary, pharma-bio, glp1-manufacturing]
+map: pharma-bio
+market_id: glp1-manufacturing
+sources: ["https://www.fiercepharma.com/manufacturing/novo-nordisk-cuts-hundreds-roles-troubled-bloomington-site"]
+---
+
+# GLP-1·펩타이드 생산 CAPEX — 시장 종합
+
+**GLP-1 / Peptide Manufacturing Buildout** · ⑤ 제조 기반 · 규모 릴리 美 누적 $50B+ 약정 · 노보 capex ~DKK 55B/년(~$8.5B) · 성장 제약 역사상 최대 단일 증설 사이클
+
+> [!info] 자동 종합 노트
+> 이 파일은 시장지도 노드 `glp1-manufacturing` 의 종합 페이지다. `indicator_dashboard` 루틴이 관리한다 —
+> **daily-market-analysis** 루틴이 담당 요일에 [소속 기업 동향]을, **market-research** 루틴이 주 1회
+> [시장 정의]·[병목 상태]·[시장 상황 종합]·[시장 뉴스 로그]를 갱신한다. HTML 마커는 루틴의 앵커이므로 지우지 않는다.
+> 사람은 굳어진 사실을 `wiki/topics/` 로 승격(promote)만 한다.
+
+## 시장 정의
+
+비만약 슈퍼사이클이 강제한 사상 최대 제약 설비투자 — 펩타이드 API 합성과 무균 충전(fill-finish).
+
+**수요 동인** — GLP-1 수요가 기존 캐파를 수년치 초과 — 릴리 TX $6.5B(API)·VA $5B·PR $1.2B, 노보는 Catalent 충전소 3곳 인수($16.5B)로 수직통합. 경구약 전환은 정제 캐파라는 새 축을 연다.
+
+## 병목 상태 — 🟠 압박 완화중 (`easing`)
+
+> [!claim] (출처: 시장지도 as_of 2026-07)
+> ’23–24 급성 부족(충전 캐파)은 메가 증설로 완화 — FDA 부족 리스트 해제. 단 잔여 병목은 무균충전 장비 리드타임과 펩타이드 원료의 대량 합성 수율. 증설이 수요 정점과 어긋나면 ’28+ 과잉 리스크 — 반도체식 캐파 사이클이 제약에 이식된 첫 사례.
+
+## 시장 상황 종합
+
+<!-- SYNTHESIS_START -->
+> [!claim] (as_of 2026-07 · market-research 루틴)
+> **지금 상황**: 노보의 前카탈렌트 블루밍턴 공장이 FDA와의 협의 진전으로 정상 가동을 재개했으나, 3월31일 발표된 400명 감원(5월초 시행)이 동반돼 캐파 통합의 성장통이 이어지고 있다.
+> **왜 중요**: 공급부족이 해소 국면으로 이동하며 캐파 통합의 성장통(구조조정)이 함께 나타나고 있다.
+> **투자자 관점**: 공급과잉으로의 전환 속도가 빨라지면 캐파 투자를 늦게 한 후발주자일수록 가동률 리스크가 커진다.
+<!-- SYNTHESIS_END -->
+
+## 소속 기업 동향
+
+<!-- PLAYERS_START -->
+| 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
+|---|---|---|---|---|
+| Eli Lilly | 美 제조 $50B+ — 자체 수직통합 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `LLY` |
+| Novo Nordisk | capex DKK 55B/년 + Catalent 인수 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `NVO` |
+| Bachem | 펩타이드 CDMO 1위 (스위스) | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `BANB.SW` |
+| PolyPeptide · CordenPharma | 펩타이드 위탁 합성 증설 경쟁 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `PPGN.SW` |
+<!-- PLAYERS_END -->
+
+## 시장 뉴스 로그 (최신순)
+
+<!-- MARKET_NEWS_START -->
+- **2026-03-31** － **노보 노디스크, 블루밍턴(前카탈렌트) 공장 400명 감원 발표** — FDA 경고서한 이후 정상화 진행 중에도 구조조정 단행. (Fierce Pharma) [↗](https://www.fiercepharma.com/manufacturing/novo-nordisk-cuts-hundreds-roles-troubled-bloomington-site)
+<!-- MARKET_NEWS_END -->
+
+## 사실 누적 (Verified Facts)
+
+<!-- FACTS_START -->
+<!-- FACTS_END -->
+
+## 인접 시장 (지도 링크)
+
+- ⬅ 수요측 [비만·대사 (GLP-1)](obesity-glp1.md) — 공급부족 해소 CAPEX (릴리 $50B+)
+- ➡ 공급측 [바이오프로세싱 장비·소모품](bioprocessing.md) — 무균충전·합성 장비 발주

@@ -1,0 +1,73 @@
+---
+title: "빅테크 AI 플랫폼 · 인프라 — 시장 종합"
+created: 2026-07-18
+updated: 2026-07-18
+domain: finance
+type: claim
+weight: reference
+confidence: low
+tags: [routine-news, market-summary, pharma-bio, ai-pharma-infra]
+map: pharma-bio
+market_id: ai-pharma-infra
+sources: ["https://www.cnbc.com/2026/04/14/novo-nordisk-openai-ai-drug-discovery-healthcare-nvo.html", "https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html"]
+---
+
+# 빅테크 AI 플랫폼 · 인프라 — 시장 종합
+
+**Big Tech AI Platforms for Pharma** · ④ R&D 서비스 · AI · 규모 독립 집계 없음 — 파마 IT·AI 지출의 일부 (딜 단위 $1B+ 등장) · 성장 전사 도입 단계 진입 (’25–26)
+
+> [!info] 자동 종합 노트
+> 이 파일은 시장지도 노드 `ai-pharma-infra` 의 종합 페이지다. `indicator_dashboard` 루틴이 관리한다 —
+> **daily-market-analysis** 루틴이 담당 요일에 [소속 기업 동향]을, **market-research** 루틴이 주 1회
+> [시장 정의]·[병목 상태]·[시장 상황 종합]·[시장 뉴스 로그]를 갱신한다. HTML 마커는 루틴의 앵커이므로 지우지 않는다.
+> 사람은 굳어진 사실을 `wiki/topics/` 로 승격(promote)만 한다.
+
+## 시장 정의
+
+프런티어 AI 기업·빅테크가 제약사에 파는 모델·플랫폼·컴퓨트 — AI 산업이 제약에 침투하는 접점.
+
+**수요 동인** — 제약사가 R&D 부터 영업까지 전사 AI 도입 경쟁 — BMS×Anthropic(직원 3만명 Claude 전면 배치), Novo×OpenAI 전략 제휴, Lilly×NVIDIA $1B 코이노베이션(제약 최대 슈퍼컴), IQVIA×NVIDIA. Anthropic 은 Claude for Life Sciences 출시 후 Coefficient Bio 를 $400M 에 인수.
+
+## 병목 상태 — 🟡 부상하는 병목 (`emerging`)
+
+> [!claim] (출처: 시장지도 as_of 2026-07)
+> 부상 중인 관문 — 프런티어 모델·GPU 는 소수 빅테크가 과점하고, 제약사의 사일로화된 데이터·규제(GxP) 통합이 도입 속도를 제약. 빅테크가 '도구 판매자'에서 '신약 지분 참여자'(Isomorphic·Coefficient 모델)로 진화하면 가치 배분 자체가 재편될 수 있다.
+
+## 시장 상황 종합
+
+<!-- SYNTHESIS_START -->
+> [!claim] (as_of 2026-07 · market-research 루틴)
+> **지금 상황**: 노보 노디스크가 OpenAI와 전사 전략 제휴(4월14일)를 맺어 R&D부터 제조·상업까지 AI 통합에 나섰고, Anthropic는 Claude Science 출시(6월30일)로 도구 판매자에서 신약 가치사슬 참여자로 한 걸음 더 들어갔다.
+> **왜 중요**: 빅테크×빅파마 제휴가 분기마다 대형화되며 AI가 신약 가치사슬 전반에 통합되는 속도가 빨라지고 있다.
+> **투자자 관점**: 이런 제휴를 선점한 빅파마가 R&D 생산성에서 먼저 격차를 벌릴 가능성이 있다.
+<!-- SYNTHESIS_END -->
+
+## 소속 기업 동향
+
+<!-- PLAYERS_START -->
+| 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
+|---|---|---|---|---|
+| NVIDIA | BioNeMo + Lilly $1B 코이노베이션 — 바이오의 '무기상' | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `NVDA` |
+| Anthropic | Claude for Life Sciences · BMS 전사 배치 · Coefficient Bio 인수 (비상장) | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | 비상장 |
+| OpenAI | Novo Nordisk 전사 전략 제휴(4월14일) — '26말 전면 통합 목표 (비상장) | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | 비상장 |
+| Microsoft · AWS | 제약 클라우드·AI 인프라 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `MSFT` |
+| Google (Isomorphic·DeepMind) | 알파폴드 생태계 수직통합 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `GOOGL` |
+<!-- PLAYERS_END -->
+
+## 시장 뉴스 로그 (최신순)
+
+<!-- MARKET_NEWS_START -->
+- **2026-04-14** ＋ **노보 노디스크, OpenAI와 전사 AI 전략 제휴** — 발굴부터 제조·상업까지 AI 통합, '26년말 전면 통합 목표. (CNBC) [↗](https://www.cnbc.com/2026/04/14/novo-nordisk-openai-ai-drug-discovery-healthcare-nvo.html)
+- **2026-06-30** ＋ **Anthropic, 제약연구용 'Claude Science' 정식 출시** — 제약 R&D 워크벤치 제품화 — 빅테크의 신약 가치사슬 참여 심화. (CNBC) [↗](https://www.cnbc.com/2026/06/30/anthropic-launches-ai-drug-discovery-program-claude-science.html)
+<!-- MARKET_NEWS_END -->
+
+## 사실 누적 (Verified Facts)
+
+<!-- FACTS_START -->
+<!-- FACTS_END -->
+
+## 인접 시장 (지도 링크)
+
+- ⬅ 수요측 [빅파마 R&D·M&A 자본](pharma-rd-capital.md) — 전사 AI 도입 (BMS×Anthropic·Novo×OpenAI)
+- ⬅ 수요측 [임상시험 CRO](cro.md) — 에이전틱 임상 플랫폼 (IQVIA.ai×NVIDIA)
+- ⬅ 수요측 [AI 신약개발 (테크바이오)](ai-drug-discovery.md) — GPU·바이오 파운데이션 모델 (BioNeMo)
