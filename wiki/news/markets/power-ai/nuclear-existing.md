@@ -1,7 +1,7 @@
 ---
 title: "기존 원전 (재가동·업레이트·PPA) — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-18
 domain: finance
 type: claim
 weight: reference
@@ -37,7 +37,9 @@ sources: ["https://www.datacenterfrontier.com/energy/article/55239739/data-cente
 
 <!-- SYNTHESIS_START -->
 > [!claim] (as_of 2026-07 · market-research 루틴)
-> Meta-Vistra 업레이트까지 선점되며 '지어진 원전'은 사실상 완판 — 다음 전선은 SMR 과 대형 신설로 이동.
+> **지금 상황**: 재가동 파이프라인의 실물 리스크가 드러나는 중 — Palisades는 애초 목표일(연초)을 넘겨 지연됐지만 완공 임박 단계로 보도됨. 신규 대형 원전-DC 계약 발표는 이번 조사기간 중 확인되지 않음.
+> **왜 중요**: 재가동 후보가 소진되는 국면에서 첫 사례의 일정 지연은 나머지 파이프라인에도 비슷한 지연 리스크가 있음을 시사한다.
+> **투자자 관점**: 재가동은 신규 원전보다 빠른 옵션으로 여겨졌지만 실제로는 인허가·설비 리스크가 여전히 크다는 점을 재확인시켜준다.
 <!-- SYNTHESIS_END -->
 
 ## 소속 기업 동향
@@ -55,6 +57,7 @@ sources: ["https://www.datacenterfrontier.com/energy/article/55239739/data-cente
 ## 시장 뉴스 로그 (최신순)
 
 <!-- MARKET_NEWS_START -->
+- **2026-06** ± **팰리세이즈 원전, 애초 목표일 넘겼지만 재가동 완공 임박 보도** — 재가동 후보 소진 국면 — Holtec 목표일 재차 지연 (Canary Media) [↗](https://www.canarymedia.com/articles/nuclear/americas-first-nuclear-plant-restart)
 - **2026-05** ＋ **하이퍼스케일러 원자력 계약 13건 ~9.8GW — 4사 전원 참전** — MSFT·AWS·Meta·Google 모두 원자력 확보 — 기존 원전 완판 임박 (SMR Intel) [↗](https://smrintel.com/nuclear-data-center-deals/)
 - **2026-01** ＋ **Meta-Vistra 2.6GW 계약 — 사상 최대 기업 지원 원전 업레이트** — 재가동 소진 후 업레이트까지 선점 — 프리미엄 PPA 구조 고착 (Data Center Frontier) [↗](https://www.datacenterfrontier.com/energy/article/55239739/data-center-nuclear-power-update-microsoft-constellation-aws-talen-meta)
 <!-- MARKET_NEWS_END -->

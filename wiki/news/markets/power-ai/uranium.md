@@ -1,7 +1,7 @@
 ---
 title: "우라늄 · 농축 (HALEU) — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-18
 domain: finance
 type: claim
 weight: reference
@@ -37,7 +37,9 @@ sources: ["https://www.powermag.com/doe-issues-2-7b-orders-to-scale-domestic-nuc
 
 <!-- SYNTHESIS_START -->
 > [!claim] (as_of 2026-07 · market-research 루틴)
-> 러 금수 ’28 을 앞두고 서방 농축 재무장 — DOE $2.7B 발주. SWU 5배 상승이 구조적 부족의 증거.
+> **지금 상황**: Centrus가 DOE와 $9억 태스크오더 계약을 최종 체결(7/1)하고 상업 캐스케이드 전환에 착수 — HALEU 시연생산 900kg을 예정보다 2주 앞당겨 완료(누적 1900kg+). Urenco USA도 뉴멕시코 시설에 SWU 210만 추가 증설을 발표(6/2)했으나 상업가동은 '32~'36년.
+> **왜 중요**: 서방 농축 재무장 움직임은 뚜렷하지만 유효 공급까지는 여전히 6~10년이 걸린다는 점이 재확인됐다.
+> **투자자 관점**: 구조적 병목(structural) 분류가 유지되는 이유가 바로 이 시차 — 발표와 실제 공급 사이의 긴 간극이다.
 <!-- SYNTHESIS_END -->
 
 ## 소속 기업 동향
@@ -54,6 +56,8 @@ sources: ["https://www.powermag.com/doe-issues-2-7b-orders-to-scale-domestic-nuc
 ## 시장 뉴스 로그 (최신순)
 
 <!-- MARKET_NEWS_START -->
+- **2026-07-01** ＋ **Centrus, DOE $9억 태스크오더 계약 최종 체결 — 상업 HALEU 전환 착수** — 시연생산 900kg 조기완료 — 상업규모 램프업 개시 (PR Newswire) [↗](https://www.prnewswire.com/news-releases/centrus-signs-contract-with-department-of-energy-for-900-million-award-intends-to-transition-haleu-production-cascade-to-commercial-operation-302816385.html)
+- **2026-06-02** ± **Urenco USA, 뉴멕시코 농축시설 SWU 210만 증설 발표 — 상업가동은 '32~'36** — 서방 농축 재무장 지속되나 유효공급까지 6~10년 소요 (World Nuclear News) [↗](https://www.world-nuclear-news.org/articles/urenco-usa-to-build-new-us-enrichment-plant)
 - **2026-06** － **Cameco: 우라늄 구조적 공급부족 — SWU $40→$200, U3O8 ~$120/lb** — 농축 가격 5배 — 러 금수 ’28 전면 발효 앞두고 재고 확보전 (RealClearEnergy) [↗](https://www.realclearenergy.org/articles/2026/06/15/fueling_the_coming_nuclear_renaissance_1187984.html)
 - **2026-01** ＋ **DOE, 국내 농축에 $2.7B 발주 — Centrus·General Matter·Orano 각 $900M** — 러시아 의존 탈피 — Centrus HALEU 12t/yr, ’29 신규 캐스케이드 (POWER Magazine / NucNet) [↗](https://www.powermag.com/doe-issues-2-7b-orders-to-scale-domestic-nuclear-leu-and-haleu-enrichment/)
 <!-- MARKET_NEWS_END -->

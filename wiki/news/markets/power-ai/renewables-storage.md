@@ -1,7 +1,7 @@
 ---
 title: "재생에너지 + ESS — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-18
 domain: finance
 type: claim
 weight: reference
@@ -37,7 +37,9 @@ sources: ["https://www.energy-storage.news/us-renewables-and-battery-storage-are
 
 <!-- SYNTHESIS_START -->
 > [!claim] (as_of 2026-07 · market-research 루틴)
-> 정책 역풍에도 물량은 태양광+ESS 가 압도 — DC 향은 '가스·원자력의 보조 전원' 역할로 정착 중.
+> **지금 상황**: OBBBA 착공 데드라인(7/4)이 지나며 풍력·태양광 세액공제 절벽이 현실화 국면 진입. EQT는 Carlyle로부터 Copia Power(발전+ESS 2.6GW 가동·9GW+ 파이프라인)를 $26억에 인수 — AI 인프라향 통합 전력 플랫폼에 자금이 계속 유입.
+> **왜 중요**: 정책 지원이 끊기는 시점과 대형 자본이 몰리는 시점이 동시에 나타나는 건, 정책 리스크를 감내할 수 있는 대형 자본만 살아남는 국면 전환을 시사한다.
+> **투자자 관점**: 세액공제 절벽 이후에도 발전+ESS 통합 플랫폼에 대한 M&A 수요는 여전하다는 점이 확인됐다.
 <!-- SYNTHESIS_END -->
 
 ## 소속 기업 동향
@@ -55,6 +57,8 @@ sources: ["https://www.energy-storage.news/us-renewables-and-battery-storage-are
 ## 시장 뉴스 로그 (최신순)
 
 <!-- MARKET_NEWS_START -->
+- **2026-07** － **OBBBA 착공 데드라인 7/4 경과 — 풍력·태양광 세액공제 절벽 본격화** — 7/4 전 착공 못한 신규 프로젝트는 세액공제 상실 위기 (Utility Dive) [↗](https://www.utilitydive.com/news/power-demand-renewable-energy-2026-data-centers-trump-solar-wind/809938/)
+- **2026-07-09** ＋ **EQT, Carlyle의 Copia Power $26억에 인수 — 발전+ESS 통합 플랫폼** — 2.6GW 가동+9GW 파이프라인 — AI 전력 인프라 M&A 활발 (EQT / PR Newswire) [↗](https://eqtgroup.com/news/eqt-to-acquire-copia-power-a-leading-integrated-power-and-ai-infrastructure-platform-2026-07-09)
 - **2026-05** ＋ **1Q26 美 신규 발전용량의 91%가 태양광+ESS** — 물량은 재생+ESS 압도 — DC 수요가 성장 지속 견인 (Energy-Storage.News) [↗](https://www.energy-storage.news/us-renewables-and-battery-storage-are-poised-for-sustained-growth-as-data-centre-demand-accelerates/)
 - **2026-04** ± **OBBBA 이후: 풍력·태양광 크레딧 조기 축소, ESS 는 ’34까지 유지** — 정책 역풍 속 ESS 만 세제 생존 — FEOC 가 중국산 제약 (Orrick) [↗](https://www.orrick.com/en/Insights/2026/04/Energy-Storage-Update-2026-Data-Centers-Revenue-Opportunities-OBBBA-and-Tariffs)
 <!-- MARKET_NEWS_END -->

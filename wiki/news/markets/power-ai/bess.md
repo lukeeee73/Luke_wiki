@@ -1,7 +1,7 @@
 ---
 title: "배터리 ESS (그리드·DC) — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-18
 domain: finance
 type: claim
 weight: reference
@@ -37,7 +37,9 @@ sources: ["https://www.orrick.com/en/Insights/2026/04/Energy-Storage-Update-2026
 
 <!-- SYNTHESIS_START -->
 > [!claim] (as_of 2026-07 · market-research 루틴)
-> FEOC 발 비중국 셀 특수 — K-배터리의 ESS 전환 가속. 설치량은 분기 최대 행진 지속.
+> **지금 상황**: FEOC·301조 관세로 중국산 배터리 셀 실효세율이 약 60%까지 치솟으며(IRS Notice 2026-15, 2/12 발효) 비중국 셀 프리미엄이 정책적으로 고착. EQT의 Copia Power 인수($26억)도 발전+ESS 통합자산에 자금이 몰리는 사례.
+> **왜 중요**: 관세가 시장가격이 아니라 정책으로 비중국 공급사의 가격 우위를 만들어주는 구조다.
+> **투자자 관점**: 비중국(특히 한국) 배터리셀 공급사들이 정책적 보호막 안에서 프리미엄을 유지할 여지가 커졌다.
 <!-- SYNTHESIS_END -->
 
 ## 소속 기업 동향
@@ -55,6 +57,7 @@ sources: ["https://www.orrick.com/en/Insights/2026/04/Energy-Storage-Update-2026
 ## 시장 뉴스 로그 (최신순)
 
 <!-- MARKET_NEWS_START -->
+- **2026-02-12** ± **IRS, FEOC 세부지침 발표 — 중국산 배터리 실효관세 약 60%로** — 비중국 셀(K-배터리) 프리미엄이 정책적으로 고착 (Davis Graham) [↗](https://davisgraham.com/news-events/battery-storage-for-data-centers-in-2026-feoc-compliance-ferc-co-location-and-the-deals-getting-done-now/)
 - **2026-05** ＋ **美 1Q26 ESS 설치 분기 사상최대 — 전망도 상향** — FEOC 로 비중국 셀 프리미엄 — K-배터리 ESS 전환 가속 (Utility Dive) [↗](https://www.utilitydive.com/news/us-sees-record-q1-2026-energy-storage-installations-amid-rosy-outlook/823547/)
 <!-- MARKET_NEWS_END -->
 

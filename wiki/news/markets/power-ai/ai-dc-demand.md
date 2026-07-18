@@ -1,7 +1,7 @@
 ---
 title: "AI 데이터센터 전력 수요 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-18
 domain: finance
 type: claim
 weight: reference
@@ -28,16 +28,17 @@ AI 학습·추론용 데이터센터의 전력 소비 — 이 지도의 모든 �
 
 **수요 동인** — 하이퍼스케일러 ’26 capex $700B±와 GW급 단일 캠퍼스(Stargate ~7GW 등). 칩 확보전이 일단락되며 전력이 AI 빌드아웃의 제1 제약으로.
 
-## 병목 상태 — 병목 없음 (수요의 근원)
+## 병목 상태 — 병목 아님
 
-> [!claim] (출처: 시장지도 as_of 2026-07)
-> 이 노드는 병목 표기가 없다 — 지도 전체 수요의 근원이며, 제약은 하류의 조달 경로(계통접속 대기열)와 장비(터빈·변압기) 노드에 나타난다.
+(이 시장은 구조적 병목으로 분류되지 않는다.)
 
 ## 시장 상황 종합
 
 <!-- SYNTHESIS_START -->
 > [!claim] (as_of 2026-07 · market-research 루틴)
-> 전력 확보가 '컴퓨트 전쟁'의 본선으로 — 4대 하이퍼스케일러 전원이 원자력 계약 체결, 조달 무게추는 BTM 으로 이동 중.
+> **지금 상황**: 美 폭염으로 그리드 부담 급증 — PJM이 비상시 데이터센터에 15분 내 백업발전 전환을 요청. 데이터센터발 소비자 요금인상은 누적 $230억 규모로 집계되며 정치적 역풍이 커지는 중.
+> **왜 중요**: 전력 수요가 이미 일반 소비자 요금에까지 정치적 부담을 주고 있어, 규제·정책 리스크가 수요 자체의 성장 경로에 영향을 줄 수 있다.
+> **투자자 관점**: 요금 전가 논쟁이 커질수록 유틸리티·DC 사업자 모두에게 정치적 리스크가 확대되는 구조다.
 <!-- SYNTHESIS_END -->
 
 ## 소속 기업 동향
@@ -56,6 +57,8 @@ AI 학습·추론용 데이터센터의 전력 소비 — 이 지도의 모든 �
 ## 시장 뉴스 로그 (최신순)
 
 <!-- MARKET_NEWS_START -->
+- **2026-07-03** ± **美 폭염에 그리드 비상 — PJM, 데이터센터에 15분 내 백업전원 전환 요청** — 폭염으로 전력망 압박 — DC 전력수요 관련 정책 리스크 부상 (Al Jazeera) [↗](https://www.aljazeera.com/economy/2026/7/3/us-heatwave-raises-alarms-over-ai-data-centre-energy-demands)
+- **2026-07-14** － **데이터센터발 소비자 요금인상 누적 $230억 — 2028년까지 지속 전망** — DC 전력수요가 요금인상 주범으로 지목 — 정치적 역풍 심화 (Fortune) [↗](https://fortune.com/2026/07/14/data-centers-23-billion-electricity-bills/)
 - **2026-06** ＋ **골드만삭스: 美 DC 전력 31GW(’25)→41GW(’26)→66GW(’27) 전망** — 2027년까지 수요 2배 — 전력이 AI 빌드아웃 제1 제약으로 (Goldman Sachs) [↗](https://www.goldmansachs.com/insights/articles/us-data-center-power-demand-projected-to-double-by-2027)
 <!-- MARKET_NEWS_END -->
 

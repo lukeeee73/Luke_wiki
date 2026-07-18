@@ -1,7 +1,7 @@
 ---
 title: "SMR · 차세대 원자로 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-18
 domain: finance
 type: claim
 weight: reference
@@ -37,7 +37,9 @@ sources: ["https://smrintel.com/state-of-smr-2026/", "https://neutronbytes.com/2
 
 <!-- SYNTHESIS_START -->
 > [!claim] (as_of 2026-07 · market-research 루틴)
-> 딜은 쏟아지나 전자(電子)는 ’30 전 미미 — 시장은 인허가·착공·HALEU 확보 마일스톤에 반응하는 기대 선반영 구간.
+> **지금 상황**: DOE의 7/4 임계 목표 달성 여부는 원자로별로 갈림 — Aalo Atomics는 INL서 임계 달성(4번째 DOE 인가 원자로)한 반면, Oklo Aurora-INL은 목표를 놓치고 첫 발전 목표를 '27말~'28초로 재조정. Oklo는 대신 DOE 예비안전성분석서(PDSA) 승인이라는 별도 마일스톤 확보.
+> **왜 중요**: 임계·인허가 마일스톤은 진전되지만 상업 발전 시점은 계속 뒤로 밀리는 패턴이 반복되고 있다.
+> **투자자 관점**: SMR은 '규제 마일스톤 달성'과 '상업 가동'을 구분해서 봐야 하며, 후자는 여전히 2~3년 이상의 시간축을 요구한다.
 <!-- SYNTHESIS_END -->
 
 ## 소속 기업 동향
@@ -56,6 +58,8 @@ sources: ["https://smrintel.com/state-of-smr-2026/", "https://neutronbytes.com/2
 ## 시장 뉴스 로그 (최신순)
 
 <!-- MARKET_NEWS_START -->
+- **2026-07-04** ＋ **Aalo Atomics, INL서 임계 달성 — DOE 인가 4번째 차세대 원자로** — SMR 업계 임계 마일스톤 잇달아 — 인허가 파이프라인 진전 (POWER Magazine) [↗](https://www.powermag.com/aalo-atomics-test-reactor-reaches-criticality-at-inl-fourth-doe-authorized-advanced-reactor-by-july-4/)
+- **2026-06-12** ＋ **Oklo, DOE 예비안전성분석서(PDSA) 승인 획득 — Aurora 착공 가속경로 진입** — FOAK 규제경로 단축 — 다만 첫 발전 시점은 '27말~'28초로 이동 (ANS Nuclear Newswire) [↗](https://www.ans.org/news/2026-06-12/article-8119/oklo-secures-doe-pdsa-approval/)
 - **2026-03** ＋ **X-energy, 나스닥 IPO 추진 (S-1 제출) — Amazon $700M 투자 업고** — SMR 자본시장 진입 가속 — Xe-100 12기 Amazon 약정 (SMR Intel / SEC) [↗](https://smrintel.com/state-of-smr-2026/)
 - **2026-03** ± **Centrus-Oklo, HALEU 공급 LOI — Aurora 5기분, ’29 인도 개시** — SMR 연료(HALEU) 확보전 개시 — ’29 전 공급 공백은 여전 (Neutron Bytes / SEC) [↗](https://neutronbytes.com/2026/03/15/nuclear-fuel-deals-take-center-stage-for-smrs/)
 <!-- MARKET_NEWS_END -->

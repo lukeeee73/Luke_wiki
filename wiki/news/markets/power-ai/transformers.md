@@ -1,7 +1,7 @@
 ---
 title: "변압기 · 스위치기어 · HVDC — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-18
 domain: finance
 type: claim
 weight: reference
@@ -37,7 +37,9 @@ sources: ["https://zdnet.co.kr/view/?no=20260206190629", "https://www.sedaily.co
 
 <!-- SYNTHESIS_START -->
 > [!claim] (as_of 2026-07 · market-research 루틴)
-> K-빅3 가 5년치 일감 확보 — 변압기가 'K-조선 슈퍼사이클'의 재판. 미국 현지 증설 경쟁 개시.
+> **지금 상황**: K-변압기 수주 랠리 지속 — HD현대일렉트릭이 북미 빅테크와 최대 1.1212조원 배전·전력기기 패키지 계약(7/2, '28까지 순차납품)을, 효성중공업은 호주 송전망에 5년 독점 공급(3100억원)을 각각 체결. GE Vernova Electrification 부문도 DC향 장비 수주 $24억으로 이미 작년 전체를 초과 — 병목이 터빈에서 변압기·스위치기어 쪽으로도 함께 조여오는 신호가 다수 확인됨.
+> **왜 중요**: 터빈에 이어 변압기·스위치기어까지 동시에 조여오는 신호가 다수 확인돼, 전력장비 전반의 병목이 넓어지고 있다.
+> **투자자 관점**: K-전력기기 3사가 해외 대형 계약을 잇달아 따내는 흐름이 뚜렷해, 매진 국면의 최대 수혜 축 중 하나로 자리잡고 있다.
 <!-- SYNTHESIS_END -->
 
 ## 소속 기업 동향
@@ -56,6 +58,10 @@ sources: ["https://zdnet.co.kr/view/?no=20260206190629", "https://www.sedaily.co
 ## 시장 뉴스 로그 (최신순)
 
 <!-- MARKET_NEWS_START -->
+- **2026-07-02** ＋ **HD현대일렉트릭, 북미 빅테크와 1.1조원 전력인프라 패키지 계약** — 배전기기·전력기기 결합 공급 — '28년까지 순차 납품 예정 (아주경제 / ZDNet Korea) [↗](https://www.ajunews.com/view/20260702110308228)
+- **2026-07-02** ＋ **효성중공업, 호주 송전망에 5년 독점 초고압기기 공급 계약(3100억원)** — 해외 장기계약 확대 — K-변압기 수주 랠리 지속 (인사이트코리아) [↗](https://www.insight.co.kr/news/561275)
+- **2026-07-02** ＋ **GEV Electrification 부문, DC향 장비 수주 $24억 — 작년 전체 초과** — 가스터빈 이어 변압기·스위치기어도 병목 심화 신호 (CNBC) [↗](https://www.cnbc.com/2026/07/02/ge-vernovas-gas-turbines-arent-the-only-way-its-winning-from-the-ai-boom.html)
+- **2026-03** ＋ **Hitachi Energy, 중남미 변압기 생산에 $1.5억 추가 투자** — 글로벌 변압기 3사도 증설 경쟁 — 유효공급은 '27년 이후 (Hitachi Energy) [↗](https://www.hitachienergy.com/us/en/news-and-events/features/2026/03/hitachi-energy-reaffirms-commitment-to-latin-america-through-an-additional-150-million-usd-investment-to-expand-power-transformer-manufacturing-capacity)
 - **2026-05** － **美 변압기 리드타임 4~5년으로 — 신규 DC 지연 최대 원인** — GOES 강판·숙련공·시험설비가 증산 상한 (PV Magazine USA) [↗](https://pv-magazine-usa.com/2026/05/11/u-s-transformer-market-faces-severe-supply-constraints-as-lead-times-extend-to-four-years/)
 - **2026-02** ＋ **K-전력기기 빅3, ’25 사상최대 실적 — 합산 매출 15조·영업익 2.2조** — HD현대일렉 영업익 1조 돌파 — 수주잔고 30조+ (5년치) (ZDNet Korea) [↗](https://zdnet.co.kr/view/?no=20260206190629)
 <!-- MARKET_NEWS_END -->
