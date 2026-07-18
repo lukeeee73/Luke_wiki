@@ -1,7 +1,7 @@
 ---
 title: "로봇 인지 센서 (라이다·비전·촉각) — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-15
+updated: 2026-07-18
 domain: finance
 type: claim
 weight: reference
@@ -30,14 +30,16 @@ sources: ["https://www.stocktitan.net/news/HSAI/hesai-group-reports-first-quarte
 
 ## 병목 상태 — 🟡 부상하는 병목 (`emerging`)
 
-> [!claim] (출처: 시장지도 as_of 2026-06)
+> [!claim] (출처: 시장지도 as_of 2026-07)
 > 라이다·카메라는 공급 충분(가격경쟁 심화)하나, 6축 힘토크·촉각 센서는 대량생산·내구성·캘리브레이션이 미성숙해 휴머노이드 양산의 부상 병목. 손가락용 초소형 다축 센서는 검증된 공급사가 소수.
 
 ## 시장 상황 종합
 
 <!-- SYNTHESIS_START -->
-> [!claim] (as_of 2026-06 · market-research 루틴)
-> 라이다 양사(Hesai·RoboSense) 모두 로봇향 폭증으로 흑자 전환 — '로봇의 눈'은 이미 돈이 되는 시장. 다음 병목은 촉각·힘토크.
+> [!claim] (as_of 2026-07 · market-research 루틴)
+> **지금 상황**: 로보센스 상반기 라이다 판매가 71.9만대(+169.6%YoY)를 기록했고, 그중 로보틱스향이 28.3만대로 +510.4%YoY 급증했다 — 로봇용 라이다·비전은 이미 자동차향 매출을 넘어 주력 매출원으로 자리잡았다. 촉각·힘토크 센서 쪽은 이번 조사 기간 중 뚜렷한 양산 돌파 소식이 확인되지 않아 기존 병목이 유지된다.
+> **왜 중요**: 로봇용 라이다·비전 센서가 자동차향 매출을 넘어서며 '로봇의 눈'이 실제 매출원으로 자리잡았다는 뜻이다.
+> **투자자 관점**: 라이다 공급사들의 매출 구성이 자동차에서 로봇으로 빠르게 이동 중이며, 촉각·힘토크 센서는 아직 이 전환이 확인되지 않아 온도차가 있다.
 <!-- SYNTHESIS_END -->
 
 ## 소속 기업 동향
@@ -56,6 +58,7 @@ sources: ["https://www.stocktitan.net/news/HSAI/hesai-group-reports-first-quarte
 ## 시장 뉴스 로그 (최신순)
 
 <!-- MARKET_NEWS_START -->
+- **2026-07-09** ＋ **로보센스 상반기 라이다 71.9만대 — 로봇향 +510% 급증** — 로봇용 라이다가 ADAS를 넘어 핵심 매출원으로 자리매김 (PR Newswire) [↗](https://www.prnewswire.com/news-releases/robosense-announces-h1-2026-lidar-sales-of-719-200-units-as-robotics-segment-grows-by-510-4-302821684.html)
 - **2026-05-19** ＋ **Hesai 1분기 라이다 출하 47만대(+141%) — 흑자 지속** — 로보틱스 라이다 11.8만대 +138%, 매출 +29.6% (Hesai IR) [↗](https://www.stocktitan.net/news/HSAI/hesai-group-reports-first-quarter-2026-unaudited-financial-wgvrptc5slt8.html)
 - **2026-04-09** ＋ **RoboSense 로보틱스 라이다 1분기 +1,459% 폭증** — 로봇용 18.5만개 출하 — 로보틱스 라이다 1위 굳히기 (PR Newswire) [↗](https://www.prnewswire.com/news-releases/robosense-asserts-global-dominance-in-lidar-for-robotics-with-1-458-8-yoy-shipment-surge-in-q1-2026--302783148.html)
 - **2026-03-25** ＋ **RoboSense 사상 첫 분기 흑자 달성** — Q4’25 순익 1.04억위안 — 연 출하 91.2만개 +68% (PR Newswire) [↗](https://www.prnewswire.com/news-releases/robosense-beat-expectations-achieved-first-ever-quarterly-profit-on-strong-robotics-growth-302724994.html)

@@ -1,7 +1,7 @@
 ---
 title: "맞춤형 AI ASIC·XPU — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-18
 domain: finance
 type: claim
 weight: reference
@@ -30,14 +30,16 @@ sources: ["https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-a
 
 ## 병목 상태 — 🟠 병목 완화중 (`easing`)
 
-> [!claim] (출처: 시장지도 as_of 2026-06)
+> [!claim] (출처: 시장지도 as_of 2026-07)
 > GPU와 동일한 CoWoS·HBM 상류 제약 공유. CUDA 생태계 락인으로 외부 판매성 제한 — 대부분 자가 소비용. 설계 사이클 길어 하이퍼스케일러 물량에서만 성립.
 
 ## 시장 상황 종합
 
 <!-- SYNTHESIS_START -->
-> [!claim] (as_of 2026-06 · market-research 루틴)
-> OpenAI·Anthropic 대형 약정으로 Broadcom AI 매출 +106% YoY. 추론 이동이 ASIC에 유리.
+> [!claim] (as_of 2026-07 · market-research 루틴)
+> **지금 상황**: 아마존이 Trainium AI칩을 AWS 전용에서 벗어나 외부 데이터센터에 판매하는 방안을 검토 중이라고 블룸버그·테크크런치가 보도했다. 아마존 커스텀 실리콘 사업(Trainium·Graviton·Nitro)은 연환산 매출 $20B를 돌파 — ASIC의 '자가소비용' 한계가 완화될 조짐이다.
+> **왜 중요**: 커스텀 ASIC이 '하이퍼스케일러 자가소비용'이라는 한계를 벗어나 범용 시장으로 확장될 조짐이라, GPU와의 경쟁 구도가 넓어진다.
+> **투자자 관점**: 외판이 현실화되면 엔비디아 중심 구도에 실질적인 대안 공급자가 처음 등장하는 셈이라, 가격 결정력의 무게중심이 조금씩 이동할 수 있다.
 <!-- SYNTHESIS_END -->
 
 ## 소속 기업 동향
@@ -56,6 +58,7 @@ sources: ["https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-a
 ## 시장 뉴스 로그 (최신순)
 
 <!-- MARKET_NEWS_START -->
+- **2026-06-18** ＋ **아마존, 트레이니엄 AI칩 외부 판매 검토 — 엔비디아에 정면 도전** — 커스텀 실리콘 연매출 $20B 돌파, 주권 AI 수요도 겨냥 (TechCrunch) [↗](https://techcrunch.com/2026/06/18/amazon-hopes-to-challenge-nvidia-more-directly-by-selling-its-ai-chips/)
 _아직 수집된 시장 단위 뉴스가 없다 — market-research 루틴이 채운다._
 <!-- MARKET_NEWS_END -->
 

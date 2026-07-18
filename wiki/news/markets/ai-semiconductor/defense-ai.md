@@ -1,7 +1,7 @@
 ---
 title: "국방 AI · 지휘통제 (C2) — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-18
 domain: finance
 type: claim
 weight: reference
@@ -30,14 +30,16 @@ AI 기반 지휘통제(C2)·표적인식·군집 오케스트레이션 소프트
 
 ## 병목 상태 — 🔴 급성 병목 (`acute`)
 
-> [!claim] (출처: 시장지도 as_of 2026-06)
+> [!claim] (출처: 시장지도 as_of 2026-07)
 > Replicator가 '수천 대' 목표 대비 '수백 대'만 실전 배치 — 저가 대량생산 능력 부족. 이기종 드론 군집을 통합 지휘하는 오케스트레이션 SW 공백이 커서 펜타곤이 $100M 'Orchestrator Prize'까지 내건 상태.
 
 ## 시장 상황 종합
 
 <!-- SYNTHESIS_START -->
-> [!claim] (as_of 2026-06 · market-research 루틴)
-> DAWG $54.6B 요구로 자율전 SW 수요 급팽창. 이기종 군집 오케스트레이션 SW 공백이 핵심 병목 — 펜타곤 $100M Orchestrator Prize.
+> [!claim] (as_of 2026-07 · market-research 루틴)
+> **지금 상황**: 美 육군이 NGC2(차세대 지휘통제) 공통데이터레이어 리드사로 Anduril(+Palantir Foundry, Raft)을 선정했다. 지난 3월 체결한 10년 $20B 기업계약이 4보병사단 실전 검증을 거쳐 실행 단계로 넘어간 것으로, 이기종 데이터 통합이라는 핵심 SW 병목이 처음으로 구체적 프로그램 단위에서 풀리기 시작했다는 신호다.
+> **왜 중요**: 이기종 군집 오케스트레이션이라는 이 시장의 핵심 SW 병목이 특정 프로그램 단위에서 풀리기 시작했다는 뜻이다.
+> **투자자 관점**: 대형 프로그램의 표준을 선점한 업체가 후속 프로그램까지 연쇄 수주할 가능성이 높은 승자독식 구조다.
 <!-- SYNTHESIS_END -->
 
 ## 소속 기업 동향
@@ -53,6 +55,7 @@ AI 기반 지휘통제(C2)·표적인식·군집 오케스트레이션 소프트
 ## 시장 뉴스 로그 (최신순)
 
 <!-- MARKET_NEWS_START -->
+- **2026-06-22** ＋ **美 육군, NGC2 공통데이터레이어 리드사로 Anduril 선정** — Anduril·Palantir 컨소시엄, $20B 기업계약 실행 단계 진입 (DefenseScoop) [↗](https://defensescoop.com/2026/06/22/army-taps-anduril-lead-ngc2-common-data-layer-baseline/)
 - **2026-05-21** ＋ **펜타곤, Replicator 해체 후 자율전 조직 DAWG에 $54.6B 베팅** — 역대 최대 자율전 예산 요구 — 하드웨어→SW 중심 전환 (Defense Security Monitor) [↗](https://dsm.forecastinternational.com/2026/05/21/a-new-dawg-in-the-fight-the-pentagons-54-billion-bet-on-autonomous-warfare/)
 - **2026-05-13** ＋ **안두릴 $5B 시리즈H — 기업가치 $61B로 1년새 2배** — 방산테크 밸류 급등, Arsenal-1 양산설비 확장 자금 (TechCrunch) [↗](https://techcrunch.com/2026/05/13/anduril-raises-5b-doubles-valuation-to-61b/)
 - **2026-04-27** ＋ **SIPRI: 2025 세계 군비 $2.89조 사상 최대, 유럽 +14%** — 11년 연속 증가 — 유럽 재무장 주도, 독일 +24% (SIPRI) [↗](https://www.sipri.org/media/press-release/2026/global-military-spending-rise-continues-european-and-asian-expenditures-surge)

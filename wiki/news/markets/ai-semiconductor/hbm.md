@@ -1,7 +1,7 @@
 ---
 title: "HBM (고대역폭 메모리) — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-18
 domain: finance
 type: claim
 weight: reference
@@ -30,14 +30,16 @@ GPU/가속기에 적층·동봉되어 연산에 데이터를 공급하는 초광
 
 ## 병목 상태 — 🔴 급성 병목 (`acute`)
 
-> [!claim] (출처: 시장지도 as_of 2026-06)
+> [!claim] (출처: 시장지도 as_of 2026-07)
 > 전 3사 2026까지 매진(LTA 할당). 8→12→16단 적층 시 워피지 비선형 증가(3~4배)로 전환 구간 수율 15–20% 손실. 삼성 1c HBM4 샘플수율 ~50%(양산 ≥70% 필요). 12다이 스택 20–30°C 열구배. = 현재 1순위 병목.
 
 ## 시장 상황 종합
 
 <!-- SYNTHESIS_START -->
-> [!claim] (as_of 2026-06 · market-research 루틴)
-> 전 3사 ’26까지 매진, 삼성 HBM4 Rubin 인증으로 3강 경쟁 재점화. 적층 수율이 증설을 제약.
+> [!claim] (as_of 2026-07 · market-research 루틴)
+> **지금 상황**: HBM4 3사 모두 3분기 양산 출하 체제에 진입했고 SK하이닉스가 NVIDIA Rubin 물량의 약 70%를 확보한 것으로 전해진다. 동시에 NVIDIA가 벌써 16단(16-Hi) HBM4(’26 4분기 목표)를 요구하고 있어, 웨이퍼 박막화(50→30μm) 난도가 새로운 리스크로 떠올랐다.
+> **왜 중요**: 매진 상태가 유지되는 한 HBM은 여전히 파는 쪽이 가격을 결정하는 구조이고, 적층 난도 상승은 다음 세대 수율 리스크를 예고한다.
+> **투자자 관점**: 물량을 가장 많이 배정받은 공급사(SK하이닉스)의 협상력이 당분간 가장 강하고, 16단 전환기 수율 문제가 불거지면 공급사 간 순위가 다시 흔들릴 수 있는 구조다.
 <!-- SYNTHESIS_END -->
 
 ## 소속 기업 동향
@@ -53,6 +55,9 @@ GPU/가속기에 적층·동봉되어 연산에 데이터를 공급하는 초광
 ## 시장 뉴스 로그 (최신순)
 
 <!-- MARKET_NEWS_START -->
+- **2026-06-05** ＋ **엔비디아 CEO, 베라루빈용 HBM4 3사 모두 양산 진입 확인** — 삼성·SK하이닉스·마이크론 모두 3분기 출하용 HBM4 양산 확정 (Tech Times) [↗](https://www.techtimes.com/articles/317855/20260605/nvidia-vera-rubin-hbm4-jensen-huang-confirms-all-three-suppliers-production-q3-ship.htm)
+- **2026-06-15** ＋ **SK하이닉스, HBM4E 샘플 일정 앞당겨 6~7월 주요고객 출하** — 차세대 HBM4E 샘플 조기 출하로 3사 경쟁 재점화 (TrendForce) [↗](https://www.trendforce.com/news/2026/06/15/news-sk-hynix-reportedly-pulls-forward-hbm4e-sample-timeline-eyeing-june-july-shipments-to-key-customers/)
+- **2026-07** － **NVIDIA, 4분기용 16단(16-Hi) HBM4 요구 — 3사 수주 경쟁 격화** — 16단 적층 위해 웨이퍼 두께 50→30μm 필요, 수율 난도 상승 (TweakTown) [↗](https://www.tweaktown.com/news/109495/sk-hynix-samsung-and-micron-fighting-for-nvidia-supply-contracts-for-new-16-hi-hbm4-orders/index.html)
 - **2026-01** ＋ **삼성 HBM4, NVIDIA Rubin 퀄 통과 — 1c DRAM 2월 양산** — 삼성이 HBM4 Rubin 인증을 통과하며 SK하이닉스·마이크론과 3강 경쟁 재점화. (SemiEngineering) [↗](https://semiengineering.com/hbm4-sticks-with-microbumps-postponing-hybrid-bonding/)
 - **2025-12** － **HBM 공급곡선 가팔라져도 수요 못 따라가 — 2026까지 매진** — 전 3사 2026까지 HBM 매진, 12/16단 적층 수율이 증설 속도를 제약. (The Next Platform) [↗](https://www.nextplatform.com/2025/12/19/hbm-supply-curve-gets-steeper-but-still-cant-meet-demand/)
 <!-- MARKET_NEWS_END -->

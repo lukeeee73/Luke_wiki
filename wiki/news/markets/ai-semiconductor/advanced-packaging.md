@@ -1,7 +1,7 @@
 ---
 title: "첨단 패키징 (CoWoS·SoIC) — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-18
 domain: finance
 type: claim
 weight: reference
@@ -30,14 +30,16 @@ GPU 로직 다이와 HBM 스택을 실리콘 인터포저 위에 통합 — 가�
 
 ## 병목 상태 — 🟠 병목 완화중 (`easing`)
 
-> [!claim] (출처: 시장지도 as_of 2026-06)
+> [!claim] (출처: 시장지도 as_of 2026-07)
 > CoWoS-L/S ’26까지 매진이나 ~4배 증설로 급성 병목은 완화중 → 제약이 상류 HBM과 하류 전력으로 이동. 물리 한계: 레티클(~858mm²) → 멀티레티클 스티칭, 인터포저 워피지.
 
 ## 시장 상황 종합
 
 <!-- SYNTHESIS_START -->
-> [!claim] (as_of 2026-06 · market-research 루틴)
-> CoWoS 4배 증설로 ’23–24 급성 병목은 완화, 병목이 HBM·전력으로 이동.
+> [!claim] (as_of 2026-07 · market-research 루틴)
+> **지금 상황**: TrendForce는 TSMC CoWoS 수급갭이 20%→10%(’26년말)로 좁혀질 것으로 전망했다. 다만 TSMC 2분기 실적에서는 CoWoS가 연말까지 여전히 완판이고 리드타임이 ’27년까지 이월된다고 재확인했으며, 인텔 EMIB·대만 OSAT(ASE·SPIL 등)이 오버플로 물량을 흡수하는 구도가 굳어지고 있다. (market_pulse 발 emerging 하향 제안 검토·기각 — TSMC 실적상 완판·리드타임 이월 신호가 더 강해 easing 유지.)
+> **왜 중요**: 겉보기엔 병목이 완화되는 듯 보이지만 실제 주문 리드타임은 오히려 늘어나고 있어, "병목 완화" 서사와 현장 수급이 어긋나는 구간이다.
+> **투자자 관점**: 오버플로 물량을 받는 2차 공급사(인텔, 대만 OSAT)의 존재감이 커지는 국면이며, TSMC 한 곳에 의존하던 구조가 조금씩 분산되는 초기 신호로 볼 수 있다.
 <!-- SYNTHESIS_END -->
 
 ## 소속 기업 동향
@@ -54,6 +56,9 @@ GPU 로직 다이와 HBM 스택을 실리콘 인터포저 위에 통합 — 가�
 ## 시장 뉴스 로그 (최신순)
 
 <!-- MARKET_NEWS_START -->
+- **2026-06-15** ＋ **TSMC CoWoS 수급갭 20%→10%로 좁혀질 전망 — 증설 효과** — ’26년말 CoWoS 캐파 12~14만wpm, OSAT 합산 20만wpm 근접 (TrendForce) [↗](https://www.trendforce.com/news/2026/06/15/news-tsmc-cowos-supply-demand-gap-reportedly-seen-narrowing-from-20-to-10-by-end-2026-as-capacity-expands/)
+- **2026-07-16** ± **TSMC 2분기 사상최대 매출 — CoWoS 연말까지 완판, ’27년 이월** — HPC(AI가속기) 매출 비중 66%, 연간 AI매출 성장률 40%대로 상향 (Tech Times (TSMC 실적발표 기반)) [↗](https://www.techtimes.com/articles/320696/20260716/tsmc-posts-record-quarter-ai-chip-demand-pushes-full-year-growth-outlook-past-40.htm)
+- **2026-07** ± **CoWoS 부족에 AI칩 패키징 주문, 인텔·대만 OSAT로 분산** — 인텔 EMIB·ASE·SPIL·파워텍 등이 오버플로 물량 흡수 (Tom's Hardware) [↗](https://www.tomshardware.com/tech-industry/semiconductors/intel-gains-ground-in-ai-packaging-as-cowos-capacity-remains-stretched)
 - **2025-12** · **TSMC CoWoS-L/S 2026까지 완판 — OSAT가 CoWoP로 보완** — ~4배 증설로 급성 CoWoS 병목은 완화 중, 제약이 HBM·전력으로 이동. (TrendForce) [↗](https://www.trendforce.com/news/2025/12/08/news-tsmcs-cowos-l-s-reportedly-fully-booked-osat-partners-step-up-with-ases-cowop-in-focus/)
 <!-- MARKET_NEWS_END -->
 
