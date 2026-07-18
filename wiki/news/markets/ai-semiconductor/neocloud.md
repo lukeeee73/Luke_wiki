@@ -1,7 +1,7 @@
 ---
 title: "네오클라우드 · GPU 클라우드 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-18
 domain: finance
 type: claim
 weight: reference
@@ -28,16 +28,18 @@ sources: ["https://www.srgresearch.com/articles/neoclouds-currently-growing-by-o
 
 **수요 동인** — 프런티어 모델사의 만성적 컴퓨트 부족 + 하이퍼스케일러의 외부 용량 오프테이크(MS→IREN $9.7B, Meta→Nebius $27B)가 초대형 선계약으로 성장 견인.
 
-## 병목 상태 — 🟡 부상하는 병목 (`emerging`)
+## 병목 상태 — 🔴 급성 병목 (`acute`)
 
-> [!claim] (출처: 시장지도 as_of 2026-06)
-> 경쟁축이 GPU 확보전에서 '전력 전쟁'(GW급 부지·인도 속도)으로 이동. GPU 담보 6–9% 고금리 부채로 증설을 조달하고 NVIDIA 투자가 칩 구매로 환류하는 순환금융 구조 — GPU 잔존가치 3년 내 40–60% 하락 vs 장기부채 만기 불일치가 신용경색 시 시스템 리스크.
+> [!claim] (출처: 시장지도 as_of 2026-07)
+> 전력 확보 경쟁에 신용·경쟁 리스크가 겹쳐 부상 — CoreWeave 순손실 확대·이자비용 2배, Meta의 외부판매 클라우드 진출설로 '최대 고객=잠재 경쟁자' 우려까지 더해져 밸류에이션이 40~50% 조정됐다.
 
 ## 시장 상황 종합
 
 <!-- SYNTHESIS_START -->
-> [!claim] (as_of 2026-06 · market-research 루틴)
-> 실적 시즌 화두는 'GPU 확보전 → 전력 전쟁' 이동. 증설 자금이 VC에서 채권시장(전환사채·GPU 담보부채)으로 — 순환금융 리스크 주시.
+> [!claim] (as_of 2026-07 · market-research 루틴)
+> **지금 상황**: 블룸버그가 Meta의 잉여 AI컴퓨팅 외부판매 클라우드 사업('Meta Compute') 추진을 보도하며 '최대 잠재고객이 경쟁자로 전환될 수 있다'는 우려가 확산, CoreWeave·Nebius 주가가 고점 대비 40~50%대 급락했다. CoreWeave 1분기 순손실은 -$740M(전년 -$315M)로 확대되고 이자비용은 YoY 2배(-$536M)로 늘어 부채 부담이 가시화됐다. 한편 소프트뱅크는 'SB Neo'를 통해 美 10GW 규모 신규 네오클라우드 시장 진출을 선언했다.
+> **왜 중요**: '최대 잠재고객이 경쟁자가 될 수 있다'는 우려와 부채 부담 증가가 겹치며 신용·경쟁 리스크가 동시에 부상했다 — 병목 등급을 emerging에서 acute로 올렸지만, 계약잔고·capex 가이던스는 오히려 상향돼 신호가 엇갈리는 만큼 추가 확인이 필요하다.
+> **투자자 관점**: 계약잔고·capex 가이던스는 견조해 실수요 자체는 살아있지만, 밸류에이션은 자본조달 비용과 경쟁 구도 변화에 더 민감하게 반응하는 국면으로 전환됐다.
 <!-- SYNTHESIS_END -->
 
 ## 소속 기업 동향
@@ -56,6 +58,10 @@ sources: ["https://www.srgresearch.com/articles/neoclouds-currently-growing-by-o
 ## 시장 뉴스 로그 (최신순)
 
 <!-- MARKET_NEWS_START -->
+- **2026-07-01** － **메타, 잉여 AI컴퓨팅 외부판매 클라우드 사업 추진** — AWS·애저·GCP는 물론 네오클라우드에도 새 경쟁 변수 등장 (Bloomberg) [↗](https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute)
+- **2026-07-02** ± **소프트뱅크, 'SB Neo'로 美 10GW 네오클라우드 시장 진출** — 오하이오 DOE 부지 앵커, 최대 $500B 투자 계획 (Bloomberg) [↗](https://www.bloomberg.com/news/articles/2026-07-02/softbank-launches-ai-cloud-unit-with-plans-to-tap-10-gigawatt-capacity)
+- **2026-05-07** － **코어위브 1분기 순손실 -$740M, 이자비용 2배로 확대** — 매출은 +112%로 급성장했지만 부채 부담도 함께 커짐 (CoreWeave IR) [↗](https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-First-Quarter-2026-Results/)
+- **2026-07-16** － **코어위브·네비우스, 메타발 경쟁 우려로 주가 급락 지속** — 코어위브 고점 대비 -48~50%, 네비우스 하루 -13% (24/7 Wall St.) [↗](https://247wallst.com/investing/2026/07/16/nebius-sinks-13-as-the-neocloud-trade-unravels-how-coreweave-iren-and-the-ai-data-center-stocks-stack-up/)
 - **2026-05-15** · **네오클라우드 실적 총괄: 'GPU 확보전'에서 '전력 전쟁'으로** — 경쟁축이 칩에서 전력·부지·자금조달로 이동 (Data Center Knowledge) [↗](https://www.datacenterknowledge.com/cloud/earnings-roundup-neoclouds-shift-from-gpu-race-to-power-wars)
 - **2026-03-20** · **네비우스 $4.3B 전환사채 발행 — 네오클라우드 공모 부채조달 본격화** — 증설 자금이 VC에서 채권시장으로 — GPU 담보 레버리지 확대 (Nebius) [↗](https://nebius.com/newsroom/nebius-group-announces-closing-of-private-offering-of-convertible-senior-notes-with-aggregate-gross-proceeds-of-approximately-4-3-billion)
 - **2025-11-03** ＋ **마이크로소프트, IREN과 $9.7B GPU 클라우드 계약 — 채굴사 AI 전환 가속** — GB300 5년 계약 — 비트코인 채굴사 전력자산 재평가 촉발 (GlobeNewswire (IREN)) [↗](https://www.globenewswire.com/news-release/2025/11/03/3178993/0/en/IREN-Secures-9-7bn-AI-Cloud-Contract-with-Microsoft.html)

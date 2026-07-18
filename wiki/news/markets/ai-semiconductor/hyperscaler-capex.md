@@ -1,7 +1,7 @@
 ---
 title: "하이퍼스케일러·프런티어 CAPEX — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-18
 domain: finance
 type: claim
 weight: reference
@@ -30,14 +30,16 @@ sources: ["https://www.tomshardware.com/tech-industry/big-tech/big-techs-ai-spen
 
 ## 병목 상태 — 🔴 급성 병목 (`acute`)
 
-> [!claim] (출처: 시장지도 as_of 2026-06)
+> [!claim] (출처: 시장지도 as_of 2026-07)
 > 수요가 건설 가능한 공급을 초과 — 전력/전력망 접속(5년+ 대기), CoWoS/HBM, 재무 부담이 제약. Stargate 약정 $1.4T→$600B 축소가 '약정 ≠ 실현' 신호. 거품 논쟁의 진앙.
 
 ## 시장 상황 종합
 
 <!-- SYNTHESIS_START -->
-> [!claim] (as_of 2026-06 · market-research 루틴)
-> ’26 빅4 capex $700B+로 재확대되나 현금 부담·Stargate 축소가 지속성 의문을 키움.
+> [!claim] (as_of 2026-07 · market-research 루틴)
+> **지금 상황**: 빅4 ’26년 capex 합산 가이던스가 $700~725B(전년비 +75~77%)로 재확인됐다. TSMC 2분기 실적(HPC 매출 비중 66%, 연간 AI매출 성장률 40%대로 상향)이 실집행을 뒷받침하지만, 전력망 제약(변압기 최대 5년·스위치기어 ’28년 완판)이 집행 속도의 실질 상한으로 작용하고 있다.
+> **왜 중요**: 가이던스가 아니라 실제 파운드리 매출로 집행이 확인됐다는 점에서 'AI 투자 거품' 논쟁에 실적 근거가 더해졌다.
+> **투자자 관점**: 전력망 제약이 집행 속도의 실질 상한으로 작용하는 만큼, capex 숫자 자체보다 전력·변압기 확보 속도가 다음 병목 지표가 된다.
 <!-- SYNTHESIS_END -->
 
 ## 소속 기업 동향
@@ -56,6 +58,8 @@ sources: ["https://www.tomshardware.com/tech-industry/big-tech/big-techs-ai-spen
 ## 시장 뉴스 로그 (최신순)
 
 <!-- MARKET_NEWS_START -->
+- **2026-07-12** ± **빅테크 ’26 capex $700B대 재확인 — 트래커 최신화** — 아마존 $200B·구글 $185B·메타 $135B·MS $120B 내외 (CreditSights (Yahoo Finance 인용)) [↗](https://finance.yahoo.com/sectors/technology/articles/hyperscalers-hit-700-billion-2026-111243744.html)
+- **2026-07-16** ＋ **TSMC 2분기 사상최대 매출, AI 연간 성장률 40%대로 상향** — HPC(AI가속기) 매출 비중 66% — capex 실집행이 확인됨 (Tech Times) [↗](https://www.techtimes.com/articles/320696/20260716/tsmc-posts-record-quarter-ai-chip-demand-pushes-full-year-growth-outlook-past-40.htm)
 _아직 수집된 시장 단위 뉴스가 없다 — market-research 루틴이 채운다._
 <!-- MARKET_NEWS_END -->
 

@@ -1,0 +1,73 @@
+---
+title: "임상·헬스 데이터 (RWD) — 시장 종합"
+created: 2026-07-18
+updated: 2026-07-18
+domain: finance
+type: claim
+weight: reference
+confidence: low
+tags: [routine-news, market-summary, pharma-bio, health-data]
+map: pharma-bio
+market_id: health-data
+sources: ["https://investors.tempus.com/news-releases/news-release-details/tempus-announces-strategic-collaboration-agreement-merck", "https://www.prnewswire.com/news-releases/illumina-expands-billion-cell-atlas-program-with-new-ai-drug-developers-302827780.html"]
+---
+
+# 임상·헬스 데이터 (RWD) — 시장 종합
+
+**Clinical & Real-World Data** · ④ R&D 서비스 · AI · 규모 RWD/RWE ~$5–10B + 데이터 플랫폼 (집계 기준 상이) · 성장 AI 수요로 가속 — 데이터가 새 병목
+
+> [!info] 자동 종합 노트
+> 이 파일은 시장지도 노드 `health-data` 의 종합 페이지다. `indicator_dashboard` 루틴이 관리한다 —
+> **daily-market-analysis** 루틴이 담당 요일에 [소속 기업 동향]을, **market-research** 루틴이 주 1회
+> [시장 정의]·[병목 상태]·[시장 상황 종합]·[시장 뉴스 로그]를 갱신한다. HTML 마커는 루틴의 앵커이므로 지우지 않는다.
+> 사람은 굳어진 사실을 `wiki/topics/` 로 승격(promote)만 한다.
+
+## 시장 정의
+
+AI 신약·임상의 연료 — 처방·청구·EHR·오믹스 데이터와 그 플랫폼. AI 시대의 '훈련 데이터' 자산.
+
+**수요 동인** — AI 모델 성능이 데이터 질·양에 수렴하면서 독점 데이터 보유자의 가치 재평가 — IQVIA(처방 데이터), Tempus(분자+임상), Illumina 의 Billion Cell Atlas(AI 신약용 50억 세포 퍼터베이션). 규제기관도 RWE 승인 활용 확대.
+
+## 병목 상태 — 🟡 부상하는 병목 (`emerging`)
+
+> [!claim] (출처: 시장지도 as_of 2026-07)
+> 고품질·정합 라벨 데이터의 부족이 AI 신약의 진짜 상류 병목 — 공개 데이터는 고갈, 병원 데이터는 사일로·프라이버시 규제에 묶임. 대규모 퍼터베이션 데이터 생성(wet lab)에는 자본이 들어 소수만 가능 — 데이터 해자가 곧 기업가치.
+
+## 시장 상황 종합
+
+<!-- SYNTHESIS_START -->
+> [!claim] (as_of 2026-07 · market-research 루틴)
+> **지금 상황**: 일루미나가 Billion Cell Atlas 얼라이언스를 확장(7월16일, Formation Bio 등 3개사 추가, 누적 3.5억+ 세포·6PB 데이터)했다. Merck·Gilead는 Tempus와 대형 RWD 계약을 잇따라 체결하며 데이터 자산의 몸값이 오르는 중.
+> **왜 중요**: 'AI 학습용 데이터 생성' 자체가 사업이 되면서 데이터 해자를 가진 기업의 몸값이 오르고 있다.
+> **투자자 관점**: 데이터 규모와 질을 선점한 기업이 AI 신약 생태계에서 협상력을 키워가는 구조다.
+<!-- SYNTHESIS_END -->
+
+## 소속 기업 동향
+
+<!-- PLAYERS_START -->
+| 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
+|---|---|---|---|---|
+| IQVIA | 최대 처방·임상 데이터 자산 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `IQV` |
+| Tempus AI | 분자+임상 멀티모달 데이터 — AI 진단 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `TEM` |
+| Veeva | 제약 CRM·임상 SW 표준 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `VEEV` |
+| Flatiron (Roche) | 온콜로지 RWD | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | 비상장 |
+| Datavant · Truveta | 데이터 연결·병원 컨소시엄 (비상장) | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | 비상장 |
+<!-- PLAYERS_END -->
+
+## 시장 뉴스 로그 (최신순)
+
+<!-- MARKET_NEWS_START -->
+- **2026-03-03** ＋ **머크-Tempus, 정밀의료 바이오마커 확대 협력** — AI/ML로 바이오마커·내성 기전 발굴, 온콜로지 파이프라인에 활용. (Tempus/Merck) [↗](https://investors.tempus.com/news-releases/news-release-details/tempus-announces-strategic-collaboration-agreement-merck)
+- **2026-07-16** ＋ **일루미나, Billion Cell Atlas 얼라이언스에 신규 3개사 추가** — 3.5억+ 세포·6PB 데이터로 AI 신약사 공동 얼라이언스 확대. (PR Newswire) [↗](https://www.prnewswire.com/news-releases/illumina-expands-billion-cell-atlas-program-with-new-ai-drug-developers-302827780.html)
+<!-- MARKET_NEWS_END -->
+
+## 사실 누적 (Verified Facts)
+
+<!-- FACTS_START -->
+<!-- FACTS_END -->
+
+## 인접 시장 (지도 링크)
+
+- ⬅ 수요측 [임상시험 CRO](cro.md) — 임상·RWD 데이터
+- ⬅ 수요측 [AI 신약개발 (테크바이오)](ai-drug-discovery.md) — 학습 데이터 확보 — 진짜 병목
+- ➡ 공급측 [연구 도구 · 시퀀싱](life-science-tools.md) — 오믹스 데이터 생성 (시퀀싱)

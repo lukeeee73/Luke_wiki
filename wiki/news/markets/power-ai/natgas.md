@@ -1,7 +1,7 @@
 ---
 title: "천연가스 공급 · 미드스트림 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-18
 domain: finance
 type: claim
 weight: reference
@@ -37,7 +37,9 @@ BTM·신설 가스발전의 연료 — 셰일 생산(업스트림)과 파이프�
 
 <!-- SYNTHESIS_START -->
 > [!claim] (as_of 2026-07 · market-research 루틴)
-> 미드스트림의 정체성 전환 — 운송업자에서 'DC 전력 공급자'로. 가스 수요 전망 상향 릴레이.
+> **지금 상황**: 헨리허브 가격이 LNG 수출 확대(Plaquemines·Golden Pass)와 DC 발전수요가 겹치며 구조적 상승 압력을 받는 중 — 신규 하단 $4.00~4.60/MMBtu 전망(모간스탠리 등). Williams는 사모펀드 $53.4억을 유치해 BTM 가스발전 6GW 파이프라인을 확장.
+> **왜 중요**: 저가 가스 시대가 끝난다는 신호는 BTM·그리드 양쪽의 가스발전 경제성 계산을 동시에 흔든다.
+> **투자자 관점**: 가스가격 상승은 발전사업자에게는 원가 부담이지만, 상류 생산·미드스트림 업체에게는 우호적인 방향이다.
 <!-- SYNTHESIS_END -->
 
 ## 소속 기업 동향
@@ -54,6 +56,8 @@ BTM·신설 가스발전의 연료 — 셰일 생산(업스트림)과 파이프�
 ## 시장 뉴스 로그 (최신순)
 
 <!-- MARKET_NEWS_START -->
+- **2026-06** － **헨리허브, LNG수출·DC수요 겹치며 구조적 상승압력 — 하단 $4대 전망** — 저가 가스 시대 종료 시그널 — BTM 경제성 변수로 부상 (Natural Gas Intel) [↗](https://naturalgasintel.com/news/soaring-demand-costlier-supply-seen-pushing-henry-hub-higher/)
+- **2026-07** ＋ **Williams, 사모펀드서 $53.4억 유치 — BTM 가스발전 6GW 파이프라인 확장** — Blackstone·Apollo·KKR 참여 — 미드스트림 발전 진출 자금 몰림 (PGJ) [↗](https://pgjonline.com/news/2026/july/williams-secures-534-billion-for-gas-fired-power-projects)
 - **2025-10** ＋ **Williams, 'power innovation' $5.1B — DC 온사이트 모듈러 가스발전** — Project Socrates ’26 하반기 완공 — 미드스트림의 발전사업 진출 (Rextag / Williams IR) [↗](https://rextag.com/blogs/blog/natural-gas-fuels-the-ai-boom-williams-builds-the-backbone-for-data-centers)
 <!-- MARKET_NEWS_END -->
 

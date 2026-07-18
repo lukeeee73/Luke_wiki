@@ -1,0 +1,73 @@
+---
+title: "중국 파이프라인 라이선싱 — 시장 종합"
+created: 2026-07-18
+updated: 2026-07-18
+domain: finance
+type: claim
+weight: reference
+confidence: low
+tags: [routine-news, market-summary, pharma-bio, china-licensing]
+map: pharma-bio
+market_id: china-licensing
+sources: ["https://www.indoneo.com/capital/pfizer-innovent-china-biotech-10-billion-deal/", "https://www.vcbeathealth.com/article/58923"]
+---
+
+# 중국 파이프라인 라이선싱 — 시장 종합
+
+**China Biotech Out-Licensing** · ③ R&D 자본 엔진 · 규모 딜 총가치 $135.7B(’25) · Q1’26 에만 $60B(+73%) · 성장 업프런트 평균 $52M(’22) → $172M(’26, +230%)
+
+> [!info] 자동 종합 노트
+> 이 파일은 시장지도 노드 `china-licensing` 의 종합 페이지다. `indicator_dashboard` 루틴이 관리한다 —
+> **daily-market-analysis** 루틴이 담당 요일에 [소속 기업 동향]을, **market-research** 루틴이 주 1회
+> [시장 정의]·[병목 상태]·[시장 상황 종합]·[시장 뉴스 로그]를 갱신한다. HTML 마커는 루틴의 앵커이므로 지우지 않는다.
+> 사람은 굳어진 사실을 `wiki/topics/` 로 승격(promote)만 한다.
+
+## 시장 정의
+
+중국 바이오텍이 개발한 후보물질을 빅파마가 사오는 신흥 파이프라인 공급원 — 특허절벽의 최대 해법으로 부상.
+
+**수요 동인** — 중국의 빠른 임상 속도·낮은 개발비 + 빅파마의 절벽 압박이 결합. ADC·이중항체·경구 GLP-1 등 핫 모달리티에서 중국 자산이 글로벌 베스트인클래스로 — AZ·화이자·BMS 가 각 $16B+ 약정.
+
+## 병목 상태 — 🟡 부상하는 병목 (`emerging`)
+
+> [!claim] (출처: 시장지도 as_of 2026-07)
+> 가격 급등·지정학 리스크가 동시에 커지는 구도 지속
+
+## 시장 상황 종합
+
+<!-- SYNTHESIS_START -->
+> [!claim] (as_of 2026-07 · market-research 루틴)
+> **지금 상황**: 5월 한달간 BMS-헝루이 $15.2B(5월12일)·화이자-이노벤트 $10B(5월28일) 초대형 딜이 연이어 터지며 중국 자산 쟁탈전이 정점을 찍었다.
+> **왜 중요**: 중국 자산 프리미엄이 계속 갱신되는 동시에, 대중 바이오 투자심사 강화 논의도 함께 부상하고 있다.
+> **투자자 관점**: 가격과 지정학 리스크가 함께 커지는 구도라, 딜 규모만큼이나 규제 승인 리스크를 함께 봐야 한다.
+<!-- SYNTHESIS_END -->
+
+## 소속 기업 동향
+
+<!-- PLAYERS_START -->
+| 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
+|---|---|---|---|---|
+| Hengrui Pharma | BMS와 $15.2B 글로벌 전략 제휴(5월12일) | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `600276.SS` |
+| Akeso | 이보네스시맙 — 키트루다 직접 도전 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `9926.HK` |
+| CSPC | AZ 경구 GLP-1 $18.5B 딜 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `1093.HK` |
+| BeOne (BeiGene) | 글로벌화 선두 — 자체 상업화 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `ONC` |
+| Innovent · Duality · 3SBio | ADC·이중항체 라이선싱 다수 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `1801.HK` |
+| Innovent Biologics | 화이자와 온콜로지 12개 자산 $10B 라이선싱(5월28일) | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `1801.HK` |
+<!-- PLAYERS_END -->
+
+## 시장 뉴스 로그 (최신순)
+
+<!-- MARKET_NEWS_START -->
+- **2026-05-12** ＋ **BMS-헝루이, $15.2B 글로벌 전략 제휴 체결** — 상하이 헝루이와 대형 패키지딜, 중국 자산 프리미엄 재확인. (VCBeat Health) [↗](https://www.vcbeathealth.com/article/58923)
+- **2026-05-28** ＋ **화이자, 이노벤트와 온콜로지 12개 자산 $10B 라이선싱** — 단일 패키지로 12개 항암 파이프라인 확보, 중국 자산 대형화 상징. (업계) [↗](https://www.indoneo.com/capital/pfizer-innovent-china-biotech-10-billion-deal/)
+<!-- MARKET_NEWS_END -->
+
+## 사실 누적 (Verified Facts)
+
+<!-- FACTS_START -->
+<!-- FACTS_END -->
+
+## 인접 시장 (지도 링크)
+
+- ⬅ 수요측 [빅파마 R&D·M&A 자본](pharma-rd-capital.md) — 특허절벽 대응 자산 인수 (업프런트 +230%)
+- ➡ 공급측 [바이오 CDMO (위탁개발생산)](cdmo-biologics.md) — WuXi 의존 → Biosecure 재편

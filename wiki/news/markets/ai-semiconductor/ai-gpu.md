@@ -1,7 +1,7 @@
 ---
 title: "AI 가속기 (GPU) — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-18
 domain: finance
 type: claim
 weight: reference
@@ -30,14 +30,16 @@ AI 학습·추론을 돌리는 데이터센터 GPU — 프런티어 AI의 지배
 
 ## 병목 상태 — 🟠 병목 완화중 (`easing`)
 
-> [!claim] (출처: 시장지도 as_of 2026-06)
+> [!claim] (출처: 시장지도 as_of 2026-07)
 > 칩 설계가 아니라 상류(CoWoS·HBM)와 하류(전력)가 제약. NVDA 자체는 공급 제약 상태 — 수요가 한계가 아님.
 
 ## 시장 상황 종합
 
 <!-- SYNTHESIS_START -->
-> [!claim] (as_of 2026-06 · market-research 루틴)
-> Blackwell→Rubin 전환기, 수요는 공급 초과 지속. 커스텀 ASIC이 점유율을 80%대로 잠식 중.
+> [!claim] (as_of 2026-07 · market-research 루틴)
+> **지금 상황**: 루빈(Rubin) GPU의 열판(thermal lid) 생산 이슈가 해소되며 7월 생산 램프에 돌입했다. 다만 ’26년 생산 상한은 20~30만개 수준으로 추정되고 기업 온프렘 채널 할당은 ’27년까지 이월돼, CoWoS·HBM 상류 병목이 신세대 GPU에도 이어지는 모습이다.
+> **왜 중요**: 하드웨어 이슈는 풀렸지만 CoWoS·HBM 등 상류 병목이 여전히 신세대 GPU 생산량의 실질 상한을 정하고 있다.
+> **투자자 관점**: 기업 온프렘 채널의 할당 이월(’27년까지)이 이어지는 한, 대기수요가 다음 세대까지 누적되는 구조가 유지된다.
 <!-- SYNTHESIS_END -->
 
 ## 소속 기업 동향
@@ -53,6 +55,8 @@ AI 학습·추론을 돌리는 데이터센터 GPU — 프런티어 AI의 지배
 ## 시장 뉴스 로그 (최신순)
 
 <!-- MARKET_NEWS_START -->
+- **2026-07** ＋ **엔비디아 루빈 GPU 생산 램프 재개 — 열판 이슈 해소** — 7월 양산 재개하나 ’26 출하량은 기존 전망보다 하향 (Gate.com (KeyBanc 리서치 인용)) [↗](https://www.gate.com/en-us/news/detail/nvidia-rubin-gpu-shipment-delay-resolved-production-to-ramp-in-july-keybanc-17807814)
+- **2026-07-16** ＋ **TSMC 2분기 실적: HPC(AI가속기) 매출 비중 66%로 확대** — AI가속기 수요發 웨이퍼 매출 비중 계속 확대 (Tech Times) [↗](https://www.techtimes.com/articles/320696/20260716/tsmc-posts-record-quarter-ai-chip-demand-pushes-full-year-growth-outlook-past-40.htm)
 _아직 수집된 시장 단위 뉴스가 없다 — market-research 루틴이 채운다._
 <!-- MARKET_NEWS_END -->
 

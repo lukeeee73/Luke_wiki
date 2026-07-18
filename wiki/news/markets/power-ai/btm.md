@@ -1,7 +1,7 @@
 ---
 title: "BTM 구내·전용 발전 조달 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-18
 domain: finance
 type: claim
 weight: reference
@@ -14,7 +14,7 @@ sources: ["https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40g
 
 # BTM 구내·전용 발전 조달 — 시장 종합
 
-**Behind-the-Meter / On-site Power** · ② 조달 경로 · 규모 ’28 BTM 40GW+ 전망(SemiAnalysis) · 신규 증분의 25–33%(McKinsey) · 장비 TAM ~50GW/yr(’29) · 성장 ’28+ 신규 DC 의 절반 이상 전망
+**Behind-the-Meter / On-site Power** · ② 조달 경로 · 규모 ’28 BTM 40GW+ 전망(SemiAnalysis) · 신규 증분의 25–33%(McKinsey) · 실제 가동 中 BTM은 ~2GW(SemiAnalysis, ’26.6 기준, 4개 프로젝트 — 대부분 xAI Colossus 1&2) · 성장 전망치와 실제 가동 GW 간 괴리 확대
 
 > [!info] 자동 종합 노트
 > 이 파일은 시장지도 노드 `btm` 의 종합 페이지다. `indicator_dashboard` 루틴이 관리한다 —
@@ -28,16 +28,18 @@ sources: ["https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40g
 
 **수요 동인** — 계통접속 3~5년 vs BTM 가스 ~18개월. xAI Colossus(VoltaGrid 가스발전기)가 원형 — 이후 하이퍼스케일러·네오클라우드의 기본 옵션으로 확산.
 
-## 병목 상태 — 🟡 부상하는 병목 (`emerging`)
+## 병목 상태 — 🔴 급성 병목 (`acute`)
 
 > [!claim] (출처: 시장지도 as_of 2026-07)
-> 속도의 대가 — 터빈·왕복엔진 리드타임(’29 매진), 대기오염 인허가(가스 연소), 부지 가스 공급 인프라가 제약. 소비자 요금 전가 논쟁과 규제 리스크도 부상.
+> 속도의 대가가 현실화 — 터빈 리드타임뿐 아니라 가스관·대기오염 인허가 거부가 실제 프로젝트 지연으로 이어지는 사례가 누적(뉴멕시코 Green Chile 가스관 불허, Oracle/STACK 2029 연기, Nebius NJ 대기배출허가 지연). SemiAnalysis는 실제 가동 중인 BTM은 ~2GW(대부분 xAI Colossus)뿐이라 지적 — 전망치와 실물 사이 괴리가 확인됨.
 
 ## 시장 상황 종합
 
 <!-- SYNTHESIS_START -->
 > [!claim] (as_of 2026-07 · market-research 루틴)
-> BTM 이 '예외'에서 '기본 옵션'으로 — ’28+ 신규 DC 절반 이상이 BTM 전망. 미드스트림·연료전지 업체가 직접 전력 공급자로 변신 중.
+> **지금 상황**: BTM 깃발 프로젝트들이 잇달아 인허가 벽에 부딪히는 중 — Stargate 뉴멕시코 가스관 불허, Oracle/STACK 부지는 2029년으로 밀림, Nebius 뉴저지는 대기배출 허가 난항. 반면 Williams는 사모펀드에서 $53.4억을 유치해 BTM 가스발전 6GW 파이프라인을 계속 확장 — 자금은 몰리지만 인허가가 새 병목으로 부상.
+> **왜 중요**: 자금은 풍부한데 인허가가 막히는 조합은 병목이 '자본'에서 '인허가·터빈 리드타임'으로 완전히 이동했음을 보여준다 — 자동신호가 잡은 병목이동(bottleneck_migration)과 방향이 일치해 emerging에서 acute로 상향했다.
+> **투자자 관점**: 실제 가동 중인 BTM은 전망치 대비 극히 일부(~2GW)뿐이라는 점이 확인된 만큼, BTM '발표'(GW)와 '가동'(GW) 사이 괴리를 구분해서 봐야 하는 국면이다.
 <!-- SYNTHESIS_END -->
 
 ## 소속 기업 동향
@@ -56,6 +58,10 @@ sources: ["https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40g
 ## 시장 뉴스 로그 (최신순)
 
 <!-- MARKET_NEWS_START -->
+- **2026-03-20** － **뉴멕시코주, Stargate 프로젝트 가스관 우회로 불허 — 2.45GW 온사이트 발전 차질** — Green Chile 가스관 허가 거부 — OpenAI·Oracle DC 온사이트 발전 지연 (Public Citizen) [↗](https://www.citizen.org/article/energy-transfer-green-chile-gas-pipeline-openai-oracle-jupiter-stargate-ai-data-center/)
+- **2026-06** － **Oracle/STACK 텍사스 DC, 가스관 부재로 가동시점 2029년으로 밀려** — 가스관·인허가 부재가 BTM 실제 배치를 지연시키는 사례 확인 (SemiAnalysis) [↗](https://newsletter.semianalysis.com/p/stop-saying-half-of-2026-us-datacenter)
+- **2026-07** － **Nebius 뉴저지 DC, 400MW 온사이트 가스발전 대기배출 허가 난항** — 대기오염 허가가 MSFT 파트너사 컴퓨트 공급 일정 위협 (Cleanview) [↗](https://cleanview.co/reports/behind-the-meter-data-centers)
+- **2026-07** ＋ **Williams, 사모펀드서 $53.4억 유치 — BTM 가스발전 6GW 파이프라인 확장** — Blackstone·Apollo·KKR 참여 — BTM 자금조달은 오히려 원활 (PGJ / Williams) [↗](https://pgjonline.com/news/2026/july/williams-secures-534-billion-for-gas-fired-power-projects)
 - **2026-06** ± **BTM 가스발전, 소비자 요금 인상 논쟁으로 — 그래도 확산 지속** — BTM 붐이 가스 수요·요금에 파급 — 규제 리스크 부상 (Utility Dive) [↗](https://www.utilitydive.com/news/data-centers-raise-energy-bills-not-for-reason-you-think/822205/)
 - **2026-05** ＋ **'속도-전력 문제, 천연가스로 풀었다' — BTM 이 기본 옵션으로** — 계통 3~5년 대기 vs BTM 가스 ~18개월 — 신규 DC 절반+가 BTM 전망 (Heatmap News) [↗](https://heatmap.news/energy/natural-gas-data-centers-speed)
 - **2026-04** ＋ **미드스트림, DC 온사이트 발전 사업 직접 진출 가속** — Williams·ET 가 파이프+발전 결합 상품으로 BTM 공급자化 (NGI / Enverus) [↗](https://www.naturalgasintel.com/news/data-centers-going-off-grid-with-natural-gas-to-find-any-way-to-get-power/)

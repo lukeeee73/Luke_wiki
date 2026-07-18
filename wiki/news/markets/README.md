@@ -1,7 +1,7 @@
 ---
 title: "Markets — 시장 노드 종합 폴더"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-18
 domain: finance
 type: index
 weight: reference
@@ -31,8 +31,11 @@ wiki/news/markets/
 ├── ai-semiconductor/       # AI·반도체 시장지도 (map_id) — 노드당 1파일 (30개)
 │   ├── hbm.md              # 예: HBM 시장 종합
 │   └── {market_id}.md
-└── power-ai/               # 전력·AI 인프라 시장지도 — 노드당 1파일 (14개)
-    ├── turbines.md         # 예: 가스터빈 제조 시장 종합
+├── power-ai/               # 전력·AI 인프라 시장지도 — 노드당 1파일 (14개)
+│   ├── turbines.md         # 예: 가스터빈 제조 시장 종합
+│   └── {market_id}.md
+└── pharma-bio/              # 제약·바이오 시장지도 — 노드당 1파일 (18개)
+    ├── oncology.md         # 예: 항암(ADC·IO) 시장 종합
     └── {market_id}.md
 ```
 

@@ -1,7 +1,7 @@
 ---
 title: "가스 발전 (신설 CCGT·온사이트) — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-18
 domain: finance
 type: claim
 weight: reference
@@ -37,7 +37,9 @@ AI 전력의 주력 증분 전원 — 계통용 CCGT 신설과 BTM 온사이트 
 
 <!-- SYNTHESIS_START -->
 > [!claim] (as_of 2026-07 · market-research 루틴)
-> '전력 부족 = 가스 붐' — 신설 속도가 터빈 슬롯 배정에 좌우되고, IPP 밸류에이션은 전력 희소성 프리미엄을 반영 중.
+> **지금 상황**: GE Vernova 1분기 Gas Power 부문 수주 $100억(+59%) — 신규 가스설비 계약 21GW. 헨리허브 가격은 LNG수출·DC수요가 겹치며 구조적 상승 압력(신규 하단 $4.00~4.60/MMBtu 전망)을 받는 중.
+> **왜 중요**: 수주잔고 확대와 원료가격 상승이 동시에 나타나는 건 수요가 가격에 상관없이 몰리고 있다는 신호다.
+> **투자자 관점**: 가스터빈 매진이 지속되는 한 소수 공급사의 가격결정력이 유지되고, 가스가격 상승은 BTM·그리드 양쪽 모두의 경제성 계산에 새 변수로 작용한다.
 <!-- SYNTHESIS_END -->
 
 ## 소속 기업 동향
@@ -54,6 +56,8 @@ AI 전력의 주력 증분 전원 — 계통용 CCGT 신설과 BTM 온사이트 
 ## 시장 뉴스 로그 (최신순)
 
 <!-- MARKET_NEWS_START -->
+- **2026-07-02** ＋ **GEV 1분기 Gas Power 수주 $100억 — 신규 가스설비 계약 21GW** — 가스터빈·EPC 수주 동반 확대 — 신설 파이프라인 사상최대 (CNBC) [↗](https://www.cnbc.com/2026/07/02/ge-vernovas-gas-turbines-arent-the-only-way-its-winning-from-the-ai-boom.html)
+- **2026-06** － **헨리허브 가격 구조적 상승 압력 — LNG수출·DC수요 겹쳐 $4대 하단 전망** — 저가 가스 시대 종료 시그널 — 가스발전 경제성에 변수 (Natural Gas Intel) [↗](https://naturalgasintel.com/news/soaring-demand-costlier-supply-seen-pushing-henry-hub-higher/)
 - **2026-06** ＋ **'전력 부족 = 가스 붐' — 신설 CCGT·BTM 가스 발주 사상 최대** — 가스가 AI 전력의 주력 증분 전원으로 — 착공은 터빈 슬롯에 종속 (NGI) [↗](https://www.naturalgasintel.com/news/natural-gas-turbines-arent-gating-data-center-buildouts-ge-vernova-says/)
 <!-- MARKET_NEWS_END -->
 

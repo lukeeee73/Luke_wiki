@@ -1,7 +1,7 @@
 ---
 title: "그리드 접속 · 유틸리티 조달 (FTM) — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-18
 domain: finance
 type: claim
 weight: reference
@@ -37,7 +37,9 @@ sources: ["https://www.latitudemedia.com/news/ercots-large-load-queue-has-nearly
 
 <!-- SYNTHESIS_START -->
 > [!claim] (as_of 2026-07 · market-research 루틴)
-> ERCOT 큐 410GW — '접속 대기열'이 곧 시장. FERC/PJM 공동입지 규칙과 대형부하 요금제가 게임의 룰을 다시 쓰는 중.
+> **지금 상황**: PJM 2028/29 용량경매가 또다시 가격상한($325/MW-day)에 도달 — 예비율 목표 대비 6.8GW 부족. ERCOT는 7/11부로 기존 개별심사 대기열 절차를 'Batch Zero' 시스템으로 전면 교체.
+> **왜 중요**: 2년 연속 가격상한 도달은 신규 발전이 수요 증가를 구조적으로 못 따라가고 있다는 뜻이다.
+> **투자자 관점**: 용량가격 상승은 기존 발전자산 보유자에게 유리하게 작용하고, 절차 개편(Batch Zero)이 실제 대기열 해소로 이어지는지가 다음 관전포인트다.
 <!-- SYNTHESIS_END -->
 
 ## 소속 기업 동향
@@ -56,6 +58,8 @@ sources: ["https://www.latitudemedia.com/news/ercots-large-load-queue-has-nearly
 ## 시장 뉴스 로그 (최신순)
 
 <!-- MARKET_NEWS_START -->
+- **2026-07** － **PJM 용량경매 또 상한가 도달 — 예비율 6.8GW 부족 확인** — 2년 연속 가격상한 — 신규 발전이 수요 증가를 못 따라감 (Utility Dive) [↗](https://www.utilitydive.com/news/pjm-capacity-auction-price-cap-reserve-shortfall/825282/)
+- **2026-07-11** ± **ERCOT, 대형부하 접속 절차를 'Batch Zero'로 전면 개편·시행** — 개별심사 대신 시스템 전체 일괄평가로 큐 절차 정비 (Willkie Farr) [↗](https://www.willkie.com/publications/2026/06/ercot-approves-implementing-new-batch-zero-process-for-large-load-interconnections)
 - **2026-04** － **ERCOT 대형부하 큐 410GW — 1년새 4배, 87%가 데이터센터** — 1Q26 신규 신청만 198GW — 접속 대기열이 곧 시장 (Latitude Media / ERCOT) [↗](https://www.latitudemedia.com/news/ercots-large-load-queue-has-nearly-quadrupled-in-a-single-year/)
 - **2026-03** ± **FERC, PJM 에 데이터센터 공동입지(colocation) 규칙 제정 명령** — 원전 옆 DC 직결 규칙 정비 — 그리드 조달의 게임 룰 재편 (Utility Dive / White & Case) [↗](https://www.whitecase.com/insight-alert/pjm-proposes-carve-out-new-services-co-located-data-centers)
 - **2026-02** － **PJM 핫스팟 접속 대기 36~48개월 — 용량부족 ’30까지 15GW** — 계약 103GW 중 23GW 만 가동 — 실물(장비·인력)이 병목 (Carbon Direct / Ascend Analytics) [↗](https://www.ascendanalytics.com/blog/large-load-interconnection-queues-data-center-grid-access)
