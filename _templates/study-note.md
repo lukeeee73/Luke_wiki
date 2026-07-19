@@ -8,6 +8,7 @@ weight: reference
 confidence: medium
 tags: [study]
 sources: []
+authorship: mixed
 ---
 
 # {{title}}

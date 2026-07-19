@@ -103,6 +103,7 @@ weight: foundational         # foundational | important | reference
 confidence: high             # high | medium | low
 tags: [태그1, 태그2]
 sources: [출처 파일 경로]
+authorship: human            # (선택) human | mixed | ai | routine
 ---
 ```
 
@@ -124,6 +125,28 @@ sources: [출처 파일 경로]
 - `high`: 검증된 사실, 수학적 원리, 역사적 사건
 - `medium`: 합리적 추론이지만 반례 있음
 - `low`: 전문가 의견, 예측, 검증 어려운 주장
+
+**authorship 정의 (선택 필드):**
+- `human`: 사람이 직접 작성한 노트 (내 판단·원칙·직접 캡처)
+- `mixed`: 사람의 공부·판단을 AI가 정리한 노트 (ingest 작업 대부분)
+- `ai`: AI가 생성하고 사람 검토가 얕은 노트
+- `routine`: 자동 루틴이 수집한 노트 (`wiki/news/` 등)
+
+이 필드는 대시보드(`indicator_dashboard`) 위키 탭의 **3D 지식 좌표계**에서
+Z축(나의 개입도)을 명시적으로 지정하는 값이다. 생략하면 대시보드가 폴더·type·
+judgment callout 로 추정하므로 필수는 아니지만, 추정이 어긋나는 노트에는 명시한다.
+
+### 지식 좌표 (3D 대시보드 연동)
+
+대시보드는 각 노트를 frontmatter 로부터 세 축의 좌표로 투영한다:
+
+| 축 | 의미 | 산출 근거 |
+|---|---|---|
+| X · 검증 강도 (evidence) | 주장·미검증 → 사실·검증 | `confidence` + `type` + `sources` + 인식론 callout 분포 |
+| Y · 판단 비중 (importance) | 참고 → 핵심 원칙 | `weight` + `type` |
+| Z · 나의 개입도 (agency) | AI·루틴 → 내 판단·원칙 | `authorship` 명시값 우선, 없으면 폴더 + type + judgment callout 추정 |
+
+frontmatter 를 정확히 채우는 것이 곧 지식 지도의 좌표를 정확히 잡는 일이다.
 
 ### 페이지 내부 — Callout으로 문장 단위 인식론적 구분
 

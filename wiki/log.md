@@ -13,6 +13,17 @@ sources: []
 
 ---
 
+## 2026-07-19
+
+### [SCHEMA] 3D 지식 좌표계 — `authorship` 필드 문서화
+
+- **작업**: 대시보드(`indicator_dashboard`) 위키 탭이 3D 지식 좌표계(X 검증 강도 · Y 판단 비중 · Z 나의 개입도)로 재구현됨에 따라, Z축을 명시 지정하는 선택 필드 `authorship: human | mixed | ai | routine` 을 스키마에 문서화. 생략 시 대시보드는 폴더·type·judgment callout 로 추정한다.
+- **업데이트된 파일**:
+  - `CLAUDE.md` — frontmatter 예시에 `authorship` 추가, 정의 목록과 "지식 좌표 (3D 대시보드 연동)" 절 신설
+  - `_templates/study-note.md` — `authorship: mixed` 기본값 추가
+  - `_templates/news-promotion.md` — `authorship: human` 기본값 추가
+- **비고**: 기존 노트는 일괄 수정하지 않는다 (휴리스틱 추정 유지). 추정이 어긋나는 노트에만 개별적으로 명시한다.
+
 ## 2026-07-16
 
 ### [INGEST] SemiAnalysis — The Future of Meta Superintelligence (1년 진행 업데이트)

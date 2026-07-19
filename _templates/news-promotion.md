@@ -8,6 +8,7 @@ weight: reference
 confidence: medium
 tags: [promoted-from-news]
 sources: []
+authorship: human
 ---
 
 # {{title}}
