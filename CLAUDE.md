@@ -140,11 +140,13 @@ judgment callout 로 추정하므로 필수는 아니지만, 추정이 어긋나
 
 대시보드는 각 노트를 frontmatter 로부터 세 축의 좌표로 투영한다:
 
-| 축 | 의미 | 산출 근거 |
-|---|---|---|
-| X · 검증 강도 (evidence) | 주장·미검증 → 사실·검증 | `confidence` + `type` + `sources` + 인식론 callout 분포 |
-| Y · 판단 비중 (importance) | 참고 → 핵심 원칙 | `weight` + `type` |
-| Z · 나의 개입도 (agency) | AI·루틴 → 내 판단·원칙 | `authorship` 명시값 우선, 없으면 폴더 + type + judgment callout 추정 |
+| 축 | 배치 | 의미 | 산출 근거 |
+|---|---|---|---|
+| X · 검증 강도 (evidence) | 가로 | 주장·미검증 → 사실·검증 | `confidence` + `type` + `sources` + 인식론 callout 분포 |
+| Y · 판단 비중 (importance) | 깊이 | 참고 → 핵심 원칙 | `weight` + `type` |
+| Z · 나의 개입도 (agency) | 세로 | AI·루틴 → 내 판단·원칙 | `authorship` 명시값 우선, 없으면 폴더 + type + judgment callout 추정 |
+
+Z(나의 개입도)가 세로축이므로 내 판단·원칙이 위로 떠오르고, 루틴 수집물은 바닥에 깔린다.
 
 frontmatter 를 정확히 채우는 것이 곧 지식 지도의 좌표를 정확히 잡는 일이다.
 
