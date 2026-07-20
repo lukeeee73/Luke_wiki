@@ -1,7 +1,7 @@
 ---
 title: "MSFT - Microsoft Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-07-06
+updated: 2026-07-20
 domain: finance
 type: claim
 weight: reference
