@@ -1,7 +1,7 @@
 ---
 title: "EUV 노광 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-21
 domain: finance
 type: claim
 weight: reference
@@ -45,7 +45,7 @@ sources: ["https://counterpointresearch.com/en/insights/asml-2025-revenue-up-16-
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| ASML | EUV/High-NA 100% 독점 · 점유 100% | +0.42 (2026-06-30) | 삼성·SK 한국 팹 투자로 +6.8% 신고가, MATCH법 DUV ~20% 리스크 | [ASML](../../tickers/ASML - ASML Holding NV.md) |
+| ASML | EUV/High-NA 100% 독점 · 점유 100% | +0.25 (2026-07-21) | 연간 가이던스를 올해 두 번째로 상향하고 52주 신고가를 기록했지만 중국 매출 비중 하락은 리스크다 | [ASML](../../tickers/ASML - ASML Holding NV.md) |
 | Carl Zeiss SMT | High-NA 광학 단독 공급 (비상장) | — | — | 비상장 |
 <!-- PLAYERS_END -->
 

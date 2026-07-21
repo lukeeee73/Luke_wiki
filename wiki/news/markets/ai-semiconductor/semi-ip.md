@@ -1,7 +1,7 @@
 ---
 title: "반도체 IP · EDA — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-21
 domain: finance
 type: claim
 weight: reference
@@ -45,9 +45,9 @@ sources: ["https://www.synopsys.com/", "https://www.arm.com/"]
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Synopsys | EDA 1위 · 점유 30% | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | [SNPS](../../tickers/SNPS - Synopsys, Inc.md) |
-| Cadence | EDA 2위 · 점유 28% | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | [CDNS](../../tickers/CDNS - Cadence Design Systems.md) |
-| ARM | CPU/GPU IP (ISA 표준) | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | [ARM](../../tickers/ARM - Arm Holdings plc.md) |
+| Synopsys | EDA 1위 · 점유 30% | -0.05 (2026-07-21) | AI가 상용 설계 소프트웨어 없이 칩을 설계한 사건으로 핵심 경쟁우위 우려가 실적 모멘텀을 압도했다 | [SNPS](../../tickers/SNPS - Synopsys, Inc.md) |
+| Cadence | EDA 2위 · 점유 28% | 0.00 (2026-07-21) | 같은 AI 설계 우려로 급락했지만 사상 최대 수주잔고와 가이던스 상향이 상쇄해 중립권에 머문다 | [CDNS](../../tickers/CDNS - Cadence Design Systems.md) |
+| ARM | CPU/GPU IP (ISA 표준) | +0.13 (2026-07-21) | 서버 시장에서 인텔 점유율을 계속 잠식하는 구조적 성장세이나 밸류에이션 경고로 주가는 조정받고 있다 | [ARM](../../tickers/ARM - Arm Holdings plc.md) |
 | Siemens EDA | EDA 3위 (해외) · 점유 12% | — | — | 비상장 |
 <!-- PLAYERS_END -->
 

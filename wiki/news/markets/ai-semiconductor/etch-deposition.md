@@ -1,7 +1,7 @@
 ---
 title: "식각·증착 장비 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-21
 domain: finance
 type: claim
 weight: reference
@@ -45,9 +45,9 @@ sources: ["https://www.semi.org/en/semi-press-release/global-total-semiconductor
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Applied Materials | 종합 1위 (~30–35%) · 점유 30% | +0.29 (2026-06-30) | 신규 6개 AI 칩장비·KeyBanc $750로 6/29 ~+10% 급등 | [AMAT](../../tickers/AMAT - Applied Materials.md) |
-| Lam Research | 식각·증착 (메모리 강세) · 점유 20% | +0.34 (2026-06-30) | Cantor $500·Russell Top50 편입·삼성 1.4nm 재개, YTD +114% | [LRCX](../../tickers/LRCX - Lam Research Corp.md) |
-| Tokyo Electron | 코터/디벨로퍼 1위 · 점유 18% | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | [TOELY](../../tickers/TOELY - Tokyo Electron Limited.md) |
+| Applied Materials | 종합 1위 (~30–35%) · 점유 30% | +0.24 (2026-07-21) | CEO의 장기 수요 가시성 발언과 증권사 목표가 동시 상향으로 업종 조정 속에서도 상대적으로 견조하다 | [AMAT](../../tickers/AMAT - Applied Materials.md) |
+| Lam Research | 식각·증착 (메모리 강세) · 점유 20% | +0.01 (2026-07-21) | 목표가 상향과 중국 수출규제發 매출 손실·CEO 자사주 매도가 동시에 겹쳐 신호가 팽팽하다 | [LRCX](../../tickers/LRCX - Lam Research Corp.md) |
+| Tokyo Electron | 코터/디벨로퍼 1위 · 점유 18% | +0.17 (2026-07-21) | 사상 최고가 부근에서 COO 승진과 대규모 자사주 매입 발표로 경영 안정성과 주주환원 의지를 보여줬다 | [TOELY](../../tickers/TOELY - Tokyo Electron Limited.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)

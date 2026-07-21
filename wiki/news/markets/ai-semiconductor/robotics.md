@@ -1,7 +1,7 @@
 ---
 title: "휴머노이드 로봇 · 피지컬 AI — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-15
+updated: 2026-07-21
 domain: finance
 type: claim
 weight: reference
@@ -46,7 +46,7 @@ AI 파운데이션 모델(VLA)을 탑재해 실세계 범용 작업을 수행하
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
 | Tesla (Optimus) | Optimus V3 ’26 양산 목표 — 핸드 설계·희토류 이슈로 지연 | +0.11 (2026-07-15) | 2분기 인도 48만대로 컨센서스 상회했지만 주가는 -8%, 마이애미 무감독 로보택시 개시·NHTSA FSD 조사 격상 | [TSLA](../../tickers/TSLA - Tesla Inc.md) |
-| NVIDIA | Jetson Thor + Isaac GR00T — 로보틱스의 '안드로이드' 전략 (무기상) | +0.38 (2026-06-30) | Palantir 정부 AI·RTX Spark·Vera Rubin 풀생산, 단 5월 고점 대비 -23% | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
+| NVIDIA | Jetson Thor + Isaac GR00T — 로보틱스의 '안드로이드' 전략 (무기상) | -0.06 (2026-07-21) | 중국발 저가 AI모델 등장으로 반도체 밸류에이션 우려가 커졌지만 일본 AI 확장 등 사업은 계속 성장하고 있다 | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
 | Figure AI | Figure 03 + Helix VLA, BotQ 자체 양산 (비상장, ~$39B) | — | — | 비상장 |
 | Unitree | 저가 휴머노이드(G1 $16K) 출하 1위권, 상하이 IPO 추진 | — | — | 비상장 |
 | UBTech | Walker S2 산업용 양산, ’26 5천대 목표·에어버스 공급 | watchlist 외 | — | `9880.HK` |

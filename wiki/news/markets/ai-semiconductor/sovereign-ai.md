@@ -1,7 +1,7 @@
 ---
 title: "소버린·엔터프라이즈 AI — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-21
 domain: finance
 type: claim
 weight: reference
@@ -45,8 +45,8 @@ sources: ["https://www.nvidia.com/en-us/industries/global-public-sector/"]
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| NVIDIA | 국가 AI 팩토리 GPU 지배 공급 | +0.38 (2026-06-30) | Palantir 정부 AI·RTX Spark·Vera Rubin 풀생산, 단 5월 고점 대비 -23% | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
-| AMD | MI 시리즈 대안 | +0.52 (2026-06-30) | 데이터센터 +57%·Gartner 최강자·Rackspace 30MW, 중국 규제 리스크 | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
+| NVIDIA | 국가 AI 팩토리 GPU 지배 공급 | -0.06 (2026-07-21) | 중국발 저가 AI모델 등장으로 반도체 밸류에이션 우려가 커졌지만 일본 AI 확장 등 사업은 계속 성장하고 있다 | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
+| AMD | MI 시리즈 대안 | +0.14 (2026-07-21) | 데이터센터 매출에서 처음 인텔을 앞질렀고 곧 있을 신제품 행사가 반등 계기가 될 수 있다 | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
 | Dell · HPE · Supermicro | 온프렘 시스템 통합 | watchlist 외 | — | `DELL` |
 <!-- PLAYERS_END -->
 

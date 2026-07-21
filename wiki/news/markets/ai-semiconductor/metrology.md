@@ -1,7 +1,7 @@
 ---
 title: "계측·검사 장비 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-21
 domain: finance
 type: claim
 weight: reference
@@ -45,8 +45,8 @@ sources: ["https://247wallst.com/technology-3/2026/05/04/kla-is-gaining-share-as
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| KLA | 계측·검사 ~74% 준독점 · 점유 74% | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | [KLAC](../../tickers/KLAC - KLA Corporation.md) |
-| Applied Materials | ~9.8% (감소중) · 점유 10% | +0.29 (2026-06-30) | 신규 6개 AI 칩장비·KeyBanc $750로 6/29 ~+10% 급등 | [AMAT](../../tickers/AMAT - Applied Materials.md) |
+| KLA | 계측·검사 ~74% 준독점 · 점유 74% | +0.06 (2026-07-21) | 이달 두 차례 급락에도 계측·검사 장비 독점 지위를 근거로 한 목표가 상향이 이어지며 신호가 엇갈린다 | [KLAC](../../tickers/KLAC - KLA Corporation.md) |
+| Applied Materials | ~9.8% (감소중) · 점유 10% | +0.24 (2026-07-21) | CEO의 장기 수요 가시성 발언과 증권사 목표가 동시 상향으로 업종 조정 속에서도 상대적으로 견조하다 | [AMAT](../../tickers/AMAT - Applied Materials.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)
