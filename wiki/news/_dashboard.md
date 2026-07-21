@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-07-17
+updated: 2026-07-21
 domain: finance
 type: index
 weight: reference
@@ -54,48 +54,48 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [NVDA](tickers/NVDA - NVIDIA Corporation.md) | 2026-06-30 | +0.38 | Palantir 정부 AI·RTX Spark·Vera Rubin 풀생산, 단 5월 고점 대비 -23% | 7 |
-| [AMD](tickers/AMD - Advanced Micro Devices.md) | 2026-06-30 | +0.52 | 데이터센터 +57%·Gartner 최강자·Rackspace 30MW, 중국 규제 리스크 | 9 |
-| [INTC](tickers/INTC - Intel Corporation.md) | 2026-06-30 | +0.43 | Cantor $150(+67%)·18A-P 리스크생산·TSMC 인상 반사이익, +7.2% | 8 |
-| [QCOM](tickers/QCOM - QUALCOMM Incorporated.md) | 2026-06-30 | +0.41 | Investor Day 목표 상향·Dragonfly CPU·Modular $3.92B 인수 | 7 |
-| [AVGO](tickers/AVGO - Broadcom Inc.md) | 2026-06-30 | +0.22 | OpenAI Jalapeño 칩·Q2 AI $10.8B이나 목표 미상향에 월 ~-20% | 8 |
-| [MRVL](tickers/MRVL - Marvell Technology, Inc.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
-| [2454.TW](tickers/2454.TW - MediaTek Inc.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
-| [MBLY](tickers/MBLY - Mobileye Global Inc.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
-| [SNPS](tickers/SNPS - Synopsys, Inc.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
-| [CDNS](tickers/CDNS - Cadence Design Systems.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
-| [ARM](tickers/ARM - Arm Holdings plc.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+| [NVDA](tickers/NVDA - NVIDIA Corporation.md) | 2026-07-21 | 🔴 -0.06 | 중국발 저가 AI모델 등장으로 반도체 밸류에이션 우려가 커졌지만 일본 AI 확장 등 사업은 계속 성장하고 있다 | 12 |
+| [AMD](tickers/AMD - Advanced Micro Devices.md) | 2026-07-21 | 🟢 +0.14 | 데이터센터 매출에서 처음 인텔을 앞질렀고 곧 있을 신제품 행사가 반등 계기가 될 수 있다 | 12 |
+| [INTC](tickers/INTC - Intel Corporation.md) | 2026-07-21 | 🔴 -0.19 | 첨단 공정 수율 확보가 늦어지고 서버 매출에서 AMD에 역전당해 실적 발표를 앞두고 신뢰가 흔들리고 있다 | 10 |
+| [QCOM](tickers/QCOM - QUALCOMM Incorporated.md) | 2026-07-21 | 🔴 -0.15 | 중국 고객사들의 스마트폰 출하 축소로 핵심 사업 우려가 커졌지만 데이터센터 AI 칩 사업 기대는 남아있다 | 8 |
+| [AVGO](tickers/AVGO - Broadcom Inc.md) | 2026-07-21 | 🟢 +0.16 | 애플과의 대형 장기 계약으로 사업 기반은 튼튼해졌지만 고평가 부담에 주가는 오히려 밀렸다 | 12 |
+| [MRVL](tickers/MRVL - Marvell Technology, Inc.md) | 2026-07-21 | 🟢 +0.05 | 신제품 출시와 목표주가 상향에도 반도체 업종 전반의 설비투자 둔화 우려에 눌려 약보합이다 | 1 |
+| [2454.TW](tickers/2454.TW - MediaTek Inc.md) | 2026-07-21 | 🟢 +0.10 | 구글 TPU 수주 확대와 엔비디아 협력으로 경쟁력이 강화되고 있으나 최근 영어권 보도는 제한적이다 | 1 |
+| [MBLY](tickers/MBLY - Mobileye Global Inc.md) | 2026-07-21 | 🟢 +0.14 | 로보택시 직접 운영 전략과 목표주가 상향으로 경쟁력 서사가 강화되며 7/23 실적을 앞두고 있다 | 1 |
+| [SNPS](tickers/SNPS - Synopsys, Inc.md) | 2026-07-21 | 🔴 -0.05 | AI가 상용 설계 소프트웨어 없이 칩을 설계한 사건으로 핵심 경쟁우위 우려가 실적 모멘텀을 압도했다 | 1 |
+| [CDNS](tickers/CDNS - Cadence Design Systems.md) | 2026-07-21 | ⚪ 0.00 | 같은 AI 설계 우려로 급락했지만 사상 최대 수주잔고와 가이던스 상향이 상쇄해 중립권에 머문다 | 1 |
+| [ARM](tickers/ARM - Arm Holdings plc.md) | 2026-07-21 | 🟢 +0.13 | 서버 시장에서 인텔 점유율을 계속 잠식하는 구조적 성장세이나 밸류에이션 경고로 주가는 조정받고 있다 | 2 |
 
 ### 반도체 — 메모리 (HBM·DRAM)
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [005930.KS](tickers/005930.KS - Samsung Electronics.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
-| [000660.KS](tickers/000660.KS - SK Hynix.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
-| [MU](tickers/MU - Micron Technology.md) | 2026-06-30 | +0.26 | Q3 기록 $41.46B·Q4 $50B·$100B 다년계약, SK하이닉스 HBM 경쟁 | 10 |
+| [005930.KS](tickers/005930.KS - Samsung Electronics.md) | 2026-07-21 | 🔴 -0.10 | 테슬라와의 대형 파운드리 계약에도 코스피 급락과 담합 소송 우려로 약한 역풍이 불었다 | 2 |
+| [000660.KS](tickers/000660.KS - SK Hynix.md) | 2026-07-21 | ⚪ -0.01 | HBM 시장 지배력은 굳건하지만 이란-미 충돌발 매크로 셀오프와 ADR 상장 초기 변동성이 겹쳤다 | 2 |
+| [MU](tickers/MU - Micron Technology.md) | 2026-07-21 | ⚪ -0.03 | 씨티의 목표주가 상향 관찰과 이란-미 충돌발 주가 조정이 팽팽히 맞선 하루였다 | 3 |
 
 ### 반도체 — 파운드리 · 패키징 · 기판
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [TSM](tickers/TSM - Taiwan Semiconductor Mfg.md) | 2026-06-30 | +0.29 | 첨단노드 90% 점유·5~10% 인상·Winbond 협력, ITC 예비판정 리스크 | 6 |
-| [AMKR](tickers/AMKR - Amkor Technology, Inc.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
-| [4062.T](tickers/4062.T - Ibiden Co., Ltd.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+| [TSM](tickers/TSM - Taiwan Semiconductor Mfg.md) | 2026-07-21 | 🟢🟢 +0.21 | 2분기 순이익이 77% 급증하고 가이던스도 올렸지만 밸류에이션 우려로 주가는 이평선을 하회했다 | 11 |
+| [AMKR](tickers/AMKR - Amkor Technology, Inc.md) | 2026-07-21 | 🟢 +0.16 | 2분기 실적 발표를 앞두고 매출 가이던스가 늘었고 신규 장비 도입으로 생산성도 개선되고 있다 | 2 |
+| [4062.T](tickers/4062.T - Ibiden Co., Ltd.md) | 2026-07-21 | 🟢 +0.12 | 영업이익 가이던스는 견조한데도 7월 초 고점 이후 주가가 큰 폭 조정받아 실적과 주가가 엇갈린다 | 2 |
 
 ### 반도체 — 장비 · 소재
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [ASML](tickers/ASML - ASML Holding NV.md) | 2026-06-30 | +0.42 | 삼성·SK 한국 팹 투자로 +6.8% 신고가, MATCH법 DUV ~20% 리스크 | 6 |
-| [AMAT](tickers/AMAT - Applied Materials.md) | 2026-06-30 | +0.29 | 신규 6개 AI 칩장비·KeyBanc $750로 6/29 ~+10% 급등 | 6 |
-| [LRCX](tickers/LRCX - Lam Research Corp.md) | 2026-06-30 | +0.34 | Cantor $500·Russell Top50 편입·삼성 1.4nm 재개, YTD +114% | 6 |
-| [TOELY](tickers/TOELY - Tokyo Electron Limited.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
-| [KLAC](tickers/KLAC - KLA Corporation.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
-| [042700.KS](tickers/042700.KS - Hanmi Semiconductor.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
-| [6857.T](tickers/6857.T - Advantest Corporation.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
-| [6146.T](tickers/6146.T - DISCO Corporation.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
-| [BESI.AS](tickers/BESI.AS - BE Semiconductor Industries.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
-| [4063.T](tickers/4063.T - Shin-Etsu Chemical.md) | — | — | 신규 편입 (2026-07-06) — 첫 수집 대기 | 0 |
+| [ASML](tickers/ASML - ASML Holding NV.md) | 2026-07-21 | 🟢🟢 +0.25 | 연간 가이던스를 올해 두 번째로 상향하고 52주 신고가를 기록했지만 중국 매출 비중 하락은 리스크다 | 4 |
+| [AMAT](tickers/AMAT - Applied Materials.md) | 2026-07-21 | 🟢🟢 +0.24 | CEO의 장기 수요 가시성 발언과 증권사 목표가 동시 상향으로 업종 조정 속에서도 상대적으로 견조하다 | 6 |
+| [LRCX](tickers/LRCX - Lam Research Corp.md) | 2026-07-21 | ⚪ +0.01 | 목표가 상향과 중국 수출규제發 매출 손실·CEO 자사주 매도가 동시에 겹쳐 신호가 팽팽하다 | 6 |
+| [TOELY](tickers/TOELY - Tokyo Electron Limited.md) | 2026-07-21 | 🟢 +0.17 | 사상 최고가 부근에서 COO 승진과 대규모 자사주 매입 발표로 경영 안정성과 주주환원 의지를 보여줬다 | 2 |
+| [KLAC](tickers/KLAC - KLA Corporation.md) | 2026-07-21 | 🟢 +0.06 | 이달 두 차례 급락에도 계측·검사 장비 독점 지위를 근거로 한 목표가 상향이 이어지며 신호가 엇갈린다 | 2 |
+| [042700.KS](tickers/042700.KS - Hanmi Semiconductor.md) | 2026-07-21 | 🟢 +0.12 | HBM 장비 부족에 대비해 역대 최대 공장 매입과 美법인 설립을 추진 중이나 경쟁사 특허소송이 부담이다 | 2 |
+| [6857.T](tickers/6857.T - Advantest Corporation.md) | 2026-07-21 | ⚪ +0.03 | 실적 펀더멘털은 괜찮지만 AI 설비투자 지속가능성 우려로 이번 주 주가가 크게 빠져 방향성이 중립이다 | 1 |
+| [6146.T](tickers/6146.T - DISCO Corporation.md) | 2026-07-21 | 🟢 +0.14 | 출하액·영업이익 모두 사상 최고를 기록했지만 이미 주가에 반영돼 발표 당일 주가는 오히려 하락했다 | 1 |
+| [BESI.AS](tickers/BESI.AS - BE Semiconductor Industries.md) | 2026-07-21 | ⚪ +0.02 | 장기 목표를 상향할 만큼 자신감을 보였지만 주요 고객사의 신기술 도입 지연 우려로 주가가 급락해 신호가 팽팽하다 | 2 |
+| [4063.T](tickers/4063.T - Shin-Etsu Chemical.md) | 2026-07-21 | 🟢 +0.14 | AI용 웨이퍼 가격을 11년 만에 인상하며 가격결정력을 확인했지만 업종 전반 매도세로 주가는 눌려 있다 | 1 |
 
 ### AI 인프라 — 네트워킹 · 광 · 네오클라우드
 

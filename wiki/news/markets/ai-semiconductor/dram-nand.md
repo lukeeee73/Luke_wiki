@@ -1,7 +1,7 @@
 ---
 title: "범용 DRAM·NAND — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-21
 domain: finance
 type: claim
 weight: reference
@@ -45,9 +45,9 @@ sources: ["https://www.idc.com/resource-center/blog/global-memory-shortage-crisi
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Samsung | DRAM/NAND 1위 · 점유 40% | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
-| SK Hynix | DRAM 2위 + Solidigm · 점유 34% | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | [000660.KS](../../tickers/000660.KS - SK Hynix.md) |
-| Micron | DRAM/NAND 3강 · 점유 22% | +0.26 (2026-06-30) | Q3 기록 $41.46B·Q4 $50B·$100B 다년계약, SK하이닉스 HBM 경쟁 | [MU](../../tickers/MU - Micron Technology.md) |
+| Samsung | DRAM/NAND 1위 · 점유 40% | -0.10 (2026-07-21) | 테슬라와의 대형 파운드리 계약에도 코스피 급락과 담합 소송 우려로 약한 역풍이 불었다 | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
+| SK Hynix | DRAM 2위 + Solidigm · 점유 34% | -0.01 (2026-07-21) | HBM 시장 지배력은 굳건하지만 이란-미 충돌발 매크로 셀오프와 ADR 상장 초기 변동성이 겹쳤다 | [000660.KS](../../tickers/000660.KS - SK Hynix.md) |
+| Micron | DRAM/NAND 3강 · 점유 22% | -0.03 (2026-07-21) | 씨티의 목표주가 상향 관찰과 이란-미 충돌발 주가 조정이 팽팽히 맞선 하루였다 | [MU](../../tickers/MU - Micron Technology.md) |
 | Kioxia | NAND 주요 공급사 | watchlist 외 | — | `285A.T` |
 | SanDisk | NAND (구 WD) | watchlist 외 | — | `SNDK` |
 <!-- PLAYERS_END -->

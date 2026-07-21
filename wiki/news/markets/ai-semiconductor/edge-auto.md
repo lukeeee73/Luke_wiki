@@ -1,7 +1,7 @@
 ---
 title: "차량용·자율주행 반도체 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-15
+updated: 2026-07-21
 domain: finance
 type: claim
 weight: reference
@@ -45,9 +45,9 @@ ADAS·자율주행·디지털 콕핏용 칩. 고가 AD SoC가 다중 센서를 �
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Mobileye | 카메라 ADAS ~65–70% (점유율 하락중) · 점유 65% | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | [MBLY](../../tickers/MBLY - Mobileye Global Inc.md) |
-| NVIDIA | 고급 AD/로보택시 (Drive Thor) · 점유 10% | +0.38 (2026-06-30) | Palantir 정부 AI·RTX Spark·Vera Rubin 풀생산, 단 5월 고점 대비 -23% | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
-| Qualcomm | Snapdragon Ride · 점유 8% | +0.41 (2026-06-30) | Investor Day 목표 상향·Dragonfly CPU·Modular $3.92B 인수 | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
+| Mobileye | 카메라 ADAS ~65–70% (점유율 하락중) · 점유 65% | +0.14 (2026-07-21) | 로보택시 직접 운영 전략과 목표주가 상향으로 경쟁력 서사가 강화되며 7/23 실적을 앞두고 있다 | [MBLY](../../tickers/MBLY - Mobileye Global Inc.md) |
+| NVIDIA | 고급 AD/로보택시 (Drive Thor) · 점유 10% | -0.06 (2026-07-21) | 중국발 저가 AI모델 등장으로 반도체 밸류에이션 우려가 커졌지만 일본 AI 확장 등 사업은 계속 성장하고 있다 | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
+| Qualcomm | Snapdragon Ride · 점유 8% | -0.15 (2026-07-21) | 중국 고객사들의 스마트폰 출하 축소로 핵심 사업 우려가 커졌지만 데이터센터 AI 칩 사업 기대는 남아있다 | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
 | Tesla | 자체 FSD/AI5 실리콘 · 점유 7% | +0.11 (2026-07-15) | 2분기 인도 48만대로 컨센서스 상회했지만 주가는 -8%, 마이애미 무감독 로보택시 개시·NHTSA FSD 조사 격상 | [TSLA](../../tickers/TSLA - Tesla Inc.md) |
 <!-- PLAYERS_END -->
 

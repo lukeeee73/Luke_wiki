@@ -1,7 +1,7 @@
 ---
 title: "첨단 파운드리 (≤3nm) — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-21
 domain: finance
 type: claim
 weight: reference
@@ -45,9 +45,9 @@ AI 가속기·모바일 AP·HPC를 만드는 최첨단 로직(3nm/2nm GAA) 위�
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| TSMC | 총 ~70% · 선단 ≤5nm 90%+ · 점유 70% | +0.29 (2026-06-30) | 첨단노드 90% 점유·5~10% 인상·Winbond 협력, ITC 예비판정 리스크 | [TSM](../../tickers/TSM - Taiwan Semiconductor Mfg.md) |
-| Samsung Foundry | ~7% (2nm GAA) · 점유 7% | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
-| Intel Foundry | ~6% (18A, 외부고객 1곳) · 점유 6% | +0.43 (2026-06-30) | Cantor $150(+67%)·18A-P 리스크생산·TSMC 인상 반사이익, +7.2% | [INTC](../../tickers/INTC - Intel Corporation.md) |
+| TSMC | 총 ~70% · 선단 ≤5nm 90%+ · 점유 70% | +0.21 (2026-07-21) | 2분기 순이익이 77% 급증하고 가이던스도 올렸지만 밸류에이션 우려로 주가는 이평선을 하회했다 | [TSM](../../tickers/TSM - Taiwan Semiconductor Mfg.md) |
+| Samsung Foundry | ~7% (2nm GAA) · 점유 7% | -0.10 (2026-07-21) | 테슬라와의 대형 파운드리 계약에도 코스피 급락과 담합 소송 우려로 약한 역풍이 불었다 | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
+| Intel Foundry | ~6% (18A, 외부고객 1곳) · 점유 6% | -0.19 (2026-07-21) | 첨단 공정 수율 확보가 늦어지고 서버 매출에서 AMD에 역전당해 실적 발표를 앞두고 신뢰가 흔들리고 있다 | [INTC](../../tickers/INTC - Intel Corporation.md) |
 | GlobalFoundries | 성숙·특수공정 | watchlist 외 | — | `GFS` |
 | SMIC | 중국 최대 (DUV 7nm) | watchlist 외 | — | `0981.HK` |
 <!-- PLAYERS_END -->

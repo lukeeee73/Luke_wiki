@@ -1,7 +1,7 @@
 ---
 title: "AI 가속기 (GPU) — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-18
+updated: 2026-07-21
 domain: finance
 type: claim
 weight: reference
@@ -47,9 +47,9 @@ AI 학습·추론을 돌리는 데이터센터 GPU — 프런티어 AI의 지배
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| NVIDIA | GPU 출하 ~90% · 가속기 매출 80–85% · 점유 85% | +0.38 (2026-06-30) | Palantir 정부 AI·RTX Spark·Vera Rubin 풀생산, 단 5월 고점 대비 -23% | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
-| AMD | ~5–8% (MI350/MI400) · 점유 8% | +0.52 (2026-06-30) | 데이터센터 +57%·Gartner 최강자·Rackspace 30MW, 중국 규제 리스크 | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
-| Intel | <1% (Gaudi) · 점유 1% | +0.43 (2026-06-30) | Cantor $150(+67%)·18A-P 리스크생산·TSMC 인상 반사이익, +7.2% | [INTC](../../tickers/INTC - Intel Corporation.md) |
+| NVIDIA | GPU 출하 ~90% · 가속기 매출 80–85% · 점유 85% | -0.06 (2026-07-21) | 중국발 저가 AI모델 등장으로 반도체 밸류에이션 우려가 커졌지만 일본 AI 확장 등 사업은 계속 성장하고 있다 | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
+| AMD | ~5–8% (MI350/MI400) · 점유 8% | +0.14 (2026-07-21) | 데이터센터 매출에서 처음 인텔을 앞질렀고 곧 있을 신제품 행사가 반등 계기가 될 수 있다 | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
+| Intel | <1% (Gaudi) · 점유 1% | -0.19 (2026-07-21) | 첨단 공정 수율 확보가 늦어지고 서버 매출에서 AMD에 역전당해 실적 발표를 앞두고 신뢰가 흔들리고 있다 | [INTC](../../tickers/INTC - Intel Corporation.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)
