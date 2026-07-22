@@ -1,7 +1,7 @@
 ---
 title: "로봇 인지 센서 (라이다·비전·촉각) — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-18
+updated: 2026-07-22
 domain: finance
 type: claim
 weight: reference
@@ -47,7 +47,7 @@ sources: ["https://www.stocktitan.net/news/HSAI/hesai-group-reports-first-quarte
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Hesai | 라이다 출하 1위 (’25 162만개, 첫 연간 흑자) — 로봇향 +138% | +0.39 (2026-07-15) | 8:1 액면분할 시행에 주가 14.6%↑, 벤츠 L3 라이다 전략 공급사로 선정 | [HSAI](../../tickers/HSAI - Hesai Group.md) |
+| Hesai | 라이다 출하 1위 (’25 162만개, 첫 연간 흑자) — 로봇향 +138% | -0.05 (2026-07-22) | 씨티가 목표가를 올렸지만 사이버 안보 논란과 AI 관련주 매도세로 주간 16% 하락했다 | [HSAI](../../tickers/HSAI - Hesai Group.md) |
 | RoboSense | 로보틱스 라이다 출하 1위 주장 — Q1’26 +1,459% | watchlist 외 | — | `2498.HK` |
 | Keyence | 머신비전·3D 카메라 강자 | watchlist 외 | — | `6861.T` |
 | Orbbec | 3D 깊이카메라 (휴머노이드 채택) | watchlist 외 | — | `688322.SS` |
