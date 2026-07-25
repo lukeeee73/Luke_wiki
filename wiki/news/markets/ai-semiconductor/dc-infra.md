@@ -47,8 +47,8 @@ AI 서버를 수용하는 데이터센터 부동산·코로케이션·건설 —
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Equinix | 글로벌 1위 리테일 코로케이션·상호접속 (260+ IBX) | +0.27 (2026-06-27) | Cisco·NVIDIA AI 협업·가이던스 상향·Citi 포커스리스트 vs 75.7배 고평가 | [EQIX](../../tickers/EQIX - Equinix, Inc.md) |
-| Digital Realty | 글로벌 2위 — 하이퍼스케일+코로케이션 혼합 REIT | +0.27 (2026-06-27) | 캔자스시티 2GW·Teraco 77%·Columbia Capital 인수에 +3.9%·ServiceFabric MCP | [DLR](../../tickers/DLR - Digital Realty Trust.md) |
+| Equinix | 글로벌 1위 리테일 코로케이션·상호접속 (260+ IBX) | +0.33 (2026-07-25) | 시스코·엔비디아와 AI 인프라 협력 발표, 목표주가 상향이 이어지고 있다 | [EQIX](../../tickers/EQIX - Equinix, Inc.md) |
+| Digital Realty | 글로벌 2위 — 하이퍼스케일+코로케이션 혼합 REIT | +0.49 (2026-07-25) | 2분기 매출 29% 성장·어닝서프라이즈로 주가 급등, 가이던스도 상향됐다 | [DLR](../../tickers/DLR - Digital Realty Trust.md) |
 | Vantage | $25B 텍사스 Frontier 1.4GW (Stargate 연계) 건설 중 (비상장) | — | — | 비상장 |
 | QTS · CyrusOne · Switch | 사모(BX·KKR·DigitalBridge) 하이퍼스케일 개발 (비상장) | — | — | 비상장 |
 <!-- PLAYERS_END -->

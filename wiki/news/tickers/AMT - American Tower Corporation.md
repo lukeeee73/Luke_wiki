@@ -1,7 +1,7 @@
 ---
 title: "AMT - American Tower Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-06-27
+updated: 2026-07-25
 domain: finance
 type: claim
 weight: reference
@@ -48,6 +48,40 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-07-25 (토) — 신호등: 🟢🟢 강한 순풍 (+0.33)
+
+**세 줄 요약**
+1. RBC·골드만삭스·울프리서치 등 월가 애널리스트들이 잇달아 AMT를 통신탑(타워) 업종 최선호주로 상향했다.
+2. DISH(위성방송·통신사) 임대료 손실 이슈가 해소되고 통신사 통합이 마무리되며 실적 우려가 줄었다는 평가다.
+3. 7/28 2분기 실적 발표를 앞두고 컨센서스 EPS $2.71 달성 여부가 다음 확인 포인트다.
+
+**뉴스 브리핑**
+
+**① RBC·골드만삭스, AMT를 타워 업종 최선호주로 상향** 🟢
+- **무슨 일**: RBC와 골드만삭스가 미국 통신탑(타워) 업종 내에서 AMT를 최선호주로 꼽으며 투자의견을 상향했다.
+- **왜 중요**: 두 대형 투자은행이 동시에 AMT를 최우선으로 지목한 것은 업종 내 상대적 우위를 시장이 인정하기 시작했다는 신호다.
+- **주가에 의미**: 단기적으로 매수 수요를 뒷받침하는 긍정 재료.
+- 출처: [Investing.com](https://www.investing.com/news/stock-market-news/american-tower-seen-as-top-us-tower-pick-as-analysts-turn-more-bullish-4763295) · 2026-06-26
+
+**② 울프리서치, DISH 이슈 해소 근거로 목표가 상향** 🟢
+- **무슨 일**: 울프리서치가 DISH와의 임대료 손실 이슈가 해소됐다는 판단 하에 AMT 투자의견을 상향하고 목표가를 $188로 제시했다.
+- **왜 중요**: DISH 관련 임대료 손실은 그동안 AMT의 대표적인 실적 하방 리스크였는데, 이 우려가 줄었다는 애널리스트 판단이다.
+- **주가에 의미**: 실적 불확실성 완화로 밸류에이션 재평가 여지가 생긴다.
+- 출처: [Investing.com](https://www.investing.com/news/analyst-ratings/wolfe-research-upgrades-american-tower-stock-rating-on-tower-market-recovery-93CH-4782538) · 2026-07-08
+
+**③ 2분기 실적 발표 7/28 예정, 컨센서스 EPS $2.71** ⚪
+- **무슨 일**: AMT가 2분기 실적 발표와 컨퍼런스콜 일정을 7월 28일로 공식화했다. 컨센서스 EPS는 $2.71이다.
+- **왜 중요**: 최근 이어진 목표가 상향이 실제 숫자로 뒷받침되는지 확인하는 첫 시험대다.
+- **주가에 의미**: 실적 발표 결과에 따라 최근 상향 랠리의 지속 여부가 갈린다.
+- 출처: [StockTitan](https://www.stocktitan.net/news/AMT/american-tower-plans-second-quarter-2026-earnings-release-and-i5a5sn2au42i.html) · 2026-07-14
+
+**경쟁 구도 한눈에**
+- CCI: 골드만삭스가 미국 타워 섹터 커버리지를 개시하며 AMT는 매수, 크라운캐슬(CCI)은 중립 등급을 매겨 AMT의 상대적 투자 매력이 부각됐다.
+- DLR: 디지털리얼티의 2분기 어닝서프라이즈(AI 데이터센터 수요 확대)는 AMT의 CoreSite 데이터센터 사업에도 우호적인 선행 신호다.
+
+**앞으로 지켜볼 것**
+- [ ] 7/28 2분기 실적 발표 — 확인할 것: 컨센서스 EPS $2.71 달성 여부와 임대료 재협상 진행 상황
 
 ### 2026-06-27
 
