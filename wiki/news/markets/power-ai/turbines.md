@@ -1,7 +1,7 @@
 ---
 title: "가스터빈 제조 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-18
+updated: 2026-07-25
 domain: finance
 type: claim
 weight: reference
@@ -9,12 +9,12 @@ confidence: low
 tags: [routine-news, market-summary, power-ai, turbines]
 map: power-ai
 market_id: turbines
-sources: ["https://www.utilitydive.com/news/ge-vernova-gas-turbine-investor/807662/", "https://www.power-eng.com/gas/turbines/data-centers-drive-record-surge-in-ge-vernova-power-equipment-orders-as-turbine-slots-tighten-through-2030/", "https://www.mt.co.kr/industry/2026/05/29/2026052814244420781"]
+sources: ["https://www.utilitydive.com/news/ge-vernova-gas-turbine-investor/807662/", "https://www.power-eng.com/gas/turbines/data-centers-drive-record-surge-in-ge-vernova-power-equipment-orders-as-turbine-slots-tighten-through-2030/", "https://www.mt.co.kr/industry/2026/05/29/2026052814244420781", "https://www.gevernova.com/news/press-releases/ge-vernova-reports-second-quarter-2026-financial-results-raises-2026-financial"]
 ---
 
 # 가스터빈 제조 — 시장 종합
 
-**Gas Turbine OEMs** · ⑤ 발전·전력 장비 · 규모 GEV 백로그 110GW+(’29 매진) · Siemens Energy 백로그 €136B · MHI ’28 매진 · 성장 ’30~31 슬롯 예약 진행 — 사실상 배급제
+**Gas Turbine OEMs** · ⑤ 발전·전력 장비 · 규모 GEV 가스설비 백로그+슬롯예약 116GW(’26.2Q, 연말 125GW+ 목표) · Siemens Energy 백로그 €136B · MHI ’28 매진 · 성장 ’30~31 슬롯 예약 진행 — 사실상 배급제
 
 > [!info] 자동 종합 노트
 > 이 파일은 시장지도 노드 `turbines` 의 종합 페이지다. `indicator_dashboard` 루틴이 관리한다 —
@@ -37,9 +37,9 @@ sources: ["https://www.utilitydive.com/news/ge-vernova-gas-turbine-investor/8076
 
 <!-- SYNTHESIS_START -->
 > [!claim] (as_of 2026-07 · market-research 루틴)
-> **지금 상황**: GEV 1분기 가스설비 수주 $100억(+59%) — 슬롯예약 21GW 추가로 백로그+슬롯예약 합산 100GW 육박. 두산에너빌리티는 1분기에만 가스터빈 10기를 수주(북미 DC향 7기 포함)하며 3사 매진의 반사수혜를 이어감.
-> **왜 중요**: 3사 매진이 이어지는 가운데 2군 공급사로 반사수혜 낙수효과가 실적으로 확인되고 있다.
-> **투자자 관점**: 매진 상태가 지속되는 한 신규 진입자·2군 공급사에게도 수주 기회가 열리는 구조다.
+> **지금 상황**: GEV가 2분기 실적(7/22 발표)에서 수주 $242억(+88%)을 기록하며 가스설비 백로그+슬롯예약을 100GW에서 116GW로 늘렸고, 연말 125GW+ 목표를 재확인했다. 총 백로그는 $1,760억, 매출은 2분기 기준 +22% 성장했다.
+> **왜 중요**: 매진 시한이 완화되기는커녕 슬롯이 더 뒤로 밀리고 있다는 뜻이다 — 신규 가스발전 착공이 터빈 슬롯 확보 여부에 계속 종속된다.
+> **투자자 관점**: 매진이 심화될수록 2군 공급사(두산 등)로의 낙수효과와 오버플로 수주 기회도 함께 커지는 구조다.
 <!-- SYNTHESIS_END -->
 
 ## 소속 기업 동향
@@ -56,6 +56,7 @@ sources: ["https://www.utilitydive.com/news/ge-vernova-gas-turbine-investor/8076
 ## 시장 뉴스 로그 (최신순)
 
 <!-- MARKET_NEWS_START -->
+- **2026-07-22** ＋ **GEV 2분기 수주 $242억(+88%) — 가스설비 백로그+슬롯예약 116GW로 확대** — 백로그+슬롯 100→116GW, 연말 125GW+ 목표. 총 백로그 $1,760억 (GE Vernova (2분기 실적발표)) [↗](https://www.gevernova.com/news/press-releases/ge-vernova-reports-second-quarter-2026-financial-results-raises-2026-financial)
 - **2026-07-02** ＋ **GEV 1분기 가스설비 수주 $100억 — 백로그+슬롯예약 100GW 육박** — 매진 심화 지속 — 연말 110GW 목표 재확인 (CNBC) [↗](https://www.cnbc.com/2026/07/02/ge-vernovas-gas-turbines-arent-the-only-way-its-winning-from-the-ai-boom.html)
 - **2026-07-05** ＋ **두산에너빌리티, 1분기만 가스터빈 10기 수주 — 북미 DC향 7기 포함** — 3사 매진 반사수혜 지속 — 상반기 수주 순항 (다음(연합뉴스 계열)) [↗](https://v.daum.net/v/20260705171802973)
 - **2026-06** － **GE Vernova 가스터빈 ’29까지 매진 — ’26말 ’30 매진 전망** — 백로그 110GW+ · DC 비중 ~20% — 슬롯 배급제 심화 (Matterfact / Digital Today) [↗](https://www.digitaltoday.co.kr/en/view/75930/ge-vernova-gas-turbines-sold-out-through-2029-amid-surging-ai-power-demand)
