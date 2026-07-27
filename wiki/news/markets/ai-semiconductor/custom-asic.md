@@ -1,7 +1,7 @@
 ---
 title: "맞춤형 AI ASIC·XPU — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-21
+updated: 2026-07-27
 domain: finance
 type: claim
 weight: reference
@@ -49,10 +49,10 @@ sources: ["https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-a
 |---|---|---|---|---|
 | Broadcom | 코디자인 ~60% (Google·Meta·OpenAI) · 점유 60% | +0.16 (2026-07-21) | 애플과의 대형 장기 계약으로 사업 기반은 튼튼해졌지만 고평가 부담에 주가는 오히려 밀렸다 | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
 | Marvell | ~25% (Amazon·Microsoft) · 점유 25% | +0.05 (2026-07-21) | 신제품 출시와 목표주가 상향에도 반도체 업종 전반의 설비투자 둔화 우려에 눌려 약보합이다 | [MRVL](../../tickers/MRVL - Marvell Technology, Inc.md) |
-| Google TPU | 최대 내부 XPU (v7 Ironwood) | -0.12 (2026-07-06) | EU 41억유로 과징금 최종 확정·DOJ 검색 반독점 항소·딥마인드 핵심 연구자 이탈 3중고 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
-| Amazon Trainium | Trainium3 (3nm) | +0.24 (2026-07-06) | 프라임데이 264억달러(+9.3%) 최대 매출, AWS 기밀등급 클라우드 출시, FTC FCRA 225만달러 합의 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
-| Microsoft Maia | 내부용 자체 실리콘 | +0.12 (2026-07-06) | 6월 25년래 최악 월간낙폭(-$5700억)에도 Azure 기업 클라우드 점유율 55%로 확대, $2.5B 프론티어 컴퍼니 신설 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
-| Meta MTIA | 추론·랭킹용 자체 칩 | -0.05 (2026-07-06) | 잉여 AI컴퓨팅 판매 'Meta Compute' 클라우드 진출에 +9%, 저커버그 AI에이전트 지연 인정, 印 아동안전 경고 | [META](../../tickers/META - Meta Platforms Inc.md) |
+| Google TPU | 최대 내부 XPU (v7 Ironwood) | 0.00 (2026-07-27) | 자체 뉴스 없이 지난주 발표한 2분기 실적(매출 24% 성장, capex 급증)에 대한 재평가가 이어진다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
+| Amazon Trainium | Trainium3 (3nm) | 🟢🟢 +0.21 (2026-07-27) | 월가가 AWS 성장 기대로 목표주가를 잇달아 올리며 7/30 실적을 앞두고 기대감이 커졌다 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
+| Microsoft Maia | 내부용 자체 실리콘 | 0.00 (2026-07-27) | 자체 뉴스 없이 7/29 실적에서 애저 성장률이 AWS와 비교당할 준비를 하고 있다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
+| Meta MTIA | 추론·랭킹용 자체 칩 | 🟢 +0.18 (2026-07-27) | BofA가 목표주가 835달러를 재확인하며 7/29 실적에서 광고 매출 호조를 예상했다 | [META](../../tickers/META - Meta Platforms Inc.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)

@@ -1,7 +1,7 @@
 ---
 title: "AI 소프트웨어·모델 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-27
 domain: finance
 type: claim
 weight: reference
@@ -47,9 +47,9 @@ sources: ["https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-th
 |---|---|---|---|---|
 | OpenAI | 프런티어 랩 (비상장, ~$852B 평가) | — | — | 비상장 |
 | Anthropic | 프런티어 랩 (비상장) | — | — | 비상장 |
-| Google DeepMind | Gemini | -0.12 (2026-07-06) | EU 41억유로 과징금 최종 확정·DOJ 검색 반독점 항소·딥마인드 핵심 연구자 이탈 3중고 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
-| Microsoft | OpenAI 제휴 + 자체 | +0.12 (2026-07-06) | 6월 25년래 최악 월간낙폭(-$5700억)에도 Azure 기업 클라우드 점유율 55%로 확대, $2.5B 프론티어 컴퍼니 신설 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
-| Meta | Llama (오픈웨이트) | -0.05 (2026-07-06) | 잉여 AI컴퓨팅 판매 'Meta Compute' 클라우드 진출에 +9%, 저커버그 AI에이전트 지연 인정, 印 아동안전 경고 | [META](../../tickers/META - Meta Platforms Inc.md) |
+| Google DeepMind | Gemini | 0.00 (2026-07-27) | 자체 뉴스 없이 지난주 발표한 2분기 실적(매출 24% 성장, capex 급증)에 대한 재평가가 이어진다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
+| Microsoft | OpenAI 제휴 + 자체 | 0.00 (2026-07-27) | 자체 뉴스 없이 7/29 실적에서 애저 성장률이 AWS와 비교당할 준비를 하고 있다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
+| Meta | Llama (오픈웨이트) | +0.18 (2026-07-27) | BofA가 목표주가 835달러를 재확인하며 7/29 실적에서 광고 매출 호조를 예상했다 | [META](../../tickers/META - Meta Platforms Inc.md) |
 | xAI | Grok (비상장) | — | — | 비상장 |
 <!-- PLAYERS_END -->
 
