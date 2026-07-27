@@ -1,7 +1,7 @@
 ---
 title: "AI PC — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-21
+updated: 2026-07-27
 domain: finance
 type: claim
 weight: reference
@@ -46,7 +46,7 @@ sources: ["https://counterpointresearch.com/en/reports/ai-advanced-pcs-to-surpas
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
 | Intel | ~45–56% (Core Ultra) · 점유 50% | -0.19 (2026-07-21) | 첨단 공정 수율 확보가 늦어지고 서버 매출에서 AMD에 역전당해 실적 발표를 앞두고 신뢰가 흔들리고 있다 | [INTC](../../tickers/INTC - Intel Corporation.md) |
-| Apple | ~20–24% 자체 M시리즈 · 점유 22% | +0.20 (2026-07-06) | 아이폰 5종·접이식 '울트라' 1000만대 생산 확대 계획, 中 메모리 조달 다변화 소식에 $300 재돌파 | [AAPL](../../tickers/AAPL - Apple Inc.md) |
+| Apple | ~20–24% 자체 M시리즈 · 점유 22% | 0.00 (2026-07-27) | 자체 뉴스 없이 7/30 팀 쿡의 마지막 실적 발표를 앞두고 관망세가 이어진다 | [AAPL](../../tickers/AAPL - Apple Inc.md) |
 | AMD | #3 (Ryzen AI) · 점유 18% | +0.14 (2026-07-21) | 데이터센터 매출에서 처음 인텔을 앞질렀고 곧 있을 신제품 행사가 반등 계기가 될 수 있다 | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
 | Qualcomm | Snapdragon X (Arm, 최고속 성장) · 점유 5% | -0.15 (2026-07-21) | 중국 고객사들의 스마트폰 출하 축소로 핵심 사업 우려가 커졌지만 데이터센터 AI 칩 사업 기대는 남아있다 | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
 <!-- PLAYERS_END -->

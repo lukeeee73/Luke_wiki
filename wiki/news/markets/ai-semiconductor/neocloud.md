@@ -1,7 +1,7 @@
 ---
 title: "네오클라우드 · GPU 클라우드 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-21
+updated: 2026-07-27
 domain: finance
 type: claim
 weight: reference
@@ -47,9 +47,9 @@ sources: ["https://www.srgresearch.com/articles/neoclouds-currently-growing-by-o
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| CoreWeave | 최대 독립 네오클라우드 — Q1’26 매출 $2.08B(+112%), 잔고 $99.4B | -0.11 (2026-07-06) | 메타 자체 AI클라우드 검토 보도로 -14% 급락, CEO 3770만달러 자사주 매도·집단소송 부담 | [CRWV](../../tickers/CRWV - CoreWeave, Inc.md) |
-| Nebius | 2위권 급성장 — 잔고 ~$50B(Meta·MS), 계약전력 3GW+ | +0.04 (2026-07-06) | 메타 클라우드 이슈로 동반 -17% 급락, AI Cloud 3.6·'Echo' 에이전트 출시로 제품력은 강화 | [NBIS](../../tickers/NBIS - Nebius Group N.V.md) |
-| Oracle OCI | 준네오클라우드 — OpenAI Stargate $300B, capex/매출 76% | +0.16 (2026-07-06) | FY26 클라우드 매출 +39%·RPO 사상최대나 FY27 capex $700억 전망에 AI 2.1만명 감원 지속 부각 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
+| CoreWeave | 최대 독립 네오클라우드 — Q1’26 매출 $2.08B(+112%), 잔고 $99.4B | 🔴 -0.14 (2026-07-27) | 매출이 아니라 급증하는 자본지출 부담 우려로 금요일 주가가 11.4% 급락했다 | [CRWV](../../tickers/CRWV - CoreWeave, Inc.md) |
+| Nebius | 2위권 급성장 — 잔고 ~$50B(Meta·MS), 계약전력 3GW+ | 0.04 (2026-07-27) | 엔비디아 9.3% 지분 보유가 확인됐지만 내부자 매도와 신규 부채 조달로 신호가 엇갈린다 | [NBIS](../../tickers/NBIS - Nebius Group N.V.md) |
+| Oracle OCI | 준네오클라우드 — OpenAI Stargate $300B, capex/매출 76% | 🔴 -0.19 (2026-07-27) | S&P의 신용등급 하향 경고로 주가가 약세를 이어간 반면 경쟁사 SAP는 클라우드 호조로 급등했다 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
 | NVIDIA | 공급자 겸 앵커 투자자 — $110B+ 순환금융의 중심 | -0.06 (2026-07-21) | 중국발 저가 AI모델 등장으로 반도체 밸류에이션 우려가 커졌지만 일본 AI 확장 등 사업은 계속 성장하고 있다 | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
 | Crusoe · Lambda · Together | 비상장 — 에너지 연계·MS 계약·추론 특화 | — | — | 비상장 |
 | IREN · Cipher · Core Scientific | 채굴사→AI 전환 — 전력자산 재평가 (MS $9.7B 등) | watchlist 외 | — | `IREN` |

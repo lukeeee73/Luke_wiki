@@ -39,16 +39,16 @@ sources: []
 
 | Ticker                                          | as_of      | score  | 핵심 한 줄                                         | open claims |
 | ----------------------------------------------- | ---------- | ------ | ----------------------------------------------- | ----------- |
-| [AAPL](tickers/AAPL - Apple Inc.md)                     | 2026-07-06 | +0.20  | 아이폰 5종·접이식 '울트라' 1000만대 생산 확대 계획, 中 메모리 조달 다변화 소식에 $300 재돌파 | 5           |
-| [MSFT](tickers/MSFT - Microsoft Corporation.md)         | 2026-07-06 | +0.12  | 6월 25년래 최악 월간낙폭(-$5700억)에도 Azure 기업 클라우드 점유율 55%로 확대, $2.5B 프론티어 컴퍼니 신설 | 8           |
-| [GOOGL](tickers/GOOGL - Alphabet Inc.md)                | 2026-07-06 | -0.12  | EU 41억유로 과징금 최종 확정·DOJ 검색 반독점 항소·딥마인드 핵심 연구자 이탈 3중고 | 7           |
-| [AMZN](tickers/AMZN - Amazon.com Inc.md)                | 2026-07-06 | +0.24  | 프라임데이 264억달러(+9.3%) 최대 매출, AWS 기밀등급 클라우드 출시, FTC FCRA 225만달러 합의 | 7           |
-| [META](tickers/META - Meta Platforms Inc.md)            | 2026-07-06 | -0.05  | 잉여 AI컴퓨팅 판매 'Meta Compute' 클라우드 진출에 +9%, 저커버그 AI에이전트 지연 인정, 印 아동안전 경고 | 2           |
-| [ORCL](tickers/ORCL - Oracle Corporation.md)            | 2026-07-06 | +0.16  | FY26 클라우드 매출 +39%·RPO 사상최대나 FY27 capex $700억 전망에 AI 2.1만명 감원 지속 부각 | 7           |
-| [CRM](tickers/CRM - Salesforce, Inc.md)                 | 2026-07-06 | +0.22  | Guggenheim 매수 상향($228)·Agentforce ARR 10억달러 돌파(+205%), Contentful 인수 | 7           |
-| [ADBE](tickers/ADBE - Adobe Inc.md)                     | 2026-07-06 | +0.06  | HSBC 매수 상향(+4%)이나 ColdFusion CVSS 10.0 취약점 실제 악용 확인, Topaz Labs 인수 | 8           |
-| [IBM](tickers/IBM - International Business Machines.md) | 2026-07-06 | +0.22  | BofA 목표가 330달러 상향('퀀텀 리더'), 액센츄어發 컨설팅 수요둔화 경고 업종 전반 부각 | 6           |
-| [PLTR](tickers/PLTR - Palantir Technologies Inc.md)     | 2026-07-06 | +0.49  | 엔비디아 소버린 AI 파트너십 발표에 +9%, 美 육군 NGC2가 파운드리를 데이터레이어로 채택 | 7           |
+| [AAPL](tickers/AAPL - Apple Inc.md)                     | 2026-07-27 | ⚪ 0.00  | 자체 뉴스 없이 7/30 팀 쿡의 마지막 실적 발표를 앞두고 관망세가 이어진다 | 4           |
+| [MSFT](tickers/MSFT - Microsoft Corporation.md)         | 2026-07-27 | ⚪ 0.00  | 자체 뉴스 없이 7/29 실적에서 애저 성장률이 AWS와 비교당할 준비를 하고 있다 | 7           |
+| [GOOGL](tickers/GOOGL - Alphabet Inc.md)                | 2026-07-27 | ⚪ 0.00  | 자체 뉴스 없이 지난주 발표한 2분기 실적(매출 24% 성장, capex 급증)에 대한 재평가가 이어진다 | 6           |
+| [AMZN](tickers/AMZN - Amazon.com Inc.md)                | 2026-07-27 | 🟢🟢 +0.21  | 월가가 AWS 성장 기대로 목표주가를 잇달아 올리며 7/30 실적을 앞두고 기대감이 커졌다 | 6           |
+| [META](tickers/META - Meta Platforms Inc.md)            | 2026-07-27 | 🟢 +0.18  | BofA가 목표주가 835달러를 재확인하며 7/29 실적에서 광고 매출 호조를 예상했다 | 6           |
+| [ORCL](tickers/ORCL - Oracle Corporation.md)            | 2026-07-27 | 🔴 -0.19  | S&P의 신용등급 하향 경고로 주가가 약세를 이어간 반면 경쟁사 SAP는 클라우드 호조로 급등했다 | 6           |
+| [CRM](tickers/CRM - Salesforce, Inc.md)                 | 2026-07-27 | ⚪ 0.00  | 자체 뉴스 없이 지난주 VA 16억달러 계약과 Morgan Stanley 하향이 엇갈린 채로 남아있다 | 6           |
+| [ADBE](tickers/ADBE - Adobe Inc.md)                     | 2026-07-27 | ⚪ 0.00  | 자체 뉴스 없이 지난주 Morgan Stanley의 AI 리스크 하향 여파가 이어진다 | 7           |
+| [IBM](tickers/IBM - International Business Machines.md) | 2026-07-27 | ⚪ 0.00  | 자체 뉴스 없이 지난주 2분기 가이던스 하향 이후 목표가 조정 여진이 이어진다 | 5           |
+| [PLTR](tickers/PLTR - Palantir Technologies Inc.md)     | 2026-07-27 | 🟢 +0.12  | 미 정부가 팔란티어 이의제기를 받아들여 군 정보시스템 입찰을 철회했다 | 7           |
 
 ### 반도체 — AI 칩 · 설계
 
@@ -101,11 +101,11 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [ANET](tickers/ANET - Arista Networks, Inc.md) | 2026-07-06 | +0.46 | 1.6T AI 패브릭 스위치 메타·MS·오라클 검증, KeyBanc·BofA·모건스탠리 목표가 190~200달러 상향, +8% | 2 |
-| [COHR](tickers/COHR - Coherent Corp.md) | 2026-07-06 | +0.27 | CHIPS 최대 5000만달러 지원 확보, 단 메타 클라우드 우려발 포토닉스주 동반 급락(-6.5~10%) | 2 |
-| [MPWR](tickers/MPWR - Monolithic Power Systems.md) | 2026-07-06 | +0.20 | 러셀 성장지수 신규 편입·배당 유지, AI 서버 전력관리 수요 지속되나 개별 속보는 제한적 | 2 |
-| [CRWV](tickers/CRWV - CoreWeave, Inc.md) | 2026-07-06 | -0.11 | 메타 자체 AI클라우드 검토 보도로 -14% 급락, CEO 3770만달러 자사주 매도·집단소송 부담 | 2 |
-| [NBIS](tickers/NBIS - Nebius Group N.V.md) | 2026-07-06 | +0.04 | 메타 클라우드 이슈로 동반 -17% 급락, AI Cloud 3.6·'Echo' 에이전트 출시로 제품력은 강화 | 2 |
+| [ANET](tickers/ANET - Arista Networks, Inc.md) | 2026-07-27 | ⚪ 0.00 | 자체 뉴스 없이 8/4 실적을 앞두고 1.6T 스위치 대형 채택의 매출 반영 여부를 기다린다 | 2 |
+| [COHR](tickers/COHR - Coherent Corp.md) | 2026-07-27 | ⚪ 0.00 | 자체 뉴스 없이 AI 광통신 밸류에이션 되돌림 조정이 업종 전반에서 반복되는 배경만 확인된다 | 1 |
+| [MPWR](tickers/MPWR - Monolithic Power Systems.md) | 2026-07-27 | ⚪ 0.00 | 자체 뉴스 없이 경쟁사 TXN의 AI 수요 강세 부각 속 7/30 실적을 기다린다 | 2 |
+| [CRWV](tickers/CRWV - CoreWeave, Inc.md) | 2026-07-27 | 🔴 -0.14 | 매출이 아니라 급증하는 자본지출 부담 우려로 금요일 주가가 11.4% 급락했다 | 3 |
+| [NBIS](tickers/NBIS - Nebius Group N.V.md) | 2026-07-27 | ⚪ +0.04 | 엔비디아 9.3% 지분 보유가 확인됐지만 내부자 매도와 신규 부채 조달로 신호가 엇갈린다 | 2 |
 
 ### 로보틱스 / 피지컬 AI
 

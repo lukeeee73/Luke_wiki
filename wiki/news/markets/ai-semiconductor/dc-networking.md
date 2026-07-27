@@ -1,7 +1,7 @@
 ---
 title: "데이터센터 네트워킹 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-21
+updated: 2026-07-27
 domain: finance
 type: claim
 weight: reference
@@ -47,7 +47,7 @@ GPU를 잇는 스위치 패브릭 — 스케일업(NVLink)과 스케일아웃(In
 |---|---|---|---|---|
 | NVIDIA | NVLink 스케일업 준독점 + Spectrum-X · 점유 40% | -0.06 (2026-07-21) | 중국발 저가 AI모델 등장으로 반도체 밸류에이션 우려가 커졌지만 일본 AI 확장 등 사업은 계속 성장하고 있다 | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
 | Broadcom | 머천트 스위치 실리콘(Tomahawk) | +0.16 (2026-07-21) | 애플과의 대형 장기 계약으로 사업 기반은 튼튼해졌지만 고평가 부담에 주가는 오히려 밀렸다 | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
-| Arista | DC 이더넷 ~19% · 점유 20% | +0.46 (2026-07-06) | 1.6T AI 패브릭 스위치 메타·MS·오라클 검증, KeyBanc·BofA·모건스탠리 목표가 190~200달러 상향, +8% | [ANET](../../tickers/ANET - Arista Networks, Inc.md) |
+| Arista | DC 이더넷 ~19% · 점유 20% | 0.00 (2026-07-27) | 자체 뉴스 없이 8/4 실적을 앞두고 1.6T 스위치 대형 채택의 매출 반영 여부를 기다린다 | [ANET](../../tickers/ANET - Arista Networks, Inc.md) |
 | Cisco | 기존 강자, AI 점유율 하락 · 점유 15% | watchlist 외 | — | `CSCO` |
 | Marvell | DPU·커스텀 실리콘 | +0.05 (2026-07-21) | 신제품 출시와 목표주가 상향에도 반도체 업종 전반의 설비투자 둔화 우려에 눌려 약보합이다 | [MRVL](../../tickers/MRVL - Marvell Technology, Inc.md) |
 <!-- PLAYERS_END -->

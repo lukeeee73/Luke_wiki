@@ -1,7 +1,7 @@
 ---
 title: "온디바이스 AI 스마트폰 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-21
+updated: 2026-07-27
 domain: finance
 type: claim
 weight: reference
@@ -47,7 +47,7 @@ NPU 탑재 SoC로 생성형 AI를 단말에서 직접 구동하는 스마트폰.
 |---|---|---|---|---|
 | MediaTek | AP-SoC ~40% (물량 1위) · 점유 40% | +0.10 (2026-07-21) | 구글 TPU 수주 확대와 엔비디아 협력으로 경쟁력이 강화되고 있으나 최근 영어권 보도는 제한적이다 | [2454.TW](../../tickers/2454.TW - MediaTek Inc.md) |
 | Qualcomm | ~24% 프리미엄 Android · 점유 24% | -0.15 (2026-07-21) | 중국 고객사들의 스마트폰 출하 축소로 핵심 사업 우려가 커졌지만 데이터센터 AI 칩 사업 기대는 남아있다 | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
-| Apple | ~17% 자체 A시리즈 · 점유 17% | +0.20 (2026-07-06) | 아이폰 5종·접이식 '울트라' 1000만대 생산 확대 계획, 中 메모리 조달 다변화 소식에 $300 재돌파 | [AAPL](../../tickers/AAPL - Apple Inc.md) |
+| Apple | ~17% 자체 A시리즈 · 점유 17% | 0.00 (2026-07-27) | 자체 뉴스 없이 7/30 팀 쿡의 마지막 실적 발표를 앞두고 관망세가 이어진다 | [AAPL](../../tickers/AAPL - Apple Inc.md) |
 | Samsung LSI | ~5% Exynos · 점유 5% | -0.10 (2026-07-21) | 테슬라와의 대형 파운드리 계약에도 코스피 급락과 담합 소송 우려로 약한 역풍이 불었다 | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
 | UNISOC | 저가형 (비상장/중국) · 점유 13% | — | — | 비상장 |
 <!-- PLAYERS_END -->
