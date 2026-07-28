@@ -1,7 +1,7 @@
 ---
 title: "온디바이스 AI 스마트폰 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-27
+updated: 2026-07-28
 domain: finance
 type: claim
 weight: reference
@@ -45,10 +45,10 @@ NPU 탑재 SoC로 생성형 AI를 단말에서 직접 구동하는 스마트폰.
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| MediaTek | AP-SoC ~40% (물량 1위) · 점유 40% | +0.10 (2026-07-21) | 구글 TPU 수주 확대와 엔비디아 협력으로 경쟁력이 강화되고 있으나 최근 영어권 보도는 제한적이다 | [2454.TW](../../tickers/2454.TW - MediaTek Inc.md) |
-| Qualcomm | ~24% 프리미엄 Android · 점유 24% | -0.15 (2026-07-21) | 중국 고객사들의 스마트폰 출하 축소로 핵심 사업 우려가 커졌지만 데이터센터 AI 칩 사업 기대는 남아있다 | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
+| MediaTek | AP-SoC ~40% (물량 1위) · 점유 40% | +0.07 (2026-07-28) | 미디어텍이 매출 호조를 이어가며 애플보다 앞선 신제품 출시를 준비하고 있다 | [2454.TW](../../tickers/2454.TW - MediaTek Inc.md) |
+| Qualcomm | ~24% 프리미엄 Android · 점유 24% | -0.12 (2026-07-28) | 메모리 품귀로 가격을 두 자릿수 퍼센트 올렸고 내일 실적 발표를 앞두고 이익 전망치가 계속 낮아지고 있다 | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
 | Apple | ~17% 자체 A시리즈 · 점유 17% | 0.00 (2026-07-27) | 자체 뉴스 없이 7/30 팀 쿡의 마지막 실적 발표를 앞두고 관망세가 이어진다 | [AAPL](../../tickers/AAPL - Apple Inc.md) |
-| Samsung LSI | ~5% Exynos · 점유 5% | -0.10 (2026-07-21) | 테슬라와의 대형 파운드리 계약에도 코스피 급락과 담합 소송 우려로 약한 역풍이 불었다 | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
+| Samsung LSI | ~5% Exynos · 점유 5% | +0.10 (2026-07-28) | 삼성전자가 브로드컴과 200억달러 규모 대형 반도체 계약을 맺으며 메모리와 파운드리 양쪽에서 입지를 넓혔다 | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
 | UNISOC | 저가형 (비상장/중국) · 점유 13% | — | — | 비상장 |
 <!-- PLAYERS_END -->
 

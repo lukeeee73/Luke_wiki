@@ -1,7 +1,7 @@
 ---
 title: "AI 가속기 (GPU) — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-21
+updated: 2026-07-28
 domain: finance
 type: claim
 weight: reference
@@ -47,9 +47,9 @@ AI 학습·추론을 돌리는 데이터센터 GPU — 프런티어 AI의 지배
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| NVIDIA | GPU 출하 ~90% · 가속기 매출 80–85% · 점유 85% | -0.06 (2026-07-21) | 중국발 저가 AI모델 등장으로 반도체 밸류에이션 우려가 커졌지만 일본 AI 확장 등 사업은 계속 성장하고 있다 | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
-| AMD | ~5–8% (MI350/MI400) · 점유 8% | +0.14 (2026-07-21) | 데이터센터 매출에서 처음 인텔을 앞질렀고 곧 있을 신제품 행사가 반등 계기가 될 수 있다 | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
-| Intel | <1% (Gaudi) · 점유 1% | -0.19 (2026-07-21) | 첨단 공정 수율 확보가 늦어지고 서버 매출에서 AMD에 역전당해 실적 발표를 앞두고 신뢰가 흔들리고 있다 | [INTC](../../tickers/INTC - Intel Corporation.md) |
+| NVIDIA | GPU 출하 ~90% · 가속기 매출 80–85% · 점유 85% | -0.06 (2026-07-28) | SK그룹과 5000억 달러 AI 파트너십을 맺었지만 OpenAI 데이터센터에 대한 2500억 달러 재무보증 우려로 주가가 5% 급락했다 | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
+| AMD | ~5–8% (MI350/MI400) · 점유 8% | +0.06 (2026-07-28) | AI 신제품을 대거 공개했지만 주가는 오히려 8% 가까이 빠지는 뉴스에 팔기 반응을 보였다 | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
+| Intel | <1% (Gaudi) · 점유 1% | +0.14 (2026-07-28) | 2분기 매출이 15년래 최고 성장률을 기록했지만 설비투자 증가와 파운드리 적자 우려로 주가는 급락 후 일부 반등했다 | [INTC](../../tickers/INTC - Intel Corporation.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)
