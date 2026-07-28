@@ -1,7 +1,7 @@
 ---
 title: "ABF 기판·패키징 소재 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-21
+updated: 2026-07-28
 domain: finance
 type: claim
 weight: reference
@@ -46,7 +46,7 @@ sources: ["https://www.digitimes.com/news/a20260130PD220/unimicron-abf-substrate
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
 | Unimicron | ABF 기판 선두 · 점유 25% | watchlist 외 | — | `3037.TW` |
-| Ibiden | 최고급 AI 서버 ABF · 점유 20% | +0.12 (2026-07-21) | 영업이익 가이던스는 견조한데도 7월 초 고점 이후 주가가 큰 폭 조정받아 실적과 주가가 엇갈린다 | [4062.T](../../tickers/4062.T - Ibiden Co., Ltd.md) |
+| Ibiden | 최고급 AI 서버 ABF · 점유 20% | -0.05 (2026-07-28) | 이비덴은 회사 자체 문제 없이 반도체 업종 전체의 투자 심리 위축으로 주가가 계속 밀리고 있다 | [4062.T](../../tickers/4062.T - Ibiden Co., Ltd.md) |
 | Ajinomoto | ABF 필름 사실상 독점 | watchlist 외 | — | `2802.T` |
 | Shinko | 고급 ABF (일본) · 점유 12% | — | — | 비상장 |
 | Nan Ya PCB | ABF 기판 · 점유 10% | watchlist 외 | — | `8046.TW` |
