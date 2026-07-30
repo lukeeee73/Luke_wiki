@@ -1,7 +1,7 @@
 ---
 title: "바이오 CDMO (위탁개발생산) — 시장 종합"
 created: 2026-07-18
-updated: 2026-07-18
+updated: 2026-07-30
 domain: finance
 type: claim
 weight: reference
@@ -52,7 +52,7 @@ sources: ["https://www.prnewswire.com/news-releases/samsung-biologics-expands-us
 | WuXi Biologics | 중국 — Biosecure 직격, 그래도 수주 견조 · 점유 13% | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `2269.HK` |
 | Fujifilm Diosynth | 미국 NC 메가사이트 증설 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `4901.T` |
 | Catalent (Novo Holdings) | $16.5B 인수 — 충전 캐파 노보 우선 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | 비상장 |
-| Thermo Fisher (Patheon) | 장비+CDMO 수직통합 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `TMO` |
+| Thermo Fisher (Patheon) | 장비+CDMO 수직통합 | 🟢🟢 +0.49 (2026-07-30) | 2분기 실적이 컨센서스를 크게 상회하며 연간 가이던스를 상향했고 목표주가 상향 랠리가 이어지고 있다 | `TMO` |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)
