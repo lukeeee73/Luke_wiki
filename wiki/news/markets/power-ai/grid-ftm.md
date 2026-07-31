@@ -1,7 +1,7 @@
 ---
 title: "그리드 접속 · 유틸리티 조달 (FTM) — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-18
+updated: 2026-07-31
 domain: finance
 type: claim
 weight: reference
@@ -47,11 +47,11 @@ sources: ["https://www.latitudemedia.com/news/ercots-large-load-queue-has-nearly
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Dominion | 버지니아 — 세계 최대 DC 클러스터 유틸리티 | +0.09 (2026-07-03) | NEE에 $67B 전액 주식 피인수 — 버지니아 SCC·의회 180일 검토 | [D](../../tickers/D - Dominion Energy.md) |
-| AEP | 765kV 송전 최대 — 오하이오 DC 벨트 | +0.19 (2026-07-03) | 증분 부하 2030년 63GW 전망, 5년 자본계획 $78B 상향 | [AEP](../../tickers/AEP - American Electric Power.md) |
-| Exelon | 송배전 전문 — 시카고·필라델피아·볼티모어 | +0.18 (2026-07-03) | 자본계획 $41.7B 상향, 19GW 부하 파이프라인(45% 확보) | [EXC](../../tickers/EXC - Exelon Corporation.md) |
-| Duke Energy | 동남부 — 캐롤라이나 DC 유치 | +0.19 (2026-07-03) | $102.2B 자본계획(2030까지), 7.6GW 데이터센터 계약·DOE 그리드 대출 신청 | [DUK](../../tickers/DUK - Duke Energy Corporation.md) |
-| Southern | 조지아 — 애틀랜타 DC 급증 대응 | +0.25 (2026-07-03) | 75GW DC 파이프라인·10GW 계약, 2026–30 capex $81B 상향 | [SO](../../tickers/SO - The Southern Company.md) |
+| Dominion | 버지니아 — 세계 최대 DC 클러스터 유틸리티 | -0.04 (2026-07-31) | 2분기 실적 발표, NEE 합병은 순항하나 버지니아 SCC 첫 공청회가 11월로 확정 | [D](../../tickers/D - Dominion Energy.md) |
+| AEP | 765kV 송전 최대 — 오하이오 DC 벨트 | +0.12 (2026-07-31) | 2분기 EPS는 예상 밑돌았지만 가이던스 상향, 2030년까지 계약부하 69GW로 확대 | [AEP](../../tickers/AEP - American Electric Power.md) |
+| Exelon | 송배전 전문 — 시카고·필라델피아·볼티모어 | -0.13 (2026-07-31) | 2분기 EPS가 예상을 밑돌면서 주가가 4.5% 급락, 연간 가이던스는 그대로 유지 | [EXC](../../tickers/EXC - Exelon Corporation.md) |
+| Duke Energy | 동남부 — 캐롤라이나 DC 유치 | +0.10 (2026-07-31) | 캐롤라이나에 대형 신규 가스발전 프로젝트를 제안했고, 폭풍으로 인한 정전을 복구했다 | [DUK](../../tickers/DUK - Duke Energy Corporation.md) |
+| Southern | 조지아 — 애틀랜타 DC 급증 대응 | +0.15 (2026-07-31) | 2분기 실적이 예상을 크게 웃돌아 연간 이익 전망을 상단으로 올렸다 | [SO](../../tickers/SO - The Southern Company.md) |
 | NRG Energy | 텍사스 IPP — GEV·부동산과 DC 전력 합작 | watchlist 외 | — | `NRG` |
 <!-- PLAYERS_END -->
 

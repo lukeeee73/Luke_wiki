@@ -1,7 +1,7 @@
 ---
 title: "가스 발전 (신설 CCGT·온사이트) — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-18
+updated: 2026-07-31
 domain: finance
 type: claim
 weight: reference
@@ -47,8 +47,8 @@ AI 전력의 주력 증분 전원 — 계통용 CCGT 신설과 BTM 온사이트 
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Vistra | 텍사스 가스+원자력 플릿 — Meta 계약 | +0.18 (2026-07-03) | Meta·AWS 3,800MW PPA·Fitch IG vs PJM 가격상한·내부자 매도로 6일 -12% | [VST](../../tickers/VST - Vistra Corp.md) |
-| Constellation | Calpine 인수로 가스 플릿 최대급 | +0.19 (2026-07-03) | 1GW 원전 증설·MS 스리마일 20년 PPA·Calpine 통합 vs PJM 가격상한 오버행 YTD -20% | [CEG](../../tickers/CEG - Constellation Energy.md) |
+| Vistra | 텍사스 가스+원자력 플릿 — Meta 계약 | -0.02 (2026-07-31) | 분기배당은 정상 유지됐지만 밸류에이션 부담으로 주가는 하락, PJM 새 규칙은 장기적으로 우호적 | [VST](../../tickers/VST - Vistra Corp.md) |
+| Constellation | Calpine 인수로 가스 플릿 최대급 | +0.08 (2026-07-31) | PJM이 데이터센터 부하감축·예비 용량경매를 제안하며 기존 발전자산 보유자에 유리한 구조가 재확인됐다 | [CEG](../../tickers/CEG - Constellation Energy.md) |
 | NRG Energy | 텍사스 신설 — GEV 터빈 슬롯 선확보 | watchlist 외 | — | `NRG` |
 | Talen Energy | PJM IPP — 가스+원자력 | watchlist 외 | — | `TLN` |
 <!-- PLAYERS_END -->

@@ -1,7 +1,7 @@
 ---
 title: "SMR · 차세대 원자로 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-18
+updated: 2026-07-31
 domain: finance
 type: claim
 weight: reference
@@ -47,12 +47,12 @@ sources: ["https://smrintel.com/state-of-smr-2026/", "https://neutronbytes.com/2
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Oklo | Aurora 고속로 — INL 첫 호기 건설, Meta 계약 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `OKLO` |
+| Oklo | Aurora 고속로 — INL 첫 호기 건설, Meta 계약 | 🟢 +0.18 (2026-07-31) | 경쟁사 홀텍의 원전 부지 재활용 승인에 SMR 관련주 전체가 동반 급등했다 | [OKLO](../../tickers/OKLO - Oklo Inc.md) |
 | NuScale | 美 유일 NRC 표준설계인증 SMR | watchlist 외 | — | `SMR` |
 | X-energy | Xe-100 — Amazon $700M 투자, IPO 추진 (비상장) | — | — | 비상장 |
 | Kairos · TerraPower | Google 500MW PPA · Meta Natrium (비상장) | — | — | 비상장 |
 | BWX Technologies | 원자로 부품·핵연료 제조 | watchlist 외 | — | `BWXT` |
-| 두산에너빌리티 | SMR 주기기 제작 파트너 (NuScale·X-energy) | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `034020.KS` |
+| 두산에너빌리티 | SMR 주기기 제작 파트너 (NuScale·X-energy) | ⚪ -0.04 (2026-07-31) | 美 원전 수주 이연 우려로 목표주가가 낮아졌지만 매수의견과 SMR 모멘텀은 유지됐다 | [034020.KS](../../tickers/034020.KS - Doosan Enerbility.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)
