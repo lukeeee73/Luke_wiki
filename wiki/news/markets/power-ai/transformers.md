@@ -1,7 +1,7 @@
 ---
 title: "변압기 · 스위치기어 · HVDC — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-18
+updated: 2026-07-31
 domain: finance
 type: claim
 weight: reference
@@ -47,12 +47,13 @@ sources: ["https://zdnet.co.kr/view/?no=20260206190629", "https://www.sedaily.co
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Eaton | 북미 전력기기 종합 — 변압기·스위치기어·DC 배전 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `ETN` |
+| GE Vernova (Electrification) | 그리드 장비 — 차단기·스위치기어·계기용변압기 | 🟢 +0.19 (2026-07-31) | 펜실베이니아 그리드 설비 공장 증설 발표와 AI 데이터센터 서사에 주가가 하루 7.46% 올랐다 | [GEV](../../tickers/GEV - GE Vernova Inc.md) |
+| Eaton | 북미 전력기기 종합 — 변압기·스위치기어·DC 배전 | ⚪ +0.03 (2026-07-31) | 2분기 실적을 오늘 발표하는데 발표 전 밸류에이션 부담으로 주가만 조정받았다 | [ETN](../../tickers/ETN - Eaton Corporation plc.md) |
 | Hitachi Energy | HVDC·대형 변압기 글로벌 강자 (히타치 부문) | — | — | 비상장 |
-| HD현대일렉트릭 | 북미 대형 변압기 — ’25 영업익 1조 돌파 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `267260.KS` |
-| 효성중공업 | 초고압 변압기 — 미국 공장 증설 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `298040.KS` |
-| LS ELECTRIC | 배전기기·DC 전력 패키지 (Bloom 향 공급) | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `010120.KS` |
-| Vertiv | DC 내부 전력체인 (UPS·PDU·부스웨이) | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `VRT` |
+| HD현대일렉트릭 | 북미 대형 변압기 — ’25 영업익 1조 돌파 | 🟢🟢 +0.24 (2026-07-31) | 2분기 영업이익이 37% 늘고 빅테크 추가 대형계약도 협의 중이다 | [267260.KS](../../tickers/267260.KS - HD Hyundai Electric.md) |
+| 효성중공업 | 초고압 변압기 — 미국 공장 증설 | 🟢🟢 +0.32 (2026-07-31) | 2분기 영업이익이 97% 급증하며 분기 역대 최대 실적을 기록했다 | [298040.KS](../../tickers/298040.KS - Hyosung Heavy Industries.md) |
+| LS ELECTRIC | 배전기기·DC 전력 패키지 (Bloom 향 공급) | 🟢🟢 +0.29 (2026-07-31) | 2분기 영업이익이 64% 늘어난 사상 최대 실적을 냈다 | [010120.KS](../../tickers/010120.KS - LS ELECTRIC.md) |
+| Vertiv | DC 내부 전력체인 (UPS·PDU·부스웨이) | 🔴 -0.13 (2026-07-31) | 2분기 이익은 예상치를 넘었지만 매출이 부진해 주가가 9%대 급락했다 | [VRT](../../tickers/VRT - Vertiv Holdings Co.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)

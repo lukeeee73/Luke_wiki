@@ -1,7 +1,7 @@
 ---
 title: "가스터빈 제조 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-25
+updated: 2026-07-31
 domain: finance
 type: claim
 weight: reference
@@ -47,10 +47,10 @@ sources: ["https://www.utilitydive.com/news/ge-vernova-gas-turbine-investor/8076
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| GE Vernova | 대형 터빈 1위 — 백로그 110GW+ · 점유 40% | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `GEV` |
+| GE Vernova | 대형 터빈 1위 — 백로그 110GW+ · 점유 40% | 🟢 +0.19 (2026-07-31) | 펜실베이니아 그리드 설비 공장 증설 발표와 AI 데이터센터 서사에 주가가 하루 7.46% 올랐다 | [GEV](../../tickers/GEV - GE Vernova Inc.md) |
 | Siemens Energy | 백로그 €136B 사상최대 · 점유 28% | watchlist 외 | — | `ENR.DE` |
 | Mitsubishi Heavy | 생산 2배 증설에도 ’28 매진 · 점유 25% | watchlist 외 | — | `7011.T` |
-| 두산에너빌리티 | 국산 가스터빈 — 미국향 누적 12기, 빅테크 380MW×7기 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `034020.KS` |
+| 두산에너빌리티 | 국산 가스터빈 — 미국향 누적 12기, 빅테크 380MW×7기 | ⚪ -0.04 (2026-07-31) | 美 원전 수주 이연 우려로 목표주가가 낮아졌지만 매수의견과 가스터빈·SMR 모멘텀은 유지됐다 | [034020.KS](../../tickers/034020.KS - Doosan Enerbility.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)

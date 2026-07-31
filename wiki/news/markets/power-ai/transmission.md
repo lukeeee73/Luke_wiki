@@ -1,7 +1,7 @@
 ---
 title: "송전망 · 계통 인프라 건설 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-06
+updated: 2026-07-31
 domain: finance
 type: claim
 weight: reference
@@ -45,11 +45,11 @@ sources: ["https://finance.yahoo.com/markets/stocks/articles/quantas-record-48-5
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Quanta Services | T&D EPC 1위 — 백로그 $48.5B, 변압기 내재화 투자 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `PWR` |
+| Quanta Services | T&D EPC 1위 — 백로그 $48.5B, 변압기 내재화 투자 | 🟢🟢 +0.37 (2026-07-31) | 2분기 매출·이익이 컨센서스를 크게 웃돌며 수주잔고도 534억달러로 사상 최대를 기록했다 | [PWR](../../tickers/PWR - Quanta Services, Inc.md) |
 | MasTec | 송전·파이프라인 EPC | watchlist 외 | — | `MTZ` |
 | EMCOR | 전기 시공 — DC 내부 전기공사 강자 | watchlist 외 | — | `EME` |
 | MYR Group | T&D 전문 시공 | watchlist 외 | — | `MYRG` |
-| AEP | 765kV 초고압 송전 확장 발주처 | +0.19 (2026-07-03) | 증분 부하 2030년 63GW 전망, 5년 자본계획 $78B 상향 | [AEP](../../tickers/AEP - American Electric Power.md) |
+| AEP | 765kV 초고압 송전 확장 발주처 | 🟢 +0.12 (2026-07-31) | 2분기 EPS는 예상을 밑돌았지만 가이던스를 상향했고, 2030년까지 계약부하를 69GW로 늘리기로 했다 | [AEP](../../tickers/AEP - American Electric Power.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)

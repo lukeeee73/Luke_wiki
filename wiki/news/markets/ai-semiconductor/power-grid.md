@@ -1,7 +1,7 @@
 ---
 title: "전력 생산·전력망 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-18
+updated: 2026-07-31
 domain: finance
 type: claim
 weight: reference
@@ -47,10 +47,10 @@ AI 데이터센터에 전기를 공급하는 발전·전력계약·전력망 접
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Constellation | 미 최대 원자력 (MS TMI 재가동) | 🟢🟢 +0.47 (2026-07-17) | PJM 용량경매서 전 발전설비(18,875MW) 가격상한(325달러/MW-day)에 낙찰, 용량수익 개선 확실시 | [CEG](../../tickers/CEG - Constellation Energy.md) |
-| Vistra | 원자력+가스 | 🟢🟢 +0.45 (2026-07-17) | PJM 가격상한 도달로 발전자산 수혜, Scotiabank 목표가 298달러로 상향 | [VST](../../tickers/VST - Vistra Corp.md) |
-| NextEra | 신재생 1위 (Dominion 딜) | 🟢 +0.15 (2026-07-17) | 도미니언 665억달러 합병 5개 규제기관에 정식 신청(7/15), 심사 시계 개시 | [NEE](../../tickers/NEE - NextEra Energy.md) |
-| GE Vernova | 가스터빈 (2030까지 예약) + SMR | 🟢🟢 +0.34 (2026-07-17) | 대규모 수주잔고 견조하나 사상 최고가 대비 조정 중, 7/22 실적발표가 분수령 | [GEV](../../tickers/GEV - GE Vernova Inc.md) |
+| Constellation | 미 최대 원자력 (MS TMI 재가동) | 🟢 +0.08 (2026-07-31) | PJM이 데이터센터 부하감축·예비 용량경매를 제안하며 기존 발전설비 보유자에게 유리한 구조가 재확인됐다 | [CEG](../../tickers/CEG - Constellation Energy.md) |
+| Vistra | 원자력+가스 | ⚪ -0.02 (2026-07-31) | 분기배당은 정상 유지됐지만 밸류에이션 부담으로 주가는 하락했고, PJM 새 규칙은 장기적으로 우호적이다 | [VST](../../tickers/VST - Vistra Corp.md) |
+| NextEra | 신재생 1위 (Dominion 딜) | 🟢 +0.15 (2026-07-31) | 분기배당 선언 뒤 목표주가가 잇달아 상향됐고, 도미니언 합병은 2027년 말 완료 목표로 순항 중이다 | [NEE](../../tickers/NEE - NextEra Energy.md) |
+| GE Vernova | 가스터빈 (2030까지 예약) + SMR | 🟢 +0.19 (2026-07-31) | 펜실베이니아 그리드 설비 공장 증설을 발표했고 AI 데이터센터 수요 기대에 주가가 하루 7.5% 올랐다 | [GEV](../../tickers/GEV - GE Vernova Inc.md) |
 | Talen | Susquehanna/AWS PPA | watchlist 외 | — | `TLN` |
 <!-- PLAYERS_END -->
 
