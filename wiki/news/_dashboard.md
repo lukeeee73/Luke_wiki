@@ -39,16 +39,16 @@ sources: []
 
 | Ticker                                          | as_of      | score  | 핵심 한 줄                                         | open claims |
 | ----------------------------------------------- | ---------- | ------ | ----------------------------------------------- | ----------- |
-| [AAPL](tickers/AAPL - Apple Inc.md)                     | 2026-07-27 | ⚪ 0.00  | 자체 뉴스 없이 7/30 팀 쿡의 마지막 실적 발표를 앞두고 관망세가 이어진다 | 4           |
-| [MSFT](tickers/MSFT - Microsoft Corporation.md)         | 2026-07-27 | ⚪ 0.00  | 자체 뉴스 없이 7/29 실적에서 애저 성장률이 AWS와 비교당할 준비를 하고 있다 | 7           |
-| [GOOGL](tickers/GOOGL - Alphabet Inc.md)                | 2026-07-27 | ⚪ 0.00  | 자체 뉴스 없이 지난주 발표한 2분기 실적(매출 24% 성장, capex 급증)에 대한 재평가가 이어진다 | 6           |
-| [AMZN](tickers/AMZN - Amazon.com Inc.md)                | 2026-07-27 | 🟢🟢 +0.21  | 월가가 AWS 성장 기대로 목표주가를 잇달아 올리며 7/30 실적을 앞두고 기대감이 커졌다 | 6           |
-| [META](tickers/META - Meta Platforms Inc.md)            | 2026-07-27 | 🟢 +0.18  | BofA가 목표주가 835달러를 재확인하며 7/29 실적에서 광고 매출 호조를 예상했다 | 6           |
-| [ORCL](tickers/ORCL - Oracle Corporation.md)            | 2026-07-27 | 🔴 -0.19  | S&P의 신용등급 하향 경고로 주가가 약세를 이어간 반면 경쟁사 SAP는 클라우드 호조로 급등했다 | 6           |
-| [CRM](tickers/CRM - Salesforce, Inc.md)                 | 2026-07-27 | ⚪ 0.00  | 자체 뉴스 없이 지난주 VA 16억달러 계약과 Morgan Stanley 하향이 엇갈린 채로 남아있다 | 6           |
-| [ADBE](tickers/ADBE - Adobe Inc.md)                     | 2026-07-27 | ⚪ 0.00  | 자체 뉴스 없이 지난주 Morgan Stanley의 AI 리스크 하향 여파가 이어진다 | 7           |
-| [IBM](tickers/IBM - International Business Machines.md) | 2026-07-27 | ⚪ 0.00  | 자체 뉴스 없이 지난주 2분기 가이던스 하향 이후 목표가 조정 여진이 이어진다 | 5           |
-| [PLTR](tickers/PLTR - Palantir Technologies Inc.md)     | 2026-07-27 | 🟢 +0.12  | 미 정부가 팔란티어 이의제기를 받아들여 군 정보시스템 입찰을 철회했다 | 7           |
+| [AAPL](tickers/AAPL - Apple Inc.md)                     | 2026-08-03 | 🔴 -0.19  | 실적은 예상보다 좋았지만 서비스·중국 매출이 둔화되며 주가가 급락하고 목표주가도 낮아졌다 | 4           |
+| [MSFT](tickers/MSFT - Microsoft Corporation.md)         | 2026-08-03 | 🟢🟢 +0.45  | 클라우드 사업이 크게 성장하며 실적 발표 후 하루 만에 회사 가치가 역대급으로 불어났다 | 5           |
+| [GOOGL](tickers/GOOGL - Alphabet Inc.md)                | 2026-08-03 | ⚪ -0.03  | 광고·클라우드 매출은 좋았지만 투자비가 급증하며 상장 후 처음으로 현금이 마이너스로 돌아섰다 | 7           |
+| [AMZN](tickers/AMZN - Amazon.com Inc.md)                | 2026-08-03 | 🟢🟢 +0.28  | 클라우드 사업이 4년 반 만에 가장 빠르게 성장하며 투자비를 늘려도 주가가 오히려 크게 올랐다 | 5           |
+| [META](tickers/META - Meta Platforms Inc.md)            | 2026-08-03 | 🔴 -0.17  | 광고 사업은 튼튼했지만 AI 투자로 현금이 크게 줄며 이익이 예상보다 많이 낮게 나왔다 | 7           |
+| [ORCL](tickers/ORCL - Oracle Corporation.md)            | 2026-08-03 | 🟢 +0.15  | 구글과 AI 파트너십 확대, 국방부 대형 계약으로 주가가 반등했지만 이미 발표된 신용등급 하향으로 부채 부담은 여전하다 | 1           |
+| [CRM](tickers/CRM - Salesforce, Inc.md)                 | 2026-08-03 | 🔴 -0.08  | 재향군인부와 대형 정부 계약을 새로 땄지만 애널리스트 세 곳이 잇달아 투자의견을 낮추며 AI 제품 도입 속도에 대한 의구심이 커지고 있다 | 2           |
+| [ADBE](tickers/ADBE - Adobe Inc.md)                     | 2026-08-03 | 🟢 +0.12  | AI 잠식 공포가 과도하다는 낙관적 평가와 소프트웨어 업종 전반 분위기 회복에 힘입어 주가가 반등했다 | 4           |
+| [IBM](tickers/IBM - International Business Machines.md) | 2026-08-03 | 🔴 -0.15  | 실적 경고로 115년 만에 최악의 하루(주가 -25%)를 겪었지만 회사는 계약이 사라진 게 아니라 늦어진 것뿐이라며 진화에 나섰다 | 2           |
+| [PLTR](tickers/PLTR - Palantir Technologies Inc.md)     | 2026-08-03 | 🔴 -0.05  | 오늘 저녁 실적 발표를 앞두고 상업 고객 지출 둔화 경고와 애널리스트의 낙관론이 팽팽히 맞서는 중이다 | 4           |
 
 ### 반도체 — AI 칩 · 설계
 
@@ -101,11 +101,11 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [ANET](tickers/ANET - Arista Networks, Inc.md) | 2026-07-27 | ⚪ 0.00 | 자체 뉴스 없이 8/4 실적을 앞두고 1.6T 스위치 대형 채택의 매출 반영 여부를 기다린다 | 2 |
-| [COHR](tickers/COHR - Coherent Corp.md) | 2026-07-27 | ⚪ 0.00 | 자체 뉴스 없이 AI 광통신 밸류에이션 되돌림 조정이 업종 전반에서 반복되는 배경만 확인된다 | 1 |
-| [MPWR](tickers/MPWR - Monolithic Power Systems.md) | 2026-07-27 | ⚪ 0.00 | 자체 뉴스 없이 경쟁사 TXN의 AI 수요 강세 부각 속 7/30 실적을 기다린다 | 2 |
-| [CRWV](tickers/CRWV - CoreWeave, Inc.md) | 2026-07-27 | 🔴 -0.14 | 매출이 아니라 급증하는 자본지출 부담 우려로 금요일 주가가 11.4% 급락했다 | 3 |
-| [NBIS](tickers/NBIS - Nebius Group N.V.md) | 2026-07-27 | ⚪ +0.04 | 엔비디아 9.3% 지분 보유가 확인됐지만 내부자 매도와 신규 부채 조달로 신호가 엇갈린다 | 2 |
+| [ANET](tickers/ANET - Arista Networks, Inc.md) | 2026-08-03 | 🟢 +0.18 | 8/4 실적 발표를 앞두고 애널리스트 목표주가 상향이 이어지지만 회사가 직접 밝힌 공급망 병목이 매출 전환 속도의 발목을 잡을 리스크로 남아있다 | 3 |
+| [COHR](tickers/COHR - Coherent Corp.md) | 2026-08-03 | 🟢 +0.14 | 개별 악재 없이 광학주 전체가 급락(-11%)했다 반등(+7%)하는 변동성 장세이며 8/12 실적에서 이미 컨센서스를 웃도는 가이던스가 실제로 확인되는지가 관건이다 | 2 |
+| [MPWR](tickers/MPWR - Monolithic Power Systems.md) | 2026-08-03 | 🟢🟢 +0.38 | 2분기 실적이 크게 어닝서프라이즈를 냈고 AI 서버 전력관리 매출 가이던스를 85%에서 130%로 대폭 상향했지만 엔비디아 블랙웰 관련 이사진 조사는 계속 진행 중이다 | 1 |
+| [CRWV](tickers/CRWV - CoreWeave, Inc.md) | 2026-08-03 | 🟢🟢 +0.20 | 리도스와의 국방·정보기관向 AI 클라우드 계약으로 주가가 16% 급등하며 고객 다변화가 진전됐지만 자본지출 부담은 340억달러로 오히려 더 커졌다 | 4 |
+| [NBIS](tickers/NBIS - Nebius Group N.V.md) | 2026-08-03 | 🟢🟢 +0.21 | 리플렉션AI와의 신규 계약과 차세대 GPU 랙 세계 최초 가동 소식에 주가가 하루 만에 26% 급등했지만 개인투자자 매매까지 섞여 변동성이 매우 크다 | 3 |
 
 ### 로보틱스 / 피지컬 AI
 
