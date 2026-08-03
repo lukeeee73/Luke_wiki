@@ -47,7 +47,7 @@ sources: ["https://pv-magazine-usa.com/2026/05/11/u-s-transformer-market-faces-s
 |---|---|---|---|---|
 | Vertiv | 전력+액침냉각 (NVIDIA GB200 레퍼런스) · 점유 22% | 🔴 -0.13 (2026-07-31) | 2분기 이익은 예상치를 넘었지만 매출이 부진해 주가가 9%대 급락했다 | [VRT](../../tickers/VRT - Vertiv Holdings Co.md) |
 | Eaton | 변압기·스위치기어·PDU · 점유 12% | ⚪ +0.03 (2026-07-31) | 2분기 실적을 오늘 발표하는데 발표 전 밸류에이션 부담으로 주가만 조정받았다 | [ETN](../../tickers/ETN - Eaton Corporation plc.md) |
-| Monolithic Power | 고밀도 GPU 전력전달 'last inch' | 0.00 (2026-07-27) | 자체 뉴스 없이 경쟁사 TXN의 AI 수요 강세 부각 속 7/30 실적을 기다린다 | [MPWR](../../tickers/MPWR - Monolithic Power Systems.md) |
+| Monolithic Power | 고밀도 GPU 전력전달 'last inch' | 🟢🟢 +0.38 (2026-08-03) | 2분기 실적이 크게 어닝서프라이즈를 냈고 AI 서버 전력관리 매출 가이던스를 85%에서 130%로 대폭 상향했지만 엔비디아 블랙웰 관련 이사진 조사는 계속 진행 중이다 | [MPWR](../../tickers/MPWR - Monolithic Power Systems.md) |
 | Navitas · Infineon · ON | GaN/SiC 800VDC | watchlist 외 | — | `NVTS` |
 | Schneider Electric | 변압기·스위치기어 (해외) · 점유 12% | — | — | 비상장 |
 <!-- PLAYERS_END -->

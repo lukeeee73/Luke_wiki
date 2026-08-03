@@ -46,7 +46,7 @@ sources: ["https://www.lightcounting.com/newsletter/en/july-2025-cloud-data-cent
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
 | InnoLight | 모듈 1위 (비상장/중국) · 점유 25% | — | — | 비상장 |
-| Coherent | 수직통합 · NVIDIA CPO 파트너 · 점유 15% | 0.00 (2026-07-27) | 자체 뉴스 없이 AI 광통신 밸류에이션 되돌림 조정이 업종 전반에서 반복되는 배경만 확인된다 | [COHR](../../tickers/COHR - Coherent Corp.md) |
+| Coherent | 수직통합 · NVIDIA CPO 파트너 · 점유 15% | 🟢 +0.14 (2026-08-03) | 개별 악재 없이 광학주 전체가 급락(-11%)했다 반등(+7%)하는 변동성 장세이며 8/12 실적에서 이미 컨센서스를 웃도는 가이던스가 실제로 확인되는지가 관건이다 | [COHR](../../tickers/COHR - Coherent Corp.md) |
 | Lumentum | 레이저/CPO · 점유 10% | watchlist 외 | — | `LITE` |
 | Marvell · Broadcom | 실리콘 포토닉스/DSP | +0.09 (2026-07-28) | 삼성전자와 2000억 달러 AI 칩 파트너십을 맺으며 반도체 셀오프 속에서도 주가가 방어력을 보였다 | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
 | Eoptolink | 트랜시버 (비상장/중국) · 점유 12% | — | — | 비상장 |
