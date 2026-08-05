@@ -1,7 +1,7 @@
 ---
 title: "산업용 · 협동 로봇 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-22
+updated: 2026-08-05
 domain: finance
 type: claim
 weight: reference
@@ -45,11 +45,11 @@ sources: ["https://ifr.org/ifr-press-releases/news/global-robot-demand-in-factor
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| FANUC | 글로벌 선두권 (4강 합산 55%+) | +0.06 (2026-07-22) | 후지쯔·야스카와와 피지컬 AI 연합을 결성했지만 닛케이 조정장에 동반 하락했다 | [6954.T](../../tickers/6954.T - FANUC Corporation.md) |
+| FANUC | 글로벌 선두권 (4강 합산 55%+) | -0.21 (2026-08-05) | 실적은 두 자릿수로 늘었지만 이익전망이 기대에 못 미치고 엔화 급등까지 겹쳐 주가가 40년 만의 최대 낙폭을 기록했다 | [6954.T](../../tickers/6954.T - FANUC Corporation.md) |
 | ABB Robotics | 4대 메이저 — 소프트뱅크에 $5.4B 매각 (’26 종결) | watchlist 외 | — | `ABBNY` |
 | Yaskawa | 모션컨트롤·로봇 (NVIDIA 협력) | watchlist 외 | — | `6506.T` |
 | KUKA | 4대 메이저 (Midea 자회사) | — | — | 비상장 |
-| Universal Robots · MiR | 협동로봇 1위 + AMR (Teradyne) — Q1’26 +32% | +0.05 (2026-07-22) | 반도체 업황 반등에 주가는 올랐지만 ASML발 공급과잉 우려도 겹친 혼조 흐름이었다 | [TER](../../tickers/TER - Teradyne, Inc.md) |
+| Universal Robots · MiR | 협동로봇 1위 + AMR (Teradyne) — Q1’26 +32% | +0.22 (2026-08-05) | 2분기 매출이 지난해보다 104% 늘어나는 어닝 서프라이즈를 냈고 애널리스트들도 목표주가를 잇달아 올렸다 | [TER](../../tickers/TER - Teradyne, Inc.md) |
 | Estun · Inovance | 중국 로컬 — 자국 점유율 57%로 상승 | watchlist 외 | — | `002747.SZ` |
 <!-- PLAYERS_END -->
 
