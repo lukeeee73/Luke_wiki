@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-08-01
+updated: 2026-08-05
 domain: finance
 type: index
 weight: reference
@@ -111,26 +111,26 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [TER](tickers/TER - Teradyne, Inc.md) | 2026-07-22 | 🟢 +0.05 | 반도체 업황 반등에 주가는 올랐지만 ASML발 공급과잉 우려도 겹친 혼조 흐름이었다 | 6 |
-| [HSAI](tickers/HSAI - Hesai Group.md) | 2026-07-22 | 🔴 -0.05 | 씨티가 목표가를 올렸지만 사이버 안보 논란과 AI 관련주 매도세로 주간 16% 하락했다 | 3 |
-| [MP](tickers/MP - MP Materials Corp.md) | 2026-07-22 | 🔴 -0.08 | 중국의 규제 강화와 내부자 매도가 겹치며 52주 신저가를 기록했다 | 7 |
-| [6954.T](tickers/6954.T - FANUC Corporation.md) | 2026-07-22 | 🟢 +0.06 | 후지쯔·야스카와와 피지컬 AI 연합을 결성했지만 닛케이 조정장에 동반 하락했다 | 2 |
-| [6324.T](tickers/6324.T - Harmonic Drive Systems.md) | 2026-07-22 | ⚪ +0.03 | 휴머노이드 부품 수요 기대감과 닛케이 조정장이 서로 상쇄되며 잔잔한 흐름을 보였다 | 2 |
+| [TER](tickers/TER - Teradyne, Inc.md) | 2026-08-05 | 🟢🟢 +0.22 | 2분기 매출이 104% 급증하는 어닝서프라이즈를 냈고 애널리스트들도 목표주가를 일제히 올렸다 | 2 |
+| [HSAI](tickers/HSAI - Hesai Group.md) | 2026-08-05 | 🟢 +0.05 | 창업자 관련 로봇업체와의 부품 공급 한도를 3배로 늘리는 안건을 냈지만 주주 승인이 필요하다 | 4 |
+| [MP](tickers/MP - MP Materials Corp.md) | 2026-08-05 | 🔴 -0.12 | 52주 신저가를 다시 쓰고 JPMorgan이 목표가를 낮추며 내일 실적 발표를 앞두고 눈높이가 낮아졌다 | 7 |
+| [6954.T](tickers/6954.T - FANUC Corporation.md) | 2026-08-05 | 🔴🔴 -0.21 | 실적은 두 자릿수로 늘었지만 이익전망이 기대에 못 미치고 엔화 급등까지 겹쳐 주가가 40년 만의 최대 낙폭을 기록했다 | 2 |
+| [6324.T](tickers/6324.T - Harmonic Drive Systems.md) | 2026-08-05 | 🟢 +0.09 | 로보틱스 재평가 흐름에 주가가 이틀 만에 크게 올랐고 FANUC 급락에도 견조한 흐름을 유지했다 | 3 |
 
 ### 자동차 / 모빌리티
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [TSLA](tickers/TSLA - Tesla Inc.md) | 2026-07-22 | 🔴 -0.05 | 로보택시는 올랜도·탬파로 넓어졌지만 NHTSA가 FSD 문서를 추가로 요구하며 오늘 실적 발표를 앞두고 규제 우려가 커졌다 | 2 |
-| [TM](tickers/TM - Toyota Motor Corporation.md) | 2026-07-22 | ⚪ +0.04 | 새 툰드라와 프리우스 플러그인하이브리드를 잇달아 공개하며 조용한 한 주를 보냈다 | 1 |
-| [F](tickers/F - Ford Motor Company.md) | 2026-07-22 | ⚪ +0.00 | JP모건이 목표주가를 소폭 올렸지만 포드 회장은 중국차 공세를 막을 수 없다고 경고했다 | 3 |
-| [GM](tickers/GM - General Motors Company.md) | 2026-07-22 | 🟢🟢 +0.27 | 2분기 어닝서프라이즈와 함께 연간 이익 전망을 큰 폭으로 올렸다 | 2 |
-| [STLA](tickers/STLA - Stellantis NV.md) | 2026-07-22 | ⚪ -0.02 | 램·지프 수장을 교체했지만 차저 판매는 여전히 현금 인센티브에 의존하고 있다 | 4 |
-| [HMC](tickers/HMC - Honda Motor Co.md) | 2026-07-22 | 🔴 -0.16 | 미국 내 마지막 전기차 프롤로그를 완전히 접고 하이브리드·내연기관에 집중하기로 했다 | 1 |
-| [RIVN](tickers/RIVN - Rivian Automotive.md) | 2026-07-22 | 🟢 +0.09 | 12억달러 유상증자를 마무리한 뒤 주가가 발행가를 웃돌며 회복했고 2분기 매출 가이던스도 시장 예상을 넘어섰다 | 3 |
-| [NIO](tickers/NIO - NIO Inc.md) | 2026-07-22 | 🟢 +0.10 | 대표 SUV의 5인승 버전이 인도를 시작하며 누적 판매 13만대를 돌파했다 | 2 |
-| [005380.KS](tickers/005380.KS - Hyundai Motor Company.md) | 2026-07-22 | 🔴 -0.16 | 노조가 사흘간 부분파업에 들어갔고 2분기 이익도 줄어들 것으로 전망된다 | 2 |
-| [000270.KS](tickers/000270.KS - Kia Corporation.md) | 2026-07-22 | 🟢 +0.12 | 하이브리드 판매 호조로 목표주가가 잇달아 오르며 2분기 최대 매출이 예상된다 | 1 |
+| [TSLA](tickers/TSLA - Tesla Inc.md) | 2026-08-05 | 🟢 +0.08 | 중국 판매가 9개월 연속 늘며 반등했지만 스페이스X 합병을 앞둔 중국사업 매각설이 나와 머스크가 부인했다 | 3 |
+| [TM](tickers/TM - Toyota Motor Corporation.md) | 2026-08-05 | 🟢 +0.13 | 1분기 순이익이 76% 급증해 사상최대 자사주매입을 발표했지만 관세 탓에 영업이익은 5분기 연속 줄었다 | 1 |
+| [F](tickers/F - Ford Motor Company.md) | 2026-08-05 | ⚪ -0.01 | 7월 미국 판매가 10.2% 줄고 전기차 판매는 74.9% 급감했지만 회사는 신차 준비를 위한 의도된 조정이라 설명한다 | 1 |
+| [GM](tickers/GM - General Motors Company.md) | 2026-08-05 | 🟢 +0.06 | 온스타 데이터를 활용한 자체 차량용 AI 어시스턴트를 하반기에 출시하겠다고 발표했다 | 3 |
+| [STLA](tickers/STLA - Stellantis NV.md) | 2026-08-05 | 🔴 -0.05 | UBS가 미국 turnaround 정체를 이유로 투자의견을 낮췄고 2분기 핵심 수익성도 예상을 밑돌았다 | 2 |
+| [HMC](tickers/HMC - Honda Motor Co.md) | 2026-08-05 | 🟢 +0.05 | 혼다는 7월 미국에서 하이브리드 판매 신기록을 세웠지만 닛산과의 합병은 무산되고 소프트웨어 협력으로 축소됐다 | 2 |
+| [RIVN](tickers/RIVN - Rivian Automotive.md) | 2026-08-05 | ⚪ -0.04 | 리비안은 2분기 실적이 예상보다 좋았는데도 하반기 목표 달성 부담 때문에 주가가 9.6% 급락했다 | 2 |
+| [NIO](tickers/NIO - NIO Inc.md) | 2026-08-05 | 🟢 +0.09 | 니오는 7월 인도량이 작년보다 71% 늘었지만 6월보다는 줄었고 샤오펑에 물량 선두를 다시 내줬다 | 2 |
+| [005380.KS](tickers/005380.KS - Hyundai Motor Company.md) | 2026-08-05 | 🔴 -0.15 | 현대차는 파업 여파로 7월 판매와 2분기 이익이 모두 줄었고 임단협은 여름휴가 후로 장기화됐다 | 2 |
+| [000270.KS](tickers/000270.KS - Kia Corporation.md) | 2026-08-05 | 🟢 +0.05 | 기아는 7월 판매가 13.4% 늘며 선전했지만 2분기 이익은 컨센서스에 못 미쳐 주가가 12.9% 급락했다 | 0 |
 
 ### 바이오 / 제약 / 헬스케어
 
@@ -275,9 +275,9 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [329180.KS](tickers/329180.KS - HD Hyundai Heavy Industries.md) | 2026-07-22 | 🟢 +0.07 | 태국 호위함 수주전에서 한화오션에 밀리는 분위기지만, 트럼프의 미국 조선 협력 요청으로 새 기회도 열렸다 | 4 |
-| [042660.KS](tickers/042660.KS - Hanwha Ocean Co.md) | 2026-07-22 | 🟢🟢 +0.27 | 미국 자회사 필리조선소가 골든돔·국가안보다목적선 계약을 잇달아 따내며 미국 시장 진출이 실제 수주로 이어졌다 | 4 |
-| [010140.KS](tickers/010140.KS - Samsung Heavy Industries.md) | 2026-07-22 | 🟢 +0.10 | 델핀 FLNG(부유식 액화천연가스 생산설비) 2호기 건조 슬롯을 확보했다는 보도로 후속 수주 기대가 커졌다 | 4 |
+| [329180.KS](tickers/329180.KS - HD Hyundai Heavy Industries.md) | 2026-08-05 | 🔴 -0.10 | 태국 호위함 수주전에서 한화오션에 밀리는 흐름이 굳어지는 가운데 후판 가격 인상 조짐까지 겹쳤다 | 5 |
+| [042660.KS](tickers/042660.KS - Hanwha Ocean Co.md) | 2026-08-05 | 🟢🟢 +0.21 | 태국 호위함 수주가 사실상 확정되고 KDDX 구축함 본계약까지 체결하며 방산 수주 모멘텀이 뚜렷하다 | 5 |
+| [010140.KS](tickers/010140.KS - Samsung Heavy Industries.md) | 2026-08-05 | 🟢 +0.11 | 원유운반선 추가 수주로 상선 부문 연간 목표를 8월 초에 조기 달성했다 | 5 |
 | [010620.KS](tickers/010620.KS - HD Hyundai Mipo Dockyard Co. Ltd..md) | 2026-06-17 | +0.05 | Q2/Q3 PCTC·MR 탱커 납기 순조, 메탄올 추진 MR 탱커 시장 선두 | 1 |
 
 ## 오늘의 시그널 (2026-07-30 · 목요일 · 바이오 / 제약 / 헬스케어)
