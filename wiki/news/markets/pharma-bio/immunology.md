@@ -1,7 +1,7 @@
 ---
 title: "면역질환 (자가면역) — 시장 종합"
 created: 2026-07-18
-updated: 2026-07-18
+updated: 2026-08-06
 domain: finance
 type: claim
 weight: reference
@@ -47,9 +47,9 @@ sources: ["https://www.prnewswire.com/news-releases/truelab-biopharmaceutical-an
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| AbbVie | 스카이리치+린버크 ~$25B — 휴미라 절벽 방어 성공 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `ABBV` |
+| AbbVie | 스카이리치+린버크 ~$25B — 휴미라 절벽 방어 성공 | 🟢🟢 +0.29 (2026-08-06) | 보톡스 사각턱 적응증 확대 신청이 FDA에 접수됐고 아포지 인수 자금조달에도 투자자가 몰렸다 | `ABBV` |
 | Sanofi · Regeneron | 듀피젠트 ~$16B (적응증 확장 중) | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `REGN` |
-| J&J | 트렘피아 — 스텔라라 LOE 방어 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `JNJ` |
+| J&J | 트렘피아 — 스텔라라 LOE 방어 | 🟢 +0.08 (2026-08-06) | 제약부문 수장 교체 발표 외 큰 뉴스는 없었고 탈크 소송 합의도 아직 최종 확정 전이다 | `JNJ` |
 | Amgen · Novartis | 바이오시밀러 겸업 + 신규 기전 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `AMGN` |
 <!-- PLAYERS_END -->
 

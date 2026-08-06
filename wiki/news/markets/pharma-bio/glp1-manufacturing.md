@@ -1,7 +1,7 @@
 ---
 title: "GLP-1·펩타이드 생산 CAPEX — 시장 종합"
 created: 2026-07-18
-updated: 2026-07-18
+updated: 2026-08-06
 domain: finance
 type: claim
 weight: reference
@@ -47,8 +47,8 @@ sources: ["https://www.fiercepharma.com/manufacturing/novo-nordisk-cuts-hundreds
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Eli Lilly | 美 제조 $50B+ — 자체 수직통합 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `LLY` |
-| Novo Nordisk | capex DKK 55B/년 + Catalent 인수 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `NVO` |
+| Eli Lilly | 美 제조 $50B+ — 자체 수직통합 | 🟢🟢 +0.46 (2026-08-06) | 2분기 실적이 컨센서스를 크게 상회하고 가이던스를 두 번째로 상향하며 노보 대비 확실한 경쟁 우위를 재확인했다 | `LLY` |
+| Novo Nordisk | capex DKK 55B/년 + Catalent 인수 | 🔴 -0.17 (2026-08-06) | 2분기 이익은 예상을 넘었지만 경구 위고비 매출이 기대에 못 미치며 가이던스 상향에도 주가가 5~6% 하락했다 | `NVO` |
 | Bachem | 펩타이드 CDMO 1위 (스위스) | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `BANB.SW` |
 | PolyPeptide · CordenPharma | 펩타이드 위탁 합성 증설 경쟁 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `PPGN.SW` |
 <!-- PLAYERS_END -->
