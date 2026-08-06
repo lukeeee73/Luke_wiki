@@ -1,7 +1,7 @@
 ---
 title: "임상시험 CRO — 시장 종합"
 created: 2026-07-18
-updated: 2026-07-18
+updated: 2026-08-06
 domain: finance
 type: claim
 weight: reference
@@ -49,7 +49,7 @@ sources: ["https://www.globenewswire.com/news-release/2026/07/15/3327567/0/en/Gl
 |---|---|---|---|---|
 | IQVIA | 1위 — 데이터+CRO 복합, NVIDIA 와 IQVIA.ai · 점유 25% | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `IQV` |
 | ICON | 2위 글로벌 풀서비스 · 점유 15% | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `ICLR` |
-| Thermo Fisher (PPD) | 장비→서비스 수직통합 · 점유 13% | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `TMO` |
+| Thermo Fisher (PPD) | 장비→서비스 수직통합 · 점유 13% | ⚪ 0.00 (2026-08-06) | 자체 뉴스 없이 지난달 실적 서프라이즈의 여진이 이어지는 조용한 하루였다 | `TMO` |
 | Medpace | 중소 바이오텍 특화 — 고성장 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `MEDP` |
 | Fortrea | 랩콥 분사 CRO | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `FTRE` |
 <!-- PLAYERS_END -->

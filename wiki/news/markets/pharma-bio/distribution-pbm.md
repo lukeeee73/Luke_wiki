@@ -1,7 +1,7 @@
 ---
 title: "의약품 유통 · PBM — 시장 종합"
 created: 2026-07-18
-updated: 2026-07-18
+updated: 2026-08-06
 domain: finance
 type: claim
 weight: reference
@@ -51,7 +51,7 @@ sources: ["https://distilinfo.com/2026/05/13/optum-rx-reforms-drug-pricing-for-t
 | Cencora | 유통 2위 — 스페셜티 강자 · 점유 31% | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `COR` |
 | Cardinal Health | 유통 3위 · 점유 24% | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `CAH` |
 | CVS Caremark | PBM 1위 + 스페셜티 파마시 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `CVS` |
-| Optum Rx | PBM 3강 (UnitedHealth) | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `UNH` |
+| Optum Rx | PBM 3강 (UnitedHealth) | 🟢 +0.10 (2026-08-06) | 지난달 실적 이후 애널리스트 목표주가는 오르는데 버크셔 지분 매도 여파로 주가는 반대로 움직이는 엇갈린 흐름이 이어진다 | `UNH` |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)
