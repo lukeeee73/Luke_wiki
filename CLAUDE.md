@@ -23,7 +23,8 @@ Luke_wiki/
 ├── scripts/               # vault 구조 검증/보조 스크립트
 └── wiki/                  # Wiki Layer - 정제된 마크다운 지식
     ├── index.md           # 전체 위키 페이지 카탈로그
-    ├── log.md             # 작업 이력 (시간순 기록)
+    ├── log.md             # 작업 이력 색인 (본문 없음 — 월별 파일로 링크만)
+    ├── logs/              # 월별 작업 이력 (logs/YYYY-MM.md)
     ├── principles/        # 핵심 원칙 페이지 (최상위 가중치)
     ├── domains/           # 도메인별 진입점 인덱스
     ├── concepts/          # 설명적 개념/프레임워크 페이지
@@ -39,14 +40,20 @@ Luke_wiki/
 - **Capture Layer** (`inbox/`): 모바일/데스크톱에서 급히 적은 생각을 임시로 둔다. 장기 보존 금지. 일주일 안에 삭제·병합·승격한다.
 - **Raw Sources Layer** (`sources/`): 원문 보존 레이어. 가능하면 내용과 메타데이터를 그대로 보존하고, 해석은 `wiki/`에서 한다.
 - **Wiki Layer** (`wiki/`): 공부한 것을 장기 저장하는 정제 레이어. 모든 페이지는 frontmatter와 인식론 callout을 갖는다.
-- **Routine Layer** (`wiki/news/`): 자동 뉴스 수집이 쓰는 격리 레이어. `wiki/` 안에 있지만 사람-작성 지식과 섞지 않는다. 종목별 로그(`tickers/`)와 시장지도 노드별 종합(`markets/{map_id}/{market_id}.md`) 두 하위 레이어로 구성된다.
+- **Routine Layer** (`wiki/news/`): 자동 뉴스 수집이 쓰는 격리 레이어. `wiki/` 안에 있지만 사람-작성 지식과 섞지 않는다. 종목별 로그(`tickers/`), 시장지도 노드별 종합(`markets/{map_id}/{market_id}.md`), 날짜별 시그널(`signals/YYYY-MM-DD.md`) 세 하위 레이어로 구성된다.
+
+> [!important] 파일 단위 = 동시 편집 경계
+> 루틴과 사람이 **같은 파일을 같은 날 고치면 git 머지 충돌**이 나고, 그 충돌은 옵시디언 노트 본문에
+> 충돌 마커로 박히거나 내용이 뒤섞인 채 저장된다. 그래서 매일 갱신되는 산출물은 **하루 한 파일**로 쪼갠다:
+> 시그널은 `news/signals/YYYY-MM-DD.md`, 작업 이력은 `logs/YYYY-MM.md`.
+> `_dashboard.md` 와 `log.md` 는 **본문을 담지 않는 색인**이다 — 여기에 날짜별 내용을 덧붙이지 않는다.
 
 ### 사람-작성 영역 vs 루틴-수집 영역
 
 `wiki/` 하위 폴더는 두 부류로 나뉜다:
 
 - **사람-작성 영역** (`principles/`, `concepts/`, `topics/`, `comparisons/`, `syntheses/`, `entities/`, `domains/`): 사용자가 직접 또는 ingest 작업을 통해 출처에서 정제한 콘텐츠. `confidence: high|medium` 가 많다.
-- **루틴-수집 영역** (`news/`): `indicator_dashboard` 의 루틴들이 자동으로 누적하는 영역. `tickers/` 는 `daily-market-analysis` 루틴의 watchlist 종목 뉴스 로그, `markets/` 는 시장지도 노드별 종합 페이지(daily 루틴이 기업 동향을, `market-research` 루틴이 시장 구조·병목·뉴스를 갱신)다. 모든 신규 항목은 `type: claim`, `confidence: low`, `tags: [routine-news, ...]` 로 들어와 사람-작성 영역과 명확히 구분된다. 자세한 규칙은 [wiki/news/README.md](wiki/news/README.md) 와 [wiki/news/markets/README.md](wiki/news/markets/README.md). **신규 항목의 글쓰기 형식은 [wiki/news/FORMAT.md](wiki/news/FORMAT.md) (투자 브리핑 v2, 2026-07-07~)** — 쉬운 한국어, "무슨 일→왜 중요→주가에 의미" 3단 구조, 신호등(🟢⚪🔴) 표기, 용어는 [wiki/news/glossary.md](wiki/news/glossary.md) 괄호 풀이. 2026-07-06 이전 항목은 옛 형식 그대로 보존(재작성 금지). 루틴 산출물을 최상위 `news/` 또는 루트 노트로 만들지 않는다.
+- **루틴-수집 영역** (`news/`): `indicator_dashboard` 의 루틴들이 자동으로 누적하는 영역. `tickers/` 는 `daily-market-analysis` 루틴의 watchlist 종목 뉴스 로그, `markets/` 는 시장지도 노드별 종합 페이지(daily 루틴이 기업 동향을, `market-research` 루틴이 시장 구조·병목·뉴스를 갱신)다. `signals/` 는 그날 감지한 시그널을 하루 한 파일로 쌓는다. 모든 신규 항목은 `type: claim`, `confidence: low`, `tags: [routine-news, ...]` 로 들어와 사람-작성 영역과 명확히 구분된다. 자세한 규칙은 [wiki/news/README.md](wiki/news/README.md) 와 [wiki/news/markets/README.md](wiki/news/markets/README.md). **신규 항목의 글쓰기 형식은 [wiki/news/FORMAT.md](wiki/news/FORMAT.md) (투자 브리핑 v2, 2026-07-07~)** — 쉬운 한국어, "무슨 일→왜 중요→주가에 의미" 3단 구조, 신호등(🟢⚪🔴) 표기, 용어는 [wiki/news/glossary.md](wiki/news/glossary.md) 괄호 풀이. 2026-07-06 이전 항목은 옛 형식 그대로 보존(재작성 금지). 루틴 산출물을 최상위 `news/` 또는 루트 노트로 만들지 않는다.
 
 루틴이 만든 항목은 사람의 확인 후 `wiki/topics/` 등으로 승격될 수 있지만, 그 전까지는 항상 `news/` 안에서만 살아있다.
 
@@ -59,7 +66,8 @@ Luke_wiki/
 | `syntheses/` | 내가 원칙+사실+의견을 종합해 내린 **나 자신의 판단** |
 | `topics/` | 특정 주제에 대한 요약. 출처 기반, 내 판단보다는 정리 |
 | `domains/` | 도메인별 진입점. 직접적 지식 내용 없이 링크만 모음 |
-| `news/` | 루틴이 자동 수집하는 watchlist 종목 뉴스 로그(`tickers/`)와 시장 노드 종합(`markets/`). **루틴 전용 격리 영역** — 사람은 promote/검증만 한다 |
+| `news/` | 루틴이 자동 수집하는 watchlist 종목 뉴스 로그(`tickers/`), 시장 노드 종합(`markets/`), 날짜별 시그널(`signals/`). **루틴 전용 격리 영역** — 사람은 promote/검증만 한다 |
+| `logs/` | 월별 작업 이력(`logs/YYYY-MM.md`). 새 항목은 해당 월 파일 맨 위에 추가 |
 
 ### 공부 노트 저장 흐름
 
@@ -186,7 +194,7 @@ callout 우선순위 (적용 기준):
 6. 교차 참조(cross-reference)를 추가한다
 7. **해당 도메인 인덱스 (`domains/finance.md` 등)를 업데이트**한다
 8. `wiki/index.md`를 업데이트한다
-9. `wiki/log.md`에 작업 내역을 기록한다
+9. `wiki/logs/YYYY-MM.md` (해당 월 파일) 맨 위에 작업 내역을 기록한다 — 파일이 없으면 새로 만들고 `wiki/log.md` 색인 표에 한 줄 추가한다
 
 하나의 자료가 10~15개의 위키 페이지에 영향을 줄 수 있다.
 
@@ -225,6 +233,6 @@ callout 우선순위 (적용 기준):
 3. `sources:` 에 해당 뉴스의 URL 들을 명시
 4. `news/{TICKER}.md` 에서는 그 항목 옆에 `→ wiki/topics/{slug}.md 로 승격됨 (YYYY-MM-DD)` 노트만 남기고 본문은 유지
 5. `wiki/index.md` 와 `wiki/domains/finance.md` 에 새 페이지 링크 추가
-6. `wiki/log.md` 에 `[PROMOTE]` 항목 기록
+6. `wiki/logs/YYYY-MM.md` 에 `[PROMOTE]` 항목 기록
 
 루틴은 이 promotion 노트를 인식하고 더 이상 같은 사실을 [사실 누적] 에 중복으로 쌓지 않는다.

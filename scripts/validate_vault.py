@@ -26,6 +26,7 @@ ALLOWED_TOP_LEVEL_DIRS = {
     "wiki",
 }
 FRONTMATTER_RE = re.compile(r"\A---\n(.*?)\n---\n", re.DOTALL)
+SIGNAL_NAME_RE = re.compile(r"\d{4}-\d{2}-\d{2}\.md")
 
 
 def markdown_files(base: Path) -> list[Path]:
@@ -59,7 +60,7 @@ def frontmatter_tags(fm: str) -> list[str]:
 
 def ticker_tag(fm: str) -> str | None:
     for tag in frontmatter_tags(fm):
-        if tag not in {"routine-news", "watchlist", "dashboard", "meta", "market-summary"}:
+        if tag not in {"routine-news", "watchlist", "dashboard", "meta", "market-summary", "signals"}:
             return tag
     return None
 
@@ -130,6 +131,16 @@ def main() -> int:
                     )
                 if "market-summary" not in frontmatter_tags(fm):
                     errors.append(f"Market summary missing 'market-summary' tag: {relative}")
+                continue
+            if relative.startswith("wiki/news/signals/"):
+                # 날짜별 시그널: wiki/news/signals/YYYY-MM-DD.md — 하루 한 파일이라
+                # 루틴과 사람이 같은 파일을 동시에 고칠 일이 없다 (머지 충돌 방지).
+                if not SIGNAL_NAME_RE.fullmatch(path.name):
+                    errors.append(
+                        f"Signal note must be named YYYY-MM-DD.md: {relative}"
+                    )
+                if "signals" not in frontmatter_tags(fm):
+                    errors.append(f"Signal note missing 'signals' tag: {relative}")
                 continue
             if not relative.startswith("wiki/news/tickers/"):
                 errors.append(f"Ticker news log must live under wiki/news/tickers/: {relative}")
