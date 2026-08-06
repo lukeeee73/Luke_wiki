@@ -41,17 +41,40 @@ wiki/news/
 ├── FORMAT.md           # ✍️ 투자 브리핑 v2 — 신규 항목 글쓰기 형식 (2026-07-07~)
 ├── glossary.md         # 용어집 — 브리핑에 나오는 전문용어 한 줄 풀이
 ├── _dashboard.md       # 모든 종목의 가장 최근 narrative_score / 핵심 이슈 한눈에 보기 (섹터별)
+│                        # + 최근 시그널 링크 목록. 시그널 본문은 담지 않는다.
 ├── tickers/            # 자동 생성된 종목별 원본 로그 격리 폴더
 │   └── {TICKER} - {COMPANY}.md
 │                        # 종목별 누적 로그 (역순). 한국 종목은 {NUMBER}.KS - {COMPANY}.md
-└── markets/            # 시장지도 노드별 종합 페이지 — 기업 동향 + 시장 구조·병목·뉴스
-    └── {map_id}/{market_id}.md
-                         # 예: ai-semiconductor/hbm.md — 규칙은 markets/README.md
+├── markets/            # 시장지도 노드별 종합 페이지 — 기업 동향 + 시장 구조·병목·뉴스
+│   └── {map_id}/{market_id}.md
+│                        # 예: ai-semiconductor/hbm.md — 규칙은 markets/README.md
+└── signals/            # 날짜별 시그널 — 하루 한 파일
+    └── YYYY-MM-DD.md
+                         # 그날 처리한 섹터에서 감지한 시그널. 파일명은 날짜만.
 ```
 
 루틴은 종목 파일을 반드시 `wiki/news/tickers/` 아래에만, 시장 종합 파일을 반드시
-`wiki/news/markets/{map_id}/` 아래에만 만든다. 최상위 `news/`, 루트의 임시 `.md` 파일,
-사람-작성 `wiki/topics/` 로 직접 쓰지 않는다.
+`wiki/news/markets/{map_id}/` 아래에만, 시그널을 반드시 `wiki/news/signals/` 아래에만 만든다.
+최상위 `news/`, 루트의 임시 `.md` 파일, 사람-작성 `wiki/topics/` 로 직접 쓰지 않는다.
+
+## 시그널은 왜 하루 한 파일인가 (2026-08-06 분리)
+
+> [!important] 같은 파일 = 충돌 지점
+> 예전에는 매일의 `## 오늘의 시그널` 을 `_dashboard.md` **한 파일에 계속 덧붙였다.**
+> 이 저장소는 옵시디언(obsidian-git)·루틴·ingest 세 곳에서 동시에 쓰이기 때문에,
+> 매일 같은 파일의 같은 구역을 고치는 구조는 git 머지 충돌을 반복해서 만들었다.
+> 실제로 분리 전 `_dashboard.md` 에는 시그널 23개가 **날짜 순서가 뒤엉킨 채** 쌓여 있었고
+> (07-15 다음에 07-23), 내용 없는 빈 `### 감지된 패턴` 헤딩 7개가 머지 잔해로 남아 있었다.
+
+그래서 시그널은 **하루 한 파일**(`signals/YYYY-MM-DD.md`)로 쓴다. 서로 다른 날은 서로 다른
+파일이므로 두 writer 가 같은 날 같은 줄을 고칠 일이 구조적으로 없다.
+
+**루틴이 지켜야 할 것:**
+
+1. 시그널은 항상 `signals/{오늘 날짜}.md` 를 **새로 만들어** 쓴다. 기존 파일에 덧붙이지 않는다.
+2. frontmatter 는 `type: claim` / `confidence: low` / `tags: [routine-news, signals]` 고정.
+3. `_dashboard.md` 에서는 "최근 시그널" 목록 맨 위에 링크 한 줄만 추가한다 (본문 금지).
+4. 같은 날 두 번 실행되면 그날 파일을 **덮어쓴다** (append 아님) — 멱등성 유지.
 
 `_dashboard.md` 와 종목별 로그 파일의 watchlist 는 `indicator_dashboard` 의
 `scripts/fetch_fred.py` 의 `STOCKS` 딕셔너리를 단일 진실 공급원으로 사용한다.
@@ -141,8 +164,11 @@ tags: [routine-news, watchlist, {TICKER}]
 
 ## Obsidian 파일 생성 규칙
 
-- `wiki/news/` 최상위에는 `_dashboard.md` 와 `README.md` 만 둔다.
+- `wiki/news/` 최상위에는 `README.md` · `FORMAT.md` · `glossary.md` · `_dashboard.md` 만 둔다.
+  나머지는 전부 `tickers/` · `markets/` · `signals/` 하위로 간다.
 - 종목별 자동 로그는 반드시 `wiki/news/tickers/{TICKER} - {Company}.md` 로 생성한다.
+- **그날의 시그널은 `wiki/news/signals/YYYY-MM-DD.md` 새 파일로 만든다.**
+  `_dashboard.md` 본문에 `## 오늘의 시그널` 섹션을 덧붙이지 않는다 — 아래 이유 참고.
 - watchlist 에 **신규 편입된 종목은 회사 소개를 포함한 스켈레톤 파일을 미리 만들어 둔다**
   (대시보드 시장 지도의 플레이어 클릭이 티커 파일명 매칭으로 이 파일에 연결되기 때문).
   `_dashboard.md` 에는 score `—` (수집 전) 행으로 표시하고, 해당 섹터의 첫 루틴 실행 때 채운다.

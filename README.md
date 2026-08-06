@@ -9,7 +9,8 @@ Obsidian으로 공부한 내용을 오래 보존하고, 자동 뉴스 수집 결
 | `inbox/` | 아직 분류하지 않은 임시 메모, 모바일 캡처, 빠른 아이디어 | 예 |
 | `sources/` | 원문, 기사, 강의, 논문, 코드 등 가공 전 자료 | 예 |
 | `wiki/` | 정제된 지식 노트. 개념·원칙·주제·엔티티·종합 판단으로 분리 | 예 |
-| `wiki/news/` | 자동 뉴스 수집 루틴의 대시보드와 가이드. 종목별 원본 로그는 `wiki/news/tickers/`에 격리 | 원칙적으로 루틴이 씀 |
+| `wiki/news/` | 자동 뉴스 수집 루틴의 대시보드와 가이드. 종목별 원본 로그는 `wiki/news/tickers/`, 날짜별 시그널은 `wiki/news/signals/`에 격리 | 원칙적으로 루틴이 씀 |
+| `wiki/logs/` | 월별 작업 이력 (`logs/YYYY-MM.md`). `wiki/log.md`는 색인 | 예 |
 | `_templates/` | Obsidian Templates 플러그인용 템플릿 | 예 |
 | `scripts/` | vault 구조 검증 등 보조 도구 | 예 |
 
@@ -18,7 +19,7 @@ Obsidian으로 공부한 내용을 오래 보존하고, 자동 뉴스 수집 결
 1. 빠른 생각은 `inbox/`에 적는다.
 2. 공부 자료 원문은 `sources/`에 저장한다.
 3. 정리된 지식은 `wiki/` 하위의 적절한 폴더로 승격한다.
-4. 자동 수집 뉴스는 `wiki/news/` 안에만 두되, 종목별 원본 로그는 `wiki/news/tickers/` 아래에만 생성한다.
+4. 자동 수집 뉴스는 `wiki/news/` 안에만 두되, 종목별 원본 로그는 `wiki/news/tickers/`, 그날의 시그널은 `wiki/news/signals/YYYY-MM-DD.md` 로 생성한다.
 5. 뉴스에서 장기적으로 중요한 내용만 검증 후 `wiki/topics/`, `wiki/entities/`, `wiki/syntheses/`로 승격한다.
 
 ## 구조 검증
