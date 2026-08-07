@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-08-06
+updated: 2026-08-07
 domain: finance
 type: index
 weight: reference
@@ -151,16 +151,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [XOM](tickers/XOM - Exxon Mobil Corporation.md) | 2026-07-31 | 🟢 +0.19 | 오늘 2분기 실적 발표를 앞두고 유가 강세와 EPS 급증 전망에 주가가 올랐지만 고평가 우려도 남아있다 | 3 |
-| [CVX](tickers/CVX - Chevron Corporation.md) | 2026-07-31 | 🟢🟢 +0.21 | 오늘 2분기 실적 발표를 앞두고 유가 강세에 힘입어 15분기 만의 최고 실적이 기대된다 | 2 |
-| [COP](tickers/COP - ConocoPhillips.md) | 2026-07-31 | 🟢 +0.11 | 유가 반등에 주가가 강하게 오르며 8월 실적 발표를 앞두고 시장 관심이 높아졌다 | 4 |
-| [SHEL](tickers/SHEL - Shell plc.md) | 2026-07-31 | 🟢🟢 +0.30 | 2분기 실적이 컨센서스를 크게 상회하며 4년래 최고 실적을 냈고 대규모 자사주 매입도 재개했다 | 4 |
-| [OXY](tickers/OXY - Occidental Petroleum.md) | 2026-07-31 | 🟢🟢 +0.20 | 유가 반등과 벤치마크를 웃도는 실현유가 공시에 주가가 강하게 반응했다 | 3 |
-| [SLB](tickers/SLB - Schlumberger Limited.md) | 2026-07-31 | 🟢🟢 +0.35 | 2분기 실적이 컨센서스를 넘어서고 현금흐름이 흑자로 전환되며 여러 증권사가 목표주가를 올렸다 | 5 |
-| [FCX](tickers/FCX - Freeport-McMoRan.md) | 2026-07-31 | 🟢🟢 +0.34 | 그라스버그 광산 생산이 계획대로 회복되고 구리값까지 급등하며 2분기 순이익이 크게 늘었다 | 4 |
-| [NEM](tickers/NEM - Newmont Corporation.md) | 2026-07-31 | 🟢 +0.05 | 금값은 견조하지만 금리·달러 등 매크로 변수에 주가가 더 크게 흔들리는 하루였다 | 4 |
-| [LIN](tickers/LIN - Linde plc.md) | 2026-07-31 | 🟢 +0.10 | 오늘 실적 발표를 앞두고 배당을 유지했고 경쟁사의 좋은 실적이 우호적 신호를 줬다 | 6 |
-| [APD](tickers/APD - Air Products and Chemicals.md) | 2026-07-31 | 🟢 +0.14 | 이익과 수익성 지표는 예상을 웃돌았지만 매출은 소폭 못 미치는 엇갈린 실적을 냈다 | 4 |
+| [XOM](tickers/XOM - Exxon Mobil Corporation.md) | 2026-08-07 | 🔴 -0.07 | 매출과 생산량은 사상 최고였지만 비용 증가로 이익이 예상에 못 미쳐 경쟁사 대비 부진했다 | 3 |
+| [CVX](tickers/CVX - Chevron Corporation.md) | 2026-08-07 | 🟢 +0.19 | 6년 만에 최고 분기 이익을 내며 예상을 크게 웃돌아 목표주가가 잇달아 상향됐다 | 2 |
+| [COP](tickers/COP - ConocoPhillips.md) | 2026-08-07 | 🟢 +0.18 | 이익이 예상을 13% 넘게 웃돌며 그동안의 불확실성을 실적으로 상당 부분 해소했다 | 3 |
+| [SHEL](tickers/SHEL - Shell plc.md) | 2026-08-07 | 🟢 +0.13 | 유가 급등이라는 우호적 환경 속에 유럽 재생에너지 사업을 매각하며 핵심 사업에 집중하는 모습을 보였다 | 5 |
+| [OXY](tickers/OXY - Occidental Petroleum.md) | 2026-08-07 | 🟢🟢 +0.24 | 2022년 이후 최고 분기 실적을 내며 부채 상환 목표에 다가서 자사주매입 확대 가능성이 커졌다 | 2 |
+| [SLB](tickers/SLB - Schlumberger Limited.md) | 2026-08-07 | 🟢 +0.19 | 업황 개선 기대에 주가가 하루 5% 넘게 올랐고 디지털 사업 수익성도 개선됐다 | 6 |
+| [FCX](tickers/FCX - Freeport-McMoRan.md) | 2026-08-07 | 🟢 +0.10 | 구리 가격이 사상 최고치를 기록하며 우호적인 환경이 이어졌지만 이미 주가에 상당 부분 반영됐다는 지적도 있다 | 5 |
+| [NEM](tickers/NEM - Newmont Corporation.md) | 2026-08-07 | 🟢 +0.14 | 금리 인하 기대에 금값이 오르며 주가가 하루 만에 7% 가까이 급등했다 | 5 |
+| [LIN](tickers/LIN - Linde plc.md) | 2026-08-07 | ⚪ +0.03 | 매출과 이익은 사상 최고였지만 원가 상승으로 수익성이 떨어지며 주가는 급락했다 | 4 |
+| [APD](tickers/APD - Air Products and Chemicals.md) | 2026-08-07 | ⚪ +0.02 | 이미 알려진 일회성 손실이 공시로 재확인됐지만 조정 실적은 견조해 목표주가는 오히려 올랐다 | 5 |
 
 ### 금융
 
@@ -245,31 +245,31 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [NEE](tickers/NEE - NextEra Energy.md) | 2026-07-31 | 🟢 +0.15 | 분기배당 선언 뒤 목표주가가 잇달아 상향됐고, 도미니언 합병은 2027년 말 완료 목표로 순항 중이다 | 4 |
-| [SO](tickers/SO - The Southern Company.md) | 2026-07-31 | 🟢 +0.15 | 2분기 실적이 예상을 크게 웃돌아 연간 이익 전망을 상단으로 올렸다 | 4 |
-| [DUK](tickers/DUK - Duke Energy Corporation.md) | 2026-07-31 | 🟢 +0.10 | 캐롤라이나에 대형 신규 가스발전 프로젝트를 제안했고, 폭풍으로 인한 정전을 복구했다 | 6 |
-| [AEP](tickers/AEP - American Electric Power.md) | 2026-07-31 | 🟢 +0.12 | 2분기 EPS는 예상을 밑돌았지만 가이던스를 상향했고, 2030년까지 계약부하를 69GW로 늘리기로 했다 | 4 |
-| [EXC](tickers/EXC - Exelon Corporation.md) | 2026-07-31 | 🔴 -0.13 | 2분기 EPS가 예상을 밑돌면서 주가가 4.5% 급락했지만 연간 가이던스는 그대로 유지했다 | 4 |
-| [CEG](tickers/CEG - Constellation Energy.md) | 2026-07-31 | 🟢 +0.08 | PJM이 데이터센터 부하감축·예비 용량경매를 제안하며 기존 발전설비 보유자에게 유리한 구조가 재확인됐다 | 5 |
-| [VST](tickers/VST - Vistra Corp.md) | 2026-07-31 | ⚪ -0.02 | 분기배당은 정상 유지됐지만 밸류에이션 부담으로 주가는 하락했고, PJM 새 규칙은 장기적으로 우호적이다 | 6 |
-| [SRE](tickers/SRE - Sempra.md) | 2026-07-31 | 🔴 -0.11 | ECA LNG 터미널에서 압축기 손상이 발견돼 상업완공 목표가 4분기로 밀렸다 | 5 |
-| [ED](tickers/ED - Consolidated Edison.md) | 2026-07-31 | 🔴 -0.08 | 뉴욕을 다시 덮친 폭염으로 절전 요청과 일부 지역 정전이 발생했다 | 4 |
-| [D](tickers/D - Dominion Energy.md) | 2026-07-31 | ⚪ -0.04 | 2분기 실적 발표 당일, NextEra와의 합병은 순항 중이나 버지니아 SCC 첫 공청회가 11월로 확정됐다 | 4 |
+| [NEE](tickers/NEE - NextEra Energy.md) | 2026-08-07 | 🟢 +0.10 | 대형 AI 데이터센터 건설 계약을 새로 따내 성장축을 넓혔지만 대형 합병은 여전히 속도조절 압박을 받고 있다 | 5 |
+| [SO](tickers/SO - The Southern Company.md) | 2026-08-07 | 🟢 +0.14 | 오픈AI를 포함한 대형 전력 계약으로 수요를 확보했고 이를 위한 자본조달도 진행했다 | 5 |
+| [DUK](tickers/DUK - Duke Energy Corporation.md) | 2026-08-07 | 🟢 +0.12 | 실적이 예상을 웃돌고 데이터센터發 투자 확대 가능성을 밝혔지만 요금 규제 압박은 여전하다 | 8 |
+| [AEP](tickers/AEP - American Electric Power.md) | 2026-08-07 | 🟢 +0.12 | 발전설비 확충을 구체화했고 증권사 목표주가도 올랐다 | 5 |
+| [EXC](tickers/EXC - Exelon Corporation.md) | 2026-08-07 | 🔴 -0.10 | 데이터센터 수요 파이프라인이 크게 줄었다는 소식에 경쟁사들과 대비되는 흐름을 보였다 | 5 |
+| [CEG](tickers/CEG - Constellation Energy.md) | 2026-08-07 | 🟢🟢 +0.27 | 실적과 가이던스가 모두 좋았고 월마트 등과의 대형 원자력 공급계약까지 더해져 강한 순풍이 불었다 | 6 |
+| [VST](tickers/VST - Vistra Corp.md) | 2026-08-07 | ⚪ +0.04 | 오늘 실적 발표를 앞두고 증권사 전망이 엇갈리며 방향성이 뚜렷하지 않다 | 8 |
+| [SRE](tickers/SRE - Sempra.md) | 2026-08-07 | 🟢 +0.10 | 실적은 예상을 웃돌았지만 LNG 터미널 설비 손상으로 완공 일정이 늦춰지는 문제는 남아있다 | 6 |
+| [ED](tickers/ED - Consolidated Edison.md) | 2026-08-07 | 🟢 +0.08 | 실적이 개선되고 배당도 52년 연속 늘렸지만 뚜렷한 성장 스토리는 아직 부족하다 | 4 |
+| [D](tickers/D - Dominion Energy.md) | 2026-08-07 | ⚪ +0.02 | 합병 심사 일정이 잡혔지만 정치권 반대와 해상풍력 지연 소식이 동시에 나오며 신호가 엇갈렸다 | 5 |
 
 ### 전력 인프라 (AI)
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [GEV](tickers/GEV - GE Vernova Inc.md) | 2026-07-31 | 🟢 +0.19 | 펜실베이니아 그리드 설비 공장 증설을 발표했고 AI 데이터센터 수요 기대에 주가가 하루 7.5% 올랐다 | 1 |
-| [ETN](tickers/ETN - Eaton Corporation plc.md) | 2026-07-31 | ⚪ +0.03 | 오늘 2분기 실적을 발표하는데, 발표 전 밸류에이션 부담으로 주가만 먼저 조정받았다 (실제 결과는 다음 갱신에서 반영) | 0 |
-| [VRT](tickers/VRT - Vertiv Holdings Co.md) | 2026-07-31 | 🔴 -0.13 | 2분기 이익은 예상치를 넘었지만 매출이 부진해 주가가 9%대 급락했다 | 1 |
-| [PWR](tickers/PWR - Quanta Services, Inc.md) | 2026-07-31 | 🟢🟢 +0.37 | 2분기 매출과 이익이 컨센서스를 크게 웃돌며 수주잔고도 534억달러로 사상 최대를 기록했다 | 0 |
-| [BE](tickers/BE - Bloom Energy Corporation.md) | 2026-07-31 | 🟢🟢 +0.43 | 2분기 매출이 165% 급증하는 실적 서프라이즈를 내며 주가가 하루 만에 29% 가까이 뛰었다 | 1 |
-| [OKLO](tickers/OKLO - Oklo Inc.md) | 2026-07-31 | 🟢 +0.18 | 경쟁사의 원전 부지 재활용 승인 소식에 소형원자로(SMR) 관련주 전체가 동반 급등했다 | 1 |
-| [034020.KS](tickers/034020.KS - Doosan Enerbility.md) | 2026-07-31 | ⚪ -0.04 | 미국 원전 수주 이연 우려로 목표주가가 낮아졌지만 매수의견과 SMR·가스터빈 모멘텀은 유지됐다 | 1 |
-| [267260.KS](tickers/267260.KS - HD Hyundai Electric.md) | 2026-07-31 | 🟢🟢 +0.24 | 2분기 영업이익이 37% 늘었고 빅테크와의 추가 대형 공급계약도 협의 중이다 | 1 |
-| [298040.KS](tickers/298040.KS - Hyosung Heavy Industries.md) | 2026-07-31 | 🟢🟢 +0.32 | 2분기 영업이익이 97% 급증하며 분기 기준 역대 최대 실적을 기록했다 | 0 |
-| [010120.KS](tickers/010120.KS - LS ELECTRIC.md) | 2026-07-31 | 🟢🟢 +0.29 | 2분기 영업이익이 64% 늘어난 사상 최대 실적을 냈다 | 1 |
+| [GEV](tickers/GEV - GE Vernova Inc.md) | 2026-08-07 | 🟢 +0.16 | 해외에서 신규 수주를 이어갔지만 한 달간 주가는 밸류에이션 부담으로 조정을 받았다 | 2 |
+| [ETN](tickers/ETN - Eaton Corporation plc.md) | 2026-08-07 | 🟢 +0.18 | 사상 최대 분기 실적을 내며 데이터센터向 전력관리 수요를 입증했고 목표주가가 줄줄이 올랐다 | 1 |
+| [VRT](tickers/VRT - Vertiv Holdings Co.md) | 2026-08-07 | 🟢 +0.09 | 실적 발표 후 급락했던 주가가 최근 며칠 사이 상당 부분 반등했다 | 2 |
+| [PWR](tickers/PWR - Quanta Services, Inc.md) | 2026-08-07 | 🟢 +0.14 | 회사채 발행으로 확장 자금을 조달했고 실적 호조를 반영해 목표주가도 추가로 올랐다 | 1 |
+| [BE](tickers/BE - Bloom Energy Corporation.md) | 2026-08-07 | 🟢 +0.07 | 매출 10억달러를 처음 넘어선 실적에 주가 랠리가 이어졌지만 공급망 공시 관련 소송 리스크가 새로 불거졌다 | 2 |
+| [OKLO](tickers/OKLO - Oklo Inc.md) | 2026-08-07 | 🟢🟢 +0.21 | 시험용 원자로가 임계 도달에 성공하며 오래된 목표를 실제로 달성해 냈다 | 1 |
+| [034020.KS](tickers/034020.KS - Doosan Enerbility.md) | 2026-08-07 | 🟢🟢 +0.24 | 실적 호조에 정부의 소형원자로 지원 정책까지 겹치며 주가 강세가 이어지고 있다 | 1 |
+| [267260.KS](tickers/267260.KS - HD Hyundai Electric.md) | 2026-08-07 | ⚪ +0.04 | 개별 뉴스는 없었지만 정부의 전력망 확충 정책과 경쟁사 호실적이 우호적 배경이 되고 있다 | 2 |
+| [298040.KS](tickers/298040.KS - Hyosung Heavy Industries.md) | 2026-08-07 | ⚪ +0.04 | 개별 뉴스는 없었지만 정부의 전력망 확충 정책과 경쟁사 호실적이 우호적 배경이 되고 있다 | 1 |
+| [010120.KS](tickers/010120.KS - LS ELECTRIC.md) | 2026-08-07 | ⚪ +0.04 | 개별 뉴스는 없었지만 정부의 전력망 확충 정책과 경쟁사 호실적이 우호적 배경이 되고 있다 | 2 |
 
 ### 조선 (한국)
 
