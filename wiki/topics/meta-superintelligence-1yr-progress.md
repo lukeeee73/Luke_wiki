@@ -137,6 +137,4 @@ SemiAnalysis가 2026-07-09 발행한 "The Future of Meta Superintelligence: A 1 
 
 **도메인**: [Finance](../domains/finance.md) · [AI](../domains/ai.md)
 
-**Watchlist 뉴스 (루틴, `confidence: low`)**: [META](../news/tickers/META%20-%20Meta%20Platforms%20Inc.md)
-
 **원본**: [sources/semianalysis-meta-superintelligence-1yr-progress.md](../../sources/semianalysis-meta-superintelligence-1yr-progress.md)

@@ -147,15 +147,9 @@ sources: []
 ## Meta — Vault 운영
 
 - [Inbox](../inbox/README.md) — 아직 분류하지 않은 임시 메모 처리 규칙
-- [News Routine Guide](news/README.md) — 자동 뉴스 수집 격리 규칙
-- [Watchlist News Dashboard](news/_dashboard.md) — watchlist 전 종목 최신 narrative_score / 핵심 한 줄
+- [Wiki Log](log.md) — 월별 작업 이력 색인
 
----
-
-## News — 루틴 자동 수집 (`type: claim`, `confidence: low`)
-
-`indicator_dashboard` 의 `daily-market-analysis` 루틴이 매일 누적하는 watchlist 종목 뉴스 로그. **사람-작성 영역과 분리된 별도 폴더**이며, 모든 항목은 `tags: [routine-news, ...]` 로 식별된다. 검증된 사실은 `topics/` 로 promote 가능. 자세한 규칙: [news/README.md](news/README.md).
-
-- [Watchlist News Dashboard](news/_dashboard.md) — watchlist 전 종목 최신 narrative_score / 핵심 한 줄 (섹터별, 요일별 라운드로빈)
-- 개별 종목 로그는 `wiki/news/{TICKER} - {COMPANY}.md` 형식을 따른다. 예: [010140.KS - Samsung Heavy Industries](news/010140.KS%20-%20Samsung%20Heavy%20Industries.md).
-- 뉴스에서 장기 보존 가치가 확인된 항목은 `_templates/news-promotion.md` 를 사용해 `topics/`, `entities/`, `syntheses/` 중 하나로 승격한다.
+> [!info] 자동 뉴스 수집은 이 인덱스에 없다 (2026-08-07 분리)
+> `wiki/` 는 **내가 쓴 것만** 담는다. 루틴이 수집한 뉴스는 최상위 `routine-news/` 로 완전히 빠졌다.
+> 이 인덱스는 그쪽을 **링크하지 않는다** — 링크는 `routine-news/` → `wiki/` 한 방향으로만 흐른다.
+> 규칙은 저장소의 `routine-news/README.md` 에 있다 (옵시디언 검색에서는 제외되어 있으니 파일 탐색기로 연다).

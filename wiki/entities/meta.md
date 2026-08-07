@@ -59,4 +59,3 @@ aliases: [Meta, Meta Platforms, Meta Superintelligence Labs, MSL, 메타 플랫�
 - [AI 데이터센터 전력 인프라 종합](../syntheses/ai-datacenter-power-infrastructure.md) — 타이탄 클러스터의 전력 조달 맥락
 - [반도체·AI 칩 가치사슬 종합](../syntheses/semiconductor-ai-chip-value-chain.md) — 메타를 포함한 하이퍼스케일러의 컴퓨트 수요 구조
 - [엔비디아](nvidia.md) · [OpenAI](openai.md) · [Google DeepMind](google-deepmind.md)
-- Watchlist 뉴스 로그 (루틴, `confidence: low`): [META](../news/tickers/META%20-%20Meta%20Platforms%20Inc.md)

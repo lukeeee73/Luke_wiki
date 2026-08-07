@@ -21,41 +21,67 @@ Luke_wiki/
 │   └── ...                # 논문, 기사, 강의, 코드, 웹 클리핑 등 원본 파일
 ├── _templates/            # Obsidian Templates 플러그인용 노트 템플릿
 ├── scripts/               # vault 구조 검증/보조 스크립트
-└── wiki/                  # Wiki Layer - 정제된 마크다운 지식
-    ├── index.md           # 전체 위키 페이지 카탈로그
-    ├── log.md             # 작업 이력 색인 (본문 없음 — 월별 파일로 링크만)
-    ├── logs/              # 월별 작업 이력 (logs/YYYY-MM.md)
-    ├── principles/        # 핵심 원칙 페이지 (최상위 가중치)
-    ├── domains/           # 도메인별 진입점 인덱스
-    ├── concepts/          # 설명적 개념/프레임워크 페이지
-    ├── entities/          # 엔티티 페이지 (인물, 조직, 도구 등)
-    ├── topics/            # 주제별 요약 페이지
-    ├── comparisons/       # 비교 분석 페이지
-    ├── syntheses/         # 종합 분석 / 내 판단 페이지
-    └── news/              # 루틴 자동 수집 — watchlist 종목 뉴스 누적 (격리 영역)
+├── wiki/                  # Wiki Layer - 사람이 쓴 정제된 지식 (여기까지가 "내가 쓴 것")
+│   ├── index.md           # 전체 위키 페이지 카탈로그
+│   ├── log.md             # 작업 이력 색인 (본문 없음 — 월별 파일로 링크만)
+│   ├── logs/              # 월별 작업 이력 (logs/YYYY-MM.md)
+│   ├── principles/        # 핵심 원칙 페이지 (최상위 가중치)
+│   ├── domains/           # 도메인별 진입점 인덱스
+│   ├── concepts/          # 설명적 개념/프레임워크 페이지
+│   ├── entities/          # 엔티티 페이지 (인물, 조직, 도구 등)
+│   ├── topics/            # 주제별 요약 페이지
+│   ├── comparisons/       # 비교 분석 페이지
+│   └── syntheses/         # 종합 분석 / 내 판단 페이지
+└── routine-news/          # Routine Layer - 자동 뉴스 수집 전용 (사람은 promote/검증만)
+    ├── tickers/           # watchlist 종목별 뉴스 로그
+    ├── markets/           # 시장지도 노드별 종합 ({map_id}/{market_id}.md)
+    └── signals/           # 날짜별 시그널 (YYYY-MM-DD.md)
 ```
 
-### Capture → Source → Wiki → Routine 구조
+### Capture → Source → Wiki 구조 + 격리된 Routine
 
 - **Capture Layer** (`inbox/`): 모바일/데스크톱에서 급히 적은 생각을 임시로 둔다. 장기 보존 금지. 일주일 안에 삭제·병합·승격한다.
 - **Raw Sources Layer** (`sources/`): 원문 보존 레이어. 가능하면 내용과 메타데이터를 그대로 보존하고, 해석은 `wiki/`에서 한다.
 - **Wiki Layer** (`wiki/`): 공부한 것을 장기 저장하는 정제 레이어. 모든 페이지는 frontmatter와 인식론 callout을 갖는다.
-- **Routine Layer** (`wiki/news/`): 자동 뉴스 수집이 쓰는 격리 레이어. `wiki/` 안에 있지만 사람-작성 지식과 섞지 않는다. 종목별 로그(`tickers/`), 시장지도 노드별 종합(`markets/{map_id}/{market_id}.md`), 날짜별 시그널(`signals/YYYY-MM-DD.md`) 세 하위 레이어로 구성된다.
+- **Routine Layer** (`routine-news/`): 자동 뉴스 수집이 쓰는 **격리 레이어. `wiki/` 밖에 있다.** 종목별 로그(`tickers/`), 시장지도 노드별 종합(`markets/{map_id}/{market_id}.md`), 날짜별 시그널(`signals/YYYY-MM-DD.md`) 세 하위 레이어로 구성된다.
+
+> [!important] 🚧 사람-작성 / 루틴-수집 완전 분리 (2026-08-07)
+> **`wiki/` 는 내가 쓴 것만 담는다. 루틴 산출물은 `wiki/` 아래 어디에도 쓰지 않는다.**
+>
+> 예전에는 루틴 뉴스가 `wiki/news/` 에 살았다. 그 결과 `wiki/` 안 마크다운 320개 중 249개(78%)가
+> 루틴 산출물이고 사람이 쓴 건 71개뿐이라, 옵시디언 검색·그래프·태그 창이 검증되지 않은
+> `confidence: low` 자동 수집물에 잠식됐다. 그래서 최상위 `routine-news/` 로 완전히 분리했다.
+>
+> | | 사람-작성 | 루틴-수집 |
+> |---|---|---|
+> | 위치 | `wiki/` · `inbox/` · `sources/` · `_templates/` | `routine-news/` **만** |
+> | 쓰는 주체 | 사람, ingest 작업 | `indicator_dashboard` 의 daily / market-research 루틴 |
+> | confidence | `high` \| `medium` 위주 | 항상 `low` |
+> | 옵시디언 | 검색·그래프에 노출 | `userIgnoreFilters` 로 제외 |
+>
+> **링크는 한 방향으로만 흐른다** — `routine-news/` → `wiki/` 는 허용(맥락 참조),
+> `wiki/` → `routine-news/` 는 **금지**. 사람이 쓴 판단이 검증되지 않은 자료에 매달리면 안 되고,
+> 루틴이 파일을 지우거나 이름을 바꿀 때 링크가 조용히 깨지기 때문이다. 뉴스를 근거로 쓰려면
+> promote 절차를 거쳐 **원 출처 URL** 을 사람-작성 페이지의 `sources:` 에 직접 박는다.
+>
+> 이 경계는 `python scripts/validate_vault.py` 가 강제한다 — `wiki/news/` 재생성,
+> 사람-작성 영역의 `routine-news` 태그, `wiki/` → `routine-news/` 링크를 전부 잡아낸다.
+> 루틴 쪽에서 고쳐야 할 경로는 `routine-news/README.md` 의 [연동 저장소가 고쳐야 할 것] 참고.
 
 > [!important] 파일 단위 = 동시 편집 경계
 > 루틴과 사람이 **같은 파일을 같은 날 고치면 git 머지 충돌**이 나고, 그 충돌은 옵시디언 노트 본문에
 > 충돌 마커로 박히거나 내용이 뒤섞인 채 저장된다. 그래서 매일 갱신되는 산출물은 **하루 한 파일**로 쪼갠다:
-> 시그널은 `news/signals/YYYY-MM-DD.md`, 작업 이력은 `logs/YYYY-MM.md`.
+> 시그널은 `routine-news/signals/YYYY-MM-DD.md`, 작업 이력은 `wiki/logs/YYYY-MM.md`.
 > `_dashboard.md` 와 `log.md` 는 **본문을 담지 않는 색인**이다 — 여기에 날짜별 내용을 덧붙이지 않는다.
 
 ### 사람-작성 영역 vs 루틴-수집 영역
 
-`wiki/` 하위 폴더는 두 부류로 나뉜다:
+경계는 **최상위 폴더 하나**다 — `routine-news/` 안이면 루틴, 밖이면 사람.
 
-- **사람-작성 영역** (`principles/`, `concepts/`, `topics/`, `comparisons/`, `syntheses/`, `entities/`, `domains/`): 사용자가 직접 또는 ingest 작업을 통해 출처에서 정제한 콘텐츠. `confidence: high|medium` 가 많다.
-- **루틴-수집 영역** (`news/`): `indicator_dashboard` 의 루틴들이 자동으로 누적하는 영역. `tickers/` 는 `daily-market-analysis` 루틴의 watchlist 종목 뉴스 로그, `markets/` 는 시장지도 노드별 종합 페이지(daily 루틴이 기업 동향을, `market-research` 루틴이 시장 구조·병목·뉴스를 갱신)다. `signals/` 는 그날 감지한 시그널을 하루 한 파일로 쌓는다. 모든 신규 항목은 `type: claim`, `confidence: low`, `tags: [routine-news, ...]` 로 들어와 사람-작성 영역과 명확히 구분된다. 자세한 규칙은 [wiki/news/README.md](wiki/news/README.md) 와 [wiki/news/markets/README.md](wiki/news/markets/README.md). **신규 항목의 글쓰기 형식은 [wiki/news/FORMAT.md](wiki/news/FORMAT.md) (투자 브리핑 v2, 2026-07-07~)** — 쉬운 한국어, "무슨 일→왜 중요→주가에 의미" 3단 구조, 신호등(🟢⚪🔴) 표기, 용어는 [wiki/news/glossary.md](wiki/news/glossary.md) 괄호 풀이. 2026-07-06 이전 항목은 옛 형식 그대로 보존(재작성 금지). 루틴 산출물을 최상위 `news/` 또는 루트 노트로 만들지 않는다.
+- **사람-작성 영역** (`wiki/` 전체 + `inbox/` + `sources/` + `_templates/`): 사용자가 직접 또는 ingest 작업을 통해 출처에서 정제한 콘텐츠. `confidence: high|medium` 가 많다. **루틴은 여기에 절대 쓰지 않는다.**
+- **루틴-수집 영역** (`routine-news/`): `indicator_dashboard` 의 루틴들이 자동으로 누적하는 영역. `tickers/` 는 `daily-market-analysis` 루틴의 watchlist 종목 뉴스 로그, `markets/` 는 시장지도 노드별 종합 페이지(daily 루틴이 기업 동향을, `market-research` 루틴이 시장 구조·병목·뉴스를 갱신)다. `signals/` 는 그날 감지한 시그널을 하루 한 파일로 쌓는다. 모든 신규 항목은 `type: claim`, `confidence: low`, `tags: [routine-news, ...]` 로 들어와 사람-작성 영역과 명확히 구분된다. 자세한 규칙은 `routine-news/README.md` 와 `routine-news/markets/README.md`. **신규 항목의 글쓰기 형식은 `routine-news/FORMAT.md` (투자 브리핑 v2, 2026-07-07~)** — 쉬운 한국어, "무슨 일→왜 중요→주가에 의미" 3단 구조, 신호등(🟢⚪🔴) 표기, 용어는 `routine-news/glossary.md` 괄호 풀이. 2026-07-06 이전 항목은 옛 형식 그대로 보존(재작성 금지).
 
-루틴이 만든 항목은 사람의 확인 후 `wiki/topics/` 등으로 승격될 수 있지만, 그 전까지는 항상 `news/` 안에서만 살아있다.
+루틴이 만든 항목은 사람의 확인 후 `wiki/topics/` 등으로 승격될 수 있지만, 그 전까지는 항상 `routine-news/` 안에서만 살아있다. 루틴 산출물을 `wiki/news/`, 최상위 `news/`, 또는 루트 노트로 만들지 않는다.
 
 ### 폴더 배치 기준
 
@@ -66,8 +92,8 @@ Luke_wiki/
 | `syntheses/` | 내가 원칙+사실+의견을 종합해 내린 **나 자신의 판단** |
 | `topics/` | 특정 주제에 대한 요약. 출처 기반, 내 판단보다는 정리 |
 | `domains/` | 도메인별 진입점. 직접적 지식 내용 없이 링크만 모음 |
-| `news/` | 루틴이 자동 수집하는 watchlist 종목 뉴스 로그(`tickers/`), 시장 노드 종합(`markets/`), 날짜별 시그널(`signals/`). **루틴 전용 격리 영역** — 사람은 promote/검증만 한다 |
 | `logs/` | 월별 작업 이력(`logs/YYYY-MM.md`). 새 항목은 해당 월 파일 맨 위에 추가 |
+| `routine-news/` (wiki 밖) | 루틴이 자동 수집하는 watchlist 종목 뉴스 로그(`tickers/`), 시장 노드 종합(`markets/`), 날짜별 시그널(`signals/`). **루틴 전용 격리 영역** — 사람은 promote/검증만 한다 |
 
 ### 공부 노트 저장 흐름
 
@@ -79,7 +105,7 @@ Luke_wiki/
    - 의사결정 기준: `wiki/principles/`
    - 사람·회사·도구: `wiki/entities/`
    - 내 결론과 실행 판단: `wiki/syntheses/`
-4. 자동 뉴스에서 중요한 사실이 발견되면 `wiki/news/` 를 직접 링크한 뒤, 검증 출처를 붙여 `topics/`·`entities/`·`syntheses/` 로 승격한다.
+4. 자동 뉴스에서 중요한 사실이 발견되면 `routine-news/` 파일을 **링크하지 말고**, 그 뉴스의 원 출처(Tier-1/IR URL)를 검증해 새 `topics/`·`entities/`·`syntheses/` 페이지의 `sources:` 에 직접 박는다.
 5. 구조 변경 후에는 `python scripts/validate_vault.py` 로 루틴 뉴스 격리와 frontmatter 누락을 확인한다.
 
 ## 도메인 정의
@@ -224,15 +250,16 @@ callout 우선순위 (적용 기준):
 - **인용 callout 없이 외부 주장이 본문에 포함된 페이지** 식별
 - **도메인 인덱스와 실제 파일 목록의 불일치** 확인
 
-## Promotion: news/ → topics/ (사람의 작업)
+## Promotion: routine-news/ → wiki/ (사람의 작업)
 
-루틴이 누적한 `news/tickers/{TICKER} - {COMPANY}.md` 또는 `news/markets/{map_id}/{market_id}.md` 의 **[사실 누적]** 섹션 항목이 의미 있게 굳어지면, 사람이 다음 절차로 사람-작성 영역에 승격(promote)할 수 있다:
+루틴이 누적한 `routine-news/tickers/{TICKER} - {COMPANY}.md` 또는 `routine-news/markets/{map_id}/{market_id}.md` 의 **[사실 누적]** 섹션 항목이 의미 있게 굳어지면, 사람이 다음 절차로 사람-작성 영역에 승격(promote)할 수 있다:
 
-1. `news/{TICKER}.md` 의 해당 `[!fact]` 블록 선택
+1. `routine-news/tickers/{TICKER} - {COMPANY}.md` 의 해당 `[!fact]` 블록 선택
 2. 새 페이지 `wiki/topics/{slug}.md` 생성 — frontmatter 의 `confidence` 는 `medium` 이상, `tags` 에서 `routine-news` 를 빼고 정상 태그로
-3. `sources:` 에 해당 뉴스의 URL 들을 명시
-4. `news/{TICKER}.md` 에서는 그 항목 옆에 `→ wiki/topics/{slug}.md 로 승격됨 (YYYY-MM-DD)` 노트만 남기고 본문은 유지
+3. `sources:` 에 **원 기사·IR 의 URL 을 직접** 명시한다. 뉴스 로그 파일 경로를 쓰지 않는다 — 승격의 목적은 검증된 출처에 다시 연결하는 것이고, `wiki/` → `routine-news/` 링크는 금지되어 있다
+4. `routine-news/` 쪽에는 그 항목 옆에 `→ wiki/topics/{slug}.md 로 승격됨 (YYYY-MM-DD)` 노트만 남기고 본문은 유지 (루틴 → 사람 방향이므로 링크 허용)
 5. `wiki/index.md` 와 `wiki/domains/finance.md` 에 새 페이지 링크 추가
 6. `wiki/logs/YYYY-MM.md` 에 `[PROMOTE]` 항목 기록
+7. `python scripts/validate_vault.py` 로 경계가 깨지지 않았는지 확인
 
 루틴은 이 promotion 노트를 인식하고 더 이상 같은 사실을 [사실 누적] 에 중복으로 쌓지 않는다.

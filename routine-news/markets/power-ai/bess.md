@@ -1,0 +1,75 @@
+---
+title: "배터리 ESS (그리드·DC) — 시장 종합"
+created: 2026-07-06
+updated: 2026-07-18
+domain: finance
+type: claim
+weight: reference
+confidence: low
+tags: [routine-news, market-summary, power-ai, bess]
+map: power-ai
+market_id: bess
+sources: ["https://www.orrick.com/en/Insights/2026/04/Energy-Storage-Update-2026-Data-Centers-Revenue-Opportunities-OBBBA-and-Tariffs", "https://www.utilitydive.com/news/us-sees-record-q1-2026-energy-storage-installations-amid-rosy-outlook/823547/"]
+---
+
+# 배터리 ESS (그리드·DC) — 시장 종합
+
+**Battery Energy Storage Systems** · ⑤ 발전·전력 장비 · 규모 美 ’25 설치 18GW+ · 1Q26 분기 사상최대 · 성장 연 +30%대 성장 지속
+
+> [!info] 자동 종합 노트
+> 이 파일은 시장지도 노드 `bess` 의 종합 페이지다. `indicator_dashboard` 루틴이 관리한다 —
+> **daily-market-analysis** 루틴이 담당 요일(금 — 유틸리티/전력 · 전력 인프라(AI) 그룹)에 [소속 기업 동향]을,
+> **market-research** 루틴이 주 1회 [시장 정의]·[병목 상태]·[시장 상황 종합]·[시장 뉴스 로그]를 갱신한다.
+> HTML 마커는 루틴의 앵커이므로 지우지 않는다. 사람은 굳어진 사실을 `wiki/topics/` 로 승격(promote)만 한다.
+
+## 시장 정의
+
+그리드·DC용 대용량 배터리 — 재생 간헐성 보정, DC 피크 셰이빙·백업.
+
+**수요 동인** — 태양광+ESS 하이브리드가 신규 용량의 91% — 계통 보조서비스와 DC 전력 품질 수요가 겹침.
+
+## 병목 상태 — 🟡 부상하는 병목 (`emerging`)
+
+> [!claim] (출처: 시장지도 as_of 2026-07)
+> 셀 공급 자체는 과잉(중국) — 진짜 병목은 정책: FEOC 규정이 중국산 조달을 제한해 비중국 셀(한국 3사) 프리미엄 형성. 관세·세액공제 개편이 프로젝트 경제성 변수.
+
+## 시장 상황 종합
+
+<!-- SYNTHESIS_START -->
+> [!claim] (as_of 2026-07 · market-research 루틴)
+> **지금 상황**: FEOC·301조 관세로 중국산 배터리 셀 실효세율이 약 60%까지 치솟으며(IRS Notice 2026-15, 2/12 발효) 비중국 셀 프리미엄이 정책적으로 고착. EQT의 Copia Power 인수($26억)도 발전+ESS 통합자산에 자금이 몰리는 사례.
+> **왜 중요**: 관세가 시장가격이 아니라 정책으로 비중국 공급사의 가격 우위를 만들어주는 구조다.
+> **투자자 관점**: 비중국(특히 한국) 배터리셀 공급사들이 정책적 보호막 안에서 프리미엄을 유지할 여지가 커졌다.
+<!-- SYNTHESIS_END -->
+
+## 소속 기업 동향
+
+<!-- PLAYERS_START -->
+| 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
+|---|---|---|---|---|
+| Tesla Energy | Megapack — 통합 ESS 1위권 | -0.21 (2026-07-01) | Q2 인도 컨센서스 ~40.6만대·미국 판매 -13%, BYD BEV 글로벌 1위 탈환 | [TSLA](../../tickers/TSLA - Tesla Inc.md) |
+| CATL | 셀 최대 공급 (FEOC 리스크) | watchlist 외 | — | `300750.SZ` |
+| Fluence | 그리드 ESS 통합 | watchlist 외 | — | `FLNC` |
+| LG에너지솔루션 | 비중국 셀 — 美 현지 생산 ESS 전환 | watchlist 외 | — | `373220.KS` |
+| 삼성SDI | 비중국 셀 — ESS 배터리(SBB) | watchlist 외 | — | `006400.KS` |
+<!-- PLAYERS_END -->
+
+## 시장 뉴스 로그 (최신순)
+
+<!-- MARKET_NEWS_START -->
+- **2026-02-12** ± **IRS, FEOC 세부지침 발표 — 중국산 배터리 실효관세 약 60%로** — 비중국 셀(K-배터리) 프리미엄이 정책적으로 고착 (Davis Graham) [↗](https://davisgraham.com/news-events/battery-storage-for-data-centers-in-2026-feoc-compliance-ferc-co-location-and-the-deals-getting-done-now/)
+- **2026-05** ＋ **美 1Q26 ESS 설치 분기 사상최대 — 전망도 상향** — FEOC 로 비중국 셀 프리미엄 — K-배터리 ESS 전환 가속 (Utility Dive) [↗](https://www.utilitydive.com/news/us-sees-record-q1-2026-energy-storage-installations-amid-rosy-outlook/823547/)
+<!-- MARKET_NEWS_END -->
+
+## 사실 누적 (Verified Facts)
+
+<!-- FACTS_START -->
+<!-- FACTS_END -->
+
+## 인접 시장 (지도 링크)
+
+- ⬅ 수요측 [재생에너지 + ESS](renewables-storage.md) — 간헐성 보정
+
+## 관련 위키
+
+- [AI 데이터센터 전력 인프라 — 내 판단](../../../wiki/syntheses/ai-datacenter-power-infrastructure.md)

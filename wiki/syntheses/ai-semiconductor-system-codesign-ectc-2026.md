@@ -50,7 +50,7 @@ SemiAnalysis의 ECTC 2026 분석을 바탕으로, AI 반도체 경쟁이 **GPU �
 EMIB-T의 의미는 브리지가 단순 배선이 아니라 **전력 전달망의 일부**가 된다는 점이다. 브리지 내부 커패시터는 전압 변동을 줄이는 역할을 할 수 있다.
 
 > [!judgment] Intel의 위치
-> [Intel](../news/tickers/INTC%20-%20Intel%20Corporation.md)은 새롭게 등장한 기술기업이라기보다, EMIB·Foveros 같은 기존 패키징 역량을 바탕으로 [TSMC](../entities/tsmc.md)의 CoWoS 생태계에 대한 대안을 제시하려는 기존 강자에 가깝다. 핵심 질문은 기술 시연보다 대형 고객·수율·양산 생태계를 확보할 수 있는지다.
+> Intel은 새롭게 등장한 기술기업이라기보다, EMIB·Foveros 같은 기존 패키징 역량을 바탕으로 [TSMC](../entities/tsmc.md)의 CoWoS 생태계에 대한 대안을 제시하려는 기존 강자에 가깝다. 핵심 질문은 기술 시연보다 대형 고객·수율·양산 생태계를 확보할 수 있는지다.
 
 ### 2.2 Custom HBM — 메모리가 능동 부품이 된다
 

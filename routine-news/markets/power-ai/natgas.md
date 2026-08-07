@@ -1,0 +1,76 @@
+---
+title: "천연가스 공급 · 미드스트림 — 시장 종합"
+created: 2026-07-06
+updated: 2026-07-18
+domain: finance
+type: claim
+weight: reference
+confidence: low
+tags: [routine-news, market-summary, power-ai, natgas]
+map: power-ai
+market_id: natgas
+sources: ["https://rextag.com/blogs/blog/natural-gas-fuels-the-ai-boom-williams-builds-the-backbone-for-data-centers", "https://www.enverus.com/blog/why-data-centers-are-looking-to-natural-gas-for-behind-the-meter-power/"]
+---
+
+# 천연가스 공급 · 미드스트림 — 시장 종합
+
+**Natural Gas Supply & Midstream** · ⑥ 연료·자원 · 규모 Williams 'power innovation' $5.1B · ET→CloudBurst ~1.2GW 직공급 · 성장 DC 향 직접 공급이 신사업으로
+
+> [!info] 자동 종합 노트
+> 이 파일은 시장지도 노드 `natgas` 의 종합 페이지다. `indicator_dashboard` 루틴이 관리한다 —
+> **daily-market-analysis** 루틴이 담당 요일(금 — 유틸리티/전력 · 전력 인프라(AI) 그룹)에 [소속 기업 동향]을,
+> **market-research** 루틴이 주 1회 [시장 정의]·[병목 상태]·[시장 상황 종합]·[시장 뉴스 로그]를 갱신한다.
+> HTML 마커는 루틴의 앵커이므로 지우지 않는다. 사람은 굳어진 사실을 `wiki/topics/` 로 승격(promote)만 한다.
+
+## 시장 정의
+
+BTM·신설 가스발전의 연료 — 셰일 생산(업스트림)과 파이프라인(미드스트림).
+
+**수요 동인** — BTM 가스발전 폭증 — 미드스트림이 '파이프+발전' 결합 상품으로 DC 에 직접 진출 (Williams Project Socrates 등).
+
+## 병목 상태 — 🟡 부상하는 병목 (`emerging`)
+
+> [!claim] (출처: 시장지도 as_of 2026-07)
+> 가스 자체는 풍부(셰일) — 병목은 지역 파이프라인 용량과 인허가. DC 밀집지(버지니아·오하이오·북동부) 신규 파이프가 관건. 가스 가격 변동성이 BTM LCOE 리스크.
+
+## 시장 상황 종합
+
+<!-- SYNTHESIS_START -->
+> [!claim] (as_of 2026-07 · market-research 루틴)
+> **지금 상황**: 헨리허브 가격이 LNG 수출 확대(Plaquemines·Golden Pass)와 DC 발전수요가 겹치며 구조적 상승 압력을 받는 중 — 신규 하단 $4.00~4.60/MMBtu 전망(모간스탠리 등). Williams는 사모펀드 $53.4억을 유치해 BTM 가스발전 6GW 파이프라인을 확장.
+> **왜 중요**: 저가 가스 시대가 끝난다는 신호는 BTM·그리드 양쪽의 가스발전 경제성 계산을 동시에 흔든다.
+> **투자자 관점**: 가스가격 상승은 발전사업자에게는 원가 부담이지만, 상류 생산·미드스트림 업체에게는 우호적인 방향이다.
+<!-- SYNTHESIS_END -->
+
+## 소속 기업 동향
+
+<!-- PLAYERS_START -->
+| 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
+|---|---|---|---|---|
+| Williams | Transco — DC 온사이트 발전 $5.1B 투자 | watchlist 외 | — | `WMB` |
+| Energy Transfer | 텍사스 — DC 가스 직공급 선구 | watchlist 외 | — | `ET` |
+| Kinder Morgan | 가스 파이프라인 최대급 | watchlist 외 | — | `KMI` |
+| EQT | 아팔라치아 최대 가스 생산 | watchlist 외 | — | `EQT` |
+<!-- PLAYERS_END -->
+
+## 시장 뉴스 로그 (최신순)
+
+<!-- MARKET_NEWS_START -->
+- **2026-06** － **헨리허브, LNG수출·DC수요 겹치며 구조적 상승압력 — 하단 $4대 전망** — 저가 가스 시대 종료 시그널 — BTM 경제성 변수로 부상 (Natural Gas Intel) [↗](https://naturalgasintel.com/news/soaring-demand-costlier-supply-seen-pushing-henry-hub-higher/)
+- **2026-07** ＋ **Williams, 사모펀드서 $53.4억 유치 — BTM 가스발전 6GW 파이프라인 확장** — Blackstone·Apollo·KKR 참여 — 미드스트림 발전 진출 자금 몰림 (PGJ) [↗](https://pgjonline.com/news/2026/july/williams-secures-534-billion-for-gas-fired-power-projects)
+- **2025-10** ＋ **Williams, 'power innovation' $5.1B — DC 온사이트 모듈러 가스발전** — Project Socrates ’26 하반기 완공 — 미드스트림의 발전사업 진출 (Rextag / Williams IR) [↗](https://rextag.com/blogs/blog/natural-gas-fuels-the-ai-boom-williams-builds-the-backbone-for-data-centers)
+<!-- MARKET_NEWS_END -->
+
+## 사실 누적 (Verified Facts)
+
+<!-- FACTS_START -->
+<!-- FACTS_END -->
+
+## 인접 시장 (지도 링크)
+
+- ⬅ 수요측 [가스 발전 (신설 CCGT·온사이트)](gas-power.md) — 연료 공급 계약
+- ⬅ 수요측 [연료전지 온사이트 발전](fuel-cells.md) — 개질용 가스
+
+## 관련 위키
+
+- [AI 데이터센터 전력 인프라 — 내 판단](../../../wiki/syntheses/ai-datacenter-power-infrastructure.md)

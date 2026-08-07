@@ -28,4 +28,3 @@ GE에서 분사한 전력·에너지 전문기업. 가스터빈 빅3 중 **미�
 
 - [AI 데이터센터 전력 인프라 종합](../syntheses/ai-datacenter-power-infrastructure.md) §2
 - 경쟁/대안: [두산에너빌리티](doosan-enerbility.md)(납기 추격자) · [Bloom Energy](bloom-energy.md)(연료전지)
-- Watchlist 뉴스: [GE - GE Aerospace](../news/tickers/GE%20-%20GE%20Aerospace.md) (`confidence: low`)
