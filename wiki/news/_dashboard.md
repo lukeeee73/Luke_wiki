@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-08-07
+updated: 2026-08-08
 domain: finance
 type: index
 weight: reference
@@ -166,16 +166,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [JPM](tickers/JPM - JPMorgan Chase and Co.md) | 2026-08-01 | 🟢 +0.11 | 신규 ETF 출시와 4대 은행 토큰화 예금 공동망 추진 등 사업을 확장했지만 다이먼 CEO는 시장 과열을 다시 경고했다 | 6 |
-| [BAC](tickers/BAC - Bank of America Corp.md) | 2026-08-01 | 🟢 +0.18 | 사이버보안업체 MDSec 인수와 배당 14% 인상을 동시에 발표했고 JP모건도 목표주가를 올리며 신뢰를 보탰다 | 5 |
-| [WFC](tickers/WFC - Wells Fargo and Company.md) | 2026-08-01 | ⚪ +0.03 | 이사회가 예고했던 배당 11% 인상을 공식 승인했지만 올해 주가 부진을 뒤집을 만한 새 소식은 아직 없다 | 5 |
-| [C](tickers/C - Citigroup Inc.md) | 2026-08-01 | ⚪ +0.02 | 무역금융 자동화 플랫폼을 새로 냈지만 AI 우려로 은행주 전반이 흔들리며 주가는 하루 3% 넘게 빠졌다 | 6 |
-| [GS](tickers/GS - The Goldman Sachs Group.md) | 2026-08-01 | 🟢 +0.06 | AI 우려로 주가가 하루 5% 가까이 급락했다가 다음날 딜메이킹 회복 기대로 4% 반등하는 변동장이었다 | 5 |
-| [MS](tickers/MS - Morgan Stanley.md) | 2026-08-01 | 🔴 -0.10 | 자산관리 핵심팀이 경쟁사로 이탈한 데다 AI 우려로 주가도 3.7% 빠지며 이틀 연속 악재가 겹쳤다 | 5 |
-| [V](tickers/V - Visa Inc.md) | 2026-08-01 | 🟢🟢 +0.27 | 비자가 분기 매출 14% 성장과 결제금액 4조달러 돌파를 발표해 목표주가가 줄줄이 올랐지만 대형은행들의 직불카드망 우회 시도는 여전한 리스크다 | 5 |
-| [MA](tickers/MA - Mastercard Incorporated.md) | 2026-08-01 | 🟢🟢 +0.27 | 2분기 매출·이익이 시장 예상을 크게 웃돌았고 AI 결제 등 신사업 성장에 힘입어 연간 전망도 상향됐다 | 5 |
-| [AXP](tickers/AXP - American Express Company.md) | 2026-08-01 | 🔴 -0.05 | 2분기 실적과 매출 전망은 예상보다 좋았지만 재투자 확대 계획에 주가가 급락한 후유증이 계속되며 이번 주는 눈에 띄는 새 소식 없이 조용했다 | 5 |
-| [BRK-B](tickers/BRK-B - Berkshire Hathaway.md) | 2026-08-01 | 🟢 +0.07 | 버크셔의 2분기 자사주매입이 크게 늘었다는 추정이 나왔지만 최대 보유종목 애플이 실적 부진으로 흔들려 8월 3일 실적 발표를 앞두고 관망세다 | 5 |
+| [JPM](tickers/JPM - JPMorgan Chase and Co.md) | 2026-08-08 | 🟢 +0.11 | 7500억달러 규모 주택금융 확대를 발표했고 다이먼 CEO는 AI 데이터센터 투자 붐을 낙관적으로 평가했다 | 5 |
+| [BAC](tickers/BAC - Bank of America Corp.md) | 2026-08-08 | 🔴 -0.09 | 통화감독청에 자금세탁방지 관련 벌금 가능성을 새로 공시했고 자체 지표로도 시장 과열을 경고해 신중한 분위기다 | 4 |
+| [WFC](tickers/WFC - Wells Fargo and Company.md) | 2026-08-08 | 🟢 +0.06 | 기업 고객용 국경간 결제에 토큰화 예금(블록체인 위 디지털 예금) 서비스를 새로 출시하며 디지털 결제 경쟁력을 키웠다 | 3 |
+| [C](tickers/C - Citigroup Inc.md) | 2026-08-08 | ⚪ +0.03 | 루미스세일즈와의 7000만달러 소송을 합의로 마무리한 것 외에는 특이사항 없이 조용한 하루였다 | 6 |
+| [GS](tickers/GS - The Goldman Sachs Group.md) | 2026-08-08 | 🟢 +0.05 | 8월 추천 종목 리스트에 AON 등을 새로 추가했지만 회사 고유의 대형 뉴스는 없었다 | 3 |
+| [MS](tickers/MS - Morgan Stanley.md) | 2026-08-08 | 🟢 +0.13 | 업계 최저 보수의 이더리움·솔라나 ETF를 새로 출시했고 UBS가 목표주가를 상향했다 | 5 |
+| [V](tickers/V - Visa Inc.md) | 2026-08-08 | 🟢 +0.10 | AI 사기탐지 업체 바이오캐치를 24억달러에 인수하는 동시에 인력 7%를 감축하는 구조조정도 함께 발표했다 | 5 |
+| [MA](tickers/MA - Mastercard Incorporated.md) | 2026-08-08 | 🟢 +0.16 | 스테이블코인 인프라 업체 BVNK 인수를 예정보다 일찍 마쳤고 피서브와 가맹점 서비스 협력도 넓혔다 | 5 |
+| [AXP](tickers/AXP - American Express Company.md) | 2026-08-08 | ⚪ -0.01 | 이렇다 할 자체 뉴스 없이 UBS가 목표주가를 소폭 낮췄고 경쟁사 캐피털원의 통합 작업만 진전됐다 | 5 |
+| [BRK-B](tickers/BRK-B - Berkshire Hathaway.md) | 2026-08-08 | 🟢 +0.05 | 2분기 실적 발표가 예정됐지만 확정 수치를 아직 신뢰할 수 있는 출처로 확인하지 못해 자사주매입 급증 추정만 사전 기대감을 키웠다 | 5 |
 
 ### 소비재
 
@@ -215,16 +215,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [AMT](tickers/AMT - American Tower Corporation.md) | 2026-08-01 | 🟢🟢 +0.29 | 2분기 실적과 가이던스를 모두 올렸지만 이자비용 부담으로 올해가 성장 저점이 될 전망이다 | 4 |
-| [CCI](tickers/CCI - Crown Castle Inc.md) | 2026-08-01 | ⚪ +0.04 | AFFO는 늘었지만 매출·순이익은 줄어드는 엇갈린 실적으로 방향성이 뚜렷하지 않은 상태다 | 4 |
-| [PLD](tickers/PLD - Prologis, Inc.md) | 2026-08-01 | 🟢🟢 +0.31 | 실적 가이던스를 크게 올렸고 SEGRO 인수 협상도 8/12 마감으로 넘어가며 순풍이 이어진다 | 4 |
-| [EQIX](tickers/EQIX - Equinix, Inc.md) | 2026-08-01 | 🟢🟢 +0.47 | 2분기 실적이 크게 예상을 넘었고 회사가 역사상 최대 폭으로 가이던스를 올리며 AI 수요를 입증했다 | 4 |
-| [DLR](tickers/DLR - Digital Realty Trust.md) | 2026-08-01 | 🟢🟢 +0.37 | 2분기 매출이 29% 급증하며 가이던스를 세 번째로 올렸고 대형 인수는 하반기 종결을 앞두고 있다 | 3 |
-| [O](tickers/O - Realty Income Corporation.md) | 2026-08-01 | 🟢 +0.12 | 데이터센터 사업 첫 진출과 673번째 월배당으로 순항 중이며, 8/5 실적 발표가 다음 시험대다 | 5 |
-| [SPG](tickers/SPG - Simon Property Group.md) | 2026-08-01 | 🟢 +0.10 | 목표주가 잇단 상향과 52주 신고가로 강세이나 8/10 실적 발표를 앞두고 관망세도 커지고 있다 | 5 |
-| [WELL](tickers/WELL - Welltower Inc.md) | 2026-08-01 | 🟢🟢 +0.30 | 2분기 실적이 25% 성장하고 가이던스도 또 올랐지만 주가는 나흘째 하락하며 밸류에이션 부담을 드러냈다 | 5 |
-| [PSA](tickers/PSA - Public Storage.md) | 2026-08-01 | 🟢 +0.06 | 동일점포 실적은 역성장했지만 NSA 합병 종결과 캐나다 진출로 몸집을 키우며 가이던스를 상향했다 | 5 |
-| [VICI](tickers/VICI - VICI Properties Inc.md) | 2026-08-01 | ⚪ -0.03 | 실질 수익은 늘었지만 회계상 순이익 미스와 52주 신저가로 주가는 여전히 부진하다 | 5 |
+| [AMT](tickers/AMT - American Tower Corporation.md) | 2026-08-08 | 🟢 +0.07 | 자체 악재는 없었지만 크라운캐슬발 타워 섹터 매도세에 동반 하락했고, 데이터센터 자회사 코어사이트의 성장세는 여전히 견조하다 | 5 |
+| [CCI](tickers/CCI - Crown Castle Inc.md) | 2026-08-08 | 🔴 -0.16 | 배당은 유지했지만 통신사 타워 임대 회복이 예상보다 늦어질 것이라는 우려로 주가가 하루 만에 9.8% 급락하며 52주 신저가를 찍었다 | 5 |
+| [PLD](tickers/PLD - Prologis, Inc.md) | 2026-08-08 | ⚪ +0.02 | SEGRO 인수를 공식 발표한 호재와 21억달러 규모 증자에 따른 희석 우려가 동시에 나오며 방향이 엇갈렸다 | 4 |
+| [EQIX](tickers/EQIX - Equinix, Inc.md) | 2026-08-08 | 🟢 +0.12 | 일본 ANA항공과 새 계약을 맺으며 AI 수요를 재확인했지만 텍사스주의 전력망 부담발 신규 데이터센터 심사 중단으로 규제 리스크가 새로 생겼다 | 5 |
+| [DLR](tickers/DLR - Digital Realty Trust.md) | 2026-08-08 | 🟢 +0.05 | 텍사스주 전력망 감사에 협조하겠다고 밝혔고, 핵심 수익지표는 사상 최대였지만 회계상 순이익이 크게 줄어든 점도 함께 드러났다 | 4 |
+| [O](tickers/O - Realty Income Corporation.md) | 2026-08-08 | 🟢 +0.16 | 2분기 매출과 핵심 수익지표가 예상을 웃돌아 가이던스와 연간 투자 목표(100억달러)를 함께 올렸다 | 5 |
+| [SPG](tickers/SPG - Simon Property Group.md) | 2026-08-08 | 🟢 +0.10 | 뱅크오브아메리카가 목표주가를 236달러에서 264달러로 크게 올리며 8/10 실적 발표에 대한 기대가 커지고 있다 | 3 |
+| [WELL](tickers/WELL - Welltower Inc.md) | 2026-08-08 | 🟢 +0.13 | 여러 증권사가 목표주가를 일제히 올렸지만 정작 주가는 7거래일 연속 떨어져 밸류에이션 부담이 드러나는 엇갈린 모습이다 | 2 |
+| [PSA](tickers/PSA - Public Storage.md) | 2026-08-08 | 🔴 -0.06 | 2분기 핵심 수익지표가 시장 예상을 밑돈 것이 재확인됐고, 경쟁사 대비 자체 성장률도 계속 뒤처지고 있다 | 2 |
+| [VICI](tickers/VICI - VICI Properties Inc.md) | 2026-08-08 | ⚪ -0.01 | 17.5억달러 규모 무담보채를 발행해 만기 도래 부채를 미리 갚았고, 애널리스트 사이에서는 매수 의견과 목표주가 하향이 엇갈렸다 | 4 |
 
 ### 통신 / 미디어
 
