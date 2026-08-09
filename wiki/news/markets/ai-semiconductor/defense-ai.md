@@ -1,7 +1,7 @@
 ---
 title: "국방 AI · 지휘통제 (C2) — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-27
+updated: 2026-08-09
 domain: finance
 type: claim
 weight: reference
@@ -49,7 +49,7 @@ AI 기반 지휘통제(C2)·표적인식·군집 오케스트레이션 소프트
 |---|---|---|---|---|
 | Palantir | Maven Smart System — DoD AI C2 사실상 표준 (한도 $1.3B) | +0.12 (2026-07-27) | 미 정부가 팔란티어 이의제기를 받아들여 군 정보시스템 입찰을 철회했다 | [PLTR](../../tickers/PLTR - Palantir Technologies Inc.md) |
 | Anduril | Lattice OS — 자율체계 통합 SW (비상장, $61B) | — | — | 비상장 |
-| Lockheed · RTX · Northrop | 전통 프라임 — AI 통합 미사일·C2·CCA | +0.27 (2026-06-28) | THAAD 요격탄 4배 증산 최대 350억 달러 7년 계약 (6/24)·PrSM 84억 달러 계약 변경,… | [LMT](../../tickers/LMT - Lockheed Martin Corp.md) |
+| Lockheed · RTX · Northrop | 전통 프라임 — AI 통합 미사일·C2·CCA | +0.49 (2026-08-09) | 美 육군이 록히드마틴에 사상 최대 586억 달러 규모 패트리엇 요격미사일 다년도 계약을 발주했다 | [LMT](../../tickers/LMT - Lockheed Martin Corp.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)
