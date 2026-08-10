@@ -47,11 +47,11 @@ sources: ["https://www.tomshardware.com/tech-industry/big-tech/big-techs-ai-spen
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Amazon | ~$200B (’26) · 점유 28% | 🟢🟢 +0.21 (2026-07-27) | 월가가 AWS 성장 기대로 목표주가를 잇달아 올리며 7/30 실적을 앞두고 기대감이 커졌다 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
-| Microsoft | ~$190B (’26) · 점유 26% | 0.00 (2026-07-27) | 자체 뉴스 없이 7/29 실적에서 애저 성장률이 AWS와 비교당할 준비를 하고 있다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
-| Alphabet | $180–190B (’26) · 점유 26% | 0.00 (2026-07-27) | 자체 뉴스 없이 지난주 발표한 2분기 실적(매출 24% 성장, capex 급증)에 대한 재평가가 이어진다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
-| Meta | $125–145B (’26) · 점유 19% | 🟢 +0.18 (2026-07-27) | BofA가 목표주가 835달러를 재확인하며 7/29 실적에서 광고 매출 호조를 예상했다 | [META](../../tickers/META - Meta Platforms Inc.md) |
-| Oracle | Stargate 연계 | 🔴 -0.19 (2026-07-27) | S&P의 신용등급 하향 경고로 주가가 약세를 이어간 반면 경쟁사 SAP는 클라우드 호조로 급등했다 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
+| Amazon | ~$200B (’26) · 점유 28% | 🟢 +0.09 (2026-08-10) | 실적 랠리가 이어지며 시가총액 3조달러를 돌파했고, 앤트로픽 지분가치 재조명까지 겹치며 분위기는 여전히 좋다 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
+| Microsoft | ~$190B (’26) · 점유 26% | ⚪ -0.04 (2026-08-10) | AI 매출 대부분이 여전히 오픈AI 한 곳에서 나온다는 사실이 드러나며 자체 AI 자립 서사가 흔들렸지만, 인도 데이터센터 확장은 계속됐다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
+| Alphabet | $180–190B (’26) · 점유 26% | 🔴 -0.10 (2026-08-10) | 핵심 AI 리더 4명이 한꺼번에 퇴사하고 영국에서 대형 광고 소송까지 겹치며 주가가 흔들렸다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
+| Meta | $125–145B (’26) · 점유 19% | 🔴 -0.08 (2026-08-10) | 뉴멕시코 법원이 청소년 안전 문제로 5억6700만달러를 추가로 물렸지만, 감내 가능한 금액이라 주가는 크게 흔들리지 않았다 | [META](../../tickers/META - Meta Platforms Inc.md) |
+| Oracle | Stargate 연계 | 🔴 -0.15 (2026-08-10) | 유명 공매도 투자자의 재진입과 신용부도 위험 지표 급등이 겹치며 빚으로 데이터센터를 짓는 구조에 대한 시장의 의구심이 다시 커졌다 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
 | OpenAI | 26GW 약정 (비상장) | — | — | 비상장 |
 <!-- PLAYERS_END -->
 
