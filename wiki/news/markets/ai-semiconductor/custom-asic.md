@@ -49,10 +49,10 @@ sources: ["https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-a
 |---|---|---|---|---|
 | Broadcom | 코디자인 ~60% (Google·Meta·OpenAI) · 점유 60% | +0.09 (2026-07-28) | 삼성전자와 2000억 달러 AI 칩 파트너십을 맺으며 반도체 셀오프 속에서도 주가가 방어력을 보였다 | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
 | Marvell | ~25% (Amazon·Microsoft) · 점유 25% | -0.08 (2026-07-28) | 마벨 주가가 반도체 업종 전반의 설비투자 우려와 아마존 대형 고객 이탈설로 하락했지만 월가는 여전히 신규 수주 기대를 걸고 있다 | [MRVL](../../tickers/MRVL - Marvell Technology, Inc.md) |
-| Google TPU | 최대 내부 XPU (v7 Ironwood) | 0.00 (2026-07-27) | 자체 뉴스 없이 지난주 발표한 2분기 실적(매출 24% 성장, capex 급증)에 대한 재평가가 이어진다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
-| Amazon Trainium | Trainium3 (3nm) | 🟢🟢 +0.21 (2026-07-27) | 월가가 AWS 성장 기대로 목표주가를 잇달아 올리며 7/30 실적을 앞두고 기대감이 커졌다 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
-| Microsoft Maia | 내부용 자체 실리콘 | 0.00 (2026-07-27) | 자체 뉴스 없이 7/29 실적에서 애저 성장률이 AWS와 비교당할 준비를 하고 있다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
-| Meta MTIA | 추론·랭킹용 자체 칩 | 🟢 +0.18 (2026-07-27) | BofA가 목표주가 835달러를 재확인하며 7/29 실적에서 광고 매출 호조를 예상했다 | [META](../../tickers/META - Meta Platforms Inc.md) |
+| Google TPU | 최대 내부 XPU (v7 Ironwood) | 🔴 -0.10 (2026-08-10) | 핵심 AI 리더 4명이 한꺼번에 퇴사하고 영국에서 대형 광고 소송까지 겹치며 주가가 흔들렸다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
+| Amazon Trainium | Trainium3 (3nm) | 🟢 +0.09 (2026-08-10) | 실적 랠리가 이어지며 시가총액 3조달러를 돌파했고, 앤트로픽 지분가치 재조명까지 겹치며 분위기는 여전히 좋다 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
+| Microsoft Maia | 내부용 자체 실리콘 | ⚪ -0.04 (2026-08-10) | AI 매출 대부분이 여전히 오픈AI 한 곳에서 나온다는 사실이 드러나며 자체 AI 자립 서사가 흔들렸지만, 인도 데이터센터 확장은 계속됐다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
+| Meta MTIA | 추론·랭킹용 자체 칩 | 🔴 -0.08 (2026-08-10) | 뉴멕시코 법원이 청소년 안전 문제로 5억6700만달러를 추가로 물렸지만, 감내 가능한 금액이라 주가는 크게 흔들리지 않았다 | [META](../../tickers/META - Meta Platforms Inc.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)

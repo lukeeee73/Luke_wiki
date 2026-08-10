@@ -47,9 +47,9 @@ sources: ["https://www.srgresearch.com/articles/neoclouds-currently-growing-by-o
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| CoreWeave | 최대 독립 네오클라우드 — Q1’26 매출 $2.08B(+112%), 잔고 $99.4B | 🟢🟢 +0.20 (2026-08-03) | 리도스와의 국방·정보기관向 AI 클라우드 계약으로 주가가 16% 급등하며 고객 다변화가 진전됐지만 자본지출 부담은 340억달러로 오히려 더 커졌다 | [CRWV](../../tickers/CRWV - CoreWeave, Inc.md) |
-| Nebius | 2위권 급성장 — 잔고 ~$50B(Meta·MS), 계약전력 3GW+ | 🟢🟢 +0.21 (2026-08-03) | 리플렉션AI와의 신규 계약과 차세대 GPU 랙 세계 최초 가동 소식에 주가가 하루 만에 26% 급등했지만 개인투자자 매매까지 섞여 변동성이 매우 크다 | [NBIS](../../tickers/NBIS - Nebius Group N.V.md) |
-| Oracle OCI | 준네오클라우드 — OpenAI Stargate $300B, capex/매출 76% | 🟢 +0.15 (2026-08-03) | 구글과 AI 파트너십 확대, 국방부 대형 계약으로 주가가 반등했지만 이미 발표된 신용등급 하향으로 부채 부담은 여전하다 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
+| CoreWeave | 최대 독립 네오클라우드 — Q1’26 매출 $2.08B(+112%), 잔고 $99.4B | 🟢 +0.05 (2026-08-10) | 코어위브는 내일(8/11) 실적 발표를 앞두고 빅테크발 훈풍에 올라탔지만 공매도 잔고 증가로 경계감도 함께 커졌다 | [CRWV](../../tickers/CRWV - CoreWeave, Inc.md) |
+| Nebius | 2위권 급성장 — 잔고 ~$50B(Meta·MS), 계약전력 3GW+ | ⚪ +0.02 (2026-08-10) | 네비우스는 빅테크 훈풍에 12.9% 급등했지만 마이클 버리의 공매도 공개와 목표주가 하향이 겹치며 8/12 실적을 앞두고 낙관과 경계가 팽팽하다 | [NBIS](../../tickers/NBIS - Nebius Group N.V.md) |
+| Oracle OCI | 준네오클라우드 — OpenAI Stargate $300B, capex/매출 76% | 🔴 -0.15 (2026-08-10) | 유명 공매도 투자자의 재진입과 신용부도 위험 지표 급등이 겹치며 빚으로 데이터센터를 짓는 구조에 대한 시장의 의구심이 다시 커졌다 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
 | NVIDIA | 공급자 겸 앵커 투자자 — $110B+ 순환금융의 중심 | -0.06 (2026-07-28) | SK그룹과 5000억 달러 AI 파트너십을 맺었지만 OpenAI 데이터센터에 대한 2500억 달러 재무보증 우려로 주가가 5% 급락했다 | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
 | Crusoe · Lambda · Together | 비상장 — 에너지 연계·MS 계약·추론 특화 | — | — | 비상장 |
 | IREN · Cipher · Core Scientific | 채굴사→AI 전환 — 전력자산 재평가 (MS $9.7B 등) | watchlist 외 | — | `IREN` |
