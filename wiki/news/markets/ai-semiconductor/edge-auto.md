@@ -1,7 +1,7 @@
 ---
 title: "차량용·자율주행 반도체 — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-05
+updated: 2026-08-12
 domain: finance
 type: claim
 weight: reference
@@ -48,7 +48,7 @@ ADAS·자율주행·디지털 콕핏용 칩. 고가 AD SoC가 다중 센서를 �
 | Mobileye | 카메라 ADAS ~65–70% (점유율 하락중) · 점유 65% | -0.02 (2026-07-28) | 모빌아이가 실적은 예상보다 좋았지만 창업자 CEO의 퇴진 발표로 주가가 급락하며 리더십 불확실성이 커졌다 | [MBLY](../../tickers/MBLY - Mobileye Global Inc.md) |
 | NVIDIA | 고급 AD/로보택시 (Drive Thor) · 점유 10% | -0.06 (2026-07-28) | SK그룹과 5000억 달러 AI 파트너십을 맺었지만 OpenAI 데이터센터에 대한 2500억 달러 재무보증 우려로 주가가 5% 급락했다 | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
 | Qualcomm | Snapdragon Ride · 점유 8% | -0.12 (2026-07-28) | 메모리 품귀로 가격을 두 자릿수 퍼센트 올렸고 내일 실적 발표를 앞두고 이익 전망치가 계속 낮아지고 있다 | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
-| Tesla | 자체 FSD/AI5 실리콘 · 점유 7% | +0.08 (2026-08-05) | 중국 판매가 9개월 연속 늘며 반등했지만 스페이스X 합병을 앞둔 중국사업 매각설이 나와 머스크가 부인했다 | [TSLA](../../tickers/TSLA - Tesla Inc.md) |
+| Tesla | 자체 FSD/AI5 실리콘 · 점유 7% | -0.03 (2026-08-12) | 테슬라가 생산 1000만대를 돌파하고 금리인하 기대가 힘을 보탰지만 중국사업 매각설은 끝내 확인되지 않았다 | [TSLA](../../tickers/TSLA - Tesla Inc.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)
