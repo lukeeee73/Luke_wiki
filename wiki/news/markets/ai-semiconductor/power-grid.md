@@ -1,7 +1,7 @@
 ---
 title: "전력 생산·전력망 — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-07
+updated: 2026-08-14
 domain: finance
 type: claim
 weight: reference
@@ -47,10 +47,10 @@ AI 데이터센터에 전기를 공급하는 발전·전력계약·전력망 접
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Constellation | 미 최대 원자력 (MS TMI 재가동) | 🟢🟢 +0.27 (2026-08-07) | 실적과 가이던스가 모두 좋았고 월마트 등과의 대형 원자력 공급계약까지 더해져 강한 순풍이 불었다 | [CEG](../../tickers/CEG - Constellation Energy.md) |
-| Vistra | 원자력+가스 | ⚪ +0.04 (2026-08-07) | 오늘 실적 발표를 앞두고 증권사 전망이 엇갈리며 방향성이 뚜렷하지 않다 | [VST](../../tickers/VST - Vistra Corp.md) |
-| NextEra | 신재생 1위 (Dominion 딜) | 🟢 +0.10 (2026-08-07) | 대형 AI 데이터센터 건설 계약을 새로 따내 성장축을 넓혔지만 대형 합병은 여전히 속도조절 압박을 받고 있다 | [NEE](../../tickers/NEE - NextEra Energy.md) |
-| GE Vernova | 가스터빈 (2030까지 예약) + SMR | 🟢 +0.16 (2026-08-07) | 해외에서 신규 수주를 이어갔지만 한 달간 주가는 밸류에이션 부담으로 조정을 받았다 | [GEV](../../tickers/GEV - GE Vernova Inc.md) |
+| Constellation | 미 최대 원자력 (MS TMI 재가동) | ⚪ +0.03 (2026-08-14) | 지난주 실적 호조의 여운으로 자사주 매입 등에 힘입어 상승세를 이어갔지만, Argus가 금리 부담을 이유로 목표가를 낮추는 등 밸류에이션 신중론이 부각됐다 | [CEG](../../tickers/CEG - Constellation Energy.md) |
+| Vistra | 원자력+가스 | 🟢🟢 +0.24 (2026-08-14) | 2분기 실적이 컨센서스를 크게 상회하고 Helix 데이터센터 파트너십과 Cogentrix 인수 FERC 승인까지 겹치며 강한 순풍이 나타났다 | [VST](../../tickers/VST - Vistra Corp.md) |
+| NextEra | 신재생 1위 (Dominion 딜) | 🟢 +0.12 (2026-08-14) | 일본·美상무부와 가스발전 10GW 프로젝트 자금 확정은 긍정적이나, 버지니아 주지사의 도미니언 합병 심사 개입 선언으로 규제 불확실성이 다시 부각됐다 | [NEE](../../tickers/NEE - NextEra Energy.md) |
+| GE Vernova | 가스터빈 (2030까지 예약) + SMR | 🟢 +0.18 (2026-08-14) | 지난주 실적 서프라이즈 이후 애널리스트 목표가 상향과 AI 데이터센터 전력수요 지속 강세로 견조한 흐름을 이어가고 있다 | [GEV](../../tickers/GEV - GE Vernova Inc.md) |
 | Talen | Susquehanna/AWS PPA | watchlist 외 | — | `TLN` |
 <!-- PLAYERS_END -->
 
