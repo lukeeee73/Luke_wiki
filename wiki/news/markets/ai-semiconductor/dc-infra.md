@@ -1,7 +1,7 @@
 ---
 title: "AI 데이터센터 인프라 · 코로케이션 — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-08
+updated: 2026-08-15
 domain: finance
 type: claim
 weight: reference
@@ -47,8 +47,8 @@ AI 서버를 수용하는 데이터센터 부동산·코로케이션·건설 —
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Equinix | 글로벌 1위 리테일 코로케이션·상호접속 (260+ IBX) | +0.12 (2026-08-08) | ANA항공과 새 클라우드 네트워크 계약으로 AI 수요를 재확인했지만, 텍사스주의 전력망 부담발 신규 데이터센터 접속 심사 중단으로 규제 리스크가 새로 생겼다 | [EQIX](../../tickers/EQIX - Equinix, Inc.md) |
-| Digital Realty | 글로벌 2위 — 하이퍼스케일+코로케이션 혼합 REIT | +0.05 (2026-08-08) | 텍사스주 전력망 감사에 협조를 선언했고, 핵심 수익지표(Core FFO)는 사상 최대였지만 일회성 항목을 뺀 회계상 순이익은 크게 줄어든 것으로 나타났다 | [DLR](../../tickers/DLR - Digital Realty Trust.md) |
+| Equinix | 글로벌 1위 리테일 코로케이션·상호접속 (260+ IBX) | +0.29 (2026-08-15) | 장기 매출·이익 성장 가이던스를 상향했지만 텍사스 데이터센터 전력망 심사 중단은 8/20 회의까지 미해소로 남아있다 | [EQIX](../../tickers/EQIX - Equinix, Inc.md) |
+| Digital Realty | 글로벌 2위 — 하이퍼스케일+코로케이션 혼합 REIT | +0.28 (2026-08-15) | 핵심 수익지표 가이던스를 세 분기 연속 상향했고 목표주가도 잇달아 올랐지만 텍사스 규제 리스크는 여전하다 | [DLR](../../tickers/DLR - Digital Realty Trust.md) |
 | Vantage | $25B 텍사스 Frontier 1.4GW (Stargate 연계) 건설 중 (비상장) | — | — | 비상장 |
 | QTS · CyrusOne · Switch | 사모(BX·KKR·DigitalBridge) 하이퍼스케일 개발 (비상장) | — | — | 비상장 |
 <!-- PLAYERS_END -->
