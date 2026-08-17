@@ -1,7 +1,7 @@
 ---
 title: "AI PC — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-28
+updated: 2026-08-17
 domain: finance
 type: claim
 weight: reference
@@ -46,7 +46,7 @@ sources: ["https://counterpointresearch.com/en/reports/ai-advanced-pcs-to-surpas
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
 | Intel | ~45–56% (Core Ultra) · 점유 50% | +0.14 (2026-07-28) | 2분기 매출이 15년래 최고 성장률을 기록했지만 설비투자 증가와 파운드리 적자 우려로 주가는 급락 후 일부 반등했다 | [INTC](../../tickers/INTC - Intel Corporation.md) |
-| Apple | ~20–24% 자체 M시리즈 · 점유 22% | 🔴 -0.11 (2026-08-10) | 메모리 원가 부담으로 목표주가가 낮아지고 오픈AI와의 소송전도 불리해졌지만, 9월 신제품 행사 기대감은 남아있다 | [AAPL](../../tickers/AAPL - Apple Inc.md) |
+| Apple | ~20–24% 자체 M시리즈 · 점유 22% | 🔴 -0.06 (2026-08-17) | 알리바바와 손잡고 중국 전용 AI 모델을 확보했지만, 앱스토어 소송과 미 정부의 중국산 메모리칩 반대 등 규제 압박이 더 크게 작용했다 | [AAPL](../../tickers/AAPL - Apple Inc.md) |
 | AMD | #3 (Ryzen AI) · 점유 18% | +0.06 (2026-07-28) | AI 신제품을 대거 공개했지만 주가는 오히려 8% 가까이 빠지는 뉴스에 팔기 반응을 보였다 | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
 | Qualcomm | Snapdragon X (Arm, 최고속 성장) · 점유 5% | -0.12 (2026-07-28) | 메모리 품귀로 가격을 두 자릿수 퍼센트 올렸고 내일 실적 발표를 앞두고 이익 전망치가 계속 낮아지고 있다 | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
 <!-- PLAYERS_END -->

@@ -1,7 +1,7 @@
 ---
 title: "맞춤형 AI ASIC·XPU — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-28
+updated: 2026-08-17
 domain: finance
 type: claim
 weight: reference
@@ -49,10 +49,10 @@ sources: ["https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-a
 |---|---|---|---|---|
 | Broadcom | 코디자인 ~60% (Google·Meta·OpenAI) · 점유 60% | +0.09 (2026-07-28) | 삼성전자와 2000억 달러 AI 칩 파트너십을 맺으며 반도체 셀오프 속에서도 주가가 방어력을 보였다 | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
 | Marvell | ~25% (Amazon·Microsoft) · 점유 25% | -0.08 (2026-07-28) | 마벨 주가가 반도체 업종 전반의 설비투자 우려와 아마존 대형 고객 이탈설로 하락했지만 월가는 여전히 신규 수주 기대를 걸고 있다 | [MRVL](../../tickers/MRVL - Marvell Technology, Inc.md) |
-| Google TPU | 최대 내부 XPU (v7 Ironwood) | 🔴 -0.10 (2026-08-10) | 핵심 AI 리더 4명이 한꺼번에 퇴사하고 영국에서 대형 광고 소송까지 겹치며 주가가 흔들렸다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
-| Amazon Trainium | Trainium3 (3nm) | 🟢 +0.09 (2026-08-10) | 실적 랠리가 이어지며 시가총액 3조달러를 돌파했고, 앤트로픽 지분가치 재조명까지 겹치며 분위기는 여전히 좋다 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
-| Microsoft Maia | 내부용 자체 실리콘 | ⚪ -0.04 (2026-08-10) | AI 매출 대부분이 여전히 오픈AI 한 곳에서 나온다는 사실이 드러나며 자체 AI 자립 서사가 흔들렸지만, 인도 데이터센터 확장은 계속됐다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
-| Meta MTIA | 추론·랭킹용 자체 칩 | 🔴 -0.08 (2026-08-10) | 뉴멕시코 법원이 청소년 안전 문제로 5억6700만달러를 추가로 물렸지만, 감내 가능한 금액이라 주가는 크게 흔들리지 않았다 | [META](../../tickers/META - Meta Platforms Inc.md) |
+| Google TPU | 최대 내부 XPU (v7 Ironwood) | 🟢 +0.15 (2026-08-17) | 버크셔가 지분을 83% 늘리며 신뢰를 보탰지만, 핵심 AI 인재 이탈과 차세대 모델 지연은 여전한 걱정거리다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
+| Amazon Trainium | Trainium3 (3nm) | 🟢🟢 +0.24 (2026-08-17) | AWS 성장 재가속에 힘입어 시가총액 3조달러를 처음 넘었고, 매도 의견을 낸 애널리스트가 한 명도 없을 정도로 분위기가 좋다 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
+| Microsoft Maia | 내부용 자체 실리콘 | 🟢🟢 +0.21 (2026-08-17) | 애저 매출이 43% 급증한 실적으로 주가가 한 달새 30% 뛰었고, 코파일럿 통합·자체 AI 칩 공개 예고까지 겹치며 강세가 이어지고 있다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
+| Meta MTIA | 추론·랭킹용 자체 칩 | 🔴 -0.16 (2026-08-17) | 시가총액과 맞먹는 최대 1.4조달러가 걸린 청소년 유해성 재판이 8월 18일 본격 시작되며 소송 리스크가 주가 서사를 지배하고 있다 | [META](../../tickers/META - Meta Platforms Inc.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)

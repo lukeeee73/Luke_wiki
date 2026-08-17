@@ -1,7 +1,7 @@
 ---
 title: "네오클라우드 · GPU 클라우드 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-28
+updated: 2026-08-17
 domain: finance
 type: claim
 weight: reference
@@ -47,9 +47,9 @@ sources: ["https://www.srgresearch.com/articles/neoclouds-currently-growing-by-o
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| CoreWeave | 최대 독립 네오클라우드 — Q1’26 매출 $2.08B(+112%), 잔고 $99.4B | 🟢 +0.05 (2026-08-10) | 코어위브는 내일(8/11) 실적 발표를 앞두고 빅테크발 훈풍에 올라탔지만 공매도 잔고 증가로 경계감도 함께 커졌다 | [CRWV](../../tickers/CRWV - CoreWeave, Inc.md) |
-| Nebius | 2위권 급성장 — 잔고 ~$50B(Meta·MS), 계약전력 3GW+ | ⚪ +0.02 (2026-08-10) | 네비우스는 빅테크 훈풍에 12.9% 급등했지만 마이클 버리의 공매도 공개와 목표주가 하향이 겹치며 8/12 실적을 앞두고 낙관과 경계가 팽팽하다 | [NBIS](../../tickers/NBIS - Nebius Group N.V.md) |
-| Oracle OCI | 준네오클라우드 — OpenAI Stargate $300B, capex/매출 76% | 🔴 -0.15 (2026-08-10) | 유명 공매도 투자자의 재진입과 신용부도 위험 지표 급등이 겹치며 빚으로 데이터센터를 짓는 구조에 대한 시장의 의구심이 다시 커졌다 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
+| CoreWeave | 최대 독립 네오클라우드 — Q1’26 매출 $2.08B(+112%), 잔고 $99.4B | 🟢 +0.17 (2026-08-17) | 2분기 매출이 112% 급증하고 수주잔고가 1040억달러에 달했지만, 부채 356억달러의 이자비용이 영업이익을 넘어서는 구조는 여전히 불안 요인이다 | [CRWV](../../tickers/CRWV - CoreWeave, Inc.md) |
+| Nebius | 2위권 급성장 — 잔고 ~$50B(Meta·MS), 계약전력 3GW+ | 🟢🟢 +0.22 (2026-08-17) | 2분기 매출이 454% 폭증하며 흑자 전환 조짐까지 보였지만, 마이클 버리가 감가상각 회계처리를 문제 삼아 공매도를 늘리는 논란도 함께 커졌다 | [NBIS](../../tickers/NBIS - Nebius Group N.V.md) |
+| Oracle OCI | 준네오클라우드 — OpenAI Stargate $300B, capex/매출 76% | 🔴 -0.13 (2026-08-17) | 데이터센터 전력망 가스관이 또 지연되고 추가 정리해고까지 계획하며, 커지는 사업 규모만큼 빚 부담에 대한 시장의 우려도 함께 커지고 있다 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
 | NVIDIA | 공급자 겸 앵커 투자자 — $110B+ 순환금융의 중심 | -0.06 (2026-07-28) | SK그룹과 5000억 달러 AI 파트너십을 맺었지만 OpenAI 데이터센터에 대한 2500억 달러 재무보증 우려로 주가가 5% 급락했다 | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
 | Crusoe · Lambda · Together | 비상장 — 에너지 연계·MS 계약·추론 특화 | — | — | 비상장 |
 | IREN · Cipher · Core Scientific | 채굴사→AI 전환 — 전력자산 재평가 (MS $9.7B 등) | watchlist 외 | — | `IREN` |

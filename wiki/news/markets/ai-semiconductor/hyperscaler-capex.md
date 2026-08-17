@@ -1,7 +1,7 @@
 ---
 title: "하이퍼스케일러·프런티어 CAPEX — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-27
+updated: 2026-08-17
 domain: finance
 type: claim
 weight: reference
@@ -47,11 +47,11 @@ sources: ["https://www.tomshardware.com/tech-industry/big-tech/big-techs-ai-spen
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Amazon | ~$200B (’26) · 점유 28% | 🟢 +0.09 (2026-08-10) | 실적 랠리가 이어지며 시가총액 3조달러를 돌파했고, 앤트로픽 지분가치 재조명까지 겹치며 분위기는 여전히 좋다 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
-| Microsoft | ~$190B (’26) · 점유 26% | ⚪ -0.04 (2026-08-10) | AI 매출 대부분이 여전히 오픈AI 한 곳에서 나온다는 사실이 드러나며 자체 AI 자립 서사가 흔들렸지만, 인도 데이터센터 확장은 계속됐다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
-| Alphabet | $180–190B (’26) · 점유 26% | 🔴 -0.10 (2026-08-10) | 핵심 AI 리더 4명이 한꺼번에 퇴사하고 영국에서 대형 광고 소송까지 겹치며 주가가 흔들렸다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
-| Meta | $125–145B (’26) · 점유 19% | 🔴 -0.08 (2026-08-10) | 뉴멕시코 법원이 청소년 안전 문제로 5억6700만달러를 추가로 물렸지만, 감내 가능한 금액이라 주가는 크게 흔들리지 않았다 | [META](../../tickers/META - Meta Platforms Inc.md) |
-| Oracle | Stargate 연계 | 🔴 -0.15 (2026-08-10) | 유명 공매도 투자자의 재진입과 신용부도 위험 지표 급등이 겹치며 빚으로 데이터센터를 짓는 구조에 대한 시장의 의구심이 다시 커졌다 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
+| Amazon | ~$200B (’26) · 점유 28% | 🟢🟢 +0.24 (2026-08-17) | AWS 성장 재가속에 힘입어 시가총액 3조달러를 처음 넘었고, 매도 의견을 낸 애널리스트가 한 명도 없을 정도로 분위기가 좋다 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
+| Microsoft | ~$190B (’26) · 점유 26% | 🟢🟢 +0.21 (2026-08-17) | 애저 매출이 43% 급증한 실적으로 주가가 한 달새 30% 뛰었고, 코파일럿 통합·자체 AI 칩 공개 예고까지 겹치며 강세가 이어지고 있다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
+| Alphabet | $180–190B (’26) · 점유 26% | 🟢 +0.15 (2026-08-17) | 버크셔가 지분을 83% 늘리며 신뢰를 보탰지만, 핵심 AI 인재 이탈과 차세대 모델 지연은 여전한 걱정거리다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
+| Meta | $125–145B (’26) · 점유 19% | 🔴 -0.16 (2026-08-17) | 시가총액과 맞먹는 최대 1.4조달러가 걸린 청소년 유해성 재판이 8월 18일 본격 시작되며 소송 리스크가 주가 서사를 지배하고 있다 | [META](../../tickers/META - Meta Platforms Inc.md) |
+| Oracle | Stargate 연계 | 🔴 -0.13 (2026-08-17) | 데이터센터 전력망 가스관이 또 지연되고 추가 정리해고까지 계획하며, 커지는 사업 규모만큼 빚 부담에 대한 시장의 우려도 함께 커지고 있다 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
 | OpenAI | 26GW 약정 (비상장) | — | — | 비상장 |
 <!-- PLAYERS_END -->
 

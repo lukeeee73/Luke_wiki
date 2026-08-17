@@ -1,7 +1,7 @@
 ---
 title: "AI 소프트웨어·모델 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-27
+updated: 2026-08-17
 domain: finance
 type: claim
 weight: reference
@@ -47,9 +47,9 @@ sources: ["https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-th
 |---|---|---|---|---|
 | OpenAI | 프런티어 랩 (비상장, ~$852B 평가) | — | — | 비상장 |
 | Anthropic | 프런티어 랩 (비상장) | — | — | 비상장 |
-| Google DeepMind | Gemini | 🔴 -0.10 (2026-08-10) | 핵심 AI 리더 4명이 한꺼번에 퇴사하고 영국에서 대형 광고 소송까지 겹치며 주가가 흔들렸다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
-| Microsoft | OpenAI 제휴 + 자체 | ⚪ -0.04 (2026-08-10) | AI 매출 대부분이 여전히 오픈AI 한 곳에서 나온다는 사실이 드러나며 자체 AI 자립 서사가 흔들렸지만, 인도 데이터센터 확장은 계속됐다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
-| Meta | Llama (오픈웨이트) | 🔴 -0.08 (2026-08-10) | 뉴멕시코 법원이 청소년 안전 문제로 5억6700만달러를 추가로 물렸지만, 감내 가능한 금액이라 주가는 크게 흔들리지 않았다 | [META](../../tickers/META - Meta Platforms Inc.md) |
+| Google DeepMind | Gemini | 🟢 +0.15 (2026-08-17) | 버크셔가 지분을 83% 늘리며 신뢰를 보탰지만, 핵심 AI 인재 이탈과 차세대 모델 지연은 여전한 걱정거리다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
+| Microsoft | OpenAI 제휴 + 자체 | 🟢🟢 +0.21 (2026-08-17) | 애저 매출이 43% 급증한 실적으로 주가가 한 달새 30% 뛰었고, 코파일럿 통합·자체 AI 칩 공개 예고까지 겹치며 강세가 이어지고 있다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
+| Meta | Llama (오픈웨이트) | 🔴 -0.16 (2026-08-17) | 시가총액과 맞먹는 최대 1.4조달러가 걸린 청소년 유해성 재판이 8월 18일 본격 시작되며 소송 리스크가 주가 서사를 지배하고 있다 | [META](../../tickers/META - Meta Platforms Inc.md) |
 | xAI | Grok (비상장) | — | — | 비상장 |
 <!-- PLAYERS_END -->
 
