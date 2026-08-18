@@ -1,7 +1,7 @@
 ---
 title: "식각·증착 장비 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-28
+updated: 2026-08-18
 domain: finance
 type: claim
 weight: reference
@@ -45,9 +45,9 @@ sources: ["https://www.semi.org/en/semi-press-release/global-total-semiconductor
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Applied Materials | 종합 1위 (~30–35%) · 점유 30% | +0.08 (2026-07-28) | 업종 전체가 중국발 경쟁 뉴스로 흔들리는 와중에도 증권사들이 목표가를 올리며 상대적으로 견조했다 | [AMAT](../../tickers/AMAT - Applied Materials.md) |
-| Lam Research | 식각·증착 (메모리 강세) · 점유 20% | -0.04 (2026-07-28) | 장비주 중 가장 크게 하락했지만 목표가는 오히려 오르며 실적 발표를 앞두고 신호가 팽팽하다 | [LRCX](../../tickers/LRCX - Lam Research Corp.md) |
-| Tokyo Electron | 코터/디벨로퍼 1위 · 점유 18% | -0.07 (2026-07-28) | 중국의 자체 노광장비 소식이 짝을 이루는 자사 공정 수요에도 장기적으로 영향을 줄 수 있다는 우려가 나왔다 | [TOELY](../../tickers/TOELY - Tokyo Electron Limited.md) |
+| Applied Materials | 종합 1위 (~30–35%) · 점유 30% | 🟢 +0.07 (2026-08-18) | 3분기 매출은 최대였지만 현금흐름 급감 우려로 주가가 빠졌고 고점 대비 27% 하락했다 | [AMAT](../../tickers/AMAT - Applied Materials.md) |
+| Lam Research | 식각·증착 (메모리 강세) · 점유 20% | 🟢 +0.18 (2026-08-18) | 4분기 실적과 가이던스 모두 사상 최대를 기록했지만 중국 매출 비중이 크게 줄었다 | [LRCX](../../tickers/LRCX - Lam Research Corp.md) |
+| Tokyo Electron | 코터/디벨로퍼 1위 · 점유 18% | 🟢 +0.18 (2026-08-18) | 이익이 예상을 넘었고 반도체 장비 시장 전망을 크게 올리며 주가가 상승했다 | [TOELY](../../tickers/TOELY - Tokyo Electron Limited.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)

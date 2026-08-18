@@ -1,7 +1,7 @@
 ---
 title: "데이터센터 네트워킹 — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-17
+updated: 2026-08-18
 domain: finance
 type: claim
 weight: reference
@@ -45,11 +45,11 @@ GPU를 잇는 스위치 패브릭 — 스케일업(NVLink)과 스케일아웃(In
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| NVIDIA | NVLink 스케일업 준독점 + Spectrum-X · 점유 40% | -0.06 (2026-07-28) | SK그룹과 5000억 달러 AI 파트너십을 맺었지만 OpenAI 데이터센터에 대한 2500억 달러 재무보증 우려로 주가가 5% 급락했다 | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
-| Broadcom | 머천트 스위치 실리콘(Tomahawk) | +0.09 (2026-07-28) | 삼성전자와 2000억 달러 AI 칩 파트너십을 맺으며 반도체 셀오프 속에서도 주가가 방어력을 보였다 | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
+| NVIDIA | NVLink 스케일업 준독점 + Spectrum-X · 점유 40% | 🟢 +0.07 (2026-08-18) | 엔비디아가 오픈AI 오하이오 데이터센터에 최대 1,050억 달러 규모 재무보증을 확정했다 | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
+| Broadcom | 머천트 스위치 실리콘(Tomahawk) | ⚪ -0.04 (2026-08-18) | VMware 보안 취약점과 AI 칩 부채 우려로 급락했다가 주가가 일부 회복했다 | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
 | Arista | DC 이더넷 ~19% · 점유 20% | 🟢🟢 +0.31 (2026-08-17) | 사상 첫 30억달러 분기 매출로 연간 목표를 크게 올렸고 오라클·구글 등 신규 대형 고객까지 늘며 고객 집중 리스크도 완화되는 중이다 | [ANET](../../tickers/ANET - Arista Networks, Inc.md) |
 | Cisco | 기존 강자, AI 점유율 하락 · 점유 15% | watchlist 외 | — | `CSCO` |
-| Marvell | DPU·커스텀 실리콘 | -0.08 (2026-07-28) | 마벨 주가가 반도체 업종 전반의 설비투자 우려와 아마존 대형 고객 이탈설로 하락했지만 월가는 여전히 신규 수주 기대를 걸고 있다 | [MRVL](../../tickers/MRVL - Marvell Technology, Inc.md) |
+| Marvell | DPU·커스텀 실리콘 | 🟢 +0.12 (2026-08-18) | 신형 AI 메모리 제품 공개와 실적 기대감에 마벨 주가가 하루 만에 6~7.5% 급등했다 | [MRVL](../../tickers/MRVL - Marvell Technology, Inc.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)
