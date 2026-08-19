@@ -1,7 +1,7 @@
 ---
 title: "로봇 구동부품 (감속기·액추에이터·자석) — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-12
+updated: 2026-08-19
 domain: finance
 type: claim
 weight: reference
@@ -45,11 +45,11 @@ sources: ["https://www.intelmarketresearch.com/robot-harmonic-drive-reduction-ge
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Harmonic Drive Systems | 스트레인 웨이브 감속기 글로벌 1위 — 휴머노이드 관절용 신제품 | +0.10 (2026-08-12) | 1분기 매출·수주가 크게 늘며 가이던스를 올렸지만 기대감이 선반영됐던 탓에 발표 다음 날 주가는 오히려 11% 급락했다 | [6324.T](../../tickers/6324.T - Harmonic Drive Systems.md) |
+| Harmonic Drive Systems | 스트레인 웨이브 감속기 글로벌 1위 — 휴머노이드 관절용 신제품 | 🔴 -0.05 (2026-08-19) | 하모닉 드라이브 시스템즈 자체의 새 소식은 없었지만, 장기금리 급등과 중동 불안으로 닛케이지수 전체가 급락하면서 주가도 8.45% 동반 하락해 8월 들어 두 번째 큰 폭 조정을 겪었다 | [6324.T](../../tickers/6324.T - Harmonic Drive Systems.md) |
 | Nabtesco | RV 감속기 세계 1위 — 대관절·고하중용 | watchlist 외 | — | `6268.T` |
 | Leaderdrive | 중국 하모닉 감속기 1위 (중국 30–40%, JPM) · 점유 35% | watchlist 외 | — | `688017.SS` |
 | Sanhua · Tuopu | 테슬라 Optimus 액추에이터 모듈 체인 | watchlist 외 | — | `002050.SZ` |
-| MP Materials | 비중국 희토류 채굴→자석 수직계열화 — DoD 우선주 $4억 + 10년 구매보증 | +0.31 (2026-08-12) | 2분기 매출이 89% 급증하고 조정 EBITDA도 첫 흑자전환에 성공하며 52주 신저가에서 일주일 만에 23% 넘게 반등했다 | [MP](../../tickers/MP - MP Materials Corp.md) |
+| MP Materials | 비중국 희토류 채굴→자석 수직계열화 — DoD 우선주 $4억 + 10년 구매보증 | 🟢🟢 +0.29 (2026-08-19) | MP 머티리얼즈가 미국 항공우주·방산 고객과 산화가돌리늄 장기 공급계약을 새로 맺으며 지난주 실적 서프라이즈에 이어 두 번째 호재가 겹쳤고, 주가는 한 주 동안 두 자릿수로 급등했다 | [MP](../../tickers/MP - MP Materials Corp.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)
