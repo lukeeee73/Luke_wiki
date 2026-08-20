@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-08-19
+updated: 2026-08-20
 domain: finance
 type: index
 weight: reference
@@ -136,16 +136,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [LLY](tickers/LLY - Eli Lilly and Company.md) | 2026-08-06 | 🟢🟢 +0.46 | 2분기 실적이 컨센서스를 크게 상회하고 가이던스를 두 번째로 상향하며 노보 대비 확실한 경쟁 우위를 재확인했다 | 8 |
-| [NVO](tickers/NVO - Novo Nordisk AS.md) | 2026-08-06 | 🔴 -0.17 | 2분기 이익은 예상을 넘었지만 경구 위고비 매출이 기대에 못 미치며 가이던스 상향에도 주가가 5~6% 하락했다 | 9 |
-| [JNJ](tickers/JNJ - Johnson and Johnson.md) | 2026-08-06 | 🟢 +0.08 | 제약부문 수장 교체 발표 외 큰 뉴스는 없었고 탈크 소송 합의도 아직 최종 확정 전이다 | 9 |
-| [PFE](tickers/PFE - Pfizer Inc.md) | 2026-08-06 | 🟢 +0.11 | 2분기 실적과 가이던스는 예상을 웃돌았지만 성장을 이끈 게 기존 약이라는 점과 코로나 매출 전망 하향이 낙관을 제한했다 | 8 |
-| [MRK](tickers/MRK - Merck and Co.md) | 2026-08-06 | 🟢🟢 +0.29 | 2분기 매출이 컨센서스를 넘고 가이던스도 상향됐으며 순손실은 인수 관련 일회성 비용 때문으로 확인됐다 | 9 |
-| [ABBV](tickers/ABBV - AbbVie Inc.md) | 2026-08-06 | 🟢🟢 +0.29 | 보톡스 사각턱 적응증 확대 신청이 FDA에 접수됐고 아포지 인수 자금조달에도 투자자가 몰렸다 | 8 |
-| [AZN](tickers/AZN - AstraZeneca PLC.md) | 2026-08-06 | 🟢🟢 +0.25 | 브리스톨마이어스와의 4000억달러 합병설이 공식 부인되며 주가가 반등했다 | 7 |
-| [UNH](tickers/UNH - UnitedHealth Group.md) | 2026-08-06 | 🟢 +0.10 | 지난달 실적 이후 애널리스트 목표주가는 오르는데 버크셔 지분 매도 여파로 주가는 반대로 움직이는 엇갈린 흐름이 이어진다 | 9 |
-| [TMO](tickers/TMO - Thermo Fisher Scientific.md) | 2026-08-06 | ⚪ 0.00 | 자체 뉴스 없이 지난달 실적 서프라이즈의 여진이 이어지는 조용한 하루였다 | 4 |
-| [ABT](tickers/ABT - Abbott Laboratories.md) | 2026-08-06 | ⚪ 0.00 | 자체 뉴스 없이 8/10로 예정된 시밀락 2차 연방 벨웨더 재판을 기다리는 조용한 하루였다 | 9 |
+| [LLY](tickers/LLY - Eli Lilly and Company.md) | 2026-08-20 | 🟢🟢 +0.30 | 새 파이프라인 딜과 경구 비만약 처방 증가가 겹치며 릴리 주가가 하루 만에 5% 넘게 오르는 등 실적 이후 강세 모멘텀이 이어지고 있다 | 8 |
+| [NVO](tickers/NVO - Novo Nordisk AS.md) | 2026-08-20 | 🔴 -0.12 | 먹는 위고비 주간 처방이 5% 줄고 릴리의 경쟁약은 14% 늘면서, 노보의 먹는 비만약 경쟁력에 다시 경고등이 켜졌다 | 9 |
+| [JNJ](tickers/JNJ - Johnson and Johnson.md) | 2026-08-20 | 🟢 +0.15 | 헬스케어 업종으로 자금이 몰리며 JNJ 주가가 사상 최고가를 새로 썼고, 주력 제품 호조에 애널리스트들이 목표주가를 올렸다 | 11 |
+| [PFE](tickers/PFE - Pfizer Inc.md) | 2026-08-20 | 🟢 +0.06 | 화이자 자체 뉴스는 없었지만 머크·모더나의 mRNA 항암백신 3상 성공에 힘입은 섹터 강세로 주가가 하루 만에 약 4% 올랐다 | 8 |
+| [MRK](tickers/MRK - Merck and Co.md) | 2026-08-20 | 🟢🟢 +0.37 | 머크·모더나의 개인맞춤 mRNA 흑색종 백신이 3상 성공을 발표하며 주가가 하루 만에 12~13% 급등했다 | 10 |
+| [ABBV](tickers/ABBV - AbbVie Inc.md) | 2026-08-20 | 🟢 +0.08 | 웰스파고가 화농성한선염 치료제 기대감에 목표주가를 올렸고, 아포지 인수 자금용 회사채 발행도 예정대로 마무리돼 완만하게 긍정적인 하루였다 | 9 |
+| [AZN](tickers/AZN - AstraZeneca PLC.md) | 2026-08-20 | 🟢 +0.08 | 폐암 임상 엇갈린 결과에도 매수 의견 유지되며 합병설 진정과 겹쳐 주가가 하루 만에 3.4% 올랐다 | 8 |
+| [UNH](tickers/UNH - UnitedHealth Group.md) | 2026-08-20 | ⚪ -0.02 | 새 내부고발 내용을 담은 지배구조·사이버보안 소송 여파로 주가가 4% 넘게 빠졌지만, 경쟁사 비용개선 소식이 마진 회복 스토리를 뒷받침한 잔잔한 하루였다 | 8 |
+| [TMO](tickers/TMO - Thermo Fisher Scientific.md) | 2026-08-20 | 🟢 +0.12 | 써모피셔가 미생물학 사업부 매각을 완료해 고성장 사업에 집중하는 포트폴리오 재편을 마쳤고, 헬스케어 업종 전반의 투자심리도 개선됐다 | 5 |
+| [ABT](tickers/ABT - Abbott Laboratories.md) | 2026-08-20 | 🟢 +0.18 | 애벗 자체의 큰 뉴스는 없었지만 애널리스트 두 곳이 목표가를 올리고 분유 리콜 주주소송이 기각되며 잔잔한 순풍이 이어졌다 | 10 |
 
 ### 에너지 / 원자재
 
