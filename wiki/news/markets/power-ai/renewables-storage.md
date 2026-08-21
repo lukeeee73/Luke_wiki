@@ -1,7 +1,7 @@
 ---
 title: "재생에너지 + ESS — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-31
+updated: 2026-08-21
 domain: finance
 type: claim
 weight: reference
@@ -47,7 +47,7 @@ sources: ["https://www.energy-storage.news/us-renewables-and-battery-storage-are
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| NextEra | 재생+ESS 개발 1위 — DC 전용 패키지 | +0.15 (2026-07-31) | 분기배당 선언 뒤 목표주가가 잇달아 상향됐고, 도미니언 합병은 2027년 말 완료 목표로 순항 중이다 | [NEE](../../tickers/NEE - NextEra Energy.md) |
+| NextEra | 재생+ESS 개발 1위 — DC 전용 패키지 | 🔴 -0.05 (2026-08-21) | 넥스테라의 도미니언 인수 심사에 버지니아 주지사가 공식적으로 뛰어들었고, 심사를 맡을 위원장이 과거 넥스테라 변호사였다는 논란도 가라앉지 않아 정치적 잡음이 계속되고 있다. | [NEE](../../tickers/NEE - NextEra Energy.md) |
 | Tesla Energy | Megapack — ESS 통합 강자 | -0.21 (2026-07-01) | Q2 인도 컨센서스 ~40.6만대·미국 판매 -13%, BYD BEV 글로벌 1위 탈환 | [TSLA](../../tickers/TSLA - Tesla Inc.md) |
 | First Solar | 미국산 박막 모듈 (FEOC 수혜) | watchlist 외 | — | `FSLR` |
 | Fluence | 그리드 ESS 통합 전문 | watchlist 외 | — | `FLNC` |

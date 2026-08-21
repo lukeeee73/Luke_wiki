@@ -1,7 +1,7 @@
 ---
 title: "BTM 구내·전용 발전 조달 — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-31
+updated: 2026-08-21
 domain: finance
 type: claim
 weight: reference
@@ -51,7 +51,7 @@ sources: ["https://newsletter.semianalysis.com/p/us-grid-constraints-towards-40g
 | Crusoe | 수직통합 DC+발전 개발 — 와이오밍 1.8GW급 (비상장) | — | — | 비상장 |
 | Williams | 미드스트림→온사이트 발전 진출 ($5.1B power innovation) | watchlist 외 | — | `WMB` |
 | Energy Transfer | CloudBurst DC 에 가스 직공급 (~1.2GW) | watchlist 외 | — | `ET` |
-| Bloom Energy | 연료전지 BTM — Oracle·Equinix | 🟢🟢 +0.43 (2026-07-31) | 2분기 매출이 165% 급증하는 실적 서프라이즈로 주가가 하루 29% 가까이 뛰었다 | [BE](../../tickers/BE - Bloom Energy Corporation.md) |
+| Bloom Energy | 연료전지 BTM — Oracle·Equinix | 🔴 -0.11 (2026-08-21) | 블룸에너지 주가가 국채 금리 급등과 진행 중인 소송 우려가 겹치며 하루 만에 10% 가까이 빠졌다. | [BE](../../tickers/BE - Bloom Energy Corporation.md) |
 | ProEnergy | 항공파생 터빈 피커 — BTM 브리지 전력 (비상장) | — | — | 비상장 |
 <!-- PLAYERS_END -->
 

@@ -1,7 +1,7 @@
 ---
 title: "그리드 접속 · 유틸리티 조달 (FTM) — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-31
+updated: 2026-08-21
 domain: finance
 type: claim
 weight: reference
@@ -47,11 +47,11 @@ sources: ["https://www.latitudemedia.com/news/ercots-large-load-queue-has-nearly
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Dominion | 버지니아 — 세계 최대 DC 클러스터 유틸리티 | -0.04 (2026-07-31) | 2분기 실적 발표, NEE 합병은 순항하나 버지니아 SCC 첫 공청회가 11월로 확정 | [D](../../tickers/D - Dominion Energy.md) |
-| AEP | 765kV 송전 최대 — 오하이오 DC 벨트 | +0.12 (2026-07-31) | 2분기 EPS는 예상 밑돌았지만 가이던스 상향, 2030년까지 계약부하 69GW로 확대 | [AEP](../../tickers/AEP - American Electric Power.md) |
-| Exelon | 송배전 전문 — 시카고·필라델피아·볼티모어 | -0.13 (2026-07-31) | 2분기 EPS가 예상을 밑돌면서 주가가 4.5% 급락, 연간 가이던스는 그대로 유지 | [EXC](../../tickers/EXC - Exelon Corporation.md) |
-| Duke Energy | 동남부 — 캐롤라이나 DC 유치 | +0.10 (2026-07-31) | 캐롤라이나에 대형 신규 가스발전 프로젝트를 제안했고, 폭풍으로 인한 정전을 복구했다 | [DUK](../../tickers/DUK - Duke Energy Corporation.md) |
-| Southern | 조지아 — 애틀랜타 DC 급증 대응 | +0.15 (2026-07-31) | 2분기 실적이 예상을 크게 웃돌아 연간 이익 전망을 상단으로 올렸다 | [SO](../../tickers/SO - The Southern Company.md) |
+| Dominion | 버지니아 — 세계 최대 DC 클러스터 유틸리티 | 🔴 -0.06 (2026-08-21) | 도미니언을 넥스테라에 매각하는 합병 심사에 버지니아 주지사가 공식적으로 뛰어들었고, 심사를 맡을 위원장이 과거 넥스테라 변호사였다는 논란도 가라앉지 않아 정치적 잡음이 계속되고 있다. | [D](../../tickers/D - Dominion Energy.md) |
+| AEP | 765kV 송전 최대 — 오하이오 DC 벨트 | ⚪ -0.03 (2026-08-21) | AEP는 이번 주 특별한 사업 뉴스 없이, Citi·Barclays에 이어 Truist까지 목표주가를 낮추며 애널리스트들의 신중한 시각이 이어졌다. | [AEP](../../tickers/AEP - American Electric Power.md) |
+| Exelon | 송배전 전문 — 시카고·필라델피아·볼티모어 | 🔴 -0.06 (2026-08-21) | 펜실베이니아 주지사가 서명한 데이터센터 규제 행정명령이 엑셀론의 PECO 관할구역에도 적용되면서, 안 그래도 줄어들고 있던 데이터센터 계약 파이프라인에 새로운 제약이 하나 더 생겼다. | [EXC](../../tickers/EXC - Exelon Corporation.md) |
+| Duke Energy | 동남부 — 캐롤라이나 DC 유치 | ⚪ -0.04 (2026-08-21) | 듀크에너지의 노스캐롤라이나 요금인상 청문회가 다시 열렸다 — 인상폭은 처음보다 크게 줄었지만 주 법무장관은 여전히 너무 높다며 반대하고 있어, 9월 최종 결정까지 지켜봐야 한다. | [DUK](../../tickers/DUK - Duke Energy Corporation.md) |
+| Southern | 조지아 — 애틀랜타 DC 급증 대응 | 🔴 -0.05 (2026-08-21) | 서던컴퍼니는 이번 주 특별한 사업 뉴스 없이, 조지아 규제당국이 OpenAI 데이터센터 전력계약 심사 시한을 늦춰 검토를 이어가고 있다는 소식과 애널리스트의 소폭 목표가 하향만 있었다. | [SO](../../tickers/SO - The Southern Company.md) |
 | NRG Energy | 텍사스 IPP — GEV·부동산과 DC 전력 합작 | watchlist 외 | — | `NRG` |
 <!-- PLAYERS_END -->
 
