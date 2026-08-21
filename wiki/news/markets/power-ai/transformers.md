@@ -1,7 +1,7 @@
 ---
 title: "변압기 · 스위치기어 · HVDC — 시장 종합"
 created: 2026-07-06
-updated: 2026-07-31
+updated: 2026-08-21
 domain: finance
 type: claim
 weight: reference
@@ -47,13 +47,13 @@ sources: ["https://zdnet.co.kr/view/?no=20260206190629", "https://www.sedaily.co
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| GE Vernova (Electrification) | 그리드 장비 — 차단기·스위치기어·계기용변압기 | 🟢 +0.19 (2026-07-31) | 펜실베이니아 그리드 설비 공장 증설 발표와 AI 데이터센터 서사에 주가가 하루 7.46% 올랐다 | [GEV](../../tickers/GEV - GE Vernova Inc.md) |
-| Eaton | 북미 전력기기 종합 — 변압기·스위치기어·DC 배전 | ⚪ +0.03 (2026-07-31) | 2분기 실적을 오늘 발표하는데 발표 전 밸류에이션 부담으로 주가만 조정받았다 | [ETN](../../tickers/ETN - Eaton Corporation plc.md) |
+| GE Vernova (Electrification) | 그리드 장비 — 차단기·스위치기어·계기용변압기 | ⚪ +0.04 (2026-08-21) | GE버노바는 데이터센터向 수주가 벌써 작년 한 해 치를 넘어설 만큼 사업은 잘 되고 있지만, 정작 주가는 하루 만에 3.5% 넘게 빠지며 최근 상승세가 잠시 멈췄다. | [GEV](../../tickers/GEV - GE Vernova Inc.md) |
+| Eaton | 북미 전력기기 종합 — 변압기·스위치기어·DC 배전 | ⚪ +0.03 (2026-08-21) | 이튼은 냉각기 회사 트레인과 손잡고 AI 데이터센터용 전력·냉각 통합 설계를 새로 내놓았지만, 정작 주가는 하루 만에 5% 넘게 빠지며 최근 상승분을 일부 반납했다. | [ETN](../../tickers/ETN - Eaton Corporation plc.md) |
 | Hitachi Energy | HVDC·대형 변압기 글로벌 강자 (히타치 부문) | — | — | 비상장 |
-| HD현대일렉트릭 | 북미 대형 변압기 — ’25 영업익 1조 돌파 | 🟢🟢 +0.24 (2026-07-31) | 2분기 영업이익이 37% 늘고 빅테크 추가 대형계약도 협의 중이다 | [267260.KS](../../tickers/267260.KS - HD Hyundai Electric.md) |
-| 효성중공업 | 초고압 변압기 — 미국 공장 증설 | 🟢🟢 +0.32 (2026-07-31) | 2분기 영업이익이 97% 급증하며 분기 역대 최대 실적을 기록했다 | [298040.KS](../../tickers/298040.KS - Hyosung Heavy Industries.md) |
-| LS ELECTRIC | 배전기기·DC 전력 패키지 (Bloom 향 공급) | 🟢🟢 +0.29 (2026-07-31) | 2분기 영업이익이 64% 늘어난 사상 최대 실적을 냈다 | [010120.KS](../../tickers/010120.KS - LS ELECTRIC.md) |
-| Vertiv | DC 내부 전력체인 (UPS·PDU·부스웨이) | 🔴 -0.13 (2026-07-31) | 2분기 이익은 예상치를 넘었지만 매출이 부진해 주가가 9%대 급락했다 | [VRT](../../tickers/VRT - Vertiv Holdings Co.md) |
+| HD현대일렉트릭 | 북미 대형 변압기 — ’25 영업익 1조 돌파 | ⚪ +0.00 (2026-08-21) | HD현대일렉트릭에 대한 새로운 개별 뉴스는 없었고, 경쟁사들이 해외에서 계속 신규 계약을 따내는 흐름만 확인됐다. | [267260.KS](../../tickers/267260.KS - HD Hyundai Electric.md) |
+| 효성중공업 | 초고압 변압기 — 미국 공장 증설 | ⚪ +0.00 (2026-08-21) | 효성중공업에 대한 새로운 개별 뉴스는 없었고, 지난주 증권가의 목표가 소폭 하향(매수의견은 유지) 이후 특별한 변화가 없다. | [298040.KS](../../tickers/298040.KS - Hyosung Heavy Industries.md) |
+| LS ELECTRIC | 배전기기·DC 전력 패키지 (Bloom 향 공급) | 🟢 +0.10 (2026-08-21) | LS ELECTRIC이 미국 블룸에너지의 대형 데이터센터에 전력 공급 장치를 추가로 납품하기로 하며 북미 수주 행진을 이어갔다. | [010120.KS](../../tickers/010120.KS - LS ELECTRIC.md) |
+| Vertiv | DC 내부 전력체인 (UPS·PDU·부스웨이) | 🔴 -0.05 (2026-08-21) | 버티브 주가가 이틀 연속 크게 빠지면서, 지난달 실적 발표 후 이어졌던 반등분을 상당 부분 다시 내줬다. | [VRT](../../tickers/VRT - Vertiv Holdings Co.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)
