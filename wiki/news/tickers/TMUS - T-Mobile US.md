@@ -1,7 +1,7 @@
 ---
 title: "TMUS - T-Mobile US, Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-08-09
+updated: 2026-08-23
 domain: finance
 type: claim
 weight: reference
@@ -42,6 +42,39 @@ T-Mobile은 미국 3위 통신사에서 출발했으나 2020년 스프린트(Spr
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-08-23 (일) — 신호등: 🔴 역풍 (-0.13)
+
+**세 줄 요약**
+1. Wolfe Research가 T-Mobile 투자의견을 하향했습니다. AT&T·버라이즌의 공세적 프로모션과 스타링크의 고정무선인터넷 진입을 이유로 들었습니다.
+2. 다만 800MHz 주파수 포트폴리오 매각을 완료해 29억달러의 현금과 신규 대역폭을 확보하는 성과도 있었습니다.
+3. 8월 들어 주가는 6% 올라 2개월 연속 상승세를 이어가고 있지만, 애널리스트는 추가 경쟁 압박을 경고하고 있습니다.
+
+**뉴스 브리핑**
+
+**① Wolfe Research, T-Mobile 매출 성장 전망 리스크 부각하며 투자의견 하향** 🔴
+- **무슨 일**: Wolfe Research, T-Mobile을 'Outperform'→'Peer Perform' 하향. AT&T·버라이즌의 공세적 프로모션, 케이블사 단말보조금 확대, 스타링크 FWA 진입을 이유로 지목.
+- **왜 중요**: 핵심 경쟁우위였던 저가 후불 가입자 시장에서 경쟁이 격화되고 있으며, 광대역·6G 투자가 주주환원 여력을 압박할 수 있다는 우려다.
+- **주가에 의미**: 중장기 매출 성장 둔화 우려로 부정적 신호이며, 투자자들의 높은 자본환원 기대치에 대한 경고이기도 하다.
+- 출처: [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/wolfe-research-cuts-t-mobile-124126637.html) · 2026-08-14
+
+**② T-Mobile, 800MHz 주파수 포트폴리오 매각 완료** 🟢
+- **무슨 일**: 800MHz 주파수 포트폴리오를 그레인 매니지먼트에 매각 완료, 현금 29억달러+600MHz 주파수 확보(FCC승인 7/1).
+- **왜 중요**: 주파수 포트폴리오 재편으로 현금 유입과 향후 5G/FWA 확장에 유리한 대역폭을 확보했다.
+- **주가에 의미**: 재무 유연성 확대와 네트워크 전략 개선 측면에서 완만한 긍정적 이벤트다.
+- 출처: [T-Mobile Newsroom](https://www.t-mobile.com/news/business/t-mobile-completes-sale-of-800-mhz-spectrum-portfolio-to-grain-management) · 2026-08-11
+
+**③ T-Mobile 주가 2개월 연속 상승세, 그러나 애널리스트는 '새로운 압박' 경고** ⚪
+- **무슨 일**: 8월 들어 +6%로 2개월 연속 상승세지만 Wolfe Research는 경쟁 심화에 따른 추가 압박 경고.
+- **왜 중요**: 주가 모멘텀과 애널리스트의 경고가 엇갈리는 상황으로, 시장의 낙관과 실제 펀더멘털 리스크 간 괴리를 보여준다.
+- **주가에 의미**: 단기 주가는 견조하지만 하향 리스크가 잠재해 있어 중립적으로 평가한다.
+- 출처: [Stocktwits](https://www.tradingview.com/news/stocktwits:5bc497105094b:0-tmus-stock-is-on-track-for-a-second-month-of-gains-but-this-analyst-sees-new-pressures-ahead/) · 2026-08-15
+
+**경쟁 구도 한눈에**
+- 버라이즌이 가격 민감형 후불 가입자 유치 프로모션 강화로 T-Mobile 핵심 고객층 공략 → T-Mobile 가입자 순증 둔화 리스크를 높여 불리
+- AT&T도 저가 후불 가입자 유치 공세 강화, 2분기 실적 호조로 재원 여력 충분 → T-Mobile 순증 가입자 둔화 압력 가중, 부정적
+
+**앞으로 지켜볼 것**
+- [ ] 다음 분기 실적 — 확인할 것: 후불 가입자 순증 둔화 여부
 ### 2026-08-09 (일) — 신호등: 🟢🟢 강한 순풍 (+0.30)
 
 **세 줄 요약**
