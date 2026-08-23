@@ -181,35 +181,35 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [WMT](tickers/WMT - Walmart Inc.md) | 2026-08-09 | 🟢 +0.13 | 8/20 실적 발표를 앞두고 오펜하이머가 투자의견을 중립으로 낮추며 단기 상승 여력에 의문을 제기했습니다. | 3 |
-| [COST](tickers/COST - Costco Wholesale.md) | 2026-08-09 | 🟢🟢 +0.40 | 7월 매출이 전년 대비 10.7% 증가하며 견조한 소비 흐름을 다시 확인했습니다. | 3 |
-| [KO](tickers/KO - The Coca-Cola Company.md) | 2026-08-09 | 🟢🟢 +0.36 | 2분기 실적이 시장 예상을 넘어서며 연간 이익 성장률 전망을 9~10%로 상향했습니다. | 2 |
-| [PEP](tickers/PEP - PepsiCo.md) | 2026-08-09 | 🔴🔴 -0.24 | 2분기 유기적 매출 성장률이 2%에 그치고 북미 식품 부문은 역성장하며 실적 모멘텀이 약화됐습니다. | 3 |
-| [PG](tickers/PG - Procter and Gamble.md) | 2026-08-09 | 🟢 +0.13 | 38억 달러 규모의 Thorne 인수로 건강기능식품 시장 진출을 확대합니다. | 2 |
-| [MO](tickers/MO - Altria Group.md) | 2026-08-09 | 🔴 -0.16 | 2분기 EPS가 근소하게 예상을 밑돌며 주가가 하루 만에 8%대 급락했습니다. | 1 |
-| [MCD](tickers/MCD - McDonalds Corporation.md) | 2026-08-09 | 🔴 -0.18 | 2분기 미국 동일점포 매출 성장률이 0.8%로 크게 둔화되며 실적 우려가 커졌습니다. | 1 |
-| [HD](tickers/HD - The Home Depot.md) | 2026-08-09 | ⚪ -0.02 | 8월 18일 2분기 실적 발표를 앞두고 뚜렷한 개별 이슈 없이 관망 국면입니다. | 1 |
-| [NKE](tickers/NKE - NIKE Inc.md) | 2026-08-09 | 🔴🔴 -0.29 | JP모건이 '비중축소'로 투자의견을 낮추며 나이키의 턴어라운드 전략에 대한 재무적 우려를 제기했습니다. | 2 |
-| [SBUX](tickers/SBUX - Starbucks Corporation.md) | 2026-08-09 | 🟢🟢 +0.36 | 3분기 실적이 시장 예상을 크게 웃돌며 연간 EPS 가이던스를 대폭 상향했습니다. | 3 |
+| [WMT](tickers/WMT - Walmart Inc.md) | 2026-08-23 | 🔴🔴 -0.24 | 약가 규제로 미국 매장 매출 성장률이 6년래 최저(2.6%)로 떨어지며 주가가 9~10% 급락했다. | 3 |
+| [COST](tickers/COST - Costco Wholesale.md) | 2026-08-23 | 🟢🟢 +0.35 | 월마트발 소매업 불안 속에서도 3분기 매출이 11.6% 늘며 견조한 성장을 재확인했다. | 3 |
+| [KO](tickers/KO - The Coca-Cola Company.md) | 2026-08-23 | 🟢🟢 +0.43 | 2분기 아시아 시장 주도 성장에 힘입어 가이던스를 상향하며 주가가 사상 최고치를 경신했다. | 2 |
+| [PEP](tickers/PEP - PepsiCo.md) | 2026-08-23 | 🔴 -0.17 | 2분기 유기적 매출 성장률이 2.4%에 그쳐 코카콜라 대비 상대적으로 부진한 모습을 보였다. | 3 |
+| [PG](tickers/PG - Procter and Gamble.md) | 2026-08-23 | 🔴 -0.15 | 중국 스킨케어 등 물량 감소로 목표주가를 크게 밑돌지만 미국 시장점유율은 소폭 개선됐다. | 2 |
+| [MO](tickers/MO - Altria Group.md) | 2026-08-23 | ⚪ +0.00 | 2분기 실적은 소폭 부진했지만 가이던스 하단을 상향했고, 파우치 시장 경쟁에서는 여전히 열세다. | 1 |
+| [MCD](tickers/MCD - McDonalds Corporation.md) | 2026-08-23 | 🔴 -0.18 | 미국 동일점포매출 성장률이 0.8%로 둔화되며 52주 신저가를 기록했다. | 1 |
+| [HD](tickers/HD - The Home Depot.md) | 2026-08-23 | 🟢 +0.12 | 2분기 실적은 예상을 상회했지만 가이던스는 상향 없이 유지되며 신중한 흐름을 보였다. | 1 |
+| [NKE](tickers/NKE - NIKE Inc.md) | 2026-08-23 | 🔴🔴 -0.36 | 중국 수요 부진이 최대 10억달러 역풍으로 지목되며 주가가 다년 최저 수준에 머물러 있다. | 2 |
+| [SBUX](tickers/SBUX - Starbucks Corporation.md) | 2026-08-23 | 🟢 +0.15 | 구조조정을 마무리한 가운데 연초 대비 25% 오르며 동종 외식주 중 최고 성과를 냈다. | 3 |
 
 ### 산업재 / 방산
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [CAT](tickers/CAT - Caterpillar Inc.md) | 2026-08-09 | 🟢🟢 +0.49 | 2분기 매출 205억 달러로 사상 첫 200억 달러를 돌파, AI 데이터센터發 파워·건설장비 수요가 실적을 견인했다. | 5 |
-| [DE](tickers/DE - Deere & Company.md) | 2026-08-09 | 🔴 -0.11 | 존디어가 UAW의 임금·복지 확대 요구를 거부하며 노사 협상이 8월23일 비준투표를 앞두고 경색됐다. | 5 |
-| [BA](tickers/BA - The Boeing Company.md) | 2026-08-09 | 🟢🟢 +0.35 | FAA가 737 맥스 7 형식증명을 발급하며 8년 가까이 이어진 규제 지연이 해소됐다. | 4 |
-| [LMT](tickers/LMT - Lockheed Martin Corp.md) | 2026-08-09 | 🟢🟢 +0.49 | 美 육군이 록히드마틴에 사상 최대 586억 달러 규모 패트리엇 요격미사일 다년도 계약을 발주했다. | 5 |
-| [RTX](tickers/RTX - RTX Corporation.md) | 2026-08-09 | 🟢🟢 +0.49 | 2분기 전 부문에서 시장 예상을 웃도는 실적을 내며 수주잔고가 2890억 달러로 사상 최대를 기록했다. | 3 |
-| [NOC](tickers/NOC - Northrop Grumman Corp.md) | 2026-08-09 | 🟢🟢 +0.38 | 국방부와 30억 달러 규모 패트리엇·사드 요격미사일 증산 협약을 체결해 신규 공급망 지위를 확보했다. | 4 |
-| [HON](tickers/HON - Honeywell International.md) | 2026-08-09 | 🟢🟢 +0.30 | PSS 사업부 매각을 완료하며 순수 오토메이션 기업으로의 포트폴리오 전환을 마무리했다. | 6 |
-| [GE](tickers/GE - GE Aerospace.md) | 2026-08-09 | 🟢🟢 +0.55 | 2분기 매출이 24% 급증하고 연간 영업이익 가이던스를 큰 폭으로 상향했다. | 4 |
-| [UPS](tickers/UPS - United Parcel Service.md) | 2026-08-09 | 🟢 +0.19 | 골드만삭스가 UPS를 8월 컨빅션 리스트에 추가하며 저마진 아마존 물량 축소·비용절감 전략을 긍정 평가했다. | 5 |
-| [FDX](tickers/FDX - FedEx Corporation.md) | 2026-08-09 | 🟢 +0.17 | 페덱스가 프레이트 분사 이후 로지스틱스 신임 대표를 선임하며 핵심사업 집중 전략을 이어가고 있다. | 4 |
-| [079550.KS](tickers/079550.KS - LIG Nex1.md) | 2026-08-09 | 🟢🟢 +0.26 | LIG디펜스앤에어로스페이스가 대형 공급계약 공시로 주가가 100만원을 돌파했다. | 2 |
-| [012450.KS](tickers/012450.KS - Hanwha Aerospace.md) | 2026-08-09 | 🟢🟢 +0.38 | 한화에어로스페이스가 2분기 영업이익 1조원을 처음 돌파하며 지상방산·조선 부문 동반 호실적을 기록했다. | 2 |
-| [KTOS](tickers/KTOS - Kratos Defense.md) | 2026-08-09 | 🟢🟢 +0.34 | 크라토스가 2분기 실적 서프라이즈와 함께 연간 매출 가이던스를 상향하며 방산 수요 확대를 입증했다. | 1 |
-| [AVAV](tickers/AVAV - AeroVironment Inc.md) | 2026-08-09 | 🟢🟢 +0.38 | 에어로바이런먼트가 대드론 레이저 '로커스트'로 4억달러 규모 육군 양산계약을 수주하며 신규 시장을 개척했다. | 2 |
+| [CAT](tickers/CAT - Caterpillar Inc.md) | 2026-08-23 | 🟢🟢 +0.37 | AI 데이터센터發 수요로 2분기 매출이 사상 최대를 기록했지만 밸류에이션 논쟁이 커지고 있다. | 5 |
+| [DE](tickers/DE - Deere & Company.md) | 2026-08-23 | 🟢🟢 +0.29 | AI 데이터센터發 건설 수요로 가이던스를 상향하며 주가가 6% 이상 급등했다. | 5 |
+| [BA](tickers/BA - The Boeing Company.md) | 2026-08-23 | 🟢🟢 +0.28 | 카타르向 KC-46 판매 승인과 위스크에어로 매각 등 포트폴리오 재편이 이어지고 있다. | 4 |
+| [LMT](tickers/LMT - Lockheed Martin Corp.md) | 2026-08-23 | 🟢🟢 +0.21 | 무인수상정 미사일 발사 시연에도 시장 반응은 미온적이었지만 수주잔고는 사상 최대다. | 5 |
+| [RTX](tickers/RTX - RTX Corporation.md) | 2026-08-23 | 🟢🟢 +0.39 | 美 해군과 229억달러 규모 토마호크 미사일 증산 계약을 체결하며 수주잔고가 사상 최대를 기록했다. | 3 |
+| [NOC](tickers/NOC - Northrop Grumman Corp.md) | 2026-08-23 | 🟢🟢 +0.37 | 신형 드론 대응 방공체계를 공개했고 2분기 실적 서프라이즈로 30일간 주가가 12.3% 올랐다. | 4 |
+| [HON](tickers/HON - Honeywell International.md) | 2026-08-23 | 🔴 -0.05 | 항공우주 분사 이후 자동화 중심으로 재편되며 핵심 사업부 리더십을 교체했다. | 6 |
+| [GE](tickers/GE - GE Aerospace.md) | 2026-08-23 | 🟢🟢 +0.35 | JASSM 미사일용 엔진 계약을 수주했지만 가이던스가 유지에 그쳐 밸류에이션 부담에 주가가 조정받았다. | 4 |
+| [UPS](tickers/UPS - United Parcel Service.md) | 2026-08-23 | 🟢 +0.18 | 저마진 아마존 물량 축소를 완료하고 마진 중심 전략으로 전환하며 실적이 예상을 상회했다. | 5 |
+| [FDX](tickers/FDX - FedEx Corporation.md) | 2026-08-23 | 🟢 +0.15 | 관세 환급금 8억달러를 자사 이익 대신 고객에게 재분배하기로 했다. | 4 |
+| [079550.KS](tickers/079550.KS - LIG Nex1.md) | 2026-08-23 | 🟢🟢 +0.21 | 8월 MSCI 편입 후보로 거론되지만 밸류에이션 부담으로 투자의견이 중립으로 낮아졌다. | 2 |
+| [012450.KS](tickers/012450.KS - Hanwha Aerospace.md) | 2026-08-23 | 🟢🟢 +0.29 | 美 육군과 자주포 시제품 계약을 체결하며 미국 방산시장 진입의 첫 관문을 열었다. | 2 |
+| [KTOS](tickers/KTOS - Kratos Defense.md) | 2026-08-23 | 🟢🟢 +0.30 | GE와 공동개발한 미사일 엔진으로 새 시장에 진입했지만 임원 지분매도로 주가가 조정받았다. | 1 |
+| [AVAV](tickers/AVAV - AeroVironment Inc.md) | 2026-08-23 | 🟢 +0.06 | 그리스에 유럽 생산거점을 마련했지만 주주 신인의무 조사 소식으로 주가가 7.5% 급락했다. | 2 |
 
 ### 부동산 (REITs)
 
@@ -230,16 +230,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [VZ](tickers/VZ - Verizon Communications.md) | 2026-08-09 | 🟢 +0.11 | 스페이스X가 스타링크 기반 이동통신 사업 진출을 공식화하며 버라이즌 주가가 시간외 급락했다. | 5 |
-| [T](tickers/T - AT&T Inc.md) | 2026-08-09 | 🟢 +0.11 | 스페이스X의 이동통신 사업 진출 선언으로 AT&T 주가가 다른 통신주와 함께 하락했다. | 3 |
-| [TMUS](tickers/TMUS - T-Mobile US.md) | 2026-08-09 | 🟢🟢 +0.30 | 도이치텔레콤과의 3000억달러 완전합병이 무산되며 소액주주 불확실성이 해소됐다. | 4 |
-| [CMCSA](tickers/CMCSA - Comcast Corporation.md) | 2026-08-09 | ⚪ +0.04 | FCC가 방송사 소유 상한 규제를 폐지하며 컴캐스트의 M&A 옵션이 넓어졌다. | 3 |
-| [CHTR](tickers/CHTR - Charter Communications.md) | 2026-08-09 | 🔴 -0.13 | 콕스커뮤니케이션스 218억달러 인수가 캘리포니아 규제당국 승인만 남겨두고 8월 중 마감을 앞두고 있다. | 4 |
-| [NFLX](tickers/NFLX - Netflix Inc.md) | 2026-08-09 | 🟢 +0.09 | 2분기 실적 발표 후 시청지표 공개 축소 방침에 대한 우려로 주가가 급락했으나 이후 상당폭 반등했다. | 3 |
-| [DIS](tickers/DIS - The Walt Disney Company.md) | 2026-08-09 | 🟢🟢 +0.30 | 디즈니는 3분기 실적에서 매출·EPS 모두 예상치를 상회하며 파크와 스트리밍 부문 모두 성장했다. | 4 |
-| [SPOT](tickers/SPOT - Spotify Technology.md) | 2026-08-09 | 🟢 +0.11 | 2분기 EPS·매출이 예상치를 소폭 밑돌며 발표 직후 주가가 급락했다가 이후 반등했다. | 3 |
-| [EA](tickers/EA - Electronic Arts Inc.md) | 2026-08-09 | ⚪ -0.03 | EA는 8월 4일 사우디 PIF·실버레이크·어피니티파트너스 컨소시엄에 550억달러(역대 최대 LBO)로 인수되며 나스닥에서 상장폐지됐다. | 5 |
-| [TTWO](tickers/TTWO - Take-Two Interactive.md) | 2026-08-09 | 🟢🟢 +0.29 | 1분기(FY27) 순예약이 가이던스를 상회했고 연간 가이던스도 그대로 유지됐다. | 5 |
+| [VZ](tickers/VZ - Verizon Communications.md) | 2026-08-23 | ⚪ +0.04 | FCC 벌금 환급 소송에서 대법원 최종 패소했지만 주가는 52주 최고가 인근에서 견조하다. | 5 |
+| [T](tickers/T - AT&T Inc.md) | 2026-08-23 | 🟢 +0.13 | 2분기 실적 호조와 가이던스 유지에 힘입어 주가가 소폭 상승했다. | 3 |
+| [TMUS](tickers/TMUS - T-Mobile US.md) | 2026-08-23 | 🔴 -0.13 | Wolfe Research가 경쟁 심화를 이유로 투자의견을 낮췄지만 800MHz 주파수 매각은 완료했다. | 4 |
+| [CMCSA](tickers/CMCSA - Comcast Corporation.md) | 2026-08-23 | ⚪ +0.00 | 매출은 줄었지만 이익은 예상을 넘었고, 피콕이 출시 6년 만에 첫 분기 흑자를 냈다. | 3 |
+| [CHTR](tickers/CHTR - Charter Communications.md) | 2026-08-23 | 🔴 -0.11 | 340억달러 규모 콕스 인수를 완료해 미국 최대 케이블사업자가 됐지만 가입자 이탈은 계속됐다. | 4 |
+| [NFLX](tickers/NFLX - Netflix Inc.md) | 2026-08-23 | 🟢🟢 +0.35 | 행동주의 투자자 빌 애크먼이 4년 만에 재진입하며 '스트리밍전쟁 승리'를 선언했다. | 3 |
+| [DIS](tickers/DIS - The Walt Disney Company.md) | 2026-08-23 | 🟢🟢 +0.20 | 모건스탠리가 목표가를 올리며 낙관하는 가운데 파크 부문 대규모 확장 계획도 공개했다. | 4 |
+| [SPOT](tickers/SPOT - Spotify Technology.md) | 2026-08-23 | 🟢🟢 +0.31 | 자사주 매입을 15억달러 추가 승인하며 주가가 기술적 강세 신호를 보였다. | 3 |
+| [EA](tickers/EA - Electronic Arts Inc.md) | 2026-08-23 | ⚪ +0.00 | 비상장화 이후 오늘 기준 새로운 공개 뉴스는 확인되지 않았다. | 5 |
+| [TTWO](tickers/TTWO - Take-Two Interactive.md) | 2026-08-23 | 🟢🟢 +0.22 | GTA6 유출 대응 소환장을 승인받았고, 11월 출시일이 유지되며 주가가 반등했다. | 5 |
 
 ### 유틸리티 / 전력
 
