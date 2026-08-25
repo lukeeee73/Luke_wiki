@@ -1,7 +1,7 @@
 ---
 title: "범용 DRAM·NAND — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-18
+updated: 2026-08-25
 domain: finance
 type: claim
 weight: reference
@@ -45,9 +45,9 @@ sources: ["https://www.idc.com/resource-center/blog/global-memory-shortage-crisi
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Samsung | DRAM/NAND 1위 · 점유 40% | 🟢 +0.17 (2026-08-18) | 삼성전자 HBM4 수율이 80%로 올라 SK하이닉스와의 기술 격차를 빠르게 좁히고 있다 | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
-| SK Hynix | DRAM 2위 + Solidigm · 점유 34% | 🟢 +0.15 (2026-08-18) | 미국 정부가 SK하이닉스를 애플 메모리 공급 대안으로 거론하며 주가가 급등했다 | [000660.KS](../../tickers/000660.KS - SK Hynix.md) |
-| Micron | DRAM/NAND 3강 · 점유 22% | 🟢🟢 +0.27 (2026-08-18) | 미국 정부가 애플에 중국 대신 마이크론 메모리 구매를 압박하며 주가가 1,000달러를 재돌파했다 | [MU](../../tickers/MU - Micron Technology.md) |
+| Samsung | DRAM/NAND 1위 · 점유 40% | 🔴 -0.13 (2026-08-25) | 역대 최대 110조원 주주환원을 발표했지만 자사주 소각 미확정에 시장이 실망하며 이틀 연속 급락했다. 핫칩스 2026 zHBM 공개는 기술적으로 긍정적이었다 | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
+| SK Hynix | DRAM 2위 + Solidigm · 점유 34% | ⚪ +0.03 (2026-08-25) | 전일 애플發 중국 메모리 우려로 10.37% 급락했지만 오늘 1~3% 반등하며 삼성 대비 상대적으로 견조했다. 핫칩스에서 HBM5용 인텔 EMIB 패키징 검토가 공개됐다 | [000660.KS](../../tickers/000660.KS - SK Hynix.md) |
+| Micron | DRAM/NAND 3강 · 점유 22% | 🔴 -0.10 (2026-08-25) | 애플의 중국 메모리(CXMT/YMTC) 조달 검토 보도와 넷리스트 특허소송으로 주가가 하락했지만, 8/26 엔비디아 실적을 앞두고 HBM 수요 기대는 유효하다 | [MU](../../tickers/MU - Micron Technology.md) |
 | Kioxia | NAND 주요 공급사 | watchlist 외 | — | `285A.T` |
 | SanDisk | NAND (구 WD) | watchlist 외 | — | `SNDK` |
 <!-- PLAYERS_END -->

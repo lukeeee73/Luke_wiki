@@ -1,7 +1,7 @@
 ---
 title: "반도체 IP · EDA — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-18
+updated: 2026-08-25
 domain: finance
 type: claim
 weight: reference
@@ -45,9 +45,9 @@ sources: ["https://www.synopsys.com/", "https://www.arm.com/"]
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Synopsys | EDA 1위 · 점유 30% | ⚪ -0.04 (2026-08-18) | 웰스파고가 목표주가를 낮췄지만 일부 기관은 오히려 신규 매수에 나서며 시각이 엇갈렸다 | [SNPS](../../tickers/SNPS - Synopsys, Inc.md) |
-| Cadence | EDA 2위 · 점유 28% | ⚪ +0.03 (2026-08-18) | 새 촉매는 없었지만 월가의 강세 애널리스트 등급이 8월에도 그대로 이어지고 있다 | [CDNS](../../tickers/CDNS - Cadence Design Systems.md) |
-| ARM | CPU/GPU IP (ISA 표준) | 🟢 +0.08 (2026-08-18) | CPU 수요 전망 상향 소식에 주가가 급등하며 실적 이후 강세 흐름을 이어갔다 | [ARM](../../tickers/ARM - Arm Holdings plc.md) |
+| Synopsys | EDA 1위 · 점유 30% | ⚪ +0.03 (2026-08-25) | 모건스탠리의 목표주가 하향과 서프라이즈 기대감이 팽팽한 가운데 8/26 실적 발표가 분기점이 될 전망이다 | [SNPS](../../tickers/SNPS - Synopsys, Inc.md) |
+| Cadence | EDA 2위 · 점유 28% | 🟢 +0.05 (2026-08-25) | BofA 등이 Agentic AI·EDA 사업 강점을 근거로 매수 의견과 420달러 목표주가를 재확인하며 잔잔한 순풍이 이어졌다 | [CDNS](../../tickers/CDNS - Cadence Design Systems.md) |
+| ARM | CPU/GPU IP (ISA 표준) | ⚪ -0.01 (2026-08-25) | RBC의 목표주가 대폭 하향(뒤늦은 확인)과 올릭스 투자를 통한 AI 인프라 다각화 기대가 팽팽히 맞섰다 | [ARM](../../tickers/ARM - Arm Holdings plc.md) |
 | Siemens EDA | EDA 3위 (해외) · 점유 12% | — | — | 비상장 |
 <!-- PLAYERS_END -->
 
