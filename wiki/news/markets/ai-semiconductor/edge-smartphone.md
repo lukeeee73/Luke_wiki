@@ -1,7 +1,7 @@
 ---
 title: "온디바이스 AI 스마트폰 — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-18
+updated: 2026-08-25
 domain: finance
 type: claim
 weight: reference
@@ -45,10 +45,10 @@ NPU 탑재 SoC로 생성형 AI를 단말에서 직접 구동하는 스마트폰.
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| MediaTek | AP-SoC ~40% (물량 1위) · 점유 40% | 🟢 +0.05 (2026-08-18) | 미디어텍이 AI 데이터센터 칩에 5조 원을 투입하며 2027년 점유율 목표를 크게 올렸다 | [2454.TW](../../tickers/2454.TW - MediaTek Inc.md) |
-| Qualcomm | ~24% 프리미엄 Android · 점유 24% | ⚪ -0.01 (2026-08-18) | 퀄컴은 AI 주권 파트너십 외 큰 뉴스가 없었고 스마트폰 시장 고가화 경고가 겹쳐 조용한 하루를 보냈다 | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
+| MediaTek | AP-SoC ~40% (물량 1위) · 점유 40% | 🔴 -0.14 (2026-08-25) | 경쟁사 마벨-구글 커스텀칩 계약 확대로 미디어텍의 TPU 물량 위협이 부각되며 주가가 3.8% 내렸다 | [2454.TW](../../tickers/2454.TW - MediaTek Inc.md) |
+| Qualcomm | ~24% 프리미엄 Android · 점유 24% | 🔴 -0.06 (2026-08-25) | 모바일·PC·퍼스널AI 신임 총괄 영입 소식에도 반도체 업종 투매로 주가가 5% 빠졌고 데이터센터 사업 반응은 여전히 엇갈린다 | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
 | Apple | ~17% 자체 A시리즈 · 점유 17% | 🔴 -0.06 (2026-08-17) | 알리바바와 손잡고 중국 전용 AI 모델을 확보했지만, 앱스토어 소송과 미 정부의 중국산 메모리칩 반대 등 규제 압박이 더 크게 작용했다 | [AAPL](../../tickers/AAPL - Apple Inc.md) |
-| Samsung LSI | ~5% Exynos · 점유 5% | 🟢 +0.17 (2026-08-18) | 삼성전자 HBM4 수율이 80%로 올라 SK하이닉스와의 기술 격차를 빠르게 좁히고 있다 | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
+| Samsung LSI | ~5% Exynos · 점유 5% | 🔴 -0.13 (2026-08-25) | 역대 최대 110조원 주주환원을 발표했지만 자사주 소각 미확정에 시장이 실망하며 이틀 연속 급락했다. 핫칩스 2026 zHBM 공개는 기술적으로 긍정적이었다 | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
 | UNISOC | 저가형 (비상장/중국) · 점유 13% | — | — | 비상장 |
 <!-- PLAYERS_END -->
 

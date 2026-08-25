@@ -1,7 +1,7 @@
 ---
 title: "소버린·엔터프라이즈 AI — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-18
+updated: 2026-08-25
 domain: finance
 type: claim
 weight: reference
@@ -45,8 +45,8 @@ sources: ["https://www.nvidia.com/en-us/industries/global-public-sector/"]
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| NVIDIA | 국가 AI 팩토리 GPU 지배 공급 | 🟢 +0.07 (2026-08-18) | 엔비디아가 오픈AI 오하이오 데이터센터에 최대 1,050억 달러 규모 재무보증을 확정했다 | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
-| AMD | MI 시리즈 대안 | 🟢 +0.11 (2026-08-18) | AMD가 AI 확장 자금 마련을 위해 사상 최대 규모 채권을 발행했고 목표주가가 두 배로 상향됐다 | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
+| NVIDIA | 국가 AI 팩토리 GPU 지배 공급 | ⚪ -0.02 (2026-08-25) | 8/26 실적 발표를 이틀 앞두고 메모리 가격발 서버값 인상과 반도체 업종 위험회피로 주가가 7거래일 연속 하락했지만, 델 파트너십 등 수요 펀더멘털은 견조하다 | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
+| AMD | MI 시리즈 대안 | 🟢 +0.09 (2026-08-25) | 업종 전반 위험회피로 주가는 하루 조정받았지만, BMO캐피탈이 목표주가 550달러를 신규 제시하며 헬리오스를 엔비디아 최대 경쟁자로 평가했다 | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
 | Dell · HPE · Supermicro | 온프렘 시스템 통합 | watchlist 외 | — | `DELL` |
 <!-- PLAYERS_END -->
 

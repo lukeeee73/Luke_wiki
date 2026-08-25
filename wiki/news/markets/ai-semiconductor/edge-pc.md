@@ -1,7 +1,7 @@
 ---
 title: "AI PC — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-18
+updated: 2026-08-25
 domain: finance
 type: claim
 weight: reference
@@ -45,10 +45,10 @@ sources: ["https://counterpointresearch.com/en/reports/ai-advanced-pcs-to-surpas
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Intel | ~45–56% (Core Ultra) · 점유 50% | 🟢 +0.07 (2026-08-18) | 인텔이 200억 달러 증자를 마쳤고 CEO도 개인 자금으로 자사주를 매입했다 | [INTC](../../tickers/INTC - Intel Corporation.md) |
+| Intel | ~45–56% (Core Ultra) · 점유 50% | 🔴 -0.17 (2026-08-25) | x86 CPU 시장점유율이 31년 만에 최저(69.3%)로 떨어진 데다 엔비디아 실적을 앞둔 반도체 업종 투매까지 겹쳐 주가가 5% 빠졌다 | [INTC](../../tickers/INTC - Intel Corporation.md) |
 | Apple | ~20–24% 자체 M시리즈 · 점유 22% | 🔴 -0.06 (2026-08-17) | 알리바바와 손잡고 중국 전용 AI 모델을 확보했지만, 앱스토어 소송과 미 정부의 중국산 메모리칩 반대 등 규제 압박이 더 크게 작용했다 | [AAPL](../../tickers/AAPL - Apple Inc.md) |
-| AMD | #3 (Ryzen AI) · 점유 18% | 🟢 +0.11 (2026-08-18) | AMD가 AI 확장 자금 마련을 위해 사상 최대 규모 채권을 발행했고 목표주가가 두 배로 상향됐다 | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
-| Qualcomm | Snapdragon X (Arm, 최고속 성장) · 점유 5% | ⚪ -0.01 (2026-08-18) | 퀄컴은 AI 주권 파트너십 외 큰 뉴스가 없었고 스마트폰 시장 고가화 경고가 겹쳐 조용한 하루를 보냈다 | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
+| AMD | #3 (Ryzen AI) · 점유 18% | 🟢 +0.09 (2026-08-25) | 업종 전반 위험회피로 주가는 하루 조정받았지만, BMO캐피탈이 목표주가 550달러를 신규 제시하며 헬리오스를 엔비디아 최대 경쟁자로 평가했다 | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
+| Qualcomm | Snapdragon X (Arm, 최고속 성장) · 점유 5% | 🔴 -0.06 (2026-08-25) | 모바일·PC·퍼스널AI 신임 총괄 영입 소식에도 반도체 업종 투매로 주가가 5% 빠졌고 데이터센터 사업 반응은 여전히 엇갈린다 | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)
