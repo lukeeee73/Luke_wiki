@@ -1,7 +1,7 @@
 ---
 title: "전력공급·냉각 장비 — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-17
+updated: 2026-08-28
 domain: finance
 type: claim
 weight: reference
@@ -45,8 +45,8 @@ sources: ["https://pv-magazine-usa.com/2026/05/11/u-s-transformer-market-faces-s
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Vertiv | 전력+액침냉각 (NVIDIA GB200 레퍼런스) · 점유 22% | 🟢 +0.14 (2026-08-14) | 비트제로와의 신규 파트너십으로 고객을 다변화했고, 모건스탠리가 목표가 350달러를 재확인하며 7/29 매출 미스 충격에서 계속 회복 중이다 | [VRT](../../tickers/VRT - Vertiv Holdings Co.md) |
-| Eaton | 변압기·스위치기어·PDU · 점유 12% | 🟢 +0.18 (2026-08-14) | 미 공군의 신규 그리드 보안 계약으로 사업 다각화 신호를 더했고, 지난주 실적 서프라이즈 여파로 7거래일 연속 주가 상승을 이어갔다 | [ETN](../../tickers/ETN - Eaton Corporation plc.md) |
+| Vertiv | 전력+액침냉각 (NVIDIA GB200 레퍼런스) · 점유 22% | ⚪ +0.04 (2026-08-28) | 급락 이후 애널리스트 신뢰는 유지됐고 주가도 소폭 반등했지만 실행 리스크 우려는 남아 있다 | [VRT](../../tickers/VRT - Vertiv Holdings Co.md) |
+| Eaton | 변압기·스위치기어·PDU · 점유 12% | 🟢 +0.08 (2026-08-28) | 베어드와 BMO가 나란히 AI 수요를 근거로 매수의견을 새로 냈지만 주가는 아직 목표가 수준에 못 미친다 | [ETN](../../tickers/ETN - Eaton Corporation plc.md) |
 | Monolithic Power | 고밀도 GPU 전력전달 'last inch' | 🟢🟢 +0.27 (2026-08-17) | AI 서버향 전력반도체 수요로 2분기 어닝서프라이즈를 내고 가이던스를 크게 올렸지만, 이미 오른 주가와 내부자 매도는 경계 신호다 | [MPWR](../../tickers/MPWR - Monolithic Power Systems.md) |
 | Navitas · Infineon · ON | GaN/SiC 800VDC | watchlist 외 | — | `NVTS` |
 | Schneider Electric | 변압기·스위치기어 (해외) · 점유 12% | — | — | 비상장 |

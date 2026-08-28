@@ -1,7 +1,7 @@
 ---
 title: "전력 생산·전력망 — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-14
+updated: 2026-08-28
 domain: finance
 type: claim
 weight: reference
@@ -47,10 +47,10 @@ AI 데이터센터에 전기를 공급하는 발전·전력계약·전력망 접
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Constellation | 미 최대 원자력 (MS TMI 재가동) | ⚪ +0.03 (2026-08-14) | 지난주 실적 호조의 여운으로 자사주 매입 등에 힘입어 상승세를 이어갔지만, Argus가 금리 부담을 이유로 목표가를 낮추는 등 밸류에이션 신중론이 부각됐다 | [CEG](../../tickers/CEG - Constellation Energy.md) |
-| Vistra | 원자력+가스 | 🟢🟢 +0.24 (2026-08-14) | 2분기 실적이 컨센서스를 크게 상회하고 Helix 데이터센터 파트너십과 Cogentrix 인수 FERC 승인까지 겹치며 강한 순풍이 나타났다 | [VST](../../tickers/VST - Vistra Corp.md) |
-| NextEra | 신재생 1위 (Dominion 딜) | 🟢 +0.12 (2026-08-14) | 일본·美상무부와 가스발전 10GW 프로젝트 자금 확정은 긍정적이나, 버지니아 주지사의 도미니언 합병 심사 개입 선언으로 규제 불확실성이 다시 부각됐다 | [NEE](../../tickers/NEE - NextEra Energy.md) |
-| GE Vernova | 가스터빈 (2030까지 예약) + SMR | 🟢 +0.18 (2026-08-14) | 지난주 실적 서프라이즈 이후 애널리스트 목표가 상향과 AI 데이터센터 전력수요 지속 강세로 견조한 흐름을 이어가고 있다 | [GEV](../../tickers/GEV - GE Vernova Inc.md) |
+| Constellation | 미 최대 원자력 (MS TMI 재가동) | ⚪ -0.03 (2026-08-28) | 이번 주는 특별한 소식 없이 지난주 규제 충격을 소화하는 조용한 한 주였다 | [CEG](../../tickers/CEG - Constellation Energy.md) |
+| Vistra | 원자력+가스 | 🟢 +0.06 (2026-08-28) | 모건스탠리가 목표주가를 올렸고 회사는 전력 수요가 AI를 넘어 산업·인구 성장에서도 늘고 있다고 강조했다 | [VST](../../tickers/VST - Vistra Corp.md) |
+| NextEra | 신재생 1위 (Dominion 딜) | ⚪ +0.02 (2026-08-28) | 도미니언 인수 안건을 표결할 주주총회가 9월 3일로 확정됐지만 진짜 관문인 규제 심사는 11월에 남아있다 | [NEE](../../tickers/NEE - NextEra Energy.md) |
+| GE Vernova | 가스터빈 (2030까지 예약) + SMR | 🟢 +0.10 (2026-08-28) | CIGRE 전시회에서 친환경 차단기를 새로 선보이고 영국 변전소도 수주하며 주가가 사상 최고치 부근을 유지했다 | [GEV](../../tickers/GEV - GE Vernova Inc.md) |
 | Talen | Susquehanna/AWS PPA | watchlist 외 | — | `TLN` |
 <!-- PLAYERS_END -->
 
