@@ -1,7 +1,7 @@
 ---
 title: "BAC - Bank of America Corp. — Routine News Log"
 created: 2026-05-16
-updated: 2026-08-22
+updated: 2026-08-29
 domain: finance
 type: claim
 weight: reference
@@ -60,6 +60,48 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-08-29 (토) — 신호등: ⚪ 잔잔함 (-0.02)
+
+**세 줄 요약**
+1. 법원이 BofA-엡스타인 피해자 간 7,250만달러 합의를 승인했고, BofA는 연준의 GSIB 자본규제 개편을 둘러싼 갈등에도 가세했다.
+2. SEC의 AI 헤지펀드 소환장까지 겹치며 이번 주는 법률·규제 이슈가 실적 뉴스보다 두드러졌다.
+3. 다만 대형은행 컨소시엄의 자체 스테이블코인 발행 검토 참여는 장기 성장 옵션으로 남아 있다.
+
+**뉴스 브리핑**
+
+**① 법원, BofA-엡스타인 피해자 7,250만달러 합의 승인** 🔴
+- **무슨 일**: 연방판사가 BofA와 제프리 엡스타인 성매매 피해자들 간의 7,250만달러 합의를 승인했다.
+- **왜 중요**: 대형은행이 과거 고객 관리 소홀로 인한 법적 책임을 매듭짓는 사례로, 평판 리스크가 일단락된다는 의미가 있다.
+- **주가에 의미**: 합의금 자체는 BofA 규모 대비 크지 않아 실적 영향은 미미하나, 관련 보도가 재조명되며 단기 평판 리스크로 작용.
+- 출처: [Bloomberg](https://www.bloomberg.com/news/articles/2026-08-27/judge-approves-bofa-s-72-5-million-deal-with-epstein-victims) · 2026-08-27
+
+**② BofA, 연준 GSIB 자본규제 개편 갈등에 합류** 🔴
+- **무슨 일**: BofA가 연준의 대형은행 추가자본규제(GSIB) 개편안을 둘러싼 업계 갈등에 가세했다.
+- **왜 중요**: 개편 결과에 따라 BofA를 포함한 시스템적으로 중요한 은행들의 자본 여력과 배당 여력이 달라질 수 있다.
+- **주가에 의미**: 결론이 나기 전까지는 불확실성 요인으로 남는다.
+- 출처: [Yahoo Finance (Reuters wire)](https://finance.yahoo.com/economy/policy/articles/bank-america-bac-joins-clash-021707678.html) · 2026-08-27
+
+**③ SEC, AI 헤지펀드 붕괴 관련 BofA 등에 소환장** 🔴
+- **무슨 일**: SEC가 AI 헤지펀드 '시추에이셔널 어웨어니스' 붕괴 사건과 관련해 BofA를 포함한 대형은행에 거래·레버리지 정보 소환장을 발부했다.
+- **왜 중요**: 은행의 헤지펀드 대출 관행에 대한 규제 강화 가능성을 시사한다.
+- **주가에 의미**: 단기 실적 영향은 제한적이나 조사 확대 시 역풍 요인.
+- 출처: [Reuters (via U.S. News)](https://money.usnews.com/investing/news/articles/2026-08-24/us-sec-sends-subpoenas-to-wall-street-banks-over-situational-awareness-nyt-reports) · 2026-08-24
+
+**④ BofA·웰스파고·산탄데르 등, 자체 스테이블코인 발행 검토** 🟢
+- **무슨 일**: BofA·웰스파고·산탄데르 등 10여개 대형은행이 자체 스테이블코인(가치가 달러에 고정되도록 설계된 디지털화폐) 발행 방안을 검토 중이라고 보도됐다.
+- **왜 중요**: 스테이블코인 확산에 맞서 은행들이 규제된 대안을 함께 준비하는 것으로, 결제 인프라 주도권을 지키려는 움직임이다.
+- **주가에 의미**: 아직 초기 검토 단계라 즉각적 영향은 없지만, 장기적으로 결제 사업 다각화의 옵션이 되는 완만한 호재.
+- 출처: [The Daily Hodl (citing WSJ)](https://dailyhodl.com/2026/08/28/bank-of-america-wells-fargo-santander-and-other-banks-evaluating-plans-to-issue-their-own-stablecoins-report/) · 2026-08-28
+
+**경쟁 구도 한눈에**
+- JP모건: 볼타 AI 데이터센터에 50억달러 부채조달 주도(8/27) → JPM이 AI 인프라 금융에서 앞서가며 BofA 등 경쟁사의 유사 대형딜 수주 압박이 커짐.
+- 웰스파고: 15억달러를 투입한 자산관리 부문 개편 후 인력 채용 확대(8/27) → 자산관리 인재 유치 경쟁이 치열해지며 BofA도 유사한 투자·채용 압박에 직면.
+
+**앞으로 지켜볼 것**
+- [ ] GSIB 자본규제 개편 최종안 — 확인할 것: 연준 공식 발표 시점과 자본버퍼 요구 변화
+- [ ] 9/30 (OCC 자금세탁방지 합의 시한) — 확인할 것: 벌금 규모·시점 공식 발표
+
 
 ### 2026-08-22 (토) — 신호등: 🟢 순풍 (+0.12)
 
