@@ -9,7 +9,7 @@ confidence: low
 tags: [routine-news, market-summary, ai-semiconductor, dc-infra]
 map: ai-semiconductor
 market_id: dc-infra
-sources: ["https://www.cbre.com/insights/books/north-america-data-center-trends-h2-2025", "https://www.jll.com/en-us/newsroom/jll-north-america-data-center-report-year-end-2025", "https://www.bloomberg.com/news/articles/2026-06-01/us-construction-spending-on-data-centers-eclipses-50-billion"]
+sources: ["https://www.cbre.com/insights/books/north-america-data-center-trends-h2-2025", "https://www.jll.com/en-us/newsroom/jll-north-america-data-center-report-year-end-2025", "https://www.bloomberg.com/news/articles/2026-06-01/us-construction-spending-on-data-centers-eclipses-50-billion", "https://www.jll.com/en-us/newsroom/data-center-demand-exceeds-expectations-in-h1-2026"]
 ---
 
 # AI 데이터센터 인프라 · 코로케이션 — 시장 종합
@@ -30,15 +30,15 @@ AI 서버를 수용하는 데이터센터 부동산·코로케이션·건설 —
 
 ## 병목 상태 — 🔴 급성 병목 (`acute`)
 
-> [!claim] (출처: 시장지도 as_of 2026-07)
+> [!claim] (출처: 시장지도 as_of 2026-08)
 > 북미 공실률 1.0–1.4% 사상최저, 신규 공급 프리리스 74–92%로 짓기 전에 소진. ’26 예정 12GW 중 ~1/3만 실제 착공 — 변압기 리드타임 4년, 계통접속 대기 4–7년. 칩이 아닌 '전력 붙은 쉘'이 현재 AI 빌드아웃의 가장 타이트한 물리적 제약.
 
 ## 시장 상황 종합
 
 <!-- SYNTHESIS_START -->
-> [!claim] (as_of 2026-07 · market-research 루틴)
-> **지금 상황**: CBRE 2026 글로벌 리포트에 따르면 세계 16개 주요 시장 공급이 16GW(+25%YoY)로 늘었음에도 평균 공실률은 8.3%→6.7%로 오히려 하락했다. 북미 1분기 순흡수는 +34%YoY, 버지니아주 공실률은 0.3%로 사상최저를 재경신 — 공급 확대보다 수요 흡수가 더 빠르다.
-> **왜 중요**: 공급을 늘려도 공실률이 떨어진다는 것은 수요가 공급 확대 속도를 앞지르고 있다는 뜻으로, 코로케이션 사업자의 협상력이 계속 강해지는 구조다.
+> [!claim] (as_of 2026-08 · market-research 루틴)
+> **지금 상황**: JLL 중간보고서(8/11 발표)에 따르면 북미 데이터센터 공실률이 3년 연속 1%대에 머물렀다. 상반기 순흡수는 사상최대인 25GW를 기록했고, 현재 건설 중인 물량도 66GW에 달한다.
+> **왜 중요**: 공급 확대 속도(66GW 건설 중)가 그만큼 빠른데도 공실률이 꺾이지 않는다는 것은, 수요가 공급을 계속 앞지르는 구도가 3년째 이어지고 있다는 뜻이다.
 > **투자자 관점**: 임대료 상승·장기계약 선점 경쟁이 이어질 가능성이 높은 국면이며, 전력이 실제 병목이라는 점이 DC 공급 확대의 실질 상한을 정한다.
 <!-- SYNTHESIS_END -->
 
@@ -56,6 +56,7 @@ AI 서버를 수용하는 데이터센터 부동산·코로케이션·건설 —
 ## 시장 뉴스 로그 (최신순)
 
 <!-- MARKET_NEWS_START -->
+- **2026-08-11** － **JLL 중간보고서: 북미 데이터센터 공실률 3년 연속 1%대** — 상반기 순흡수 사상최대 25GW, 건설중 66GW — 공급 확대에도 공실률 요지부동 (JLL) [↗](https://www.jll.com/en-us/newsroom/data-center-demand-exceeds-expectations-in-h1-2026)
 - **2026-06-10** － **CBRE: 세계 데이터센터 공급, 수요 못 따라가 사상 최고 희소성** — 세계 평균 공실률 6.7%로 하락, 버지니아 순흡수 사상최대 (CBRE) [↗](https://www.cbre.com/press-releases/global-data-center-supply-demand-scarcity-available-space)
 - **2026-07-15** － **엔비디아: '와트당 토큰'이 AI 팩토리 수익 좌우 — 전력이 결정변수** — 변압기 최대 5년, 스위치기어 ’28년까지 완판 — 전력이 병목 재확인 (Tech Times (NVIDIA 발표 기반)) [↗](https://www.techtimes.com/articles/320552/20260715/tokens-per-watt-determines-ai-factory-revenue-power-constraints-tighten.htm)
 - **2026-06-01** ＋ **美 데이터센터 건설지출 연율 $50B 첫 돌파** — 4월 SAAR $50.7B, +28% YoY — 일반 오피스 건설 추월 (Bloomberg) [↗](https://www.bloomberg.com/news/articles/2026-06-01/us-construction-spending-on-data-centers-eclipses-50-billion)

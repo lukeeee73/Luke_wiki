@@ -1,7 +1,7 @@
 ---
 title: "네오클라우드 · GPU 클라우드 — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-25
+updated: 2026-08-29
 domain: finance
 type: claim
 weight: reference
@@ -9,7 +9,7 @@ confidence: low
 tags: [routine-news, market-summary, ai-semiconductor, neocloud]
 map: ai-semiconductor
 market_id: neocloud
-sources: ["https://www.srgresearch.com/articles/neoclouds-currently-growing-by-over-200-per-year-will-reach-180-billion-in-revenues-by-2030", "https://www.cnbc.com/2026/05/07/coreweave-crwv-q1-earnings-report-2026.html", "https://www.datacenterknowledge.com/cloud/earnings-roundup-neoclouds-shift-from-gpu-race-to-power-wars"]
+sources: ["https://www.srgresearch.com/articles/neoclouds-currently-growing-by-over-200-per-year-will-reach-180-billion-in-revenues-by-2030", "https://www.cnbc.com/2026/05/07/coreweave-crwv-q1-earnings-report-2026.html", "https://www.datacenterknowledge.com/cloud/earnings-roundup-neoclouds-shift-from-gpu-race-to-power-wars", "https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html", "https://finance.yahoo.com/technology/ai/articles/nebius-q2-2026-earnings-beat-130010966.html"]
 ---
 
 # 네오클라우드 · GPU 클라우드 — 시장 종합
@@ -30,16 +30,16 @@ sources: ["https://www.srgresearch.com/articles/neoclouds-currently-growing-by-o
 
 ## 병목 상태 — 🔴 급성 병목 (`acute`)
 
-> [!claim] (출처: 시장지도 as_of 2026-07)
-> 전력 확보 경쟁에 신용·경쟁 리스크가 겹쳐 부상 — CoreWeave 순손실 확대·이자비용 2배, Meta의 외부판매 클라우드 진출설로 '최대 고객=잠재 경쟁자' 우려까지 더해져 밸류에이션이 40~50% 조정됐다.
+> [!claim] (출처: 시장지도 as_of 2026-08)
+> 전력 확보 경쟁에 신용·경쟁 리스크가 겹쳐 부상 — 2분기 실적은 견조했지만 8월 중순 장기금리 급등으로 부채조달 부담이 재부각되며 주가 변동성이 다시 커졌다.
 
 ## 시장 상황 종합
 
 <!-- SYNTHESIS_START -->
-> [!claim] (as_of 2026-07 · market-research 루틴)
-> **지금 상황**: 블룸버그가 Meta의 잉여 AI컴퓨팅 외부판매 클라우드 사업('Meta Compute') 추진을 보도하며 '최대 잠재고객이 경쟁자로 전환될 수 있다'는 우려가 확산, CoreWeave·Nebius 주가가 고점 대비 40~50%대 급락했다. CoreWeave 1분기 순손실은 -$740M(전년 -$315M)로 확대되고 이자비용은 YoY 2배(-$536M)로 늘어 부채 부담이 가시화됐다. 한편 소프트뱅크는 'SB Neo'를 통해 美 10GW 규모 신규 네오클라우드 시장 진출을 선언했다.
-> **왜 중요**: '최대 잠재고객이 경쟁자가 될 수 있다'는 우려와 부채 부담 증가가 겹치며 신용·경쟁 리스크가 동시에 부상했다 — 병목 등급을 emerging에서 acute로 올렸지만, 계약잔고·capex 가이던스는 오히려 상향돼 신호가 엇갈리는 만큼 추가 확인이 필요하다.
-> **투자자 관점**: 계약잔고·capex 가이던스는 견조해 실수요 자체는 살아있지만, 밸류에이션은 자본조달 비용과 경쟁 구도 변화에 더 민감하게 반응하는 국면으로 전환됐다.
+> [!claim] (as_of 2026-08 · market-research 루틴)
+> **지금 상황**: 코어위브(8/11)·네비우스(8/12) 2분기 실적 모두 매출이 급성장했다(각각 +112%, 클라우드 매출 +514%). 코어위브 계약잔고는 1,042억달러(+246%YoY)로 늘었고 네비우스는 조정 EBITDA가 흑자로 전환됐다. 그런데 일주일 뒤인 8/18, 美 30년물 국채금리가 19년래 최고(5.25%)로 치솟으며 두 종목 모두 재차 급락했다(코어위브 -12%).
+> **왜 중요**: 실적 자체는 계약잔고·매출 성장 모두 견조해 실수요는 확실히 살아있다는 뜻이지만, 부채로 데이터센터를 짓는 이 업종의 밸류에이션은 금리에 그만큼 민감하다는 것이 재확인됐다 — 자본비용이 GPU 확보전만큼이나 중요한 병목 변수로 굳어지는 중이다.
+> **투자자 관점**: 계약잔고·capex 가이던스는 견조해 실수요 자체는 살아있지만, 밸류에이션은 자본조달 비용과 경쟁 구도 변화에 더 민감하게 반응하는 국면이 이어지고 있다.
 <!-- SYNTHESIS_END -->
 
 ## 소속 기업 동향
@@ -58,6 +58,9 @@ sources: ["https://www.srgresearch.com/articles/neoclouds-currently-growing-by-o
 ## 시장 뉴스 로그 (최신순)
 
 <!-- MARKET_NEWS_START -->
+- **2026-08-18** － **장기금리 급등에 네오클라우드 주가 재차 급락 — 코어위브 -12%** — 美 30년물 금리 19년래 최고(5.25%)로 부채조달 부담 부각, 네비우스도 동반 급락 (The Motley Fool) [↗](https://www.fool.com/investing/2026/08/18/why-coreweave-stock-is-down-11/)
+- **2026-08-12** ＋ **네비우스 2분기 클라우드 매출 +514% — 흑자 전환** — AI클라우드 매출 5.75억달러(+6배), 조정 EBITDA 2.36억달러로 흑자전환, 10억달러+ 계약 4건 체결 (Yahoo Finance) [↗](https://finance.yahoo.com/technology/ai/articles/nebius-q2-2026-earnings-beat-130010966.html)
+- **2026-08-11** ＋ **코어위브 2분기 매출 +112%, 계약잔고 $104B로 246%↑** — 연매출 가이던스 $124~132억으로 상향, 48개월 이상 장기계약 비중 10%→21%로 확대 (CNBC) [↗](https://www.cnbc.com/2026/08/11/coreweave-crwv-q2-earnings-report-2026.html)
 - **2026-07-01** － **메타, 잉여 AI컴퓨팅 외부판매 클라우드 사업 추진** — AWS·애저·GCP는 물론 네오클라우드에도 새 경쟁 변수 등장 (Bloomberg) [↗](https://www.bloomberg.com/news/articles/2026-07-01/meta-is-building-a-cloud-business-to-sell-excess-ai-compute)
 - **2026-07-02** ± **소프트뱅크, 'SB Neo'로 美 10GW 네오클라우드 시장 진출** — 오하이오 DOE 부지 앵커, 최대 $500B 투자 계획 (Bloomberg) [↗](https://www.bloomberg.com/news/articles/2026-07-02/softbank-launches-ai-cloud-unit-with-plans-to-tap-10-gigawatt-capacity)
 - **2026-05-07** － **코어위브 1분기 순손실 -$740M, 이자비용 2배로 확대** — 매출은 +112%로 급성장했지만 부채 부담도 함께 커짐 (CoreWeave IR) [↗](https://investors.coreweave.com/news/news-details/2026/CoreWeave-Reports-Strong-First-Quarter-2026-Results/)
