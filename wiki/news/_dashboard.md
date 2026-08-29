@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-08-28
+updated: 2026-08-29
 domain: finance
 type: index
 weight: reference
@@ -166,16 +166,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [JPM](tickers/JPM - JPMorgan Chase and Co.md) | 2026-08-22 | 🟢 +0.08 | 시가총액 1조달러에 근접했지만 인도 규제당국이 계열사를 시장조작 혐의로 거래 금지하며 국제 규제 리스크가 함께 부각됐다 | 7 |
-| [BAC](tickers/BAC - Bank of America Corp.md) | 2026-08-22 | 🟢 +0.12 | MDSec 인수·인도 지오크레딧 JV로 사업을 확장했지만 OCC 자금세탁방지 벌금 규모는 여전히 확정되지 않았다 | 6 |
-| [WFC](tickers/WFC - Wells Fargo and Company.md) | 2026-08-22 | ⚪ -0.04 | 자체 경제팀이 인플레이션·금리 장기화를 전망한 가운데 배당 인상에도 주가는 시장 대비 계속 부진했다 | 4 |
-| [C](tickers/C - Citigroup Inc.md) | 2026-08-22 | 🟢 +0.11 | 카드 리워드·기관용 비트코인 커스터디 등 제품 확장을 이어가고 앤트로픽 IPO 주관단에도 합류할 예정이다 | 5 |
-| [GS](tickers/GS - The Goldman Sachs Group.md) | 2026-08-22 | 🟢 +0.12 | LCN 캐피털 인수로 일주일 새 두 번째 자산운용 M&A를 발표했지만 신규 자사주매입은 이번 주도 없었다 | 5 |
-| [MS](tickers/MS - Morgan Stanley.md) | 2026-08-22 | ⚪ +0.03 | 앤트로픽 IPO 주관사 지위를 유지하고 캔자스시티 물류센터를 인수한 것 외에 뚜렷한 자체 뉴스는 없었다 | 6 |
-| [V](tickers/V - Visa Inc.md) | 2026-08-22 | ⚪ +0.02 | 마스터카드 등과 함께 AI 에이전트 결제 표준 연합체를 출범시켰지만 실질적 매출 기여는 아직 시간이 필요하다 | 6 |
-| [MA](tickers/MA - Mastercard Incorporated.md) | 2026-08-22 | 🟢 +0.07 | 비자와 함께 에이전틱 결제 연합체에 참여하고 CEO가 직접 Agent Pay 전략을 설명하며 투자심리가 개선됐다 | 6 |
-| [AXP](tickers/AXP - American Express Company.md) | 2026-08-22 | ⚪ +0.03 | 유럽 레스토랑 예약 플랫폼 더포크를 인수하고 세인트앤드루스와 제휴하며 프리미엄 라이프스타일 전략을 강화했다 | 7 |
-| [BRK-B](tickers/BRK-B - Berkshire Hathaway.md) | 2026-08-22 | 🟢 +0.16 | 2분기 13F의 알파벳·델타 비중 확대가 재조명됐고 버핏이 알파벳 투자를 직접 주도했다고 재확인했다 | 5 |
+| [JPM](tickers/JPM - JPMorgan Chase and Co.md) | 2026-08-29 | 🟢 +0.16 | AI 데이터센터 부채조달을 주도하며 확장을 이어갔지만 SEC 소환장과 GSIB 자본규제 갈등이라는 두 갈래 규제 역풍도 함께 맞았다 | 8 |
+| [BAC](tickers/BAC - Bank of America Corp.md) | 2026-08-29 | ⚪ -0.02 | 엡스타인 피해자 합의 승인과 SEC 소환장 등 법률·규제 이슈가 두드러졌지만 스테이블코인 발행 검토 참여는 긍정적이다 | 6 |
+| [WFC](tickers/WFC - Wells Fargo and Company.md) | 2026-08-29 | 🟢 +0.17 | 자산관리 부문 개편 이후 독립 자문사 채용을 확대하며 자금 유입을 늘렸고 규제 관련 악재는 없었다 | 4 |
+| [C](tickers/C - Citigroup Inc.md) | 2026-08-29 | ⚪ +0.02 | 한국 자본시장 발행 사상 최대 전망으로 IB 파이프라인은 강했지만 SEC 소환장과 유럽은행 랠리 둔화 경고가 상쇄했다 | 5 |
+| [GS](tickers/GS - The Goldman Sachs Group.md) | 2026-08-29 | 🔴 -0.07 | SEC의 AI 헤지펀드 소환장을 받았고 내부 파트너조차 AI의 인재 역량 저하 위험을 경고한 조용한 역풍의 한 주였다 | 5 |
+| [MS](tickers/MS - Morgan Stanley.md) | 2026-08-29 | 🟢 +0.09 | 스페이스X 밸류에이션 리서치 콜이 머스크의 직접 반응을 이끌어냈고 댈러스 신사옥 확장 소식도 긍정적이었다 | 6 |
+| [V](tickers/V - Visa Inc.md) | 2026-08-29 | 🟢🟢 +0.42 | 사상 최고가 부근에서 애크먼의 신규 매수와 스테이블코인 결제망 확장이 겹치며 강한 순풍을 탔다 | 6 |
+| [MA](tickers/MA - Mastercard Incorporated.md) | 2026-08-29 | 🟢🟢 +0.30 | 시리아 신규시장 개척과 목표주가 상향, 비자와 동반 사상 최고가 경신까지 결제 듀오폴리 전반의 강세를 누렸다 | 6 |
+| [AXP](tickers/AXP - American Express Company.md) | 2026-08-29 | ⚪ +0.00 | 지난주 더포크 인수·세인트앤드루스 제휴 이후 이번 주는 검증 가능한 신규 뉴스 없이 조용했다 | 7 |
+| [BRK-B](tickers/BRK-B - Berkshire Hathaway.md) | 2026-08-29 | 🟢 +0.18 | 보험이익은 둔화됐지만 알파벳 베팅 확대가 재조명됐고 버핏과 신임 CEO 아벨의 자본배분 스타일 차이가 부각됐다 | 5 |
 
 ### 소비재
 
@@ -215,16 +215,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [AMT](tickers/AMT - American Tower Corporation.md) | 2026-08-22 | 🟢🟢 +0.23 | 바클레이스가 코어사이트 모멘텀을 근거로 투자의견을 상향했지만 국채금리 급등이 리츠 업종 전반에 부담을 줬다 | 5 |
-| [CCI](tickers/CCI - Crown Castle Inc.md) | 2026-08-22 | 🟢 +0.15 | 바클레이스가 위성 경쟁 우려는 과도하다며 투자의견을 상향했지만 주가는 여전히 74달러 안팎에 머물러 있다 | 5 |
-| [PLD](tickers/PLD - Prologis, Inc.md) | 2026-08-22 | 🔴 -0.07 | 개별 호재 없이 국채금리 4.75% 돌파發 리츠 업종 전반의 자금조달 부담이 부각된 한 주였다 | 4 |
-| [EQIX](tickers/EQIX - Equinix, Inc.md) | 2026-08-22 | 🟢🟢 +0.22 | 텍사스 PUCT가 ERCOT 감사 유예를 승인해 급한 불은 껐지만 감사 시한이 12월로 밀리며 불확실성은 남았다 | 6 |
-| [DLR](tickers/DLR - Digital Realty Trust.md) | 2026-08-22 | 🟢 +0.13 | 컬럼비아캐피털 인수를 마무리했고 텍사스 PUCT의 ERCOT 유예 승인으로 최악의 시나리오는 피했다 | 5 |
-| [O](tickers/O - Realty Income Corporation.md) | 2026-08-22 | ⚪ +0.03 | 674번째 연속 월배당을 선언한 것 외에 전환사채 자금 용처 등 새로운 소식은 없었다 | 6 |
-| [SPG](tickers/SPG - Simon Property Group.md) | 2026-08-22 | 🟢 +0.17 | 2분기 FFO가 컨센서스를 넘고 가이던스도 상향됐지만 이자비용 부담에 순이익은 줄어 주가는 보합에 머물렀다 | 2 |
-| [WELL](tickers/WELL - Welltower Inc.md) | 2026-08-22 | ⚪ +0.04 | 15% 인상된 배당을 예정대로 지급한 것 외에 보상구조 개혁이나 실적 관련 새 소식은 없었다 | 2 |
-| [PSA](tickers/PSA - Public Storage.md) | 2026-08-22 | 🟢 +0.08 | 신임 최고법무책임자를 선임했고 기관 매수세 유입 속에 입주 임대료 개선세가 이어졌다 | 3 |
-| [VICI](tickers/VICI - VICI Properties Inc.md) | 2026-08-22 | ⚪ -0.02 | AFFO는 늘었지만 GAAP 순이익이 일회성 회계변동으로 급감한 여파로 주가는 52주 신저가를 다시 경신했다 | 5 |
+| [AMT](tickers/AMT - American Tower Corporation.md) | 2026-08-29 | 🟢 +0.07 | 이사와 기관투자자의 잇단 매수가 이어지며 지난주 바클레이스 투자의견 상향 이후 우호적인 수급 흐름을 이어갔다 | 5 |
+| [CCI](tickers/CCI - Crown Castle Inc.md) | 2026-08-29 | ⚪ -0.03 | 9월 초 골드만·BofA 컨퍼런스 발표 일정만 공시됐을 뿐 뚜렷한 신규 촉매 없이 조용한 한 주였다 | 5 |
+| [PLD](tickers/PLD - Prologis, Inc.md) | 2026-08-29 | 🟢🟢 +0.36 | 세그로 인수 절차가 계속 진행 중인 가운데 애널리스트 목표가 상향과 기관 매수세가 이어졌다 | 4 |
+| [EQIX](tickers/EQIX - Equinix, Inc.md) | 2026-08-29 | 🟢 +0.09 | 커뮤니티 재단에 5000만달러를 추가 기부해 누적 투자를 두 배로 늘렸고 주가는 1,070달러 위에서 안정세를 유지했다 | 6 |
+| [DLR](tickers/DLR - Digital Realty Trust.md) | 2026-08-29 | 🟢 +0.08 | 스위스 취리히에 4번째 데이터센터를 착공했지만 주가는 여전히 애널리스트 목표가를 밑돌며 거래됐다 | 5 |
+| [O](tickers/O - Realty Income Corporation.md) | 2026-08-29 | ⚪ +0.01 | 웰스파고·TD와의 텀론 조건을 재정비해 재무 유연성을 높인 것 외에 새로운 소식은 없었다 | 6 |
+| [SPG](tickers/SPG - Simon Property Group.md) | 2026-08-29 | 🟢 +0.07 | 몰 트래픽 데이터를 활용한 신규 광고 사업 '사이먼 미디어 네트워크'를 출시하며 수익원 다각화에 나섰다 | 2 |
+| [WELL](tickers/WELL - Welltower Inc.md) | 2026-08-29 | 🟢 +0.12 | 전국 시니어하우징 점유율이 89.9%까지 오르며 업계 최대 수혜주인 웰타워가 52주 고점권을 유지했다 | 2 |
+| [PSA](tickers/PSA - Public Storage.md) | 2026-08-29 | 🟢 +0.08 | 기관 매수세가 유입되는 가운데 2분기 입주 임대료 개선세가 이어지며 완만한 회복 국면을 이어갔다 | 3 |
+| [VICI](tickers/VICI - VICI Properties Inc.md) | 2026-08-29 | ⚪ +0.00 | 일본 대형 자산운용사의 신규 지분 매수가 확인됐지만 주가는 여전히 52주 신저가권을 벗어나지 못했다 | 5 |
 
 ### 통신 / 미디어
 

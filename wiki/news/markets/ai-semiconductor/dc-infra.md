@@ -1,7 +1,7 @@
 ---
 title: "AI 데이터센터 인프라 · 코로케이션 — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-22
+updated: 2026-08-29
 domain: finance
 type: claim
 weight: reference
@@ -47,8 +47,8 @@ AI 서버를 수용하는 데이터센터 부동산·코로케이션·건설 —
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Equinix | 글로벌 1위 리테일 코로케이션·상호접속 (260+ IBX) | +0.22 (2026-08-22) | 텍사스 PUCT가 8/20 ERCOT 감사 유예를 승인해 급한 불은 껐지만 감사 시한이 12월 10일로 밀리며 불확실성은 남았다 | [EQIX](../../tickers/EQIX - Equinix, Inc.md) |
-| Digital Realty | 글로벌 2위 — 하이퍼스케일+코로케이션 혼합 REIT | +0.13 (2026-08-22) | 컬럼비아캐피털 인수를 마무리했고 텍사스 PUCT의 ERCOT 유예 승인으로 즉각적 셧다운은 피했다 | [DLR](../../tickers/DLR - Digital Realty Trust.md) |
+| Equinix | 글로벌 1위 리테일 코로케이션·상호접속 (260+ IBX) | +0.09 (2026-08-29) | 커뮤니티 재단에 5000만달러를 추가 기부해 누적 투자를 1억달러로 늘렸고 주가는 1,070달러 위에서 안정적으로 거래됐다 | [EQIX](../../tickers/EQIX - Equinix, Inc.md) |
+| Digital Realty | 글로벌 2위 — 하이퍼스케일+코로케이션 혼합 REIT | +0.08 (2026-08-29) | 스위스 취리히에 4번째 데이터센터(ZUR4)를 착공했지만 주가는 여전히 애널리스트 목표가를 밑돌고 있다 | [DLR](../../tickers/DLR - Digital Realty Trust.md) |
 | Vantage | $25B 텍사스 Frontier 1.4GW (Stargate 연계) 건설 중 (비상장) | — | — | 비상장 |
 | QTS · CyrusOne · Switch | 사모(BX·KKR·DigitalBridge) 하이퍼스케일 개발 (비상장) | — | — | 비상장 |
 <!-- PLAYERS_END -->
