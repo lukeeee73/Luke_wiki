@@ -1,7 +1,7 @@
 ---
 title: "군용 드론 · 자율 무기체계 — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-09
+updated: 2026-08-30
 domain: finance
 type: claim
 weight: reference
@@ -45,12 +45,12 @@ sources: ["https://www.gminsights.com/industry-analysis/military-drone-market", 
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| AeroVironment | 배회폭탄(Switchblade)·소형 UAS 1위 + BlueHalo 인수로 C-UAS·레이저 | +0.38 (2026-08-09) | 대드론 레이저 '로커스트'로 4억달러 규모 육군 양산계약을 수주하며 신규 시장을 개척했다 | [AVAV](../../tickers/AVAV - AeroVironment Inc.md) |
-| Kratos | 저가 무인전투기 XQ-58 Valkyrie — 해병대 CCA 기체 선정 | +0.34 (2026-08-09) | 2분기 실적 서프라이즈와 함께 연간 매출 가이던스를 상향하며 방산 수요 확대를 입증했다 | [KTOS](../../tickers/KTOS - Kratos Defense.md) |
+| AeroVironment | 배회폭탄(Switchblade)·소형 UAS 1위 + BlueHalo 인수로 C-UAS·레이저 | +0.18 (2026-08-30) | 美 육군의 드론 추가발주와 NASA 화성헬기 계약으로 국방·우주 양쪽에서 수주를 확인했다 | [AVAV](../../tickers/AVAV - AeroVironment Inc.md) |
+| Kratos | 저가 무인전투기 XQ-58 Valkyrie — 해병대 CCA 기체 선정 | +0.18 (2026-08-30) | 보잉 정밀유도폭탄용 엔진 공급과 위성 지상국 신규수주로 사업 다각화가 진전됐다 | [KTOS](../../tickers/KTOS - Kratos Defense.md) |
 | Anduril | Fury CCA·Roadrunner — Arsenal-1 대량생산 (비상장, $61B) | — | — | 비상장 |
 | General Atomics | MQ-9·공군 CCA YFQ-42 (비상장) | — | — | 비상장 |
-| 한화에어로스페이스 | 유무인복합·다목적 무인차량 — ’26 기대수주 23조원대 | +0.38 (2026-08-09) | 2분기 영업이익 1조원을 처음 돌파하며 지상방산·조선 부문 동반 호실적을 기록했다 | [012450.KS](../../tickers/012450.KS - Hanwha Aerospace.md) |
-| LIG넥스원 | 중형무인기 공통플랫폼·유도무기·대드론 — ’26 기대수주 3.6조 | +0.26 (2026-08-09) | 대형 공급계약 공시로 주가가 100만원을 돌파했다(천궁 계열 수출 가능성) | [079550.KS](../../tickers/079550.KS - LIG Nex1.md) |
+| 한화에어로스페이스 | 유무인복합·다목적 무인차량 — ’26 기대수주 23조원대 | 0.00 (2026-08-30) | 국내 증시 휴장과 겹쳐 오늘 확인된 신규 뉴스는 없었다(직전 이슈는 8/23 로그에 반영됨) | [012450.KS](../../tickers/012450.KS - Hanwha Aerospace.md) |
+| LIG넥스원 | 중형무인기 공통플랫폼·유도무기·대드론 — ’26 기대수주 3.6조 | 0.00 (2026-08-30) | 국내 증시 휴장과 겹쳐 오늘 확인된 신규 뉴스는 없었다(직전 이슈는 8/23 로그에 반영됨) | [079550.KS](../../tickers/079550.KS - LIG Nex1.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)
