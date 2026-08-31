@@ -1,7 +1,7 @@
 ---
 title: "맞춤형 AI ASIC·XPU — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-25
+updated: 2026-08-31
 domain: finance
 type: claim
 weight: reference
@@ -49,10 +49,10 @@ sources: ["https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-a
 |---|---|---|---|---|
 | Broadcom | 코디자인 ~60% (Google·Meta·OpenAI) · 점유 60% | 🔴 -0.13 (2026-08-25) | 앤트로픽向 AI칩 자금 최대 1,000억 달러 부채 조달 추진 소식과 최대 고객 구글의 마벨 협력 확대 우려가 겹치며 주가가 하락했다 | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
 | Marvell | ~25% (Amazon·Microsoft) · 점유 25% | 🟢 +0.13 (2026-08-25) | 웰스파고가 구글 TPU 생태계 확장 계약을 근거로 목표가를 310달러로 올렸지만, 워런트 지분 희석 우려와 실적 대기 조정으로 주가는 하락했다 | [MRVL](../../tickers/MRVL - Marvell Technology, Inc.md) |
-| Google TPU | 최대 내부 XPU (v7 Ironwood) | 🟢 +0.15 (2026-08-17) | 버크셔가 지분을 83% 늘리며 신뢰를 보탰지만, 핵심 AI 인재 이탈과 차세대 모델 지연은 여전한 걱정거리다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
-| Amazon Trainium | Trainium3 (3nm) | 🟢🟢 +0.24 (2026-08-17) | AWS 성장 재가속에 힘입어 시가총액 3조달러를 처음 넘었고, 매도 의견을 낸 애널리스트가 한 명도 없을 정도로 분위기가 좋다 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
-| Microsoft Maia | 내부용 자체 실리콘 | 🟢🟢 +0.21 (2026-08-17) | 애저 매출이 43% 급증한 실적으로 주가가 한 달새 30% 뛰었고, 코파일럿 통합·자체 AI 칩 공개 예고까지 겹치며 강세가 이어지고 있다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
-| Meta MTIA | 추론·랭킹용 자체 칩 | 🔴 -0.16 (2026-08-17) | 시가총액과 맞먹는 최대 1.4조달러가 걸린 청소년 유해성 재판이 8월 18일 본격 시작되며 소송 리스크가 주가 서사를 지배하고 있다 | [META](../../tickers/META - Meta Platforms Inc.md) |
+| Google TPU | 최대 내부 XPU (v7 Ironwood) | 🟢 +0.12 (2026-08-31) | 웨이모가 2027년 독일서 유럽 첫 무인택시 서비스를 시작한다고 발표했지만, 영국 앱스토어 소송 합의와 미 FTC의 유튜브 조사가 겹치며 규제 리스크가 부각됐다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
+| Amazon Trainium | Trainium3 (3nm) | 🟢🟢 +0.28 (2026-08-31) | AWS가 엔비디아와 GPU 200만개 추가 도입 계약을 맺고 에버코어가 목표주가를 355달러로 올리며 AI 인프라·실적 기대가 함께 강해졌다 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
+| Microsoft Maia | 내부용 자체 실리콘 | 🟢 +0.16 (2026-08-31) | 애저 실적 호조로 한 달새 29% 급등했지만 대규모 AI 투자로 현금흐름 둔화 우려가 나왔고, Xbox·영업·컨설팅 부문 추가 감원설까지 겹쳤다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
+| Meta MTIA | 추론·랭킹용 자체 칩 | 🟢 +0.15 (2026-08-31) | 최대 1.4조달러까지 거론되던 청소년 유해성 소송이 재판 없이 최대 180억달러 합의로 마무리됐지만, 이용시간 제한 등 새 플랫폼 제약이 남았다 | [META](../../tickers/META - Meta Platforms Inc.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)

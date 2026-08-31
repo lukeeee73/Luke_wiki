@@ -1,7 +1,7 @@
 ---
 title: "광 인터커넥트 — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-25
+updated: 2026-08-31
 domain: finance
 type: claim
 weight: reference
@@ -46,7 +46,7 @@ sources: ["https://www.lightcounting.com/newsletter/en/july-2025-cloud-data-cent
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
 | InnoLight | 모듈 1위 (비상장/중국) · 점유 25% | — | — | 비상장 |
-| Coherent | 수직통합 · NVIDIA CPO 파트너 · 점유 15% | 🟢🟢 +0.36 (2026-08-17) | 4분기 실적이 컨센서스를 크게 웃돌았고 미국의 중국산 광트랜시버 수입 금지 추진까지 겹치며 실적·규제 양쪽에서 순풍을 맞고 있다 | [COHR](../../tickers/COHR - Coherent Corp.md) |
+| Coherent | 수직통합 · NVIDIA CPO 파트너 · 점유 15% | 🟢🟢 +0.33 (2026-08-31) | 마벨발 반사 매도로 AI 광통신 부품주 전체가 함께 조정받았지만, 자체 실적 펀더멘털이 훼손된 것은 아니라는 평가다 | [COHR](../../tickers/COHR - Coherent Corp.md) |
 | Lumentum | 레이저/CPO · 점유 10% | watchlist 외 | — | `LITE` |
 | Marvell · Broadcom | 실리콘 포토닉스/DSP | 🔴 -0.13 (2026-08-25) | 앤트로픽向 AI칩 자금 최대 1,000억 달러 부채 조달 추진 소식과 최대 고객 구글의 마벨 협력 확대 우려가 겹치며 주가가 하락했다 | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
 | Eoptolink | 트랜시버 (비상장/중국) · 점유 12% | — | — | 비상장 |
