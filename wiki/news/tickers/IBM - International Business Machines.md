@@ -1,7 +1,7 @@
 ---
 title: "IBM - International Business Machines — Routine News Log"
 created: 2026-05-16
-updated: 2026-08-17
+updated: 2026-08-31
 domain: finance
 type: claim
 weight: reference
@@ -85,6 +85,32 @@ sources: []
 
 <!-- DAILY_START -->
 
+### 2026-08-31 (월) — 신호등: ⚪ 잔잔함 (+0.05)
+
+**세 줄 요약**
+1. IBM이 HRL 래버러토리스 인수를 완료하며 퀀텀 컴퓨팅 하드웨어 역량을 강화했다.
+2. 같은 주 임원의 자사주 매도 공시가 겹치며 심리적으로는 중립적인 신호를 남겼다.
+3. 7월 어닝쇼크의 여진은 남아있지만, 오늘 뉴스만 놓고 보면 큰 방향성 변화는 없는 잔잔한 하루였다.
+
+**뉴스 브리핑**
+
+**① HRL 래버러토리스 인수 완료, 퀀텀 하드웨어 역량 강화** 🟢
+- **무슨 일**: IBM이 HRL 래버러토리스 인수를 완료했다고 발표했다. 실리콘 스핀 큐비트 등 차세대 퀀텀 컴퓨팅 하드웨어 기술을 확보했다.
+- **왜 중요**: 퀀텀 컴퓨팅은 IBM이 장기 성장동력으로 꾸준히 투자해온 분야로, 이번 인수는 하드웨어 로드맵의 공백을 메우는 전략적 행보다.
+- **주가에 의미**: 완만한 호재. 다만 퀀텀 사업의 매출 기여는 아직 먼 미래다.
+- 출처: [PR Newswire (IBM)](https://www.prnewswire.com/news-releases/ibm-completes-acquisition-of-hrl-laboratories-to-accelerate-the-future-of-quantum-302859819.html) · 2026-08-26
+
+**② SVP, 자사주 2만5천주 매도 공시** ⚪
+- **무슨 일**: IBM SVP가 보유 자사주 2만5천주를 매도했다는 공시가 나왔다.
+- **왜 중요**: 정기 매도 프로그램의 일환일 가능성이 있지만, 7월 어닝쇼크 이후라 단기 투자심리에는 부정적으로 해석될 여지가 있다.
+- **주가에 의미**: 중립. 규모가 크지 않아 직접적 영향은 제한적이다.
+- 출처: [The Stock Observer](https://www.thestockobserver.com/2026/08/28/insider-selling-international-business-machines-nyseibm-svp-sells-25000-shares-of-stock.html) · 2026-08-28
+
+**앞으로 지켜볼 것**
+- [ ] 진행 중 — 확인할 것: 7월 어닝쇼크의 여진(증권사기 조사) 진행 상황
+- [ ] 다음 분기 실적 — 확인할 것: OpenAI·투게더AI 파트너십의 실제 매출 기여
+
+---
 ### 2026-08-17 (월) — 신호등: 🔴🔴 강한 역풍 (-0.22)
 
 **세 줄 요약**

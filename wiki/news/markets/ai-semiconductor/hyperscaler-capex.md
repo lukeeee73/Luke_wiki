@@ -1,7 +1,7 @@
 ---
 title: "하이퍼스케일러·프런티어 CAPEX — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-17
+updated: 2026-08-31
 domain: finance
 type: claim
 weight: reference
@@ -47,11 +47,11 @@ sources: ["https://www.tomshardware.com/tech-industry/big-tech/big-techs-ai-spen
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Amazon | ~$200B (’26) · 점유 28% | 🟢🟢 +0.24 (2026-08-17) | AWS 성장 재가속에 힘입어 시가총액 3조달러를 처음 넘었고, 매도 의견을 낸 애널리스트가 한 명도 없을 정도로 분위기가 좋다 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
-| Microsoft | ~$190B (’26) · 점유 26% | 🟢🟢 +0.21 (2026-08-17) | 애저 매출이 43% 급증한 실적으로 주가가 한 달새 30% 뛰었고, 코파일럿 통합·자체 AI 칩 공개 예고까지 겹치며 강세가 이어지고 있다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
-| Alphabet | $180–190B (’26) · 점유 26% | 🟢 +0.15 (2026-08-17) | 버크셔가 지분을 83% 늘리며 신뢰를 보탰지만, 핵심 AI 인재 이탈과 차세대 모델 지연은 여전한 걱정거리다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
-| Meta | $125–145B (’26) · 점유 19% | 🔴 -0.16 (2026-08-17) | 시가총액과 맞먹는 최대 1.4조달러가 걸린 청소년 유해성 재판이 8월 18일 본격 시작되며 소송 리스크가 주가 서사를 지배하고 있다 | [META](../../tickers/META - Meta Platforms Inc.md) |
-| Oracle | Stargate 연계 | 🔴 -0.13 (2026-08-17) | 데이터센터 전력망 가스관이 또 지연되고 추가 정리해고까지 계획하며, 커지는 사업 규모만큼 빚 부담에 대한 시장의 우려도 함께 커지고 있다 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
+| Amazon | ~$200B (’26) · 점유 28% | 🟢🟢 +0.28 (2026-08-31) | AWS가 엔비디아와 GPU 200만개 추가 도입 계약을 맺고 에버코어가 목표주가를 355달러로 올리며 AI 인프라·실적 기대가 함께 강해졌다 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
+| Microsoft | ~$190B (’26) · 점유 26% | 🟢 +0.16 (2026-08-31) | 애저 실적 호조로 한 달새 29% 급등했지만 대규모 AI 투자로 현금흐름 둔화 우려가 나왔고, Xbox·영업·컨설팅 부문 추가 감원설까지 겹쳤다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
+| Alphabet | $180–190B (’26) · 점유 26% | 🟢 +0.12 (2026-08-31) | 웨이모가 2027년 독일서 유럽 첫 무인택시 서비스를 시작한다고 발표했지만, 영국 앱스토어 소송 합의와 미 FTC의 유튜브 조사가 겹치며 규제 리스크가 부각됐다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
+| Meta | $125–145B (’26) · 점유 19% | 🟢 +0.15 (2026-08-31) | 최대 1.4조달러까지 거론되던 청소년 유해성 소송이 재판 없이 최대 180억달러 합의로 마무리됐지만, 이용시간 제한 등 새 플랫폼 제약이 남았다 | [META](../../tickers/META - Meta Platforms Inc.md) |
+| Oracle | Stargate 연계 | 🔴 -0.07 (2026-08-31) | 한 달간 주가가 18% 올랐지만 클라우드 섹터 평균 상승률(20%)에는 못 미쳐 AI 인프라 리더십에 대한 의문이 다시 제기됐다 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
 | OpenAI | 26GW 약정 (비상장) | — | — | 비상장 |
 <!-- PLAYERS_END -->
 
