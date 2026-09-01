@@ -1,7 +1,7 @@
 ---
 title: "맞춤형 AI ASIC·XPU — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-31
+updated: 2026-09-01
 domain: finance
 type: claim
 weight: reference
@@ -47,8 +47,8 @@ sources: ["https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-a
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Broadcom | 코디자인 ~60% (Google·Meta·OpenAI) · 점유 60% | 🔴 -0.13 (2026-08-25) | 앤트로픽向 AI칩 자금 최대 1,000억 달러 부채 조달 추진 소식과 최대 고객 구글의 마벨 협력 확대 우려가 겹치며 주가가 하락했다 | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
-| Marvell | ~25% (Amazon·Microsoft) · 점유 25% | 🟢 +0.13 (2026-08-25) | 웰스파고가 구글 TPU 생태계 확장 계약을 근거로 목표가를 310달러로 올렸지만, 워런트 지분 희석 우려와 실적 대기 조정으로 주가는 하락했다 | [MRVL](../../tickers/MRVL - Marvell Technology, Inc.md) |
+| Broadcom | 코디자인 ~60% (Google·Meta·OpenAI) · 점유 60% | 🟢 +0.06 (2026-09-01) | 내일 실적 발표를 앞두고 기대감은 있지만 경쟁사의 대형 수주 소식에 다소 눌렸다 | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
+| Marvell | ~25% (Amazon·Microsoft) · 점유 25% | 🟢 +0.14 (2026-09-01) | 매출이 사상 최대를 기록하고 전망도 올렸는데도 주가는 오히려 크게 빠지는 이례적인 하루였다 | [MRVL](../../tickers/MRVL - Marvell Technology, Inc.md) |
 | Google TPU | 최대 내부 XPU (v7 Ironwood) | 🟢 +0.12 (2026-08-31) | 웨이모가 2027년 독일서 유럽 첫 무인택시 서비스를 시작한다고 발표했지만, 영국 앱스토어 소송 합의와 미 FTC의 유튜브 조사가 겹치며 규제 리스크가 부각됐다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
 | Amazon Trainium | Trainium3 (3nm) | 🟢🟢 +0.28 (2026-08-31) | AWS가 엔비디아와 GPU 200만개 추가 도입 계약을 맺고 에버코어가 목표주가를 355달러로 올리며 AI 인프라·실적 기대가 함께 강해졌다 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
 | Microsoft Maia | 내부용 자체 실리콘 | 🟢 +0.16 (2026-08-31) | 애저 실적 호조로 한 달새 29% 급등했지만 대규모 AI 투자로 현금흐름 둔화 우려가 나왔고, Xbox·영업·컨설팅 부문 추가 감원설까지 겹쳤다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |

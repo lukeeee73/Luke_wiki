@@ -1,7 +1,7 @@
 ---
 title: "AI 가속기 (GPU) — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-25
+updated: 2026-09-01
 domain: finance
 type: claim
 weight: reference
@@ -47,9 +47,9 @@ AI 학습·추론을 돌리는 데이터센터 GPU — 프런티어 AI의 지배
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| NVIDIA | GPU 출하 ~90% · 가속기 매출 80–85% · 점유 85% | ⚪ -0.02 (2026-08-25) | 8/26 실적 발표를 이틀 앞두고 메모리 가격발 서버값 인상과 반도체 업종 위험회피로 주가가 7거래일 연속 하락했지만, 델 파트너십 등 수요 펀더멘털은 견조하다 | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
-| AMD | ~5–8% (MI350/MI400) · 점유 8% | 🟢 +0.09 (2026-08-25) | 업종 전반 위험회피로 주가는 하루 조정받았지만, BMO캐피탈이 목표주가 550달러를 신규 제시하며 헬리오스를 엔비디아 최대 경쟁자로 평가했다 | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
-| Intel | <1% (Gaudi) · 점유 1% | 🔴 -0.17 (2026-08-25) | x86 CPU 시장점유율이 31년 만에 최저(69.3%)로 떨어진 데다 엔비디아 실적을 앞둔 반도체 업종 투매까지 겹쳐 주가가 5% 빠졌다 | [INTC](../../tickers/INTC - Intel Corporation.md) |
+| NVIDIA | GPU 출하 ~90% · 가속기 매출 80–85% · 점유 85% | 🟢🟢 +0.21 (2026-09-01) | 2분기 실적이 기대를 크게 웃돌았지만 메모리 원가 부담과 미디어텍 투자 논란으로 주가는 하루 만에 일부 되돌렸다 | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
+| AMD | ~5–8% (MI350/MI400) · 점유 8% | 🟢 +0.14 (2026-09-01) | AI 추론 스타트업 인수와 중동 AI 인프라 가동으로 사업은 순항했지만 금리 부담에 주가는 눌렸다 | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
+| Intel | <1% (Gaudi) · 점유 1% | 🔴 -0.06 (2026-09-01) | 서버 시장에서 경쟁사에 계속 밀리는 가운데 주가도 유상증자 가격 아래로 내려갔다 | [INTC](../../tickers/INTC - Intel Corporation.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)
