@@ -1,7 +1,7 @@
 ---
 title: "첨단 패키징 (CoWoS·SoIC) — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-25
+updated: 2026-09-01
 domain: finance
 type: claim
 weight: reference
@@ -47,10 +47,10 @@ GPU 로직 다이와 HBM 스택을 실리콘 인터포저 위에 통합 — 가�
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| TSMC | 지배 (CoWoS-L/S·SoIC) · NVDA가 60–63% 선점 · 점유 80% | 🔴 -0.09 (2026-08-25) | 엔비디아 실적(8/26) 대기 속 반도체 업종 전반이 조정받으며 TSMC도 3% 내렸지만 펀더멘털 훼손은 없다 | [TSM](../../tickers/TSM - Taiwan Semiconductor Mfg.md) |
-| Amkor | 2차 CoWoS · 미국 증설 · 점유 5% | 🔴 -0.06 (2026-08-25) | 같은 업종 조정 속 암코가 TSMC보다 큰 4.9% 낙폭을 보였으나 개별 악재는 확인되지 않은 업종 동조 하락이다 | [AMKR](../../tickers/AMKR - Amkor Technology, Inc.md) |
+| TSMC | 지배 (CoWoS-L/S·SoIC) · NVDA가 60–63% 선점 · 점유 80% | 🟢🟢 +0.33 (2026-09-01) | 엔비디아의 어닝 서프라이즈와 애리조나 법인의 수익성 급증이 확인되며 대형 투자자들의 매수세도 이어졌다 | [TSM](../../tickers/TSM - Taiwan Semiconductor Mfg.md) |
+| Amkor | 2차 CoWoS · 미국 증설 · 점유 5% | 🟢 +0.08 (2026-09-01) | 뱅크오브아메리카가 매수 의견으로 신규 분석을 시작하며 주가가 하루 만에 크게 올랐고 배당도 예정대로 유지됐다 | [AMKR](../../tickers/AMKR - Amkor Technology, Inc.md) |
 | ASE | CoWoS + CoWoP 대안 · 점유 12% | watchlist 외 | — | `ASX` |
-| Intel | EMIB/Foveros (오버플로 수주) · 점유 3% | 🔴 -0.17 (2026-08-25) | x86 CPU 시장점유율이 31년 만에 최저(69.3%)로 떨어진 데다 엔비디아 실적을 앞둔 반도체 업종 투매까지 겹쳐 주가가 5% 빠졌다 | [INTC](../../tickers/INTC - Intel Corporation.md) |
+| Intel | EMIB/Foveros (오버플로 수주) · 점유 3% | 🔴 -0.06 (2026-09-01) | 서버 시장에서 경쟁사에 계속 밀리는 가운데 주가도 유상증자 가격 아래로 내려갔다 | [INTC](../../tickers/INTC - Intel Corporation.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)

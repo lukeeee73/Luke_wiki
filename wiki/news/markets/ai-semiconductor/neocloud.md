@@ -1,7 +1,7 @@
 ---
 title: "네오클라우드 · GPU 클라우드 — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-31
+updated: 2026-09-01
 domain: finance
 type: claim
 weight: reference
@@ -50,7 +50,7 @@ sources: ["https://www.srgresearch.com/articles/neoclouds-currently-growing-by-o
 | CoreWeave | 최대 독립 네오클라우드 — Q1’26 매출 $2.08B(+112%), 잔고 $99.4B | 🟢🟢 +0.21 (2026-08-31) | 엔지니어링 소프트웨어 업체 Rescale과 파트너십을 맺고 엔비디아 실적 호조의 수혜를 입었지만, 경쟁사 대비 상승여력은 낮게 평가된다 | [CRWV](../../tickers/CRWV - CoreWeave, Inc.md) |
 | Nebius | 2위권 급성장 — 잔고 ~$50B(Meta·MS), 계약전력 3GW+ | 🟢🟢 +0.26 (2026-08-31) | 57.5억달러 전환사채 발행으로 희석 우려에 주가가 빠졌지만, 엔비디아 실적 호조에 반등하고 골드만삭스는 목표주가를 월가 최고치로 올렸다 | [NBIS](../../tickers/NBIS - Nebius Group N.V.md) |
 | Oracle OCI | 준네오클라우드 — OpenAI Stargate $300B, capex/매출 76% | 🔴 -0.07 (2026-08-31) | 한 달간 주가가 18% 올랐지만 클라우드 섹터 평균 상승률(20%)에는 못 미쳐 AI 인프라 리더십에 대한 의문이 다시 제기됐다 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
-| NVIDIA | 공급자 겸 앵커 투자자 — $110B+ 순환금융의 중심 | ⚪ -0.02 (2026-08-25) | 8/26 실적 발표를 이틀 앞두고 메모리 가격발 서버값 인상과 반도체 업종 위험회피로 주가가 7거래일 연속 하락했지만, 델 파트너십 등 수요 펀더멘털은 견조하다 | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
+| NVIDIA | 공급자 겸 앵커 투자자 — $110B+ 순환금융의 중심 | 🟢🟢 +0.21 (2026-09-01) | 2분기 실적이 기대를 크게 웃돌았지만 메모리 원가 부담과 미디어텍 투자 논란으로 주가는 하루 만에 일부 되돌렸다 | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
 | Crusoe · Lambda · Together | 비상장 — 에너지 연계·MS 계약·추론 특화 | — | — | 비상장 |
 | IREN · Cipher · Core Scientific | 채굴사→AI 전환 — 전력자산 재평가 (MS $9.7B 등) | watchlist 외 | — | `IREN` |
 <!-- PLAYERS_END -->

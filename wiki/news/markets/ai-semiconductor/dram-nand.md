@@ -1,7 +1,7 @@
 ---
 title: "범용 DRAM·NAND — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-25
+updated: 2026-09-01
 domain: finance
 type: claim
 weight: reference
@@ -45,9 +45,9 @@ sources: ["https://www.idc.com/resource-center/blog/global-memory-shortage-crisi
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Samsung | DRAM/NAND 1위 · 점유 40% | 🔴 -0.13 (2026-08-25) | 역대 최대 110조원 주주환원을 발표했지만 자사주 소각 미확정에 시장이 실망하며 이틀 연속 급락했다. 핫칩스 2026 zHBM 공개는 기술적으로 긍정적이었다 | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
-| SK Hynix | DRAM 2위 + Solidigm · 점유 34% | ⚪ +0.03 (2026-08-25) | 전일 애플發 중국 메모리 우려로 10.37% 급락했지만 오늘 1~3% 반등하며 삼성 대비 상대적으로 견조했다. 핫칩스에서 HBM5용 인텔 EMIB 패키징 검토가 공개됐다 | [000660.KS](../../tickers/000660.KS - SK Hynix.md) |
-| Micron | DRAM/NAND 3강 · 점유 22% | 🔴 -0.10 (2026-08-25) | 애플의 중국 메모리(CXMT/YMTC) 조달 검토 보도와 넷리스트 특허소송으로 주가가 하락했지만, 8/26 엔비디아 실적을 앞두고 HBM 수요 기대는 유효하다 | [MU](../../tickers/MU - Micron Technology.md) |
+| Samsung | DRAM/NAND 1위 · 점유 40% | 🟢 +0.17 (2026-09-01) | HBM4 수율 개선으로 목표주가가 오르고 D램 점유율 1위도 되찾으며 뚜렷한 순풍을 보였다 | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
+| SK Hynix | DRAM 2위 + Solidigm · 점유 34% | 🔴 -0.10 (2026-09-01) | 삼성전자의 HBM4 추격으로 수익성 전망이 낮아지며 역풍을 맞았지만 대규모 자사주 매입으로 일부 상쇄됐다 | [000660.KS](../../tickers/000660.KS - SK Hynix.md) |
+| Micron | DRAM/NAND 3강 · 점유 22% | 🟢 +0.09 (2026-09-01) | 연준의 매파적 발언에 반도체주가 주춤했지만 트럼프의 공개 지지와 9월 실적 기대감이 이를 상쇄하며 약한 순풍을 보였다 | [MU](../../tickers/MU - Micron Technology.md) |
 | Kioxia | NAND 주요 공급사 | watchlist 외 | — | `285A.T` |
 | SanDisk | NAND (구 WD) | watchlist 외 | — | `SNDK` |
 <!-- PLAYERS_END -->
