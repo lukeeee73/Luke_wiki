@@ -1,7 +1,7 @@
 ---
 title: "차량용·자율주행 반도체 — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-01
+updated: 2026-09-02
 domain: finance
 type: claim
 weight: reference
@@ -48,7 +48,7 @@ ADAS·자율주행·디지털 콕핏용 칩. 고가 AD SoC가 다중 센서를 �
 | Mobileye | 카메라 ADAS ~65–70% (점유율 하락중) · 점유 65% | ⚪ -0.04 (2026-08-25) | 모빌아이 자체 뉴스는 없었지만 테슬라 로보택시 확장(네바다 5천대 승인·사이버캡 실사용)이 경쟁 격차를 시사한다 | [MBLY](../../tickers/MBLY - Mobileye Global Inc.md) |
 | NVIDIA | 고급 AD/로보택시 (Drive Thor) · 점유 10% | 🟢🟢 +0.21 (2026-09-01) | 2분기 실적이 기대를 크게 웃돌았지만 메모리 원가 부담과 미디어텍 투자 논란으로 주가는 하루 만에 일부 되돌렸다 | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
 | Qualcomm | Snapdragon Ride · 점유 8% | 🟢 +0.10 (2026-09-01) | 칩 가격을 올려 수익성을 지키고 새로운 AI 사업도 넓혔지만 스마트폰 시장 둔화는 여전한 부담이다 | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
-| Tesla | 자체 FSD/AI5 실리콘 · 점유 7% | ⚪ -0.03 (2026-08-26) | 테슬라가 수요 부진 속에서도 사이버트럭 가격을 올리고 중국에서 대규모 리콜에 들어갔지만, 네바다주가 로보택시 5천대 운행을 승인하며 자율주행 사업은 뚜렷한 진전을 보였다 | [TSLA](../../tickers/TSLA - Tesla Inc.md) |
+| Tesla | 자체 FSD/AI5 실리콘 · 점유 7% | 🟢 +0.09 (2026-09-02) | 테슬라는 9월 3일 사이버캡 로보택시 공식 출시를 앞두고 세미트럭 인도도 시작되는 등 신사업 모멘텀이 강화되고 있으나, 중국 판매 회복은 가격 인하를 동반해 마진 부담이 남아있고 BYD 등 중국 업체의 해외 확장이 경쟁 압력을 높이고 있다 | [TSLA](../../tickers/TSLA - Tesla Inc.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)

@@ -1,7 +1,7 @@
 ---
 title: "휴머노이드 로봇 · 피지컬 AI — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-01
+updated: 2026-09-02
 domain: finance
 type: claim
 weight: reference
@@ -45,7 +45,7 @@ AI 파운데이션 모델(VLA)을 탑재해 실세계 범용 작업을 수행하
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Tesla (Optimus) | Optimus V3 ’26 양산 목표 — 핸드 설계·희토류 이슈로 지연 | ⚪ -0.03 (2026-08-26) | 테슬라가 수요 부진 속에서도 사이버트럭 가격을 올리고 중국에서 대규모 리콜에 들어갔지만, 네바다주가 로보택시 5천대 운행을 승인하며 자율주행 사업은 뚜렷한 진전을 보였다 | [TSLA](../../tickers/TSLA - Tesla Inc.md) |
+| Tesla (Optimus) | Optimus V3 ’26 양산 목표 — 핸드 설계·희토류 이슈로 지연 | 🟢 +0.09 (2026-09-02) | 테슬라는 9월 3일 사이버캡 로보택시 공식 출시를 앞두고 세미트럭 인도도 시작되는 등 신사업 모멘텀이 강화되고 있으나, 중국 판매 회복은 가격 인하를 동반해 마진 부담이 남아있고 BYD 등 중국 업체의 해외 확장이 경쟁 압력을 높이고 있다 | [TSLA](../../tickers/TSLA - Tesla Inc.md) |
 | NVIDIA | Jetson Thor + Isaac GR00T — 로보틱스의 '안드로이드' 전략 (무기상) | 🟢🟢 +0.21 (2026-09-01) | 2분기 실적이 기대를 크게 웃돌았지만 메모리 원가 부담과 미디어텍 투자 논란으로 주가는 하루 만에 일부 되돌렸다 | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
 | Figure AI | Figure 03 + Helix VLA, BotQ 자체 양산 (비상장, ~$39B) | — | — | 비상장 |
 | Unitree | 저가 휴머노이드(G1 $16K) 출하 1위권, 상하이 IPO 추진 | — | — | 비상장 |
