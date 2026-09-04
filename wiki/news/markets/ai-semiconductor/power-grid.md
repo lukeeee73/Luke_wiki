@@ -1,7 +1,7 @@
 ---
 title: "전력 생산·전력망 — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-28
+updated: 2026-09-04
 domain: finance
 type: claim
 weight: reference
@@ -47,10 +47,10 @@ AI 데이터센터에 전기를 공급하는 발전·전력계약·전력망 접
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Constellation | 미 최대 원자력 (MS TMI 재가동) | ⚪ -0.03 (2026-08-28) | 이번 주는 특별한 소식 없이 지난주 규제 충격을 소화하는 조용한 한 주였다 | [CEG](../../tickers/CEG - Constellation Energy.md) |
-| Vistra | 원자력+가스 | 🟢 +0.06 (2026-08-28) | 모건스탠리가 목표주가를 올렸고 회사는 전력 수요가 AI를 넘어 산업·인구 성장에서도 늘고 있다고 강조했다 | [VST](../../tickers/VST - Vistra Corp.md) |
-| NextEra | 신재생 1위 (Dominion 딜) | ⚪ +0.02 (2026-08-28) | 도미니언 인수 안건을 표결할 주주총회가 9월 3일로 확정됐지만 진짜 관문인 규제 심사는 11월에 남아있다 | [NEE](../../tickers/NEE - NextEra Energy.md) |
-| GE Vernova | 가스터빈 (2030까지 예약) + SMR | 🟢 +0.10 (2026-08-28) | CIGRE 전시회에서 친환경 차단기를 새로 선보이고 영국 변전소도 수주하며 주가가 사상 최고치 부근을 유지했다 | [GEV](../../tickers/GEV - GE Vernova Inc.md) |
+| Constellation | 미 최대 원자력 (MS TMI 재가동) | 🟢🟢 +0.36 (2026-09-04) | 원자력發 AI 전력수요 낙관론에 주가가 섹터 평균을 크게 웃도는 3.17% 급등했다 | [CEG](../../tickers/CEG - Constellation Energy.md) |
+| Vistra | 원자력+가스 | 🟢🟢 +0.27 (2026-09-04) | 주가는 연중 고점 대비 37% 낮은 수준이지만 CEO의 자사주 매입과 견조한 2분기 실적(EBITDA +31%)이 저가 매수 신호로 해석되고 있다 | [VST](../../tickers/VST - Vistra Corp.md) |
+| NextEra | 신재생 1위 (Dominion 딜) | 🟢🟢 +0.24 (2026-09-04) | 넥스테라와 도미니언 양사 주주가 9월 3일 665억달러 규모 합병안을 가결했고, 금리 인하 기대까지 겹치며 유틸리티 섹터 전반이 순풍을 탔다 | [NEE](../../tickers/NEE - NextEra Energy.md) |
+| GE Vernova | 가스터빈 (2030까지 예약) + SMR | ⚪ +0.02 (2026-09-04) | 스웨덴 SMR 프로젝트 파트너 선정이라는 호재와 스페이스X의 가스터빈 부품 자체생산 추진이라는 경쟁 리스크가 동시에 나왔고, 국채금리 충격까지 겹쳐 주가는 조정받았다 | [GEV](../../tickers/GEV - GE Vernova Inc.md) |
 | Talen | Susquehanna/AWS PPA | watchlist 외 | — | `TLN` |
 <!-- PLAYERS_END -->
 
