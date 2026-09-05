@@ -166,16 +166,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [JPM](tickers/JPM - JPMorgan Chase and Co.md) | 2026-08-29 | 🟢 +0.16 | AI 데이터센터 부채조달을 주도하며 확장을 이어갔지만 SEC 소환장과 GSIB 자본규제 갈등이라는 두 갈래 규제 역풍도 함께 맞았다 | 8 |
-| [BAC](tickers/BAC - Bank of America Corp.md) | 2026-08-29 | ⚪ -0.02 | 엡스타인 피해자 합의 승인과 SEC 소환장 등 법률·규제 이슈가 두드러졌지만 스테이블코인 발행 검토 참여는 긍정적이다 | 6 |
-| [WFC](tickers/WFC - Wells Fargo and Company.md) | 2026-08-29 | 🟢 +0.17 | 자산관리 부문 개편 이후 독립 자문사 채용을 확대하며 자금 유입을 늘렸고 규제 관련 악재는 없었다 | 4 |
-| [C](tickers/C - Citigroup Inc.md) | 2026-08-29 | ⚪ +0.02 | 한국 자본시장 발행 사상 최대 전망으로 IB 파이프라인은 강했지만 SEC 소환장과 유럽은행 랠리 둔화 경고가 상쇄했다 | 5 |
-| [GS](tickers/GS - The Goldman Sachs Group.md) | 2026-08-29 | 🔴 -0.07 | SEC의 AI 헤지펀드 소환장을 받았고 내부 파트너조차 AI의 인재 역량 저하 위험을 경고한 조용한 역풍의 한 주였다 | 5 |
-| [MS](tickers/MS - Morgan Stanley.md) | 2026-08-29 | 🟢 +0.09 | 스페이스X 밸류에이션 리서치 콜이 머스크의 직접 반응을 이끌어냈고 댈러스 신사옥 확장 소식도 긍정적이었다 | 6 |
-| [V](tickers/V - Visa Inc.md) | 2026-08-29 | 🟢🟢 +0.42 | 사상 최고가 부근에서 애크먼의 신규 매수와 스테이블코인 결제망 확장이 겹치며 강한 순풍을 탔다 | 6 |
-| [MA](tickers/MA - Mastercard Incorporated.md) | 2026-08-29 | 🟢🟢 +0.30 | 시리아 신규시장 개척과 목표주가 상향, 비자와 동반 사상 최고가 경신까지 결제 듀오폴리 전반의 강세를 누렸다 | 6 |
-| [AXP](tickers/AXP - American Express Company.md) | 2026-08-29 | ⚪ +0.00 | 지난주 더포크 인수·세인트앤드루스 제휴 이후 이번 주는 검증 가능한 신규 뉴스 없이 조용했다 | 7 |
-| [BRK-B](tickers/BRK-B - Berkshire Hathaway.md) | 2026-08-29 | 🟢 +0.18 | 보험이익은 둔화됐지만 알파벳 베팅 확대가 재조명됐고 버핏과 신임 CEO 아벨의 자본배분 스타일 차이가 부각됐다 | 5 |
+| [JPM](tickers/JPM - JPMorgan Chase and Co.md) | 2026-09-05 | 🟢 +0.08 | 사우스웨스트항공과 손잡고 2027년 말 첫 공항 라운지 네트워크를 열지만 21개 은행 스테이블코인 컨소시엄에는 홀로 빠졌다 | 8 |
+| [BAC](tickers/BAC - Bank of America Corp.md) | 2026-09-05 | 🟢 +0.07 | 21개 은행 스테이블코인 컨소시엄에 초기 멤버로 참여하며 결제 인프라 표준 경쟁에서 앞서 나갔다 | 6 |
+| [WFC](tickers/WFC - Wells Fargo and Company.md) | 2026-09-05 | 🟢 +0.07 | 업계 공동 스테이블코인 컨소시엄과 자체 토큰화 예금 플랫폼을 동시에 밀어붙이며 결제 인프라 경쟁에서 이중 포석을 뒀다 | 4 |
+| [C](tickers/C - Citigroup Inc.md) | 2026-09-05 | 🟢 +0.05 | 중국 브로커리지 라이선스 승인이 임박해 아시아 확장에 청신호가 켜졌지만 강한 고용지표로 금리인하 전망이 밀리며 주가는 조정받았다 | 5 |
+| [GS](tickers/GS - The Goldman Sachs Group.md) | 2026-09-05 | 🟢 +0.09 | 21개 은행 스테이블코인 컨소시엄에 참여하고 앤트로픽 IPO 주관사 지위도 재확인했지만 대표 주관사 자리는 모건스탠리에 내줬다 | 5 |
+| [MS](tickers/MS - Morgan Stanley.md) | 2026-09-05 | 🟢 +0.13 | 밸류에이션 9,650억달러 앤트로픽 IPO의 대표 주관사 지위를 신용공여 약정으로 다시 한번 굳혔다 | 6 |
+| [V](tickers/V - Visa Inc.md) | 2026-09-05 | ⚪ +0.04 | 사기방지 기술을 고도화했지만 DOJ의 직불카드 반독점 소송이 시장 정의를 놓고 계속 다투고 있다 | 8 |
+| [MA](tickers/MA - Mastercard Incorporated.md) | 2026-09-05 | 🟢 +0.10 | AI 에이전트가 대신 결제하는 '에이전트 상거래' 육성 프로그램을 업계 최초로 출시했다 | 7 |
+| [AXP](tickers/AXP - American Express Company.md) | 2026-09-05 | ⚪ -0.02 | 지난주 인수·제휴 이후 이번 주도 검증 가능한 신규 뉴스 없이 조용했다 | 7 |
+| [BRK-B](tickers/BRK-B - Berkshire Hathaway.md) | 2026-09-05 | ⚪ +0.04 | 에이블 CEO가 알파벳을 AI 핵심 플레이어로 재평가하면서도 데이터센터 건설 지역 반발이 커지고 있다고 경고했다 | 5 |
 
 ### 소비재
 
@@ -215,16 +215,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [AMT](tickers/AMT - American Tower Corporation.md) | 2026-08-29 | 🟢 +0.07 | 이사와 기관투자자의 잇단 매수가 이어지며 지난주 바클레이스 투자의견 상향 이후 우호적인 수급 흐름을 이어갔다 | 5 |
-| [CCI](tickers/CCI - Crown Castle Inc.md) | 2026-08-29 | ⚪ -0.03 | 9월 초 골드만·BofA 컨퍼런스 발표 일정만 공시됐을 뿐 뚜렷한 신규 촉매 없이 조용한 한 주였다 | 5 |
-| [PLD](tickers/PLD - Prologis, Inc.md) | 2026-08-29 | 🟢🟢 +0.36 | 세그로 인수 절차가 계속 진행 중인 가운데 애널리스트 목표가 상향과 기관 매수세가 이어졌다 | 4 |
-| [EQIX](tickers/EQIX - Equinix, Inc.md) | 2026-08-29 | 🟢 +0.09 | 커뮤니티 재단에 5000만달러를 추가 기부해 누적 투자를 두 배로 늘렸고 주가는 1,070달러 위에서 안정세를 유지했다 | 6 |
-| [DLR](tickers/DLR - Digital Realty Trust.md) | 2026-08-29 | 🟢 +0.08 | 스위스 취리히에 4번째 데이터센터를 착공했지만 주가는 여전히 애널리스트 목표가를 밑돌며 거래됐다 | 5 |
-| [O](tickers/O - Realty Income Corporation.md) | 2026-08-29 | ⚪ +0.01 | 웰스파고·TD와의 텀론 조건을 재정비해 재무 유연성을 높인 것 외에 새로운 소식은 없었다 | 6 |
-| [SPG](tickers/SPG - Simon Property Group.md) | 2026-08-29 | 🟢 +0.07 | 몰 트래픽 데이터를 활용한 신규 광고 사업 '사이먼 미디어 네트워크'를 출시하며 수익원 다각화에 나섰다 | 2 |
-| [WELL](tickers/WELL - Welltower Inc.md) | 2026-08-29 | 🟢 +0.12 | 전국 시니어하우징 점유율이 89.9%까지 오르며 업계 최대 수혜주인 웰타워가 52주 고점권을 유지했다 | 2 |
-| [PSA](tickers/PSA - Public Storage.md) | 2026-08-29 | 🟢 +0.08 | 기관 매수세가 유입되는 가운데 2분기 입주 임대료 개선세가 이어지며 완만한 회복 국면을 이어갔다 | 3 |
-| [VICI](tickers/VICI - VICI Properties Inc.md) | 2026-08-29 | ⚪ +0.00 | 일본 대형 자산운용사의 신규 지분 매수가 확인됐지만 주가는 여전히 52주 신저가권을 벗어나지 못했다 | 5 |
+| [AMT](tickers/AMT - American Tower Corporation.md) | 2026-09-05 | ⚪ +0.00 | 스페이스X의 위성 무선망 진출 발표로 통신탑주가 흔들렸지만 BofA는 오히려 임대 수요 증가 요인이라 반박했다 | 5 |
+| [CCI](tickers/CCI - Crown Castle Inc.md) | 2026-09-05 | ⚪ -0.03 | 스페이스X 위성 무선망 이슈로 통신탑 업종 전체가 흔들리며 뚜렷한 자체 호재 없는 조용한 한 주였다 | 5 |
+| [PLD](tickers/PLD - Prologis, Inc.md) | 2026-09-05 | 🔴 -0.10 | 임대료 하락·공실률 상승·불량채권 증가 신호가 겹치며 주가가 7월 이후 최저치로 밀렸다 | 4 |
+| [EQIX](tickers/EQIX - Equinix, Inc.md) | 2026-09-05 | 🟢 +0.14 | 캐나다연금투자위원회와 함께 40억달러 규모 북유럽 데이터센터 업체 atNorth 인수를 완료했다 | 6 |
+| [DLR](tickers/DLR - Digital Realty Trust.md) | 2026-09-05 | 🟢 +0.09 | 2026년 매출·EPS 전망이 나란히 상향되며 세 분기 연속 가이던스 상향 흐름을 이어갔다 | 5 |
+| [O](tickers/O - Realty Income Corporation.md) | 2026-09-05 | ⚪ -0.01 | 674번째 연속 월배당을 발표했지만 국채금리 상승으로 배당 매력 스프레드가 28bp로 좁아졌다 | 6 |
+| [SPG](tickers/SPG - Simon Property Group.md) | 2026-09-05 | ⚪ +0.00 | 2분기 실적·배당 인상 이후 검증 가능한 신규 뉴스 없이 조용했다 | 2 |
+| [WELL](tickers/WELL - Welltower Inc.md) | 2026-09-05 | 🟢 +0.10 | 바클레이스 목표주가 상향과 베이비부머 고령화 수혜 리츠 재조명이 겹쳤다 | 2 |
+| [PSA](tickers/PSA - Public Storage.md) | 2026-09-05 | ⚪ -0.01 | 웰스파고가 등가중 의견으로 커버리지를 재개하며 상승여력을 제한적으로 봤다 | 3 |
+| [VICI](tickers/VICI - VICI Properties Inc.md) | 2026-09-05 | ⚪ -0.01 | 배당을 2.2% 인상했지만 미즈호의 목표가 하향과 함께 52주 신저가권을 벗어나지 못했다 | 5 |
 
 ### 통신 / 미디어
 
