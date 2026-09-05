@@ -166,14 +166,14 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [JPM](tickers/JPM - JPMorgan Chase and Co.md) | 2026-09-05 | 🟢 +0.08 | 사우스웨스트항공과 손잡고 2027년 말 첫 공항 라운지 네트워크를 열지만 21개 은행 스테이블코인 컨소시엄에는 홀로 빠졌다 | 8 |
+| [JPM](tickers/JPM - JPMorgan Chase and Co.md) | 2026-09-05 | 🟢 +0.08 | 사우스웨스트항공과 손잡고 2027년 말 첫 공항 라운지 네트워크를 열지만 21개 은행 스테이블코인 컨소시엄에는 홀로 빠졌다 | 7 |
 | [BAC](tickers/BAC - Bank of America Corp.md) | 2026-09-05 | 🟢 +0.07 | 21개 은행 스테이블코인 컨소시엄에 초기 멤버로 참여하며 결제 인프라 표준 경쟁에서 앞서 나갔다 | 6 |
 | [WFC](tickers/WFC - Wells Fargo and Company.md) | 2026-09-05 | 🟢 +0.07 | 업계 공동 스테이블코인 컨소시엄과 자체 토큰화 예금 플랫폼을 동시에 밀어붙이며 결제 인프라 경쟁에서 이중 포석을 뒀다 | 4 |
 | [C](tickers/C - Citigroup Inc.md) | 2026-09-05 | 🟢 +0.05 | 중국 브로커리지 라이선스 승인이 임박해 아시아 확장에 청신호가 켜졌지만 강한 고용지표로 금리인하 전망이 밀리며 주가는 조정받았다 | 5 |
 | [GS](tickers/GS - The Goldman Sachs Group.md) | 2026-09-05 | 🟢 +0.09 | 21개 은행 스테이블코인 컨소시엄에 참여하고 앤트로픽 IPO 주관사 지위도 재확인했지만 대표 주관사 자리는 모건스탠리에 내줬다 | 5 |
 | [MS](tickers/MS - Morgan Stanley.md) | 2026-09-05 | 🟢 +0.13 | 밸류에이션 9,650억달러 앤트로픽 IPO의 대표 주관사 지위를 신용공여 약정으로 다시 한번 굳혔다 | 6 |
-| [V](tickers/V - Visa Inc.md) | 2026-09-05 | ⚪ +0.04 | 사기방지 기술을 고도화했지만 DOJ의 직불카드 반독점 소송이 시장 정의를 놓고 계속 다투고 있다 | 8 |
-| [MA](tickers/MA - Mastercard Incorporated.md) | 2026-09-05 | 🟢 +0.10 | AI 에이전트가 대신 결제하는 '에이전트 상거래' 육성 프로그램을 업계 최초로 출시했다 | 7 |
+| [V](tickers/V - Visa Inc.md) | 2026-09-05 | ⚪ +0.04 | 사기방지 기술을 고도화했지만 DOJ의 직불카드 반독점 소송이 시장 정의를 놓고 계속 다투고 있다 | 6 |
+| [MA](tickers/MA - Mastercard Incorporated.md) | 2026-09-05 | 🟢 +0.10 | AI 에이전트가 대신 결제하는 '에이전트 상거래' 육성 프로그램을 업계 최초로 출시했다 | 6 |
 | [AXP](tickers/AXP - American Express Company.md) | 2026-09-05 | ⚪ -0.02 | 지난주 인수·제휴 이후 이번 주도 검증 가능한 신규 뉴스 없이 조용했다 | 7 |
 | [BRK-B](tickers/BRK-B - Berkshire Hathaway.md) | 2026-09-05 | ⚪ +0.04 | 에이블 CEO가 알파벳을 AI 핵심 플레이어로 재평가하면서도 데이터센터 건설 지역 반발이 커지고 있다고 경고했다 | 5 |
 

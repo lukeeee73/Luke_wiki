@@ -79,7 +79,7 @@ sources: []
 - **무슨 일**: 계좌 간(A2A) 실시간 이체 사기를 탐지하는 A2A Protect 기술을 업그레이드했다.
 - **왜 중요**: 실시간 이체가 늘어날수록 사기 위험도 커지는데, 비자가 이 부분에서 기술 우위를 유지하면 네트워크 신뢰도가 높아져 가맹점·은행의 이탈을 막는 데 도움이 된다.
 - **주가에 의미**: 실적에 직접 기여하는 뉴스는 아니지만 장기 경쟁력 관리 측면에서 완만한 호재.
-- 출처: [Yahoo Finance](https://finance.yahoo.com/quote/V/) · 2026-09-03
+- 출처: [PR Newswire (via Manila Times)](https://www.manilatimes.net/2026/09/02/tmt-newswire/pr-newswire/visa-launches-enhanced-a2a-protect-innovations-to-help-financial-institutions-stop-fraud-before-money-leaves-accounts/2416638) · 2026-09-02
 
 **② DOJ 직불카드 반독점 소송, 시장 정의 놓고 법정 공방 지속** 🔴
 - **무슨 일**: 법무부의 비자 직불카드 독점 소송이 '직불카드 시장을 어떻게 정의하느냐'를 두고 계속 다투고 있다는 법률 전문가들의 분석이 나왔다.
