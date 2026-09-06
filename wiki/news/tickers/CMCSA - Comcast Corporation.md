@@ -1,7 +1,7 @@
 ---
 title: "CMCSA - Comcast Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-08-30
+updated: 2026-09-06
 domain: finance
 type: claim
 weight: reference
@@ -43,6 +43,34 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-09-06 (일) — 신호등: 🟢 순풍 (+0.08)
+
+**세 줄 요약**
+1. 컴캐스트 주가가 NBCU 분사 스토리 재조명과 무선 성장 모멘텀에 힘입어 3.1% 상승했습니다.
+2. 유타주에서 초고속 인터넷망 확장 공사도 새로 시작했습니다.
+3. 경쟁사 차터의 CFO 공백 이슈가 컴캐스트의 상대적 안정성을 부각시켰습니다.
+
+**뉴스 브리핑**
+
+**① 컴캐스트 주가 3.1% 상승 — NBCU 분사 스토리 재조명, 무선 성장 모멘텀 부각** 🟢
+- **무슨 일**: 컴캐스트 주가가 NBC유니버설 분사 가치 스토리가 재조명되고 무선 사업 성장 모멘텀이 부각되며 3.1% 상승했습니다.
+- **왜 중요**: 분사를 통한 가치 재평가 기대와 무선(모바일) 사업의 견조한 성장이 동시에 부각된 점이 투자자들의 관심을 끌었습니다.
+- **주가에 의미**: 분사 실행이 구체화될수록 주가 재평가 여지가 커질 수 있습니다.
+- 출처: [Quiver Quantitative](https://www.quiverquant.com/news/Comcast+Rises+as+Investors+Revisit+Spin-Off+Value+Story+and+Strong+Wireless+Momentum) · 2026-09-04
+
+**② 컴캐스트, 유타주 초고속 인터넷망 확장 착공** ⚪
+- **무슨 일**: 컴캐스트가 유타주 카마스·프랜시스 지역에 초고속 인터넷망을 확장하는 공사를 시작했습니다.
+- **왜 중요**: 지방 소도시로의 망 확장은 광대역 가입자 기반을 넓히려는 통상적인 인프라 투자입니다.
+- **주가에 의미**: 장기적인 가입자 성장에는 도움이 되지만 단기 실적 임팩트는 크지 않습니다.
+- 출처: [Comcast Corporation](https://corporate.comcast.com/stories/local/utah/comcast-breaks-ground-to-expand-high-speed-internet-to-kamas-and-francis-utah) · 2026-09-02
+
+**경쟁 구도 한눈에**
+- 차터 CFO 제시카 피셔, 블랙스톤-구글 AI 합작사로 이직(10/15 발효) → 경쟁사의 CFO 공백기는 Comcast의 광대역·무선 가입자 경쟁에서 상대적 안정성 부각 요인
+- FCC, 디즈니의 ABC 방송국 라이선스 소송 기각 요청 → 디즈니의 규제 리스크는 Comcast의 NBCU/Sky 분사 이후 방송 라이선스 규제 환경에도 시사점
+
+**앞으로 지켜볼 것**
+- [ ] 10월말(미정) 3분기 실적 발표 — 확인할 것: 광대역 순감 추세 지속 여부와 NBC유니버설 분사 일정 구체화
+
 ### 2026-08-30 (일) — 신호등: ⚪ 잔잔함 (-0.03)
 
 **세 줄 요약**
