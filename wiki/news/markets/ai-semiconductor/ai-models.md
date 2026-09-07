@@ -1,7 +1,7 @@
 ---
 title: "AI 소프트웨어·모델 — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-31
+updated: 2026-09-07
 domain: finance
 type: claim
 weight: reference
@@ -47,9 +47,9 @@ sources: ["https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-th
 |---|---|---|---|---|
 | OpenAI | 프런티어 랩 (비상장, ~$852B 평가) | — | — | 비상장 |
 | Anthropic | 프런티어 랩 (비상장) | — | — | 비상장 |
-| Google DeepMind | Gemini | 🟢 +0.12 (2026-08-31) | 웨이모가 2027년 독일서 유럽 첫 무인택시 서비스를 시작한다고 발표했지만, 영국 앱스토어 소송 합의와 미 FTC의 유튜브 조사가 겹치며 규제 리스크가 부각됐다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
-| Microsoft | OpenAI 제휴 + 자체 | 🟢 +0.16 (2026-08-31) | 애저 실적 호조로 한 달새 29% 급등했지만 대규모 AI 투자로 현금흐름 둔화 우려가 나왔고, Xbox·영업·컨설팅 부문 추가 감원설까지 겹쳤다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
-| Meta | Llama (오픈웨이트) | 🟢 +0.15 (2026-08-31) | 최대 1.4조달러까지 거론되던 청소년 유해성 소송이 재판 없이 최대 180억달러 합의로 마무리됐지만, 이용시간 제한 등 새 플랫폼 제약이 남았다 | [META](../../tickers/META - Meta Platforms Inc.md) |
+| Google DeepMind | Gemini | 🟢🟢 +0.29 (2026-09-07) | 광고기술 사업 매각 명령을 법원이 기각시키며 최악의 반독점 리스크를 피했지만, 법무부가 검색 반독점 판결에 항소하기로 했다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
+| Microsoft | OpenAI 제휴 + 자체 | 🟢🟢 +0.33 (2026-09-07) | 처음으로 애저 매출(연 1,019억달러, +43%)을 공개하며 AI 중심 조직개편을 단행했지만, 비용 부담에 엑스박스 클라우드 게이밍 이용시간을 제한하기로 했다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
+| Meta | Llama (오픈웨이트) | 🟢 +0.15 (2026-09-07) | 180억달러 아동안전 합의로 AI 신제품 출시의 법적 걸림돌은 치웠지만, 텍사스 데이터센터 건설이 주정부·주민 반발에 부딪혔다 | [META](../../tickers/META - Meta Platforms Inc.md) |
 | xAI | Grok (비상장) | — | — | 비상장 |
 <!-- PLAYERS_END -->
 
