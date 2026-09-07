@@ -1,7 +1,7 @@
 ---
 title: "온디바이스 AI 스마트폰 — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-01
+updated: 2026-09-07
 domain: finance
 type: claim
 weight: reference
@@ -47,7 +47,7 @@ NPU 탑재 SoC로 생성형 AI를 단말에서 직접 구동하는 스마트폰.
 |---|---|---|---|---|
 | MediaTek | AP-SoC ~40% (물량 1위) · 점유 40% | ⚪ +0.04 (2026-09-01) | 엔비디아의 대규모 투자로 입지는 강해졌지만 정작 주가는 순환금융 우려로 하락했다 | [2454.TW](../../tickers/2454.TW - MediaTek Inc.md) |
 | Qualcomm | ~24% 프리미엄 Android · 점유 24% | 🟢 +0.10 (2026-09-01) | 칩 가격을 올려 수익성을 지키고 새로운 AI 사업도 넓혔지만 스마트폰 시장 둔화는 여전한 부담이다 | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
-| Apple | ~17% 자체 A시리즈 · 점유 17% | 🟢 +0.13 (2026-08-31) | 9월 9일 아이폰18 프로·첫 폴더블 신제품 행사를 공식 확정했지만, 메모리 가격발 최대 300달러 가격 인상설이 함께 나오며 수요 반응이 관건이 됐다 | [AAPL](../../tickers/AAPL - Apple Inc.md) |
+| Apple | ~17% 자체 A시리즈 · 점유 17% | 🟢🟢 +0.27 (2026-09-07) | 존 터너스가 신임 CEO로 공식 취임했고 9월9일 신제품 행사를 앞뒀지만, 폴더블 가격 인상 우려로 행사 직전 시총이 120억달러 줄었다 | [AAPL](../../tickers/AAPL - Apple Inc.md) |
 | Samsung LSI | ~5% Exynos · 점유 5% | 🟢 +0.17 (2026-09-01) | HBM4 수율 개선으로 목표주가가 오르고 D램 점유율 1위도 되찾으며 뚜렷한 순풍을 보였다 | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
 | UNISOC | 저가형 (비상장/중국) · 점유 13% | — | — | 비상장 |
 <!-- PLAYERS_END -->

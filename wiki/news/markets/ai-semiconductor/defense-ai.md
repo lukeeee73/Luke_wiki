@@ -1,7 +1,7 @@
 ---
 title: "국방 AI · 지휘통제 (C2) — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-06
+updated: 2026-09-07
 domain: finance
 type: claim
 weight: reference
@@ -47,7 +47,7 @@ AI 기반 지휘통제(C2)·표적인식·군집 오케스트레이션 소프트
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Palantir | Maven Smart System — DoD AI C2 사실상 표준 (한도 $1.3B) | 🟢🟢 +0.20 (2026-08-31) | 법원이 국방부의 앤트로픽 공급망 위험 지정을 위법이라 판결하면서, 클로드 기반 메이븐 국방 프로그램의 9월 정식 지정 걸림돌이 줄었다 | [PLTR](../../tickers/PLTR - Palantir Technologies Inc.md) |
+| Palantir | Maven Smart System — DoD AI C2 사실상 표준 (한도 $1.3B) | 🟢🟢 +0.32 (2026-09-07) | PwC와 제휴를 확대하며 주가가 8% 뛰었지만, 세 자릿수 밸류에이션 부담으로 美 육군 계약 등 호재에도 차익실현이 반복됐다 | [PLTR](../../tickers/PLTR - Palantir Technologies Inc.md) |
 | Anduril | Lattice OS — 자율체계 통합 SW (비상장, $61B) | — | — | 비상장 |
 | Lockheed · RTX · Northrop | 전통 프라임 — AI 통합 미사일·C2·CCA | ⚪ -0.01 (2026-09-06) | 록히드마틴이 1.5억달러 규모 국방계약을 추가 수주했지만 노스롭그루먼의 더 큰 계약과 대비돼 상대적으로 위축됐다 | [LMT](../../tickers/LMT - Lockheed Martin Corp.md) |
 <!-- PLAYERS_END -->
