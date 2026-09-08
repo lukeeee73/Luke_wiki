@@ -1,7 +1,7 @@
 ---
 title: "맞춤형 AI ASIC·XPU — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-07
+updated: 2026-09-08
 domain: finance
 type: claim
 weight: reference
@@ -47,8 +47,8 @@ sources: ["https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-a
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Broadcom | 코디자인 ~60% (Google·Meta·OpenAI) · 점유 60% | 🟢 +0.06 (2026-09-01) | 내일 실적 발표를 앞두고 기대감은 있지만 경쟁사의 대형 수주 소식에 다소 눌렸다 | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
-| Marvell | ~25% (Amazon·Microsoft) · 점유 25% | 🟢 +0.14 (2026-09-01) | 매출이 사상 최대를 기록하고 전망도 올렸는데도 주가는 오히려 크게 빠지는 이례적인 하루였다 | [MRVL](../../tickers/MRVL - Marvell Technology, Inc.md) |
+| Broadcom | 코디자인 ~60% (Google·Meta·OpenAI) · 점유 60% | 🟢 +0.16 (2026-09-08) | 브로드컴이 인공지능 반도체 매출이 두 배 넘게 늘어난 실적을 발표했지만 이미 높았던 기대치 탓에 주가 반응은 차분했다. | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
+| Marvell | ~25% (Amazon·Microsoft) · 점유 25% | ⚪ +0.05 (2026-09-08) | 마벨 주가가 실적 발표 후 급락했던 흐름에서 벗어나 반등했고 다음 달 투자자의 날이 다음 관전 포인트로 떠올랐다. | [MRVL](../../tickers/MRVL - Marvell Technology, Inc.md) |
 | Google TPU | 최대 내부 XPU (v7 Ironwood) | 🟢🟢 +0.29 (2026-09-07) | 광고기술 사업 매각 명령을 법원이 기각시키며 최악의 반독점 리스크를 피했지만, 법무부가 검색 반독점 판결에 항소하기로 했다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
 | Amazon Trainium | Trainium3 (3nm) | 🟢 +0.05 (2026-09-07) | FTC와 22개 주가 광고주 200억달러 부당청구 혐의로 아마존을 제소했지만, 자율주행 자회사 주크스는 라스베이거스 공항서 로보택시 서비스를 시작했다 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
 | Microsoft Maia | 내부용 자체 실리콘 | 🟢🟢 +0.33 (2026-09-07) | 처음으로 애저 매출(연 1,019억달러, +43%)을 공개하며 AI 중심 조직개편을 단행했지만, 비용 부담에 엑스박스 클라우드 게이밍 이용시간을 제한하기로 했다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |

@@ -1,7 +1,7 @@
 ---
 title: "AMKR - Amkor Technology, Inc. — Routine News Log"
 created: 2026-07-06
-updated: 2026-09-01
+updated: 2026-09-08
 domain: finance
 type: claim
 weight: reference

@@ -1,7 +1,7 @@
 ---
 title: "소버린·엔터프라이즈 AI — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-01
+updated: 2026-09-08
 domain: finance
 type: claim
 weight: reference
@@ -45,8 +45,8 @@ sources: ["https://www.nvidia.com/en-us/industries/global-public-sector/"]
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| NVIDIA | 국가 AI 팩토리 GPU 지배 공급 | 🟢🟢 +0.21 (2026-09-01) | 2분기 실적이 기대를 크게 웃돌았지만 메모리 원가 부담과 미디어텍 투자 논란으로 주가는 하루 만에 일부 되돌렸다 | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
-| AMD | MI 시리즈 대안 | 🟢 +0.14 (2026-09-01) | AI 추론 스타트업 인수와 중동 AI 인프라 가동으로 사업은 순항했지만 금리 부담에 주가는 눌렸다 | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
+| NVIDIA | 국가 AI 팩토리 GPU 지배 공급 | 🟢 +0.17 (2026-09-08) | 엔비디아가 오픈소스 AI 플랫폼 허깅페이스를 13조원 규모에 인수하며 주가가 사상 최고치에 다가섰다. | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
+| AMD | MI 시리즈 대안 | 🟢 +0.11 (2026-09-08) | 에이엠디 주가가 하루 만에 5% 가까이 오르며 인공지능 투자 열기가 다른 반도체 회사로도 퍼지고 있음을 보여줬다. | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
 | Dell · HPE · Supermicro | 온프렘 시스템 통합 | watchlist 외 | — | `DELL` |
 <!-- PLAYERS_END -->
 

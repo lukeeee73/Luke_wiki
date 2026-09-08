@@ -1,7 +1,7 @@
 ---
 title: "계측·검사 장비 — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-01
+updated: 2026-09-08
 domain: finance
 type: claim
 weight: reference
@@ -45,8 +45,8 @@ sources: ["https://247wallst.com/technology-3/2026/05/04/kla-is-gaining-share-as
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| KLA | 계측·검사 ~74% 준독점 · 점유 74% | ⚪ -0.01 (2026-09-01) | 이번 주 별다른 자체 소식 없이, 반도체 관세 검토와 기존의 규제 우려가 계속 부담으로 남아 있다 | [KLAC](../../tickers/KLAC - KLA Corporation.md) |
-| Applied Materials | ~9.8% (감소중) · 점유 10% | ⚪ +0.02 (2026-09-01) | 재무책임자의 자사주 매도와 관세 검토 우려가 겹치며 주가가 하루 만에 4퍼센트 넘게 빠졌다 | [AMAT](../../tickers/AMAT - Applied Materials.md) |
+| KLA | 계측·검사 ~74% 준독점 · 점유 74% | 🔴 -0.05 (2026-09-08) | 9/2 신규 매수의견에도 회복이 더디고, 관세 2단계 공식화가 中 노출·11/9 BIS 재발동 리스크와 겹치며 부담이 커졌다. | [KLAC](../../tickers/KLAC - KLA Corporation.md) |
+| Applied Materials | ~9.8% (감소중) · 점유 10% | 🟢 +0.05 (2026-09-08) | 실적 후 과매도됐던 주가가 9/4 4.4% 반등하고 퀄컴 임원이 이사회에 합류했지만, 관세 2단계 공식화로 中 노출 부담은 그대로 남았다. | [AMAT](../../tickers/AMAT - Applied Materials.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)
