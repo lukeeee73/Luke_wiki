@@ -1,7 +1,7 @@
 ---
 title: "데이터센터 네트워킹 — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-07
+updated: 2026-09-08
 domain: finance
 type: claim
 weight: reference
@@ -45,11 +45,11 @@ GPU를 잇는 스위치 패브릭 — 스케일업(NVLink)과 스케일아웃(In
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| NVIDIA | NVLink 스케일업 준독점 + Spectrum-X · 점유 40% | 🟢🟢 +0.21 (2026-09-01) | 2분기 실적이 기대를 크게 웃돌았지만 메모리 원가 부담과 미디어텍 투자 논란으로 주가는 하루 만에 일부 되돌렸다 | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
-| Broadcom | 머천트 스위치 실리콘(Tomahawk) | 🟢 +0.06 (2026-09-01) | 내일 실적 발표를 앞두고 기대감은 있지만 경쟁사의 대형 수주 소식에 다소 눌렸다 | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
+| NVIDIA | NVLink 스케일업 준독점 + Spectrum-X · 점유 40% | 🟢 +0.17 (2026-09-08) | 엔비디아가 오픈소스 AI 플랫폼 허깅페이스를 13조원 규모에 인수하며 주가가 사상 최고치에 다가섰다. | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
+| Broadcom | 머천트 스위치 실리콘(Tomahawk) | 🟢 +0.16 (2026-09-08) | 브로드컴이 인공지능 반도체 매출이 두 배 넘게 늘어난 실적을 발표했지만 이미 높았던 기대치 탓에 주가 반응은 차분했다. | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
 | Arista | DC 이더넷 ~19% · 점유 20% | 🟢🟢 +0.39 (2026-09-07) | 도이체방크가 매수 커버리지를 새로 개시했고 9월21일 S&P100 지수 편입도 확정되며 견조한 흐름을 이어갔다 | [ANET](../../tickers/ANET - Arista Networks, Inc.md) |
 | Cisco | 기존 강자, AI 점유율 하락 · 점유 15% | watchlist 외 | — | `CSCO` |
-| Marvell | DPU·커스텀 실리콘 | 🟢 +0.14 (2026-09-01) | 매출이 사상 최대를 기록하고 전망도 올렸는데도 주가는 오히려 크게 빠지는 이례적인 하루였다 | [MRVL](../../tickers/MRVL - Marvell Technology, Inc.md) |
+| Marvell | DPU·커스텀 실리콘 | ⚪ +0.05 (2026-09-08) | 마벨 주가가 실적 발표 후 급락했던 흐름에서 벗어나 반등했고 다음 달 투자자의 날이 다음 관전 포인트로 떠올랐다. | [MRVL](../../tickers/MRVL - Marvell Technology, Inc.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)

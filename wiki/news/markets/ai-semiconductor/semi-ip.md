@@ -1,7 +1,7 @@
 ---
 title: "반도체 IP · EDA — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-01
+updated: 2026-09-08
 domain: finance
 type: claim
 weight: reference
@@ -45,9 +45,9 @@ sources: ["https://www.synopsys.com/", "https://www.arm.com/"]
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Synopsys | EDA 1위 · 점유 30% | 🟢🟢 +0.25 (2026-09-01) | 매출이 크게 늘고 전망도 상향되며 주가가 하루 만에 두 자릿수로 뛰었다 | [SNPS](../../tickers/SNPS - Synopsys, Inc.md) |
-| Cadence | EDA 2위 · 점유 28% | 🟢 +0.15 (2026-09-01) | 같은 업종 경쟁사의 좋은 실적 덕분에 이 회사의 사업 전망에 대한 신뢰도 함께 높아졌다 | [CDNS](../../tickers/CDNS - Cadence Design Systems.md) |
-| ARM | CPU/GPU IP (ISA 표준) | 🟢🟢 +0.20 (2026-09-01) | IBM과의 새로운 협력과 자체 칩 수주 확대 소식에 목표주가가 크게 올랐다 | [ARM](../../tickers/ARM - Arm Holdings plc.md) |
+| Synopsys | EDA 1위 · 점유 30% | 🟢 +0.06 (2026-09-08) | 시놉시스가 실적 호조로 투자의견 상향을 받았지만 주가는 여전히 연초보다 낮은 수준에 머물러 있다. | [SNPS](../../tickers/SNPS - Synopsys, Inc.md) |
+| Cadence | EDA 2위 · 점유 28% | ⚪ +0.03 (2026-09-08) | 케이던스가 최신 데이터 전송 표준 기술 인증을 통과하며 반도체 설계 소프트웨어 경쟁력을 다시 보여줬다. | [CDNS](../../tickers/CDNS - Cadence Design Systems.md) |
+| ARM | CPU/GPU IP (ISA 표준) | ⚪ +0.03 (2026-09-08) | Arm이 내일 열리는 주주총회에서 경영진 보수 개편안을 표결에 부치는 가운데 뚜렷한 사업 뉴스는 없었다. | [ARM](../../tickers/ARM - Arm Holdings plc.md) |
 | Siemens EDA | EDA 3위 (해외) · 점유 12% | — | — | 비상장 |
 <!-- PLAYERS_END -->
 

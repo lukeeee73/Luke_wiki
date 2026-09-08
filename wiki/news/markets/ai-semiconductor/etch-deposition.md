@@ -1,7 +1,7 @@
 ---
 title: "식각·증착 장비 — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-01
+updated: 2026-09-08
 domain: finance
 type: claim
 weight: reference
@@ -45,9 +45,9 @@ sources: ["https://www.semi.org/en/semi-press-release/global-total-semiconductor
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Applied Materials | 종합 1위 (~30–35%) · 점유 30% | ⚪ +0.02 (2026-09-01) | 재무책임자의 자사주 매도와 관세 검토 우려가 겹치며 주가가 하루 만에 4퍼센트 넘게 빠졌다 | [AMAT](../../tickers/AMAT - Applied Materials.md) |
-| Lam Research | 식각·증착 (메모리 강세) · 점유 20% | 🟢 +0.06 (2026-09-01) | 배당을 크게 올리고 새 연구소를 착공하는 등 좋은 소식이 있었지만, 관세 우려로 주가는 하락했다 | [LRCX](../../tickers/LRCX - Lam Research Corp.md) |
-| Tokyo Electron | 코터/디벨로퍼 1위 · 점유 18% | 🟢 +0.06 (2026-09-01) | 엔비디아 실적 발표 다음 날 같은 업종 경쟁사들이 떨어질 때 이 회사만 주가를 지켜냈다 | [TOELY](../../tickers/TOELY - Tokyo Electron Limited.md) |
+| Applied Materials | 종합 1위 (~30–35%) · 점유 30% | 🟢 +0.05 (2026-09-08) | 실적 후 과매도됐던 주가가 9/4 4.4% 반등하고 퀄컴 임원이 이사회에 합류했지만, 관세 2단계 공식화로 中 노출 부담은 그대로 남았다. | [AMAT](../../tickers/AMAT - Applied Materials.md) |
+| Lam Research | 식각·증착 (메모리 강세) · 점유 20% | ⚪ -0.01 (2026-09-08) | 8/24 조정은 9/4 5.1% 반등으로 추세 전환이 아니었음이 확인됐지만, 내부자 매도와 관세 2단계 공식화가 겹치며 완전한 순풍은 아니다. | [LRCX](../../tickers/LRCX - Lam Research Corp.md) |
+| Tokyo Electron | 코터/디벨로퍼 1위 · 점유 18% | 🔴 -0.07 (2026-09-08) | 회사 고유 뉴스는 없었지만, 관세 2단계 공식화로 watchlist 내 中 매출 비중이 가장 높은 TOELY의 규제 리스크가 다시 부각됐다. | [TOELY](../../tickers/TOELY - Tokyo Electron Limited.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)

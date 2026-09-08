@@ -1,7 +1,7 @@
 ---
 title: "AI 가속기 (GPU) — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-01
+updated: 2026-09-08
 domain: finance
 type: claim
 weight: reference
@@ -47,9 +47,9 @@ AI 학습·추론을 돌리는 데이터센터 GPU — 프런티어 AI의 지배
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| NVIDIA | GPU 출하 ~90% · 가속기 매출 80–85% · 점유 85% | 🟢🟢 +0.21 (2026-09-01) | 2분기 실적이 기대를 크게 웃돌았지만 메모리 원가 부담과 미디어텍 투자 논란으로 주가는 하루 만에 일부 되돌렸다 | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
-| AMD | ~5–8% (MI350/MI400) · 점유 8% | 🟢 +0.14 (2026-09-01) | AI 추론 스타트업 인수와 중동 AI 인프라 가동으로 사업은 순항했지만 금리 부담에 주가는 눌렸다 | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
-| Intel | <1% (Gaudi) · 점유 1% | 🔴 -0.06 (2026-09-01) | 서버 시장에서 경쟁사에 계속 밀리는 가운데 주가도 유상증자 가격 아래로 내려갔다 | [INTC](../../tickers/INTC - Intel Corporation.md) |
+| NVIDIA | GPU 출하 ~90% · 가속기 매출 80–85% · 점유 85% | 🟢 +0.17 (2026-09-08) | 엔비디아가 오픈소스 AI 플랫폼 허깅페이스를 13조원 규모에 인수하며 주가가 사상 최고치에 다가섰다. | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
+| AMD | ~5–8% (MI350/MI400) · 점유 8% | 🟢 +0.11 (2026-09-08) | 에이엠디 주가가 하루 만에 5% 가까이 오르며 인공지능 투자 열기가 다른 반도체 회사로도 퍼지고 있음을 보여줬다. | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
+| Intel | <1% (Gaudi) · 점유 1% | 🟢 +0.10 (2026-09-08) | 인텔이 서버용 반도체 수요 기대감에 주가가 올랐지만 증권사는 오히려 목표주가를 낮췄다. | [INTC](../../tickers/INTC - Intel Corporation.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)

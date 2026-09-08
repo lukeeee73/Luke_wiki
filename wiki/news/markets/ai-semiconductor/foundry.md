@@ -1,7 +1,7 @@
 ---
 title: "첨단 파운드리 (≤3nm) — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-01
+updated: 2026-09-08
 domain: finance
 type: claim
 weight: reference
@@ -45,9 +45,9 @@ AI 가속기·모바일 AP·HPC를 만드는 최첨단 로직(3nm/2nm GAA) 위�
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| TSMC | 총 ~70% · 선단 ≤5nm 90%+ · 점유 70% | 🟢🟢 +0.33 (2026-09-01) | 엔비디아의 어닝 서프라이즈와 애리조나 법인의 수익성 급증이 확인되며 대형 투자자들의 매수세도 이어졌다 | [TSM](../../tickers/TSM - Taiwan Semiconductor Mfg.md) |
-| Samsung Foundry | ~7% (2nm GAA) · 점유 7% | 🟢 +0.17 (2026-09-01) | HBM4 수율 개선으로 목표주가가 오르고 D램 점유율 1위도 되찾으며 뚜렷한 순풍을 보였다 | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
-| Intel Foundry | ~6% (18A, 외부고객 1곳) · 점유 6% | 🔴 -0.06 (2026-09-01) | 서버 시장에서 경쟁사에 계속 밀리는 가운데 주가도 유상증자 가격 아래로 내려갔다 | [INTC](../../tickers/INTC - Intel Corporation.md) |
+| TSMC | 총 ~70% · 선단 ≤5nm 90%+ · 점유 70% | 🟢 +0.19 (2026-09-08) | TSMC가 반도체 장비를 예상보다 훨씬 많이 사들이고 있다는 소식과 경영진의 자사주 매입 소식이 겹치며 순풍이 이어졌다. | [TSM](../../tickers/TSM - Taiwan Semiconductor Mfg.md) |
+| Samsung Foundry | ~7% (2nm GAA) · 점유 7% | 🟢🟢 +0.35 (2026-09-08) | 삼성전자는 메모리 시장 점유율을 빠르게 늘리는 데다 인공지능 기대감까지 겹치며 주가가 강하게 올랐다. | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
+| Intel Foundry | ~6% (18A, 외부고객 1곳) · 점유 6% | 🟢 +0.10 (2026-09-08) | 인텔이 서버용 반도체 수요 기대감에 주가가 올랐지만 증권사는 오히려 목표주가를 낮췄다. | [INTC](../../tickers/INTC - Intel Corporation.md) |
 | GlobalFoundries | 성숙·특수공정 | watchlist 외 | — | `GFS` |
 | SMIC | 중국 최대 (DUV 7nm) | watchlist 외 | — | `0981.HK` |
 <!-- PLAYERS_END -->
