@@ -1,7 +1,7 @@
 ---
 title: "산업용 · 협동 로봇 — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-02
+updated: 2026-09-09
 domain: finance
 type: claim
 weight: reference
@@ -45,11 +45,11 @@ sources: ["https://ifr.org/ifr-press-releases/news/global-robot-demand-in-factor
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| FANUC | 글로벌 선두권 (4강 합산 55%+) | 🟢🟢 +0.33 (2026-09-02) | 화낙은 7월말 1분기 실적에서 매출·이익이 모두 두 자릿수 성장하며 순이익 전망을 재차 상향했고, 9월 IMTS·AMB 전시회에서 구글·엔비디아와 협업한 '피지컬 AI' 로봇 기술을 선보이며 성장 스토리를 이어갈 준비를 하고 있다 | [6954.T](../../tickers/6954.T - FANUC Corporation.md) |
+| FANUC | 글로벌 선두권 (4강 합산 55%+) | ⚪ -0.02 (2026-09-09) | 화낙은 국채금리·중동 정세發 닛케이 급락(9/2)에 동반 하락했으나 회사 고유 악재 없이 주 후반 대부분 회복해, 이번 조정이 매크로發 충격이었음을 시사한다 | [6954.T](../../tickers/6954.T - FANUC Corporation.md) |
 | ABB Robotics | 4대 메이저 — 소프트뱅크에 $5.4B 매각 (’26 종결) | watchlist 외 | — | `ABBNY` |
 | Yaskawa | 모션컨트롤·로봇 (NVIDIA 협력) | watchlist 외 | — | `6506.T` |
 | KUKA | 4대 메이저 (Midea 자회사) | — | — | 비상장 |
-| Universal Robots · MiR | 협동로봇 1위 + AMR (Teradyne) — Q1’26 +32% | 🟢🟢 +0.21 (2026-09-02) | 테라다인은 AI 반도체 테스트 수요를 바탕으로 신제품(UltraFLEXplus)까지 내놓으며 기술 우위를 다지고 있지만, 주가가 이미 많이 오른 상태에서 밸류에이션 부담을 이유로 한 애널리스트 등급 하향이 잇따르며 단기 상승 동력은 다소 약화된 모습이다 | [TER](../../tickers/TER - Teradyne, Inc.md) |
+| Universal Robots · MiR | 협동로봇 1위 + AMR (Teradyne) — Q1’26 +32% | 🔴 -0.06 (2026-09-09) | 국채금리 급등發 반도체株 전반 셀오프로 테라다인 주가가 $443에서 $341까지 급락했다가 주중 $372대로 일부 회복했다 — 회사 고유 악재는 없는 매크로發 조정이다 | [TER](../../tickers/TER - Teradyne, Inc.md) |
 | Estun · Inovance | 중국 로컬 — 자국 점유율 57%로 상승 | watchlist 외 | — | `002747.SZ` |
 <!-- PLAYERS_END -->
 
