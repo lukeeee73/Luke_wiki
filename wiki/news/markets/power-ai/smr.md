@@ -1,7 +1,7 @@
 ---
 title: "SMR · 차세대 원자로 — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-21
+updated: 2026-09-11
 domain: finance
 type: claim
 weight: reference
@@ -47,12 +47,12 @@ sources: ["https://smrintel.com/state-of-smr-2026/", "https://neutronbytes.com/2
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Oklo | Aurora 고속로 — INL 첫 호기 건설, Meta 계약 | 🔴 -0.10 (2026-08-21) | Oklo는 여러 증권사가 목표주가를 소폭 낮추고 국채 금리까지 오르면서 이번 주 원자력 관련주 전반의 약세에 함께 휩쓸렸다. | [OKLO](../../tickers/OKLO - Oklo Inc.md) |
+| Oklo | Aurora 고속로 — INL 첫 호기 건설, Meta 계약 | 🔴 -0.15 (2026-09-11) | PJM이 FERC에 오클로 프로젝트 복귀 반대 의견을 공식 제출해 규제 불확실성이 이어졌고, 애널리스트의 매수 신규 커버리지도 업종 전반의 동반 조정에 묻혔다. | [OKLO](../../tickers/OKLO - Oklo Inc.md) |
 | NuScale | 美 유일 NRC 표준설계인증 SMR | watchlist 외 | — | `SMR` |
 | X-energy | Xe-100 — Amazon $700M 투자, IPO 추진 (비상장) | — | — | 비상장 |
 | Kairos · TerraPower | Google 500MW PPA · Meta Natrium (비상장) | — | — | 비상장 |
 | BWX Technologies | 원자로 부품·핵연료 제조 | watchlist 외 | — | `BWXT` |
-| 두산에너빌리티 | SMR 주기기 제작 파트너 (NuScale·X-energy) | 🟢 +0.10 (2026-08-21) | 두산에너빌리티가 오만에서 9300억원 규모 발전소 건설 계약을 새로 따내며 중동 수주 행진을 이어갔다. | [034020.KS](../../tickers/034020.KS - Doosan Enerbility.md) |
+| 두산에너빌리티 | SMR 주기기 제작 파트너 (NuScale·X-energy) | 🟢🟢 +0.36 (2026-09-11) | 한미 3500억달러 투자 패키지에서 원전 8기·텍사스 가스복합발전 프로젝트의 최대 수혜주로 부각되며 주가가 일주일새 20%대 급등했다. | [034020.KS](../../tickers/034020.KS - Doosan Enerbility.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)

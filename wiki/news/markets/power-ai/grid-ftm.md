@@ -1,7 +1,7 @@
 ---
 title: "그리드 접속 · 유틸리티 조달 (FTM) — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-21
+updated: 2026-09-11
 domain: finance
 type: claim
 weight: reference
@@ -47,11 +47,11 @@ sources: ["https://www.latitudemedia.com/news/ercots-large-load-queue-has-nearly
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Dominion | 버지니아 — 세계 최대 DC 클러스터 유틸리티 | 🔴 -0.06 (2026-08-21) | 도미니언을 넥스테라에 매각하는 합병 심사에 버지니아 주지사가 공식적으로 뛰어들었고, 심사를 맡을 위원장이 과거 넥스테라 변호사였다는 논란도 가라앉지 않아 정치적 잡음이 계속되고 있다. | [D](../../tickers/D - Dominion Energy.md) |
-| AEP | 765kV 송전 최대 — 오하이오 DC 벨트 | ⚪ -0.03 (2026-08-21) | AEP는 이번 주 특별한 사업 뉴스 없이, Citi·Barclays에 이어 Truist까지 목표주가를 낮추며 애널리스트들의 신중한 시각이 이어졌다. | [AEP](../../tickers/AEP - American Electric Power.md) |
-| Exelon | 송배전 전문 — 시카고·필라델피아·볼티모어 | 🔴 -0.06 (2026-08-21) | 펜실베이니아 주지사가 서명한 데이터센터 규제 행정명령이 엑셀론의 PECO 관할구역에도 적용되면서, 안 그래도 줄어들고 있던 데이터센터 계약 파이프라인에 새로운 제약이 하나 더 생겼다. | [EXC](../../tickers/EXC - Exelon Corporation.md) |
-| Duke Energy | 동남부 — 캐롤라이나 DC 유치 | ⚪ -0.04 (2026-08-21) | 듀크에너지의 노스캐롤라이나 요금인상 청문회가 다시 열렸다 — 인상폭은 처음보다 크게 줄었지만 주 법무장관은 여전히 너무 높다며 반대하고 있어, 9월 최종 결정까지 지켜봐야 한다. | [DUK](../../tickers/DUK - Duke Energy Corporation.md) |
-| Southern | 조지아 — 애틀랜타 DC 급증 대응 | 🔴 -0.05 (2026-08-21) | 서던컴퍼니는 이번 주 특별한 사업 뉴스 없이, 조지아 규제당국이 OpenAI 데이터센터 전력계약 심사 시한을 늦춰 검토를 이어가고 있다는 소식과 애널리스트의 소폭 목표가 하향만 있었다. | [SO](../../tickers/SO - The Southern Company.md) |
+| Dominion | 버지니아 — 세계 최대 DC 클러스터 유틸리티 | 🔴 -0.06 (2026-09-11) | 도미니언 고유의 새 뉴스는 없었고, 국채금리가 3년래 최고 수준까지 오르며 레버리지가 높은 도미니언에 배경 압박이 커졌다. | [D](../../tickers/D - Dominion Energy.md) |
+| AEP | 765kV 송전 최대 — 오하이오 DC 벨트 | ⚪ -0.02 (2026-09-11) | 텍사스 ERCOT가 데이터센터 접속 전수감사를 12월 10일까지 완료하겠다고 밝혀 불확실성이 다소 줄었지만, 국채금리 급등이 배경 압박으로 남았다. | [AEP](../../tickers/AEP - American Electric Power.md) |
+| Exelon | 송배전 전문 — 시카고·필라델피아·볼티모어 | 🔴 -0.06 (2026-09-11) | 회사 고유의 새 뉴스는 없었고, 국채금리가 3년래 최고 수준까지 오르며 순수 송배전 모델인 엑셀론에 압박이 커졌다. | [EXC](../../tickers/EXC - Exelon Corporation.md) |
+| Duke Energy | 동남부 — 캐롤라이나 DC 유치 | 🔴 -0.10 (2026-09-11) | 노스캐롤라이나 법무장관이 요금 인상 증언이 부정확했다고 지적하며 9/20 요금 화해안 결정을 앞두고 정치적 부담이 커졌고, 금리 급등도 역풍이 됐다. | [DUK](../../tickers/DUK - Duke Energy Corporation.md) |
+| Southern | 조지아 — 애틀랜타 DC 급증 대응 | 🔴 -0.07 (2026-09-11) | CEO와 재무책임자가 52주 저점 부근에서 자사주를 매도한 사실이 공시됐고, 국채금리 급등도 겹쳐 회사 고유의 새 호재 없이 조용했다. | [SO](../../tickers/SO - The Southern Company.md) |
 | NRG Energy | 텍사스 IPP — GEV·부동산과 DC 전력 합작 | watchlist 외 | — | `NRG` |
 <!-- PLAYERS_END -->
 

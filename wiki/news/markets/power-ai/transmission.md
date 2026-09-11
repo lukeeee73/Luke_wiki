@@ -1,7 +1,7 @@
 ---
 title: "송전망 · 계통 인프라 건설 — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-21
+updated: 2026-09-11
 domain: finance
 type: claim
 weight: reference
@@ -45,11 +45,11 @@ sources: ["https://finance.yahoo.com/markets/stocks/articles/quantas-record-48-5
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Quanta Services | T&D EPC 1위 — 백로그 $48.5B, 변압기 내재화 투자 | ⚪ +0.02 (2026-08-21) | 퀀타서비시스는 지난달 어닝 서프라이즈로 크게 오른 뒤, 이번 주에는 별다른 악재 없이 자연스러운 숨고르기 흐름을 보였다. | [PWR](../../tickers/PWR - Quanta Services, Inc.md) |
+| Quanta Services | T&D EPC 1위 — 백로그 $48.5B, 변압기 내재화 투자 | 🟢🟢 +0.31 (2026-09-11) | 파이퍼샌들러가 목표가 731달러로 신규 커버리지를 개시하며 저평가를 지적했고 BofA도 비슷한 목표가를 제시해 이번 주 가장 강한 애널리스트 호재를 누렸다. | [PWR](../../tickers/PWR - Quanta Services, Inc.md) |
 | MasTec | 송전·파이프라인 EPC | watchlist 외 | — | `MTZ` |
 | EMCOR | 전기 시공 — DC 내부 전기공사 강자 | watchlist 외 | — | `EME` |
 | MYR Group | T&D 전문 시공 | watchlist 외 | — | `MYRG` |
-| AEP | 765kV 초고압 송전 확장 발주처 | ⚪ -0.03 (2026-08-21) | AEP는 이번 주 특별한 사업 뉴스 없이, Citi·Barclays에 이어 Truist까지 목표주가를 낮추며 애널리스트들의 신중한 시각이 이어졌다. | [AEP](../../tickers/AEP - American Electric Power.md) |
+| AEP | 765kV 초고압 송전 확장 발주처 | ⚪ -0.02 (2026-09-11) | 텍사스 ERCOT가 데이터센터 접속 전수감사를 12월 10일까지 완료하겠다고 밝혀 불확실성이 다소 줄었지만, 국채금리 급등이 배경 압박으로 남았다. | [AEP](../../tickers/AEP - American Electric Power.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)

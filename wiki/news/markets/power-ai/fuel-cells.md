@@ -1,7 +1,7 @@
 ---
 title: "연료전지 온사이트 발전 — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-21
+updated: 2026-09-11
 domain: finance
 type: claim
 weight: reference
@@ -45,7 +45,7 @@ sources: ["https://www.datacenterdynamics.com/en/news/brookfield-expands-partner
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Bloom Energy | SOFC 지배적 1위 — Brookfield $25B 파트너십 · 점유 70% | 🔴 -0.11 (2026-08-21) | 블룸에너지 주가가 국채 금리 급등과 진행 중인 소송 우려가 겹치며 하루 만에 10% 가까이 빠졌다. | [BE](../../tickers/BE - Bloom Energy Corporation.md) |
+| Bloom Energy | SOFC 지배적 1위 — Brookfield $25B 파트너십 · 점유 70% | 🟢 +0.14 (2026-09-11) | 9/21 S&P500 편입이 공식 확정되며 목표가가 잇달아 올랐지만, 스칸듐 공급망 의혹 소송의 리드원고 마감(9/28)이 다가오는 법적 리스크는 여전하다. | [BE](../../tickers/BE - Bloom Energy Corporation.md) |
 | FuelCell Energy | 용융탄산염(MCFC) — 2위권 · 점유 8% | watchlist 외 | — | `FCEL` |
 | Plug Power | 수소 연료전지 (PEM) — 인접 시장 | watchlist 외 | — | `PLUG` |
 | 두산퓨얼셀 | 인산형(PAFC) — 한국 발전용 | watchlist 외 | — | `336260.KS` |

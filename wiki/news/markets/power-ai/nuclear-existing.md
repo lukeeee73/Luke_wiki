@@ -1,7 +1,7 @@
 ---
 title: "기존 원전 (재가동·업레이트·PPA) — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-21
+updated: 2026-09-11
 domain: finance
 type: claim
 weight: reference
@@ -47,8 +47,8 @@ sources: ["https://www.datacenterfrontier.com/energy/article/55239739/data-cente
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Constellation | 미국 최대 원전 운영 — MSFT TMI 재가동 · 점유 22% | 🔴 -0.12 (2026-08-21) | 펜실베이니아 주지사가 데이터센터 규제를 강화하는 행정명령에 서명하자 콘스텔레이션 주가가 하루 만에 약 4% 빠졌고, 애널리스트도 목표주가를 낮췄다. | [CEG](../../tickers/CEG - Constellation Energy.md) |
-| Vistra | Meta 2.6GW — 사상 최대 기업 업레이트 · 점유 7% | 🔴 -0.09 (2026-08-21) | 비스트라는 펜실베이니아의 데이터센터 규제 강화 소식에 주가가 하루 만에 약 4% 빠졌지만, 이미 확보한 텍사스 아마존向 핵심 계약은 이번 규제와 무관하다고 회사측이 밝혔다. | [VST](../../tickers/VST - Vistra Corp.md) |
+| Constellation | 미국 최대 원전 운영 — MSFT TMI 재가동 · 점유 22% | 🟢 +0.15 (2026-09-11) | 콘스텔레이션이 쉘로부터 로드아일랜드 가스발전소를 7.15억달러에 인수하며 PJM 권역 포트폴리오를 넓혔지만, 금리 상승은 섹터 전반의 부담으로 남았다. | [CEG](../../tickers/CEG - Constellation Energy.md) |
+| Vistra | Meta 2.6GW — 사상 최대 기업 업레이트 · 점유 7% | 🔴 -0.05 (2026-09-11) | 비스트라가 15억달러 후순위채를 7.00~7.25% 금리로 발행해 고금리 우선주를 상환하기로 했는데, 이 조달금리 자체가 최근 금리 급등 환경을 보여준다. | [VST](../../tickers/VST - Vistra Corp.md) |
 | Talen Energy | AWS 17년 1,920MW (Susquehanna) · 점유 3% | watchlist 외 | — | `TLN` |
 | Holtec | Palisades 재가동 — 미국 첫 폐로 부활 (비상장) | — | — | 비상장 |
 | PSEG | 뉴저지 원전 — DC PPA 협상 | watchlist 외 | — | `PEG` |

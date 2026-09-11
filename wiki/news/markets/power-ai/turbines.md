@@ -1,7 +1,7 @@
 ---
 title: "가스터빈 제조 — 시장 종합"
 created: 2026-07-06
-updated: 2026-08-21
+updated: 2026-09-11
 domain: finance
 type: claim
 weight: reference
@@ -47,10 +47,10 @@ sources: ["https://www.utilitydive.com/news/ge-vernova-gas-turbine-investor/8076
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| GE Vernova | 대형 터빈 1위 — 백로그 110GW+ · 점유 40% | ⚪ +0.04 (2026-08-21) | GE버노바는 데이터센터向 수주가 벌써 작년 한 해 치를 넘어설 만큼 사업은 잘 되고 있지만, 정작 주가는 하루 만에 3.5% 넘게 빠지며 최근 상승세가 잠시 멈췄다. | [GEV](../../tickers/GEV - GE Vernova Inc.md) |
+| GE Vernova | 대형 터빈 1위 — 백로그 110GW+ · 점유 40% | ⚪ -0.02 (2026-09-11) | 스코틀랜드 소규모 풍력 터빈 공급계약 외 특별한 소식 없이 주가가 조정받았고, 경쟁사 두산에너빌리티가 한미 원전·가스발전 수혜주로 부각되며 대조를 이뤘다. | [GEV](../../tickers/GEV - GE Vernova Inc.md) |
 | Siemens Energy | 백로그 €136B 사상최대 · 점유 28% | watchlist 외 | — | `ENR.DE` |
 | Mitsubishi Heavy | 생산 2배 증설에도 ’28 매진 · 점유 25% | watchlist 외 | — | `7011.T` |
-| 두산에너빌리티 | 국산 가스터빈 — 미국향 누적 12기, 빅테크 380MW×7기 | 🟢 +0.10 (2026-08-21) | 두산에너빌리티가 오만에서 9300억원 규모 발전소 건설 계약을 새로 따내며 중동 수주 행진을 이어갔다. | [034020.KS](../../tickers/034020.KS - Doosan Enerbility.md) |
+| 두산에너빌리티 | 국산 가스터빈 — 미국향 누적 12기, 빅테크 380MW×7기 | 🟢🟢 +0.36 (2026-09-11) | 한미 3500억달러 투자 패키지에서 원전 8기·텍사스 가스복합발전 프로젝트의 최대 수혜주로 부각되며 주가가 일주일새 20%대 급등했다. | [034020.KS](../../tickers/034020.KS - Doosan Enerbility.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)
