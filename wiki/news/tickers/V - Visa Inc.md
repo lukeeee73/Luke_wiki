@@ -1,7 +1,7 @@
 ---
 title: "V - Visa Inc. — Routine News Log"
 created: 2026-05-16
-updated: 2026-09-05
+updated: 2026-09-12
 domain: finance
 type: claim
 weight: reference
@@ -65,6 +65,33 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-09-12 (토) — 신호등: 🟢 순풍 (+0.08)
+
+**세 줄 요약**
+1. 비자가 세계은행 산하 IFC(국제금융공사)와 손잡고 신흥시장에 2억 달러 규모의 신용위험 분담 프로그램을 발표했다.
+2. 비자·마스터카드·앤트인터내셔널이 AI 에이전트 결제를 위한 공동 신원확인 표준(KYA) 협력을 시작했다.
+3. 2026년 주가 흐름에서 비자(+9%)가 아멕스(-9%)를 크게 앞서며, 수수료 기반 모델의 상대적 강점이 부각되고 있다.
+
+**뉴스 브리핑**
+
+**① 비자-IFC, 신흥시장에 2억 달러 리스크셰어링 프로그램** 🟢
+- **무슨 일**: 비자와 IFC(세계은행 그룹 산하 국제금융공사)가 중남미·카리브해 14개국의 저신용등급 금융기관 약 50곳을 대상으로 5년간 신용결제 위험을 분담하는 프로그램을 발표했다.
+- **왜 중요**: 은행 계좌가 없는(underbanked) 소비자와 소상공인의 디지털 결제 접근성을 넓혀, 비자의 신규 카드 발급·거래량 성장 기회를 만든다.
+- **주가에 의미**: 신흥시장은 성장 잠재력이 크지만 수익화까지는 시간이 걸리는 장기 투자 성격이라 단기 주가 영향은 제한적이다.
+- 출처: [Visa Investor Relations](https://investor.visa.com/news/news-details/2026/Visa-and-World-Bank-Group-Announce-New-Risk-Sharing-Initiative-to-Expand-Digital-Payments-and-Financial-Inclusion-in-Emerging-Markets/default.aspx) · 2026-09-09
+
+**② 비자·마스터카드·앤트인터내셔널, AI 결제 신원확인 표준 공동 개발** 🟢
+- **무슨 일**: 세 회사가 "Know-Your-Agent(KYA, AI 에이전트 신원확인)" 프레임워크를 공동 개발해, AI 에이전트가 한 곳에 등록하면 다른 네트워크에서도 재등록 없이 결제할 수 있게 한다.
+- **왜 중요**: 2030년까지 AI 에이전트가 처리할 것으로 예상되는 상거래 규모가 3조~5조 달러에 달해, 초기 표준 주도권 확보가 중요하다.
+- **주가에 의미**: 경쟁사와의 공동 표준화라 비자만의 독점적 우위로 이어지진 않지만, 결제 인프라 시장 전체의 파이를 키우는 긍정적 신호다.
+- 출처: [Business Wire](https://www.businesswire.com/news/home/20260909003891/en/Ant-International-Mastercard-and-Visa-Initiate-Collaboration-on-Know-Your-Agent-Interoperability-to-Scale-Agentic-Commerce) · 2026-09-09
+
+**경쟁 구도 한눈에**
+- 2026년 누적 주가에서 비자(+9%)와 아멕스(-9%) 간 18%포인트 격차 발생 → 대출 위험을 직접 지지 않는 비자의 수수료 기반 모델이 금리·신용 불확실성 국면에서 상대적으로 견조함을 시사한다.
+
+**앞으로 지켜볼 것**
+- [ ] 9/16 (FOMC 금리 결정) — 확인할 것: 소비 둔화 우려가 비자 결제 볼륨 가이던스에 반영되는지 여부
 
 ### 2026-09-05 (토) — 신호등: ⚪ 잔잔함 (+0.04)
 
