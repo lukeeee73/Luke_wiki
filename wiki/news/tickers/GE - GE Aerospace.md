@@ -1,7 +1,7 @@
 ---
 title: "GE - GE Aerospace — Routine News Log"
 created: 2026-05-16
-updated: 2026-09-06
+updated: 2026-09-13
 domain: finance
 type: claim
 weight: reference
@@ -43,6 +43,34 @@ GE Aerospace는 민항기 엔진 세계 1위 기업이다. 과거 제너럴 일�
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-09-13 (일) — 신호등: 🟢🟢 강한 순풍 (+0.28)
+
+**세 줄 요약**
+1. GE에어로스페이스가 부품회사 CPP를 117.5억달러에 인수하며 엔진 부품 공급 부족 문제를 풀려 했다.
+2. 증권사는 목표가를 크게 올렸지만, 이미 비싼 주가 탓에 발표 직후엔 주가가 빠졌다.
+3. 경쟁사 RTX·보잉의 계약 확대도 엔진 수요를 늘리는 우호적 배경이 됐다.
+
+**뉴스 브리핑**
+
+**① GE에어로스페이스, 117.5억달러에 주조업체 CPP 인수…엔진 공급망 병목 해소** 🟢
+- **무슨 일**: GE에어로스페이스가 정밀 주조업체 CPP(Consolidated Precision Products)를 117.5억달러에 인수하기로 했다.
+- **왜 중요**: 항공기 엔진용 정밀 주조품은 공급 부족이 심한 부품이라, 이를 직접 확보하면 생산 병목을 줄일 수 있다.
+- **주가에 의미**: 장기적으로 긍정적이다.
+- 출처: [GE Aerospace](https://www.geaerospace.com/news/press-releases/ge-aerospace-acquire-consolidated-precision-products-cpp-expanding-mission-critical) · 2026-09-08
+
+**② 제퍼리스, CPP 인수 이후 GE에어로스페이스 목표가 365→455달러로 상향** ⚪
+- **무슨 일**: 제퍼리스가 CPP 인수 발표 이후 GE에어로스페이스 목표가를 365달러에서 455달러로 크게 올리며 매수 의견을 유지했지만, 주가는 이미 높은 밸류에이션 부담에 단기 하락했다.
+- **왜 중요**: 장기 펀더멘털 개선과 단기 가격 부담이 동시에 존재한다는 뜻이다.
+- **주가에 의미**: 중립적이나 장기적으로는 긍정적이다.
+- 출처: [ad-hoc-news](https://www.ad-hoc-news.de/boerse/news/corporate-news/ge-aerospace-stock-dips-after-cpp-deal-as-valuation-stays-rich/70086852) · 2026-09-10
+
+**경쟁 구도 한눈에**
+- RTX 레이시온이 229억달러 규모 토마호크 순항미사일 7년 계약 수주 → RTX의 대형 수주·백로그 확대는 엔진·부품 공급망 경쟁에서 GE에 벤치마크 압력.
+- 보잉 FMS 계약 한도가 134억달러 확대되며 191억달러로 증가 → 보잉 항공기 수출 확대는 엔진 수요 증가로 이어져 GE에 우호적 환경.
+
+**앞으로 지켜볼 것**
+- [ ] CPP 인수 마무리 일정과 통합 진행 상황 확인할 것
+
 ### 2026-09-06 (일) — 신호등: 🟢 순풍 (+0.16)
 
 **세 줄 요약**

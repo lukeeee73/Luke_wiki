@@ -1,7 +1,7 @@
 ---
 title: "CMCSA - Comcast Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-09-06
+updated: 2026-09-13
 domain: finance
 type: claim
 weight: reference
@@ -43,6 +43,33 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-09-13 (일) — 신호등: 🔴🔴 강한 역풍 (-0.32)
+
+**세 줄 요약**
+1. 컴캐스트 최고재무책임자가 경쟁사의 광케이블 가격이 '비이성적으로' 싸다고 지적했다.
+2. 그 여파로 3분기에도 초고속인터넷 가입자가 계속 줄어들 것이라고 경고했다.
+3. 경쟁사 차터는 콕스와 합병까지 마무리해 덩치를 키워 컴캐스트의 경쟁 부담이 더 커졌다.
+
+**뉴스 브리핑**
+
+**① 컴캐스트 CFO, 경쟁사 파이버 가격이 '비이성적'이라며 3분기 가입자 손실 경고** 🔴
+- **무슨 일**: 컴캐스트 CFO가 일부 경쟁사의 파이버(광케이블) 가격이 '비이성적으로' 낮다고 지적하며 3분기에도 브로드밴드 가입자 손실이 이어질 것이라고 경고했다.
+- **왜 중요**: 가입자 이탈이 계속되면 핵심 사업인 브로드밴드 매출에 직접적인 타격이다.
+- **주가에 의미**: 부정적이다.
+- 출처: [Fierce Network](https://www.fierce-network.com/broadband/comcast-cfo-scratches-his-head-about-some-irrationally-low-fiber-broadband-prices) · 2026-09-09
+
+**② 컴캐스트-패스틀리, 엑스피니티용 차세대 스트리밍 딜리버리 제휴** 🟢
+- **무슨 일**: 컴캐스트가 패스틀리와 제휴해 엑스피니티 플랫폼에 차세대 실시간 스트리밍 콘텐츠 딜리버리 모델을 도입한다.
+- **왜 중요**: 스트리밍 품질 개선은 가입자 유지를 위한 경쟁력 강화 조치다.
+- **주가에 의미**: 긍정적이다.
+- 출처: [Fastly](https://www.fastly.com/press/press-releases/comcast-fastly-partner-to-develop-next-generation-content-and-application-deliver-model-to-xfinity-members) · 2026-09-10
+
+**경쟁 구도 한눈에**
+- 차터가 콕스커뮤니케이션·리버티브로드밴드와 345억달러 합병을 완료 → 차터-콕스 합병으로 규모 경쟁력 확대, 컴캐스트엔 브로드밴드 경쟁 심화 요인.
+
+**앞으로 지켜볼 것**
+- [ ] 3분기 실제 브로드밴드 가입자 감소 규모 확인할 것
+
 ### 2026-09-06 (일) — 신호등: 🟢 순풍 (+0.08)
 
 **세 줄 요약**

@@ -1,7 +1,7 @@
 ---
 title: "RTX - RTX Corporation — Routine News Log"
 created: 2026-05-16
-updated: 2026-09-06
+updated: 2026-09-13
 domain: finance
 type: claim
 weight: reference
@@ -41,6 +41,34 @@ RTX(구 레이시온 테크놀로지스)는 미국 2위 방산 기업으로, 패
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-09-13 (일) — 신호등: 🟢 순풍 (+0.17)
+
+**세 줄 요약**
+1. RTX의 프랫앤휘트니가 폴란드 부품공장에 투자를 더 늘렸다.
+2. 경쟁사 록히드마틴·노스롭그루먼은 증권사 목표가 상향 소식이 있었지만 RTX는 보유(Hold) 의견에 머물렀다.
+3. 뚜렷한 단독 호재가 부족해 상대적으로 조용한 한 주였다.
+
+**뉴스 브리핑**
+
+**① RTX 프랫앤휘트니, 폴란드 정밀부품 공장에 2500만달러 투자 확대** 🟢
+- **무슨 일**: RTX 산하 프랫앤휘트니가 폴란드 니에폴로미체 정밀부품 공장에 2500만달러를 추가 투자해 생산을 확대하기로 했다.
+- **왜 중요**: 유럽 내 생산능력 확대는 유럽 방산·항공엔진 수요 증가에 대응하는 조치다.
+- **주가에 의미**: 긍정적이다.
+- 출처: [PR Newswire](https://www.prnewswire.com/news-releases/rtxs-pratt--whitney-invests-25-million-to-expand-precision-parts-manufacturing-in-niepoomice-poland-302867310.html) · 2026-09-04
+
+**② Bernstein, RTX에 보유(Hold) 의견 유지** ⚪
+- **무슨 일**: 증권사 Bernstein이 RTX에 대해 보유(Hold) 의견을 유지했다.
+- **왜 중요**: 뚜렷한 추가 상승 촉매가 없다는 신중한 시각이다.
+- **주가에 의미**: 중립적이다.
+- 출처: [TipRanks](https://www.theglobeandmail.com/investing/markets/stocks/RTX-N/pressreleases/36925734/rtx-rtx-gets-a-hold-from-bernstein/) · 2026-09-09
+
+**경쟁 구도 한눈에**
+- 노스롭그루먼이 폴란드 MSPO서 NATO 협력을 확대 → 유럽 방산 수요 확대가 RTX 패트리어트 사업에도 긍정적.
+- UBS가 록히드마틴을 매수로 상향(미사일 수요 증가) → 방산 섹터 전반 리레이팅 기대감이 RTX 밸류에이션에도 우호적.
+
+**앞으로 지켜볼 것**
+- [ ] 경쟁사 대비 RTX의 투자의견 개선 여부 확인할 것
+
 ### 2026-09-06 (일) — 신호등: 🟢 순풍 (+0.05)
 
 **세 줄 요약**

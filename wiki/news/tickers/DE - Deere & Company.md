@@ -1,7 +1,7 @@
 ---
 title: "DE - Deere & Company — Routine News Log"
 created: 2026-05-17
-updated: 2026-09-06
+updated: 2026-09-13
 domain: finance
 type: claim
 weight: reference
@@ -48,6 +48,40 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-09-13 (일) — 신호등: 🟢🟢 강한 순풍 (+0.26)
+
+**세 줄 요약**
+1. 디어가 AI발 건설장비 수요 호조로 2026년 순이익 전망을 상향했다.
+2. 주가는 674.43달러로 사상 최고치를 새로 썼다.
+3. 경쟁사 캐터필러·CNH의 동반 강세로 중장비 업황 반등 기대가 커졌다.
+
+**뉴스 브리핑**
+
+**① 디어, AI발 건설장비 수요 호조로 2026년 순이익 전망 상향** 🟢
+- **무슨 일**: 디어가 AI 관련 건설 붐에 힘입어 분기 실적이 호조를 보이며 2026년 순이익 전망을 상향했다.
+- **왜 중요**: 농기계뿐 아니라 건설장비 부문에서도 AI 인프라 투자 수혜가 본격화되고 있다는 뜻이다.
+- **주가에 의미**: 긍정적이다.
+- 출처: [Reuters](https://lufkindailynews.com/news_reuters/business/deere-raises-2026-profit-view-as-ai-construction-boom-lifts-quarterly-income/article_7fedb4e4-c819-5b4d-876f-6373799bb1b6.html) · 2026-08-20
+
+**② 디어 주가, 674.43달러로 사상 최고치 경신** 🟢
+- **무슨 일**: 디어 주가가 674.43달러를 기록하며 사상 최고치를 경신했다.
+- **왜 중요**: 실적 전망 상향이 실제 주가 신고가로 이어졌다.
+- **주가에 의미**: 긍정적이다.
+- 출처: [Investing.com](https://www.investing.com/news/company-news/deere-and-company-stock-hits-alltime-high-of-67443-usd-93CH-4884335) · 2026-09-07
+
+**③ 디어, 애널리스트 컨센서스 '모더레이트 바이' 유지·목표가 680.73달러** 🟢
+- **무슨 일**: 애널리스트 컨센서스가 디어에 대해 '모더레이트 바이' 의견을 유지하며 목표가 680.73달러를 제시했다.
+- **왜 중요**: 신고가 경신 이후에도 추가 상승 여력을 인정받은 셈이다.
+- **주가에 의미**: 긍정적이다.
+- 출처: [ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/deere-and-company-stock-gains-on-moderate-buy-consensus-and-strong-2026/70088188) · 2026-09-10
+
+**경쟁 구도 한눈에**
+- 캐터필러도 데이터센터발 수요 호조로 2026년 전망 강화 → 중장비 업종 전반의 업황 개선이 디어에도 긍정적.
+- CNH 인더스트리얼이 6거래일 연속 상승으로 26% 급등 → 농기계 업황이 바닥을 지났다는 신호로 디어에 긍정적.
+
+**앞으로 지켜볼 것**
+- [ ] 관세·수출 규제 변수가 실적 가이던스에 영향을 주는지 확인할 것
+
 ### 2026-09-06 (일) — 신호등: 🟢 순풍 (+0.14)
 
 **세 줄 요약**

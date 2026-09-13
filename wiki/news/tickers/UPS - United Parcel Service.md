@@ -1,7 +1,7 @@
 ---
 title: "UPS - United Parcel Service — Routine News Log"
 created: 2026-05-16
-updated: 2026-09-06
+updated: 2026-09-13
 domain: finance
 type: claim
 weight: reference
@@ -43,6 +43,40 @@ UPS(United Parcel Service)는 '갈색 트럭'으로 전 세계에 알려진 글�
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-09-13 (일) — 신호등: ⚪ 잔잔함 (+0.02)
+
+**세 줄 요약**
+1. 번스타인이 UPS에 매수 의견을 다시 내놨다.
+2. 중소기업을 위한 새로운 디지털 배송 도구도 내놓으며 사업을 넓혔다.
+3. 다만 아마존이 자체 배송망을 다른 업체에도 열어주기로 해 장기적 경쟁 위협은 여전하다.
+
+**뉴스 브리핑**
+
+**① 번스타인, UPS 매수(Buy) 의견 재확인** 🟢
+- **무슨 일**: 증권사 번스타인이 UPS에 대한 매수 의견을 다시 확인했다.
+- **왜 중요**: 실적 개선 기대감을 애널리스트가 재확인한 것이다.
+- **주가에 의미**: 긍정적이다.
+- 출처: [MarketScreener](https://www.marketscreener.com/news/ups-gets-a-buy-rating-from-bernstein-ce7e5dddd888f723) · 2026-09-03
+
+**② UPS, 실시간 픽업 대시보드 등 신규 디지털 물류 도구로 중소기업 공략** 🟢
+- **무슨 일**: UPS가 실시간 픽업 대시보드 등 신규 디지털 물류 도구를 출시해 중소기업 고객 공략을 강화했다.
+- **왜 중요**: 중소기업 고객 확대는 대형 고객 의존도를 낮추는 사업 다각화 전략이다.
+- **주가에 의미**: 긍정적이다.
+- 출처: [Simply Wall St](https://simplywall.st/stocks/us/transportation/nyse-ups/united-parcel-service/news/how-upss-digital-upgrades-and-outlook-shift-at-united-parcel/amp) · 2026-09-09
+
+**③ UPS 2분기 실적 예상치 상회, 연간 매출 가이던스 912억달러로 상향** 🟢
+- **무슨 일**: UPS가 2분기 실적에서 예상치를 상회했고 연간 매출 가이던스를 912억달러로 상향했다(4분기 연속 어닝 서프라이즈).
+- **왜 중요**: 4분기 연속 실적 상회는 턴어라운드가 꾸준히 진행되고 있다는 신호다.
+- **주가에 의미**: 긍정적이다.
+- 출처: [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/ups-q2-2026-earnings-beat-112032472.html) · 2026-07-28
+
+**경쟁 구도 한눈에**
+- JP모간이 페덱스 목표가를 460→400달러로 하향(수요 둔화 우려) → 경쟁사 목표가 하향은 운송업계 전반 수요 둔화 우려를 반영, UPS에도 부담 요인.
+- 아마존이 자사 물류망을 타 기업에 개방 → UPS의 소화물 물량 점유율에 장기적 위협.
+
+**앞으로 지켜볼 것**
+- [ ] 아마존 물류망 개방이 실제 UPS 물량에 미치는 영향 확인할 것
+
 ### 2026-09-06 (일) — 신호등: ⚪ 잔잔함 (-0.03)
 
 **세 줄 요약**

@@ -1,7 +1,7 @@
 ---
 title: "AVAV - AeroVironment, Inc. — Routine News Log"
 created: 2026-06-28
-updated: 2026-09-06
+updated: 2026-09-13
 domain: finance
 type: claim
 weight: reference
@@ -40,6 +40,40 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-09-13 (일) — 신호등: 🟢🟢 강한 순풍 (+0.31)
+
+**세 줄 요약**
+1. AVAV가 드론을 잡는 무기(LOCUST)로 해외에서 첫 5천만달러 이상 계약을 따냈다.
+2. JP모간은 기록적인 수주잔고를 근거로 목표가를 210달러로 올렸다.
+3. 다만 BofA는 상대적으로 낮은 목표가(185달러)를 제시해 시각이 엇갈렸다.
+
+**뉴스 브리핑**
+
+**① AeroVironment, LOCUST 대드론 시스템 해외 첫 상업 주문 5000만달러 이상 수주** 🟢
+- **무슨 일**: AVAV가 지향성 에너지 대드론 시스템 'LOCUST'의 해외 첫 상업 주문을 5000만달러 이상 규모로 수주했다.
+- **왜 중요**: 대드론(드론을 막는) 무기 시장은 전 세계적으로 수요가 급증하는 신성장 분야다.
+- **주가에 의미**: 긍정적이다.
+- 출처: [Yahoo Finance](https://finance.yahoo.com/markets/stocks/articles/50-million-reason-why-avav-180849347.html) · 2026-09-09
+
+**② JP모간, 기록적 1분기 수주잔고에 AVAV 목표가 210달러로 상향** 🟢
+- **무슨 일**: JP모간이 AVAV의 기록적인 1분기 수주잔고를 근거로 목표가를 200달러에서 210달러로 상향하며 비중확대를 유지했다.
+- **왜 중요**: 수주잔고 증가는 미래 매출의 선행지표다.
+- **주가에 의미**: 긍정적이다.
+- 출처: [MarketBeat](https://www.marketbeat.com/instant-alerts/analyst-jpmorgan-chase-co-forecasts-strong-price-appreciation-for-aerovironment-nasdaq-avav-stock-2026-09-10/) · 2026-09-10
+
+**③ BofA, AVAV 목표가 185달러로 제시…타사보다 보수적** ⚪
+- **무슨 일**: BofA가 AVAV 목표가를 185달러로 제시했는데, 이는 다른 증권사들의 목표가(210~285달러)보다 낮은 수준이다.
+- **왜 중요**: 같은 호재를 두고도 기관마다 밸류에이션 평가가 다르다는 뜻이다.
+- **주가에 의미**: 중립적이다.
+- 출처: [Defense World](https://www.defenseworld.net/2026/09/12/aerovironment-nasdaqavav-given-new-185-00-price-target-at-bank-of-america.html) · 2026-09-12
+
+**경쟁 구도 한눈에**
+- 크라토스가 아태 지역 방산고객에 위성통신(SATCOM) 게이트웨이 2000만달러 이상 계약 수주 → KTOS도 아태 지역 수주를 확대 중이라 AVAV와의 해외 경쟁이 심화될 수 있음.
+- UBS가 록히드마틴 투자의견을 매수로 상향 → 대형 방산주 투자의견 개선은 방산 섹터 전체 센티먼트에 긍정적.
+
+**앞으로 지켜볼 것**
+- [ ] LOCUST의 해외 추가 수주 여부 확인할 것
+
 ### 2026-09-06 (일) — 신호등: 🟢 순풍 (+0.16)
 
 **세 줄 요약**
