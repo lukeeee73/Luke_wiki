@@ -1,7 +1,7 @@
 ---
 title: "CAT - Caterpillar Inc. — Routine News Log"
 created: 2026-05-16
-updated: 2026-09-06
+updated: 2026-09-13
 domain: finance
 type: claim
 weight: reference
@@ -48,6 +48,40 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-09-13 (일) — 신호등: 🟢🟢 강한 순풍 (+0.31)
+
+**세 줄 요약**
+1. 캐터필러가 데이터센터 건설 수요 덕분에 2026년 실적 전망을 좋게 봤다.
+2. 관세 부담이 줄어들 것이라는 기대감에 증권사가 매수 의견으로 올렸다.
+3. 경쟁사 디어의 주가도 사상 최고치를 찍으며 중장비 업황 전반이 살아나고 있음을 보여줬다.
+
+**뉴스 브리핑**
+
+**① 캐터필러, 데이터센터 전력수요 급증에 2026년 실적 전망 강화** 🟢
+- **무슨 일**: AI 데이터센터 건설이 늘며 전력·건설 장비 수요가 급증해 캐터필러가 2026년 실적 전망을 강화했다.
+- **왜 중요**: AI 붐이 건설기계 업체에도 실질적인 매출로 연결되고 있다는 증거다.
+- **주가에 의미**: 긍정적이다.
+- 출처: [Defense World](https://www.defenseworld.net/2026/09/12/caterpillar-sees-strong-2026-start-as-data-center-power-demand-fuels-expansion.html) · 2026-09-12
+
+**② 프리덤브로커, 관세 전망 개선에 캐터필러 매수 상향(목표가 980달러)** 🟢
+- **무슨 일**: 증권사 프리덤브로커가 관세 부담 완화 전망을 근거로 캐터필러를 매수로 상향하며 목표가 980달러를 제시했다.
+- **왜 중요**: 관세는 원자재·부품 비용에 직결되는 변수라, 완화 전망은 이익률 개선 기대로 이어진다.
+- **주가에 의미**: 긍정적이다.
+- 출처: [Investing.com](https://www.investing.com/news/analyst-ratings/caterpillar-stock-rating-upgraded-to-buy-at-freedom-broker-on-tariff-view-93CH-4895578) · 2026-09-10
+
+**③ 캐터필러, 9/13 모건스탠리 컨퍼런스 참가 예정** ⚪
+- **무슨 일**: 캐터필러가 9월13일 모건스탠리 컨퍼런스에 참가할 예정이라고 밝혔다.
+- **왜 중요**: 대형 투자자 컨퍼런스 참가는 통상적인 IR 일정이다.
+- **주가에 의미**: 중립적이다.
+- 출처: [Caterpillar Inc.](https://www.caterpillar.com/en/news/corporate-press-releases/h/caterpillar-to-participate-in-morgan-stanley-conference-on-september-13.html) · 2026-09-09
+
+**경쟁 구도 한눈에**
+- 디어(Deere) 주가가 674.43달러로 사상 최고치 경신 → 중장비·농기계 업황 전반의 수요 강세를 시사, 캐터필러에도 긍정적.
+- CNH 인더스트리얼이 6거래일 연속 상승으로 26% 급등 → 건설·농기계 업종 사이클 반등 신호, 캐터필러 밸류에이션에 우호적.
+
+**앞으로 지켜볼 것**
+- [ ] 9/13 모건스탠리 컨퍼런스 발언 내용 확인할 것
+
 ### 2026-09-06 (일) — 신호등: 🟢 순풍 (+0.10)
 
 **세 줄 요약**

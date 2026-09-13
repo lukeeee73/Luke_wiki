@@ -1,7 +1,7 @@
 ---
 title: "군용 드론 · 자율 무기체계 — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-06
+updated: 2026-09-13
 domain: finance
 type: claim
 weight: reference
@@ -45,12 +45,12 @@ sources: ["https://www.gminsights.com/industry-analysis/military-drone-market", 
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| AeroVironment | 배회폭탄(Switchblade)·소형 UAS 1위 + BlueHalo 인수로 C-UAS·레이저 | 🟢 +0.16 (2026-09-06) | 美육군 고에너지레이저(E-HEL) 첫 양산계약 4.648억달러를 따내며 방산·우주 분야에서 가장 강한 호재를 기록했다 | [AVAV](../../tickers/AVAV - AeroVironment Inc.md) |
-| Kratos | 저가 무인전투기 XQ-58 Valkyrie — 해병대 CCA 기체 선정 | ⚪ +0.03 (2026-09-06) | 아시아 국방고객向 SATCOM 게이트웨이 계약을 수주했지만 에어로바이런먼트의 훨씬 큰 계약과 대비됐다 | [KTOS](../../tickers/KTOS - Kratos Defense.md) |
+| AeroVironment | 배회폭탄(Switchblade)·소형 UAS 1위 + BlueHalo 인수로 C-UAS·레이저 | 🟢🟢 +0.31 (2026-09-13) | LOCUST 대드론 시스템으로 해외 첫 상업 계약(5000만달러+)을 수주하며 JP모간의 목표가 상향도 이끌어냈다 | [AVAV](../../tickers/AVAV - AeroVironment Inc.md) |
+| Kratos | 저가 무인전투기 XQ-58 Valkyrie — 해병대 CCA 기체 선정 | 🟢 +0.19 (2026-09-13) | 아시아 SATCOM 계약과 드론 독점생산권(최대 50억달러 기회)을 따냈지만 고밸류 부담에 주가는 연초대비 37% 하락했다 | [KTOS](../../tickers/KTOS - Kratos Defense.md) |
 | Anduril | Fury CCA·Roadrunner — Arsenal-1 대량생산 (비상장, $61B) | — | — | 비상장 |
 | General Atomics | MQ-9·공군 CCA YFQ-42 (비상장) | — | — | 비상장 |
-| 한화에어로스페이스 | 유무인복합·다목적 무인차량 — ’26 기대수주 23조원대 | 🟢 +0.12 (2026-09-06) | 크로아티아와 6800억원 규모 '천무' 수출 계약을 9/8 체결할 예정이며 브랜드평판도 1위에 올랐다 | [012450.KS](../../tickers/012450.KS - Hanwha Aerospace.md) |
-| LIG넥스원 | 중형무인기 공통플랫폼·유도무기·대드론 — ’26 기대수주 3.6조 | 🔴 -0.10 (2026-09-06) | LS증권이 4분기 영업이익률 둔화를 근거로 목표주가를 61만→56만원으로 낮췄다 | [079550.KS](../../tickers/079550.KS - LIG Nex1.md) |
+| 한화에어로스페이스 | 유무인복합·다목적 무인차량 — ’26 기대수주 23조원대 | 🟢🟢 +0.33 (2026-09-13) | 크로아티아와 천무 18문 6410억원 수출 계약을 체결하며 올해 세 번째 유럽 수출 레퍼런스를 쌓았다 | [012450.KS](../../tickers/012450.KS - Hanwha Aerospace.md) |
+| LIG넥스원 | 중형무인기 공통플랫폼·유도무기·대드론 — ’26 기대수주 3.6조 | 🟢 +0.16 (2026-09-13) | 중동 천궁-Ⅱ 수요 기대감은 있었지만 방산주 변동성 확대 속에 뚜렷한 자체 호재는 부족했다 | [079550.KS](../../tickers/079550.KS - LIG Nex1.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)

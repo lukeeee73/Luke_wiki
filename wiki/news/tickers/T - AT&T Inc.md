@@ -1,7 +1,7 @@
 ---
 title: "T - AT&T Inc — Routine News Log"
 created: 2026-05-16
-updated: 2026-09-06
+updated: 2026-09-13
 domain: finance
 type: claim
 weight: reference
@@ -46,6 +46,40 @@ AT&T는 미국 2위 통신사로, 과거 워너미디어(HBO, CNN 등 미디어 
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-09-13 (일) — 신호등: 🟢🟢 강한 순풍 (+0.27)
+
+**세 줄 요약**
+1. AT&T가 이사회를 11명으로 늘리며 새 독립이사를 영입했다.
+2. 2028년까지 두 자릿수로 주당순이익을 키우겠다는 목표도 내놨다.
+3. 파이버(광케이블) 투자를 키우겠다는 전략이 투자자 재평가로 이어지며 주가가 올랐다.
+
+**뉴스 브리핑**
+
+**① AT&T, 이사회 10명→11명 확대, 신규 독립이사 선임** ⚪
+- **무슨 일**: AT&T가 이사회를 10명에서 11명으로 확대하며 전 야후 최고경영자 출신 신규 독립이사를 선임했다.
+- **왜 중요**: 이사회 구성 변화는 지배구조 개선의 일환으로, 직접적인 사업 영향은 제한적이다.
+- **주가에 의미**: 중립적이다.
+- 출처: [Dallas Innovates](https://dallasinnovates.com/former-yahoo-chief-joins-atts-board-expanding-it-to-11-directors/) · 2026-09-07
+
+**② AT&T, 골드만삭스 컨퍼런스서 2028년까지 두 자릿수 EPS 성장 목표 제시** 🟢
+- **무슨 일**: AT&T가 골드만삭스 컨퍼런스에서 파이버 중심 성장전략을 통해 2028년까지 두 자릿수 주당순이익(EPS) 성장 목표를 제시했다.
+- **왜 중요**: 구체적인 중장기 성장 목표 제시는 투자자들의 신뢰를 높이는 요인이다.
+- **주가에 의미**: 긍정적이다.
+- 출처: [Investing.com](https://www.investing.com/news/transcripts/att-at-goldman-sachs-conference-fiber-push-drives-growth-plan-93CH-4894826) · 2026-09-09
+
+**③ AT&T 주가, 최근 실적 재평가 속 상승** 🟢
+- **무슨 일**: AT&T 주가가 최근 실적과 전략에 대한 투자자들의 재평가 속에 상승했다.
+- **왜 중요**: 시장이 파이버 전략에 긍정적으로 반응했다.
+- **주가에 의미**: 긍정적이다.
+- 출처: [ad-hoc-news.de](https://www.ad-hoc-news.de/boerse/news/corporate-news/at-and-t-inc-stock-gains-as-investors-reassess-recent-results/70089194) · 2026-09-11
+
+**경쟁 구도 한눈에**
+- 버라이즌-코닝, 대형 광케이블 공급계약 체결 → 버라이즌도 대형 광케이블 투자로 AT&T의 파이버 확장 경쟁 심화.
+- T모바일 CFO 피터 오스발딕이 2027년 2월 교체 예정 → T모바일 CFO 교체에 따른 단기 경영 불확실성은 AT&T에 상대적으로 유리.
+
+**앞으로 지켜볼 것**
+- [ ] 파이버 투자 확대 계획의 구체적 집행 속도 확인할 것
+
 ### 2026-09-06 (일) — 신호등: 🟢 순풍 (+0.05)
 
 **세 줄 요약**

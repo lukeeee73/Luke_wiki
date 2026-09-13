@@ -1,7 +1,7 @@
 ---
 title: "LMT - Lockheed Martin Corp. — Routine News Log"
 created: 2026-05-16
-updated: 2026-09-06
+updated: 2026-09-13
 domain: finance
 type: claim
 weight: reference
@@ -44,6 +44,40 @@ sources: []
 
 ## 일자별 기록 (역순)
 <!-- DAILY_START -->
+### 2026-09-13 (일) — 신호등: 🟢🟢 강한 순풍 (+0.28)
+
+**세 줄 요약**
+1. UBS가 미사일 수요 증가를 이유로 록히드마틴을 매수로 올렸다.
+2. 공군·해군에서 미사일·어뢰 계약을 11억달러 넘게 추가로 받았다.
+3. IBM과 스위스에 양자컴퓨팅 연구소도 함께 세우며 신사업 확장도 이어갔다.
+
+**뉴스 브리핑**
+
+**① UBS, 록히드마틴 매수 상향(미사일 수요 증가, 26% 상승여력)** 🟢
+- **무슨 일**: UBS가 미사일 수요 증가를 근거로 록히드마틴을 매수로 상향하며 목표가 674달러를 제시했다(26% 상승여력).
+- **왜 중요**: 글로벌 미사일방어 수요 확대가 록히드마틴의 핵심 성장 동력으로 지목됐다.
+- **주가에 의미**: 긍정적이다.
+- 출처: [Investing.com](https://www.investing.com/news/economy-news/ubs-upgrades-lockheed-martin-to-buy-sees-26-upside-on-missile-growth-4891693) · 2026-09-08
+
+**② 록히드마틴-IBM, 스위스 ETH취리히에 양자컴퓨팅 혁신허브 설립** 🟢
+- **무슨 일**: 록히드마틴이 IBM과 함께 스위스 ETH취리히에 양자컴퓨팅 혁신허브를 설립했다.
+- **왜 중요**: 양자컴퓨팅은 차세대 국방·암호 기술의 핵심으로, 신사업 확장의 의미가 있다.
+- **주가에 의미**: 장기적으로 긍정적이다.
+- 출처: [IBM Newsroom](https://newsroom.ibm.com/2026-09-10-ibm,-lockheed-martin-announce-swiss-quantum-innovation-hub-at-eth-zurich,-anchored-by-switzerlands-first-ibm-quantum-computer) · 2026-09-10
+
+**③ 록히드마틴, 美 공군 JASSM/LRASM 8.26억달러·해군 어뢰 2.57억달러 계약 수주** 🟢
+- **무슨 일**: 록히드마틴이 공군의 JASSM/LRASM 미사일 계약(8.26억달러)과 해군의 MK48 어뢰 계약(2.57억달러)을 추가로 수주했다.
+- **왜 중요**: 기존 무기체계의 생산 계약 확대는 안정적인 매출 기반이 된다.
+- **주가에 의미**: 긍정적이다.
+- 출처: [GlobalSecurity.org](https://www.globalsecurity.org/military/library/news/2026/09/dod-contracts_4594054.htm) · 2026-09-09
+
+**경쟁 구도 한눈에**
+- 노스롭그루먼이 NATO 중심 유럽 방산 협력을 확대하며 주가 상승 → 유럽 방산 수요 확대가 록히드마틴에도 긍정적.
+- 제너럴다이내믹스도 UBS 목표가 상향 → 방산 업종 전반 밸류에이션 리레이팅 흐름이 록히드마틴에 우호적.
+
+**앞으로 지켜볼 것**
+- [ ] 유럽 방산 수요 확대가 록히드마틴의 추가 계약으로 이어지는지 확인할 것
+
 ### 2026-09-06 (일) — 신호등: ⚪ 잔잔함 (-0.01)
 
 **세 줄 요약**
