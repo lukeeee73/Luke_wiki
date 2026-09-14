@@ -1,7 +1,7 @@
 ---
 title: "하이퍼스케일러·프런티어 CAPEX — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-07
+updated: 2026-09-14
 domain: finance
 type: claim
 weight: reference
@@ -47,11 +47,11 @@ sources: ["https://www.tomshardware.com/tech-industry/big-tech/big-techs-ai-spen
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Amazon | ~$200B (’26) · 점유 28% | 🟢 +0.05 (2026-09-07) | FTC와 22개 주가 광고주 200억달러 부당청구 혐의로 아마존을 제소했지만, 자율주행 자회사 주크스는 라스베이거스 공항서 로보택시 서비스를 시작했다 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
-| Microsoft | ~$190B (’26) · 점유 26% | 🟢🟢 +0.33 (2026-09-07) | 처음으로 애저 매출(연 1,019억달러, +43%)을 공개하며 AI 중심 조직개편을 단행했지만, 비용 부담에 엑스박스 클라우드 게이밍 이용시간을 제한하기로 했다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
-| Alphabet | $180–190B (’26) · 점유 26% | 🟢🟢 +0.29 (2026-09-07) | 광고기술 사업 매각 명령을 법원이 기각시키며 최악의 반독점 리스크를 피했지만, 법무부가 검색 반독점 판결에 항소하기로 했다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
-| Meta | $125–145B (’26) · 점유 19% | 🟢 +0.15 (2026-09-07) | 180억달러 아동안전 합의로 AI 신제품 출시의 법적 걸림돌은 치웠지만, 텍사스 데이터센터 건설이 주정부·주민 반발에 부딪혔다 | [META](../../tickers/META - Meta Platforms Inc.md) |
-| Oracle | Stargate 연계 | 🔴🔴 -0.22 (2026-09-07) | 제프리스·TD코웬 등 애널리스트들이 목표주가를 잇달아 하향했고, 9월9일 실적 발표를 앞두고 AI 데이터센터 부채·실행력 우려가 부각됐다 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
+| Amazon | ~$200B (‘26) · 점유 28% | 🟢 +0.09 (2026-09-14) | 오픈AI와 손잡고 챗GPT에 광고를 게재하기로 하며 새로운 매출원을 확보했지만, 프라임데이 시기 이동과 환율 역풍으로 3분기 성장률 둔화가 예고됐다 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
+| Microsoft | ~$190B (‘26) · 점유 26% | 🟢🟢 +0.35 (2026-09-14) | 애저 매출이 연 1,000억달러를 넘어서고 코파일럿 유료 가입이 3,000만 좌석을 돌파하는 등 AI 실적 모멘텀이 뚜렷하지만, 대규모 자본지출 부담은 계속 지켜볼 변수다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
+| Alphabet | $180–190B (‘26) · 점유 26% | 🟢🟢 +0.32 (2026-09-14) | 법원이 광고사업 강제매각 명령을 기각하며 최악의 반독점 리스크를 피했고 제미나이 3.8 출시로 넉 달 만의 하락세에서 반등을 모색하고 있다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
+| Meta | $125–145B (‘26) · 점유 19% | 🟢🟢 +0.20 (2026-09-14) | 180억달러 규모의 미성년자 보호 소송에 합의하며 AI 신제품 출시의 법적 걸림돌을 치웠고, 자체 AI칩 생산과 스타트업 인수로 경쟁력도 강화했다 | [META](../../tickers/META - Meta Platforms Inc.md) |
+| Oracle | Stargate 연계 | 🟢🟢 +0.30 (2026-09-14) | AI 클라우드 수요로 매출과 수주잔고가 급증했고 엘리슨 회장이 대규모 주식매도 계획을 철회했지만, 1,250억달러로 불어난 부채가 부담 요인으로 남았다 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
 | OpenAI | 26GW 약정 (비상장) | — | — | 비상장 |
 <!-- PLAYERS_END -->
 

@@ -1,7 +1,7 @@
 ---
 title: "전력공급·냉각 장비 — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-11
+updated: 2026-09-14
 domain: finance
 type: claim
 weight: reference
@@ -47,7 +47,7 @@ sources: ["https://pv-magazine-usa.com/2026/05/11/u-s-transformer-market-faces-s
 |---|---|---|---|---|
 | Vertiv | 전력+액침냉각 (NVIDIA GB200 레퍼런스) · 점유 22% | ⚪ -0.02 (2026-09-11) | 26억달러 규모 마이크로그리드 업체 인수로 사업을 넓혔지만, 통합 비용 우려와 AI 관련주 차익실현이 겹치며 이틀간 주가가 13% 넘게 빠졌다 | [VRT](../../tickers/VRT - Vertiv Holdings Co.md) |
 | Eaton | 변압기·스위치기어·PDU · 점유 12% | 🟢 +0.16 (2026-09-11) | UBS가 마진 개선을 근거로 목표가를 515달러로 대폭 올렸고 아칸소 신공장 투자까지 발표되며 전력 인프라 종목 중 가장 뚜렷한 호재를 누렸다 | [ETN](../../tickers/ETN - Eaton Corporation plc.md) |
-| Monolithic Power | 고밀도 GPU 전력전달 'last inch' | 🟢🟢 +0.44 (2026-09-07) | 스톤엑스가 매수 커버리지를 새로 개시했고 데이터센터 전력관리 매출 가이던스가 130%로 크게 올라 AI 전력반도체 대장주 입지가 강화됐다 | [MPWR](../../tickers/MPWR - Monolithic Power Systems.md) |
+| Monolithic Power | 고밀도 GPU 전력전달 'last inch' | 🟢🟢 +0.22 (2026-09-14) | 글로벌파운드리와 장기 제조 파트너십을 체결하고 데이터센터 매출 가이던스를 크게 높이며 AI 전력반도체 대장주 지위를 재확인했다 | [MPWR](../../tickers/MPWR - Monolithic Power Systems.md) |
 | Navitas · Infineon · ON | GaN/SiC 800VDC | watchlist 외 | — | `NVTS` |
 | Schneider Electric | 변압기·스위치기어 (해외) · 점유 12% | — | — | 비상장 |
 <!-- PLAYERS_END -->
