@@ -1,7 +1,7 @@
 ---
 title: "광 인터커넥트 — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-08
+updated: 2026-09-14
 domain: finance
 type: claim
 weight: reference
@@ -46,7 +46,7 @@ sources: ["https://www.lightcounting.com/newsletter/en/july-2025-cloud-data-cent
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
 | InnoLight | 모듈 1위 (비상장/중국) · 점유 25% | — | — | 비상장 |
-| Coherent | 수직통합 · NVIDIA CPO 파트너 · 점유 15% | 🟢🟢 +0.40 (2026-09-07) | 도이체방크가 매수 커버리지를 개시(목표가 400달러)했고 9월21일 차세대 광통합 플랫폼 공개도 앞두며 AI 광통신 수혜주 입지가 부각됐다 | [COHR](../../tickers/COHR - Coherent Corp.md) |
+| Coherent | 수직통합 · NVIDIA CPO 파트너 · 점유 15% | 🟢🟢 +0.32 (2026-09-14) | AI 데이터센터向 신제품 'PhotonLink'와 차세대 기판 샘플링을 공개하며 광통신 수혜주 입지를 굳혔고 도이체방크의 매수 커버리지도 새로 받았다 | [COHR](../../tickers/COHR - Coherent Corp.md) |
 | Lumentum | 레이저/CPO · 점유 10% | watchlist 외 | — | `LITE` |
 | Marvell · Broadcom | 실리콘 포토닉스/DSP | 🟢 +0.16 (2026-09-08) | 브로드컴이 인공지능 반도체 매출이 두 배 넘게 늘어난 실적을 발표했지만 이미 높았던 기대치 탓에 주가 반응은 차분했다. | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
 | Eoptolink | 트랜시버 (비상장/중국) · 점유 12% | — | — | 비상장 |
