@@ -1,7 +1,7 @@
 ---
 title: "LRCX - Lam Research Corp. — Routine News Log"
 created: 2026-05-19
-updated: 2026-09-08
+updated: 2026-09-15
 domain: finance
 type: claim
 weight: reference
