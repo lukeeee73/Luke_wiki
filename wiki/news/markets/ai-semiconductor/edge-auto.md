@@ -1,7 +1,7 @@
 ---
 title: "차량용·자율주행 반도체 — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-09
+updated: 2026-09-16
 domain: finance
 type: claim
 weight: reference
@@ -48,7 +48,7 @@ ADAS·자율주행·디지털 콕핏용 칩. 고가 AD SoC가 다중 센서를 �
 | Mobileye | 카메라 ADAS ~65–70% (점유율 하락중) · 점유 65% | 🔴 -0.07 (2026-09-08) | 테슬라가 무인 택시 상업 운행을 실제로 시작하며 모빌아이가 우려하던 경쟁 위협이 현실화됐다. | [MBLY](../../tickers/MBLY - Mobileye Global Inc.md) |
 | NVIDIA | 고급 AD/로보택시 (Drive Thor) · 점유 10% | 🟢 +0.17 (2026-09-08) | 엔비디아가 오픈소스 AI 플랫폼 허깅페이스를 13조원 규모에 인수하며 주가가 사상 최고치에 다가섰다. | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
 | Qualcomm | Snapdragon Ride · 점유 8% | 🟢 +0.11 (2026-09-08) | 퀄컴이 스마트반지 스타트업에 투자하며 스마트폰을 넘어선 사업 확장을 이어갔고 주가도 저점 대비 반등했다. | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
-| Tesla | 자체 FSD/AI5 실리콘 · 점유 7% | 🔴 -0.17 (2026-09-09) | 사이버캡 로보택시가 9월 3일 오스틴에서 출시됐지만 비공개·비생중계 행사로 실망감을 낳으며 주가가 6% 급락했고, 이튿날 NHTSA가 안전인증 감사에 착수하며 규제 불확실성이 커졌다 | [TSLA](../../tickers/TSLA - Tesla Inc.md) |
+| Tesla | 자체 FSD/AI5 실리콘 · 점유 7% | 🟢 +0.17 (2026-09-16) | 테슬라가 경쟁사들의 전기차 사업 축소 속에 미국 전기차 시장 점유율을 절반 이상으로 되찾았고, 9년 만에 로드스터 공개일도 확정됐다 | [TSLA](../../tickers/TSLA - Tesla Inc.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)

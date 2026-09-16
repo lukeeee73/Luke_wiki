@@ -1,7 +1,7 @@
 ---
 title: "휴머노이드 로봇 · 피지컬 AI — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-09
+updated: 2026-09-16
 domain: finance
 type: claim
 weight: reference
@@ -45,7 +45,7 @@ AI 파운데이션 모델(VLA)을 탑재해 실세계 범용 작업을 수행하
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Tesla (Optimus) | Optimus V3 ’26 양산 목표 — 핸드 설계·희토류 이슈로 지연 | 🔴 -0.17 (2026-09-09) | 사이버캡 로보택시가 9월 3일 오스틴에서 출시됐지만 비공개·비생중계 행사로 실망감을 낳으며 주가가 6% 급락했고, 이튿날 NHTSA가 안전인증 감사에 착수하며 규제 불확실성이 커졌다 | [TSLA](../../tickers/TSLA - Tesla Inc.md) |
+| Tesla (Optimus) | Optimus V3 ’26 양산 목표 — 핸드 설계·희토류 이슈로 지연 | 🟢 +0.17 (2026-09-16) | 테슬라가 경쟁사들의 전기차 사업 축소 속에 미국 전기차 시장 점유율을 절반 이상으로 되찾았고, 9년 만에 로드스터 공개일도 확정됐다 | [TSLA](../../tickers/TSLA - Tesla Inc.md) |
 | NVIDIA | Jetson Thor + Isaac GR00T — 로보틱스의 '안드로이드' 전략 (무기상) | 🟢 +0.17 (2026-09-08) | 엔비디아가 오픈소스 AI 플랫폼 허깅페이스를 13조원 규모에 인수하며 주가가 사상 최고치에 다가섰다. | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
 | Figure AI | Figure 03 + Helix VLA, BotQ 자체 양산 (비상장, ~$39B) | — | — | 비상장 |
 | Unitree | 저가 휴머노이드(G1 $16K) 출하 1위권, 상하이 IPO 추진 | — | — | 비상장 |
