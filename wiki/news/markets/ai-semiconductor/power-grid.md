@@ -1,7 +1,7 @@
 ---
 title: "전력 생산·전력망 — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-11
+updated: 2026-09-18
 domain: finance
 type: claim
 weight: reference
@@ -50,7 +50,7 @@ AI 데이터센터에 전기를 공급하는 발전·전력계약·전력망 접
 | Constellation | 미 최대 원자력 (MS TMI 재가동) | 🟢 +0.15 (2026-09-11) | 콘스텔레이션이 쉘로부터 로드아일랜드 가스발전소를 7.15억달러에 인수하며 PJM 권역 포트폴리오를 넓혔지만, 금리 상승은 섹터 전반의 부담으로 남았다 | [CEG](../../tickers/CEG - Constellation Energy.md) |
 | Vistra | 원자력+가스 | 🔴 -0.05 (2026-09-11) | 비스트라가 15억달러 후순위채를 7.00~7.25% 금리로 발행해 고금리 우선주를 상환하기로 했는데, 이 조달금리 자체가 최근 금리 급등 환경을 보여준다 | [VST](../../tickers/VST - Vistra Corp.md) |
 | NextEra | 신재생 1위 (Dominion 딜) | 🟢 +0.15 (2026-09-11) | 미 에너지부가 넥스테라의 아이오와 원전 재가동에 최대 19억달러 대출을 확정해 구글向 전력공급 계획을 뒷받침했지만, 국채금리 급등이 유틸리티 전반에 부담을 더했다 | [NEE](../../tickers/NEE - NextEra Energy.md) |
-| GE Vernova | 가스터빈 (2030까지 예약) + SMR | ⚪ -0.02 (2026-09-11) | 스코틀랜드 소규모 풍력 터빈 공급계약 외 특별한 소식 없이 주가가 조정받았고, 경쟁사 두산에너빌리티가 한미 원전·가스발전 수혜주로 부각되며 대조를 이뤘다 | [GEV](../../tickers/GEV - GE Vernova Inc.md) |
+| GE Vernova | 가스터빈 (2030까지 예약) + SMR | 🟢🟢 +0.25 (2026-09-18) | 백로그가 1760억달러로 급증했다는 소식에 주가가 반등했지만, 매도의견 리포트로 9% 급락하는 등 이번 주는 변동성이 큰 한 주였다 | [GEV](../../tickers/GEV - GE Vernova Inc.md) |
 | Talen | Susquehanna/AWS PPA | watchlist 외 | — | `TLN` |
 <!-- PLAYERS_END -->
 
