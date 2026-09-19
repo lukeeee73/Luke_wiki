@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-09-18
+updated: 2026-09-19
 domain: finance
 type: index
 weight: reference
@@ -166,16 +166,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [JPM](tickers/JPM - JPMorgan Chase and Co.md) | 2026-09-12 | 🟢 +0.07 | JPM은 시가총액 1조 달러 진입을 앞두고 있고, 예상보다 뜨거운 물가지표로 금리 인상 가능성이 커졌다 | 7 |
-| [BAC](tickers/BAC - Bank of America Corp.md) | 2026-09-12 | 🟢 +0.08 | 뱅크오브아메리카 CEO는 기름값이 올라도 소비자 씀씀이는 여전히 튼튼하다고 밝혔다 | 6 |
-| [WFC](tickers/WFC - Wells Fargo and Company.md) | 2026-09-12 | ⚪ +0.00 | 웰스파고만의 특별한 소식은 없었고, 뜨거운 물가지표가 은행 전반에 영향을 줄 변수로 떠올랐다 | 4 |
-| [C](tickers/C - Citigroup Inc.md) | 2026-09-12 | 🟢 +0.15 | 씨티그룹은 중국 증권업 라이선스 승인이 임박하며 완만한 순풍을 타고 있다 | 6 |
-| [GS](tickers/GS - The Goldman Sachs Group.md) | 2026-09-12 | 🟢 +0.19 | 골드만삭스는 투자은행 수수료 호조와 신사업 확장이 이어지며 완만한 순풍을 타고 있다 | 5 |
-| [MS](tickers/MS - Morgan Stanley.md) | 2026-09-12 | 🟢 +0.18 | 모간스탠리는 오픈AI 파트너십과 대형 인프라 이니셔티브로 성장 기대감이 커지고 있다 | 6 |
-| [V](tickers/V - Visa Inc.md) | 2026-09-12 | 🟢 +0.08 | 비자는 신흥시장 결제 확대와 AI 결제 표준 협력을 발표하며 사업 영역을 넓히고 있다 | 6 |
-| [MA](tickers/MA - Mastercard Incorporated.md) | 2026-09-12 | 🟢 +0.17 | 마스터카드는 견조한 소비 지표와 AI 결제·아프리카 제휴 확대로 완만한 순풍을 타고 있다 | 6 |
-| [AXP](tickers/AXP - American Express Company.md) | 2026-09-12 | ⚪ +0.01 | 아멕스는 이번 주 뚜렷한 개별 뉴스 없이 잔잔한 흐름을 보였다 | 8 |
-| [BRK-B](tickers/BRK-B - Berkshire Hathaway.md) | 2026-09-12 | 🟢 +0.07 | 버크셔는 새 CEO 그렉 아벨이 쌓아둔 현금을 풀어 알파벳 등에 더 적극적으로 투자하는 모습을 보이고 있다 | 6 |
+| [JPM](tickers/JPM - JPMorgan Chase and Co.md) | 2026-09-19 | 🟢 +0.09 | JPM은 바클레이스 매수 재확인과 체이스 신기능 출시 등 개별 호재가 이어졌지만, 연준 금리인상과 업계 IB 수수료 둔화 경고로 매크로 불확실성이 남아있다 | 7 |
+| [BAC](tickers/BAC - Bank of America Corp.md) | 2026-09-19 | 🔴 -0.07 | 뱅크오브아메리카는 3분기 투자은행 수수료가 10% 넘게 줄어들 것이라는 CEO의 경고로 주가가 5% 급락했다 | 7 |
+| [WFC](tickers/WFC - Wells Fargo and Company.md) | 2026-09-19 | 🟢 +0.07 | 웰스파고는 대출 성장 가이던스 상향 시사와 모바일 해외송금 전국 출시로 사업 모멘텀은 좋았지만 연준 금리인상이 부담으로 남았다 | 4 |
+| [C](tickers/C - Citigroup Inc.md) | 2026-09-19 | 🟢 +0.08 | 씨티그룹은 2026년 수익성 목표를 상향하고 바나멕스 분리 절차도 순항 중이지만, 금리인상 이후 예금 비용 우려로 주가는 조정받았다 | 6 |
+| [GS](tickers/GS - The Goldman Sachs Group.md) | 2026-09-19 | 🔴 -0.06 | 골드만삭스는 3분기 트레이딩 수익 둔화와 비용 증가를 CEO가 직접 경고하며 주가가 4% 빠졌다 | 5 |
+| [MS](tickers/MS - Morgan Stanley.md) | 2026-09-19 | 🟢 +0.07 | 모건스탠리는 앤트로픽 IPO 대표 주관사로 선정되며 성장 모멘텀을 이어갔지만, 자사 전략가가 유가발 시장조정 리스크를 경고했다 | 7 |
+| [V](tickers/V - Visa Inc.md) | 2026-09-19 | ⚪ +0.03 | 비자는 ATM 수수료 담합 소송에 합의하고 DOJ 반독점 소송이 진행 중인 가운데, AI 결제 신뢰도 조사에서는 경쟁사 대비 우위를 확인했다 | 8 |
+| [MA](tickers/MA - Mastercard Incorporated.md) | 2026-09-19 | 🟢 +0.06 | 마스터카드는 AI 에이전트 전용 결제수단을 새로 출시했지만, ATM 수수료 담합 소송 합의로 7,870만달러의 비용 부담이 확정됐다 | 7 |
+| [AXP](tickers/AXP - American Express Company.md) | 2026-09-19 | 🔴 -0.10 | 아멕스는 8월 카드 상각률 상승과 상업 결제 회복 지연 전망이 확인되며 주가가 하루 만에 3.7% 빠졌다 | 9 |
+| [BRK-B](tickers/BRK-B - Berkshire Hathaway.md) | 2026-09-19 | ⚪ -0.01 | 워런 버핏이 60여년 만에 버크셔 회장직에서 물러나고 장남 하워드가 승계하며 '버핏 프리미엄' 약화 우려가 나왔다 | 7 |
 
 ### 소비재
 
@@ -215,16 +215,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [AMT](tickers/AMT - American Tower Corporation.md) | 2026-09-12 | 🟢 +0.12 | 아메리칸타워는 회사채 발행으로 재무구조를 다지는 가운데 스페이스X의 위성 무선 진출 이슈에도 애널리스트들은 타워 회사엔 오히려 우호적이라고 평가했다 | 7 |
-| [CCI](tickers/CCI - Crown Castle Inc.md) | 2026-09-12 | 🔴 -0.06 | 크라운캐슬은 순수 타워 회사 전략을 재확인했지만 디시 와이어리스와의 76억달러 임대료 분쟁 재판이 11~12월로 밀리며 불확실성이 이어지고 있다 | 7 |
-| [PLD](tickers/PLD - Prologis, Inc.md) | 2026-09-12 | 🟢 +0.16 | 프롤로지스는 독일 함부르크 물류자산 인수에 대한 EU 승인을 받으며 유럽 사업 확장을 이어갔고 분기 배당도 예정대로 지급한다 | 5 |
-| [EQIX](tickers/EQIX - Equinix, Inc.md) | 2026-09-12 | 🟢 +0.19 | 에퀴닉스는 엔비디아와 손잡고 AI 추론 인프라 신사업을 발표했고 BTIG가 목표주가를 1,240달러로 올렸다 | 7 |
-| [DLR](tickers/DLR - Digital Realty Trust.md) | 2026-09-12 | 🟢🟢 +0.22 | 디지털리얼티는 나이로비 신규 데이터센터를 열고 실적 가이던스도 상향되며 목표주가가 220달러로 올랐다 | 6 |
-| [O](tickers/O - Realty Income Corporation.md) | 2026-09-12 | ⚪ +0.03 | 배당은 136번째로 또 올랐지만 국채금리 급등이 상쇄해 오늘은 잔잔한 하루였다 | 6 |
-| [SPG](tickers/SPG - Simon Property Group.md) | 2026-09-12 | 🟢 +0.14 | 프리미엄 몰의 임대 호조는 여전하지만 새 회사채 발행 금리가 높아 이자비용 부담이 커지고 있다 | 2 |
-| [WELL](tickers/WELL - Welltower Inc.md) | 2026-09-12 | 🟢 +0.18 | 시니어하우징 수요 덕에 실적이 좋아지며 애널리스트들의 목표주가도 잇달아 올랐다 | 2 |
-| [PSA](tickers/PSA - Public Storage.md) | 2026-09-12 | 🔴 -0.06 | 캐나다 사업 확장은 긍정적이지만 미국 내 기존 매장 매출 둔화와 금리 부담이 더 크게 느껴진다 | 4 |
-| [VICI](tickers/VICI - VICI Properties Inc.md) | 2026-09-12 | 🟢 +0.05 | 배당을 또 올리고 이사회도 보강했지만 운영사 집중 리스크와 금리 부담은 여전하다 | 5 |
+| [AMT](tickers/AMT - American Tower Corporation.md) | 2026-09-19 | ⚪ +0.02 | 아메리칸타워는 배당을 인상 없이 유지했고 16억달러 회사채를 5%대 후반 금리로 발행하며 고금리 차환 부담이 구체화됐다 | 7 |
+| [CCI](tickers/CCI - Crown Castle Inc.md) | 2026-09-19 | 🔴 -0.05 | 크라운캐슬은 CFO와 COO를 동시에 교체하는 리더십 개편을 발표해 순수 타워 전환의 실행 리스크 우려가 다시 불거졌다 | 8 |
+| [PLD](tickers/PLD - Prologis, Inc.md) | 2026-09-19 | ⚪ +0.03 | 프롤로지스는 SEGRO 인수 주주총회 일정을 9월 28일로 확정하며 유럽 확장 절차를 예정대로 진행하고 있다 | 6 |
+| [EQIX](tickers/EQIX - Equinix, Inc.md) | 2026-09-19 | ⚪ +0.01 | 에퀴닉스는 컴캐스트와의 신규 연동으로 생태계를 넓혔지만, AI 투자 둔화 우려로 데이터센터 리츠 전반이 조정받았다 | 8 |
+| [DLR](tickers/DLR - Digital Realty Trust.md) | 2026-09-19 | 🟢 +0.06 | 디지털리얼티는 터키 신규 진출과 AI 인프라 수요 서베이로 성장 스토리를 재확인했지만, AI 둔화 우려로 주가는 하루 만에 5% 급락했다 | 7 |
+| [O](tickers/O - Realty Income Corporation.md) | 2026-09-19 | ⚪ -0.02 | 리얼티인컴은 KKR과 유럽 순임대 합작사를 설립했지만, 미즈호의 목표주가 하향과 연준 금리인상이 상쇄 요인으로 작용했다 | 7 |
+| [SPG](tickers/SPG - Simon Property Group.md) | 2026-09-19 | 🟢 +0.05 | 사이먼프로퍼티는 새 브랜드 캠페인과 견조한 임대료·리싱 지표로 프리미엄 몰의 경쟁 우위를 재확인했다 | 2 |
+| [WELL](tickers/WELL - Welltower Inc.md) | 2026-09-19 | 🟢 +0.06 | 웰타워는 제프리스의 신규 매수 커버리지와 15분기 연속 두 자릿수 NOI 성장 재조명으로 고령화 수혜 스토리가 계속 인정받고 있다 | 3 |
+| [PSA](tickers/PSA - Public Storage.md) | 2026-09-19 | 🔴 -0.05 | 퍼블릭스토리지는 캐나다 채권 발행을 마무리했지만, 연준 금리인상으로 조달비용 부담이 커졌다 | 5 |
+| [VICI](tickers/VICI - VICI Properties Inc.md) | 2026-09-19 | 🔴 -0.14 | VICI는 배당락 하락과 목표주가 하향에 더해, 핵심 임차인인 시저스·MGM의 소유구조 변경 논의까지 겹치며 역풍을 맞았다 | 6 |
 
 ### 통신 / 미디어
 
