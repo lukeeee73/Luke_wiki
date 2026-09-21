@@ -1,7 +1,7 @@
 ---
 title: "AI PC — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-14
+updated: 2026-09-21
 domain: finance
 type: claim
 weight: reference
@@ -46,7 +46,7 @@ sources: ["https://counterpointresearch.com/en/reports/ai-advanced-pcs-to-surpas
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
 | Intel | ~45–56% (Core Ultra) · 점유 50% | 🟢 +0.10 (2026-09-08) | 인텔이 서버용 반도체 수요 기대감에 주가가 올랐지만 증권사는 오히려 목표주가를 낮췄다. | [INTC](../../tickers/INTC - Intel Corporation.md) |
-| Apple | ~20–24% 자체 M시리즈 · 점유 22% | 🟢🟢 +0.20 (2026-09-14) | 첫 폴더블 아이폰 '듀오'가 출시되며 주가와 시가총액이 사상 최고치를 갈아치웠지만, 신임 CEO 체제에서 프리미엄 가격의 실제 채택률이 다음 관문으로 남았다 | [AAPL](../../tickers/AAPL - Apple Inc.md) |
+| Apple | ~20–24% 자체 M시리즈 · 점유 22% | 🟢 +0.12 (2026-09-21) | 아이폰18이 정식 출시되며 전 세계 매장에 긴 줄이 이어졌고 BofA도 견조한 초기 수요 신호를 포착했다 | [AAPL](../../tickers/AAPL - Apple Inc.md) |
 | AMD | #3 (Ryzen AI) · 점유 18% | 🟢 +0.11 (2026-09-08) | 에이엠디 주가가 하루 만에 5% 가까이 오르며 인공지능 투자 열기가 다른 반도체 회사로도 퍼지고 있음을 보여줬다. | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
 | Qualcomm | Snapdragon X (Arm, 최고속 성장) · 점유 5% | 🟢 +0.11 (2026-09-08) | 퀄컴이 스마트반지 스타트업에 투자하며 스마트폰을 넘어선 사업 확장을 이어갔고 주가도 저점 대비 반등했다. | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
 <!-- PLAYERS_END -->
