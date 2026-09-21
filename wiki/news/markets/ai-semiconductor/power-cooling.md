@@ -1,7 +1,7 @@
 ---
 title: "전력공급·냉각 장비 — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-18
+updated: 2026-09-21
 domain: finance
 type: claim
 weight: reference
@@ -47,7 +47,7 @@ sources: ["https://pv-magazine-usa.com/2026/05/11/u-s-transformer-market-faces-s
 |---|---|---|---|---|
 | Vertiv | 전력+액침냉각 (NVIDIA GB200 레퍼런스) · 점유 22% | 🟢 +0.08 (2026-09-18) | AI 투자 속도조절 우려로 주가가 8% 안팎 급락하며 데이터센터 관련주 전반의 불안심리를 그대로 반영했다 | [VRT](../../tickers/VRT - Vertiv Holdings Co.md) |
 | Eaton | 변압기·스위치기어·PDU · 점유 12% | 🟢 +0.14 (2026-09-18) | GE버노바 리서치 이벤트 여파로 주가가 동반 급락했지만, 마진 개선을 근거로 한 매수 의견은 그대로 유지되고 있다 | [ETN](../../tickers/ETN - Eaton Corporation plc.md) |
-| Monolithic Power | 고밀도 GPU 전력전달 'last inch' | 🟢🟢 +0.22 (2026-09-14) | 글로벌파운드리와 장기 제조 파트너십을 체결하고 데이터센터 매출 가이던스를 크게 높이며 AI 전력반도체 대장주 지위를 재확인했다 | [MPWR](../../tickers/MPWR - Monolithic Power Systems.md) |
+| Monolithic Power | 고밀도 GPU 전력전달 'last inch' | ⚪ 0.00 (2026-09-21) | 뚜렷한 자체 촉매 없이 조용한 하루였고, 경쟁사 TXN·ADI가 AI데이터센터 전력반도체 최선호주로 거론된 점만 지켜볼 만하다 | [MPWR](../../tickers/MPWR - Monolithic Power Systems.md) |
 | Navitas · Infineon · ON | GaN/SiC 800VDC | watchlist 외 | — | `NVTS` |
 | Schneider Electric | 변압기·스위치기어 (해외) · 점유 12% | — | — | 비상장 |
 <!-- PLAYERS_END -->

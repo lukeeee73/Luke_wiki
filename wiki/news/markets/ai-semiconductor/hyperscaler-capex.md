@@ -1,7 +1,7 @@
 ---
 title: "하이퍼스케일러·프런티어 CAPEX — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-14
+updated: 2026-09-21
 domain: finance
 type: claim
 weight: reference
@@ -47,11 +47,11 @@ sources: ["https://www.tomshardware.com/tech-industry/big-tech/big-techs-ai-spen
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Amazon | ~$200B (‘26) · 점유 28% | 🟢 +0.09 (2026-09-14) | 오픈AI와 손잡고 챗GPT에 광고를 게재하기로 하며 새로운 매출원을 확보했지만, 프라임데이 시기 이동과 환율 역풍으로 3분기 성장률 둔화가 예고됐다 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
-| Microsoft | ~$190B (‘26) · 점유 26% | 🟢🟢 +0.35 (2026-09-14) | 애저 매출이 연 1,000억달러를 넘어서고 코파일럿 유료 가입이 3,000만 좌석을 돌파하는 등 AI 실적 모멘텀이 뚜렷하지만, 대규모 자본지출 부담은 계속 지켜볼 변수다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
-| Alphabet | $180–190B (‘26) · 점유 26% | 🟢🟢 +0.32 (2026-09-14) | 법원이 광고사업 강제매각 명령을 기각하며 최악의 반독점 리스크를 피했고 제미나이 3.8 출시로 넉 달 만의 하락세에서 반등을 모색하고 있다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
-| Meta | $125–145B (‘26) · 점유 19% | 🟢🟢 +0.20 (2026-09-14) | 180억달러 규모의 미성년자 보호 소송에 합의하며 AI 신제품 출시의 법적 걸림돌을 치웠고, 자체 AI칩 생산과 스타트업 인수로 경쟁력도 강화했다 | [META](../../tickers/META - Meta Platforms Inc.md) |
-| Oracle | Stargate 연계 | 🟢🟢 +0.30 (2026-09-14) | AI 클라우드 수요로 매출과 수주잔고가 급증했고 엘리슨 회장이 대규모 주식매도 계획을 철회했지만, 1,250억달러로 불어난 부채가 부담 요인으로 남았다 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
+| Amazon | ~$200B (‘26) · 점유 28% | ⚪ +0.02 (2026-09-21) | 제너락과의 대형 데이터센터 전력 계약으로 AI 인프라 확장을 이어갔지만, EU 가격조항 조사와 미 상원의 FTC조사 요구가 겹치며 규제 압박이 커졌다 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
+| Microsoft | ~$190B (‘26) · 점유 26% | 🟢 +0.15 (2026-09-21) | 분기 배당을 8% 올리고 정부向 AI·보안 제품 'M365 G7'을 발표했지만, 자사 AI 총괄이 업계 AI 안전 이슈를 직접 경고하며 규제 리스크도 부각됐다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
+| Alphabet | $180–190B (‘26) · 점유 26% | 🟢 +0.13 (2026-09-21) | 애드테크 소송 구제조치가 강제매각 대신 6년 준수감독관으로 정리되며 최악은 피했지만, 제미나이 보안사고와 캘리포니아 AI 규제명령이 새 리스크로 떠올랐다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
+| Meta | $125–145B (‘26) · 점유 19% | 🟢 +0.10 (2026-09-21) | AI 에이전트 앱 '뮤즈'가 챗GPT를 제치고 앱스토어 1위에 올랐지만, 업계 전반의 AI 안전사고 공개 확산은 규제 리스크로 남았다 | [META](../../tickers/META - Meta Platforms Inc.md) |
+| Oracle | Stargate 연계 | 🟢 +0.12 (2026-09-21) | 쿼럼헬스 11개 병원의 오라클헬스 EHR 도입 등 엔터프라이즈 수주가 이어졌고 자바27 출시로 개발자 생태계 투자도 계속됐다 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
 | OpenAI | 26GW 약정 (비상장) | — | — | 비상장 |
 <!-- PLAYERS_END -->
 

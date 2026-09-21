@@ -1,7 +1,7 @@
 ---
 title: "맞춤형 AI ASIC·XPU — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-14
+updated: 2026-09-21
 domain: finance
 type: claim
 weight: reference
@@ -49,10 +49,10 @@ sources: ["https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-a
 |---|---|---|---|---|
 | Broadcom | 코디자인 ~60% (Google·Meta·OpenAI) · 점유 60% | 🟢 +0.16 (2026-09-08) | 브로드컴이 인공지능 반도체 매출이 두 배 넘게 늘어난 실적을 발표했지만 이미 높았던 기대치 탓에 주가 반응은 차분했다. | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
 | Marvell | ~25% (Amazon·Microsoft) · 점유 25% | ⚪ +0.05 (2026-09-08) | 마벨 주가가 실적 발표 후 급락했던 흐름에서 벗어나 반등했고 다음 달 투자자의 날이 다음 관전 포인트로 떠올랐다. | [MRVL](../../tickers/MRVL - Marvell Technology, Inc.md) |
-| Google TPU | 최대 내부 XPU (v7 Ironwood) | 🟢🟢 +0.32 (2026-09-14) | 법원이 광고사업 강제매각 명령을 기각하며 최악의 반독점 리스크를 피했고 제미나이 3.8 출시로 넉 달 만의 하락세에서 반등을 모색하고 있다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
-| Amazon Trainium | Trainium3 (3nm) | 🟢 +0.09 (2026-09-14) | 오픈AI와 손잡고 챗GPT에 광고를 게재하기로 하며 새로운 매출원을 확보했지만, 프라임데이 시기 이동과 환율 역풍으로 3분기 성장률 둔화가 예고됐다 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
-| Microsoft Maia | 내부용 자체 실리콘 | 🟢🟢 +0.35 (2026-09-14) | 애저 매출이 연 1,000억달러를 넘어서고 코파일럿 유료 가입이 3,000만 좌석을 돌파하는 등 AI 실적 모멘텀이 뚜렷하지만, 대규모 자본지출 부담은 계속 지켜볼 변수다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
-| Meta MTIA | 추론·랭킹용 자체 칩 | 🟢🟢 +0.20 (2026-09-14) | 180억달러 규모의 미성년자 보호 소송에 합의하며 AI 신제품 출시의 법적 걸림돌을 치웠고, 자체 AI칩 생산과 스타트업 인수로 경쟁력도 강화했다 | [META](../../tickers/META - Meta Platforms Inc.md) |
+| Google TPU | 최대 내부 XPU (v7 Ironwood) | 🟢 +0.13 (2026-09-21) | 애드테크 소송 구제조치가 강제매각 대신 6년 준수감독관으로 정리되며 최악은 피했지만, 제미나이 보안사고와 캘리포니아 AI 규제명령이 새 리스크로 떠올랐다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
+| Amazon Trainium | Trainium3 (3nm) | ⚪ +0.02 (2026-09-21) | 제너락과의 대형 데이터센터 전력 계약으로 AI 인프라 확장을 이어갔지만, EU 가격조항 조사와 미 상원의 FTC조사 요구가 겹치며 규제 압박이 커졌다 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
+| Microsoft Maia | 내부용 자체 실리콘 | 🟢 +0.15 (2026-09-21) | 분기 배당을 8% 올리고 정부向 AI·보안 제품 'M365 G7'을 발표했지만, 자사 AI 총괄이 업계 AI 안전 이슈를 직접 경고하며 규제 리스크도 부각됐다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
+| Meta MTIA | 추론·랭킹용 자체 칩 | 🟢 +0.10 (2026-09-21) | AI 에이전트 앱 '뮤즈'가 챗GPT를 제치고 앱스토어 1위에 올랐지만, 업계 전반의 AI 안전사고 공개 확산은 규제 리스크로 남았다 | [META](../../tickers/META - Meta Platforms Inc.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)
