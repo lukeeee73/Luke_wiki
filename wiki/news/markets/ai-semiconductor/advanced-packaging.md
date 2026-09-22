@@ -1,7 +1,7 @@
 ---
 title: "첨단 패키징 (CoWoS·SoIC) — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-08
+updated: 2026-09-22
 domain: finance
 type: claim
 weight: reference
@@ -47,10 +47,10 @@ GPU 로직 다이와 HBM 스택을 실리콘 인터포저 위에 통합 — 가�
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| TSMC | 지배 (CoWoS-L/S·SoIC) · NVDA가 60–63% 선점 · 점유 80% | 🟢 +0.19 (2026-09-08) | TSMC가 반도체 장비를 예상보다 훨씬 많이 사들이고 있다는 소식과 경영진의 자사주 매입 소식이 겹치며 순풍이 이어졌다. | [TSM](../../tickers/TSM - Taiwan Semiconductor Mfg.md) |
-| Amkor | 2차 CoWoS · 미국 증설 · 점유 5% | ⚪ +0.00 (2026-09-08) | 이번 기간 앰코 단독으로 확인된 새 소식은 없어 조용한 관망 구간이었다. | [AMKR](../../tickers/AMKR - Amkor Technology, Inc.md) |
+| TSMC | 지배 (CoWoS-L/S·SoIC) · NVDA가 60–63% 선점 · 점유 80% | 🟢 +0.08 (2026-09-22) | 대만 남부에 TSMC가 참여하는 첨단 패키징 산업단지가 착공했고 반도체 업종 전반이 반등하며 완만한 순풍이 불었다. | [TSM](../../tickers/TSM - Taiwan Semiconductor Mfg.md) |
+| Amkor | 2차 CoWoS · 미국 증설 · 점유 5% | 🟢 +0.16 (2026-09-22) | 앰코가 애리조나 첨단패키징 2단계 투자를 70억달러에서 120억달러로 크게 늘리며 AI 수요에 대한 자신감을 보였다. | [AMKR](../../tickers/AMKR - Amkor Technology, Inc.md) |
 | ASE | CoWoS + CoWoP 대안 · 점유 12% | watchlist 외 | — | `ASX` |
-| Intel | EMIB/Foveros (오버플로 수주) · 점유 3% | 🟢 +0.10 (2026-09-08) | 인텔이 서버용 반도체 수요 기대감에 주가가 올랐지만 증권사는 오히려 목표주가를 낮췄다. | [INTC](../../tickers/INTC - Intel Corporation.md) |
+| Intel | EMIB/Foveros (오버플로 수주) · 점유 3% | 🟢🟢 +0.25 (2026-09-22) | 인텔 주가가 하루 만에 12% 급등해 두 달 반 만의 최고치를 찍었다. | [INTC](../../tickers/INTC - Intel Corporation.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)
