@@ -1,7 +1,7 @@
 ---
 title: "맞춤형 AI ASIC·XPU — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-21
+updated: 2026-09-22
 domain: finance
 type: claim
 weight: reference
@@ -47,8 +47,8 @@ sources: ["https://www.tomshardware.com/tech-industry/semiconductors/custom-ai-a
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Broadcom | 코디자인 ~60% (Google·Meta·OpenAI) · 점유 60% | 🟢 +0.16 (2026-09-08) | 브로드컴이 인공지능 반도체 매출이 두 배 넘게 늘어난 실적을 발표했지만 이미 높았던 기대치 탓에 주가 반응은 차분했다. | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
-| Marvell | ~25% (Amazon·Microsoft) · 점유 25% | ⚪ +0.05 (2026-09-08) | 마벨 주가가 실적 발표 후 급락했던 흐름에서 벗어나 반등했고 다음 달 투자자의 날이 다음 관전 포인트로 떠올랐다. | [MRVL](../../tickers/MRVL - Marvell Technology, Inc.md) |
+| Broadcom | 코디자인 ~60% (Google·Meta·OpenAI) · 점유 60% | 🔴 -0.10 (2026-09-22) | 'AI 개발 속도를 늦추자'는 업계 논쟁 여파로 브로드컴 주가가 하루 만에 3% 넘게 빠졌다. | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
+| Marvell | ~25% (Amazon·Microsoft) · 점유 25% | 🟢 +0.11 (2026-09-22) | AI 인프라 행사에서 신제품을 선보이고 애널리스트가 미래 시장 전망을 크게 올리면서, 실적 발표 후 빠졌던 주가가 이전 수준을 완전히 회복했다. | [MRVL](../../tickers/MRVL - Marvell Technology, Inc.md) |
 | Google TPU | 최대 내부 XPU (v7 Ironwood) | 🟢 +0.13 (2026-09-21) | 애드테크 소송 구제조치가 강제매각 대신 6년 준수감독관으로 정리되며 최악은 피했지만, 제미나이 보안사고와 캘리포니아 AI 규제명령이 새 리스크로 떠올랐다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
 | Amazon Trainium | Trainium3 (3nm) | ⚪ +0.02 (2026-09-21) | 제너락과의 대형 데이터센터 전력 계약으로 AI 인프라 확장을 이어갔지만, EU 가격조항 조사와 미 상원의 FTC조사 요구가 겹치며 규제 압박이 커졌다 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
 | Microsoft Maia | 내부용 자체 실리콘 | 🟢 +0.15 (2026-09-21) | 분기 배당을 8% 올리고 정부向 AI·보안 제품 'M365 G7'을 발표했지만, 자사 AI 총괄이 업계 AI 안전 이슈를 직접 경고하며 규제 리스크도 부각됐다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |

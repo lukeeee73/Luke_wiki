@@ -1,7 +1,7 @@
 ---
 title: "차량용·자율주행 반도체 — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-16
+updated: 2026-09-22
 domain: finance
 type: claim
 weight: reference
@@ -45,9 +45,9 @@ ADAS·자율주행·디지털 콕핏용 칩. 고가 AD SoC가 다중 센서를 �
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Mobileye | 카메라 ADAS ~65–70% (점유율 하락중) · 점유 65% | 🔴 -0.07 (2026-09-08) | 테슬라가 무인 택시 상업 운행을 실제로 시작하며 모빌아이가 우려하던 경쟁 위협이 현실화됐다. | [MBLY](../../tickers/MBLY - Mobileye Global Inc.md) |
-| NVIDIA | 고급 AD/로보택시 (Drive Thor) · 점유 10% | 🟢 +0.17 (2026-09-08) | 엔비디아가 오픈소스 AI 플랫폼 허깅페이스를 13조원 규모에 인수하며 주가가 사상 최고치에 다가섰다. | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
-| Qualcomm | Snapdragon Ride · 점유 8% | 🟢 +0.11 (2026-09-08) | 퀄컴이 스마트반지 스타트업에 투자하며 스마트폰을 넘어선 사업 확장을 이어갔고 주가도 저점 대비 반등했다. | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
+| Mobileye | 카메라 ADAS ~65–70% (점유율 하락중) · 점유 65% | ⚪ -0.01 (2026-09-22) | 모빌아이는 대표이사 공백 속에 기존 임원 역할을 공식화해 조직을 안정시켰지만, 뚜렷한 사업 촉매는 없는 조용한 하루였다. | [MBLY](../../tickers/MBLY - Mobileye Global Inc.md) |
+| NVIDIA | 고급 AD/로보택시 (Drive Thor) · 점유 10% | 🟢 +0.14 (2026-09-22) | 엔비디아는 내년 반도체 판매량을 지금의 두 배로 늘리겠다고 밝혔지만, 반도체 업종 전체가 급등한 날 경쟁사들보다는 덜 올랐다. | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
+| Qualcomm | Snapdragon Ride · 점유 8% | 🔴 -0.15 (2026-09-22) | 최대 고객사 애플의 주문 물량이 예상보다 더 빨리 줄어들고 있다는 사실이 확인됐다. | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
 | Tesla | 자체 FSD/AI5 실리콘 · 점유 7% | 🟢 +0.17 (2026-09-16) | 테슬라가 경쟁사들의 전기차 사업 축소 속에 미국 전기차 시장 점유율을 절반 이상으로 되찾았고, 9년 만에 로드스터 공개일도 확정됐다 | [TSLA](../../tickers/TSLA - Tesla Inc.md) |
 <!-- PLAYERS_END -->
 

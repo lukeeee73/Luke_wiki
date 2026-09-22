@@ -1,7 +1,7 @@
 ---
 title: "네오클라우드 · GPU 클라우드 — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-21
+updated: 2026-09-22
 domain: finance
 type: claim
 weight: reference
@@ -50,7 +50,7 @@ sources: ["https://www.srgresearch.com/articles/neoclouds-currently-growing-by-o
 | CoreWeave | 최대 독립 네오클라우드 — Q1’26 매출 $2.08B(+112%), 잔고 $99.4B | 🟢 +0.09 (2026-09-21) | 신규 고객 계약 250억달러를 추가 확보해 가이던스를 상향했지만, 최대 37억달러 전환사채 발행으로 희석 우려도 함께 불거졌다 | [CRWV](../../tickers/CRWV - CoreWeave, Inc.md) |
 | Nebius | 2위권 급성장 — 잔고 ~$50B(Meta·MS), 계약전력 3GW+ | 🟢 +0.10 (2026-09-21) | GPU 클라우드 요금을 최대 21% 인상하며 가격결정력을 재확인했지만, 인상 전 한달간 22% 급락할 정도로 재무 부담 우려도 여전하다 | [NBIS](../../tickers/NBIS - Nebius Group N.V.md) |
 | Oracle OCI | 준네오클라우드 — OpenAI Stargate $300B, capex/매출 76% | 🟢 +0.12 (2026-09-21) | 쿼럼헬스 11개 병원의 오라클헬스 EHR 도입 등 엔터프라이즈 수주가 이어졌고 자바27 출시로 개발자 생태계 투자도 계속됐다 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
-| NVIDIA | 공급자 겸 앵커 투자자 — $110B+ 순환금융의 중심 | 🟢 +0.17 (2026-09-08) | 엔비디아가 오픈소스 AI 플랫폼 허깅페이스를 13조원 규모에 인수하며 주가가 사상 최고치에 다가섰다. | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
+| NVIDIA | 공급자 겸 앵커 투자자 — $110B+ 순환금융의 중심 | 🟢 +0.14 (2026-09-22) | 엔비디아는 내년 반도체 판매량을 지금의 두 배로 늘리겠다고 밝혔지만, 반도체 업종 전체가 급등한 날 경쟁사들보다는 덜 올랐다. | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
 | Crusoe · Lambda · Together | 비상장 — 에너지 연계·MS 계약·추론 특화 | — | — | 비상장 |
 | IREN · Cipher · Core Scientific | 채굴사→AI 전환 — 전력자산 재평가 (MS $9.7B 등) | watchlist 외 | — | `IREN` |
 <!-- PLAYERS_END -->
