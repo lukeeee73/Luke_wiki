@@ -1,7 +1,7 @@
 ---
 title: "휴머노이드 로봇 · 피지컬 AI — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-22
+updated: 2026-09-23
 domain: finance
 type: claim
 weight: reference
@@ -45,7 +45,7 @@ AI 파운데이션 모델(VLA)을 탑재해 실세계 범용 작업을 수행하
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Tesla (Optimus) | Optimus V3 ’26 양산 목표 — 핸드 설계·희토류 이슈로 지연 | 🟢 +0.17 (2026-09-16) | 테슬라가 경쟁사들의 전기차 사업 축소 속에 미국 전기차 시장 점유율을 절반 이상으로 되찾았고, 9년 만에 로드스터 공개일도 확정됐다 | [TSLA](../../tickers/TSLA - Tesla Inc.md) |
+| Tesla (Optimus) | Optimus V3 ’26 양산 목표 — 핸드 설계·희토류 이슈로 지연 | 🔴🔴 -0.20 (2026-09-23) | 사이버캡 출시가 기대에 못 미쳤고 NHTSA 감사까지 겹쳐 주가가 급락했지만, 10월 1일 로드스터 공개가 예정돼 있다. | [TSLA](../../tickers/TSLA - Tesla Inc.md) |
 | NVIDIA | Jetson Thor + Isaac GR00T — 로보틱스의 '안드로이드' 전략 (무기상) | 🟢 +0.14 (2026-09-22) | 엔비디아는 내년 반도체 판매량을 지금의 두 배로 늘리겠다고 밝혔지만, 반도체 업종 전체가 급등한 날 경쟁사들보다는 덜 올랐다. | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
 | Figure AI | Figure 03 + Helix VLA, BotQ 자체 양산 (비상장, ~$39B) | — | — | 비상장 |
 | Unitree | 저가 휴머노이드(G1 $16K) 출하 1위권, 상하이 IPO 추진 | — | — | 비상장 |
