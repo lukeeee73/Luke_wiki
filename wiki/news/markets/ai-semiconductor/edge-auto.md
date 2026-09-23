@@ -1,7 +1,7 @@
 ---
 title: "차량용·자율주행 반도체 — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-22
+updated: 2026-09-23
 domain: finance
 type: claim
 weight: reference
@@ -48,7 +48,7 @@ ADAS·자율주행·디지털 콕핏용 칩. 고가 AD SoC가 다중 센서를 �
 | Mobileye | 카메라 ADAS ~65–70% (점유율 하락중) · 점유 65% | ⚪ -0.01 (2026-09-22) | 모빌아이는 대표이사 공백 속에 기존 임원 역할을 공식화해 조직을 안정시켰지만, 뚜렷한 사업 촉매는 없는 조용한 하루였다. | [MBLY](../../tickers/MBLY - Mobileye Global Inc.md) |
 | NVIDIA | 고급 AD/로보택시 (Drive Thor) · 점유 10% | 🟢 +0.14 (2026-09-22) | 엔비디아는 내년 반도체 판매량을 지금의 두 배로 늘리겠다고 밝혔지만, 반도체 업종 전체가 급등한 날 경쟁사들보다는 덜 올랐다. | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
 | Qualcomm | Snapdragon Ride · 점유 8% | 🔴 -0.15 (2026-09-22) | 최대 고객사 애플의 주문 물량이 예상보다 더 빨리 줄어들고 있다는 사실이 확인됐다. | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
-| Tesla | 자체 FSD/AI5 실리콘 · 점유 7% | 🟢 +0.17 (2026-09-16) | 테슬라가 경쟁사들의 전기차 사업 축소 속에 미국 전기차 시장 점유율을 절반 이상으로 되찾았고, 9년 만에 로드스터 공개일도 확정됐다 | [TSLA](../../tickers/TSLA - Tesla Inc.md) |
+| Tesla | 자체 FSD/AI5 실리콘 · 점유 7% | 🔴🔴 -0.20 (2026-09-23) | 사이버캡 출시가 기대에 못 미쳤고 NHTSA 감사까지 겹쳐 주가가 급락했지만, 10월 1일 로드스터 공개가 예정돼 있다. | [TSLA](../../tickers/TSLA - Tesla Inc.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)
