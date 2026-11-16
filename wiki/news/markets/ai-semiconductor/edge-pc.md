@@ -1,7 +1,7 @@
 ---
 title: "AI PC — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-22
+updated: 2026-11-16
 domain: finance
 type: claim
 weight: reference
@@ -46,7 +46,7 @@ sources: ["https://counterpointresearch.com/en/reports/ai-advanced-pcs-to-surpas
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
 | Intel | ~45–56% (Core Ultra) · 점유 50% | 🟢🟢 +0.25 (2026-09-22) | 인텔 주가가 하루 만에 12% 급등해 두 달 반 만의 최고치를 찍었다. | [INTC](../../tickers/INTC - Intel Corporation.md) |
-| Apple | ~20–24% 자체 M시리즈 · 점유 22% | 🟢 +0.12 (2026-09-21) | 아이폰18이 정식 출시되며 전 세계 매장에 긴 줄이 이어졌고 BofA도 견조한 초기 수요 신호를 포착했다 | [AAPL](../../tickers/AAPL - Apple Inc.md) |
+| Apple | ~20–24% 자체 M시리즈 · 점유 22% | ⚪ +0.02 (2026-11-16) | 4분기 실적은 예상을 상회했지만 메모리 원가 우려로 주가는 하락했고, 중국向 아이패드·맥용 AI 기능 승인에는 진전이 있었다 | [AAPL](../../tickers/AAPL - Apple Inc.md) |
 | AMD | #3 (Ryzen AI) · 점유 18% | 🟢🟢 +0.29 (2026-09-22) | 에이엠디 주가가 하루 만에 10% 뛰며 사상 처음으로 기업가치 1조 달러를 넘어섰다. | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
 | Qualcomm | Snapdragon X (Arm, 최고속 성장) · 점유 5% | 🔴 -0.15 (2026-09-22) | 최대 고객사 애플의 주문 물량이 예상보다 더 빨리 줄어들고 있다는 사실이 확인됐다. | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
 <!-- PLAYERS_END -->
