@@ -1,7 +1,7 @@
 ---
 title: "AI 소프트웨어·모델 — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-21
+updated: 2026-11-16
 domain: finance
 type: claim
 weight: reference
@@ -47,9 +47,9 @@ sources: ["https://menlovc.com/perspective/2025-the-state-of-generative-ai-in-th
 |---|---|---|---|---|
 | OpenAI | 프런티어 랩 (비상장, ~$852B 평가) | — | — | 비상장 |
 | Anthropic | 프런티어 랩 (비상장) | — | — | 비상장 |
-| Google DeepMind | Gemini | 🟢 +0.13 (2026-09-21) | 애드테크 소송 구제조치가 강제매각 대신 6년 준수감독관으로 정리되며 최악은 피했지만, 제미나이 보안사고와 캘리포니아 AI 규제명령이 새 리스크로 떠올랐다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
-| Microsoft | OpenAI 제휴 + 자체 | 🟢 +0.15 (2026-09-21) | 분기 배당을 8% 올리고 정부向 AI·보안 제품 'M365 G7'을 발표했지만, 자사 AI 총괄이 업계 AI 안전 이슈를 직접 경고하며 규제 리스크도 부각됐다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
-| Meta | Llama (오픈웨이트) | 🟢 +0.10 (2026-09-21) | AI 에이전트 앱 '뮤즈'가 챗GPT를 제치고 앱스토어 1위에 올랐지만, 업계 전반의 AI 안전사고 공개 확산은 규제 리스크로 남았다 | [META](../../tickers/META - Meta Platforms Inc.md) |
+| Google DeepMind | Gemini | 🔴 -0.14 (2026-11-16) | 3분기 실적 후 검색광고 성장 둔화와 AI 투자 부담으로 주가가 12%대 급락했고, 새 증권소송까지 겹쳤다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
+| Microsoft | OpenAI 제휴 + 자체 | 🟢 +0.18 (2026-11-16) | 애저 성장률이 48%로 가속하며 주가가 사상 최고치를 찍었고, 앤트로픽과 449억달러 규모 애저 계약도 확대했다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
+| Meta | Llama (오픈웨이트) | 🟢 +0.16 (2026-11-16) | JPMorgan이 알파벳 대신 메타를 최선호 종목으로 교체하며 주가가 올랐고, 저가형 AI 모델과 주식분할 발표도 이어졌다 | [META](../../tickers/META - Meta Platforms Inc.md) |
 | xAI | Grok (비상장) | — | — | 비상장 |
 <!-- PLAYERS_END -->
 

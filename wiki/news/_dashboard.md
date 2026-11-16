@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-09-24
+updated: 2026-11-16
 domain: finance
 type: index
 weight: reference
@@ -39,16 +39,16 @@ sources: []
 
 | Ticker                                          | as_of      | score  | 핵심 한 줄                                         | open claims |
 | ----------------------------------------------- | ---------- | ------ | ----------------------------------------------- | ----------- |
-| [AAPL](tickers/AAPL - Apple Inc.md) | 2026-09-21 | 🟢 +0.12 | 아이폰18이 정식 출시되며 전 세계 매장에 긴 줄이 이어졌고 BofA도 견조한 초기 수요 신호를 포착했다 | 6 |
-| [MSFT](tickers/MSFT - Microsoft Corporation.md) | 2026-09-21 | 🟢 +0.15 | 분기 배당을 8% 올리고 정부向 AI·보안 제품 'M365 G7'을 발표했지만, 자사 AI 총괄이 업계 AI 안전 이슈를 직접 경고하며 규제 리스크도 부각됐다 | 9 |
-| [GOOGL](tickers/GOOGL - Alphabet Inc.md) | 2026-09-21 | 🟢 +0.13 | 애드테크 소송 구제조치가 강제매각 대신 6년 준수감독관으로 정리되며 최악은 피했지만, 제미나이 보안사고와 캘리포니아 AI 규제명령이 새 리스크로 떠올랐다 | 11 |
-| [AMZN](tickers/AMZN - Amazon.com Inc.md) | 2026-09-21 | ⚪ +0.02 | 제너락과의 대형 데이터센터 전력 계약으로 AI 인프라 확장을 이어갔지만, EU 가격조항 조사와 미 상원의 FTC조사 요구가 겹치며 규제 압박이 커졌다 | 8 |
-| [META](tickers/META - Meta Platforms Inc.md) | 2026-09-21 | 🟢 +0.10 | AI 에이전트 앱 '뮤즈'가 챗GPT를 제치고 앱스토어 1위에 올랐지만, 업계 전반의 AI 안전사고 공개 확산은 규제 리스크로 남았다 | 9 |
-| [ORCL](tickers/ORCL - Oracle Corporation.md) | 2026-09-21 | 🟢 +0.12 | 쿼럼헬스 11개 병원의 오라클헬스 EHR 도입 등 엔터프라이즈 수주가 이어졌고 자바27 출시로 개발자 생태계 투자도 계속됐다 | 4 |
-| [CRM](tickers/CRM - Salesforce, Inc.md) | 2026-09-21 | 🟢 +0.19 | 2030 회계연도 매출목표로 630억달러 이상을 제시해 컨센서스를 웃돌았고 BMO·웰스파고가 잇달아 목표주가를 상향했다 | 3 |
-| [ADBE](tickers/ADBE - Adobe Inc.md) | 2026-09-21 | 🟢 +0.05 | 지난주 가이던스 실망 급락 이후 DA데이비슨이 목표주가를 290달러로 올리며 저점 매수 시각이 처음 나타났다 | 3 |
-| [IBM](tickers/IBM - International Business Machines.md) | 2026-09-21 | ⚪ -0.02 | 자회사 앤더론이 양자 파운드리 정부지원 10억달러를 확정지었지만, 같은 날 2026년 매출 가이던스를 낮추며 호재를 상쇄했다 | 6 |
-| [PLTR](tickers/PLTR - Palantir Technologies Inc.md) | 2026-09-21 | ⚪ 0.00 | 카프 CEO의 'AI랩 국유화' 발언이 화제를 모았지만 사업과 직결된 새 촉매는 없는 조용한 하루였다 | 8 |
+| [AAPL](tickers/AAPL - Apple Inc.md) | 2026-11-16 | ⚪ +0.02 | 4분기 실적은 예상을 상회했지만 메모리 원가 우려로 주가는 하락했고, 중국向 아이패드·맥용 AI 기능 승인에는 진전이 있었다 | 6 |
+| [MSFT](tickers/MSFT - Microsoft Corporation.md) | 2026-11-16 | 🟢 +0.18 | 애저 성장률이 48%로 가속하며 주가가 사상 최고치를 찍었고, 앤트로픽과 449억달러 규모 애저 계약도 확대했다 | 7 |
+| [GOOGL](tickers/GOOGL - Alphabet Inc.md) | 2026-11-16 | 🔴 -0.14 | 3분기 실적 후 검색광고 성장 둔화와 AI 투자 부담으로 주가가 12%대 급락했고, 새 증권소송까지 겹쳤다 | 11 |
+| [AMZN](tickers/AMZN - Amazon.com Inc.md) | 2026-11-16 | ⚪ +0.04 | AWS 매출이 39% 성장하고 마진도 개선됐지만, 대규모 투자계획 부담 우려로 주가는 약세를 보였다 | 5 |
+| [META](tickers/META - Meta Platforms Inc.md) | 2026-11-16 | 🟢 +0.16 | JPMorgan이 알파벳 대신 메타를 최선호 종목으로 교체하며 주가가 올랐고, 저가형 AI 모델과 주식분할 발표도 이어졌다 | 4 |
+| [ORCL](tickers/ORCL - Oracle Corporation.md) | 2026-11-16 | 🟢 +0.05 | 200억달러 추가 자금조달 발표에 주가가 한번 빠졌지만, 경쟁사 코어위브 실적에 업계 부채 우려가 풀리며 더 크게 반등했다 | 3 |
+| [CRM](tickers/CRM - Salesforce, Inc.md) | 2026-11-16 | ⚪ +0.02 | 음성 AI 기업 크레스타를 인수해 고객서비스 AI 포트폴리오를 넓혔지만, 주가 반응은 미온적이었다 | 5 |
+| [ADBE](tickers/ADBE - Adobe Inc.md) | 2026-11-16 | 🔴 -0.15 | 씨티가 매도로 하향(목표가 207달러)했는데 3주 내 세 번째 하향이라, 신임 CEO 취임을 앞두고 우려가 더 커졌다 | 10 |
+| [IBM](tickers/IBM - International Business Machines.md) | 2026-11-16 | ⚪ +0.03 | 양자프로세서 '나이트호크 R3'와 AMD·오크리지 협력을 발표했지만, 단기 실적과는 무관한 소식이었다 | 6 |
+| [PLTR](tickers/PLTR - Palantir Technologies Inc.md) | 2026-11-16 | 🟢🟢 +0.28 | 3분기 매출이 96% 급증했고 미국 민간기업 매출이 처음으로 정부 매출을 넘어섰지만, 고평가 논쟁은 여전하다 | 5 |
 
 ### 반도체 — AI 칩 · 설계
 
@@ -101,11 +101,11 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [ANET](tickers/ANET - Arista Networks, Inc.md) | 2026-09-21 | 🟢 +0.10 | 예고됐던 S&P100 지수 편입이 오늘 실제로 발효됐고, 편입을 앞둔 최근 5거래일간 주가가 5.6% 오르며 강세가 이어졌다 | 3 |
-| [COHR](tickers/COHR - Coherent Corp.md) | 2026-09-21 | 🟢 +0.11 | 예고했던 ECOC 2026 행사에서 실제로 차세대 광통신 기술들을 대거 공개했고 신규 고용량 광전송시스템 발표로도 주가가 급등했다 | 5 |
-| [MPWR](tickers/MPWR - Monolithic Power Systems.md) | 2026-09-21 | ⚪ 0.00 | 뚜렷한 자체 촉매 없이 조용한 하루였고, 경쟁사 TXN·ADI가 AI데이터센터 전력반도체 최선호주로 거론된 점만 지켜볼 만하다 | 5 |
-| [CRWV](tickers/CRWV - CoreWeave, Inc.md) | 2026-09-21 | 🟢 +0.09 | 신규 고객 계약 250억달러를 추가 확보해 가이던스를 상향했지만, 최대 37억달러 전환사채 발행으로 희석 우려도 함께 불거졌다 | 8 |
-| [NBIS](tickers/NBIS - Nebius Group N.V.md) | 2026-09-21 | 🟢 +0.10 | GPU 클라우드 요금을 최대 21% 인상하며 가격결정력을 재확인했지만, 인상 전 한달간 22% 급락할 정도로 재무 부담 우려도 여전하다 | 6 |
+| [ANET](tickers/ANET - Arista Networks, Inc.md) | 2026-11-16 | 🟢🟢 +0.26 | 3분기 매출이 58.5% 급증했고 2027년 매출 전망도 크게 올려잡았다 | 2 |
+| [COHR](tickers/COHR - Coherent Corp.md) | 2026-11-16 | 🟢 +0.17 | 1분기 실적은 서프라이즈였지만 자금조달 우려로 주가는 급락한 뒤 일부만 되돌렸다 | 3 |
+| [MPWR](tickers/MPWR - Monolithic Power Systems.md) | 2026-11-16 | 🟢🟢 +0.35 | 3분기 매출이 처음 10억달러를 넘기며 전력반도체 수요가 자체 목표마저 다시 뛰어넘었다 | 2 |
+| [CRWV](tickers/CRWV - CoreWeave, Inc.md) | 2026-11-16 | 🟢🟢 +0.28 | 매출은 2배로 늘었지만 이자비용이 더 빠르게 불어나 순손실이 커졌다 | 2 |
+| [NBIS](tickers/NBIS - Nebius Group N.V.md) | 2026-11-16 | ⚪ +0.01 | 매출이 크게 늘었다지만 상당 부분 일회성이었고 데이터센터 공사 지연으로 목표를 낮췄다 | 1 |
 
 ### 로보틱스 / 피지컬 AI
 

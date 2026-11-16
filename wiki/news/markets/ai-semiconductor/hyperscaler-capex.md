@@ -1,7 +1,7 @@
 ---
 title: "하이퍼스케일러·프런티어 CAPEX — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-21
+updated: 2026-11-16
 domain: finance
 type: claim
 weight: reference
@@ -47,11 +47,11 @@ sources: ["https://www.tomshardware.com/tech-industry/big-tech/big-techs-ai-spen
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Amazon | ~$200B (‘26) · 점유 28% | ⚪ +0.02 (2026-09-21) | 제너락과의 대형 데이터센터 전력 계약으로 AI 인프라 확장을 이어갔지만, EU 가격조항 조사와 미 상원의 FTC조사 요구가 겹치며 규제 압박이 커졌다 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
-| Microsoft | ~$190B (‘26) · 점유 26% | 🟢 +0.15 (2026-09-21) | 분기 배당을 8% 올리고 정부向 AI·보안 제품 'M365 G7'을 발표했지만, 자사 AI 총괄이 업계 AI 안전 이슈를 직접 경고하며 규제 리스크도 부각됐다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
-| Alphabet | $180–190B (‘26) · 점유 26% | 🟢 +0.13 (2026-09-21) | 애드테크 소송 구제조치가 강제매각 대신 6년 준수감독관으로 정리되며 최악은 피했지만, 제미나이 보안사고와 캘리포니아 AI 규제명령이 새 리스크로 떠올랐다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
-| Meta | $125–145B (‘26) · 점유 19% | 🟢 +0.10 (2026-09-21) | AI 에이전트 앱 '뮤즈'가 챗GPT를 제치고 앱스토어 1위에 올랐지만, 업계 전반의 AI 안전사고 공개 확산은 규제 리스크로 남았다 | [META](../../tickers/META - Meta Platforms Inc.md) |
-| Oracle | Stargate 연계 | 🟢 +0.12 (2026-09-21) | 쿼럼헬스 11개 병원의 오라클헬스 EHR 도입 등 엔터프라이즈 수주가 이어졌고 자바27 출시로 개발자 생태계 투자도 계속됐다 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
+| Amazon | ~$200B (‘26) · 점유 28% | ⚪ +0.04 (2026-11-16) | AWS 매출이 39% 성장하고 마진도 개선됐지만, 대규모 투자계획 부담 우려로 주가는 약세를 보였다 | [AMZN](../../tickers/AMZN - Amazon.com Inc.md) |
+| Microsoft | ~$190B (‘26) · 점유 26% | 🟢 +0.18 (2026-11-16) | 애저 성장률이 48%로 가속하며 주가가 사상 최고치를 찍었고, 앤트로픽과 449억달러 규모 애저 계약도 확대했다 | [MSFT](../../tickers/MSFT - Microsoft Corporation.md) |
+| Alphabet | $180–190B (‘26) · 점유 26% | 🔴 -0.14 (2026-11-16) | 3분기 실적 후 검색광고 성장 둔화와 AI 투자 부담으로 주가가 12%대 급락했고, 새 증권소송까지 겹쳤다 | [GOOGL](../../tickers/GOOGL - Alphabet Inc.md) |
+| Meta | $125–145B (‘26) · 점유 19% | 🟢 +0.16 (2026-11-16) | JPMorgan이 알파벳 대신 메타를 최선호 종목으로 교체하며 주가가 올랐고, 저가형 AI 모델과 주식분할 발표도 이어졌다 | [META](../../tickers/META - Meta Platforms Inc.md) |
+| Oracle | Stargate 연계 | 🟢 +0.05 (2026-11-16) | 200억달러 추가 자금조달 발표에 주가가 한번 빠졌지만, 경쟁사 코어위브 실적에 업계 부채 우려가 풀리며 더 크게 반등했다 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
 | OpenAI | 26GW 약정 (비상장) | — | — | 비상장 |
 <!-- PLAYERS_END -->
 

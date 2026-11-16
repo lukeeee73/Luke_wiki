@@ -1,7 +1,7 @@
 ---
 title: "국방 AI · 지휘통제 (C2) — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-21
+updated: 2026-11-16
 domain: finance
 type: claim
 weight: reference
@@ -47,7 +47,7 @@ AI 기반 지휘통제(C2)·표적인식·군집 오케스트레이션 소프트
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Palantir | Maven Smart System — DoD AI C2 사실상 표준 (한도 $1.3B) | ⚪ 0.00 (2026-09-21) | 카프 CEO의 'AI랩 국유화' 발언이 화제를 모았지만 사업과 직결된 새 촉매는 없는 조용한 하루였다 | [PLTR](../../tickers/PLTR - Palantir Technologies Inc.md) |
+| Palantir | Maven Smart System — DoD AI C2 사실상 표준 (한도 $1.3B) | 🟢🟢 +0.28 (2026-11-16) | 3분기 매출이 96% 급증했고 미국 민간기업 매출이 처음으로 정부 매출을 넘어섰지만, 고평가 논쟁은 여전하다 | [PLTR](../../tickers/PLTR - Palantir Technologies Inc.md) |
 | Anduril | Lattice OS — 자율체계 통합 SW (비상장, $61B) | — | — | 비상장 |
 | Lockheed · RTX · Northrop | 전통 프라임 — AI 통합 미사일·C2·CCA | 🟢🟢 +0.28 (2026-09-13) | UBS가 미사일 수요 증가를 이유로 매수로 상향했고 공군·해군에서 미사일·어뢰 계약을 11억달러 넘게 추가로 수주했다 | [LMT](../../tickers/LMT - Lockheed Martin Corp.md) |
 <!-- PLAYERS_END -->
