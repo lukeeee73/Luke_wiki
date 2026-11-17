@@ -1,7 +1,7 @@
 ---
 title: "광 인터커넥트 — 시장 종합"
 created: 2026-07-06
-updated: 2026-11-16
+updated: 2026-11-17
 domain: finance
 type: claim
 weight: reference
@@ -48,7 +48,7 @@ sources: ["https://www.lightcounting.com/newsletter/en/july-2025-cloud-data-cent
 | InnoLight | 모듈 1위 (비상장/중국) · 점유 25% | — | — | 비상장 |
 | Coherent | 수직통합 · NVIDIA CPO 파트너 · 점유 15% | 🟢 +0.17 (2026-11-16) | 1분기 실적은 서프라이즈였지만 자금조달 우려로 주가는 급락한 뒤 일부만 되돌렸다 | [COHR](../../tickers/COHR - Coherent Corp.md) |
 | Lumentum | 레이저/CPO · 점유 10% | watchlist 외 | — | `LITE` |
-| Marvell · Broadcom | 실리콘 포토닉스/DSP | 🔴 -0.10 (2026-09-22) | 'AI 개발 속도를 늦추자'는 업계 논쟁 여파로 브로드컴 주가가 하루 만에 3% 넘게 빠졌다. | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
+| Marvell · Broadcom | 실리콘 포토닉스/DSP | ⚪ -0.02 (2026-11-17) | 한 증권사의 목표가 하향과 엔비디아 위기에 대한 반사수혜가 동시에 겹치며 주가가 혼조세를 보였다. | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
 | Eoptolink | 트랜시버 (비상장/중국) · 점유 12% | — | — | 비상장 |
 <!-- PLAYERS_END -->
 

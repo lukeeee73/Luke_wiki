@@ -1,7 +1,7 @@
 ---
 title: "핵심 소재 — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-22
+updated: 2026-11-17
 domain: finance
 type: claim
 weight: reference
@@ -45,7 +45,7 @@ sources: ["https://www.trendforce.com/news/2025/12/03/news-japan-rumored-to-curb
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Shin-Etsu Chemical | 실리콘 웨이퍼 1위 + 포토레지스트 (일본) | ⚪ -0.04 (2026-09-22) | 미국의 폴리실리콘 관세 세부 내용이 확정됐지만 한국·일본 등은 경감 조치를 받아 최악은 피했다. | [4063.T](../../tickers/4063.T - Shin-Etsu Chemical.md) |
+| Shin-Etsu Chemical | 실리콘 웨이퍼 1위 + 포토레지스트 (일본) | 🟢 +0.11 (2026-11-17) | 계약 외 물량의 웨이퍼 가격을 올리기 시작했고 설비투자 계획도 늘렸다. | [4063.T](../../tickers/4063.T - Shin-Etsu Chemical.md) |
 | SUMCO | 실리콘 웨이퍼 듀오폴리 (일본) | watchlist 외 | — | `3436.T` |
 | JSR · TOK | 고급 포토레지스트 (일본 >90% 집중) | — | — | 비상장 |
 <!-- PLAYERS_END -->

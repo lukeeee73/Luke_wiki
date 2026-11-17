@@ -1,7 +1,7 @@
 ---
 title: "반도체 IP · EDA — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-22
+updated: 2026-11-17
 domain: finance
 type: claim
 weight: reference
@@ -45,9 +45,9 @@ sources: ["https://www.synopsys.com/", "https://www.arm.com/"]
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Synopsys | EDA 1위 · 점유 30% | 🟢 +0.06 (2026-09-22) | 시놉시스는 한 증권사가 지난달 낮췄던 목표주가를 다시 올려 소폭 반등했지만, 실적과 주가 사이의 괴리는 아직 해소되지 않았다. | [SNPS](../../tickers/SNPS - Synopsys, Inc.md) |
-| Cadence | EDA 2위 · 점유 28% | 🟢 +0.14 (2026-09-22) | 케이던스 최고경영자가 '올해 고객 수요가 가장 강하다'고 밝히며 자신감을 보였고, 주가도 완만한 상승세를 이어갔다. | [CDNS](../../tickers/CDNS - Cadence Design Systems.md) |
-| ARM | CPU/GPU IP (ISA 표준) | 🟢 +0.16 (2026-09-22) | Arm은 대형 증권사의 신규 매수 의견과 실적 재조명에 힘입어 이번 달에만 주가가 17% 넘게 오르는 강세를 이어가고 있다. | [ARM](../../tickers/ARM - Arm Holdings plc.md) |
+| Synopsys | EDA 1위 · 점유 30% | 🟢 +0.14 (2026-11-17) | 투자자의 날 행사에서 2030년 성장 목표를 제시하고 아마존·오픈AI와의 대형 계약도 공개했다. | [SNPS](../../tickers/SNPS - Synopsys, Inc.md) |
+| Cadence | EDA 2위 · 점유 28% | 🟢 +0.15 (2026-11-17) | 3분기 매출이 22% 늘며 올해 세 번째로 가이던스를 올렸고 수주잔고도 사상 최대를 기록했다. | [CDNS](../../tickers/CDNS - Cadence Design Systems.md) |
+| ARM | CPU/GPU IP (ISA 표준) | 🔴 -0.14 (2026-11-17) | 로열티 매출 성장이 둔화되며 가이던스가 기대에 못 미쳤고, 퀄컴과의 소송에서도 패소했다. | [ARM](../../tickers/ARM - Arm Holdings plc.md) |
 | Siemens EDA | EDA 3위 (해외) · 점유 12% | — | — | 비상장 |
 <!-- PLAYERS_END -->
 

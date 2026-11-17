@@ -1,7 +1,7 @@
 ---
 title: "소버린·엔터프라이즈 AI — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-22
+updated: 2026-11-17
 domain: finance
 type: claim
 weight: reference
@@ -45,8 +45,8 @@ sources: ["https://www.nvidia.com/en-us/industries/global-public-sector/"]
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| NVIDIA | 국가 AI 팩토리 GPU 지배 공급 | 🟢 +0.14 (2026-09-22) | 엔비디아는 내년 반도체 판매량을 지금의 두 배로 늘리겠다고 밝혔지만, 반도체 업종 전체가 급등한 날 경쟁사들보다는 덜 올랐다. | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
-| AMD | MI 시리즈 대안 | 🟢🟢 +0.29 (2026-09-22) | 에이엠디 주가가 하루 만에 10% 뛰며 사상 처음으로 기업가치 1조 달러를 넘어섰다. | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
+| NVIDIA | 국가 AI 팩토리 GPU 지배 공급 | 🔴🔴 -0.25 (2026-11-17) | CEO 젠슨 황이 외도 스캔들로 사임하며 주가가 6주 연속 하락, 시가총액 1.7조 달러가 증발했고 오늘 밤 실적 발표가 분수령이다. | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
+| AMD | MI 시리즈 대안 | 🟢🟢 +0.26 (2026-11-17) | 3분기 실적이 예상을 크게 웃돈 데다 엔비디아의 리더십 공백에 반사이익까지 더해지며 주가가 급등했다. | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
 | Dell · HPE · Supermicro | 온프렘 시스템 통합 | watchlist 외 | — | `DELL` |
 <!-- PLAYERS_END -->
 
