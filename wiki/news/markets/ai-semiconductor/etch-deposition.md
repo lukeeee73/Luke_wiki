@@ -1,7 +1,7 @@
 ---
 title: "식각·증착 장비 — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-22
+updated: 2026-11-17
 domain: finance
 type: claim
 weight: reference
@@ -45,9 +45,9 @@ sources: ["https://www.semi.org/en/semi-press-release/global-total-semiconductor
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Applied Materials | 종합 1위 (~30–35%) · 점유 30% | 🟢 +0.11 (2026-09-22) | 어플라이드 머티어리얼즈가 인도에 10년간 5조원 넘게 투자하는 계획을 내놓았고 주가도 일주일 새 크게 올랐다. | [AMAT](../../tickers/AMAT - Applied Materials.md) |
-| Lam Research | 식각·증착 (메모리 강세) · 점유 20% | 🟢 +0.09 (2026-09-22) | 램리서치가 인도에 첫 부품 공장을 짓기로 하며 주가는 최고치를 새로 썼지만 경영진의 주식 매도는 계속됐다. | [LRCX](../../tickers/LRCX - Lam Research Corp.md) |
-| Tokyo Electron | 코터/디벨로퍼 1위 · 점유 18% | 🟢 +0.07 (2026-09-22) | 도쿄일렉트론이 미국 투자자 접근성을 넓히는 제도를 새로 만들고 인도에 인재 양성 거점도 마련했다. | [TOELY](../../tickers/TOELY - Tokyo Electron Limited.md) |
+| Applied Materials | 종합 1위 (~30–35%) · 점유 30% | 🟢 +0.07 (2026-11-17) | AI 투자 둔화 우려로 급락했다가 실적 발표를 앞두고 다시 11%대로 반등했다. | [AMAT](../../tickers/AMAT - Applied Materials.md) |
+| Lam Research | 식각·증착 (메모리 강세) · 점유 20% | 🟢 +0.08 (2026-11-17) | 250억 달러 규모 자사주매입을 승인했지만, 7월말 이후 하락분을 되돌리기엔 아직 부족하다. | [LRCX](../../tickers/LRCX - Lam Research Corp.md) |
+| Tokyo Electron | 코터/디벨로퍼 1위 · 점유 18% | 🟢 +0.19 (2026-11-17) | 2분기 실적 가이던스를 87% 올리고 신규 자사주매입까지 발표하며 주가가 뛰었다. | [TOELY](../../tickers/TOELY - Tokyo Electron Limited.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)

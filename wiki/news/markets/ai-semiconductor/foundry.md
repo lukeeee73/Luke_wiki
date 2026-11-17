@@ -1,7 +1,7 @@
 ---
 title: "첨단 파운드리 (≤3nm) — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-22
+updated: 2026-11-17
 domain: finance
 type: claim
 weight: reference
@@ -45,9 +45,9 @@ AI 가속기·모바일 AP·HPC를 만드는 최첨단 로직(3nm/2nm GAA) 위�
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| TSMC | 총 ~70% · 선단 ≤5nm 90%+ · 점유 70% | 🟢 +0.08 (2026-09-22) | 대만 남부에 TSMC가 참여하는 첨단 패키징 산업단지가 착공했고 반도체 업종 전반이 반등하며 완만한 순풍이 불었다. | [TSM](../../tickers/TSM - Taiwan Semiconductor Mfg.md) |
-| Samsung Foundry | ~7% (2nm GAA) · 점유 7% | 🟢🟢 +0.34 (2026-09-22) | 반도체 수출이 사상 최대를 기록하며 삼성전자 주가가 하루 만에 5% 급등하고 고속메모리 관련 부품사 주가까지 함께 뛰었다. | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
-| Intel Foundry | ~6% (18A, 외부고객 1곳) · 점유 6% | 🟢🟢 +0.25 (2026-09-22) | 인텔 주가가 하루 만에 12% 급등해 두 달 반 만의 최고치를 찍었다. | [INTC](../../tickers/INTC - Intel Corporation.md) |
+| TSMC | 총 ~70% · 선단 ≤5nm 90%+ · 점유 70% | 🟢 +0.16 (2026-11-17) | 10월 매출이 사상 최대를 기록하며 AI 반도체 수요 강세가 계속되고 있음을 다시 확인했다. | [TSM](../../tickers/TSM - Taiwan Semiconductor Mfg.md) |
+| Samsung Foundry | ~7% (2nm GAA) · 점유 7% | 🟢 +0.16 (2026-11-17) | HBM4 매출이 세 배로 늘고 내년 물량이 모두 팔렸다고 밝혔지만, 열흘 만에 주가는 19% 가까이 빠졌다. | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
+| Intel Foundry | ~6% (18A, 외부고객 1곳) · 점유 6% | 🔴🔴 -0.30 (2026-11-17) | 지난달 실적 가이던스 충격에 이어 엔비디아가 보유 지분 25%를 매각했다는 공시가 겹치며 주가가 추가로 약해졌다. | [INTC](../../tickers/INTC - Intel Corporation.md) |
 | GlobalFoundries | 성숙·특수공정 | watchlist 외 | — | `GFS` |
 | SMIC | 중국 최대 (DUV 7nm) | watchlist 외 | — | `0981.HK` |
 <!-- PLAYERS_END -->

@@ -1,7 +1,7 @@
 ---
 title: "범용 DRAM·NAND — 시장 종합"
 created: 2026-07-06
-updated: 2026-09-22
+updated: 2026-11-17
 domain: finance
 type: claim
 weight: reference
@@ -45,9 +45,9 @@ sources: ["https://www.idc.com/resource-center/blog/global-memory-shortage-crisi
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Samsung | DRAM/NAND 1위 · 점유 40% | 🟢🟢 +0.34 (2026-09-22) | 반도체 수출이 사상 최대를 기록하며 삼성전자 주가가 하루 만에 5% 급등하고 고속메모리 관련 부품사 주가까지 함께 뛰었다. | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
-| SK Hynix | DRAM 2위 + Solidigm · 점유 34% | 🟢 +0.13 (2026-09-22) | 반도체 수출 호조라는 같은 호재에도 SK하이닉스는 삼성전자보다 훨씬 덜 오르고 외국인 자금까지 빠져나갔다. | [000660.KS](../../tickers/000660.KS - SK Hynix.md) |
-| Micron | DRAM/NAND 3강 · 점유 22% | 🟢 +0.13 (2026-09-22) | 인텔 CEO의 메모리 부족 심화 발언에 마이크론 주가가 다시 1000달러를 넘었지만, 대만 노조와의 2차 협상 결렬로 파업 우려가 커졌다. | [MU](../../tickers/MU - Micron Technology.md) |
+| Samsung | DRAM/NAND 1위 · 점유 40% | 🟢 +0.16 (2026-11-17) | HBM4 매출이 세 배로 늘고 내년 물량이 모두 팔렸다고 밝혔지만, 열흘 만에 주가는 19% 가까이 빠졌다. | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
+| SK Hynix | DRAM 2위 + Solidigm · 점유 34% | 🟢 +0.19 (2026-11-17) | 3분기 영업이익률이 사상 최고인 80%를 기록했지만, 그런데도 주가는 큰 폭으로 밀렸다. | [000660.KS](../../tickers/000660.KS - SK Hynix.md) |
+| Micron | DRAM/NAND 3강 · 점유 22% | ⚪ +0.03 (2026-11-17) | 10월 한 차례 더 급락했지만, 역대급 실적 발표에도 주가는 눈에 띄게 반응하지 않았다. | [MU](../../tickers/MU - Micron Technology.md) |
 | Kioxia | NAND 주요 공급사 | watchlist 외 | — | `285A.T` |
 | SanDisk | NAND (구 WD) | watchlist 외 | — | `SNDK` |
 <!-- PLAYERS_END -->

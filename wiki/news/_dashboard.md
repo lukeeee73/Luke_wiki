@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-11-16
+updated: 2026-11-17
 domain: finance
 type: index
 weight: reference
@@ -54,48 +54,48 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [NVDA](tickers/NVDA - NVIDIA Corporation.md) | 2026-09-22 | 🟢 +0.14 | 엔비디아는 내년 반도체 판매량을 지금의 두 배로 늘리겠다고 밝혔지만, 반도체 업종 전체가 급등한 날 경쟁사들보다는 덜 올랐다. | 23 |
-| [AMD](tickers/AMD - Advanced Micro Devices.md) | 2026-09-22 | 🟢🟢 +0.29 | 에이엠디 주가가 하루 만에 10% 뛰며 사상 처음으로 기업가치 1조 달러를 넘어섰다. | 20 |
-| [AVGO](tickers/AVGO - Broadcom Inc.md) | 2026-09-22 | 🔴 -0.10 | 'AI 개발 속도를 늦추자'는 업계 논쟁 여파로 브로드컴 주가가 하루 만에 3% 넘게 빠졌다. | 22 |
-| [INTC](tickers/INTC - Intel Corporation.md) | 2026-09-22 | 🟢🟢 +0.25 | 인텔 주가가 하루 만에 12% 급등해 두 달 반 만의 최고치를 찍었다. | 21 |
-| [QCOM](tickers/QCOM - QUALCOMM Incorporated.md) | 2026-09-22 | 🔴 -0.15 | 최대 고객사 애플의 주문 물량이 예상보다 더 빨리 줄어들고 있다는 사실이 확인됐다. | 20 |
-| [MRVL](tickers/MRVL - Marvell Technology, Inc.md) | 2026-09-22 | 🟢 +0.11 | AI 인프라 행사에서 신제품을 선보이고 애널리스트가 미래 시장 전망을 크게 올리면서, 실적 발표 후 빠졌던 주가가 이전 수준을 완전히 회복했다. | 5 |
-| [2454.TW](tickers/2454.TW - MediaTek Inc.md) | 2026-09-22 | 🟢 +0.10 | 미디어텍이 세계 최초로 최신 공정을 적용한 신형 프리미엄 칩을 출시하며 주가가 오르고 기술 경쟁력을 다시 인정받았다. | 6 |
-| [MBLY](tickers/MBLY - Mobileye Global Inc.md) | 2026-09-22 | ⚪ -0.01 | 모빌아이는 대표이사 공백 속에 기존 임원 역할을 공식화해 조직을 안정시켰지만, 뚜렷한 사업 촉매는 없는 조용한 하루였다. | 5 |
-| [SNPS](tickers/SNPS - Synopsys, Inc.md) | 2026-09-22 | 🟢 +0.06 | 시놉시스는 한 증권사가 지난달 낮췄던 목표주가를 다시 올려 소폭 반등했지만, 실적과 주가 사이의 괴리는 아직 해소되지 않았다. | 5 |
-| [CDNS](tickers/CDNS - Cadence Design Systems.md) | 2026-09-22 | 🟢 +0.14 | 케이던스 최고경영자가 '올해 고객 수요가 가장 강하다'고 밝히며 자신감을 보였고, 주가도 완만한 상승세를 이어갔다. | 3 |
-| [ARM](tickers/ARM - Arm Holdings plc.md) | 2026-09-22 | 🟢 +0.16 | Arm은 대형 증권사의 신규 매수 의견과 실적 재조명에 힘입어 이번 달에만 주가가 17% 넘게 오르는 강세를 이어가고 있다. | 6 |
+| [NVDA](tickers/NVDA - NVIDIA Corporation.md) | 2026-11-17 | 🔴🔴 -0.25 | CEO 젠슨 황이 외도 스캔들로 사임하며 주가가 6주 연속 하락, 시가총액 1.7조 달러가 증발했고 오늘 밤 실적 발표가 분수령이다. | 24 |
+| [AMD](tickers/AMD - Advanced Micro Devices.md) | 2026-11-17 | 🟢🟢 +0.26 | 3분기 실적이 예상을 크게 웃돈 데다 엔비디아의 리더십 공백에 반사이익까지 더해지며 주가가 급등했다. | 9 |
+| [AVGO](tickers/AVGO - Broadcom Inc.md) | 2026-11-17 | ⚪ -0.02 | 한 증권사의 목표가 하향과 엔비디아 위기에 대한 반사수혜가 동시에 겹치며 주가가 혼조세를 보였다. | 10 |
+| [INTC](tickers/INTC - Intel Corporation.md) | 2026-11-17 | 🔴🔴 -0.30 | 지난달 실적 가이던스 충격에 이어 엔비디아가 보유 지분 25%를 매각했다는 공시가 겹치며 주가가 추가로 약해졌다. | 15 |
+| [QCOM](tickers/QCOM - QUALCOMM Incorporated.md) | 2026-11-17 | 🔴 -0.07 | 메모리 가격 상승 여파로 가이던스가 부진했지만, 암(Arm)과의 로열티 소송에서는 승소했다. | 9 |
+| [MRVL](tickers/MRVL - Marvell Technology, Inc.md) | 2026-11-17 | 🔴 -0.19 | 루멘텀 대형 인수 발표 후 한 증권사가 목표가를 크게 낮췄고, 엔비디아 리더십 위기에도 동반 하락했다. | 6 |
+| [2454.TW](tickers/2454.TW - MediaTek Inc.md) | 2026-11-17 | 🟢 +0.12 | 3분기 실적이 예상을 웃돌고 4분기 가이던스도 큰 폭 올렸지만, 삼성·퀄컴의 파운드리 협력이 새로운 경쟁 압박으로 떠올랐다. | 7 |
+| [MBLY](tickers/MBLY - Mobileye Global Inc.md) | 2026-11-17 | 🔴 -0.08 | 3분기 매출은 줄었고 테슬라 로보택시 확장으로 경쟁 압박이 커졌으며, 후임 대표이사 선임도 여전히 미정이다. | 7 |
+| [SNPS](tickers/SNPS - Synopsys, Inc.md) | 2026-11-17 | 🟢 +0.14 | 투자자의 날 행사에서 2030년 성장 목표를 제시하고 아마존·오픈AI와의 대형 계약도 공개했다. | 7 |
+| [CDNS](tickers/CDNS - Cadence Design Systems.md) | 2026-11-17 | 🟢 +0.15 | 3분기 매출이 22% 늘며 올해 세 번째로 가이던스를 올렸고 수주잔고도 사상 최대를 기록했다. | 4 |
+| [ARM](tickers/ARM - Arm Holdings plc.md) | 2026-11-17 | 🔴 -0.14 | 로열티 매출 성장이 둔화되며 가이던스가 기대에 못 미쳤고, 퀄컴과의 소송에서도 패소했다. | 6 |
 
 ### 반도체 — 메모리 (HBM·DRAM)
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [005930.KS](tickers/005930.KS - Samsung Electronics.md) | 2026-09-22 | 🟢🟢 +0.34 | 반도체 수출이 사상 최대를 기록하며 삼성전자 주가가 하루 만에 5% 급등하고 고속메모리 관련 부품사 주가까지 함께 뛰었다. | 7 |
-| [000660.KS](tickers/000660.KS - SK Hynix.md) | 2026-09-22 | 🟢 +0.13 | 반도체 수출 호조라는 같은 호재에도 SK하이닉스는 삼성전자보다 훨씬 덜 오르고 외국인 자금까지 빠져나갔다. | 6 |
-| [MU](tickers/MU - Micron Technology.md) | 2026-09-22 | 🟢 +0.13 | 인텔 CEO의 메모리 부족 심화 발언에 마이크론 주가가 다시 1000달러를 넘었지만, 대만 노조와의 2차 협상 결렬로 파업 우려가 커졌다. | 10 |
+| [005930.KS](tickers/005930.KS - Samsung Electronics.md) | 2026-11-17 | 🟢 +0.16 | HBM4 매출이 세 배로 늘고 내년 물량이 모두 팔렸다고 밝혔지만, 열흘 만에 주가는 19% 가까이 빠졌다. | 7 |
+| [000660.KS](tickers/000660.KS - SK Hynix.md) | 2026-11-17 | 🟢 +0.19 | 3분기 영업이익률이 사상 최고인 80%를 기록했지만, 그런데도 주가는 큰 폭으로 밀렸다. | 9 |
+| [MU](tickers/MU - Micron Technology.md) | 2026-11-17 | ⚪ +0.03 | 10월 한 차례 더 급락했지만, 역대급 실적 발표에도 주가는 눈에 띄게 반응하지 않았다. | 13 |
 
 ### 반도체 — 파운드리 · 패키징 · 기판
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [TSM](tickers/TSM - Taiwan Semiconductor Mfg.md) | 2026-09-22 | 🟢 +0.08 | 대만 남부에 TSMC가 참여하는 첨단 패키징 산업단지가 착공했고 반도체 업종 전반이 반등하며 완만한 순풍이 불었다. | 11 |
-| [AMKR](tickers/AMKR - Amkor Technology, Inc.md) | 2026-09-22 | 🟢 +0.16 | 앰코가 애리조나 첨단패키징 2단계 투자를 70억달러에서 120억달러로 크게 늘리며 AI 수요에 대한 자신감을 보였다. | 6 |
-| [4062.T](tickers/4062.T - Ibiden Co., Ltd.md) | 2026-09-22 | ⚪ 0.00 | 이비덴 자체의 새 소식은 없었고, 고객사 호재와 대만 경쟁사의 증설 압박이 서로 상쇄된 관망 구간이었다. | 4 |
+| [TSM](tickers/TSM - Taiwan Semiconductor Mfg.md) | 2026-11-17 | 🟢 +0.16 | 10월 매출이 사상 최대를 기록하며 AI 반도체 수요 강세가 계속되고 있음을 다시 확인했다. | 7 |
+| [AMKR](tickers/AMKR - Amkor Technology, Inc.md) | 2026-11-17 | 🟢 +0.07 | 3분기 매출은 제자리였지만 수익성이 크게 개선됐고, 중국 지분매각 시한 관련 불확실성은 아직 남아 있다. | 6 |
+| [4062.T](tickers/4062.T - Ibiden Co., Ltd.md) | 2026-11-17 | 🟢 +0.12 | 2분기 실적에서 연간 가이던스를 올해 두 번째로 상향했지만, 대만 경쟁사들의 증설 압박은 계속되고 있다. | 6 |
 
 ### 반도체 — 장비 · 소재
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [ASML](tickers/ASML - ASML Holding NV.md) | 2026-09-22 | 🟢 +0.13 | TSMC까지 ASML의 최신 노광 장비를 채택하며 4대 고객사를 모두 확보했고 주가도 올랐다. | 9 |
-| [AMAT](tickers/AMAT - Applied Materials.md) | 2026-09-22 | 🟢 +0.11 | 어플라이드 머티어리얼즈가 인도에 10년간 5조원 넘게 투자하는 계획을 내놓았고 주가도 일주일 새 크게 올랐다. | 9 |
-| [LRCX](tickers/LRCX - Lam Research Corp.md) | 2026-09-22 | 🟢 +0.09 | 램리서치가 인도에 첫 부품 공장을 짓기로 하며 주가는 최고치를 새로 썼지만 경영진의 주식 매도는 계속됐다. | 5 |
-| [TOELY](tickers/TOELY - Tokyo Electron Limited.md) | 2026-09-22 | 🟢 +0.07 | 도쿄일렉트론이 미국 투자자 접근성을 넓히는 제도를 새로 만들고 인도에 인재 양성 거점도 마련했다. | 6 |
-| [KLAC](tickers/KLAC - KLA Corporation.md) | 2026-09-22 | 🟢 +0.11 | KLA는 대형 증권사가 업종 최선호주로 꼽았고 수주 잔고도 크게 늘어 반등했다. | 4 |
-| [042700.KS](tickers/042700.KS - Hanmi Semiconductor.md) | 2026-09-22 | 🟢 +0.08 | 한미반도체가 대만 파운드리向 2.5D 패키징 장비 공급을 확대했고, 9/14 반도체주 급락도 며칠 만에 반등해 회복했다. | 6 |
-| [6857.T](tickers/6857.T - Advantest Corporation.md) | 2026-09-22 | ⚪ 0.00 | 어드반테스트가 인도 반도체 투자 유치 논의에 참여했지만, 주가는 9/14 AI 속도조절 충격 이후 사상 최고가 대비 20%대 낮은 수준에 머물러 있다. | 2 |
-| [6146.T](tickers/6146.T - DISCO Corporation.md) | 2026-09-22 | ⚪ -0.02 | 디스코 고유의 새 소식은 없었고, 업종 전체를 흔든 9/14 반도체주 급락과 그 이후 반등의 흐름 안에 있다. | 3 |
-| [BESI.AS](tickers/BESI.AS - BE Semiconductor Industries.md) | 2026-09-22 | ⚪ -0.01 | BESI는 9/14 반도체주 급락 속에서도 자사주 매입을 이어가며 경영진의 자신감을 보여줬다. | 3 |
-| [4063.T](tickers/4063.T - Shin-Etsu Chemical.md) | 2026-09-22 | ⚪ -0.04 | 미국의 폴리실리콘 관세 세부 내용이 확정됐지만 한국·일본 등은 경감 조치를 받아 최악은 피했다. | 4 |
+| [ASML](tickers/ASML - ASML Holding NV.md) | 2026-11-17 | 🟢 +0.16 | 3분기 매출이 사상 최고치를 기록하고 공급부족까지 경고했지만, AI주 전반의 투심 악화로 10월 주가는 하락했다. | 9 |
+| [AMAT](tickers/AMAT - Applied Materials.md) | 2026-11-17 | 🟢 +0.07 | AI 투자 둔화 우려로 급락했다가 실적 발표를 앞두고 다시 11%대로 반등했다. | 9 |
+| [LRCX](tickers/LRCX - Lam Research Corp.md) | 2026-11-17 | 🟢 +0.08 | 250억 달러 규모 자사주매입을 승인했지만, 7월말 이후 하락분을 되돌리기엔 아직 부족하다. | 10 |
+| [TOELY](tickers/TOELY - Tokyo Electron Limited.md) | 2026-11-17 | 🟢 +0.19 | 2분기 실적 가이던스를 87% 올리고 신규 자사주매입까지 발표하며 주가가 뛰었다. | 6 |
+| [KLAC](tickers/KLAC - KLA Corporation.md) | 2026-11-17 | ⚪ +0.01 | 실적 발표 후 30% 급락했다가 일주일 만에 9%대로 일부 반등했다. | 6 |
+| [042700.KS](tickers/042700.KS - Hanmi Semiconductor.md) | 2026-11-17 | 🟢🟢 +0.23 | 3분기 영업이익률이 50%까지 개선됐고, 4분기엔 역대 최대 매출을 자체 전망했다. | 5 |
+| [6857.T](tickers/6857.T - Advantest Corporation.md) | 2026-11-17 | 🟢🟢 +0.26 | 2분기 영업이익률이 56%로 사상 최고를 기록하고 가이던스도 14% 올렸다. | 4 |
+| [6146.T](tickers/6146.T - DISCO Corporation.md) | 2026-11-17 | ⚪ -0.03 | 상반기 실적은 예상을 웃돌았지만, 주가는 6월 고점 대비 55%까지 떨어진 상태다. | 5 |
+| [BESI.AS](tickers/BESI.AS - BE Semiconductor Industries.md) | 2026-11-17 | 🟢 +0.19 | 어플라이드 머티어리얼즈가 지분을 20%까지 늘리기로 했고, 하이브리드본딩(칩을 접착제 없이 직접 붙이는 차세대 기술) 수주도 전년의 두 배를 넘었다. | 5 |
+| [4063.T](tickers/4063.T - Shin-Etsu Chemical.md) | 2026-11-17 | 🟢 +0.11 | 계약 외 물량의 웨이퍼 가격을 올리기 시작했고 설비투자 계획도 늘렸다. | 4 |
 
 ### AI 인프라 — 네트워킹 · 광 · 네오클라우드
 

@@ -1,7 +1,7 @@
 ---
 title: "온디바이스 AI 스마트폰 — 시장 종합"
 created: 2026-07-06
-updated: 2026-11-16
+updated: 2026-11-17
 domain: finance
 type: claim
 weight: reference
@@ -45,10 +45,10 @@ NPU 탑재 SoC로 생성형 AI를 단말에서 직접 구동하는 스마트폰.
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| MediaTek | AP-SoC ~40% (물량 1위) · 점유 40% | 🟢 +0.10 (2026-09-22) | 미디어텍이 세계 최초로 최신 공정을 적용한 신형 프리미엄 칩을 출시하며 주가가 오르고 기술 경쟁력을 다시 인정받았다. | [2454.TW](../../tickers/2454.TW - MediaTek Inc.md) |
-| Qualcomm | ~24% 프리미엄 Android · 점유 24% | 🔴 -0.15 (2026-09-22) | 최대 고객사 애플의 주문 물량이 예상보다 더 빨리 줄어들고 있다는 사실이 확인됐다. | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
+| MediaTek | AP-SoC ~40% (물량 1위) · 점유 40% | 🟢 +0.12 (2026-11-17) | 3분기 실적이 예상을 웃돌고 4분기 가이던스도 큰 폭 올렸지만, 삼성·퀄컴의 파운드리 협력이 새로운 경쟁 압박으로 떠올랐다. | [2454.TW](../../tickers/2454.TW - MediaTek Inc.md) |
+| Qualcomm | ~24% 프리미엄 Android · 점유 24% | 🔴 -0.07 (2026-11-17) | 메모리 가격 상승 여파로 가이던스가 부진했지만, 암(Arm)과의 로열티 소송에서는 승소했다. | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
 | Apple | ~17% 자체 A시리즈 · 점유 17% | ⚪ +0.02 (2026-11-16) | 4분기 실적은 예상을 상회했지만 메모리 원가 우려로 주가는 하락했고, 중국向 아이패드·맥용 AI 기능 승인에는 진전이 있었다 | [AAPL](../../tickers/AAPL - Apple Inc.md) |
-| Samsung LSI | ~5% Exynos · 점유 5% | 🟢🟢 +0.34 (2026-09-22) | 반도체 수출이 사상 최대를 기록하며 삼성전자 주가가 하루 만에 5% 급등하고 고속메모리 관련 부품사 주가까지 함께 뛰었다. | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
+| Samsung LSI | ~5% Exynos · 점유 5% | 🟢 +0.16 (2026-11-17) | HBM4 매출이 세 배로 늘고 내년 물량이 모두 팔렸다고 밝혔지만, 열흘 만에 주가는 19% 가까이 빠졌다. | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
 | UNISOC | 저가형 (비상장/중국) · 점유 13% | — | — | 비상장 |
 <!-- PLAYERS_END -->
 

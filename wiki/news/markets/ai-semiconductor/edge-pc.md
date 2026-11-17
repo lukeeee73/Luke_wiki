@@ -1,7 +1,7 @@
 ---
 title: "AI PC — 시장 종합"
 created: 2026-07-06
-updated: 2026-11-16
+updated: 2026-11-17
 domain: finance
 type: claim
 weight: reference
@@ -45,10 +45,10 @@ sources: ["https://counterpointresearch.com/en/reports/ai-advanced-pcs-to-surpas
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Intel | ~45–56% (Core Ultra) · 점유 50% | 🟢🟢 +0.25 (2026-09-22) | 인텔 주가가 하루 만에 12% 급등해 두 달 반 만의 최고치를 찍었다. | [INTC](../../tickers/INTC - Intel Corporation.md) |
+| Intel | ~45–56% (Core Ultra) · 점유 50% | 🔴🔴 -0.30 (2026-11-17) | 지난달 실적 가이던스 충격에 이어 엔비디아가 보유 지분 25%를 매각했다는 공시가 겹치며 주가가 추가로 약해졌다. | [INTC](../../tickers/INTC - Intel Corporation.md) |
 | Apple | ~20–24% 자체 M시리즈 · 점유 22% | ⚪ +0.02 (2026-11-16) | 4분기 실적은 예상을 상회했지만 메모리 원가 우려로 주가는 하락했고, 중국向 아이패드·맥용 AI 기능 승인에는 진전이 있었다 | [AAPL](../../tickers/AAPL - Apple Inc.md) |
-| AMD | #3 (Ryzen AI) · 점유 18% | 🟢🟢 +0.29 (2026-09-22) | 에이엠디 주가가 하루 만에 10% 뛰며 사상 처음으로 기업가치 1조 달러를 넘어섰다. | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
-| Qualcomm | Snapdragon X (Arm, 최고속 성장) · 점유 5% | 🔴 -0.15 (2026-09-22) | 최대 고객사 애플의 주문 물량이 예상보다 더 빨리 줄어들고 있다는 사실이 확인됐다. | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
+| AMD | #3 (Ryzen AI) · 점유 18% | 🟢🟢 +0.26 (2026-11-17) | 3분기 실적이 예상을 크게 웃돈 데다 엔비디아의 리더십 공백에 반사이익까지 더해지며 주가가 급등했다. | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
+| Qualcomm | Snapdragon X (Arm, 최고속 성장) · 점유 5% | 🔴 -0.07 (2026-11-17) | 메모리 가격 상승 여파로 가이던스가 부진했지만, 암(Arm)과의 로열티 소송에서는 승소했다. | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)
