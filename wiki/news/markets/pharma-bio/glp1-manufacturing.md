@@ -1,7 +1,7 @@
 ---
 title: "GLP-1·펩타이드 생산 CAPEX — 시장 종합"
 created: 2026-07-18
-updated: 2026-09-10
+updated: 2026-11-19
 domain: finance
 type: claim
 weight: reference
@@ -47,8 +47,8 @@ sources: ["https://www.fiercepharma.com/manufacturing/novo-nordisk-cuts-hundreds
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Eli Lilly | 美 제조 $50B+ — 자체 수직통합 | 🟢 +0.18 (2026-09-10) | 경쟁사 노바티스의 콜레스테롤 신약 임상 실패로 릴리 자체 파이프라인에도 불확실성이 번졌지만, 비만치료제 사업 자체는 여전히 견조하다 | `LLY` |
-| Novo Nordisk | capex DKK 55B/년 + Catalent 인수 | 🔴🔴 -0.34 (2026-09-10) | 심부전 치료제 임상 2건을 추가로 조기 중단하며 비만 외 파이프라인에서 거듭 실망스러운 소식을 냈고, 반복되는 R&D 부진이 다각화 스토리 신뢰를 흔들고 있다 | `NVO` |
+| Eli Lilly | 美 제조 $50B+ — 자체 수직통합 | 🟢 +0.15 (2026-11-19) | 3분기 실적 호조로 주가가 사상 최고치를 찍었지만, 미국 판매가(순가격)가 10% 떨어지고 이번 주엔 차익실현 매물이 나와 되돌림이 있었다 | `LLY` |
+| Novo Nordisk | capex DKK 55B/년 + Catalent 인수 | 🟢 +0.18 (2026-11-19) | 3분기 실적이 기대를 웃돌아 올해 세 번째로 가이던스를 올렸다. 차세대 비만약 카그리세마가 릴리 약보다 좋은 임상 결과를 냈지만, FDA가 GLP-1 계열 약 전체에 시력 부작용 경고 문구를 의무화해 업종 공통 리스크로 남았다 | `NVO` |
 | Bachem | 펩타이드 CDMO 1위 (스위스) | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `BANB.SW` |
 | PolyPeptide · CordenPharma | 펩타이드 위탁 합성 증설 경쟁 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `PPGN.SW` |
 <!-- PLAYERS_END -->
