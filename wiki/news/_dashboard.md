@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-11-20
+updated: 2026-11-21
 domain: finance
 type: index
 weight: reference
@@ -166,16 +166,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [JPM](tickers/JPM - JPMorgan Chase and Co.md) | 2026-09-19 | 🟢 +0.09 | JPM은 바클레이스 매수 재확인과 체이스 신기능 출시 등 개별 호재가 이어졌지만, 연준 금리인상과 업계 IB 수수료 둔화 경고로 매크로 불확실성이 남아있다 | 7 |
-| [BAC](tickers/BAC - Bank of America Corp.md) | 2026-09-19 | 🔴 -0.07 | 뱅크오브아메리카는 3분기 투자은행 수수료가 10% 넘게 줄어들 것이라는 CEO의 경고로 주가가 5% 급락했다 | 7 |
-| [WFC](tickers/WFC - Wells Fargo and Company.md) | 2026-09-19 | 🟢 +0.07 | 웰스파고는 대출 성장 가이던스 상향 시사와 모바일 해외송금 전국 출시로 사업 모멘텀은 좋았지만 연준 금리인상이 부담으로 남았다 | 4 |
-| [C](tickers/C - Citigroup Inc.md) | 2026-09-19 | 🟢 +0.08 | 씨티그룹은 2026년 수익성 목표를 상향하고 바나멕스 분리 절차도 순항 중이지만, 금리인상 이후 예금 비용 우려로 주가는 조정받았다 | 6 |
-| [GS](tickers/GS - The Goldman Sachs Group.md) | 2026-09-19 | 🔴 -0.06 | 골드만삭스는 3분기 트레이딩 수익 둔화와 비용 증가를 CEO가 직접 경고하며 주가가 4% 빠졌다 | 5 |
-| [MS](tickers/MS - Morgan Stanley.md) | 2026-09-19 | 🟢 +0.07 | 모건스탠리는 앤트로픽 IPO 대표 주관사로 선정되며 성장 모멘텀을 이어갔지만, 자사 전략가가 유가발 시장조정 리스크를 경고했다 | 7 |
-| [V](tickers/V - Visa Inc.md) | 2026-09-19 | ⚪ +0.03 | 비자는 ATM 수수료 담합 소송에 합의하고 DOJ 반독점 소송이 진행 중인 가운데, AI 결제 신뢰도 조사에서는 경쟁사 대비 우위를 확인했다 | 8 |
-| [MA](tickers/MA - Mastercard Incorporated.md) | 2026-09-19 | 🟢 +0.06 | 마스터카드는 AI 에이전트 전용 결제수단을 새로 출시했지만, ATM 수수료 담합 소송 합의로 7,870만달러의 비용 부담이 확정됐다 | 7 |
-| [AXP](tickers/AXP - American Express Company.md) | 2026-09-19 | 🔴 -0.10 | 아멕스는 8월 카드 상각률 상승과 상업 결제 회복 지연 전망이 확인되며 주가가 하루 만에 3.7% 빠졌다 | 9 |
-| [BRK-B](tickers/BRK-B - Berkshire Hathaway.md) | 2026-09-19 | ⚪ -0.01 | 워런 버핏이 60여년 만에 버크셔 회장직에서 물러나고 장남 하워드가 승계하며 '버핏 프리미엄' 약화 우려가 나왔다 | 7 |
+| [JPM](tickers/JPM - JPMorgan Chase and Co.md) | 2026-11-21 | ⚪ -0.02 | JPM은 차기 CFO 인선을 발표했지만 3분기 EPS가 예상치를 밑도는 드문 어닝미스를 기록해 경쟁사(BofA)의 규제 벌금과 함께 경계감이 남아있다 | 8 |
+| [BAC](tickers/BAC - Bank of America Corp.md) | 2026-11-21 | 🔴🔴 -0.22 | 뱅크오브아메리카는 자금세탁·제재법 위반으로 美재무부로부터 12.1억달러의 대규모 벌금을 부과받아 3분기 순이익이 급감했다 | 7 |
+| [WFC](tickers/WFC - Wells Fargo and Company.md) | 2026-11-21 | 🟢🟢 +0.29 | 웰스파고는 대출 성장과 이자수익 호조로 3분기 EPS가 컨센서스를 상회해 견조한 흐름을 이어갔다 | 4 |
+| [C](tickers/C - Citigroup Inc.md) | 2026-11-21 | 🟢🟢 +0.26 | 씨티그룹은 10년 만에 최대 3분기 매출을 기록하며 컨센서스를 웃돌았지만, IB·트레이딩 둔화 우려로 발표 당일 주가는 4% 하락했다 | 6 |
+| [GS](tickers/GS - The Goldman Sachs Group.md) | 2026-11-21 | 🟢🟢 +0.32 | 골드만삭스는 주식 트레이딩 매출이 72% 급증하며 3분기 역대 두 번째 최대 매출을 기록했다 | 5 |
+| [MS](tickers/MS - Morgan Stanley.md) | 2026-11-21 | 🟢🟢 +0.34 | 모건스탠리는 자산관리 매출이 사상 최대치를 기록하고 주식 트레이딩도 41% 급증하며 호실적을 냈다 | 7 |
+| [V](tickers/V - Visa Inc.md) | 2026-11-21 | 🟢 +0.18 | 비자는 FY26 4분기 실적이 컨센서스를 웃돌고 배당을 16% 인상했지만, DOJ 직불카드 독점 소송은 계속 진행 중이다 | 8 |
+| [MA](tickers/MA - Mastercard Incorporated.md) | 2026-11-21 | 🟢🟢 +0.29 | 마스터카드는 매출·EPS가 두 자릿수로 성장하며 목표가가 잇달아 상향됐고, 스테이블코인 플랫폼까지 출시했다 | 7 |
+| [AXP](tickers/AXP - American Express Company.md) | 2026-11-21 | 🟢 +0.17 | 아멕스는 프리미엄 카드 수요에 힘입어 순이익이 27% 늘었지만, AI 전환을 명분으로 인력의 5%를 감원하기로 했다 | 9 |
+| [BRK-B](tickers/BRK-B - Berkshire Hathaway.md) | 2026-11-21 | ⚪ +0.00 | 버크셔는 보험손실로 영업이익이 소폭 줄었지만 자사주매입을 두 배로 늘렸고, 버핏은 가족재단에 주식을 추가로 기부했다 | 7 |
 
 ### 소비재
 
@@ -215,16 +215,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [AMT](tickers/AMT - American Tower Corporation.md) | 2026-09-19 | ⚪ +0.02 | 아메리칸타워는 배당을 인상 없이 유지했고 16억달러 회사채를 5%대 후반 금리로 발행하며 고금리 차환 부담이 구체화됐다 | 7 |
-| [CCI](tickers/CCI - Crown Castle Inc.md) | 2026-09-19 | 🔴 -0.05 | 크라운캐슬은 CFO와 COO를 동시에 교체하는 리더십 개편을 발표해 순수 타워 전환의 실행 리스크 우려가 다시 불거졌다 | 8 |
-| [PLD](tickers/PLD - Prologis, Inc.md) | 2026-09-19 | ⚪ +0.03 | 프롤로지스는 SEGRO 인수 주주총회 일정을 9월 28일로 확정하며 유럽 확장 절차를 예정대로 진행하고 있다 | 6 |
-| [EQIX](tickers/EQIX - Equinix, Inc.md) | 2026-09-19 | ⚪ +0.01 | 에퀴닉스는 컴캐스트와의 신규 연동으로 생태계를 넓혔지만, AI 투자 둔화 우려로 데이터센터 리츠 전반이 조정받았다 | 8 |
-| [DLR](tickers/DLR - Digital Realty Trust.md) | 2026-09-19 | 🟢 +0.06 | 디지털리얼티는 터키 신규 진출과 AI 인프라 수요 서베이로 성장 스토리를 재확인했지만, AI 둔화 우려로 주가는 하루 만에 5% 급락했다 | 7 |
-| [O](tickers/O - Realty Income Corporation.md) | 2026-09-19 | ⚪ -0.02 | 리얼티인컴은 KKR과 유럽 순임대 합작사를 설립했지만, 미즈호의 목표주가 하향과 연준 금리인상이 상쇄 요인으로 작용했다 | 7 |
-| [SPG](tickers/SPG - Simon Property Group.md) | 2026-09-19 | 🟢 +0.05 | 사이먼프로퍼티는 새 브랜드 캠페인과 견조한 임대료·리싱 지표로 프리미엄 몰의 경쟁 우위를 재확인했다 | 2 |
-| [WELL](tickers/WELL - Welltower Inc.md) | 2026-09-19 | 🟢 +0.06 | 웰타워는 제프리스의 신규 매수 커버리지와 15분기 연속 두 자릿수 NOI 성장 재조명으로 고령화 수혜 스토리가 계속 인정받고 있다 | 3 |
-| [PSA](tickers/PSA - Public Storage.md) | 2026-09-19 | 🔴 -0.05 | 퍼블릭스토리지는 캐나다 채권 발행을 마무리했지만, 연준 금리인상으로 조달비용 부담이 커졌다 | 5 |
-| [VICI](tickers/VICI - VICI Properties Inc.md) | 2026-09-19 | 🔴 -0.14 | VICI는 배당락 하락과 목표주가 하향에 더해, 핵심 임차인인 시저스·MGM의 소유구조 변경 논의까지 겹치며 역풍을 맞았다 | 6 |
+| [AMT](tickers/AMT - American Tower Corporation.md) | 2026-11-21 | 🟢🟢 +0.31 | 아메리칸타워는 3분기 AFFO가 컨센서스를 웃돌아 가이던스를 세 번째로 상향했고, 디시와의 미지급 임대료 분쟁도 5.25억달러에 합의했다 | 8 |
+| [CCI](tickers/CCI - Crown Castle Inc.md) | 2026-11-21 | 🟢 +0.14 | 크라운캐슬은 3분기 AFFO가 컨센서스를 웃돌았지만, 디시와의 35억달러 미지급 임대료 분쟁은 경쟁사와 달리 아직 합의에 이르지 못했다 | 9 |
+| [PLD](tickers/PLD - Prologis, Inc.md) | 2026-11-21 | 🟢🟢 +0.29 | 프로로지스는 세그로(SEGRO) 주주들이 188억달러 인수안을 가결시켜 유럽 확장이 확정 단계에 들어섰고 3분기 실적도 견조했다 | 4 |
+| [EQIX](tickers/EQIX - Equinix, Inc.md) | 2026-11-21 | 🟢🟢 +0.33 | 에퀴닉스는 3분기 연속 매출 가이던스를 상향했지만, 전력 공급 제약이 향후 확장의 핵심 병목으로 공식 확인됐다 | 8 |
+| [DLR](tickers/DLR - Digital Realty Trust.md) | 2026-11-21 | 🟢🟢 +0.30 | 디지털리얼티는 3분기 코어FFO가 두 자릿수 성장하고 예약액도 사상 최대를 기록했지만, 레버리지는 전분기보다 높아졌다 | 7 |
+| [O](tickers/O - Realty Income Corporation.md) | 2026-11-21 | 🟢🟢 +0.21 | 리얼티인컴은 137번째 월배당 인상을 발표했고 3분기 AFFO도 컨센서스를 웃돌아 가이던스를 3연속 상향했다 | 7 |
+| [SPG](tickers/SPG - Simon Property Group.md) | 2026-11-21 | 🟢🟢 +0.32 | 사이먼프로퍼티는 몰·아울렛 점유율이 96.5%까지 오르며 3분기 FFO가 컨센서스를 웃돌아 가이던스와 배당을 함께 올렸다 | 2 |
+| [WELL](tickers/WELL - Welltower Inc.md) | 2026-11-21 | 🟢🟢 +0.39 | 웰타워는 정규화FFO가 24.6% 늘며 가이던스를 크게 상향했고, 낮은 레버리지로 리츠 섹터 대비 꾸준한 아웃퍼폼을 이어가고 있다 | 3 |
+| [PSA](tickers/PSA - Public Storage.md) | 2026-11-21 | 🟢 +0.17 | 퍼블릭스토리지는 NSA·캐나다 인수 효과로 3분기 EPS 서프라이즈를 냈지만, 통합 비용으로 순이익은 전년보다 줄었다 | 5 |
+| [VICI](tickers/VICI - VICI Properties Inc.md) | 2026-11-21 | ⚪ -0.02 | VICI는 매출·AFFO가 늘고 20억달러 자사주매입도 승인했지만, 카이사스 신용손실 반영으로 순이익이 55% 급감했다 | 7 |
 
 ### 통신 / 미디어
 
