@@ -1,7 +1,7 @@
 ---
 title: "전력공급·냉각 장비 — 시장 종합"
 created: 2026-07-06
-updated: 2026-11-20
+updated: 2026-11-23
 domain: finance
 type: claim
 weight: reference
@@ -47,7 +47,7 @@ sources: ["https://pv-magazine-usa.com/2026/05/11/u-s-transformer-market-faces-s
 |---|---|---|---|---|
 | Vertiv | 전력+액침냉각 (NVIDIA GB200 레퍼런스) · 점유 22% | 🟢 +0.11 (2026-11-20) | 3분기 매출이 컨센서스를 61% 웃돌며 급등했지만, AI 설비투자 둔화 우려로 이틀간 27% 급락한 뒤 코어위브 실적을 계기로 다시 반등했다 | [VRT](../../tickers/VRT - Vertiv Holdings Co.md) |
 | Eaton | 변압기·스위치기어·PDU · 점유 12% | 🟢🟢 +0.21 (2026-11-20) | 3분기 매출이 28% 늘어 89억달러로 역대 최대를 기록하고 EPS도 2.77달러로 사상 최고였지만, 섹터 전반의 매도세에 일부 동반 노출됐다 | [ETN](../../tickers/ETN - Eaton Corporation plc.md) |
-| Monolithic Power | 고밀도 GPU 전력전달 'last inch' | 🟢🟢 +0.35 (2026-11-16) | 3분기 매출이 처음 10억달러를 넘기며 전력반도체 수요가 자체 목표마저 다시 뛰어넘었다 | [MPWR](../../tickers/MPWR - Monolithic Power Systems.md) |
+| Monolithic Power | 고밀도 GPU 전력전달 'last inch' | ⚪ +0.00 (2026-11-23) | 지난주 급등 이후 이번 주는 새로운 뉴스 없이 조용했다 | [MPWR](../../tickers/MPWR - Monolithic Power Systems.md) |
 | Navitas · Infineon · ON | GaN/SiC 800VDC | watchlist 외 | — | `NVTS` |
 | Schneider Electric | 변압기·스위치기어 (해외) · 점유 12% | — | — | 비상장 |
 <!-- PLAYERS_END -->

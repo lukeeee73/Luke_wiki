@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-11-22
+updated: 2026-11-23
 domain: finance
 type: index
 weight: reference
@@ -39,16 +39,16 @@ sources: []
 
 | Ticker                                          | as_of      | score  | 핵심 한 줄                                         | open claims |
 | ----------------------------------------------- | ---------- | ------ | ----------------------------------------------- | ----------- |
-| [AAPL](tickers/AAPL - Apple Inc.md) | 2026-11-16 | ⚪ +0.02 | 4분기 실적은 예상을 상회했지만 메모리 원가 우려로 주가는 하락했고, 중국向 아이패드·맥용 AI 기능 승인에는 진전이 있었다 | 6 |
-| [MSFT](tickers/MSFT - Microsoft Corporation.md) | 2026-11-16 | 🟢 +0.18 | 애저 성장률이 48%로 가속하며 주가가 사상 최고치를 찍었고, 앤트로픽과 449억달러 규모 애저 계약도 확대했다 | 7 |
-| [GOOGL](tickers/GOOGL - Alphabet Inc.md) | 2026-11-16 | 🔴 -0.14 | 3분기 실적 후 검색광고 성장 둔화와 AI 투자 부담으로 주가가 12%대 급락했고, 새 증권소송까지 겹쳤다 | 11 |
-| [AMZN](tickers/AMZN - Amazon.com Inc.md) | 2026-11-16 | ⚪ +0.04 | AWS 매출이 39% 성장하고 마진도 개선됐지만, 대규모 투자계획 부담 우려로 주가는 약세를 보였다 | 5 |
-| [META](tickers/META - Meta Platforms Inc.md) | 2026-11-16 | 🟢 +0.16 | JPMorgan이 알파벳 대신 메타를 최선호 종목으로 교체하며 주가가 올랐고, 저가형 AI 모델과 주식분할 발표도 이어졌다 | 4 |
-| [ORCL](tickers/ORCL - Oracle Corporation.md) | 2026-11-16 | 🟢 +0.05 | 200억달러 추가 자금조달 발표에 주가가 한번 빠졌지만, 경쟁사 코어위브 실적에 업계 부채 우려가 풀리며 더 크게 반등했다 | 3 |
-| [CRM](tickers/CRM - Salesforce, Inc.md) | 2026-11-16 | ⚪ +0.02 | 음성 AI 기업 크레스타를 인수해 고객서비스 AI 포트폴리오를 넓혔지만, 주가 반응은 미온적이었다 | 5 |
-| [ADBE](tickers/ADBE - Adobe Inc.md) | 2026-11-16 | 🔴 -0.15 | 씨티가 매도로 하향(목표가 207달러)했는데 3주 내 세 번째 하향이라, 신임 CEO 취임을 앞두고 우려가 더 커졌다 | 10 |
-| [IBM](tickers/IBM - International Business Machines.md) | 2026-11-16 | ⚪ +0.03 | 양자프로세서 '나이트호크 R3'와 AMD·오크리지 협력을 발표했지만, 단기 실적과는 무관한 소식이었다 | 6 |
-| [PLTR](tickers/PLTR - Palantir Technologies Inc.md) | 2026-11-16 | 🟢🟢 +0.28 | 3분기 매출이 96% 급증했고 미국 민간기업 매출이 처음으로 정부 매출을 넘어섰지만, 고평가 논쟁은 여전하다 | 5 |
+| [AAPL](tickers/AAPL - Apple Inc.md) | 2026-11-23 | 🔴 -0.17 | 애플이 홀리데이 쿼터 마진 가이던스를 45~46%로 낮추고 메모리 원가를 '사상 초강도'라 표현했지만, 삼성과의 2027년 D램 공급계약 보도로 완화 조짐도 보였다 | 12 |
+| [MSFT](tickers/MSFT - Microsoft Corporation.md) | 2026-11-23 | ⚪ -0.04 | M365가 거의 24시간 글로벌 장애를 겪었지만 사이버공격이 아닌 네트워크 오류로 확인되고 복구됐다 | 15 |
+| [GOOGL](tickers/GOOGL - Alphabet Inc.md) | 2026-11-23 | 🟢 +0.05 | 구글이 8세대 TPU 신규 2종을 공개하며 AI 칩 고객을 100곳 가까이 늘렸지만, 제미나이 개발지연 관련 증권소송 리드원고 선임 시한(12/1)이 다가온다 | 15 |
+| [AMZN](tickers/AMZN - Amazon.com Inc.md) | 2026-11-23 | ⚪ -0.02 | 아마존이 워싱턴주 첫 데이터센터 2곳을 추진하지만 지역 주민 반발과 다른 도시의 모라토리움이 변수로 남아있다 | 13 |
+| [META](tickers/META - Meta Platforms Inc.md) | 2026-11-23 | 🔴 -0.07 | 뉴멕시코 법원이 메타에 美 역대 최대인 250억달러 배상을 명령했고 메타는 항소를 예고했다 | 11 |
+| [ORCL](tickers/ORCL - Oracle Corporation.md) | 2026-11-23 | 🔴 -0.06 | 자체 악재 없이 소프트웨어 업종 셀오프에 동반 하락해 6월 고점 대비 54% 낮은 수준까지 밀렸고 월가 평균 목표가도 크게 낮아졌다 | 15 |
+| [CRM](tickers/CRM - Salesforce, Inc.md) | 2026-11-23 | 🔴 -0.08 | 자체 악재 없이 'AI가 SaaS를 잠식한다'는 업종 공포 속 동종업계 중 가장 크게(-9.5%) 떨어졌고 12/2 실적이 다음 분수령이다 | 16 |
+| [ADBE](tickers/ADBE - Adobe Inc.md) | 2026-11-23 | ⚪ +0.02 | MAX 2026에서 오픈AI·앤트로픽 모델이 포토샵을 직접 조작하는 MCP 연동을 공개했지만 업종 셀오프 속 주가는 중립에 머물렀다 | 15 |
+| [IBM](tickers/IBM - International Business Machines.md) | 2026-11-23 | ⚪ +0.04 | 마이크로소프트와 산업별 AI 에이전트 공동 플랫폼 'Imagine Enterprise'를 출범시켜 소프트웨어 업종 셀오프 속 상대적으로 안정적인 모습을 보였다 | 17 |
+| [PLTR](tickers/PLTR - Palantir Technologies Inc.md) | 2026-11-23 | 🔴 -0.07 | 자체 악재 없이 AI주 전반 매도세에 3거래일 연속 하락했고 IBM-MS의 새 AI 에이전트 연합 등장으로 경쟁도 복잡해졌다 | 17 |
 
 ### 반도체 — AI 칩 · 설계
 
@@ -101,11 +101,11 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [ANET](tickers/ANET - Arista Networks, Inc.md) | 2026-11-16 | 🟢🟢 +0.26 | 3분기 매출이 58.5% 급증했고 2027년 매출 전망도 크게 올려잡았다 | 2 |
-| [COHR](tickers/COHR - Coherent Corp.md) | 2026-11-16 | 🟢 +0.17 | 1분기 실적은 서프라이즈였지만 자금조달 우려로 주가는 급락한 뒤 일부만 되돌렸다 | 3 |
-| [MPWR](tickers/MPWR - Monolithic Power Systems.md) | 2026-11-16 | 🟢🟢 +0.35 | 3분기 매출이 처음 10억달러를 넘기며 전력반도체 수요가 자체 목표마저 다시 뛰어넘었다 | 2 |
-| [CRWV](tickers/CRWV - CoreWeave, Inc.md) | 2026-11-16 | 🟢🟢 +0.28 | 매출은 2배로 늘었지만 이자비용이 더 빠르게 불어나 순손실이 커졌다 | 2 |
-| [NBIS](tickers/NBIS - Nebius Group N.V.md) | 2026-11-16 | ⚪ +0.01 | 매출이 크게 늘었다지만 상당 부분 일회성이었고 데이터센터 공사 지연으로 목표를 낮췄다 | 1 |
+| [ANET](tickers/ANET - Arista Networks, Inc.md) | 2026-11-23 | 🟢 +0.16 | 3분기 깜짝실적 이후에도 AI 인프라주 전반의 급등락에 동반되며 출렁였고, 성장 모멘텀 둔화 우려도 제기됐다 | 7 |
+| [COHR](tickers/COHR - Coherent Corp.md) | 2026-11-23 | 🔴 -0.10 | 경쟁사 루멘텀이 마벨에 1,150억달러로 인수되며 재편이 본격화됐고, BofA는 목표가를 큰 폭 낮췄지만 반대 시각도 나왔다 | 7 |
+| [MPWR](tickers/MPWR - Monolithic Power Systems.md) | 2026-11-23 | ⚪ +0.00 | 지난주 급등 이후 이번 주는 새로운 뉴스 없이 조용했다 | 9 |
+| [CRWV](tickers/CRWV - CoreWeave, Inc.md) | 2026-11-23 | 🟢 +0.16 | 3분기 실적 발표 후 반등세가 이어지며 CFO도 수요가 공급을 초과하는 강한 업황을 재확인했다 | 9 |
+| [NBIS](tickers/NBIS - Nebius Group N.V.md) | 2026-11-23 | 🔴 -0.11 | 데이터센터 가동 지연 우려가 재부각되며 6주 연속 주간 하락을 향하고 있고, 애널리스트들이 목표가를 낮췄다 | 9 |
 
 ### 로보틱스 / 피지컬 AI
 
