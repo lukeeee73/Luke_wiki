@@ -1,7 +1,7 @@
 ---
 title: "데이터센터 네트워킹 — 시장 종합"
 created: 2026-07-06
-updated: 2026-11-17
+updated: 2026-11-23
 domain: finance
 type: claim
 weight: reference
@@ -47,7 +47,7 @@ GPU를 잇는 스위치 패브릭 — 스케일업(NVLink)과 스케일아웃(In
 |---|---|---|---|---|
 | NVIDIA | NVLink 스케일업 준독점 + Spectrum-X · 점유 40% | 🔴🔴 -0.25 (2026-11-17) | CEO 젠슨 황이 외도 스캔들로 사임하며 주가가 6주 연속 하락, 시가총액 1.7조 달러가 증발했고 오늘 밤 실적 발표가 분수령이다. | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
 | Broadcom | 머천트 스위치 실리콘(Tomahawk) | ⚪ -0.02 (2026-11-17) | 한 증권사의 목표가 하향과 엔비디아 위기에 대한 반사수혜가 동시에 겹치며 주가가 혼조세를 보였다. | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
-| Arista | DC 이더넷 ~19% · 점유 20% | 🟢🟢 +0.26 (2026-11-16) | 3분기 매출이 58.5% 급증했고 2027년 매출 전망도 크게 올려잡았다 | [ANET](../../tickers/ANET - Arista Networks, Inc.md) |
+| Arista | DC 이더넷 ~19% · 점유 20% | 🟢 +0.16 (2026-11-23) | 3분기 깜짝실적 이후에도 AI 인프라주 전반의 급등락에 동반되며 출렁였고, 성장 모멘텀 둔화 우려도 제기됐다 | [ANET](../../tickers/ANET - Arista Networks, Inc.md) |
 | Cisco | 기존 강자, AI 점유율 하락 · 점유 15% | watchlist 외 | — | `CSCO` |
 | Marvell | DPU·커스텀 실리콘 | 🔴 -0.19 (2026-11-17) | 루멘텀 대형 인수 발표 후 한 증권사가 목표가를 크게 낮췄고, 엔비디아 리더십 위기에도 동반 하락했다. | [MRVL](../../tickers/MRVL - Marvell Technology, Inc.md) |
 <!-- PLAYERS_END -->
