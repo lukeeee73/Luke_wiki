@@ -1,7 +1,7 @@
 ---
 title: "식각·증착 장비 — 시장 종합"
 created: 2026-07-06
-updated: 2026-11-17
+updated: 2026-11-24
 domain: finance
 type: claim
 weight: reference
@@ -45,9 +45,9 @@ sources: ["https://www.semi.org/en/semi-press-release/global-total-semiconductor
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Applied Materials | 종합 1위 (~30–35%) · 점유 30% | 🟢 +0.07 (2026-11-17) | AI 투자 둔화 우려로 급락했다가 실적 발표를 앞두고 다시 11%대로 반등했다. | [AMAT](../../tickers/AMAT - Applied Materials.md) |
-| Lam Research | 식각·증착 (메모리 강세) · 점유 20% | 🟢 +0.08 (2026-11-17) | 250억 달러 규모 자사주매입을 승인했지만, 7월말 이후 하락분을 되돌리기엔 아직 부족하다. | [LRCX](../../tickers/LRCX - Lam Research Corp.md) |
-| Tokyo Electron | 코터/디벨로퍼 1위 · 점유 18% | 🟢 +0.19 (2026-11-17) | 2분기 실적 가이던스를 87% 올리고 신규 자사주매입까지 발표하며 주가가 뛰었다. | [TOELY](../../tickers/TOELY - Tokyo Electron Limited.md) |
+| Applied Materials | 종합 1위 (~30–35%) · 점유 30% | 🟢 +0.18 (2026-11-24) | 사상 최대 실적을 냈는데도 업종 매도세에 급락했다가 이후 반등했다. | [AMAT](../../tickers/AMAT - Applied Materials.md) |
+| Lam Research | 식각·증착 (메모리 강세) · 점유 20% | 🟢 +0.18 (2026-11-24) | 250억 달러 규모 자사주매입·배당 승인 이후 장비주 중 가장 큰 폭으로 반등했다. | [LRCX](../../tickers/LRCX - Lam Research Corp.md) |
+| Tokyo Electron | 코터/디벨로퍼 1위 · 점유 18% | 🟢🟢 +0.24 (2026-11-24) | 연간 순이익 50% 증가 전망과 반도체 장비 시장 성장 전망을 내놓으며 장비주 중 가장 강한 순풍을 탔다. | [TOELY](../../tickers/TOELY - Tokyo Electron Limited.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)

@@ -1,7 +1,7 @@
 ---
 title: "네오클라우드 · GPU 클라우드 — 시장 종합"
 created: 2026-07-06
-updated: 2026-11-23
+updated: 2026-11-24
 domain: finance
 type: claim
 weight: reference
@@ -50,7 +50,7 @@ sources: ["https://www.srgresearch.com/articles/neoclouds-currently-growing-by-o
 | CoreWeave | 최대 독립 네오클라우드 — Q1’26 매출 $2.08B(+112%), 잔고 $99.4B | 🟢 +0.16 (2026-11-23) | 3분기 실적 발표 후 반등세가 이어지며 CFO도 수요가 공급을 초과하는 강한 업황을 재확인했다 | [CRWV](../../tickers/CRWV - CoreWeave, Inc.md) |
 | Nebius | 2위권 급성장 — 잔고 ~$50B(Meta·MS), 계약전력 3GW+ | 🔴 -0.11 (2026-11-23) | 데이터센터 가동 지연 우려가 재부각되며 6주 연속 주간 하락을 향하고 있고, 애널리스트들이 목표가를 낮췄다 | [NBIS](../../tickers/NBIS - Nebius Group N.V.md) |
 | Oracle OCI | 준네오클라우드 — OpenAI Stargate $300B, capex/매출 76% | 🟢 +0.05 (2026-11-16) | 200억달러 추가 자금조달 발표에 주가가 한번 빠졌지만, 경쟁사 코어위브 실적에 업계 부채 우려가 풀리며 더 크게 반등했다 | [ORCL](../../tickers/ORCL - Oracle Corporation.md) |
-| NVIDIA | 공급자 겸 앵커 투자자 — $110B+ 순환금융의 중심 | 🔴🔴 -0.25 (2026-11-17) | CEO 젠슨 황이 외도 스캔들로 사임하며 주가가 6주 연속 하락, 시가총액 1.7조 달러가 증발했고 오늘 밤 실적 발표가 분수령이다. | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
+| NVIDIA | 공급자 겸 앵커 투자자 — $110B+ 순환금융의 중심 | 🟢 +0.12 (2026-11-24) | 리더십 공백 속에서도 3분기 매출이 103% 급증하며 서프라이즈를 냈고, 이사회는 젠슨 황의 복귀는 없다고 공식 확인했다. | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
 | Crusoe · Lambda · Together | 비상장 — 에너지 연계·MS 계약·추론 특화 | — | — | 비상장 |
 | IREN · Cipher · Core Scientific | 채굴사→AI 전환 — 전력자산 재평가 (MS $9.7B 등) | watchlist 외 | — | `IREN` |
 <!-- PLAYERS_END -->
