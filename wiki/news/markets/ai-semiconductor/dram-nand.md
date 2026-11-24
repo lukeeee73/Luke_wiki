@@ -1,7 +1,7 @@
 ---
 title: "범용 DRAM·NAND — 시장 종합"
 created: 2026-07-06
-updated: 2026-11-17
+updated: 2026-11-24
 domain: finance
 type: claim
 weight: reference
@@ -45,9 +45,9 @@ sources: ["https://www.idc.com/resource-center/blog/global-memory-shortage-crisi
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Samsung | DRAM/NAND 1위 · 점유 40% | 🟢 +0.16 (2026-11-17) | HBM4 매출이 세 배로 늘고 내년 물량이 모두 팔렸다고 밝혔지만, 열흘 만에 주가는 19% 가까이 빠졌다. | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
-| SK Hynix | DRAM 2위 + Solidigm · 점유 34% | 🟢 +0.19 (2026-11-17) | 3분기 영업이익률이 사상 최고인 80%를 기록했지만, 그런데도 주가는 큰 폭으로 밀렸다. | [000660.KS](../../tickers/000660.KS - SK Hynix.md) |
-| Micron | DRAM/NAND 3강 · 점유 22% | ⚪ +0.03 (2026-11-17) | 10월 한 차례 더 급락했지만, 역대급 실적 발표에도 주가는 눈에 띄게 반응하지 않았다. | [MU](../../tickers/MU - Micron Technology.md) |
+| Samsung | DRAM/NAND 1위 · 점유 40% | 🟢 +0.15 (2026-11-24) | 애플과의 D램 장기공급계약이 마무리 단계에 들어갔고 D램 가격도 추가 상승이 예상된다. | [005930.KS](../../tickers/005930.KS - Samsung Electronics.md) |
+| SK Hynix | DRAM 2위 + Solidigm · 점유 34% | 🟢 +0.14 (2026-11-24) | 내년 영업이익 80조원 전망에 목표가가 12% 올랐지만, 중국 다롄 공장은 장비 라이선스 미승인으로 차질을 겪고 있다. | [000660.KS](../../tickers/000660.KS - SK Hynix.md) |
+| Micron | DRAM/NAND 3강 · 점유 22% | 🟢 +0.08 (2026-11-24) | D램 가격이 10~15% 더 오를 것이란 전망에도 주가는 한 달간 20% 빠졌고, 삼성·SK하이닉스 대비 상대적으로 뒤처진 모습이다. | [MU](../../tickers/MU - Micron Technology.md) |
 | Kioxia | NAND 주요 공급사 | watchlist 외 | — | `285A.T` |
 | SanDisk | NAND (구 WD) | watchlist 외 | — | `SNDK` |
 <!-- PLAYERS_END -->

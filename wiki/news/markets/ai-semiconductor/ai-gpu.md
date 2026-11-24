@@ -1,7 +1,7 @@
 ---
 title: "AI 가속기 (GPU) — 시장 종합"
 created: 2026-07-06
-updated: 2026-11-17
+updated: 2026-11-24
 domain: finance
 type: claim
 weight: reference
@@ -47,9 +47,9 @@ AI 학습·추론을 돌리는 데이터센터 GPU — 프런티어 AI의 지배
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| NVIDIA | GPU 출하 ~90% · 가속기 매출 80–85% · 점유 85% | 🔴🔴 -0.25 (2026-11-17) | CEO 젠슨 황이 외도 스캔들로 사임하며 주가가 6주 연속 하락, 시가총액 1.7조 달러가 증발했고 오늘 밤 실적 발표가 분수령이다. | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
-| AMD | ~5–8% (MI350/MI400) · 점유 8% | 🟢🟢 +0.26 (2026-11-17) | 3분기 실적이 예상을 크게 웃돈 데다 엔비디아의 리더십 공백에 반사이익까지 더해지며 주가가 급등했다. | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
-| Intel | <1% (Gaudi) · 점유 1% | 🔴🔴 -0.30 (2026-11-17) | 지난달 실적 가이던스 충격에 이어 엔비디아가 보유 지분 25%를 매각했다는 공시가 겹치며 주가가 추가로 약해졌다. | [INTC](../../tickers/INTC - Intel Corporation.md) |
+| NVIDIA | GPU 출하 ~90% · 가속기 매출 80–85% · 점유 85% | 🟢 +0.12 (2026-11-24) | 리더십 공백 속에서도 3분기 매출이 103% 급증하며 서프라이즈를 냈고, 이사회는 젠슨 황의 복귀는 없다고 공식 확인했다. | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
+| AMD | ~5–8% (MI350/MI400) · 점유 8% | ⚪ -0.01 (2026-11-24) | 숏셀러가 AMD 펌웨어의 중국 제재대상 서버 유출 의혹을 제기해 주가가 급락했지만, 엔비디아가 실적으로 반사이익 기대를 누르는 모습도 겹쳤다. | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
+| Intel | <1% (Gaudi) · 점유 1% | 🟢 +0.17 (2026-11-24) | 18A 공정의 익명 외부 고객을 처음 확보했고 마이크로소프트가 EMIB 패키징 첫 고객이 되며 파운드리 사업에 숨통이 트였다. | [INTC](../../tickers/INTC - Intel Corporation.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)

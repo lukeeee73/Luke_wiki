@@ -1,7 +1,7 @@
 ---
 title: "데이터센터 네트워킹 — 시장 종합"
 created: 2026-07-06
-updated: 2026-11-23
+updated: 2026-11-24
 domain: finance
 type: claim
 weight: reference
@@ -45,11 +45,11 @@ GPU를 잇는 스위치 패브릭 — 스케일업(NVLink)과 스케일아웃(In
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| NVIDIA | NVLink 스케일업 준독점 + Spectrum-X · 점유 40% | 🔴🔴 -0.25 (2026-11-17) | CEO 젠슨 황이 외도 스캔들로 사임하며 주가가 6주 연속 하락, 시가총액 1.7조 달러가 증발했고 오늘 밤 실적 발표가 분수령이다. | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
-| Broadcom | 머천트 스위치 실리콘(Tomahawk) | ⚪ -0.02 (2026-11-17) | 한 증권사의 목표가 하향과 엔비디아 위기에 대한 반사수혜가 동시에 겹치며 주가가 혼조세를 보였다. | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
+| NVIDIA | NVLink 스케일업 준독점 + Spectrum-X · 점유 40% | 🟢 +0.12 (2026-11-24) | 리더십 공백 속에서도 3분기 매출이 103% 급증하며 서프라이즈를 냈고, 이사회는 젠슨 황의 복귀는 없다고 공식 확인했다. | [NVDA](../../tickers/NVDA - NVIDIA Corporation.md) |
+| Broadcom | 머천트 스위치 실리콘(Tomahawk) | 🟢 +0.08 (2026-11-24) | 반도체 업종 전반의 매도세에서 벗어나 AI 인프라 수요가 재확인됐지만 밸류에이션 부담은 여전하다. | [AVGO](../../tickers/AVGO - Broadcom Inc.md) |
 | Arista | DC 이더넷 ~19% · 점유 20% | 🟢 +0.16 (2026-11-23) | 3분기 깜짝실적 이후에도 AI 인프라주 전반의 급등락에 동반되며 출렁였고, 성장 모멘텀 둔화 우려도 제기됐다 | [ANET](../../tickers/ANET - Arista Networks, Inc.md) |
 | Cisco | 기존 강자, AI 점유율 하락 · 점유 15% | watchlist 외 | — | `CSCO` |
-| Marvell | DPU·커스텀 실리콘 | 🔴 -0.19 (2026-11-17) | 루멘텀 대형 인수 발표 후 한 증권사가 목표가를 크게 낮췄고, 엔비디아 리더십 위기에도 동반 하락했다. | [MRVL](../../tickers/MRVL - Marvell Technology, Inc.md) |
+| Marvell | DPU·커스텀 실리콘 | ⚪ -0.01 (2026-11-24) | 12/1 실적 발표를 앞둔 공백기에 업종 셀오프로 주가가 떨어졌지만 신규 이사 선임 등 거버넌스 보강이 있었다. | [MRVL](../../tickers/MRVL - Marvell Technology, Inc.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)

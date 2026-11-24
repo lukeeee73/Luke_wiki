@@ -1,7 +1,7 @@
 ---
 title: "AI PC — 시장 종합"
 created: 2026-07-06
-updated: 2026-11-17
+updated: 2026-11-24
 domain: finance
 type: claim
 weight: reference
@@ -45,10 +45,10 @@ sources: ["https://counterpointresearch.com/en/reports/ai-advanced-pcs-to-surpas
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Intel | ~45–56% (Core Ultra) · 점유 50% | 🔴🔴 -0.30 (2026-11-17) | 지난달 실적 가이던스 충격에 이어 엔비디아가 보유 지분 25%를 매각했다는 공시가 겹치며 주가가 추가로 약해졌다. | [INTC](../../tickers/INTC - Intel Corporation.md) |
+| Intel | ~45–56% (Core Ultra) · 점유 50% | 🟢 +0.17 (2026-11-24) | 18A 공정의 익명 외부 고객을 처음 확보했고 마이크로소프트가 EMIB 패키징 첫 고객이 되며 파운드리 사업에 숨통이 트였다. | [INTC](../../tickers/INTC - Intel Corporation.md) |
 | Apple | ~20–24% 자체 M시리즈 · 점유 22% | ⚪ +0.02 (2026-11-16) | 4분기 실적은 예상을 상회했지만 메모리 원가 우려로 주가는 하락했고, 중국向 아이패드·맥용 AI 기능 승인에는 진전이 있었다 | [AAPL](../../tickers/AAPL - Apple Inc.md) |
-| AMD | #3 (Ryzen AI) · 점유 18% | 🟢🟢 +0.26 (2026-11-17) | 3분기 실적이 예상을 크게 웃돈 데다 엔비디아의 리더십 공백에 반사이익까지 더해지며 주가가 급등했다. | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
-| Qualcomm | Snapdragon X (Arm, 최고속 성장) · 점유 5% | 🔴 -0.07 (2026-11-17) | 메모리 가격 상승 여파로 가이던스가 부진했지만, 암(Arm)과의 로열티 소송에서는 승소했다. | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
+| AMD | #3 (Ryzen AI) · 점유 18% | ⚪ -0.01 (2026-11-24) | 숏셀러가 AMD 펌웨어의 중국 제재대상 서버 유출 의혹을 제기해 주가가 급락했지만, 엔비디아가 실적으로 반사이익 기대를 누르는 모습도 겹쳤다. | [AMD](../../tickers/AMD - Advanced Micro Devices.md) |
+| Qualcomm | Snapdragon X (Arm, 최고속 성장) · 점유 5% | ⚪ +0.00 (2026-11-24) | 자체 뉴스 없이 반도체 업종 급락과 반등에 동반됐지만 자동차 부문 성장은 꾸준히 이어지고 있다. | [QCOM](../../tickers/QCOM - QUALCOMM Incorporated.md) |
 <!-- PLAYERS_END -->
 
 ## 시장 뉴스 로그 (최신순)
