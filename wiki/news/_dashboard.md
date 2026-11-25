@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-11-24
+updated: 2026-11-25
 domain: finance
 type: index
 weight: reference
@@ -111,26 +111,26 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [TER](tickers/TER - Teradyne, Inc.md) | 2026-11-18 | 🟢 +0.18 | 3분기 실적이 컨센서스를 크게 상회하며 AI 칩 테스트 수요 강세를 재확인했다. | 3 |
-| [HSAI](tickers/HSAI - Hesai Group.md) | 2026-11-18 | ⚪ +0.02 | 매출은 늘었지만 핵심 라이다 사업 목표는 낮췄고 로봇向 사업이 그 공백을 메웠다. | 3 |
-| [MP](tickers/MP - MP Materials Corp.md) | 2026-11-18 | 🔴 -0.05 | 3분기 실적 해석이 매체마다 엇갈렸고 주가는 52주 신저가를 기록했다. | 8 |
-| [6954.T](tickers/6954.T - FANUC Corporation.md) | 2026-11-18 | 🟢 +0.17 | 상반기 실적 호조로 연간 매출 전망을 사상 최고치로 상향했다. | 2 |
-| [6324.T](tickers/6324.T - Harmonic Drive Systems.md) | 2026-11-18 | 🟢 +0.06 | 2분기 이익 서프라이즈로 주가가 반등했지만 10월 급락분은 아직 회복하지 못했다. | 2 |
+| [TER](tickers/TER - Teradyne, Inc.md) | 2026-11-25 | ⚪ +0.00 | 11/18 갱신 이후 고유 뉴스는 확인되지 않았고, 반도체 장비株 전반의 변동성만 배경으로 남아있다. | 3 |
+| [HSAI](tickers/HSAI - Hesai Group.md) | 2026-11-25 | ⚪ +0.00 | 11/18 실적 반영 이후 고유 신규 뉴스는 확인되지 않았다. | 3 |
+| [MP](tickers/MP - MP Materials Corp.md) | 2026-11-25 | 🟢 +0.16 | GM向 자석 매출 반영 일정이 추가 확인되고 미중 희토류 수출통제 유예도 연장됐지만, 공급망 리스크 완화는 희소성 프리미엄 서사를 옅게 할 수 있다. | 9 |
+| [6954.T](tickers/6954.T - FANUC Corporation.md) | 2026-11-25 | ⚪ +0.00 | 11/18 갱신 이후 고유 신규 뉴스는 확인되지 않았다. | 2 |
+| [6324.T](tickers/6324.T - Harmonic Drive Systems.md) | 2026-11-25 | ⚪ +0.00 | 11/18 갱신 이후 고유 신규 뉴스는 확인되지 않았다. | 2 |
 
 ### 자동차 / 모빌리티
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [TSLA](tickers/TSLA - Tesla Inc.md) | 2026-11-18 | 🟢 +0.09 | 로보택시가 샌안토니오로 확장되며 주가가 뛰었지만, 사이버트럭 예약금 환불·감산 시사가 상쇄 요인으로 남았다. | 7 |
-| [TM](tickers/TM - Toyota Motor Corporation.md) | 2026-11-18 | 🟢🟢 +0.22 | 실적 전망 상향과 890억달러 주주환원 계획 발표로 주가가 10% 급등했다. | 6 |
-| [F](tickers/F - Ford Motor Company.md) | 2026-11-18 | 🔴 -0.08 | 뚜렷한 개별 악재 없이도 11월 둘째 주 주가가 약세를 이어갔고 목표가도 하향됐다. | 7 |
-| [GM](tickers/GM - General Motors Company.md) | 2026-11-18 | 🟢 +0.17 | 나스닥 이전·신용등급 상향·200억달러 자사주매입이 겹치며 투자 매력이 강화됐다. | 6 |
-| [STLA](tickers/STLA - Stellantis NV.md) | 2026-11-18 | 🔴 -0.10 | 신임 COO 선임에도 11월 한 달간 주가가 17.67% 더 빠지며 사상 최저치에 근접했다. | 7 |
-| [HMC](tickers/HMC - Honda Motor Co.md) | 2026-11-18 | 🟢 +0.09 | 가이던스를 올렸지만 주가는 오히려 연중 최저치 근처에 머무는 괴리가 나타났다. | 6 |
-| [RIVN](tickers/RIVN - Rivian Automotive.md) | 2026-11-18 | 🟢 +0.19 | 3분기 매출이 38% 늘고 UBS가 매수로 상향하며 R2 수요가 숫자로 확인됐다. | 8 |
-| [NIO](tickers/NIO - NIO Inc.md) | 2026-11-18 | 🔴 -0.10 | 10월 인도량이 31개월 만에 처음 줄었지만 연간 누적은 여전히 역대 최고다. | 8 |
-| [005380.KS](tickers/005380.KS - Hyundai Motor Company.md) | 2026-11-18 | 🟢 +0.10 | 11월 고유 뉴스는 없었지만 10월 미국 판매가 5% 늘며 완만한 회복을 이어갔다. | 6 |
-| [000270.KS](tickers/000270.KS - Kia Corporation.md) | 2026-11-18 | 🟢 +0.17 | 10월 미국 판매가 16% 늘며 역대 10월 최고치를 기록했다. | 4 |
+| [TSLA](tickers/TSLA - Tesla Inc.md) | 2026-11-25 | ⚪ -0.02 | 스페이스X-테슬라 합병 12월 발표 가능성이 보도됐지만, 3분기 영업이익률 급락이 재확인되며 종합적으로는 중립에 가깝다. | 8 |
+| [TM](tickers/TM - Toyota Motor Corporation.md) | 2026-11-25 | ⚪ +0.01 | 고유 실적 뉴스는 없었지만 북미법인의 질서있는 경영권 승계 발표가 경쟁사들의 어수선한 소식과 대비됐다. | 7 |
+| [F](tickers/F - Ford Motor Company.md) | 2026-11-25 | 🔴 -0.07 | 11/17 하루 반등에도 주간 기준 약세가 이어졌고, 모건스탠리·RBC 등이 추가로 목표가를 낮췄다. | 7 |
+| [GM](tickers/GM - General Motors Company.md) | 2026-11-25 | 🔴 -0.05 | GM파이낸셜 감원과 반도체 공급 병목 경고가 겹치며 나스닥 이전 이후 반등세가 한 주 만에 꺾였다. | 7 |
+| [STLA](tickers/STLA - Stellantis NV.md) | 2026-11-25 | 🔴 -0.07 | 고유 사업 뉴스는 없었지만 주가가 추가 신저가($3.64)를 기록하며 턴어라운드 기대가 여전히 멀다는 점이 재확인됐다. | 7 |
+| [HMC](tickers/HMC - Honda Motor Co.md) | 2026-11-25 | 🔴 -0.06 | 넥스페리아발 반도체 공급위기로 온타리오 공장이 감산했다가 11/6 절반 가동으로 복귀했다. | 7 |
+| [RIVN](tickers/RIVN - Rivian Automotive.md) | 2026-11-25 | ⚪ +0.02 | 로보틱스 자회사가 공장자동화 목표를 공개해 장기 비용개선 기대를 키웠지만, 전동자전거 자회사 배송 중단이라는 결함 이슈도 함께 나왔다. | 9 |
+| [NIO](tickers/NIO - NIO Inc.md) | 2026-11-25 | ⚪ +0.00 | 3분기 실적발표를 12월1일로 확정했고 오늘 광저우 혁신기술일을 열었지만, 구체적 공개 내용은 아직 보도되지 않았다. | 8 |
+| [005380.KS](tickers/005380.KS - Hyundai Motor Company.md) | 2026-11-25 | ⚪ +0.00 | 이번 주 현대차 고유의 검증 가능한 신규 뉴스는 확인되지 않았다. | 6 |
+| [000270.KS](tickers/000270.KS - Kia Corporation.md) | 2026-11-25 | ⚪ +0.00 | 이번 주 기아 고유의 검증 가능한 신규 뉴스는 확인되지 않았다. | 4 |
 
 ### 바이오 / 제약 / 헬스케어
 
@@ -275,9 +275,9 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [329180.KS](tickers/329180.KS - HD Hyundai Heavy Industries.md) | 2026-11-18 | 🟢 +0.16 | 美 데이터센터 전력시스템 역대 최대 수주와 안두릴과의 무인수상정 공동개발 등 방산·비조선 다각화가 뚜렷해졌다. | 11 |
-| [042660.KS](tickers/042660.KS - Hanwha Ocean Co.md) | 2026-11-18 | 🟢 +0.10 | 필라델피아조선소 인수 후 처음으로 美 해군 신규 건조계약을 따내며 상징적 성과를 거뒀다. | 12 |
-| [010140.KS](tickers/010140.KS - Samsung Heavy Industries.md) | 2026-11-18 | 🟢 +0.13 | 3분기 영업이익이 42% 늘었지만 증권가 목표가는 잇달아 낮춰졌다. | 9 |
+| [329180.KS](tickers/329180.KS - HD Hyundai Heavy Industries.md) | 2026-11-25 | 🔴 -0.05 | LPG운반선 신규 수주와 방산 다각화가 이어졌지만, 뒤늦게 확인된 3분기 순손실 전환으로 목표주가가 잇달아 하향됐다. | 12 |
+| [042660.KS](tickers/042660.KS - Hanwha Ocean Co.md) | 2026-11-25 | 🟢 +0.08 | VLCC 2척을 추가 수주하며 누적 수주가 85억달러를 넘었고, 환율 여건도 우호적으로 유지되고 있다. | 12 |
+| [010140.KS](tickers/010140.KS - Samsung Heavy Industries.md) | 2026-11-25 | 🟢 +0.15 | LNG운반선 추가 수주로 연간 수주 목표 91%를 채우며 조선 3사 중 가장 앞선 수주 흐름을 이어갔다. | 10 |
 | [010620.KS](tickers/010620.KS - HD Hyundai Mipo Dockyard Co. Ltd.md) | 2026-08-19 | — | ⚠️ 2025-12-01 HD현대중공업(329180.KS)에 흡수합병되어 상장폐지됨 — 앞으로는 HD현대중공업 로그에서 다룬다 (watchlist_data.py 정리 필요) | 1 |
 
 ## 최근 시그널
