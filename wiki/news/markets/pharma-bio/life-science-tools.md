@@ -1,7 +1,7 @@
 ---
 title: "연구 도구 · 시퀀싱 — 시장 종합"
 created: 2026-07-18
-updated: 2026-11-19
+updated: 2026-11-26
 domain: finance
 type: claim
 weight: reference
@@ -47,7 +47,7 @@ sources: ["https://www.prnewswire.com/news-releases/illumina-expands-billion-cel
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Thermo Fisher | 종합 1위 — 장비·시약·서비스 | 🟢 +0.17 (2026-11-19) | 3분기 실적이 시장 예상을 넘었고 연간 가이던스를 올해 두 번째로 올리며 전반적으로 순풍이 불었다 | `TMO` |
+| Thermo Fisher | 종합 1위 — 장비·시약·서비스 | ⚪ +0.03 (2026-11-26) | 고유 뉴스는 제한적이었고, CEO가 2027년부터 바이오텍 투자 회복에 따른 성장 재가속을 전망한 정도였다 | `TMO` |
 | Danaher | 진단+바이오텍 툴 복합 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `DHR` |
 | Illumina | 시퀀싱 ~80% — NIH 삭감 직격 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `ILMN` |
 | Agilent | 분석기기 (질량분석·크로마토) | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `A` |

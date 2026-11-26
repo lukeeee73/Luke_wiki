@@ -1,7 +1,7 @@
 ---
 title: "ABT - Abbott Laboratories — Routine News Log"
 created: 2026-05-16
-updated: 2026-11-19
+updated: 2026-11-26
 domain: finance
 type: claim
 weight: reference
@@ -103,6 +103,40 @@ sources: []
 ## 일자별 기록 (역순)
 
 <!-- DAILY_START -->
+
+### 2026-11-26 (목) — 신호등: 🟢 순풍 (+0.17)
+
+**세 줄 요약**
+1. 애봇의 심장 리드 UltiSynq가 미국·유럽에서 동시에 승인을 받았다.
+2. 차세대 경동맥판막 시스템 Encantor의 유럽·호주 임상도 새로 시작됐다.
+3. 리어링크 파트너스는 메드테크 업종 호조를 근거로 투자의견과 목표가를 함께 올렸다.
+
+**뉴스 브리핑**
+
+**① 심장 리드 UltiSynq, FDA 승인과 CE 마크 동시 획득** 🟢
+- **무슨 일**: 전도계 페이싱(심장의 자연스러운 전기 신호 경로를 활용하는 심박 조율 방식)과 디피브릴레이션(제세동)을 함께 지원하는 리드 UltiSynq가 미국 FDA 승인과 유럽 CE 마크를 동시에 받았다. ASCEND CSP 임상에서 환자 205명 중 202명이 성공적으로 시술받았고, 합병증 없는 비율이 97.5%였다.
+- **왜 중요**: 두 지역 동시 승인은 상업화 속도를 크게 높인다. 임상 데이터도 안전성·유효성을 뒷받침한다.
+- **주가에 의미**: 중장기 호재. 심장 리듬 관리 사업부의 성장 동력이 하나 더 추가됐다.
+- 출처: [MedTech Dive](https://www.medtechdive.com/news/abbotts-defibrillation-lead-lands-fda-approval-and-ce-mark/874474/) · 2026-11-10
+
+**② 차세대 TAVI 시스템 Encantor, 유럽·호주 임상(VOYAGER) 착수** 🟢
+- **무슨 일**: 풍선확장형 TAVI(경피적 대동맥판막시술, 가슴을 열지 않고 카테터로 심장판막을 교체하는 시술) 시스템 Encantor의 유럽·호주 임상이 시작됐다. 아직 투자적 단계로 미국 등 주요 시장에서는 승인받지 않았다.
+- **왜 중요**: 기존 자사 제품(자가확장형 Navitor)과 다른 방식의 판막을 추가해, 더 다양한 환자군을 공략할 수 있는 포트폴리오를 구축하려는 전략이다.
+- **주가에 의미**: 장기 호재이나 승인까지 수년이 걸려 당장의 매출 영향은 없다.
+- 출처: [HMP Global Learning Network](https://www.hmpgloballearningnetwork.com/site/cathlab/press-release/abbott-initiates-voyager-clinical-trial-investigational-encantor) · 2026-11-24
+
+**③ 리어링크, 투자의견 상향·목표가 $106→$124** 🟢
+- **무슨 일**: 리어링크 파트너스가 메드테크(의료기기) 업종 전반의 호조를 근거로 애봇 투자의견을 '시장수익률'에서 '아웃퍼폼'으로, 목표가를 $106에서 $124로 올렸다.
+- **왜 중요**: 개별 제품 호재에 이어 업종 전반에 대한 긍정적 시각까지 더해졌다.
+- **주가에 의미**: 완만한 호재.
+- 출처: [Goldesel.de (Leerink Partners 리포트 인용)](https://goldesel.de/aktien/news/abbott-laboratories-aktie-leerink-stuft-auf-outperform-hoch-und-hebt-kursziel-auf-124-dollar) · 2026-11-19
+
+**경쟁 구도 한눈에**
+- 써모피셔 CEO가 2027년부터 바이오텍 지출 회복에 따른 성장 재가속을 전망 → 생명과학 장비 수요 회복 기대가 ABT 진단·장비 부문에도 우호적인 매크로 신호로 작용할 수 있다.
+
+**앞으로 지켜볼 것**
+- [ ] UltiSynq의 실제 상업화·채택 속도 — 확인할 것: 다음 분기 실적에서 심장 리듬 관리 부문 매출 성장률
+- [ ] Encantor 임상의 유럽 CE 마크 획득 시점 — 확인할 것: VOYAGER 임상 데이터 발표와 규제 신청 여부
 
 ### 2026-11-19 (목) — 신호등: 🟢 순풍 (+0.05)
 

@@ -1,7 +1,7 @@
 ---
 title: "지불자 (보험·정부 약가) — 시장 종합"
 created: 2026-07-18
-updated: 2026-11-19
+updated: 2026-11-26
 domain: finance
 type: claim
 weight: reference
@@ -48,7 +48,7 @@ sources: ["https://www.cnbc.com/2026/06/30/medicare-obesity-drug-glp-1-coverage-
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
 | Medicare / Medicaid (CMS) | 최대 단일 지불자 — IRA 약가협상·MFN 모델 주관 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | 비상장 |
-| UnitedHealth | 최대 민간보험 + Optum Rx (PBM 3강) | ⚪ +0.03 (2026-11-19) | 정부의 부정수급 단속 강화 방침이 리스크로 떠올랐지만, 3분기 실적 호조와 이사회 보강이 맞물려 전체적으로는 잔잔한 흐름이었다 | `UNH` |
+| UnitedHealth | 최대 민간보험 + Optum Rx (PBM 3강) | 🔴 -0.14 (2026-11-26) | 정부의 메디케어 어드밴티지 부정수급 단속 강화 방침에 주가가 10% 넘게 급락했고, 그 후 투자자 대상 증권소송 조사까지 시작됐다 | `UNH` |
 | CVS Health (Aetna) | 보험 + Caremark PBM 수직통합 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `CVS` |
 | Cigna (Evernorth) | Express Scripts PBM | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `CI` |
 | Elevance | 블루크로스 계열 대형 보험 | — (수집 전) | 신규 편입 — 첫 뉴스 수집 대기 | `ELV` |
