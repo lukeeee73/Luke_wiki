@@ -1,7 +1,7 @@
 ---
 title: "전력 생산·전력망 — 시장 종합"
 created: 2026-07-06
-updated: 2026-11-20
+updated: 2026-11-27
 domain: finance
 type: claim
 weight: reference
@@ -47,10 +47,10 @@ AI 데이터센터에 전기를 공급하는 발전·전력계약·전력망 접
 <!-- PLAYERS_START -->
 | 기업 | 역할 | 최근 시그널 | 핵심 한 줄 | 로그 |
 |---|---|---|---|---|
-| Constellation | 미 최대 원자력 (MS TMI 재가동) | 🟢🟢 +0.31 (2026-11-20) | 3분기 EPS가 5.06달러로 서프라이즈를 내고 가이던스도 올렸으며, 에너지부로부터 50억달러 규모 원전 증설 대출까지 확보해 텍사스 선거발 매도세를 상쇄했다 | [CEG](../../tickers/CEG - Constellation Energy.md) |
-| Vistra | 원자력+가스 | 🔴 -0.06 (2026-11-20) | 텍사스 주지사 당선자의 데이터센터 유예 공약 소식에 주가가 14% 급락했고, 3분기 실적 서프라이즈로도 이를 다 메우지 못했다 | [VST](../../tickers/VST - Vistra Corp.md) |
-| NextEra | 신재생 1위 (Dominion 딜) | 🟢 +0.13 (2026-11-20) | 버지니아 SCC가 넥스테라·도미니언 합병 심리를 본격 개시(조건 수용)했고 3분기 실적도 양호했다 | [NEE](../../tickers/NEE - NextEra Energy.md) |
-| GE Vernova | 가스터빈 (2030까지 예약) + SMR | 🟢🟢 +0.27 (2026-11-20) | 3분기 수주가 96% 늘고 백로그는 1,970억달러로 역대 최대를 기록했으며, 트렌치그룹을 90억달러에 인수해 고압변압기 생산능력을 직접 확보했다 | [GEV](../../tickers/GEV - GE Vernova Inc.md) |
+| Constellation | 미 최대 원자력 (MS TMI 재가동) | ⚪ +0.00 (2026-11-27) | 실적 서프라이즈는 이미 반영됐고, 12월 PJM 용량경매가 다음 촉매로 남아있어 이번 주는 조용했다 | [CEG](../../tickers/CEG - Constellation Energy.md) |
+| Vistra | 원자력+가스 | ⚪ +0.00 (2026-11-27) | 선거발 충격과 실적 반등 모두 이미 반영됐고, 내년 1월 신임 주지사 취임이 다음 변수로 남아있어 이번 주는 조용했다 | [VST](../../tickers/VST - Vistra Corp.md) |
+| NextEra | 신재생 1위 (Dominion 딜) | ⚪ -0.02 (2026-11-27) | 버지니아 SCC의 넥스테라-도미니언 합병 심리가 추수감사절을 넘어 다음 주까지 연장됐고, 그 외 큰 변화는 없었다 | [NEE](../../tickers/NEE - NextEra Energy.md) |
+| GE Vernova | 가스터빈 (2030까지 예약) + SMR | 🔴 -0.07 (2026-11-27) | AI 설비투자 과잉 우려로 8월 고점 대비 24% 하락했지만, SF6-free 스위치기어 신제품과 독일 풍력 수주 등 펀더멘털은 유지됐다 | [GEV](../../tickers/GEV - GE Vernova Inc.md) |
 | Talen | Susquehanna/AWS PPA | watchlist 외 | — | `TLN` |
 <!-- PLAYERS_END -->
 
