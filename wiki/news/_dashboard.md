@@ -1,7 +1,7 @@
 ---
 title: "Watchlist News Dashboard"
 created: 2026-05-16
-updated: 2026-11-27
+updated: 2026-11-28
 domain: finance
 type: index
 weight: reference
@@ -166,16 +166,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [JPM](tickers/JPM - JPMorgan Chase and Co.md) | 2026-11-21 | ⚪ -0.02 | JPM은 차기 CFO 인선을 발표했지만 3분기 EPS가 예상치를 밑도는 드문 어닝미스를 기록해 경쟁사(BofA)의 규제 벌금과 함께 경계감이 남아있다 | 8 |
-| [BAC](tickers/BAC - Bank of America Corp.md) | 2026-11-21 | 🔴🔴 -0.22 | 뱅크오브아메리카는 자금세탁·제재법 위반으로 美재무부로부터 12.1억달러의 대규모 벌금을 부과받아 3분기 순이익이 급감했다 | 7 |
-| [WFC](tickers/WFC - Wells Fargo and Company.md) | 2026-11-21 | 🟢🟢 +0.29 | 웰스파고는 대출 성장과 이자수익 호조로 3분기 EPS가 컨센서스를 상회해 견조한 흐름을 이어갔다 | 4 |
-| [C](tickers/C - Citigroup Inc.md) | 2026-11-21 | 🟢🟢 +0.26 | 씨티그룹은 10년 만에 최대 3분기 매출을 기록하며 컨센서스를 웃돌았지만, IB·트레이딩 둔화 우려로 발표 당일 주가는 4% 하락했다 | 6 |
-| [GS](tickers/GS - The Goldman Sachs Group.md) | 2026-11-21 | 🟢🟢 +0.32 | 골드만삭스는 주식 트레이딩 매출이 72% 급증하며 3분기 역대 두 번째 최대 매출을 기록했다 | 5 |
-| [MS](tickers/MS - Morgan Stanley.md) | 2026-11-21 | 🟢🟢 +0.34 | 모건스탠리는 자산관리 매출이 사상 최대치를 기록하고 주식 트레이딩도 41% 급증하며 호실적을 냈다 | 7 |
-| [V](tickers/V - Visa Inc.md) | 2026-11-21 | 🟢 +0.18 | 비자는 FY26 4분기 실적이 컨센서스를 웃돌고 배당을 16% 인상했지만, DOJ 직불카드 독점 소송은 계속 진행 중이다 | 8 |
-| [MA](tickers/MA - Mastercard Incorporated.md) | 2026-11-21 | 🟢🟢 +0.29 | 마스터카드는 매출·EPS가 두 자릿수로 성장하며 목표가가 잇달아 상향됐고, 스테이블코인 플랫폼까지 출시했다 | 7 |
-| [AXP](tickers/AXP - American Express Company.md) | 2026-11-21 | 🟢 +0.17 | 아멕스는 프리미엄 카드 수요에 힘입어 순이익이 27% 늘었지만, AI 전환을 명분으로 인력의 5%를 감원하기로 했다 | 9 |
-| [BRK-B](tickers/BRK-B - Berkshire Hathaway.md) | 2026-11-21 | ⚪ +0.00 | 버크셔는 보험손실로 영업이익이 소폭 줄었지만 자사주매입을 두 배로 늘렸고, 버핏은 가족재단에 주식을 추가로 기부했다 | 7 |
+| [JPM](tickers/JPM - JPMorgan Chase and Co.md) | 2026-11-28 | ⚪ -0.02 | JP모건은 외부 벤더발 고객정보 유출과 전국 은행 전산장애를 겪었지만, 자체 리서치팀은 AI 호황을 근거로 내년 증시 목표를 올리며 자신감을 보였다 | 9 |
+| [BAC](tickers/BAC - Bank of America Corp.md) | 2026-11-28 | ⚪ -0.02 | 뱅크오브아메리카는 버크셔의 지분 축소와 업계 공동 전산장애가 겹쳐 주가가 한 주 동안 7.8% 빠졌지만, 새로운 매수의견과 제휴 연장 소식도 함께 나왔다 | 8 |
+| [WFC](tickers/WFC - Wells Fargo and Company.md) | 2026-11-28 | ⚪ -0.01 | 웰스파고는 업계 공동 전산장애에 함께 노출된 것 외에는 고유의 새 소식 없이 조용한 한 주를 보냈다 | 4 |
+| [C](tickers/C - Citigroup Inc.md) | 2026-11-28 | ⚪ -0.01 | 씨티그룹은 특별한 자체 소식 없이 조용했고, 매달 나오는 카드 연체율 공시만 확인됐다 | 6 |
+| [GS](tickers/GS - The Goldman Sachs Group.md) | 2026-11-28 | 🟢 +0.16 | 골드만삭스가 대표주관한 앤트로픽 상장이 사상 최대 규모로 흥행하며 수수료 수익에 긍정적이다 | 5 |
+| [MS](tickers/MS - Morgan Stanley.md) | 2026-11-28 | 🟢 +0.13 | 모건스탠리가 참여한 앤트로픽 상장이 사상 최대 규모로 흥행하며 투자은행 부문 수익에도 긍정적인 신호다 | 7 |
+| [V](tickers/V - Visa Inc.md) | 2026-11-28 | ⚪ -0.02 | 비자는 이번 주 조용했고, 해외 지역 외부업체에서 발생한 소규모 정보유출(결제정보는 포함 안 됨)만 확인됐다 | 9 |
+| [MA](tickers/MA - Mastercard Incorporated.md) | 2026-11-28 | 🟢 +0.10 | 마스터카드는 홀리데이 매출이 늘어날 것이란 전망과 함께, 카드사를 압박하는 수수료 규제법안이 계속 상임위에 머물러 규제 부담도 줄었다 | 8 |
+| [AXP](tickers/AXP - American Express Company.md) | 2026-11-28 | ⚪ +0.04 | 아멕스는 조용했지만 10월 카드 연체율이 8월보다 개선되며 신용 우려를 다소 덜었다 | 8 |
+| [BRK-B](tickers/BRK-B - Berkshire Hathaway.md) | 2026-11-28 | ⚪ +0.01 | 버크셔는 3분기에 알파벳 매수를 멈추고 순매도로 돌아섰지만, 옥시켐·테일러모리슨 인수를 마무리하고 주택건설주 지분을 늘리는 선별적 투자는 이어갔다 | 8 |
 
 ### 소비재
 
@@ -215,16 +215,16 @@ sources: []
 
 | Ticker | as_of | score | 핵심 한 줄 | open claims |
 |---|---|---|---|---|
-| [AMT](tickers/AMT - American Tower Corporation.md) | 2026-11-21 | 🟢🟢 +0.31 | 아메리칸타워는 3분기 AFFO가 컨센서스를 웃돌아 가이던스를 세 번째로 상향했고, 디시와의 미지급 임대료 분쟁도 5.25억달러에 합의했다 | 8 |
-| [CCI](tickers/CCI - Crown Castle Inc.md) | 2026-11-21 | 🟢 +0.14 | 크라운캐슬은 3분기 AFFO가 컨센서스를 웃돌았지만, 디시와의 35억달러 미지급 임대료 분쟁은 경쟁사와 달리 아직 합의에 이르지 못했다 | 9 |
-| [PLD](tickers/PLD - Prologis, Inc.md) | 2026-11-21 | 🟢🟢 +0.29 | 프로로지스는 세그로(SEGRO) 주주들이 188억달러 인수안을 가결시켜 유럽 확장이 확정 단계에 들어섰고 3분기 실적도 견조했다 | 4 |
-| [EQIX](tickers/EQIX - Equinix, Inc.md) | 2026-11-21 | 🟢🟢 +0.33 | 에퀴닉스는 3분기 연속 매출 가이던스를 상향했지만, 전력 공급 제약이 향후 확장의 핵심 병목으로 공식 확인됐다 | 8 |
-| [DLR](tickers/DLR - Digital Realty Trust.md) | 2026-11-21 | 🟢🟢 +0.30 | 디지털리얼티는 3분기 코어FFO가 두 자릿수 성장하고 예약액도 사상 최대를 기록했지만, 레버리지는 전분기보다 높아졌다 | 7 |
-| [O](tickers/O - Realty Income Corporation.md) | 2026-11-21 | 🟢🟢 +0.21 | 리얼티인컴은 137번째 월배당 인상을 발표했고 3분기 AFFO도 컨센서스를 웃돌아 가이던스를 3연속 상향했다 | 7 |
-| [SPG](tickers/SPG - Simon Property Group.md) | 2026-11-21 | 🟢🟢 +0.32 | 사이먼프로퍼티는 몰·아울렛 점유율이 96.5%까지 오르며 3분기 FFO가 컨센서스를 웃돌아 가이던스와 배당을 함께 올렸다 | 2 |
-| [WELL](tickers/WELL - Welltower Inc.md) | 2026-11-21 | 🟢🟢 +0.39 | 웰타워는 정규화FFO가 24.6% 늘며 가이던스를 크게 상향했고, 낮은 레버리지로 리츠 섹터 대비 꾸준한 아웃퍼폼을 이어가고 있다 | 3 |
-| [PSA](tickers/PSA - Public Storage.md) | 2026-11-21 | 🟢 +0.17 | 퍼블릭스토리지는 NSA·캐나다 인수 효과로 3분기 EPS 서프라이즈를 냈지만, 통합 비용으로 순이익은 전년보다 줄었다 | 5 |
-| [VICI](tickers/VICI - VICI Properties Inc.md) | 2026-11-21 | ⚪ -0.02 | VICI는 매출·AFFO가 늘고 20억달러 자사주매입도 승인했지만, 카이사스 신용손실 반영으로 순이익이 55% 급감했다 | 7 |
+| [AMT](tickers/AMT - American Tower Corporation.md) | 2026-11-28 | ⚪ +0.01 | 아메리칸타워는 지난주 반영된 내용 외 새로운 소식이 없었고, 디시와의 분쟁 해결 절차만 계속 대기 중이다 | 8 |
+| [CCI](tickers/CCI - Crown Castle Inc.md) | 2026-11-28 | 🔴 -0.07 | 크라운캐슬은 디시와 아직 합의 논의도 시작하지 않았다고 확인되며, 경쟁사 아메리칸타워와의 격차가 더 벌어졌다 | 7 |
+| [PLD](tickers/PLD - Prologis, Inc.md) | 2026-11-28 | ⚪ +0.00 | 프로로지스는 세그로 인수 주주승인 이후 새로운 소식 없이 조용했고, 남은 법원·규제 승인만 진행 중이다 | 5 |
+| [EQIX](tickers/EQIX - Equinix, Inc.md) | 2026-11-28 | ⚪ +0.00 | 에퀴닉스는 3분기 실적 발표 이후 새로운 소식 없이 조용한 한 주를 보냈다 | 7 |
+| [DLR](tickers/DLR - Digital Realty Trust.md) | 2026-11-28 | ⚪ +0.00 | 디지털리얼티는 지분 확대 보도 이후 새로운 소식 없이 조용한 한 주를 보냈다 | 5 |
+| [O](tickers/O - Realty Income Corporation.md) | 2026-11-28 | ⚪ +0.00 | 리얼티인컴은 추수감사절 연휴로 새 소식이 없었고, 지난주의 배당 인상 흐름이 유지되고 있다 | 7 |
+| [SPG](tickers/SPG - Simon Property Group.md) | 2026-11-28 | ⚪ +0.00 | 사이먼프로퍼티는 새 소식이 없었지만, 경쟁사의 자산별 부실이 계속되며 우량자산 중심 전략의 우위가 재확인됐다 | 2 |
+| [WELL](tickers/WELL - Welltower Inc.md) | 2026-11-28 | ⚪ +0.00 | 웰타워는 새 소식 없이 조용했고, 주가는 52주 신고가에 가까운 수준을 유지하고 있다 | 3 |
+| [PSA](tickers/PSA - Public Storage.md) | 2026-11-28 | ⚪ +0.01 | 퍼블릭스토리지는 4분기 배당을 동결했지만, 경쟁사 대비 성장 속도는 여전히 뒤처진다 | 5 |
+| [VICI](tickers/VICI - VICI Properties Inc.md) | 2026-11-28 | 🔴 -0.05 | VICI는 최대 임차인 카이사스 인수가 주주승인을 받았지만 규제심사 연장으로 거래 종결이 내년 중반으로 미뤄졌다 | 7 |
 
 ### 통신 / 미디어
 
